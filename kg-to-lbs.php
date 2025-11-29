@@ -32,7 +32,11 @@ $canonicalUrl = $isDynamicPage ?
 ?>
 <title><?php echo htmlspecialchars($pageTitle); ?></title>
 <meta name="description" content="<?php echo htmlspecialchars($pageDescription); ?>">
+<?php if ($isDynamicPage): ?>
+<meta name="keywords" content="<?php echo $inputValue; ?> kg to lbs, <?php echo $inputValue; ?> kilograms to pounds, <?php echo number_format($outputValue, 2); ?> pounds, weight converter <?php echo $inputValue; ?>kg, fitness calculator <?php echo $inputValue; ?>kg, body weight conversion">
+<?php else: ?>
 <meta name="keywords" content="kilogram to pound 2025, kg lbs converter, weight unit conversion 2025, fitness weight calculator, kg lbs conversion">
+<?php endif; ?>
 <link rel="canonical" href="<?php echo htmlspecialchars($canonicalUrl); ?>">
 
 <!-- Open Graph Meta Tags -->
@@ -54,6 +58,41 @@ $canonicalUrl = $isDynamicPage ?
 <meta name="robots" content="index, follow">
 <meta name="theme-color" content="#dc2626">
 
+<?php if ($isDynamicPage): ?>
+<!-- Schema.org Structured Data for Dynamic Page -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "WebApplication",
+  "name": "KG to LBS Converter - <?php echo $inputValue; ?> kg",
+  "description": "<?php echo addslashes($pageDescription); ?>",
+  "url": "<?php echo $canonicalUrl; ?>",
+  "applicationCategory": "UtilityApplication",
+  "operatingSystem": "Web Browser",
+  "offers": {
+    "@type": "Offer",
+    "price": "0",
+    "priceCurrency": "USD"
+  },
+  "featureList": [
+    "Convert <?php echo $inputValue; ?> kilograms to pounds",
+    "Instant calculation: <?php echo $inputValue; ?> kg = <?php echo number_format($outputValue, 4); ?> lbs",
+    "Real-time weight conversion",
+    "Mobile responsive design",
+    "Copy results to clipboard"
+  ],
+  "mainEntity": {
+    "@type": "Question",
+    "name": "How much is <?php echo $inputValue; ?> kg in pounds?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "<?php echo $inputValue; ?> kilograms equals <?php echo number_format($outputValue, 4); ?> pounds. The conversion uses the standard factor: 1 kg = 2.20462 lbs."
+    }
+  }
+}
+</script>
+<?php endif; ?>
+
 <style>
   .input-focus:focus {
     box-shadow: 0 0 0 3px rgba(220, 38, 38, 0.1);
@@ -62,8 +101,51 @@ $canonicalUrl = $isDynamicPage ?
 </style>
 
 <main class="min-h-screen bg-gradient-to-br from-red-50 via-orange-50 to-yellow-50">
+  <!-- Breadcrumb Navigation -->
+  <nav class="pt-16 pb-4" aria-label="Breadcrumb">
+    <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+      <ol class="flex items-center space-x-2 text-sm" itemscope itemtype="https://schema.org/BreadcrumbList">
+        <li itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem">
+          <a href="/" class="text-blue-600 hover:text-blue-800 transition-colors" itemprop="item">
+            <span itemprop="name">Home</span>
+            <meta itemprop="position" content="1">
+          </a>
+        </li>
+        <li class="text-gray-400">
+          <i class="fas fa-chevron-right text-xs" aria-hidden="true"></i>
+        </li>
+        <li itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem">
+          <span class="text-blue-600" itemprop="name">Weight Converters</span>
+          <meta itemprop="position" content="2">
+        </li>
+        <li class="text-gray-400">
+          <i class="fas fa-chevron-right text-xs" aria-hidden="true"></i>
+        </li>
+        <li itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem">
+          <?php if ($isDynamicPage): ?>
+          <a href="/kg-to-lbs" class="text-blue-600 hover:text-blue-800 transition-colors" itemprop="item">
+            <span itemprop="name">KG to LBS Converter</span>
+            <meta itemprop="position" content="3">
+          </a>
+        </li>
+        <li class="text-gray-400">
+          <i class="fas fa-chevron-right text-xs" aria-hidden="true"></i>
+        </li>
+        <li itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem">
+          <span class="text-gray-700 font-medium" itemprop="name"><?php echo number_format($inputValue, ($inputValue == intval($inputValue)) ? 0 : 2); ?> KG to LBS</span>
+          <meta itemprop="position" content="4">
+        </li>
+          <?php else: ?>
+          <span class="text-gray-700 font-medium" itemprop="name">KG to LBS Converter</span>
+          <meta itemprop="position" content="3">
+        </li>
+          <?php endif; ?>
+      </ol>
+    </div>
+  </nav>
+
   <!-- Hero Section -->
-  <section class="pt-20 pb-12">
+  <section class="pt-8 pb-12">
     <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
       <div class="text-center">
         <h1 class="text-4xl md:text-5xl font-bold text-gray-900 mb-6">
@@ -394,6 +476,112 @@ $canonicalUrl = $isDynamicPage ?
       </div>
     </article>
   </section>
+
+  <!-- Conversion Table Section -->
+  <section class="max-w-4xl mx-auto mt-8 px-4">
+    <article class="bg-white rounded-xl shadow-lg p-8">
+      <h2 class="text-2xl font-bold text-gray-800 mb-6 flex items-center gap-3">
+        <i class="fas fa-table text-red-600" aria-hidden="true"></i>
+        <?php if ($isDynamicPage): ?>
+        Related KG to LBS Conversions (Near <?php echo number_format($inputValue, ($inputValue == intval($inputValue)) ? 0 : 2); ?> kg)
+        <?php else: ?>
+        KG to LBS Conversion Table
+        <?php endif; ?>
+      </h2>
+      
+      <div class="overflow-x-auto">
+        <table class="w-full border-collapse border border-gray-300">
+          <thead>
+            <tr class="bg-gray-50">
+              <th class="border border-gray-300 px-4 py-3 text-left font-semibold text-gray-800">Kilograms (kg)</th>
+              <th class="border border-gray-300 px-4 py-3 text-left font-semibold text-gray-800">Pounds (lbs)</th>
+              <th class="border border-gray-300 px-4 py-3 text-left font-semibold text-gray-800">Context</th>
+            </tr>
+          </thead>
+          <tbody>
+            <?php 
+            $tableValues = [];
+            if ($isDynamicPage) {
+                // For dynamic pages, show values around the input
+                $start = max(1, $inputValue - 4);
+                $end = min(1000, $inputValue + 4);
+                for ($i = $start; $i <= $end; $i++) {
+                    $tableValues[] = $i;
+                }
+            } else {
+                // For static page, show common values
+                $tableValues = [50, 55, 60, 65, 70, 75, 80, 85, 90, 95, 100];
+            }
+            
+            foreach ($tableValues as $kg): 
+                $lbs = $kg * 2.20462;
+                $isCurrentValue = ($isDynamicPage && $kg == $inputValue);
+                $rowClass = $isCurrentValue ? 'bg-red-50 font-semibold' : 'hover:bg-gray-50';
+                
+                // Context based on weight
+                $context = '';
+                if ($kg <= 5) $context = 'Light objects/infants';
+                elseif ($kg <= 20) $context = 'Children/pets';
+                elseif ($kg <= 40) $context = 'Teenagers/small adults';
+                elseif ($kg <= 60) $context = 'Average female weight';
+                elseif ($kg <= 80) $context = 'Average male weight';
+                elseif ($kg <= 100) $context = 'Above average weight';
+                else $context = 'Heavy weight/athletes';
+            ?>
+            <tr class="<?php echo $rowClass; ?>">
+              <td class="border border-gray-300 px-4 py-3">
+                <?php echo $kg; ?> kg
+                <?php if ($isCurrentValue): ?>
+                <i class="fas fa-arrow-left text-red-600 ml-2" aria-hidden="true"></i>
+                <?php endif; ?>
+              </td>
+              <td class="border border-gray-300 px-4 py-3 font-medium <?php echo $isCurrentValue ? 'text-red-700' : 'text-red-600'; ?>">
+                <?php echo number_format($lbs, 2); ?> lbs
+              </td>
+              <td class="border border-gray-300 px-4 py-3 text-gray-600"><?php echo $context; ?></td>
+            </tr>
+            <?php endforeach; ?>
+          </tbody>
+        </table>
+      </div>
+      
+      <?php if ($isDynamicPage): ?>
+      <!-- Quick Links to Related Conversions -->
+      <div class="mt-6 bg-red-50 rounded-lg p-4">
+        <h3 class="font-semibold text-gray-800 mb-3">Quick Links to Nearby Conversions</h3>
+        <div class="flex flex-wrap gap-2">
+          <?php 
+          $quickLinks = [];
+          for ($i = max(1, $inputValue - 2); $i <= min(1000, $inputValue + 2); $i++) {
+              if ($i != $inputValue) $quickLinks[] = $i;
+          }
+          foreach ($quickLinks as $link): 
+              $linkLbs = $link * 2.20462;
+          ?>
+          <a href="/kg-to-lbs/<?php echo $link; ?>" class="px-3 py-1 bg-white rounded text-sm text-blue-600 hover:text-blue-800 hover:bg-blue-50 transition-colors border">
+            <?php echo $link; ?> kg (<?php echo number_format($linkLbs, 1); ?> lbs)
+          </a>
+          <?php endforeach; ?>
+        </div>
+      </div>
+      <?php endif; ?>
+      
+      <!-- Conversion Formula -->
+      <div class="mt-6 bg-gray-50 rounded-lg p-4">
+        <h3 class="font-semibold text-gray-800 mb-2 flex items-center gap-2">
+          <i class="fas fa-calculator text-red-600" aria-hidden="true"></i>
+          Conversion Formula
+        </h3>
+        <div class="text-gray-700">
+          <p class="mb-2"><strong>To convert kilograms to pounds:</strong></p>
+          <p class="font-mono bg-white p-2 rounded border">Pounds = Kilograms × 2.20462</p>
+          <?php if ($isDynamicPage): ?>
+          <p class="mt-2 text-sm">For your conversion: <?php echo number_format($inputValue, ($inputValue == intval($inputValue)) ? 0 : 2); ?> × 2.20462 = <?php echo number_format($outputValue, 4); ?> lbs</p>
+          <?php endif; ?>
+        </div>
+      </div>
+    </article>
+  </section>
 </main>
 
 <script>
@@ -460,5 +648,285 @@ window.addEventListener('DOMContentLoaded', () => {
   updateConversion();
 });
 </script>
+
+<?php if ($isDynamicPage): ?>
+  <!-- Dynamic Content Section -->
+  <section class="max-w-4xl mx-auto mt-8 px-4">
+    <article class="bg-white rounded-xl shadow-lg p-8">
+      <h2 class="text-2xl font-bold text-gray-800 mb-6 flex items-center gap-3">
+        <i class="fas fa-info-circle text-red-600" aria-hidden="true"></i>
+        About Converting <?php echo number_format($inputValue, ($inputValue == intval($inputValue)) ? 0 : 2); ?> Kilograms to Pounds
+      </h2>
+      
+      <div class="prose max-w-none">
+        <div class="bg-red-50 rounded-lg p-6 mb-6">
+          <h3 class="text-xl font-semibold text-red-800 mb-3">Quick Conversion Summary</h3>
+          <div class="grid md:grid-cols-2 gap-4">
+            <div>
+              <p class="font-medium text-gray-800">Input Weight:</p>
+              <p class="text-2xl font-bold text-red-600"><?php echo number_format($inputValue, ($inputValue == intval($inputValue)) ? 0 : 2); ?> kg</p>
+            </div>
+            <div>
+              <p class="font-medium text-gray-800">Converted Weight:</p>
+              <p class="text-2xl font-bold text-red-600"><?php echo number_format($outputValue, 4); ?> lbs</p>
+            </div>
+          </div>
+        </div>
+        
+        <h3 class="text-xl font-semibold mb-3">Step-by-Step Conversion</h3>
+        <div class="bg-gray-50 p-4 rounded-lg mb-6">
+          <ol class="list-decimal list-inside space-y-2 text-gray-700">
+            <li>Start with <?php echo number_format($inputValue, ($inputValue == intval($inputValue)) ? 0 : 2); ?> kilograms</li>
+            <li>Multiply by the conversion factor: 2.20462</li>
+            <li>Calculate: <?php echo number_format($inputValue, ($inputValue == intval($inputValue)) ? 0 : 2); ?> × 2.20462 = <?php echo number_format($outputValue, 4); ?></li>
+            <li>Result: <?php echo number_format($outputValue, 4); ?> pounds</li>
+          </ol>
+        </div>
+        
+        <h3 class="text-xl font-semibold mb-3">Real-World Context</h3>
+        <?php
+        $context = '';
+        $category = '';
+        if($inputValue <= 1) {
+            $context = 'This weight is typical for very light objects like small books, smartphones, or food portions.';
+            $category = 'Very Light Objects';
+        } elseif($inputValue <= 5) {
+            $context = 'This weight range includes items like laptops, small bags, or newborn babies.';
+            $category = 'Light Objects';
+        } elseif($inputValue <= 20) {
+            $context = 'This weight is common for toddlers, carry-on luggage, or medium-sized pets like cats.';
+            $category = 'Medium Objects';
+        } elseif($inputValue <= 40) {
+            $context = 'This weight range includes children, large suitcases, or big dogs.';
+            $category = 'Heavy Objects';
+        } elseif($inputValue <= 70) {
+            $context = 'This is a typical adult weight range for many people worldwide, especially in Asia and Europe.';
+            $category = 'Human Weight - Light to Average';
+        } elseif($inputValue <= 100) {
+            $context = 'This represents average to above-average adult weight, common in North America and Europe.';
+            $category = 'Human Weight - Average to Heavy';
+        } elseif($inputValue <= 150) {
+            $context = 'This represents heavier adult weights, athletes, or very tall individuals.';
+            $category = 'Human Weight - Heavy';
+        } else {
+            $context = 'This represents very heavy weights, possibly for industrial applications, large equipment, or specialized use cases.';
+            $category = 'Very Heavy Objects';
+        }
+        ?>
+        <div class="bg-blue-50 rounded-lg p-4 mb-6">
+          <p class="font-semibold text-blue-800 mb-2">Category: <?php echo $category; ?></p>
+          <p class="text-gray-700"><?php echo $context; ?></p>
+        </div>
+        
+        <h3 class="text-xl font-semibold mb-3">Common Uses for This Weight</h3>
+        <div class="grid md:grid-cols-2 gap-4">
+          <?php if($inputValue <= 5): ?>
+          <ul class="list-disc list-inside text-gray-700 space-y-1">
+            <li>Kitchen ingredients and food portions</li>
+            <li>Small electronics and gadgets</li>
+            <li>Books and documents</li>
+            <li>Jewelry and accessories</li>
+          </ul>
+          <ul class="list-disc list-inside text-gray-700 space-y-1">
+            <li>Craft and hobby materials</li>
+            <li>Small tools and hardware</li>
+            <li>Cosmetics and toiletries</li>
+            <li>Smartphone and tablet weights</li>
+          </ul>
+          <?php elseif($inputValue <= 20): ?>
+          <ul class="list-disc list-inside text-gray-700 space-y-1">
+            <li>Laptop computers</li>
+            <li>Small to medium pets</li>
+            <li>Carry-on luggage</li>
+            <li>Sports equipment</li>
+          </ul>
+          <ul class="list-disc list-inside text-gray-700 space-y-1">
+            <li>Small furniture items</li>
+            <li>Kitchen appliances</li>
+            <li>Exercise weights</li>
+            <li>Baby and toddler weights</li>
+          </ul>
+          <?php elseif($inputValue <= 100): ?>
+          <ul class="list-disc list-inside text-gray-700 space-y-1">
+            <li>Adult body weight monitoring</li>
+            <li>Fitness and health tracking</li>
+            <li>Medical consultations</li>
+            <li>Sports and athletics</li>
+          </ul>
+          <ul class="list-disc list-inside text-gray-700 space-y-1">
+            <li>Luggage weight limits</li>
+            <li>Shipping and freight</li>
+            <li>Exercise and gym equipment</li>
+            <li>Large pets (dogs)</li>
+          </ul>
+          <?php else: ?>
+          <ul class="list-disc list-inside text-gray-700 space-y-1">
+            <li>Industrial equipment</li>
+            <li>Heavy machinery parts</li>
+            <li>Large furniture</li>
+            <li>Construction materials</li>
+          </ul>
+          <ul class="list-disc list-inside text-gray-700 space-y-1">
+            <li>Shipping containers</li>
+            <li>Vehicle components</li>
+            <li>Large appliances</li>
+            <li>Agricultural products</li>
+          </ul>
+          <?php endif; ?>
+        </div>
+      </div>
+    </article>
+  </section>
+<?php endif; ?>
+
+<!-- FAQ Section -->
+<section class="max-w-4xl mx-auto mt-8 px-4">
+  <article class="bg-white rounded-xl shadow-lg p-8" itemscope itemtype="https://schema.org/FAQPage">
+    <h2 class="text-2xl font-bold text-gray-800 mb-6 flex items-center gap-3">
+      <i class="fas fa-question-circle text-red-600" aria-hidden="true"></i>
+      <?php if ($isDynamicPage): ?>
+      Frequently Asked Questions about Converting <?php echo number_format($inputValue, ($inputValue == intval($inputValue)) ? 0 : 2); ?> KG to LBS
+      <?php else: ?>
+      Frequently Asked Questions about KG to LBS Conversion
+      <?php endif; ?>
+    </h2>
+    
+    <div class="space-y-6">
+      <?php if ($isDynamicPage): ?>
+      <div class="border-l-4 border-red-500 pl-4" itemscope itemprop="mainEntity" itemtype="https://schema.org/Question">
+        <h3 class="text-lg font-semibold text-gray-800 mb-2" itemprop="name">
+          How much is <?php echo number_format($inputValue, ($inputValue == intval($inputValue)) ? 0 : 2); ?> kg in pounds?
+        </h3>
+        <div itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+          <p class="text-gray-600" itemprop="text">
+            <?php echo number_format($inputValue, ($inputValue == intval($inputValue)) ? 0 : 2); ?> kilograms equals exactly <?php echo number_format($outputValue, 4); ?> pounds. This is calculated using the standard conversion factor where 1 kilogram = 2.20462 pounds.
+          </p>
+        </div>
+      </div>
+      
+      <div class="border-l-4 border-blue-500 pl-4" itemscope itemprop="mainEntity" itemtype="https://schema.org/Question">
+        <h3 class="text-lg font-semibold text-gray-800 mb-2" itemprop="name">
+          Is <?php echo number_format($inputValue, ($inputValue == intval($inputValue)) ? 0 : 2); ?> kg a normal weight?
+        </h3>
+        <div itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+          <p class="text-gray-600" itemprop="text">
+            <?php 
+            if($inputValue >= 40 && $inputValue <= 100) {
+                echo "Yes, {$inputValue} kg ({$outputValue} lbs) is within the normal adult weight range for many people, depending on height, age, and body composition.";
+            } elseif($inputValue < 40) {
+                echo "{$inputValue} kg ({$outputValue} lbs) is below typical adult weight ranges but may be normal for children, teenagers, or very petite adults.";
+            } else {
+                echo "{$inputValue} kg ({$outputValue} lbs) is above average adult weight but may be normal for very tall individuals, athletes with high muscle mass, or specific populations.";
+            }
+            ?> Always consult healthcare professionals for personalized weight assessments.
+          </p>
+        </div>
+      </div>
+      
+      <div class="border-l-4 border-green-500 pl-4" itemscope itemprop="mainEntity" itemtype="https://schema.org/Question">
+        <h3 class="text-lg font-semibold text-gray-800 mb-2" itemprop="name">
+          What's the formula to convert <?php echo number_format($inputValue, ($inputValue == intval($inputValue)) ? 0 : 2); ?> kg to lbs?
+        </h3>
+        <div itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+          <p class="text-gray-600" itemprop="text">
+            To convert <?php echo number_format($inputValue, ($inputValue == intval($inputValue)) ? 0 : 2); ?> kg to pounds: multiply <?php echo number_format($inputValue, ($inputValue == intval($inputValue)) ? 0 : 2); ?> by 2.20462. The calculation is: <?php echo number_format($inputValue, ($inputValue == intval($inputValue)) ? 0 : 2); ?> × 2.20462 = <?php echo number_format($outputValue, 4); ?> lbs.
+          </p>
+        </div>
+      </div>
+      <?php endif; ?>
+      
+      <div class="border-l-4 border-purple-500 pl-4" itemscope itemprop="mainEntity" itemtype="https://schema.org/Question">
+        <h3 class="text-lg font-semibold text-gray-800 mb-2" itemprop="name">
+          Why do we need to convert kg to lbs?
+        </h3>
+        <div itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+          <p class="text-gray-600" itemprop="text">
+            Converting kg to lbs is essential for international communication, travel, fitness tracking, medical consultations, and understanding product specifications. The US primarily uses pounds while most other countries use kilograms.
+          </p>
+        </div>
+      </div>
+      
+      <div class="border-l-4 border-yellow-500 pl-4" itemscope itemprop="mainEntity" itemtype="https://schema.org/Question">
+        <h3 class="text-lg font-semibold text-gray-800 mb-2" itemprop="name">
+          What is the exact conversion factor from kg to lbs?
+        </h3>
+        <div itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+          <p class="text-gray-600" itemprop="text">
+            The exact conversion factor is 1 kilogram = 2.20462262185 pounds. For practical purposes, we use 2.20462, which provides accuracy to 4 decimal places for most conversions.
+          </p>
+        </div>
+      </div>
+      
+      <div class="border-l-4 border-indigo-500 pl-4" itemscope itemprop="mainEntity" itemtype="https://schema.org/Question">
+        <h3 class="text-lg font-semibold text-gray-800 mb-2" itemprop="name">
+          Is this kg to lbs converter accurate for fitness tracking?
+        </h3>
+        <div itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+          <p class="text-gray-600" itemprop="text">
+            Yes, our converter uses the internationally accepted conversion factor (2.20462) and provides results accurate to 4 decimal places, making it perfect for fitness tracking, medical use, and professional applications.
+          </p>
+        </div>
+      </div>
+      
+      <div class="border-l-4 border-pink-500 pl-4" itemscope itemprop="mainEntity" itemtype="https://schema.org/Question">
+        <h3 class="text-lg font-semibold text-gray-800 mb-2" itemprop="name">
+          Can I convert decimals and fractional kg to lbs?
+        </h3>
+        <div itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+          <p class="text-gray-600" itemprop="text">
+            Absolutely! Our converter handles decimal values like 70.5 kg, 68.2 kg, or any fractional weight. Simply enter the decimal value and get precise pound conversions instantly.
+          </p>
+        </div>
+      </div>
+
+      <?php if (!$isDynamicPage): ?>
+      <div class="border-l-4 border-orange-500 pl-4" itemscope itemprop="mainEntity" itemtype="https://schema.org/Question">
+        <h3 class="text-lg font-semibold text-gray-800 mb-2" itemprop="name">
+          What are some common kg to lbs conversions?
+        </h3>
+        <div itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+          <div class="text-gray-600" itemprop="text">
+            <p class="mb-2">Here are some commonly searched conversions:</p>
+            <ul class="list-disc list-inside space-y-1 ml-4">
+              <li>50 kg = 110.23 lbs (lightweight adult)</li>
+              <li>60 kg = 132.28 lbs (average female weight)</li>
+              <li>70 kg = 154.32 lbs (average male weight)</li>
+              <li>80 kg = 176.37 lbs (above average weight)</li>
+              <li>90 kg = 198.42 lbs (heavy weight)</li>
+              <li>100 kg = 220.46 lbs (very heavy weight)</li>
+            </ul>
+          </div>
+        </div>
+      </div>
+      <?php endif; ?>
+    </div>
+    
+    <!-- Quick Tips -->
+    <div class="mt-8 bg-red-50 rounded-lg p-6">
+      <h3 class="font-semibold text-gray-800 mb-3 flex items-center gap-2">
+        <i class="fas fa-lightbulb text-red-600" aria-hidden="true"></i>
+        Quick Conversion Tips
+      </h3>
+      <div class="grid md:grid-cols-2 gap-4">
+        <ul class="list-disc list-inside space-y-1 text-gray-700 text-sm">
+          <li>1 kg ≈ 2.2 lbs (quick mental calculation)</li>
+          <li>Multiply kg by 2.2 for rough estimates</li>
+          <li>For precision, use 2.20462 as the multiplier</li>
+          <?php if ($isDynamicPage && $inputValue <= 100): ?>
+          <li><?php echo number_format($inputValue, ($inputValue == intval($inputValue)) ? 0 : 2); ?> kg is perfect for body weight tracking</li>
+          <?php endif; ?>
+        </ul>
+        <ul class="list-disc list-inside space-y-1 text-gray-700 text-sm">
+          <li>Kilograms are used in most countries worldwide</li>
+          <li>Pounds are primarily used in the US and UK</li>
+          <li>Both units measure mass/weight accurately</li>
+          <?php if ($isDynamicPage): ?>
+          <li>Remember: <?php echo number_format($inputValue, ($inputValue == intval($inputValue)) ? 0 : 2); ?> kg = <?php echo number_format($outputValue, 2); ?> lbs</li>
+          <?php endif; ?>
+        </ul>
+      </div>
+    </div>
+  </article>
+</section>
 
 <?php include 'footer.php';?>
