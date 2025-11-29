@@ -264,10 +264,10 @@ $canonicalUrl = $isDynamicPage ?
         <!-- Related Converters -->
         <div class="flex flex-wrap justify-center gap-3 text-sm" role="list">
             <a href="/ounces-to-gallons" class="px-3 py-2 bg-white rounded-lg shadow hover:shadow-md transition-shadow text-emerald-600 hover:text-emerald-700 font-medium" role="listitem">Ounces to Gallons</a>
-            <a href="/liter-to-gallon" class="px-3 py-2 bg-white rounded-lg shadow hover:shadow-md transition-shadow text-emerald-600 hover:text-emerald-700" role="listitem">Liter to Gallon</a>
+            <a href="/liter-to-gallons" class="px-3 py-2 bg-white rounded-lg shadow hover:shadow-md transition-shadow text-emerald-600 hover:text-emerald-700" role="listitem">Liter to Gallon</a>
             <a href="/gallon-to-liter" class="px-3 py-2 bg-white rounded-lg shadow hover:shadow-md transition-shadow text-emerald-600 hover:text-emerald-700" role="listitem">Gallon to Liter</a>
             <a href="/cup-to-ml" class="px-3 py-2 bg-white rounded-lg shadow hover:shadow-md transition-shadow text-emerald-600 hover:text-emerald-700" role="listitem">Cup to ML</a>
-            <a href="/ml-to-cup" class="px-3 py-2 bg-white rounded-lg shadow hover:shadow-md transition-shadow text-emerald-600 hover:text-emerald-700" role="listitem">ML to Cup</a>
+            <a href="/ml-to-cup-us" class="px-3 py-2 bg-white rounded-lg shadow hover:shadow-md transition-shadow text-emerald-600 hover:text-emerald-700" role="listitem">ML to Cup</a>
         </div>
     </div>
 </section>
@@ -306,7 +306,7 @@ $canonicalUrl = $isDynamicPage ?
                         <i class="fas fa-globe text-blue-600 text-lg group-hover:text-blue-700"></i>
                     </div>
                 </a>
-                <a href="/liter-to-gallon" class="group bg-gradient-to-r from-purple-50 to-pink-50 p-4 rounded-lg border border-purple-100 hover:border-purple-300 transition-all">
+                <a href="/liter-to-gallons" class="group bg-gradient-to-r from-purple-50 to-pink-50 p-4 rounded-lg border border-purple-100 hover:border-purple-300 transition-all">
                     <div class="flex items-center justify-between">
                         <div>
                             <h4 class="font-medium text-gray-900 group-hover:text-purple-700">Liter to Gallon</h4>
@@ -328,10 +328,10 @@ $canonicalUrl = $isDynamicPage ?
                 </h3>
                 <div class="space-y-2">
                     <a href="/gallon-to-liter" class="block text-emerald-600 hover:text-emerald-700 text-sm hover:underline">Gallon to Liter</a>
-                    <a href="/liter-to-gallon" class="block text-emerald-600 hover:text-emerald-700 text-sm hover:underline">Liter to Gallon</a>
+                    <a href="/liter-to-gallons" class="block text-emerald-600 hover:text-emerald-700 text-sm hover:underline">Liter to Gallon</a>
                     <a href="/gallon-to-quart" class="block text-emerald-600 hover:text-emerald-700 text-sm hover:underline">Gallon to Quart</a>
-                    <a href="/quart-to-gallon" class="block text-emerald-600 hover:text-emerald-700 text-sm hover:underline">Quart to Gallon</a>
-                    <a href="/barrel-to-gallon" class="block text-emerald-600 hover:text-emerald-700 text-sm hover:underline">Barrel to Gallon</a>
+                    <a href="/quart-to-liter" class="block text-emerald-600 hover:text-emerald-700 text-sm hover:underline">Quart to Liter</a>
+                    <a href="/gallon-to-cubic-feet" class="block text-emerald-600 hover:text-emerald-700 text-sm hover:underline">Gallon to Cubic Feet</a>
                 </div>
             </div>
 
@@ -344,9 +344,9 @@ $canonicalUrl = $isDynamicPage ?
                 <div class="space-y-2">
                     <a href="/cup-to-ml" class="block text-blue-600 hover:text-blue-700 text-sm hover:underline">Cup to ML</a>
                     <a href="/ml-to-cup" class="block text-blue-600 hover:text-blue-700 text-sm hover:underline">ML to Cup</a>
-                    <a href="/pint-to-ml" class="block text-blue-600 hover:text-blue-700 text-sm hover:underline">Pint to ML</a>
-                    <a href="/ml-to-pint" class="block text-blue-600 hover:text-blue-700 text-sm hover:underline">ML to Pint</a>
-                    <a href="/quart-to-liter" class="block text-blue-600 hover:text-blue-700 text-sm hover:underline">Quart to Liter</a>
+                    <a href="/gallon-to-ml" class="block text-blue-600 hover:text-blue-700 text-sm hover:underline">Gallon to ML</a>
+                    <a href="/ml-to-gallon" class="block text-blue-600 hover:text-blue-700 text-sm hover:underline">ML to Gallon</a>
+                    <a href="/liter-to-ml" class="block text-blue-600 hover:text-blue-700 text-sm hover:underline">Liter to ML</a>
                 </div>
             </div>
 
@@ -358,10 +358,10 @@ $canonicalUrl = $isDynamicPage ?
                 </h3>
                 <div class="space-y-2">
                     <a href="/ounces-to-gallons" class="block text-purple-600 hover:text-purple-700 text-sm hover:underline font-medium">Ounces to Gallons</a>
-                    <a href="/ounce-to-ml" class="block text-purple-600 hover:text-purple-700 text-sm hover:underline">Ounce to ML</a>
-                    <a href="/ml-to-ounce" class="block text-purple-600 hover:text-purple-700 text-sm hover:underline">ML to Ounce</a>
-                    <a href="/tablespoon-to-ml" class="block text-purple-600 hover:text-purple-700 text-sm hover:underline">Tablespoon to ML</a>
-                    <a href="/ml-to-tablespoon" class="block text-purple-600 hover:text-purple-700 text-sm hover:underline">ML to Tablespoon</a>
+                    <a href="/fluid-ounce-us-to-ml" class="block text-purple-600 hover:text-purple-700 text-sm hover:underline">Ounce to ML</a>
+                    <a href="/ml-to-fluid-ounce-us" class="block text-purple-600 hover:text-purple-700 text-sm hover:underline">ML to Ounce</a>
+                    <a href="/tablespoon-us-to-ml" class="block text-purple-600 hover:text-purple-700 text-sm hover:underline">Tablespoon to ML</a>
+                    <a href="/ml-to-tablespoon-us" class="block text-purple-600 hover:text-purple-700 text-sm hover:underline">ML to Tablespoon</a>
                 </div>
             </div>
 
@@ -372,11 +372,11 @@ $canonicalUrl = $isDynamicPage ?
                     Cooking Units
                 </h3>
                 <div class="space-y-2">
-                    <a href="/teaspoon-to-ml" class="block text-orange-600 hover:text-orange-700 text-sm hover:underline">Teaspoon to ML</a>
-                    <a href="/ml-to-teaspoon" class="block text-orange-600 hover:text-orange-700 text-sm hover:underline">ML to Teaspoon</a>
-                    <a href="/cup-to-ounce" class="block text-orange-600 hover:text-orange-700 text-sm hover:underline">Cup to Ounce</a>
-                    <a href="/ounce-to-cup" class="block text-orange-600 hover:text-orange-700 text-sm hover:underline">Ounce to Cup</a>
-                    <a href="/pint-to-cup" class="block text-orange-600 hover:text-orange-700 text-sm hover:underline">Pint to Cup</a>
+                    <a href="/teaspoon-us-to-ml" class="block text-orange-600 hover:text-orange-700 text-sm hover:underline">Teaspoon to ML</a>
+                    <a href="/ml-to-teaspoon-us" class="block text-orange-600 hover:text-orange-700 text-sm hover:underline">ML to Teaspoon</a>
+                    <a href="/cup-us-to-fluid-ounce-us" class="block text-orange-600 hover:text-orange-700 text-sm hover:underline">Cup to Ounce</a>
+                    <a href="/fluid-ounce-us-to-cup-us" class="block text-orange-600 hover:text-orange-700 text-sm hover:underline">Ounce to Cup</a>
+                    <a href="/gallon-to-cups" class="block text-orange-600 hover:text-orange-700 text-sm hover:underline">Gallon to Cups</a>
                 </div>
             </div>
         </div>
@@ -637,9 +637,9 @@ $canonicalUrl = $isDynamicPage ?
                     </h4>
                     <div class="space-y-1">
                         <a href="/cup-to-ml" class="block text-yellow-700 hover:text-yellow-800 text-sm hover:underline">Cup to ML</a>
-                        <a href="/tablespoon-to-ml" class="block text-yellow-700 hover:text-yellow-800 text-sm hover:underline">Tablespoon to ML</a>
-                        <a href="/teaspoon-to-ml" class="block text-yellow-700 hover:text-yellow-800 text-sm hover:underline">Teaspoon to ML</a>
-                        <a href="/ounce-to-ml" class="block text-yellow-700 hover:text-yellow-800 text-sm hover:underline">Ounce to ML</a>
+                        <a href="/tablespoon-us-to-ml" class="block text-yellow-700 hover:text-yellow-800 text-sm hover:underline">Tablespoon to ML</a>
+                        <a href="/teaspoon-us-to-ml" class="block text-yellow-700 hover:text-yellow-800 text-sm hover:underline">Teaspoon to ML</a>
+                        <a href="/fluid-ounce-us-to-ml" class="block text-yellow-700 hover:text-yellow-800 text-sm hover:underline">Ounce to ML</a>
                     </div>
                 </div>
                 
@@ -650,9 +650,9 @@ $canonicalUrl = $isDynamicPage ?
                     </h4>
                     <div class="space-y-1">
                         <a href="/ounces-to-gallons" class="block text-green-700 hover:text-green-800 text-sm hover:underline font-medium">Ounces to Gallons</a>
-                        <a href="/liter-to-gallon" class="block text-green-700 hover:text-green-800 text-sm hover:underline">Liter to Gallon</a>
-                        <a href="/ml-to-ounce" class="block text-green-700 hover:text-green-800 text-sm hover:underline">ML to Ounce</a>
-                        <a href="/pint-to-ml" class="block text-green-700 hover:text-green-800 text-sm hover:underline">Pint to ML</a>
+                        <a href="/liter-to-gallons" class="block text-green-700 hover:text-green-800 text-sm hover:underline">Liter to Gallon</a>
+                        <a href="/ml-to-fluid-ounce-us" class="block text-green-700 hover:text-green-800 text-sm hover:underline">ML to Ounce</a>
+                        <a href="/gallon-to-ml" class="block text-green-700 hover:text-green-800 text-sm hover:underline">Gallon to ML</a>
                     </div>
                 </div>
                 
@@ -663,9 +663,9 @@ $canonicalUrl = $isDynamicPage ?
                     </h4>
                     <div class="space-y-1">
                         <a href="/gallon-to-liter" class="block text-red-700 hover:text-red-800 text-sm hover:underline">Gallon to Liter</a>
-                        <a href="/quart-to-liter" class="block text-red-700 hover:text-red-800 text-sm hover:underline">Quart to Liter</a>
+                        <a href="/liter-to-gallon-us" class="block text-red-700 hover:text-red-800 text-sm hover:underline">Liter to Gallon</a>
                         <a href="/gallon-to-quart" class="block text-red-700 hover:text-red-800 text-sm hover:underline">Gallon to Quart</a>
-                        <a href="/barrel-to-gallon" class="block text-red-700 hover:text-red-800 text-sm hover:underline">Barrel to Gallon</a>
+                        <a href="/gallon-to-cubic-feet" class="block text-red-700 hover:text-red-800 text-sm hover:underline">Gallon to Cubic Feet</a>
                     </div>
                 </div>
             </div>
@@ -676,9 +676,9 @@ $canonicalUrl = $isDynamicPage ?
             <h3 class="text-xl font-semibold text-gray-800 mb-4">Complete Volume Conversion Tools</h3>
             <div class="flex flex-wrap justify-center gap-2">
                 <a href="/volume-converter" class="px-4 py-2 bg-emerald-600 text-white rounded-lg hover:bg-emerald-700 transition-colors font-medium">All Volume Converters</a>
-                <a href="/cooking-converter" class="px-4 py-2 bg-blue-600 text-white rounded-lg hover:bg-blue-700 transition-colors">Cooking Converters</a>
-                <a href="/metric-converter" class="px-4 py-2 bg-purple-600 text-white rounded-lg hover:bg-purple-700 transition-colors">Metric Converters</a>
-                <a href="/imperial-converter" class="px-4 py-2 bg-orange-600 text-white rounded-lg hover:bg-orange-700 transition-colors">Imperial Converters</a>
+                <a href="/area-converter" class="px-4 py-2 bg-blue-600 text-white rounded-lg hover:bg-blue-700 transition-colors">Area Converters</a>
+                <a href="/acceleration-converter" class="px-4 py-2 bg-purple-600 text-white rounded-lg hover:bg-purple-700 transition-colors">Unit Converters</a>
+                <a href="/calculators" class="px-4 py-2 bg-orange-600 text-white rounded-lg hover:bg-orange-700 transition-colors">All Calculators</a>
             </div>
         </div>
     </div>
