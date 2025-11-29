@@ -159,6 +159,24 @@ $pages['/calculators/two-wheeler-loan-emi-calculator'] = [
     'priority' => '1.0'
 ];
 
+// Add KPH to MPH converter dynamic pages (1-1000)
+for ($i = 1; $i <= 1000; $i++) {
+    $pages["/kph-to-mph/{$i}"] = [
+        'lastmod' => date('Y-m-d'),
+        'changefreq' => 'monthly',
+        'priority' => '0.7'
+    ];
+}
+
+// Add MPH to KPH converter dynamic pages (1-1000) 
+for ($i = 1; $i <= 1000; $i++) {
+    $pages["/mph-to-kph/{$i}"] = [
+        'lastmod' => date('Y-m-d'),
+        'changefreq' => 'monthly', 
+        'priority' => '0.7'
+    ];
+}
+
 // Pages to EXCLUDE (will not appear in sitemap)
 $excludedPages = [
     '/404.php',
