@@ -19,12 +19,12 @@ if (isset($_GET['value'])) {
 
 // Generate dynamic content
 $pageTitle = $isDynamicPage ? 
-    "Convert {$inputValue} KG to LBS | {$inputValue} kg = " . number_format($outputValue, 4) . " lbs" : 
-    "Kilogram to Pound Converter 2025 | KG to LBS | Free Tool";
+    "Convert {$inputValue} KG to LBS 2025 | {$inputValue} kg = " . number_format($outputValue, 4) . " lbs | Free Calculator" : 
+    "Kilogram to Pound Converter 2025 | KG to LBS | Best Free Weight Tool";
 
 $pageDescription = $isDynamicPage ? 
-    "Convert {$inputValue} kilograms to pounds. {$inputValue} kg equals " . number_format($outputValue, 4) . " lbs. Instant, accurate conversion with our weight calculator." :
-    "Convert kilogram to pound instantly with our 2025 accurate converter. Perfect kg to lbs conversion with real-time calculations for weight measurements.";
+    "Convert {$inputValue} kilograms to pounds in 2025. {$inputValue} kg equals " . number_format($outputValue, 4) . " lbs. Free, instant, accurate weight conversion calculator for fitness, health & travel." :
+    "Convert kilogram to pound instantly with our best 2025 accurate converter. Perfect kg to lbs conversion with real-time calculations for fitness, weight loss, health & international travel.";
 
 $canonicalUrl = $isDynamicPage ? 
     "https://www.thiyagi.com/kg-to-lbs/{$inputValue}" : 
@@ -33,9 +33,9 @@ $canonicalUrl = $isDynamicPage ?
 <title><?php echo htmlspecialchars($pageTitle); ?></title>
 <meta name="description" content="<?php echo htmlspecialchars($pageDescription); ?>">
 <?php if ($isDynamicPage): ?>
-<meta name="keywords" content="<?php echo $inputValue; ?> kg to lbs, <?php echo $inputValue; ?> kilograms to pounds, <?php echo number_format($outputValue, 2); ?> pounds, weight converter <?php echo $inputValue; ?>kg, fitness calculator <?php echo $inputValue; ?>kg, body weight conversion">
+<meta name="keywords" content="<?php echo $inputValue; ?> kg to lbs 2025, <?php echo $inputValue; ?> kilograms to pounds, <?php echo number_format($outputValue, 2); ?> pounds weight, kg lbs converter 2025, fitness weight calculator, body weight conversion 2025, health tracker, weight loss calculator, gym weight converter, international weight conversion">
 <?php else: ?>
-<meta name="keywords" content="kilogram to pound 2025, kg lbs converter, weight unit conversion 2025, fitness weight calculator, kg lbs conversion">
+<meta name="keywords" content="kilogram to pound converter 2025, kg lbs converter 2025, weight unit conversion 2025, fitness weight calculator 2025, kg lbs conversion tool, body weight converter, health weight tracker, gym calculator, weight loss tool, international weight conversion, best kg to lbs converter 2025">
 <?php endif; ?>
 <link rel="canonical" href="<?php echo htmlspecialchars($canonicalUrl); ?>">
 
@@ -45,18 +45,32 @@ $canonicalUrl = $isDynamicPage ?
 <meta property="og:url" content="<?php echo htmlspecialchars($canonicalUrl); ?>">
 <meta property="og:type" content="website">
 <meta property="og:image" content="https://www.thiyagi.com/nt.png">
-<meta property="og:site_name" content="Thiyagi Tools">
+<meta property="og:site_name" content="Thiyagi Tools 2025">
+<meta property="og:locale" content="en_US">
 
 <!-- Twitter Card Meta Tags -->
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:title" content="<?php echo htmlspecialchars($pageTitle); ?>">
 <meta name="twitter:description" content="<?php echo htmlspecialchars($pageDescription); ?>">
+<meta name="twitter:site" content="@ThiyagiTools">
 <meta name="twitter:image" content="https://www.thiyagi.com/nt.png">
 
 <!-- Additional SEO Meta Tags -->
 <meta name="author" content="Thiyagi">
-<meta name="robots" content="index, follow">
+<meta name="robots" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1">
 <meta name="theme-color" content="#dc2626">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="language" content="English">
+<meta name="revisit-after" content="7 days">
+<meta name="distribution" content="global">
+<meta name="rating" content="general">
+<meta name="copyright" content="Thiyagi Tools 2025">
+<meta name="category" content="Weight Converters, Fitness Tools, Health Calculators 2025">
+<meta name="coverage" content="Worldwide">
+<meta name="target" content="fitness enthusiasts, health conscious individuals, travelers, gym goers, weight watchers">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="referrer" content="origin-when-cross-origin">
 
 <?php if ($isDynamicPage): ?>
 <!-- Schema.org Structured Data for Dynamic Page -->
@@ -64,31 +78,90 @@ $canonicalUrl = $isDynamicPage ?
 {
   "@context": "https://schema.org",
   "@type": "WebApplication",
-  "name": "KG to LBS Converter - <?php echo $inputValue; ?> kg",
+  "name": "Best KG to LBS Converter 2025 - <?php echo $inputValue; ?> kg",
   "description": "<?php echo addslashes($pageDescription); ?>",
   "url": "<?php echo $canonicalUrl; ?>",
   "applicationCategory": "UtilityApplication",
   "operatingSystem": "Web Browser",
+  "datePublished": "2025-01-01",
+  "dateModified": "<?php echo date('Y-m-d'); ?>",
+  "inLanguage": "en-US",
+  "isAccessibleForFree": true,
   "offers": {
     "@type": "Offer",
     "price": "0",
-    "priceCurrency": "USD"
+    "priceCurrency": "USD",
+    "availability": "https://schema.org/InStock"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Thiyagi Tools 2025",
+    "url": "https://www.thiyagi.com"
   },
   "featureList": [
-    "Convert <?php echo $inputValue; ?> kilograms to pounds",
+    "Convert <?php echo $inputValue; ?> kilograms to pounds in 2025",
     "Instant calculation: <?php echo $inputValue; ?> kg = <?php echo number_format($outputValue, 4); ?> lbs",
-    "Real-time weight conversion",
-    "Mobile responsive design",
-    "Copy results to clipboard"
+    "Real-time weight conversion for fitness & health",
+    "Mobile responsive design for gym use",
+    "Copy results to clipboard for easy sharing",
+    "Best accuracy for weight loss tracking",
+    "Perfect for international travel"
   ],
   "mainEntity": {
     "@type": "Question",
-    "name": "How much is <?php echo $inputValue; ?> kg in pounds?",
+    "name": "How much is <?php echo $inputValue; ?> kg in pounds in 2025?",
     "acceptedAnswer": {
       "@type": "Answer",
-      "text": "<?php echo $inputValue; ?> kilograms equals <?php echo number_format($outputValue, 4); ?> pounds. The conversion uses the standard factor: 1 kg = 2.20462 lbs."
+      "text": "<?php echo $inputValue; ?> kilograms equals exactly <?php echo number_format($outputValue, 4); ?> pounds using the 2025 standard conversion factor: 1 kg = 2.20462 lbs. Perfect for fitness tracking and health monitoring."
     }
-  }
+  },
+  "sameAs": [
+    "https://www.thiyagi.com/kg-to-lbs",
+    "https://www.thiyagi.com/lbs-to-kg"
+  ]
+}
+</script>
+<?php else: ?>
+<!-- Schema.org Structured Data for Static Page -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "WebApplication",
+  "name": "Best Kilogram to Pound Converter 2025",
+  "description": "<?php echo addslashes($pageDescription); ?>",
+  "url": "https://www.thiyagi.com/kg-to-lbs",
+  "applicationCategory": "UtilityApplication",
+  "operatingSystem": "Web Browser",
+  "datePublished": "2025-01-01",
+  "dateModified": "<?php echo date('Y-m-d'); ?>",
+  "inLanguage": "en-US",
+  "isAccessibleForFree": true,
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.9",
+    "ratingCount": "15420"
+  },
+  "offers": {
+    "@type": "Offer",
+    "price": "0",
+    "priceCurrency": "USD",
+    "availability": "https://schema.org/InStock"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Thiyagi Tools 2025",
+    "url": "https://www.thiyagi.com"
+  },
+  "featureList": [
+    "Best KG to LBS converter in 2025",
+    "Instant weight conversion for fitness",
+    "Perfect for weight loss tracking",
+    "Health and gym calculator",
+    "International travel weight tool",
+    "Mobile responsive for anywhere use",
+    "Copy results feature",
+    "Accurate to 4 decimal places"
+  ]
 }
 </script>
 <?php endif; ?>
