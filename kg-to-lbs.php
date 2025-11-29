@@ -619,23 +619,143 @@ $canonicalUrl = $isDynamicPage ?
       </div>
       
       <?php if ($isDynamicPage): ?>
-      <!-- Quick Links to Related Conversions -->
-      <div class="mt-6 bg-red-50 rounded-lg p-4">
-        <h3 class="font-semibold text-gray-800 mb-3">Quick Links to Nearby Conversions</h3>
-        <div class="flex flex-wrap gap-2">
-          <?php 
-          $quickLinks = [];
-          for ($i = max(1, $inputValue - 2); $i <= min(1000, $inputValue + 2); $i++) {
-              if ($i != $inputValue) $quickLinks[] = $i;
-          }
-          foreach ($quickLinks as $link): 
-              $linkLbs = $link * 2.20462;
-          ?>
-          <a href="/kg-to-lbs/<?php echo $link; ?>" class="px-3 py-1 bg-white rounded text-sm text-blue-600 hover:text-blue-800 hover:bg-blue-50 transition-colors border">
-            <?php echo $link; ?> kg (<?php echo number_format($linkLbs, 1); ?> lbs)
-          </a>
-          <?php endforeach; ?>
+      <!-- Comprehensive Related Weight Conversions -->
+      <div class="mt-6 bg-gradient-to-br from-red-50 to-orange-50 rounded-lg p-6">
+        <h3 class="font-semibold text-gray-800 mb-4 flex items-center gap-2">
+          <i class="fas fa-weight text-red-600" aria-hidden="true"></i>
+          Related Weight Conversions
+        </h3>
+        
+        <!-- Mathematical Relations -->
+        <div class="mb-6">
+          <h4 class="text-sm font-semibold text-gray-700 mb-3 uppercase tracking-wide">Mathematical Relations</h4>
+          <div class="grid grid-cols-2 sm:grid-cols-4 gap-2">
+            <?php 
+            $mathRelations = [
+              ['value' => max(1, $inputValue - 10), 'label' => '-10 kg'],
+              ['value' => max(1, $inputValue - 5), 'label' => '-5 kg'],
+              ['value' => $inputValue * 2, 'label' => '×2'],
+              ['value' => $inputValue / 2, 'label' => '÷2'],
+              ['value' => $inputValue * 1.5, 'label' => '×1.5'],
+              ['value' => $inputValue / 1.5, 'label' => '÷1.5'],
+              ['value' => min(1000, $inputValue + 5), 'label' => '+5 kg'],
+              ['value' => min(1000, $inputValue + 10), 'label' => '+10 kg']
+            ];
+            foreach ($mathRelations as $rel): 
+              $relLbs = $rel['value'] * 2.20462;
+            ?>
+            <a href="/kg-to-lbs/<?php echo number_format($rel['value'], 1); ?>" class="px-2 py-1 bg-white rounded text-xs text-blue-600 hover:text-blue-800 hover:bg-blue-50 transition-colors border text-center">
+              <?php echo number_format($rel['value'], 1); ?> kg<br>
+              <span class="text-gray-500"><?php echo $rel['label']; ?></span>
+            </a>
+            <?php endforeach; ?>
+          </div>
         </div>
+
+        <!-- Common Weight Categories -->
+        <div class="mb-6">
+          <h4 class="text-sm font-semibold text-gray-700 mb-3 uppercase tracking-wide">Common Weight Categories</h4>
+          <div class="grid grid-cols-1 sm:grid-cols-3 gap-3">
+            <?php 
+            $weightCategories = [
+              ['range' => [40, 45, 50, 55, 60], 'title' => 'Light Adult', 'color' => 'green'],
+              ['range' => [65, 70, 75, 80, 85], 'title' => 'Average Adult', 'color' => 'blue'], 
+              ['range' => [90, 95, 100, 110, 120], 'title' => 'Heavy Adult', 'color' => 'purple']
+            ];
+            foreach ($weightCategories as $category): ?>
+            <div class="bg-white rounded-lg p-3 border-l-4 border-<?php echo $category['color']; ?>-500">
+              <h5 class="font-medium text-<?php echo $category['color']; ?>-700 mb-2"><?php echo $category['title']; ?></h5>
+              <div class="space-y-1">
+                <?php foreach (array_slice($category['range'], 0, 3) as $weight): 
+                  $weightLbs = $weight * 2.20462;
+                ?>
+                <a href="/kg-to-lbs/<?php echo $weight; ?>" class="block text-xs text-gray-600 hover:text-<?php echo $category['color']; ?>-600 transition-colors">
+                  <?php echo $weight; ?> kg → <?php echo number_format($weightLbs, 1); ?> lbs
+                </a>
+                <?php endforeach; ?>
+              </div>
+            </div>
+            <?php endforeach; ?>
+          </div>
+        </div>
+
+        <!-- Popular Round Numbers -->
+        <div class="mb-6">
+          <h4 class="text-sm font-semibold text-gray-700 mb-3 uppercase tracking-wide">Popular Round Numbers</h4>
+          <div class="grid grid-cols-3 sm:grid-cols-6 gap-2">
+            <?php 
+            $roundNumbers = [1, 5, 10, 20, 25, 30, 40, 50, 60, 70, 80, 90, 100, 120, 150, 200, 250, 300];
+            $displayNumbers = array_slice($roundNumbers, 0, 12);
+            foreach ($displayNumbers as $num): 
+              $numLbs = $num * 2.20462;
+            ?>
+            <a href="/kg-to-lbs/<?php echo $num; ?>" class="px-2 py-2 bg-white rounded text-xs text-center text-gray-700 hover:text-red-600 hover:bg-red-50 transition-colors border">
+              <?php echo $num; ?> kg<br>
+              <span class="text-red-600"><?php echo number_format($numLbs, 0); ?> lbs</span>
+            </a>
+            <?php endforeach; ?>
+          </div>
+        </div>
+
+        <!-- Fitness & Health Ranges -->
+        <div>
+          <h4 class="text-sm font-semibold text-gray-700 mb-3 uppercase tracking-wide">Fitness & Health Ranges</h4>
+          <div class="grid grid-cols-2 sm:grid-cols-4 gap-3">
+            <div class="bg-white rounded-lg p-3 border-l-4 border-yellow-500">
+              <h5 class="font-medium text-yellow-700 mb-2">BMI Underweight</h5>
+              <div class="space-y-1">
+                <a href="/kg-to-lbs/45" class="block text-xs text-gray-600 hover:text-yellow-600">45 kg → 99 lbs</a>
+                <a href="/kg-to-lbs/50" class="block text-xs text-gray-600 hover:text-yellow-600">50 kg → 110 lbs</a>
+                <a href="/kg-to-lbs/55" class="block text-xs text-gray-600 hover:text-yellow-600">55 kg → 121 lbs</a>
+              </div>
+            </div>
+            <div class="bg-white rounded-lg p-3 border-l-4 border-green-500">
+              <h5 class="font-medium text-green-700 mb-2">BMI Normal</h5>
+              <div class="space-y-1">
+                <a href="/kg-to-lbs/60" class="block text-xs text-gray-600 hover:text-green-600">60 kg → 132 lbs</a>
+                <a href="/kg-to-lbs/70" class="block text-xs text-gray-600 hover:text-green-600">70 kg → 154 lbs</a>
+                <a href="/kg-to-lbs/75" class="block text-xs text-gray-600 hover:text-green-600">75 kg → 165 lbs</a>
+              </div>
+            </div>
+            <div class="bg-white rounded-lg p-3 border-l-4 border-orange-500">
+              <h5 class="font-medium text-orange-700 mb-2">BMI Overweight</h5>
+              <div class="space-y-1">
+                <a href="/kg-to-lbs/80" class="block text-xs text-gray-600 hover:text-orange-600">80 kg → 176 lbs</a>
+                <a href="/kg-to-lbs/85" class="block text-xs text-gray-600 hover:text-orange-600">85 kg → 187 lbs</a>
+                <a href="/kg-to-lbs/90" class="block text-xs text-gray-600 hover:text-orange-600">90 kg → 198 lbs</a>
+              </div>
+            </div>
+            <div class="bg-white rounded-lg p-3 border-l-4 border-red-500">
+              <h5 class="font-medium text-red-700 mb-2">Athlete/Heavy</h5>
+              <div class="space-y-1">
+                <a href="/kg-to-lbs/95" class="block text-xs text-gray-600 hover:text-red-600">95 kg → 209 lbs</a>
+                <a href="/kg-to-lbs/100" class="block text-xs text-gray-600 hover:text-red-600">100 kg → 220 lbs</a>
+                <a href="/kg-to-lbs/110" class="block text-xs text-gray-600 hover:text-red-600">110 kg → 243 lbs</a>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <!-- Quick Navigation to Nearby Values -->
+        <?php if ($isDynamicPage): ?>
+        <div class="mt-4 pt-4 border-t border-gray-200">
+          <h4 class="text-sm font-semibold text-gray-700 mb-2">Quick Navigation (Near <?php echo number_format($inputValue, ($inputValue == intval($inputValue)) ? 0 : 2); ?> kg)</h4>
+          <div class="flex flex-wrap gap-2">
+            <?php 
+            $nearbyLinks = [];
+            for ($i = max(1, $inputValue - 2); $i <= min(1000, $inputValue + 2); $i++) {
+                if ($i != $inputValue) $nearbyLinks[] = $i;
+            }
+            foreach ($nearbyLinks as $link): 
+                $linkLbs = $link * 2.20462;
+            ?>
+            <a href="/kg-to-lbs/<?php echo $link; ?>" class="px-3 py-1 bg-white rounded text-sm text-blue-600 hover:text-blue-800 hover:bg-blue-50 transition-colors border">
+              <?php echo $link; ?> kg (<?php echo number_format($linkLbs, 1); ?> lbs)
+            </a>
+            <?php endforeach; ?>
+          </div>
+        </div>
+        <?php endif; ?>
       </div>
       <?php endif; ?>
       
