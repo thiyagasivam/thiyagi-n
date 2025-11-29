@@ -394,7 +394,10 @@ if ($isDynamicPage) {
         <?php endif; ?>
         <p class="text-xl text-gray-600 mb-8 max-w-3xl mx-auto">
           Convert kilometers per hour to miles per hour instantly with our accurate 2025 calculator. 
-          Perfect for automotive applications, speedometer readings, and international driving.
+          Perfect for automotive applications, speedometer readings, and international driving. 
+          Also try our <a href="/mph-to-kph" class="text-blue-600 hover:text-blue-800 underline">MPH to KPH converter</a>, 
+          <a href="/km-to-miles" class="text-blue-600 hover:text-blue-800 underline">kilometers to miles</a>, 
+          or <a href="/kg-to-lbs" class="text-blue-600 hover:text-blue-800 underline">weight converters</a> for all your unit conversion needs.
         </p>
         
         <?php if ($isDynamicPage): ?>
@@ -413,17 +416,17 @@ if ($isDynamicPage) {
               <p class="text-gray-700 mb-3">
                 <?php 
                 if ($inputValue <= 20) {
-                    echo 'This is a very slow speed, typically used in parking lots, school zones, or areas requiring extreme caution. Perfect for precise maneuvering.';
+                    echo 'This is a very slow speed, typically used in parking lots, school zones, or areas requiring extreme caution. Perfect for precise maneuvering. Compare with <a href="/mph-to-kph/' . round($outputValue) . '" class="text-blue-600 hover:text-blue-800 underline">reverse conversion</a>.';
                 } elseif ($inputValue <= 50) {
-                    echo 'This represents city and residential driving speeds. Common in urban areas with traffic lights, pedestrian crossings, and frequent stops.';
+                    echo 'This represents city and residential driving speeds. Common in urban areas with traffic lights, pedestrian crossings, and frequent stops. Check our <a href="/km-to-miles" class="text-blue-600 hover:text-blue-800 underline">distance converter</a> for travel planning.';
                 } elseif ($inputValue <= 80) {
-                    echo 'This is suburban and country road speed. Suitable for mixed traffic conditions and areas transitioning from city to highway driving.';
+                    echo 'This is suburban and country road speed. Suitable for mixed traffic conditions and areas transitioning from city to highway driving. Use our <a href="/meters-to-feet" class="text-blue-600 hover:text-blue-800 underline">length converter</a> for road measurements.';
                 } elseif ($inputValue <= 120) {
-                    echo 'This represents standard highway and freeway speeds. Ideal for long-distance travel and interstate driving in most countries.';
+                    echo 'This represents standard highway and freeway speeds. Ideal for long-distance travel and interstate driving in most countries. Perfect for <a href="/miles-to-km" class="text-blue-600 hover:text-blue-800 underline">trip distance calculations</a>.';
                 } elseif ($inputValue <= 200) {
-                    echo 'This is high-speed highway driving, common on German Autobahns and unrestricted motorways. Requires advanced driving experience.';
+                    echo 'This is high-speed highway driving, common on German Autobahns and unrestricted motorways. Requires advanced driving experience. Also check <a href="/lbs-to-kg" class="text-blue-600 hover:text-blue-800 underline">vehicle weight conversions</a>.';
                 } else {
-                    echo 'This represents racing or track speeds. Only appropriate for closed courses, professional racing, or high-performance vehicle testing.';
+                    echo 'This represents racing or track speeds. Only appropriate for closed courses, professional racing, or high-performance vehicle testing. Convert <a href="/kg-to-lbs" class="text-blue-600 hover:text-blue-800 underline">racing car weights</a> too.';
                 }
                 ?>
               </p>
@@ -483,12 +486,39 @@ if ($isDynamicPage) {
         </p>
         
         <!-- Related Converters -->
-        <div class="flex flex-wrap justify-center gap-4 text-sm" role="list">
-            <a href="/mph-to-kph.php" class="px-4 py-2 bg-white rounded-lg shadow hover:shadow-md transition-shadow text-blue-600 hover:text-blue-700" role="listitem">MPH to KPH</a>
-            <a href="/km-to-miles.php" class="px-4 py-2 bg-white rounded-lg shadow hover:shadow-md transition-shadow text-blue-600 hover:text-blue-700" role="listitem">KM to Miles</a>
-            <a href="/miles-to-km.php" class="px-4 py-2 bg-white rounded-lg shadow hover:shadow-md transition-shadow text-blue-600 hover:text-blue-700" role="listitem">Miles to KM</a>
-            <a href="/meters-to-feet.php" class="px-4 py-2 bg-white rounded-lg shadow hover:shadow-md transition-shadow text-blue-600 hover:text-blue-700" role="listitem">Meters to Feet</a>
-            <a href="/feet-to-meters.php" class="px-4 py-2 bg-white rounded-lg shadow hover:shadow-md transition-shadow text-blue-600 hover:text-blue-700" role="listitem">Feet to Meters</a>
+        <div class="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-3 text-sm max-w-4xl mx-auto" role="list">
+            <a href="/mph-to-kph" class="px-4 py-3 bg-white rounded-lg shadow hover:shadow-md transition-shadow text-blue-600 hover:text-blue-700 text-center font-medium" role="listitem">
+                <i class="fas fa-exchange-alt mb-1 block text-lg" aria-hidden="true"></i>
+                MPH to KPH
+            </a>
+            <a href="/km-to-miles" class="px-4 py-3 bg-white rounded-lg shadow hover:shadow-md transition-shadow text-blue-600 hover:text-blue-700 text-center font-medium" role="listitem">
+                <i class="fas fa-road mb-1 block text-lg" aria-hidden="true"></i>
+                KM to Miles
+            </a>
+            <a href="/miles-to-km" class="px-4 py-3 bg-white rounded-lg shadow hover:shadow-md transition-shadow text-blue-600 hover:text-blue-700 text-center font-medium" role="listitem">
+                <i class="fas fa-route mb-1 block text-lg" aria-hidden="true"></i>
+                Miles to KM
+            </a>
+            <a href="/kg-to-lbs" class="px-4 py-3 bg-white rounded-lg shadow hover:shadow-md transition-shadow text-blue-600 hover:text-blue-700 text-center font-medium" role="listitem">
+                <i class="fas fa-weight mb-1 block text-lg" aria-hidden="true"></i>
+                KG to LBS
+            </a>
+            <a href="/lbs-to-kg" class="px-4 py-3 bg-white rounded-lg shadow hover:shadow-md transition-shadow text-blue-600 hover:text-blue-700 text-center font-medium" role="listitem">
+                <i class="fas fa-balance-scale mb-1 block text-lg" aria-hidden="true"></i>
+                LBS to KG
+            </a>
+            <a href="/meters-to-feet" class="px-4 py-3 bg-white rounded-lg shadow hover:shadow-md transition-shadow text-blue-600 hover:text-blue-700 text-center font-medium" role="listitem">
+                <i class="fas fa-ruler mb-1 block text-lg" aria-hidden="true"></i>
+                Meters to Feet
+            </a>
+            <a href="/feet-to-meters" class="px-4 py-3 bg-white rounded-lg shadow hover:shadow-md transition-shadow text-blue-600 hover:text-blue-700 text-center font-medium" role="listitem">
+                <i class="fas fa-ruler-horizontal mb-1 block text-lg" aria-hidden="true"></i>
+                Feet to Meters
+            </a>
+            <a href="/celsius-to-fahrenheit" class="px-4 py-3 bg-white rounded-lg shadow hover:shadow-md transition-shadow text-blue-600 hover:text-blue-700 text-center font-medium" role="listitem">
+                <i class="fas fa-thermometer-half mb-1 block text-lg" aria-hidden="true"></i>
+                °C to °F
+            </a>
         </div>
     </div>
 </section>
@@ -596,43 +626,43 @@ if ($isDynamicPage) {
           </thead>
           <tbody>
             <tr class="hover:bg-gray-50">
-              <td class="border border-gray-300 px-4 py-3">30 kph</td>
-              <td class="border border-gray-300 px-4 py-3 font-medium text-red-700">18.6 mph</td>
+              <td class="border border-gray-300 px-4 py-3"><a href="/kph-to-mph/30" class="text-blue-600 hover:text-blue-800 underline">30 kph</a></td>
+              <td class="border border-gray-300 px-4 py-3 font-medium text-red-700"><a href="/mph-to-kph/19" class="text-red-700 hover:text-red-900">18.6 mph</a></td>
               <td class="border border-gray-300 px-4 py-3 text-gray-600">City driving</td>
             </tr>
             <tr class="hover:bg-gray-50">
-              <td class="border border-gray-300 px-4 py-3">50 kph</td>
-              <td class="border border-gray-300 px-4 py-3 font-medium text-red-700">31.1 mph</td>
+              <td class="border border-gray-300 px-4 py-3"><a href="/kph-to-mph/50" class="text-blue-600 hover:text-blue-800 underline">50 kph</a></td>
+              <td class="border border-gray-300 px-4 py-3 font-medium text-red-700"><a href="/mph-to-kph/31" class="text-red-700 hover:text-red-900">31.1 mph</a></td>
               <td class="border border-gray-300 px-4 py-3 text-gray-600">Urban speed limit</td>
             </tr>
             <tr class="hover:bg-gray-50">
-              <td class="border border-gray-300 px-4 py-3">80 kph</td>
-              <td class="border border-gray-300 px-4 py-3 font-medium text-red-700">49.7 mph</td>
+              <td class="border border-gray-300 px-4 py-3"><a href="/kph-to-mph/80" class="text-blue-600 hover:text-blue-800 underline">80 kph</a></td>
+              <td class="border border-gray-300 px-4 py-3 font-medium text-red-700"><a href="/mph-to-kph/50" class="text-red-700 hover:text-red-900">49.7 mph</a></td>
               <td class="border border-gray-300 px-4 py-3 text-gray-600">Country roads</td>
             </tr>
             <tr class="hover:bg-gray-50">
-              <td class="border border-gray-300 px-4 py-3">100 kph</td>
-              <td class="border border-gray-300 px-4 py-3 font-medium text-red-700">62.1 mph</td>
+              <td class="border border-gray-300 px-4 py-3"><a href="/kph-to-mph/100" class="text-blue-600 hover:text-blue-800 underline">100 kph</a></td>
+              <td class="border border-gray-300 px-4 py-3 font-medium text-red-700"><a href="/mph-to-kph/62" class="text-red-700 hover:text-red-900">62.1 mph</a></td>
               <td class="border border-gray-300 px-4 py-3 text-gray-600">Highway speed</td>
             </tr>
             <tr class="hover:bg-gray-50">
-              <td class="border border-gray-300 px-4 py-3">120 kph</td>
-              <td class="border border-gray-300 px-4 py-3 font-medium text-red-700">74.6 mph</td>
+              <td class="border border-gray-300 px-4 py-3"><a href="/kph-to-mph/120" class="text-blue-600 hover:text-blue-800 underline">120 kph</a></td>
+              <td class="border border-gray-300 px-4 py-3 font-medium text-red-700"><a href="/mph-to-kph/75" class="text-red-700 hover:text-red-900">74.6 mph</a></td>
               <td class="border border-gray-300 px-4 py-3 text-gray-600">Fast highway</td>
             </tr>
             <tr class="hover:bg-gray-50">
-              <td class="border border-gray-300 px-4 py-3">150 kph</td>
-              <td class="border border-gray-300 px-4 py-3 font-medium text-red-700">93.2 mph</td>
+              <td class="border border-gray-300 px-4 py-3"><a href="/kph-to-mph/150" class="text-blue-600 hover:text-blue-800 underline">150 kph</a></td>
+              <td class="border border-gray-300 px-4 py-3 font-medium text-red-700"><a href="/mph-to-kph/93" class="text-red-700 hover:text-red-900">93.2 mph</a></td>
               <td class="border border-gray-300 px-4 py-3 text-gray-600">High-speed roads</td>
             </tr>
             <tr class="hover:bg-gray-50">
-              <td class="border border-gray-300 px-4 py-3">200 kph</td>
-              <td class="border border-gray-300 px-4 py-3 font-medium text-red-700">124.3 mph</td>
+              <td class="border border-gray-300 px-4 py-3"><a href="/kph-to-mph/200" class="text-blue-600 hover:text-blue-800 underline">200 kph</a></td>
+              <td class="border border-gray-300 px-4 py-3 font-medium text-red-700"><a href="/mph-to-kph/124" class="text-red-700 hover:text-red-900">124.3 mph</a></td>
               <td class="border border-gray-300 px-4 py-3 text-gray-600">Racing speeds</td>
             </tr>
             <tr class="hover:bg-gray-50">
-              <td class="border border-gray-300 px-4 py-3">300 kph</td>
-              <td class="border border-gray-300 px-4 py-3 font-medium text-red-700">186.4 mph</td>
+              <td class="border border-gray-300 px-4 py-3"><a href="/kph-to-mph/300" class="text-blue-600 hover:text-blue-800 underline">300 kph</a></td>
+              <td class="border border-gray-300 px-4 py-3 font-medium text-red-700"><a href="/mph-to-kph/186" class="text-red-700 hover:text-red-900">186.4 mph</a></td>
               <td class="border border-gray-300 px-4 py-3 text-gray-600">High-performance</td>
             </tr>
           </tbody>
@@ -646,11 +676,11 @@ if ($isDynamicPage) {
           Quick Conversion Tips for Drivers
         </h3>
         <ul class="list-disc list-inside space-y-1 text-gray-600 text-sm">
-          <li>1 kph = 0.621371 mph (exact conversion)</li>
-          <li>For quick estimates: 1 kph ≈ 0.6 mph</li>
-          <li>KPH is used in most countries worldwide</li>
-          <li>MPH is primarily used in USA, UK, and some territories</li>
-          <li>Speed limits vary by country and road type</li>
+          <li>1 kph = 0.621371 mph (exact conversion) - try <a href="/mph-to-kph" class="text-blue-600 hover:text-blue-800 underline">reverse conversion</a></li>
+          <li>For quick estimates: 1 kph ≈ 0.6 mph - use our <a href="/acceleration-converter" class="text-blue-600 hover:text-blue-800 underline">acceleration converter</a> for precise calculations</li>
+          <li>KPH is used in most countries worldwide - convert <a href="/km-to-miles" class="text-blue-600 hover:text-blue-800 underline">distances</a> and <a href="/celsius-to-fahrenheit" class="text-blue-600 hover:text-blue-800 underline">temperatures</a> too</li>
+          <li>MPH is primarily used in USA, UK, and some territories - also try <a href="/feet-to-meters" class="text-blue-600 hover:text-blue-800 underline">length converters</a></li>
+          <li>Speed limits vary by country and road type - calculate <a href="/kg-to-lbs" class="text-blue-600 hover:text-blue-800 underline">vehicle weight limits</a> too</li>
         </ul>
       </div>
       
@@ -770,7 +800,7 @@ if ($isDynamicPage) {
         <div class="border-l-4 border-blue-500 pl-4" itemscope itemprop="mainEntity" itemtype="https://schema.org/Question">
           <h3 class="text-lg font-semibold text-gray-800 mb-2" itemprop="name">How do you convert kph to mph in 2025?</h3>
           <div itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-            <p class="text-gray-600" itemprop="text">To convert kilometers per hour to miles per hour in 2025, multiply the kph value by 0.621371. For example, 100 kph = 100 × 0.621371 = 62.1371 mph. This is the standard automotive conversion used worldwide.</p>
+            <p class="text-gray-600" itemprop="text">To convert kilometers per hour to miles per hour in 2025, multiply the kph value by 0.621371. For example, <a href="/kph-to-mph/100" class="text-blue-600 hover:text-blue-800 underline">100 kph = 62.1371 mph</a>. This is the standard automotive conversion used worldwide. Also try our <a href="/mph-to-kph" class="text-blue-600 hover:text-blue-800 underline">reverse MPH to KPH converter</a>.</p>
           </div>
         </div>
         
@@ -791,7 +821,7 @@ if ($isDynamicPage) {
         <div class="border-l-4 border-red-500 pl-4" itemscope itemprop="mainEntity" itemtype="https://schema.org/Question">
           <h3 class="text-lg font-semibold text-gray-800 mb-2" itemprop="name">When do drivers need to convert kph to mph in 2025?</h3>
           <div itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-            <p class="text-gray-600" itemprop="text">KPH to MPH conversion is essential when driving internationally, renting cars abroad, understanding speedometer readings in different countries, comparing vehicle performance specs, or traveling between metric and imperial system regions in 2025.</p>
+            <p class="text-gray-600" itemprop="text">KPH to MPH conversion is essential when driving internationally, renting cars abroad, understanding speedometer readings in different countries, comparing vehicle performance specs, or traveling between metric and imperial system regions in 2025. Also convert <a href="/km-to-miles" class="text-blue-600 hover:text-blue-800 underline">travel distances</a>, <a href="/kg-to-lbs" class="text-blue-600 hover:text-blue-800 underline">luggage weights</a>, and <a href="/celsius-to-fahrenheit" class="text-blue-600 hover:text-blue-800 underline">weather temperatures</a> for complete travel preparation.</p>
           </div>
         </div>
         
@@ -805,7 +835,7 @@ if ($isDynamicPage) {
         <div class="border-l-4 border-teal-500 pl-4" itemscope itemprop="mainEntity" itemtype="https://schema.org/Question">
           <h3 class="text-lg font-semibold text-gray-800 mb-2" itemprop="name">What are common speed limits in KPH and their MPH equivalents for 2025?</h3>
           <div itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-            <p class="text-gray-600" itemprop="text">Common 2025 speed conversions: 50 KPH = 31 MPH (city), 80 KPH = 50 MPH (suburban), 100 KPH = 62 MPH (highway), 120 KPH = 75 MPH (fast highway). These conversions help drivers understand international speed limits.</p>
+            <p class="text-gray-600" itemprop="text">Common 2025 speed conversions: <a href="/kph-to-mph/50" class="text-blue-600 hover:text-blue-800 underline">50 KPH = 31 MPH</a> (city), <a href="/kph-to-mph/80" class="text-blue-600 hover:text-blue-800 underline">80 KPH = 50 MPH</a> (suburban), <a href="/kph-to-mph/100" class="text-blue-600 hover:text-blue-800 underline">100 KPH = 62 MPH</a> (highway), <a href="/kph-to-mph/120" class="text-blue-600 hover:text-blue-800 underline">120 KPH = 75 MPH</a> (fast highway). These conversions help drivers understand international speed limits. Convert <a href="/miles-to-km" class="text-blue-600 hover:text-blue-800 underline">trip distances</a> and <a href="/lbs-to-kg" class="text-blue-600 hover:text-blue-800 underline">fuel efficiency</a> measurements too.</p>
           </div>
         </div>
       </div>
