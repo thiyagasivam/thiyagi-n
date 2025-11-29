@@ -637,7 +637,6 @@ $canonicalUrl = $isDynamicPage ?
                     </h4>
                     <div class="space-y-1">
                         <a href="/cup-to-ml" class="block text-yellow-700 hover:text-yellow-800 text-sm hover:underline">Cup to ML</a>
-                        <a href="/tablespoon-us-to-ml" class="block text-yellow-700 hover:text-yellow-800 text-sm hover:underline">Tablespoon to ML</a>
                         <a href="/teaspoon-us-to-cup-us" class="block text-yellow-700 hover:text-yellow-800 text-sm hover:underline">Teaspoon to Cup</a>
                         <a href="/fluid-ounce-us-to-milliliter" class="block text-yellow-700 hover:text-yellow-800 text-sm hover:underline">Ounce to ML</a>
                     </div>
