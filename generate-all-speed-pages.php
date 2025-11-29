@@ -1,11 +1,13 @@
 <?php
 /**
- * Speed Converter Pages Generator
- * Master script to generate all dynamic speed converter pages
+ * Unit Converter Pages Generator
+ * Master script to generate all dynamic converter pages (Speed & Weight)
  * 
- * This script generates 2000 static HTML pages:
+ * This script generates 4000 static HTML pages:
  * - 1000 KPH to MPH conversion pages (/kph-to-mph/1 to /kph-to-mph/1000)
  * - 1000 MPH to KPH conversion pages (/mph-to-kph/1 to /mph-to-kph/1000)
+ * - 1000 KG to LBS conversion pages (/kg-to-lbs/1 to /kg-to-lbs/1000)
+ * - 1000 LBS to KG conversion pages (/lbs-to-kg/1 to /lbs-to-kg/1000)
  * 
  * Usage:
  * 1. Run from command line: php generate-all-speed-pages.php
@@ -41,7 +43,7 @@ if ($isWebRequest) {
     echo "<!DOCTYPE html>
 <html>
 <head>
-    <title>Speed Converter Pages Generator</title>
+    <title>Unit Converter Pages Generator</title>
     <style>
         body { font-family: Arial, sans-serif; margin: 40px; background: #f5f5f5; }
         .container { max-width: 800px; background: white; padding: 30px; border-radius: 8px; box-shadow: 0 2px 10px rgba(0,0,0,0.1); }
@@ -56,8 +58,8 @@ if ($isWebRequest) {
 </head>
 <body>
 <div class='container'>
-    <h1>🚀 Speed Converter Pages Generator</h1>
-    <p>Generating 2000 static HTML pages for better SEO performance...</p>
+    <h1>🚀 Unit Converter Pages Generator</h1>
+    <p>Generating 4000 static HTML pages for better SEO performance...</p>
     <div class='log' id='log'>";
     
     // Flush output buffer to show progress
@@ -65,7 +67,7 @@ if ($isWebRequest) {
     flush();
 }
 
-logMessage("=== Speed Converter Pages Generation Started ===");
+logMessage("=== Unit Converter Pages Generation Started ===");
 logMessage("Memory limit: " . ini_get('memory_limit'));
 logMessage("Execution time limit: " . (ini_get('max_execution_time') ?: 'unlimited'));
 
@@ -77,6 +79,8 @@ try {
     // Create base directories
     $kphMphDir = $baseDir . '/generated-pages/kph-to-mph/';
     $mphKphDir = $baseDir . '/generated-pages/mph-to-kph/';
+    $kgLbsDir = $baseDir . '/generated-pages/kg-to-lbs/';
+    $lbsKgDir = $baseDir . '/generated-pages/lbs-to-kg/';
     
     if (!is_dir($kphMphDir)) {
         mkdir($kphMphDir, 0755, true);
@@ -86,6 +90,16 @@ try {
     if (!is_dir($mphKphDir)) {
         mkdir($mphKphDir, 0755, true);
         logMessage("Created directory: {$mphKphDir}");
+    }
+    
+    if (!is_dir($kgLbsDir)) {
+        mkdir($kgLbsDir, 0755, true);
+        logMessage("Created directory: {$kgLbsDir}");
+    }
+    
+    if (!is_dir($lbsKgDir)) {
+        mkdir($lbsKgDir, 0755, true);
+        logMessage("Created directory: {$lbsKgDir}");
     }
 
     // Generate KPH to MPH pages
@@ -115,6 +129,34 @@ try {
     $totalGenerated += 1000;
     
     logMessage("Completed MPH to KPH page generation");
+
+    // Generate KG to LBS pages
+    logMessage("Starting KG to LBS page generation...");
+    
+    if ($isWebRequest) {
+        echo "<div class='status info'>Generating KG to LBS pages (1-1000)...</div>";
+        ob_flush();
+        flush();
+    }
+    
+    include_once 'generate-kg-lbs-pages.php';
+    $totalGenerated += 1000;
+    
+    logMessage("Completed KG to LBS page generation");
+
+    // Generate LBS to KG pages
+    logMessage("Starting LBS to KG page generation...");
+    
+    if ($isWebRequest) {
+        echo "<div class='status info'>Generating LBS to KG pages (1-1000)...</div>";
+        ob_flush();
+        flush();
+    }
+    
+    include_once 'generate-lbs-kg-pages.php';
+    $totalGenerated += 1000;
+    
+    logMessage("Completed LBS to KG page generation");
 
 } catch (Exception $e) {
     $error = "Error during generation: " . $e->getMessage();
@@ -165,7 +207,9 @@ if ($isWebRequest) {
     echo "<ul>";
     echo "<li><strong>KPH to MPH:</strong> 1000 pages (1-1000 kph)</li>";
     echo "<li><strong>MPH to KPH:</strong> 1000 pages (1-1000 mph)</li>";
-    echo "<li><strong>Total:</strong> 2000 static HTML pages</li>";
+    echo "<li><strong>KG to LBS:</strong> 1000 pages (1-1000 kg)</li>";
+    echo "<li><strong>LBS to KG:</strong> 1000 pages (1-1000 lbs)</li>";
+    echo "<li><strong>Total:</strong> 4000 static HTML pages</li>";
     echo "</ul>";
     echo "</div>";
     
@@ -174,7 +218,8 @@ if ($isWebRequest) {
     echo "<ul>";
     echo "<li><a href='/kph-to-mph/100' target='_blank'>/kph-to-mph/100</a> - Convert 100 KPH to MPH</li>";
     echo "<li><a href='/mph-to-kph/60' target='_blank'>/mph-to-kph/60</a> - Convert 60 MPH to KPH</li>";
-    echo "<li><a href='/kph-to-mph/320' target='_blank'>/kph-to-mph/320</a> - Convert 320 KPH to MPH</li>";
+    echo "<li><a href='/kg-to-lbs/70' target='_blank'>/kg-to-lbs/70</a> - Convert 70 KG to LBS</li>";
+    echo "<li><a href='/lbs-to-kg/150' target='_blank'>/lbs-to-kg/150</a> - Convert 150 LBS to KG</li>";
     echo "</ul>";
     echo "</div>";
     
@@ -195,7 +240,8 @@ if ($isWebRequest) {
     echo "\n🔗 Test URLs:\n";
     echo "- /kph-to-mph/100 (100 KPH to MPH)\n";
     echo "- /mph-to-kph/60 (60 MPH to KPH)\n";
-    echo "- /kph-to-mph/320 (320 KPH to MPH)\n";
+    echo "- /kg-to-lbs/70 (70 KG to LBS)\n";
+    echo "- /lbs-to-kg/150 (150 LBS to KG)\n";
 }
 
 // Generate a summary report

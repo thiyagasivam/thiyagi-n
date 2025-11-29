@@ -177,6 +177,24 @@ for ($i = 1; $i <= 1000; $i++) {
     ];
 }
 
+// Add KG to LBS converter dynamic pages (1-1000)
+for ($i = 1; $i <= 1000; $i++) {
+    $pages["/kg-to-lbs/{$i}"] = [
+        'lastmod' => date('Y-m-d'),
+        'changefreq' => 'monthly',
+        'priority' => '0.7'
+    ];
+}
+
+// Add LBS to KG converter dynamic pages (1-1000) 
+for ($i = 1; $i <= 1000; $i++) {
+    $pages["/lbs-to-kg/{$i}"] = [
+        'lastmod' => date('Y-m-d'),
+        'changefreq' => 'monthly', 
+        'priority' => '0.7'
+    ];
+}
+
 // Pages to EXCLUDE (will not appear in sitemap)
 $excludedPages = [
     '/404.php',

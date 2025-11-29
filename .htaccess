@@ -244,6 +244,12 @@ RewriteRule ^kph-to-mph/([0-9]+(?:\.[0-9]+)?)/?$ kph-to-mph.php?value=$1 [L,QSA]
 # Handle /mph-to-kph/320 format
 RewriteRule ^mph-to-kph/([0-9]+(?:\.[0-9]+)?)/?$ mph-to-kph.php?value=$1 [L,QSA]
 
+# Handle /kg-to-lbs/70 format
+RewriteRule ^kg-to-lbs/([0-9]+(?:\.[0-9]+)?)/?$ kg-to-lbs.php?value=$1 [L,QSA]
+
+# Handle /lbs-to-kg/155 format
+RewriteRule ^lbs-to-kg/([0-9]+(?:\.[0-9]+)?)/?$ lbs-to-kg.php?value=$1 [L,QSA]
+
 # General clean URL handling for root level PHP files (lowest priority)
 RewriteCond %{REQUEST_FILENAME} !-f
 RewriteCond %{REQUEST_FILENAME} !-d

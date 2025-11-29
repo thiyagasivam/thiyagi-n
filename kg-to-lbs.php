@@ -1,21 +1,52 @@
-<?php include 'header.php';?>
-<title>Kilogram to Pound Converter 2025 | KG to LBS | Free Tool</title>
-<meta name="description" content="Convert kilogram to pound instantly with our 2025 accurate converter. Perfect kg to lbs conversion with real-time calculations for weight measurements.">
+<?php 
+include 'header.php';
+
+// Handle dynamic URL parameter
+$inputValue = null;
+$outputValue = null;
+$isDynamicPage = false;
+
+if (isset($_GET['value'])) {
+    $value = trim($_GET['value']);
+    
+    // Validate the input value (must be numeric and non-negative)
+    if (is_numeric($value) && floatval($value) >= 0) {
+        $inputValue = floatval($value);
+        $outputValue = $inputValue * 2.20462; // Convert kg to lbs
+        $isDynamicPage = true;
+    }
+}
+
+// Generate dynamic content
+$pageTitle = $isDynamicPage ? 
+    "Convert {$inputValue} KG to LBS | {$inputValue} kg = " . number_format($outputValue, 4) . " lbs" : 
+    "Kilogram to Pound Converter 2025 | KG to LBS | Free Tool";
+
+$pageDescription = $isDynamicPage ? 
+    "Convert {$inputValue} kilograms to pounds. {$inputValue} kg equals " . number_format($outputValue, 4) . " lbs. Instant, accurate conversion with our weight calculator." :
+    "Convert kilogram to pound instantly with our 2025 accurate converter. Perfect kg to lbs conversion with real-time calculations for weight measurements.";
+
+$canonicalUrl = $isDynamicPage ? 
+    "https://www.thiyagi.com/kg-to-lbs/{$inputValue}" : 
+    "https://www.thiyagi.com/kg-to-lbs";
+?>
+<title><?php echo htmlspecialchars($pageTitle); ?></title>
+<meta name="description" content="<?php echo htmlspecialchars($pageDescription); ?>">
 <meta name="keywords" content="kilogram to pound 2025, kg lbs converter, weight unit conversion 2025, fitness weight calculator, kg lbs conversion">
-<link rel="canonical" href="https://www.thiyagi.com/kg-to-lbs">
+<link rel="canonical" href="<?php echo htmlspecialchars($canonicalUrl); ?>">
 
 <!-- Open Graph Meta Tags -->
-<meta property="og:title" content="Kilogram to Pound Converter 2025 | KG to LBS | Free Tool">
-<meta property="og:description" content="Convert kilogram to pound instantly with our 2025 accurate converter. Perfect kg to lbs conversion with real-time calculations for weight measurements.">
-<meta property="og:url" content="https://www.thiyagi.com/kg-to-lbs">
+<meta property="og:title" content="<?php echo htmlspecialchars($pageTitle); ?>">
+<meta property="og:description" content="<?php echo htmlspecialchars($pageDescription); ?>">
+<meta property="og:url" content="<?php echo htmlspecialchars($canonicalUrl); ?>">
 <meta property="og:type" content="website">
 <meta property="og:image" content="https://www.thiyagi.com/nt.png">
 <meta property="og:site_name" content="Thiyagi Tools">
 
 <!-- Twitter Card Meta Tags -->
 <meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:title" content="Kilogram to Pound Converter 2025 | KG to LBS | Free Tool">
-<meta name="twitter:description" content="Convert kilogram to pound instantly with our 2025 accurate converter. Perfect kg to lbs conversion with real-time calculations for weight measurements.">
+<meta name="twitter:title" content="<?php echo htmlspecialchars($pageTitle); ?>">
+<meta name="twitter:description" content="<?php echo htmlspecialchars($pageDescription); ?>">
 <meta name="twitter:image" content="https://www.thiyagi.com/nt.png">
 
 <!-- Additional SEO Meta Tags -->
@@ -36,8 +67,24 @@
     <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
       <div class="text-center">
         <h1 class="text-4xl md:text-5xl font-bold text-gray-900 mb-6">
+          <?php if ($isDynamicPage): ?>
+          Convert <?php echo number_format($inputValue, ($inputValue == intval($inputValue)) ? 0 : 2); ?> KG to LBS
+          <?php else: ?>
           Kilogram to Pound Converter
+          <?php endif; ?>
         </h1>
+        <?php if ($isDynamicPage): ?>
+        <div class="bg-white rounded-lg shadow-md p-6 mb-8 max-w-2xl mx-auto">
+          <div class="text-center">
+            <div class="text-3xl font-bold text-red-600 mb-2">
+              <?php echo number_format($inputValue, ($inputValue == intval($inputValue)) ? 0 : 2); ?> kg = <?php echo number_format($outputValue, 4); ?> lbs
+            </div>
+            <p class="text-gray-600">
+              <?php echo number_format($inputValue, ($inputValue == intval($inputValue)) ? 0 : 2); ?> kilograms equals <?php echo number_format($outputValue, 4); ?> pounds
+            </p>
+          </div>
+        </div>
+        <?php endif; ?>
         <p class="text-xl text-gray-600 mb-8 max-w-3xl mx-auto">
           Convert kilograms to pounds instantly with our accurate 2025 calculator. 
           Perfect for fitness tracking, weight management, and international weight conversions.
@@ -400,10 +447,16 @@ function copyResult() {
 document.getElementById('kgValue').addEventListener('input', updateConversion);
 document.getElementById('copyBtn').addEventListener('click', copyResult);
 
-// Autofocus and demo value
+// Initialize with URL parameter or demo value
 window.addEventListener('DOMContentLoaded', () => {
   document.getElementById('kgValue').focus();
+  <?php if ($isDynamicPage): ?>
+  // Use the URL parameter value
+  document.getElementById('kgValue').value = <?php echo $inputValue; ?>;
+  <?php else: ?>
+  // Use demo value
   document.getElementById('kgValue').value = 70;
+  <?php endif; ?>
   updateConversion();
 });
 </script>
