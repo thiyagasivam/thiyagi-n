@@ -262,12 +262,424 @@ $canonicalUrl = $isDynamicPage ?
         </p>
         
         <!-- Related Converters -->
-        <div class="flex flex-wrap justify-center gap-4 text-sm" role="list">
-            <a href="/ounces-to-gallons" class="px-4 py-2 bg-white rounded-lg shadow hover:shadow-md transition-shadow text-emerald-600 hover:text-emerald-700" role="listitem">Ounces to Gallons</a>
-            <a href="/liter-to-gallon" class="px-4 py-2 bg-white rounded-lg shadow hover:shadow-md transition-shadow text-emerald-600 hover:text-emerald-700" role="listitem">Liter to Gallon</a>
-            <a href="/gallon-to-liter" class="px-4 py-2 bg-white rounded-lg shadow hover:shadow-md transition-shadow text-emerald-600 hover:text-emerald-700" role="listitem">Gallon to Liter</a>
-            <a href="/cup-to-ml" class="px-4 py-2 bg-white rounded-lg shadow hover:shadow-md transition-shadow text-emerald-600 hover:text-emerald-700" role="listitem">Cup to ML</a>
-            <a href="/ml-to-cup" class="px-4 py-2 bg-white rounded-lg shadow hover:shadow-md transition-shadow text-emerald-600 hover:text-emerald-700" role="listitem">ML to Cup</a>
+        <div class="flex flex-wrap justify-center gap-3 text-sm" role="list">
+            <a href="/ounces-to-gallons" class="px-3 py-2 bg-white rounded-lg shadow hover:shadow-md transition-shadow text-emerald-600 hover:text-emerald-700 font-medium" role="listitem">Ounces to Gallons</a>
+            <a href="/liter-to-gallon" class="px-3 py-2 bg-white rounded-lg shadow hover:shadow-md transition-shadow text-emerald-600 hover:text-emerald-700" role="listitem">Liter to Gallon</a>
+            <a href="/gallon-to-liter" class="px-3 py-2 bg-white rounded-lg shadow hover:shadow-md transition-shadow text-emerald-600 hover:text-emerald-700" role="listitem">Gallon to Liter</a>
+            <a href="/cup-to-ml" class="px-3 py-2 bg-white rounded-lg shadow hover:shadow-md transition-shadow text-emerald-600 hover:text-emerald-700" role="listitem">Cup to ML</a>
+            <a href="/ml-to-cup" class="px-3 py-2 bg-white rounded-lg shadow hover:shadow-md transition-shadow text-emerald-600 hover:text-emerald-700" role="listitem">ML to Cup</a>
+        </div>
+    </div>
+</section>
+
+<!-- Related Volume Conversions Section -->
+<section class="py-12 bg-white">
+    <div class="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8">
+        <div class="text-center mb-10">
+            <h2 class="text-3xl font-bold text-gray-900 mb-4">
+                Related Volume Conversions 2025
+            </h2>
+            <p class="text-lg text-gray-600 max-w-3xl mx-auto">
+                Explore our comprehensive collection of volume converters for cooking, recipes, beverages, and liquid measurements
+            </p>
+        </div>
+
+        <!-- Mathematical Relations -->
+        <div class="mb-8">
+            <h3 class="text-xl font-semibold text-gray-800 mb-4 text-center">Mathematical Relations</h3>
+            <div class="grid grid-cols-1 md:grid-cols-3 gap-4">
+                <a href="/ounces-to-gallons" class="group bg-gradient-to-r from-emerald-50 to-green-50 p-4 rounded-lg border border-emerald-100 hover:border-emerald-300 transition-all">
+                    <div class="flex items-center justify-between">
+                        <div>
+                            <h4 class="font-medium text-gray-900 group-hover:text-emerald-700">Ounces to Gallons</h4>
+                            <p class="text-sm text-gray-600">Reverse conversion</p>
+                        </div>
+                        <i class="fas fa-exchange-alt text-emerald-600 text-lg group-hover:text-emerald-700"></i>
+                    </div>
+                </a>
+                <a href="/gallon-to-liter" class="group bg-gradient-to-r from-blue-50 to-indigo-50 p-4 rounded-lg border border-blue-100 hover:border-blue-300 transition-all">
+                    <div class="flex items-center justify-between">
+                        <div>
+                            <h4 class="font-medium text-gray-900 group-hover:text-blue-700">Gallon to Liter</h4>
+                            <p class="text-sm text-gray-600">US to Metric</p>
+                        </div>
+                        <i class="fas fa-globe text-blue-600 text-lg group-hover:text-blue-700"></i>
+                    </div>
+                </a>
+                <a href="/liter-to-gallon" class="group bg-gradient-to-r from-purple-50 to-pink-50 p-4 rounded-lg border border-purple-100 hover:border-purple-300 transition-all">
+                    <div class="flex items-center justify-between">
+                        <div>
+                            <h4 class="font-medium text-gray-900 group-hover:text-purple-700">Liter to Gallon</h4>
+                            <p class="text-sm text-gray-600">Metric to US</p>
+                        </div>
+                        <i class="fas fa-balance-scale text-purple-600 text-lg group-hover:text-purple-700"></i>
+                    </div>
+                </a>
+            </div>
+        </div>
+
+        <!-- Volume Categories -->
+        <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-6 mb-8">
+            <!-- Large Volume Measurements -->
+            <div class="bg-gray-50 rounded-lg p-6">
+                <h3 class="font-semibold text-gray-800 mb-4 flex items-center">
+                    <i class="fas fa-wine-bottle text-emerald-600 mr-2"></i>
+                    Large Volume
+                </h3>
+                <div class="space-y-2">
+                    <a href="/gallon-to-liter" class="block text-emerald-600 hover:text-emerald-700 text-sm hover:underline">Gallon to Liter</a>
+                    <a href="/liter-to-gallon" class="block text-emerald-600 hover:text-emerald-700 text-sm hover:underline">Liter to Gallon</a>
+                    <a href="/gallon-to-quart" class="block text-emerald-600 hover:text-emerald-700 text-sm hover:underline">Gallon to Quart</a>
+                    <a href="/quart-to-gallon" class="block text-emerald-600 hover:text-emerald-700 text-sm hover:underline">Quart to Gallon</a>
+                    <a href="/barrel-to-gallon" class="block text-emerald-600 hover:text-emerald-700 text-sm hover:underline">Barrel to Gallon</a>
+                </div>
+            </div>
+
+            <!-- Medium Volume Measurements -->
+            <div class="bg-gray-50 rounded-lg p-6">
+                <h3 class="font-semibold text-gray-800 mb-4 flex items-center">
+                    <i class="fas fa-coffee text-blue-600 mr-2"></i>
+                    Medium Volume
+                </h3>
+                <div class="space-y-2">
+                    <a href="/cup-to-ml" class="block text-blue-600 hover:text-blue-700 text-sm hover:underline">Cup to ML</a>
+                    <a href="/ml-to-cup" class="block text-blue-600 hover:text-blue-700 text-sm hover:underline">ML to Cup</a>
+                    <a href="/pint-to-ml" class="block text-blue-600 hover:text-blue-700 text-sm hover:underline">Pint to ML</a>
+                    <a href="/ml-to-pint" class="block text-blue-600 hover:text-blue-700 text-sm hover:underline">ML to Pint</a>
+                    <a href="/quart-to-liter" class="block text-blue-600 hover:text-blue-700 text-sm hover:underline">Quart to Liter</a>
+                </div>
+            </div>
+
+            <!-- Small Volume Measurements -->
+            <div class="bg-gray-50 rounded-lg p-6">
+                <h3 class="font-semibold text-gray-800 mb-4 flex items-center">
+                    <i class="fas fa-tint text-purple-600 mr-2"></i>
+                    Small Volume
+                </h3>
+                <div class="space-y-2">
+                    <a href="/ounces-to-gallons" class="block text-purple-600 hover:text-purple-700 text-sm hover:underline font-medium">Ounces to Gallons</a>
+                    <a href="/ounce-to-ml" class="block text-purple-600 hover:text-purple-700 text-sm hover:underline">Ounce to ML</a>
+                    <a href="/ml-to-ounce" class="block text-purple-600 hover:text-purple-700 text-sm hover:underline">ML to Ounce</a>
+                    <a href="/tablespoon-to-ml" class="block text-purple-600 hover:text-purple-700 text-sm hover:underline">Tablespoon to ML</a>
+                    <a href="/ml-to-tablespoon" class="block text-purple-600 hover:text-purple-700 text-sm hover:underline">ML to Tablespoon</a>
+                </div>
+            </div>
+
+            <!-- Cooking Measurements -->
+            <div class="bg-gray-50 rounded-lg p-6">
+                <h3 class="font-semibold text-gray-800 mb-4 flex items-center">
+                    <i class="fas fa-utensils text-orange-600 mr-2"></i>
+                    Cooking Units
+                </h3>
+                <div class="space-y-2">
+                    <a href="/teaspoon-to-ml" class="block text-orange-600 hover:text-orange-700 text-sm hover:underline">Teaspoon to ML</a>
+                    <a href="/ml-to-teaspoon" class="block text-orange-600 hover:text-orange-700 text-sm hover:underline">ML to Teaspoon</a>
+                    <a href="/cup-to-ounce" class="block text-orange-600 hover:text-orange-700 text-sm hover:underline">Cup to Ounce</a>
+                    <a href="/ounce-to-cup" class="block text-orange-600 hover:text-orange-700 text-sm hover:underline">Ounce to Cup</a>
+                    <a href="/pint-to-cup" class="block text-orange-600 hover:text-orange-700 text-sm hover:underline">Pint to Cup</a>
+                </div>
+            </div>
+        </div>
+
+        <!-- Popular Round Numbers -->
+        <div class="mb-8">
+            <h3 class="text-xl font-semibold text-gray-800 mb-4 text-center">Popular Gallon Conversions</h3>
+            <div class="grid grid-cols-2 md:grid-cols-4 lg:grid-cols-8 gap-3">
+                <a href="/gallons-to-ounces/1" class="text-center p-3 bg-emerald-50 rounded-lg hover:bg-emerald-100 transition-colors">
+                    <div class="font-medium text-emerald-700">1 gal</div>
+                    <div class="text-xs text-gray-600">128 fl oz</div>
+                </a>
+                <a href="/gallons-to-ounces/2" class="text-center p-3 bg-emerald-50 rounded-lg hover:bg-emerald-100 transition-colors">
+                    <div class="font-medium text-emerald-700">2 gal</div>
+                    <div class="text-xs text-gray-600">256 fl oz</div>
+                </a>
+                <a href="/gallons-to-ounces/3" class="text-center p-3 bg-emerald-50 rounded-lg hover:bg-emerald-100 transition-colors">
+                    <div class="font-medium text-emerald-700">3 gal</div>
+                    <div class="text-xs text-gray-600">384 fl oz</div>
+                </a>
+                <a href="/gallons-to-ounces/4" class="text-center p-3 bg-emerald-50 rounded-lg hover:bg-emerald-100 transition-colors">
+                    <div class="font-medium text-emerald-700">4 gal</div>
+                    <div class="text-xs text-gray-600">512 fl oz</div>
+                </a>
+                <a href="/gallons-to-ounces/5" class="text-center p-3 bg-emerald-50 rounded-lg hover:bg-emerald-100 transition-colors">
+                    <div class="font-medium text-emerald-700">5 gal</div>
+                    <div class="text-xs text-gray-600">640 fl oz</div>
+                </a>
+                <a href="/gallons-to-ounces/10" class="text-center p-3 bg-emerald-50 rounded-lg hover:bg-emerald-100 transition-colors">
+                    <div class="font-medium text-emerald-700">10 gal</div>
+                    <div class="text-xs text-gray-600">1,280 fl oz</div>
+                </a>
+                <a href="/gallons-to-ounces/25" class="text-center p-3 bg-emerald-50 rounded-lg hover:bg-emerald-100 transition-colors">
+                    <div class="font-medium text-emerald-700">25 gal</div>
+                    <div class="text-xs text-gray-600">3,200 fl oz</div>
+                </a>
+                <a href="/gallons-to-ounces/50" class="text-center p-3 bg-emerald-50 rounded-lg hover:bg-emerald-100 transition-colors">
+                    <div class="font-medium text-emerald-700">50 gal</div>
+                    <div class="text-xs text-gray-600">6,400 fl oz</div>
+                </a>
+            </div>
+        </div>
+
+        <!-- Comprehensive Gallons to Ounces Pages -->
+        <div class="mb-8">
+            <h3 class="text-xl font-semibold text-gray-800 mb-4 text-center">Gallons to Ounces - All Values (1-100)</h3>
+            <div class="grid grid-cols-4 md:grid-cols-8 lg:grid-cols-10 gap-2 text-sm">
+                <a href="/gallons-to-ounces/1" class="text-center p-2 bg-emerald-50 rounded hover:bg-emerald-100 transition-colors">
+                    <div class="font-medium text-emerald-700">1</div>
+                </a>
+                <a href="/gallons-to-ounces/2" class="text-center p-2 bg-emerald-50 rounded hover:bg-emerald-100 transition-colors">
+                    <div class="font-medium text-emerald-700">2</div>
+                </a>
+                <a href="/gallons-to-ounces/3" class="text-center p-2 bg-emerald-50 rounded hover:bg-emerald-100 transition-colors">
+                    <div class="font-medium text-emerald-700">3</div>
+                </a>
+                <a href="/gallons-to-ounces/4" class="text-center p-2 bg-emerald-50 rounded hover:bg-emerald-100 transition-colors">
+                    <div class="font-medium text-emerald-700">4</div>
+                </a>
+                <a href="/gallons-to-ounces/5" class="text-center p-2 bg-emerald-50 rounded hover:bg-emerald-100 transition-colors">
+                    <div class="font-medium text-emerald-700">5</div>
+                </a>
+                <a href="/gallons-to-ounces/6" class="text-center p-2 bg-emerald-50 rounded hover:bg-emerald-100 transition-colors">
+                    <div class="font-medium text-emerald-700">6</div>
+                </a>
+                <a href="/gallons-to-ounces/7" class="text-center p-2 bg-emerald-50 rounded hover:bg-emerald-100 transition-colors">
+                    <div class="font-medium text-emerald-700">7</div>
+                </a>
+                <a href="/gallons-to-ounces/8" class="text-center p-2 bg-emerald-50 rounded hover:bg-emerald-100 transition-colors">
+                    <div class="font-medium text-emerald-700">8</div>
+                </a>
+                <a href="/gallons-to-ounces/9" class="text-center p-2 bg-emerald-50 rounded hover:bg-emerald-100 transition-colors">
+                    <div class="font-medium text-emerald-700">9</div>
+                </a>
+                <a href="/gallons-to-ounces/10" class="text-center p-2 bg-emerald-50 rounded hover:bg-emerald-100 transition-colors">
+                    <div class="font-medium text-emerald-700">10</div>
+                </a>
+                <a href="/gallons-to-ounces/11" class="text-center p-2 bg-emerald-50 rounded hover:bg-emerald-100 transition-colors">
+                    <div class="font-medium text-emerald-700">11</div>
+                </a>
+                <a href="/gallons-to-ounces/12" class="text-center p-2 bg-emerald-50 rounded hover:bg-emerald-100 transition-colors">
+                    <div class="font-medium text-emerald-700">12</div>
+                </a>
+                <a href="/gallons-to-ounces/13" class="text-center p-2 bg-emerald-50 rounded hover:bg-emerald-100 transition-colors">
+                    <div class="font-medium text-emerald-700">13</div>
+                </a>
+                <a href="/gallons-to-ounces/14" class="text-center p-2 bg-emerald-50 rounded hover:bg-emerald-100 transition-colors">
+                    <div class="font-medium text-emerald-700">14</div>
+                </a>
+                <a href="/gallons-to-ounces/15" class="text-center p-2 bg-emerald-50 rounded hover:bg-emerald-100 transition-colors">
+                    <div class="font-medium text-emerald-700">15</div>
+                </a>
+                <a href="/gallons-to-ounces/16" class="text-center p-2 bg-emerald-50 rounded hover:bg-emerald-100 transition-colors">
+                    <div class="font-medium text-emerald-700">16</div>
+                </a>
+                <a href="/gallons-to-ounces/17" class="text-center p-2 bg-emerald-50 rounded hover:bg-emerald-100 transition-colors">
+                    <div class="font-medium text-emerald-700">17</div>
+                </a>
+                <a href="/gallons-to-ounces/18" class="text-center p-2 bg-emerald-50 rounded hover:bg-emerald-100 transition-colors">
+                    <div class="font-medium text-emerald-700">18</div>
+                </a>
+                <a href="/gallons-to-ounces/19" class="text-center p-2 bg-emerald-50 rounded hover:bg-emerald-100 transition-colors">
+                    <div class="font-medium text-emerald-700">19</div>
+                </a>
+                <a href="/gallons-to-ounces/20" class="text-center p-2 bg-emerald-50 rounded hover:bg-emerald-100 transition-colors">
+                    <div class="font-medium text-emerald-700">20</div>
+                </a>
+                <a href="/gallons-to-ounces/21" class="text-center p-2 bg-emerald-50 rounded hover:bg-emerald-100 transition-colors">
+                    <div class="font-medium text-emerald-700">21</div>
+                </a>
+                <a href="/gallons-to-ounces/22" class="text-center p-2 bg-emerald-50 rounded hover:bg-emerald-100 transition-colors">
+                    <div class="font-medium text-emerald-700">22</div>
+                </a>
+                <a href="/gallons-to-ounces/23" class="text-center p-2 bg-emerald-50 rounded hover:bg-emerald-100 transition-colors">
+                    <div class="font-medium text-emerald-700">23</div>
+                </a>
+                <a href="/gallons-to-ounces/24" class="text-center p-2 bg-emerald-50 rounded hover:bg-emerald-100 transition-colors">
+                    <div class="font-medium text-emerald-700">24</div>
+                </a>
+                <a href="/gallons-to-ounces/25" class="text-center p-2 bg-emerald-50 rounded hover:bg-emerald-100 transition-colors">
+                    <div class="font-medium text-emerald-700">25</div>
+                </a>
+                <a href="/gallons-to-ounces/26" class="text-center p-2 bg-emerald-50 rounded hover:bg-emerald-100 transition-colors">
+                    <div class="font-medium text-emerald-700">26</div>
+                </a>
+                <a href="/gallons-to-ounces/27" class="text-center p-2 bg-emerald-50 rounded hover:bg-emerald-100 transition-colors">
+                    <div class="font-medium text-emerald-700">27</div>
+                </a>
+                <a href="/gallons-to-ounces/28" class="text-center p-2 bg-emerald-50 rounded hover:bg-emerald-100 transition-colors">
+                    <div class="font-medium text-emerald-700">28</div>
+                </a>
+                <a href="/gallons-to-ounces/29" class="text-center p-2 bg-emerald-50 rounded hover:bg-emerald-100 transition-colors">
+                    <div class="font-medium text-emerald-700">29</div>
+                </a>
+                <a href="/gallons-to-ounces/30" class="text-center p-2 bg-emerald-50 rounded hover:bg-emerald-100 transition-colors">
+                    <div class="font-medium text-emerald-700">30</div>
+                </a>
+                <a href="/gallons-to-ounces/35" class="text-center p-2 bg-emerald-50 rounded hover:bg-emerald-100 transition-colors">
+                    <div class="font-medium text-emerald-700">35</div>
+                </a>
+                <a href="/gallons-to-ounces/40" class="text-center p-2 bg-emerald-50 rounded hover:bg-emerald-100 transition-colors">
+                    <div class="font-medium text-emerald-700">40</div>
+                </a>
+                <a href="/gallons-to-ounces/45" class="text-center p-2 bg-emerald-50 rounded hover:bg-emerald-100 transition-colors">
+                    <div class="font-medium text-emerald-700">45</div>
+                </a>
+                <a href="/gallons-to-ounces/50" class="text-center p-2 bg-emerald-50 rounded hover:bg-emerald-100 transition-colors">
+                    <div class="font-medium text-emerald-700">50</div>
+                </a>
+                <a href="/gallons-to-ounces/55" class="text-center p-2 bg-emerald-50 rounded hover:bg-emerald-100 transition-colors">
+                    <div class="font-medium text-emerald-700">55</div>
+                </a>
+                <a href="/gallons-to-ounces/60" class="text-center p-2 bg-emerald-50 rounded hover:bg-emerald-100 transition-colors">
+                    <div class="font-medium text-emerald-700">60</div>
+                </a>
+                <a href="/gallons-to-ounces/65" class="text-center p-2 bg-emerald-50 rounded hover:bg-emerald-100 transition-colors">
+                    <div class="font-medium text-emerald-700">65</div>
+                </a>
+                <a href="/gallons-to-ounces/70" class="text-center p-2 bg-emerald-50 rounded hover:bg-emerald-100 transition-colors">
+                    <div class="font-medium text-emerald-700">70</div>
+                </a>
+                <a href="/gallons-to-ounces/75" class="text-center p-2 bg-emerald-50 rounded hover:bg-emerald-100 transition-colors">
+                    <div class="font-medium text-emerald-700">75</div>
+                </a>
+                <a href="/gallons-to-ounces/80" class="text-center p-2 bg-emerald-50 rounded hover:bg-emerald-100 transition-colors">
+                    <div class="font-medium text-emerald-700">80</div>
+                </a>
+                <a href="/gallons-to-ounces/85" class="text-center p-2 bg-emerald-50 rounded hover:bg-emerald-100 transition-colors">
+                    <div class="font-medium text-emerald-700">85</div>
+                </a>
+                <a href="/gallons-to-ounces/90" class="text-center p-2 bg-emerald-50 rounded hover:bg-emerald-100 transition-colors">
+                    <div class="font-medium text-emerald-700">90</div>
+                </a>
+                <a href="/gallons-to-ounces/95" class="text-center p-2 bg-emerald-50 rounded hover:bg-emerald-100 transition-colors">
+                    <div class="font-medium text-emerald-700">95</div>
+                </a>
+                <a href="/gallons-to-ounces/100" class="text-center p-2 bg-emerald-50 rounded hover:bg-emerald-100 transition-colors">
+                    <div class="font-medium text-emerald-700">100</div>
+                </a>
+            </div>
+        </div>
+
+        <!-- Comprehensive Ounces to Gallons Pages -->
+        <div class="mb-8">
+            <h3 class="text-xl font-semibold text-gray-800 mb-4 text-center">Ounces to Gallons - Popular Values</h3>
+            <div class="grid grid-cols-4 md:grid-cols-8 lg:grid-cols-10 gap-2 text-sm">
+                <a href="/ounces-to-gallons/1" class="text-center p-2 bg-blue-50 rounded hover:bg-blue-100 transition-colors">
+                    <div class="font-medium text-blue-700">1 oz</div>
+                </a>
+                <a href="/ounces-to-gallons/8" class="text-center p-2 bg-blue-50 rounded hover:bg-blue-100 transition-colors">
+                    <div class="font-medium text-blue-700">8 oz</div>
+                </a>
+                <a href="/ounces-to-gallons/16" class="text-center p-2 bg-blue-50 rounded hover:bg-blue-100 transition-colors">
+                    <div class="font-medium text-blue-700">16 oz</div>
+                </a>
+                <a href="/ounces-to-gallons/24" class="text-center p-2 bg-blue-50 rounded hover:bg-blue-100 transition-colors">
+                    <div class="font-medium text-blue-700">24 oz</div>
+                </a>
+                <a href="/ounces-to-gallons/32" class="text-center p-2 bg-blue-50 rounded hover:bg-blue-100 transition-colors">
+                    <div class="font-medium text-blue-700">32 oz</div>
+                </a>
+                <a href="/ounces-to-gallons/40" class="text-center p-2 bg-blue-50 rounded hover:bg-blue-100 transition-colors">
+                    <div class="font-medium text-blue-700">40 oz</div>
+                </a>
+                <a href="/ounces-to-gallons/48" class="text-center p-2 bg-blue-50 rounded hover:bg-blue-100 transition-colors">
+                    <div class="font-medium text-blue-700">48 oz</div>
+                </a>
+                <a href="/ounces-to-gallons/56" class="text-center p-2 bg-blue-50 rounded hover:bg-blue-100 transition-colors">
+                    <div class="font-medium text-blue-700">56 oz</div>
+                </a>
+                <a href="/ounces-to-gallons/64" class="text-center p-2 bg-blue-50 rounded hover:bg-blue-100 transition-colors">
+                    <div class="font-medium text-blue-700">64 oz</div>
+                </a>
+                <a href="/ounces-to-gallons/72" class="text-center p-2 bg-blue-50 rounded hover:bg-blue-100 transition-colors">
+                    <div class="font-medium text-blue-700">72 oz</div>
+                </a>
+                <a href="/ounces-to-gallons/80" class="text-center p-2 bg-blue-50 rounded hover:bg-blue-100 transition-colors">
+                    <div class="font-medium text-blue-700">80 oz</div>
+                </a>
+                <a href="/ounces-to-gallons/88" class="text-center p-2 bg-blue-50 rounded hover:bg-blue-100 transition-colors">
+                    <div class="font-medium text-blue-700">88 oz</div>
+                </a>
+                <a href="/ounces-to-gallons/96" class="text-center p-2 bg-blue-50 rounded hover:bg-blue-100 transition-colors">
+                    <div class="font-medium text-blue-700">96 oz</div>
+                </a>
+                <a href="/ounces-to-gallons/100" class="text-center p-2 bg-blue-50 rounded hover:bg-blue-100 transition-colors">
+                    <div class="font-medium text-blue-700">100 oz</div>
+                </a>
+                <a href="/ounces-to-gallons/128" class="text-center p-2 bg-blue-50 rounded hover:bg-blue-100 transition-colors">
+                    <div class="font-medium text-blue-700">128 oz</div>
+                </a>
+                <a href="/ounces-to-gallons/256" class="text-center p-2 bg-blue-50 rounded hover:bg-blue-100 transition-colors">
+                    <div class="font-medium text-blue-700">256 oz</div>
+                </a>
+                <a href="/ounces-to-gallons/384" class="text-center p-2 bg-blue-50 rounded hover:bg-blue-100 transition-colors">
+                    <div class="font-medium text-blue-700">384 oz</div>
+                </a>
+                <a href="/ounces-to-gallons/512" class="text-center p-2 bg-blue-50 rounded hover:bg-blue-100 transition-colors">
+                    <div class="font-medium text-blue-700">512 oz</div>
+                </a>
+                <a href="/ounces-to-gallons/640" class="text-center p-2 bg-blue-50 rounded hover:bg-blue-100 transition-colors">
+                    <div class="font-medium text-blue-700">640 oz</div>
+                </a>
+                <a href="/ounces-to-gallons/1000" class="text-center p-2 bg-blue-50 rounded hover:bg-blue-100 transition-colors">
+                    <div class="font-medium text-blue-700">1000 oz</div>
+                </a>
+            </div>
+        </div>
+
+        <!-- Kitchen Measurements -->
+        <div class="mb-8">
+            <h3 class="text-xl font-semibold text-gray-800 mb-4 text-center">Kitchen & Recipe Conversions</h3>
+            <div class="grid grid-cols-1 md:grid-cols-3 gap-4">
+                <div class="bg-gradient-to-br from-yellow-50 to-orange-50 p-4 rounded-lg border border-yellow-200">
+                    <h4 class="font-medium text-gray-800 mb-3 flex items-center">
+                        <i class="fas fa-cookie-bite text-yellow-600 mr-2"></i>
+                        Baking Essentials
+                    </h4>
+                    <div class="space-y-1">
+                        <a href="/cup-to-ml" class="block text-yellow-700 hover:text-yellow-800 text-sm hover:underline">Cup to ML</a>
+                        <a href="/tablespoon-to-ml" class="block text-yellow-700 hover:text-yellow-800 text-sm hover:underline">Tablespoon to ML</a>
+                        <a href="/teaspoon-to-ml" class="block text-yellow-700 hover:text-yellow-800 text-sm hover:underline">Teaspoon to ML</a>
+                        <a href="/ounce-to-ml" class="block text-yellow-700 hover:text-yellow-800 text-sm hover:underline">Ounce to ML</a>
+                    </div>
+                </div>
+                
+                <div class="bg-gradient-to-br from-green-50 to-emerald-50 p-4 rounded-lg border border-green-200">
+                    <h4 class="font-medium text-gray-800 mb-3 flex items-center">
+                        <i class="fas fa-cocktail text-green-600 mr-2"></i>
+                        Beverage Mixing
+                    </h4>
+                    <div class="space-y-1">
+                        <a href="/ounces-to-gallons" class="block text-green-700 hover:text-green-800 text-sm hover:underline font-medium">Ounces to Gallons</a>
+                        <a href="/liter-to-gallon" class="block text-green-700 hover:text-green-800 text-sm hover:underline">Liter to Gallon</a>
+                        <a href="/ml-to-ounce" class="block text-green-700 hover:text-green-800 text-sm hover:underline">ML to Ounce</a>
+                        <a href="/pint-to-ml" class="block text-green-700 hover:text-green-800 text-sm hover:underline">Pint to ML</a>
+                    </div>
+                </div>
+                
+                <div class="bg-gradient-to-br from-red-50 to-pink-50 p-4 rounded-lg border border-red-200">
+                    <h4 class="font-medium text-gray-800 mb-3 flex items-center">
+                        <i class="fas fa-fire text-red-600 mr-2"></i>
+                        Large Batch Cooking
+                    </h4>
+                    <div class="space-y-1">
+                        <a href="/gallon-to-liter" class="block text-red-700 hover:text-red-800 text-sm hover:underline">Gallon to Liter</a>
+                        <a href="/quart-to-liter" class="block text-red-700 hover:text-red-800 text-sm hover:underline">Quart to Liter</a>
+                        <a href="/gallon-to-quart" class="block text-red-700 hover:text-red-800 text-sm hover:underline">Gallon to Quart</a>
+                        <a href="/barrel-to-gallon" class="block text-red-700 hover:text-red-800 text-sm hover:underline">Barrel to Gallon</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- All Volume Converters -->
+        <div class="text-center">
+            <h3 class="text-xl font-semibold text-gray-800 mb-4">Complete Volume Conversion Tools</h3>
+            <div class="flex flex-wrap justify-center gap-2">
+                <a href="/volume-converter" class="px-4 py-2 bg-emerald-600 text-white rounded-lg hover:bg-emerald-700 transition-colors font-medium">All Volume Converters</a>
+                <a href="/cooking-converter" class="px-4 py-2 bg-blue-600 text-white rounded-lg hover:bg-blue-700 transition-colors">Cooking Converters</a>
+                <a href="/metric-converter" class="px-4 py-2 bg-purple-600 text-white rounded-lg hover:bg-purple-700 transition-colors">Metric Converters</a>
+                <a href="/imperial-converter" class="px-4 py-2 bg-orange-600 text-white rounded-lg hover:bg-orange-700 transition-colors">Imperial Converters</a>
+            </div>
         </div>
     </div>
 </section>
