@@ -195,6 +195,24 @@ for ($i = 1; $i <= 1000; $i++) {
     ];
 }
 
+// Add OUNCES to GALLONS converter dynamic pages (1-100)
+for ($i = 1; $i <= 100; $i++) {
+    $pages["/ounces-to-gallons/{$i}"] = [
+        'lastmod' => date('Y-m-d'),
+        'changefreq' => 'monthly',
+        'priority' => '0.7'
+    ];
+}
+
+// Add GALLONS to OUNCES converter dynamic pages (1-100) 
+for ($i = 1; $i <= 100; $i++) {
+    $pages["/gallons-to-ounces/{$i}"] = [
+        'lastmod' => date('Y-m-d'),
+        'changefreq' => 'monthly', 
+        'priority' => '0.7'
+    ];
+}
+
 // Pages to EXCLUDE (will not appear in sitemap)
 $excludedPages = [
     '/404.php',
