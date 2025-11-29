@@ -54,7 +54,7 @@
     <!-- Hero Section -->
     <section class="hero-section text-center">
         <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-            <h1 class="text-4xl md:text-5xl font-bold mb-4">About Thiyagi Tools 2025 - 20+ Years of Excellence</h1>
+            <h1 class="text-4xl md:text-5xl font-bold mb-4">About Thiyagi Tools 2025 - 25+ Years of Excellence</h1>
             <p class="text-xl md:text-2xl">Empowering creators and developers with professional online tools - Built with 25+ years of digital expertise since 1999</p>
         </div>
     </section>
