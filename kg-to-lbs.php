@@ -241,8 +241,8 @@ $canonicalUrl = $isDynamicPage ?
         </div>
         <?php endif; ?>
         <p class="text-xl text-gray-600 mb-8 max-w-3xl mx-auto">
-          Convert kilograms to pounds instantly with our accurate 2025 calculator. 
-          Perfect for fitness tracking, weight management, and international weight conversions.
+          Convert <a href="/kg-to-gram" class="text-blue-600 hover:text-blue-800 underline">kilograms</a> to <a href="/lbs-to-kg" class="text-blue-600 hover:text-blue-800 underline">pounds</a> instantly with our accurate 2025 calculator. 
+          Perfect for <a href="/bmi-calculator" class="text-blue-600 hover:text-blue-800 underline">fitness tracking</a>, weight management, and international weight conversions.
         </p>
       </div>
     </div>
@@ -268,6 +268,9 @@ $canonicalUrl = $isDynamicPage ?
             <a href="/kg-to-gram" class="px-4 py-2 bg-white rounded-lg shadow hover:shadow-md transition-shadow text-red-600 hover:text-red-700" role="listitem">KG to Gram</a>
             <a href="/ounce-to-gram" class="px-4 py-2 bg-white rounded-lg shadow hover:shadow-md transition-shadow text-red-600 hover:text-red-700" role="listitem">Ounce to Gram</a>
             <a href="/ton-to-kg" class="px-4 py-2 bg-white rounded-lg shadow hover:shadow-md transition-shadow text-red-600 hover:text-red-700" role="listitem">Ton to KG</a>
+            <a href="/bmi-calculator" class="px-4 py-2 bg-white rounded-lg shadow hover:shadow-md transition-shadow text-red-600 hover:text-red-700" role="listitem">BMI Calculator</a>
+            <a href="/stone-to-kg" class="px-4 py-2 bg-white rounded-lg shadow hover:shadow-md transition-shadow text-red-600 hover:text-red-700" role="listitem">Stone to KG</a>
+            <a href="/kg-to-stone" class="px-4 py-2 bg-white rounded-lg shadow hover:shadow-md transition-shadow text-red-600 hover:text-red-700" role="listitem">KG to Stone</a>
         </div>
     </div>
 </section>
@@ -363,14 +366,14 @@ $canonicalUrl = $isDynamicPage ?
       </h2>
       <div class="prose max-w-none text-gray-600">
         <p class="mb-4">
-          Converting kilograms to pounds is essential for fitness tracking, weight management, and international weight conversions in 2025. 
-          This weight unit conversion enables accurate calculations for athletes, 
+          Converting <a href="/kg-to-gram" class="text-blue-600 hover:text-blue-800 underline">kilograms</a> to <a href="/lbs-to-kg" class="text-blue-600 hover:text-blue-800 underline">pounds</a> is essential for <a href="/bmi-calculator" class="text-blue-600 hover:text-blue-800 underline">fitness tracking</a>, weight management, and international weight conversions in 2025. 
+          This <a href="/area-converter" class="text-blue-600 hover:text-blue-800 underline">weight unit conversion</a> enables accurate calculations for athletes, 
           health professionals, and travelers working with international weight standards.
         </p>
         <p class="mb-6">
-          Our 2025 converter provides instant and accurate conversions from kilograms to pounds, essential for fitness enthusiasts, 
+          Our 2025 converter provides instant and accurate conversions from <a href="/kg-to-stone" class="text-blue-600 hover:text-blue-800 underline">kilograms</a> to <a href="/stone-to-kg" class="text-blue-600 hover:text-blue-800 underline">pounds</a>, essential for fitness enthusiasts, 
           healthcare professionals, athletes, and travelers working with weight measurements. 
-          One kilogram equals approximately 2.20462 pounds.
+          One <a href="/gram-to-kg" class="text-blue-600 hover:text-blue-800 underline">kilogram</a> equals approximately <a href="/ounce-to-gram" class="text-blue-600 hover:text-blue-800 underline">2.20462 pounds</a>.
         </p>
       </div>
     </article>
@@ -393,8 +396,8 @@ $canonicalUrl = $isDynamicPage ?
                 <span class="text-red-600 font-bold text-sm">1</span>
               </div>
               <div>
-                <h4 class="font-medium text-gray-800">Take your kilogram value</h4>
-                <p class="text-gray-600 text-sm">Example: 70 kilograms</p>
+                <h4 class="font-medium text-gray-800">Take your <a href="/kg-to-gram" class="text-blue-600 hover:text-blue-800 underline">kilogram</a> value</h4>
+                <p class="text-gray-600 text-sm">Example: 70 <a href="/gram-to-kg" class="text-blue-600 hover:text-blue-800 underline">kilograms</a></p>
               </div>
             </div>
             <div class="flex items-start gap-3">
@@ -426,8 +429,8 @@ $canonicalUrl = $isDynamicPage ?
                 <span class="text-orange-600 font-bold text-sm">1</span>
               </div>
               <div>
-                <h4 class="font-medium text-gray-800">1 Kilogram = 2.20462 Pounds</h4>
-                <p class="text-gray-600 text-sm">International weight conversion factor</p>
+                <h4 class="font-medium text-gray-800">1 <a href="/kg-to-stone" class="text-blue-600 hover:text-blue-800 underline">Kilogram</a> = 2.20462 <a href="/lbs-to-kg" class="text-blue-600 hover:text-blue-800 underline">Pounds</a></h4>
+                <p class="text-gray-600 text-sm">International <a href="/area-converter" class="text-blue-600 hover:text-blue-800 underline">weight conversion</a> factor</p>
               </div>
             </div>
             <div class="flex items-start gap-3">
@@ -508,12 +511,12 @@ $canonicalUrl = $isDynamicPage ?
             <tr class="hover:bg-gray-50">
               <td class="border border-gray-300 px-4 py-3">50 kg</td>
               <td class="border border-gray-300 px-4 py-3 font-medium text-red-700">110.23 lbs</td>
-              <td class="border border-gray-300 px-4 py-3 text-gray-600">Average person weight</td>
+              <td class="border border-gray-300 px-4 py-3 text-gray-600">Average person weight (<a href="/bmi-calculator" class="text-blue-600 hover:text-blue-800 underline">BMI check</a>)</td>
             </tr>
             <tr class="hover:bg-gray-50">
               <td class="border border-gray-300 px-4 py-3">70 kg</td>
               <td class="border border-gray-300 px-4 py-3 font-medium text-red-700">154.32 lbs</td>
-              <td class="border border-gray-300 px-4 py-3 text-gray-600">Healthy adult weight</td>
+              <td class="border border-gray-300 px-4 py-3 text-gray-600">Healthy adult weight (<a href="/bmi-calculator" class="text-blue-600 hover:text-blue-800 underline">ideal range</a>)</td>
             </tr>
             <tr class="hover:bg-gray-50">
               <td class="border border-gray-300 px-4 py-3">80 kg</td>
@@ -1034,7 +1037,7 @@ window.addEventListener('DOMContentLoaded', () => {
         </h3>
         <div itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
           <p class="text-gray-600" itemprop="text">
-            Converting kg to lbs is essential for international communication, travel, fitness tracking, medical consultations, and understanding product specifications. The US primarily uses pounds while most other countries use kilograms.
+            Converting <a href="/kg-to-stone" class="text-blue-600 hover:text-blue-800 underline">kg</a> to <a href="/lbs-to-kg" class="text-blue-600 hover:text-blue-800 underline">lbs</a> is essential for international communication, travel, <a href="/bmi-calculator" class="text-blue-600 hover:text-blue-800 underline">fitness tracking</a>, medical consultations, and understanding product specifications. The US primarily uses <a href="/stone-to-kg" class="text-blue-600 hover:text-blue-800 underline">pounds</a> while most other countries use <a href="/gram-to-kg" class="text-blue-600 hover:text-blue-800 underline">kilograms</a>.
           </p>
         </div>
       </div>
@@ -1067,7 +1070,7 @@ window.addEventListener('DOMContentLoaded', () => {
         </h3>
         <div itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
           <p class="text-gray-600" itemprop="text">
-            Absolutely! Our converter handles decimal values like 70.5 kg, 68.2 kg, or any fractional weight. Simply enter the decimal value and get precise pound conversions instantly.
+            Absolutely! Our <a href="/kg-to-gram" class="text-blue-600 hover:text-blue-800 underline">converter</a> handles decimal values like 70.5 kg, 68.2 kg, or any fractional weight. Simply enter the decimal value and get precise <a href="/lbs-to-kg" class="text-blue-600 hover:text-blue-800 underline">pound conversions</a> instantly. Perfect for <a href="/bmi-calculator" class="text-blue-600 hover:text-blue-800 underline">BMI calculations</a> and health tracking.
           </p>
         </div>
       </div>
@@ -1102,19 +1105,19 @@ window.addEventListener('DOMContentLoaded', () => {
       </h3>
       <div class="grid md:grid-cols-2 gap-4">
         <ul class="list-disc list-inside space-y-1 text-gray-700 text-sm">
-          <li>1 kg ≈ 2.2 lbs (quick mental calculation)</li>
-          <li>Multiply kg by 2.2 for rough estimates</li>
-          <li>For precision, use 2.20462 as the multiplier</li>
+          <li>1 <a href="/kg-to-gram" class="text-blue-600 hover:text-blue-800 underline">kg</a> ≈ 2.2 <a href="/lbs-to-kg" class="text-blue-600 hover:text-blue-800 underline">lbs</a> (quick mental calculation)</li>
+          <li>Multiply <a href="/gram-to-kg" class="text-blue-600 hover:text-blue-800 underline">kg</a> by 2.2 for rough estimates</li>
+          <li>For precision, use 2.20462 as the multiplier (<a href="/area-converter" class="text-blue-600 hover:text-blue-800 underline">conversion standard</a>)</li>
           <?php if ($isDynamicPage && $inputValue <= 100): ?>
-          <li><?php echo number_format($inputValue, ($inputValue == intval($inputValue)) ? 0 : 2); ?> kg is perfect for body weight tracking</li>
+          <li><?php echo number_format($inputValue, ($inputValue == intval($inputValue)) ? 0 : 2); ?> kg is perfect for <a href="/bmi-calculator" class="text-blue-600 hover:text-blue-800 underline">body weight tracking</a></li>
           <?php endif; ?>
         </ul>
         <ul class="list-disc list-inside space-y-1 text-gray-700 text-sm">
-          <li>Kilograms are used in most countries worldwide</li>
-          <li>Pounds are primarily used in the US and UK</li>
-          <li>Both units measure mass/weight accurately</li>
+          <li><a href="/kg-to-stone" class="text-blue-600 hover:text-blue-800 underline">Kilograms</a> are used in most countries worldwide</li>
+          <li><a href="/stone-to-kg" class="text-blue-600 hover:text-blue-800 underline">Pounds</a> are primarily used in the US and UK</li>
+          <li>Both units measure mass/weight accurately (see <a href="/ton-to-kg" class="text-blue-600 hover:text-blue-800 underline">other units</a>)</li>
           <?php if ($isDynamicPage): ?>
-          <li>Remember: <?php echo number_format($inputValue, ($inputValue == intval($inputValue)) ? 0 : 2); ?> kg = <?php echo number_format($outputValue, 2); ?> lbs</li>
+          <li>Remember: <?php echo number_format($inputValue, ($inputValue == intval($inputValue)) ? 0 : 2); ?> kg = <?php echo number_format($outputValue, 2); ?> lbs (<a href="/bmi-calculator" class="text-blue-600 hover:text-blue-800 underline">check BMI</a>)</li>
           <?php endif; ?>
         </ul>
       </div>
