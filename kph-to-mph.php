@@ -691,17 +691,111 @@ if ($isDynamicPage) {
           <i class="fas fa-link text-blue-600" aria-hidden="true"></i>
           Related Speed Conversions
         </h3>
-        <div class="grid grid-cols-2 md:grid-cols-4 gap-2 text-sm">
-          <?php 
-          $relatedSpeeds = [$inputValue - 10, $inputValue + 10, $inputValue * 2, $inputValue / 2];
-          foreach ($relatedSpeeds as $speed) {
-              if ($speed > 0 && $speed != $inputValue) {
-                  $relatedMph = $speed * 0.621371;
-                  echo '<a href="/kph-to-mph/' . number_format($speed, 0) . '" class="bg-white rounded px-3 py-2 text-blue-600 hover:text-blue-800 hover:bg-blue-50 transition-colors text-center">' . 
-                       number_format($speed, 0) . ' KPH<br><span class="text-xs text-gray-500">' . number_format($relatedMph, 1) . ' MPH</span></a>';
-              }
-          }
-          ?>
+        
+        <!-- Mathematical Related Speeds -->
+        <div class="mb-4">
+          <h4 class="text-sm font-medium text-gray-700 mb-2">Mathematical Relations</h4>
+          <div class="grid grid-cols-2 md:grid-cols-4 gap-2 text-sm">
+            <?php 
+            $mathRelatedSpeeds = [
+                $inputValue - 20, $inputValue - 10, $inputValue + 10, $inputValue + 20,
+                $inputValue * 2, $inputValue / 2, $inputValue * 1.5, $inputValue / 1.5
+            ];
+            foreach ($mathRelatedSpeeds as $speed) {
+                if ($speed > 0 && $speed != $inputValue) {
+                    $relatedMph = $speed * 0.621371;
+                    echo '<a href="/kph-to-mph/' . number_format($speed, 0) . '" class="bg-white rounded px-3 py-2 text-blue-600 hover:text-blue-800 hover:bg-blue-50 transition-colors text-center">' . 
+                         number_format($speed, 0) . ' KPH<br><span class="text-xs text-gray-500">' . number_format($relatedMph, 1) . ' MPH</span></a>';
+                }
+            }
+            ?>
+          </div>
+        </div>
+        
+        <!-- Common Speed Limits -->
+        <div class="mb-4">
+          <h4 class="text-sm font-medium text-gray-700 mb-2">Common Speed Limits</h4>
+          <div class="grid grid-cols-3 md:grid-cols-6 gap-2 text-sm">
+            <?php 
+            $commonSpeeds = [25, 30, 40, 50, 60, 70, 80, 90, 100, 110, 120, 130];
+            foreach ($commonSpeeds as $speed) {
+                if ($speed != $inputValue) {
+                    $mph = $speed * 0.621371;
+                    $category = '';
+                    if ($speed <= 30) $category = 'City';
+                    elseif ($speed <= 60) $category = 'Urban'; 
+                    elseif ($speed <= 100) $category = 'Highway';
+                    else $category = 'Fast';
+                    
+                    echo '<a href="/kph-to-mph/' . $speed . '" class="bg-white rounded px-2 py-2 text-blue-600 hover:text-blue-800 hover:bg-blue-50 transition-colors text-center">' . 
+                         $speed . ' KPH<br><span class="text-xs text-gray-500">' . number_format($mph, 1) . ' MPH</span><br>' .
+                         '<span class="text-xs text-green-600">' . $category . '</span></a>';
+                }
+            }
+            ?>
+          </div>
+        </div>
+        
+        <!-- Round Numbers -->
+        <div class="mb-4">
+          <h4 class="text-sm font-medium text-gray-700 mb-2">Popular Round Numbers</h4>
+          <div class="grid grid-cols-4 md:grid-cols-6 gap-2 text-sm">
+            <?php 
+            $roundSpeeds = [5, 10, 15, 20, 25, 35, 45, 55, 65, 75, 85, 95, 
+                           150, 200, 250, 300, 400, 500];
+            $displayedCount = 0;
+            foreach ($roundSpeeds as $speed) {
+                if ($speed != $inputValue && $displayedCount < 12) {
+                    $mph = $speed * 0.621371;
+                    echo '<a href="/kph-to-mph/' . $speed . '" class="bg-white rounded px-2 py-2 text-blue-600 hover:text-blue-800 hover:bg-blue-50 transition-colors text-center">' . 
+                         $speed . ' KPH<br><span class="text-xs text-gray-500">' . number_format($mph, 1) . ' MPH</span></a>';
+                    $displayedCount++;
+                }
+            }
+            ?>
+          </div>
+        </div>
+        
+        <!-- Speed Categories -->
+        <div>
+          <h4 class="text-sm font-medium text-gray-700 mb-2">By Speed Category</h4>
+          <div class="grid grid-cols-2 md:grid-cols-4 gap-3 text-sm">
+            <div class="bg-white rounded-lg p-3 border-l-4 border-green-500">
+              <h5 class="font-medium text-green-700 mb-2">City Speeds</h5>
+              <div class="space-y-1">
+                <a href="/kph-to-mph/20" class="block text-blue-600 hover:text-blue-800">20 KPH → 12.4 MPH</a>
+                <a href="/kph-to-mph/30" class="block text-blue-600 hover:text-blue-800">30 KPH → 18.6 MPH</a>
+                <a href="/kph-to-mph/40" class="block text-blue-600 hover:text-blue-800">40 KPH → 24.9 MPH</a>
+              </div>
+            </div>
+            
+            <div class="bg-white rounded-lg p-3 border-l-4 border-blue-500">
+              <h5 class="font-medium text-blue-700 mb-2">Urban Speeds</h5>
+              <div class="space-y-1">
+                <a href="/kph-to-mph/50" class="block text-blue-600 hover:text-blue-800">50 KPH → 31.1 MPH</a>
+                <a href="/kph-to-mph/60" class="block text-blue-600 hover:text-blue-800">60 KPH → 37.3 MPH</a>
+                <a href="/kph-to-mph/70" class="block text-blue-600 hover:text-blue-800">70 KPH → 43.5 MPH</a>
+              </div>
+            </div>
+            
+            <div class="bg-white rounded-lg p-3 border-l-4 border-yellow-500">
+              <h5 class="font-medium text-yellow-700 mb-2">Highway Speeds</h5>
+              <div class="space-y-1">
+                <a href="/kph-to-mph/80" class="block text-blue-600 hover:text-blue-800">80 KPH → 49.7 MPH</a>
+                <a href="/kph-to-mph/100" class="block text-blue-600 hover:text-blue-800">100 KPH → 62.1 MPH</a>
+                <a href="/kph-to-mph/120" class="block text-blue-600 hover:text-blue-800">120 KPH → 74.6 MPH</a>
+              </div>
+            </div>
+            
+            <div class="bg-white rounded-lg p-3 border-l-4 border-red-500">
+              <h5 class="font-medium text-red-700 mb-2">High Speed</h5>
+              <div class="space-y-1">
+                <a href="/kph-to-mph/150" class="block text-blue-600 hover:text-blue-800">150 KPH → 93.2 MPH</a>
+                <a href="/kph-to-mph/200" class="block text-blue-600 hover:text-blue-800">200 KPH → 124 MPH</a>
+                <a href="/kph-to-mph/250" class="block text-blue-600 hover:text-blue-800">250 KPH → 155 MPH</a>
+              </div>
+            </div>
+          </div>
         </div>
       </div>
       <?php endif; ?>
