@@ -1,21 +1,52 @@
-<?php include 'header.php';?>
-<title>KPH to MPH Converter 2025 | km/h to mph | Free Speed Tool</title>
-<meta name="description" content="Convert kilometers per hour to miles per hour instantly with our 2025 accurate converter. Perfect kph to mph conversion for automotive and speed calculations.">
+<?php 
+include 'header.php';
+
+// Handle dynamic URL parameter
+$inputValue = null;
+$outputValue = null;
+$isDynamicPage = false;
+
+if (isset($_GET['value'])) {
+    $value = trim($_GET['value']);
+    
+    // Validate the input value (must be numeric and non-negative)
+    if (is_numeric($value) && floatval($value) >= 0) {
+        $inputValue = floatval($value);
+        $outputValue = $inputValue * 0.621371; // Convert kph to mph
+        $isDynamicPage = true;
+    }
+}
+
+// Generate dynamic content
+$pageTitle = $isDynamicPage ? 
+    "Convert {$inputValue} KPH to MPH | {$inputValue} km/h = " . number_format($outputValue, 4) . " mph" : 
+    "KPH to MPH Converter 2025 | km/h to mph | Free Speed Tool";
+
+$pageDescription = $isDynamicPage ? 
+    "Convert {$inputValue} kilometers per hour to miles per hour. {$inputValue} kph equals " . number_format($outputValue, 4) . " mph. Instant, accurate conversion with our speed calculator." :
+    "Convert kilometers per hour to miles per hour instantly with our 2025 accurate converter. Perfect kph to mph conversion for automotive and speed calculations.";
+
+$canonicalUrl = $isDynamicPage ? 
+    "https://www.thiyagi.com/kph-to-mph/{$inputValue}" : 
+    "https://www.thiyagi.com/kph-to-mph";
+?>
+<title><?php echo htmlspecialchars($pageTitle); ?></title>
+<meta name="description" content="<?php echo htmlspecialchars($pageDescription); ?>">
 <meta name="keywords" content="kph to mph converter 2025, km/h to mph converter, kilometers per hour miles per hour conversion, speed converter 2025, automotive calculator, driving tools, velocity conversion, speedometer converter, road speed calculator">
-<link rel="canonical" href="https://www.thiyagi.com/kph-to-mph">
+<link rel="canonical" href="<?php echo htmlspecialchars($canonicalUrl); ?>">
 
 <!-- Open Graph Meta Tags -->
-<meta property="og:title" content="KPH to MPH Converter 2025 | km/h to mph | Free Speed Tool">
-<meta property="og:description" content="Convert kilometers per hour to miles per hour instantly with our 2025 accurate converter. Perfect kph to mph conversion for automotive and speed calculations.">
-<meta property="og:url" content="https://www.thiyagi.com/kph-to-mph">
+<meta property="og:title" content="<?php echo htmlspecialchars($pageTitle); ?>">
+<meta property="og:description" content="<?php echo htmlspecialchars($pageDescription); ?>">
+<meta property="og:url" content="<?php echo htmlspecialchars($canonicalUrl); ?>">
 <meta property="og:type" content="website">
 <meta property="og:image" content="https://www.thiyagi.com/nt.png">
 <meta property="og:site_name" content="Thiyagi Tools">
 
 <!-- Twitter Card Meta Tags -->
 <meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:title" content="KPH to MPH Converter 2025 | km/h to mph | Free Speed Tool">
-<meta name="twitter:description" content="Convert kilometers per hour to miles per hour instantly with our 2025 accurate converter. Perfect kph to mph conversion for automotive and speed calculations.">
+<meta name="twitter:title" content="<?php echo htmlspecialchars($pageTitle); ?>">
+<meta name="twitter:description" content="<?php echo htmlspecialchars($pageDescription); ?>">
 <meta name="twitter:image" content="https://www.thiyagi.com/nt.png">
 
 <!-- Additional SEO Meta Tags -->
@@ -47,8 +78,8 @@
   "@context": "https://schema.org",
   "@type": "WebApplication",
   "name": "KPH to MPH Converter",
-  "description": "Convert kilometers per hour to miles per hour instantly with our accurate 2025 calculator. Perfect kph to mph conversion for automotive and speed calculations.",
-  "url": "https://www.thiyagi.com/kph-to-mph",
+  "description": "<?php echo addslashes($pageDescription); ?>",
+  "url": "<?php echo $canonicalUrl; ?>",
   "applicationCategory": "UtilityApplication",
   "operatingSystem": "Web Browser",
   "permissions": "no special permissions required",
@@ -171,9 +202,24 @@
           <i class="fas fa-chevron-right text-xs" aria-hidden="true"></i>
         </li>
         <li itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem">
+          <?php if ($isDynamicPage): ?>
+          <a href="/kph-to-mph" class="text-blue-600 hover:text-blue-800 transition-colors" itemprop="item">
+            <span itemprop="name">KPH to MPH Converter</span>
+            <meta itemprop="position" content="3">
+          </a>
+        </li>
+        <li class="text-gray-400">
+          <i class="fas fa-chevron-right text-xs" aria-hidden="true"></i>
+        </li>
+        <li itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem">
+          <span class="text-gray-700 font-medium" itemprop="name"><?php echo number_format($inputValue, ($inputValue == intval($inputValue)) ? 0 : 2); ?> KPH to MPH</span>
+          <meta itemprop="position" content="4">
+        </li>
+          <?php else: ?>
           <span class="text-gray-700 font-medium" itemprop="name">KPH to MPH Converter</span>
           <meta itemprop="position" content="3">
         </li>
+          <?php endif; ?>
       </ol>
     </div>
   </nav>
@@ -184,8 +230,24 @@
       <div class="text-center">
         <h1 class="text-4xl md:text-5xl font-bold text-gray-900 mb-6">
           <i class="fas fa-tachometer-alt speed-icon mr-3" aria-hidden="true"></i>
+          <?php if ($isDynamicPage): ?>
+          Convert <?php echo number_format($inputValue, ($inputValue == intval($inputValue)) ? 0 : 2); ?> KPH to MPH
+          <?php else: ?>
           KPH to MPH Converter
+          <?php endif; ?>
         </h1>
+        <?php if ($isDynamicPage): ?>
+        <div class="bg-white rounded-lg shadow-md p-6 mb-8 max-w-2xl mx-auto">
+          <div class="text-center">
+            <div class="text-3xl font-bold text-red-600 mb-2">
+              <?php echo number_format($inputValue, ($inputValue == intval($inputValue)) ? 0 : 2); ?> kph = <?php echo number_format($outputValue, 4); ?> mph
+            </div>
+            <p class="text-gray-600">
+              <?php echo number_format($inputValue, ($inputValue == intval($inputValue)) ? 0 : 2); ?> kilometers per hour equals <?php echo number_format($outputValue, 4); ?> miles per hour
+            </p>
+          </div>
+        </div>
+        <?php endif; ?>
         <p class="text-xl text-gray-600 mb-8 max-w-3xl mx-auto">
           Convert kilometers per hour to miles per hour instantly with our accurate 2025 calculator. 
           Perfect for automotive applications, speedometer readings, and international driving.
@@ -486,10 +548,16 @@ function copyResult() {
 document.getElementById('kphValue').addEventListener('input', updateConversion);
 document.getElementById('copyBtn').addEventListener('click', copyResult);
 
-// Initialize with demo value
+// Initialize with URL parameter or demo value
 window.addEventListener('DOMContentLoaded', () => {
   document.getElementById('kphValue').focus();
+  <?php if ($isDynamicPage): ?>
+  // Use the URL parameter value
+  document.getElementById('kphValue').value = <?php echo $inputValue; ?>;
+  <?php else: ?>
+  // Use demo value
   document.getElementById('kphValue').value = 100;
+  <?php endif; ?>
   updateConversion();
 });
 </script>

@@ -237,6 +237,13 @@ RewriteRule ^holiday/indian-holiday/([a-zA-Z-]+)-holidays/?$ /holiday/indian-hol
 RewriteRule ^contact/?$ /contact.php [L]
 RewriteRule ^privacy/?$ /privacy.php [L]
 
+# Converter dynamic URLs (must come before general clean URL rules)
+# Handle /kph-to-mph/320 format
+RewriteRule ^kph-to-mph/([0-9]+(?:\.[0-9]+)?)/?$ kph-to-mph.php?value=$1 [L,QSA]
+
+# Handle /mph-to-kph/320 format
+RewriteRule ^mph-to-kph/([0-9]+(?:\.[0-9]+)?)/?$ mph-to-kph.php?value=$1 [L,QSA]
+
 # General clean URL handling for root level PHP files (lowest priority)
 RewriteCond %{REQUEST_FILENAME} !-f
 RewriteCond %{REQUEST_FILENAME} !-d
