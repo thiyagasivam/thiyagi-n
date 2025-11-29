@@ -168,22 +168,64 @@ $canonicalUrl = $isDynamicPage ?
 </script>
 
 <style>
+  .glass-card {
+    background: rgba(255, 255, 255, 0.95);
+    backdrop-filter: blur(20px);
+    border: 1px solid rgba(255, 255, 255, 0.2);
+    box-shadow: 0 25px 45px rgba(0, 0, 0, 0.1);
+  }
   .input-focus:focus {
-    box-shadow: 0 0 0 3px rgba(220, 38, 38, 0.1);
-    border-color: #dc2626;
+    box-shadow: 0 0 0 4px rgba(59, 130, 246, 0.15), 0 10px 25px rgba(0, 0, 0, 0.1);
+    border-color: #3b82f6;
+    transform: translateY(-1px);
+    transition: all 0.3s ease;
   }
   .speed-icon {
-    background: linear-gradient(45deg, #dc2626, #f97316);
+    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
     background-clip: text;
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
   }
+  .gradient-bg {
+    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+  }
+  .hero-gradient {
+    background: linear-gradient(135deg, #f093fb 0%, #f5576c 50%, #4facfe 100%);
+  }
+  .card-hover {
+    transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+  }
+  .card-hover:hover {
+    transform: translateY(-8px);
+    box-shadow: 0 32px 64px rgba(0, 0, 0, 0.15);
+  }
+  .modern-button {
+    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+    transition: all 0.3s ease;
+  }
+  .modern-button:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 15px 35px rgba(102, 126, 234, 0.4);
+  }
+  .result-highlight {
+    background: linear-gradient(135deg, #4facfe 0%, #00f2fe 100%);
+    color: white;
+    text-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  }
 </style>
 
-<main class="min-h-screen bg-gradient-to-br from-red-50 via-orange-50 to-yellow-50">
+<main class="min-h-screen hero-gradient relative overflow-hidden">
+  <!-- Animated background elements -->
+  <div class="absolute inset-0 overflow-hidden">
+    <div class="absolute -top-40 -right-40 w-80 h-80 bg-white opacity-10 rounded-full blur-3xl animate-pulse"></div>
+    <div class="absolute -bottom-40 -left-40 w-96 h-96 bg-white opacity-10 rounded-full blur-3xl animate-pulse" style="animation-delay: 2s;"></div>
+    <div class="absolute top-1/2 left-1/2 transform -translate-x-1/2 -translate-y-1/2 w-64 h-64 bg-white opacity-5 rounded-full blur-3xl animate-pulse" style="animation-delay: 1s;"></div>
+  </div>
+  <div class="relative z-10">
   <!-- Breadcrumb Navigation -->
-  <nav class="pt-16 pb-4" aria-label="Breadcrumb">
+  <nav class="pt-20 pb-6" aria-label="Breadcrumb">
     <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+      <div class="glass-card rounded-2xl p-4">
       <ol class="flex items-center space-x-2 text-sm" itemscope itemtype="https://schema.org/BreadcrumbList">
         <li itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem">
           <a href="/" class="text-blue-600 hover:text-blue-800 transition-colors" itemprop="item">
@@ -221,11 +263,12 @@ $canonicalUrl = $isDynamicPage ?
         </li>
           <?php endif; ?>
       </ol>
+      </div>
     </div>
   </nav>
 
   <!-- Hero Section -->
-  <section class="pt-8 pb-12">
+  <section class="pt-12 pb-16">
     <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
       <div class="text-center">
         <h1 class="text-4xl md:text-5xl font-bold text-gray-900 mb-6">
@@ -237,18 +280,24 @@ $canonicalUrl = $isDynamicPage ?
           <?php endif; ?>
         </h1>
         <?php if ($isDynamicPage): ?>
-        <div class="bg-white rounded-lg shadow-md p-6 mb-8 max-w-2xl mx-auto">
+        <div class="glass-card rounded-3xl p-8 mb-12 max-w-3xl mx-auto card-hover">
           <div class="text-center">
-            <div class="text-3xl font-bold text-red-600 mb-2">
-              <?php echo number_format($inputValue, ($inputValue == intval($inputValue)) ? 0 : 2); ?> kph = <?php echo number_format($outputValue, 4); ?> mph
+            <div class="result-highlight rounded-2xl p-6 mb-4">
+              <div class="text-4xl md:text-5xl font-black mb-2">
+                <?php echo number_format($inputValue, ($inputValue == intval($inputValue)) ? 0 : 2); ?> <span class="text-2xl font-medium opacity-90">kph</span>
+              </div>
+              <div class="text-lg opacity-90 mb-2">equals</div>
+              <div class="text-4xl md:text-5xl font-black">
+                <?php echo number_format($outputValue, 4); ?> <span class="text-2xl font-medium opacity-90">mph</span>
+              </div>
             </div>
-            <p class="text-gray-600">
+            <p class="text-white text-lg opacity-90">
               <?php echo number_format($inputValue, ($inputValue == intval($inputValue)) ? 0 : 2); ?> kilometers per hour equals <?php echo number_format($outputValue, 4); ?> miles per hour
             </p>
           </div>
         </div>
         <?php endif; ?>
-        <p class="text-xl text-gray-600 mb-8 max-w-3xl mx-auto">
+        <p class="text-xl text-white opacity-90 mb-12 max-w-4xl mx-auto leading-relaxed">
           Convert kilometers per hour to miles per hour instantly with our accurate 2025 calculator. 
           Perfect for automotive applications, speedometer readings, and international driving.
         </p>
@@ -257,39 +306,38 @@ $canonicalUrl = $isDynamicPage ?
   </section>
 
 <!-- Converter Section -->
-<section class="bg-gradient-to-br from-red-50 via-orange-50 to-yellow-50 py-12">
+<section class="py-16">
     <div class="max-w-4xl mx-auto px-4 text-center">
-        <div class="inline-flex items-center justify-center w-16 h-16 bg-red-100 rounded-full mb-4">
-            <i class="fas fa-car-side text-red-600 text-2xl" aria-hidden="true"></i>
+        <div class="inline-flex items-center justify-center w-20 h-20 glass-card rounded-2xl mb-6">
+            <i class="fas fa-car-side speed-icon text-3xl" aria-hidden="true"></i>
         </div>
-        <h2 class="text-2xl font-bold text-gray-800 mb-2">
+        <h2 class="text-3xl font-bold text-white mb-4">
             Quick KPH to MPH Conversion
         </h2>
-        <p class="text-gray-600 mb-8">
+        <p class="text-white opacity-90 mb-12 text-lg">
             Enter kilometers per hour and get instant results in miles per hour
         </p>
         
         <!-- Related Converters -->
-        <div class="flex flex-wrap justify-center gap-4 text-sm" role="list">
-            <a href="/mph-to-kph.php" class="px-4 py-2 bg-white rounded-lg shadow hover:shadow-md transition-shadow text-blue-600 hover:text-blue-700" role="listitem">MPH to KPH</a>
-            <a href="/km-to-miles.php" class="px-4 py-2 bg-white rounded-lg shadow hover:shadow-md transition-shadow text-blue-600 hover:text-blue-700" role="listitem">KM to Miles</a>
-            <a href="/miles-to-km.php" class="px-4 py-2 bg-white rounded-lg shadow hover:shadow-md transition-shadow text-blue-600 hover:text-blue-700" role="listitem">Miles to KM</a>
-            <a href="/meters-to-feet.php" class="px-4 py-2 bg-white rounded-lg shadow hover:shadow-md transition-shadow text-blue-600 hover:text-blue-700" role="listitem">Meters to Feet</a>
-            <a href="/feet-to-meters.php" class="px-4 py-2 bg-white rounded-lg shadow hover:shadow-md transition-shadow text-blue-600 hover:text-blue-700" role="listitem">Feet to Meters</a>
+        <div class="flex flex-wrap justify-center gap-4" role="list">
+            <a href="/mph-to-kph.php" class="px-6 py-3 glass-card rounded-2xl hover:scale-105 transition-all duration-300 text-white hover:text-blue-200 font-medium" role="listitem">MPH to KPH</a>
+            <a href="/km-to-miles.php" class="px-6 py-3 glass-card rounded-2xl hover:scale-105 transition-all duration-300 text-white hover:text-blue-200 font-medium" role="listitem">KM to Miles</a>
+            <a href="/miles-to-km.php" class="px-6 py-3 glass-card rounded-2xl hover:scale-105 transition-all duration-300 text-white hover:text-blue-200 font-medium" role="listitem">Miles to KM</a>
+            <a href="/meters-to-feet.php" class="px-6 py-3 glass-card rounded-2xl hover:scale-105 transition-all duration-300 text-white hover:text-blue-200 font-medium" role="listitem">Meters to Feet</a>
+            <a href="/feet-to-meters.php" class="px-6 py-3 glass-card rounded-2xl hover:scale-105 transition-all duration-300 text-white hover:text-blue-200 font-medium" role="listitem">Feet to Meters</a>
         </div>
     </div>
 </section>
 
 <!-- Calculator Widget -->
-<section class="py-12" itemscope itemtype="https://schema.org/SoftwareApplication">
-  <div class="max-w-xl mx-auto bg-white rounded-xl shadow-lg p-6 sm:p-10">
-    <div class="flex items-center gap-3 mb-4">
-      <div class="w-12 h-12 bg-red-100 rounded-lg flex items-center justify-center">
-        <i class="fas fa-calculator text-red-600 text-xl" aria-hidden="true"></i>
+<section class="py-16" itemscope itemtype="https://schema.org/SoftwareApplication">
+  <div class="max-w-2xl mx-auto glass-card rounded-3xl p-8 sm:p-12 card-hover">
+    <div class="text-center mb-8">
+      <div class="inline-flex items-center justify-center w-16 h-16 gradient-bg rounded-2xl mb-4">
+        <i class="fas fa-calculator text-white text-2xl" aria-hidden="true"></i>
       </div>
-      <div>
-        <h2 class="text-xl font-bold text-gray-800" itemprop="name">KPH to MPH Calculator</h2>
-        <p class="text-gray-600 text-sm" itemprop="description">Enter km/h and get instant conversion to mph</p>
+      <h2 class="text-2xl font-bold text-gray-800 mb-2" itemprop="name">KPH to MPH Calculator</h2>
+      <p class="text-gray-600" itemprop="description">Enter km/h and get instant conversion to mph</p>
         <meta itemprop="applicationCategory" content="UtilityApplication">
         <meta itemprop="operatingSystem" content="Web Browser">
       </div>
@@ -298,44 +346,44 @@ $canonicalUrl = $isDynamicPage ?
     <form class="space-y-6" role="form">
       <div class="flex flex-col sm:flex-row gap-3">
         <div class="relative flex-1">
-          <label for="kphValue" class="block text-sm font-medium text-gray-700 mb-2">
+          <label for="kphValue" class="block text-sm font-semibold text-gray-700 mb-3">
             Kilometers per Hour
           </label>
           <div class="relative">
             <input
               type="number"
               id="kphValue"
-              class="w-full px-4 py-3 border border-gray-300 rounded-lg focus:ring-2 focus:ring-red-500 focus:border-red-500 input-focus text-lg"
-              placeholder="Enter kph"
+              class="w-full px-6 py-4 border-2 border-gray-200 rounded-2xl focus:ring-4 focus:ring-blue-500/20 focus:border-blue-500 input-focus text-lg font-medium bg-white/80 backdrop-blur-sm"
+              placeholder="Enter speed in kph"
               step="any"
               min="0"
             />
-            <div class="absolute inset-y-0 right-0 pr-3 flex items-center pointer-events-none">
-              <span class="text-gray-500 text-sm">kph</span>
+            <div class="absolute inset-y-0 right-0 pr-4 flex items-center pointer-events-none">
+              <span class="text-gray-500 text-sm font-medium bg-gray-100 px-2 py-1 rounded-lg">kph</span>
             </div>
           </div>
         </div>
         
         <div class="flex items-center justify-center sm:mt-8">
-          <div class="w-8 h-8 bg-red-100 rounded-full flex items-center justify-center">
-            <i class="fas fa-arrow-right text-red-600" aria-hidden="true"></i>
+          <div class="w-12 h-12 gradient-bg rounded-2xl flex items-center justify-center shadow-lg">
+            <i class="fas fa-arrow-right text-white text-lg" aria-hidden="true"></i>
           </div>
         </div>
         
         <div class="relative flex-1">
-          <label for="mphResult" class="block text-sm font-medium text-gray-700 mb-2">
+          <label for="mphResult" class="block text-sm font-semibold text-gray-700 mb-3">
             Miles per Hour
           </label>
           <div class="relative">
             <input
               type="text"
               id="mphResult"
-              class="w-full px-4 py-3 border border-gray-300 rounded-lg bg-gray-50 text-lg font-medium text-red-700"
+              class="w-full px-6 py-4 border-2 border-blue-200 rounded-2xl bg-blue-50/50 backdrop-blur-sm text-lg font-bold text-blue-700"
               placeholder="Result will appear here"
               readonly
             />
-            <div class="absolute inset-y-0 right-0 pr-3 flex items-center pointer-events-none">
-              <span class="text-gray-500 text-sm">mph</span>
+            <div class="absolute inset-y-0 right-0 pr-4 flex items-center pointer-events-none">
+              <span class="text-blue-500 text-sm font-medium bg-blue-100 px-2 py-1 rounded-lg">mph</span>
             </div>
           </div>
         </div>
@@ -346,18 +394,18 @@ $canonicalUrl = $isDynamicPage ?
         <button
           type="button"
           id="copyBtn"
-          class="hidden px-6 py-2 bg-red-600 text-white rounded-lg hover:bg-red-700 focus:outline-none focus:ring-2 focus:ring-red-500 focus:ring-offset-2 transition-colors duration-200 flex items-center gap-2"
+          class="hidden modern-button px-8 py-4 text-white rounded-2xl focus:outline-none focus:ring-4 focus:ring-blue-500/20 flex items-center gap-3 font-semibold shadow-lg"
         >
-          <i class="fas fa-copy" aria-hidden="true"></i>
+          <i class="fas fa-copy text-lg" aria-hidden="true"></i>
           Copy Result
         </button>
       </div>
       
       <!-- Copy Success Message -->
       <div id="copySuccess" class="hidden text-center">
-        <div class="inline-flex items-center px-4 py-2 bg-green-100 text-green-800 rounded-lg">
-          <i class="fas fa-check-circle mr-2" aria-hidden="true"></i>
-          <span>Copied to clipboard!</span>
+        <div class="inline-flex items-center px-6 py-3 bg-gradient-to-r from-green-400 to-green-500 text-white rounded-2xl shadow-lg">
+          <i class="fas fa-check-circle mr-3 text-lg" aria-hidden="true"></i>
+          <span class="font-semibold">Copied to clipboard!</span>
         </div>
       </div>
     </form>
@@ -365,123 +413,148 @@ $canonicalUrl = $isDynamicPage ?
 </section>
 
   <!-- Conversion Table Section -->
-  <section class="max-w-4xl mx-auto mt-8 px-4">
-    <article class="bg-white rounded-xl shadow-lg p-8">
-      <h2 class="text-2xl font-bold text-gray-800 mb-6 flex items-center gap-3">
-        <i class="fas fa-table text-red-600" aria-hidden="true"></i>
-        KPH to MPH Conversion Table
-      </h2>
+  <section class="max-w-5xl mx-auto mt-16 px-4">
+    <article class="glass-card rounded-3xl p-10 card-hover">
+      <div class="text-center mb-8">
+        <div class="inline-flex items-center justify-center w-16 h-16 gradient-bg rounded-2xl mb-4">
+          <i class="fas fa-table text-white text-2xl" aria-hidden="true"></i>
+        </div>
+        <h2 class="text-3xl font-bold text-gray-800">
+          KPH to MPH Conversion Table
+        </h2>
+      </div>
       
-      <div class="overflow-x-auto">
-        <table class="w-full border-collapse border border-gray-300">
+      <div class="overflow-x-auto rounded-2xl">
+        <table class="w-full border-collapse bg-white/50 backdrop-blur-sm rounded-2xl overflow-hidden">
           <thead>
-            <tr class="bg-gray-50">
-              <th class="border border-gray-300 px-4 py-3 text-left font-semibold text-gray-800">KPH</th>
-              <th class="border border-gray-300 px-4 py-3 text-left font-semibold text-gray-800">MPH</th>
-              <th class="border border-gray-300 px-4 py-3 text-left font-semibold text-gray-800">Driving Context</th>
+            <tr class="gradient-bg">
+              <th class="px-6 py-4 text-left font-bold text-white text-lg">KPH</th>
+              <th class="px-6 py-4 text-left font-bold text-white text-lg">MPH</th>
+              <th class="px-6 py-4 text-left font-bold text-white text-lg">Driving Context</th>
             </tr>
           </thead>
           <tbody>
-            <tr class="hover:bg-gray-50">
-              <td class="border border-gray-300 px-4 py-3">30 kph</td>
-              <td class="border border-gray-300 px-4 py-3 font-medium text-red-700">18.6 mph</td>
-              <td class="border border-gray-300 px-4 py-3 text-gray-600">City driving</td>
+            <tr class="hover:bg-blue-50/50 transition-colors duration-200 border-b border-gray-100">
+              <td class="px-6 py-4 font-bold text-gray-800">30 kph</td>
+              <td class="px-6 py-4 font-bold text-blue-600">18.6 mph</td>
+              <td class="px-6 py-4 text-gray-600">City driving</td>
             </tr>
-            <tr class="hover:bg-gray-50">
-              <td class="border border-gray-300 px-4 py-3">50 kph</td>
-              <td class="border border-gray-300 px-4 py-3 font-medium text-red-700">31.1 mph</td>
-              <td class="border border-gray-300 px-4 py-3 text-gray-600">Urban speed limit</td>
+            <tr class="hover:bg-blue-50/50 transition-colors duration-200 border-b border-gray-100">
+              <td class="px-6 py-4 font-bold text-gray-800">50 kph</td>
+              <td class="px-6 py-4 font-bold text-blue-600">31.1 mph</td>
+              <td class="px-6 py-4 text-gray-600">Urban speed limit</td>
             </tr>
-            <tr class="hover:bg-gray-50">
-              <td class="border border-gray-300 px-4 py-3">80 kph</td>
-              <td class="border border-gray-300 px-4 py-3 font-medium text-red-700">49.7 mph</td>
-              <td class="border border-gray-300 px-4 py-3 text-gray-600">Country roads</td>
+            <tr class="hover:bg-blue-50/50 transition-colors duration-200 border-b border-gray-100">
+              <td class="px-6 py-4 font-bold text-gray-800">80 kph</td>
+              <td class="px-6 py-4 font-bold text-blue-600">49.7 mph</td>
+              <td class="px-6 py-4 text-gray-600">Country roads</td>
             </tr>
-            <tr class="hover:bg-gray-50">
-              <td class="border border-gray-300 px-4 py-3">100 kph</td>
-              <td class="border border-gray-300 px-4 py-3 font-medium text-red-700">62.1 mph</td>
-              <td class="border border-gray-300 px-4 py-3 text-gray-600">Highway speed</td>
+            <tr class="hover:bg-blue-50/50 transition-colors duration-200 border-b border-gray-100">
+              <td class="px-6 py-4 font-bold text-gray-800">100 kph</td>
+              <td class="px-6 py-4 font-bold text-blue-600">62.1 mph</td>
+              <td class="px-6 py-4 text-gray-600">Highway speed</td>
             </tr>
-            <tr class="hover:bg-gray-50">
-              <td class="border border-gray-300 px-4 py-3">120 kph</td>
-              <td class="border border-gray-300 px-4 py-3 font-medium text-red-700">74.6 mph</td>
-              <td class="border border-gray-300 px-4 py-3 text-gray-600">Fast highway</td>
+            <tr class="hover:bg-blue-50/50 transition-colors duration-200 border-b border-gray-100">
+              <td class="px-6 py-4 font-bold text-gray-800">120 kph</td>
+              <td class="px-6 py-4 font-bold text-blue-600">74.6 mph</td>
+              <td class="px-6 py-4 text-gray-600">Fast highway</td>
             </tr>
-            <tr class="hover:bg-gray-50">
-              <td class="border border-gray-300 px-4 py-3">150 kph</td>
-              <td class="border border-gray-300 px-4 py-3 font-medium text-red-700">93.2 mph</td>
-              <td class="border border-gray-300 px-4 py-3 text-gray-600">High-speed roads</td>
+            <tr class="hover:bg-blue-50/50 transition-colors duration-200 border-b border-gray-100">
+              <td class="px-6 py-4 font-bold text-gray-800">150 kph</td>
+              <td class="px-6 py-4 font-bold text-blue-600">93.2 mph</td>
+              <td class="px-6 py-4 text-gray-600">High-speed roads</td>
             </tr>
-            <tr class="hover:bg-gray-50">
-              <td class="border border-gray-300 px-4 py-3">200 kph</td>
-              <td class="border border-gray-300 px-4 py-3 font-medium text-red-700">124.3 mph</td>
-              <td class="border border-gray-300 px-4 py-3 text-gray-600">Racing speeds</td>
+            <tr class="hover:bg-blue-50/50 transition-colors duration-200 border-b border-gray-100">
+              <td class="px-6 py-4 font-bold text-gray-800">200 kph</td>
+              <td class="px-6 py-4 font-bold text-blue-600">124.3 mph</td>
+              <td class="px-6 py-4 text-gray-600">Racing speeds</td>
             </tr>
-            <tr class="hover:bg-gray-50">
-              <td class="border border-gray-300 px-4 py-3">300 kph</td>
-              <td class="border border-gray-300 px-4 py-3 font-medium text-red-700">186.4 mph</td>
-              <td class="border border-gray-300 px-4 py-3 text-gray-600">High-performance</td>
+            <tr class="hover:bg-blue-50/50 transition-colors duration-200">
+              <td class="px-6 py-4 font-bold text-gray-800">300 kph</td>
+              <td class="px-6 py-4 font-bold text-blue-600">186.4 mph</td>
+              <td class="px-6 py-4 text-gray-600">High-performance</td>
             </tr>
           </tbody>
         </table>
       </div>
       
       <!-- Quick Tips -->
-      <div class="mt-6 bg-red-50 rounded-lg p-4">
-        <h3 class="font-semibold text-gray-800 mb-2 flex items-center gap-2">
-          <i class="fas fa-lightbulb text-red-600" aria-hidden="true"></i>
+      <div class="mt-8 bg-gradient-to-r from-yellow-400/20 to-orange-400/20 backdrop-blur-sm rounded-2xl p-6">
+        <h3 class="font-bold text-gray-800 mb-4 flex items-center gap-3">
+          <i class="fas fa-lightbulb text-yellow-500 text-xl" aria-hidden="true"></i>
           Quick Conversion Tips for Drivers
         </h3>
-        <ul class="list-disc list-inside space-y-1 text-gray-600 text-sm">
-          <li>1 kph = 0.621371 mph (exact conversion)</li>
-          <li>For quick estimates: 1 kph ≈ 0.6 mph</li>
-          <li>KPH is used in most countries worldwide</li>
-          <li>MPH is primarily used in USA, UK, and some territories</li>
-          <li>Speed limits vary by country and road type</li>
+        <ul class="space-y-3 text-gray-700">
+          <li class="flex items-center gap-3">
+            <div class="w-2 h-2 bg-yellow-500 rounded-full"></div>
+            <span>1 kph = 0.621371 mph (exact conversion)</span>
+          </li>
+          <li class="flex items-center gap-3">
+            <div class="w-2 h-2 bg-yellow-500 rounded-full"></div>
+            <span>For quick estimates: 1 kph ≈ 0.6 mph</span>
+          </li>
+          <li class="flex items-center gap-3">
+            <div class="w-2 h-2 bg-yellow-500 rounded-full"></div>
+            <span>KPH is used in most countries worldwide</span>
+          </li>
+          <li class="flex items-center gap-3">
+            <div class="w-2 h-2 bg-yellow-500 rounded-full"></div>
+            <span>MPH is primarily used in USA, UK, and some territories</span>
+          </li>
+          <li class="flex items-center gap-3">
+            <div class="w-2 h-2 bg-yellow-500 rounded-full"></div>
+            <span>Speed limits vary by country and road type</span>
+          </li>
         </ul>
       </div>
     </article>
   </section>
 
   <!-- FAQs Section -->
-  <section class="max-w-4xl mx-auto mt-8 px-4">
-    <article class="bg-white rounded-xl shadow-lg p-8" itemscope itemtype="https://schema.org/FAQPage">
-      <h2 class="text-2xl font-bold text-gray-800 mb-6 flex items-center gap-3">
-        <i class="fas fa-question-circle text-red-600" aria-hidden="true"></i>
-        Frequently Asked Questions (FAQs)
-      </h2>
+  <section class="max-w-5xl mx-auto mt-16 px-4">
+    <article class="glass-card rounded-3xl p-10 card-hover" itemscope itemtype="https://schema.org/FAQPage">
+      <div class="text-center mb-10">
+        <div class="inline-flex items-center justify-center w-16 h-16 gradient-bg rounded-2xl mb-4">
+          <i class="fas fa-question-circle text-white text-2xl" aria-hidden="true"></i>
+        </div>
+        <h2 class="text-3xl font-bold text-gray-800">
+          Frequently Asked Questions
+        </h2>
+      </div>
       
-      <div class="space-y-6">
-        <div class="border-l-4 border-blue-500 pl-4" itemscope itemprop="mainEntity" itemtype="https://schema.org/Question">
-          <h3 class="text-lg font-semibold text-gray-800 mb-2" itemprop="name">How do you convert kph to mph?</h3>
+      <div class="grid gap-6">
+        <div class="bg-white/50 backdrop-blur-sm rounded-2xl p-6 border-l-4 border-blue-500" itemscope itemprop="mainEntity" itemtype="https://schema.org/Question">
+          <h3 class="text-xl font-bold text-gray-800 mb-3" itemprop="name">How do you convert kph to mph?</h3>
           <div itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-            <p class="text-gray-600" itemprop="text">To convert kilometers per hour to miles per hour, multiply the kph value by 0.621371. For example, 100 kph = 100 × 0.621371 = 62.1371 mph.</p>
+            <p class="text-gray-700 leading-relaxed" itemprop="text">To convert kilometers per hour to miles per hour, multiply the kph value by 0.621371. For example, 100 kph = 100 × 0.621371 = 62.1371 mph.</p>
           </div>
         </div>
         
-        <div class="border-l-4 border-green-500 pl-4" itemscope itemprop="mainEntity" itemtype="https://schema.org/Question">
-          <h3 class="text-lg font-semibold text-gray-800 mb-2" itemprop="name">What is the exact conversion factor from kph to mph?</h3>
+        <div class="bg-white/50 backdrop-blur-sm rounded-2xl p-6 border-l-4 border-green-500" itemscope itemprop="mainEntity" itemtype="https://schema.org/Question">
+          <h3 class="text-xl font-bold text-gray-800 mb-3" itemprop="name">What is the exact conversion factor from kph to mph?</h3>
           <div itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-            <p class="text-gray-600" itemprop="text">1 kilometer per hour equals 0.621371 miles per hour. This is based on the conversion where 1 kilometer = 0.621371 miles.</p>
+            <p class="text-gray-700 leading-relaxed" itemprop="text">1 kilometer per hour equals 0.621371 miles per hour. This is based on the conversion where 1 kilometer = 0.621371 miles.</p>
           </div>
         </div>
         
-        <div class="border-l-4 border-purple-500 pl-4" itemscope itemprop="mainEntity" itemtype="https://schema.org/Question">
-          <h3 class="text-lg font-semibold text-gray-800 mb-2" itemprop="name">Is this kph to mph converter accurate for speedometers?</h3>
+        <div class="bg-white/50 backdrop-blur-sm rounded-2xl p-6 border-l-4 border-purple-500" itemscope itemprop="mainEntity" itemtype="https://schema.org/Question">
+          <h3 class="text-xl font-bold text-gray-800 mb-3" itemprop="name">Is this kph to mph converter accurate for speedometers?</h3>
           <div itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-            <p class="text-gray-600" itemprop="text">Yes, our converter uses the precise conversion factor used in automotive applications and speedometer calibrations, making it perfect for driving and automotive use.</p>
+            <p class="text-gray-700 leading-relaxed" itemprop="text">Yes, our converter uses the precise conversion factor used in automotive applications and speedometer calibrations, making it perfect for driving and automotive use.</p>
           </div>
         </div>
         
-        <div class="border-l-4 border-red-500 pl-4" itemscope itemprop="mainEntity" itemtype="https://schema.org/Question">
-          <h3 class="text-lg font-semibold text-gray-800 mb-2" itemprop="name">When do I need to convert kph to mph?</h3>
+        <div class="bg-white/50 backdrop-blur-sm rounded-2xl p-6 border-l-4 border-red-500" itemscope itemprop="mainEntity" itemtype="https://schema.org/Question">
+          <h3 class="text-xl font-bold text-gray-800 mb-3" itemprop="name">When do I need to convert kph to mph?</h3>
           <div itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-            <p class="text-gray-600" itemprop="text">KPH to MPH conversion is needed when driving in countries with different speed measurement systems, comparing vehicle speeds, or understanding speedometer readings in different units.</p>
+            <p class="text-gray-700 leading-relaxed" itemprop="text">KPH to MPH conversion is needed when driving in countries with different speed measurement systems, comparing vehicle speeds, or understanding speedometer readings in different units.</p>
           </div>
         </div>
       </div>
     </article>
   </section>
+  
+  </div> <!-- Close relative z-10 container -->
 </main>
 
 <script>
