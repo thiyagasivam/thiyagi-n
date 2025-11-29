@@ -1,0 +1,252 @@
+RewriteEngine On
+
+# Force www and HTTPS
+RewriteCond %{HTTP_HOST} ^thiyagi\.com [NC]
+RewriteRule ^(.*)$ https://www.thiyagi.com/$1 [L,R=301]
+
+# Set custom 404 error page
+ErrorDocument 404 /404.php
+
+# Sitemap rule
+RewriteRule ^sitemap\.xml$ sitemap.php [L]
+
+# Prevent access to .htaccess and other sensitive files
+<Files ".htaccess">
+    Order allow,deny
+    Deny from all
+</Files>
+
+# Remove .php from URL (redirect to clean URL) - but skip directory-based URLs
+RewriteCond %{THE_REQUEST} ^[A-Z]{3,}\s/([^.?\s]+)\.php [NC]
+RewriteCond %1 !^(rto-details|electricity-board|service-center|holiday)/ [NC]
+RewriteRule ^ /%1? [R=301,L]
+
+# Directory-based URL rules (highest priority)
+# Calculator
+RewriteRule ^calculator/?$ /calculator/index.html [L]
+RewriteRule ^calculator/banks/?$ /calculator/banks/index.php [L]
+
+# Calculators (new directory)
+RewriteRule ^calculators/?$ /calculators/index.php [L]
+
+# Bank-specific personal loan EMI calculators
+# Private Banks
+RewriteRule ^calculators/(axis-bank|bandhan-bank|csb-bank|city-union-bank|dcb-bank|dhanlaxmi-bank|federal-bank|hdfc-bank|icici-bank|indusind-bank|idfc-first-bank|jammu-kashmir-bank|karnataka-bank|karur-vysya-bank|kotak-mahindra-bank|nainital-bank|rbl-bank|south-indian-bank|tamilnad-mercantile-bank|yes-bank|idbi-bank|standard-chartered-bank|citibank|hsbc-bank|dbs-bank-india|catholic-syrian-bank)-personal-loan-emi-calculator/?$ /calculators/bank-personal-loan-calculator.php?bank=$1 [L,QSA]
+
+# Local Area Banks
+RewriteRule ^calculators/(coastal-lab|krishna-bhima-lab)-personal-loan-emi-calculator/?$ /calculators/bank-personal-loan-calculator.php?bank=$1 [L,QSA]
+
+# Small Finance Banks
+RewriteRule ^calculators/(au-small-finance-bank|capital-small-finance-bank|equitas-small-finance-bank|esaf-small-finance-bank|suryoday-small-finance-bank|ujjivan-small-finance-bank|utkarsh-small-finance-bank|slice-small-finance-bank|jana-small-finance-bank|shivalik-small-finance-bank|unity-small-finance-bank|fincare-small-finance-bank|northeast-small-finance-bank|north-east-small-finance-bank|poorvanchal-bank)-personal-loan-emi-calculator/?$ /calculators/bank-personal-loan-calculator.php?bank=$1 [L,QSA]
+
+# Payment Banks
+RewriteRule ^calculators/(airtel-payments-bank|india-post-payments-bank|fino-payments-bank|paytm-payments-bank|jio-payments-bank|nsdl-payments-bank)-personal-loan-emi-calculator/?$ /calculators/bank-personal-loan-calculator.php?bank=$1 [L,QSA]
+
+# Development Financial Institutions
+RewriteRule ^calculators/(nabard|exim-bank|nhb|sidbi)-personal-loan-emi-calculator/?$ /calculators/bank-personal-loan-calculator.php?bank=$1 [L,QSA]
+
+# Regional Rural Banks
+RewriteRule ^calculators/(assam-gramin-vikash-bank|andhra-pradesh-grameena-vikas-bank|baroda-gujarat-gramin-bank|aryavart-bank|punjab-gramin-bank|karnataka-vikas-gramin-bank|tamil-nadu-grama-bank|kerala-gramin-bank|maharashtra-gramin-bank|odisha-gramya-bank)-personal-loan-emi-calculator/?$ /calculators/bank-personal-loan-calculator.php?bank=$1 [L,QSA]
+
+# Foreign Banks
+RewriteRule ^calculators/(standard-chartered-bank-foreign|citibank-foreign|hsbc-bank-foreign|dbs-bank-foreign|deutsche-bank|bnp-paribas|bank-of-america|jp-morgan-chase|anz-bank|barclays-bank|ab-bank-limited|american-express-banking|bank-of-bahrain-kuwait|bank-of-ceylon|bank-of-china-limited|bank-of-nova-scotia|bank-of-tokyo-mitsubishi|bny-mellon|commonwealth-bank-australia|credit-agricole|credit-suisse|ctbc-bank|erste-bank|industrial-commercial-bank-china|industrial-bank-korea|ing-vysya-bank|jpmorgan-chase-bank|keb-hana-bank|krung-thai-bank|mashreq-bank|mizuho-bank|ncc-bank-limited|oman-international-bank|pt-bank-maybank|rabobank-international|royal-bank-scotland|sber-bank|shinhan-bank|societe-generale|sonali-bank-limited|sumitomo-mitsui-banking|ubs-ag|united-overseas-bank|westpac-banking)-personal-loan-emi-calculator/?$ /calculators/bank-personal-loan-calculator.php?bank=$1 [L,QSA]
+
+# Public Sector Banks
+RewriteRule ^calculators/(state-bank-of-india|punjab-national-bank|bank-of-baroda|bank-of-india|bank-of-maharashtra|canara-bank|central-bank-of-india|indian-bank|indian-overseas-bank|punjab-sind-bank|uco-bank|union-bank-of-india)-personal-loan-emi-calculator/?$ /calculators/bank-personal-loan-calculator.php?bank=$1 [L,QSA]
+
+# NBFCs (Non-Banking Financial Companies)
+RewriteRule ^calculators/(bajaj-finserv|bajaj-finance|tata-capital|mahindra-finance|mahindra-mahindra-financial|l-t-finance|shriram-finance|muthoot-finance|muthoot-fincorp|indiabulls-housing-finance|pnb-housing-finance|hdfc-ltd|hdb-financial-services|lic-housing-finance|repco-home-finance|aditya-birla-finance|fullerton-india|hero-fincorp|manappuram-finance|cholamandalam-finance|home-credit-india|iifl-finance|iifl-home-finance|tvs-credit|reliance-capital|sundaram-finance|manappuram-finance|idfc-financial-services|jm-financial|poonawalla-fincorp|northern-arc-capital|bajaj-finance-ltd|cholamandalam-investment|lt-finance-limited|mahindra-mahindra-financial|muthoot-finance-limited|sammaan-capital-limited|shriram-finance-limited|tata-capital-limited|tata-sons-private|360-one-prime|power-finance-corporation|rec-limited|indian-railway-finance-corp|hudco|canfin-homes|dewan-housing-finance|indiabulls-commercial-credit|reliance-home-finance)-personal-loan-emi-calculator/?$ /calculators/bank-personal-loan-calculator.php?bank=$1 [L,QSA]
+
+# Fintech Companies
+RewriteRule ^calculators/(payme-india|kreditbee|moneytap|cashe|earlysalary|flexsalary|kissht|lendingkart|capital-float|navi-loans|zype-loans|faircent|rupeek|upwards|slice|cred|dhani|lazypay|cred-loans|dhani-loans|lazypay-loans|slice-fintech|rupeek-loans|faircent-loans|upwards-fintech|zest-money|zestmoney|true-balance|branch-fintech|loantap|incred|money-view|moneyview|paysense|mobikwik-lending|ziploan|flexiloans|neogrowth|ugro-capital|tala-india|lenddo-efl|fibe-money|jupiter-money|fi-money|uni-fintech|simpl-fintech|okcredit|groww-credit|zomato-pay-later|amazon-pay-later|flipkart-pay-later|payu-credit|razorpay-capital|smartcoin|creditbee|nira|cashbean|prefr|fairmoney|payme|oxyzo|credflow|rupifi|capfloat|finzy|money-club|ring)-personal-loan-emi-calculator/?$ /calculators/bank-personal-loan-calculator.php?bank=$1 [L,QSA]
+
+# Cooperative Banks
+RewriteRule ^calculators/(saraswat-cooperative-bank|nkgsb-cooperative-bank|cosmos-cooperative-bank|abhyudaya-cooperative-bank)-personal-loan-emi-calculator/?$ /calculators/bank-personal-loan-calculator.php?bank=$1 [L,QSA]
+
+# HOME LOAN EMI CALCULATORS - Bank-specific routing
+# Private Banks - Home Loan
+RewriteRule ^calculators/(axis-bank|bandhan-bank|csb-bank|city-union-bank|dcb-bank|dhanlaxmi-bank|federal-bank|hdfc-bank|icici-bank|indusind-bank|idfc-first-bank|jammu-kashmir-bank|karnataka-bank|karur-vysya-bank|kotak-mahindra-bank|nainital-bank|rbl-bank|south-indian-bank|tamilnad-mercantile-bank|yes-bank|idbi-bank|standard-chartered-bank|citibank|hsbc-bank|dbs-bank-india|catholic-syrian-bank)-home-loan-emi-calculator/?$ /calculators/bank-home-loan-calculator.php?bank=$1 [L,QSA]
+
+# Local Area Banks - Home Loan
+RewriteRule ^calculators/(coastal-lab|krishna-bhima-lab)-home-loan-emi-calculator/?$ /calculators/bank-home-loan-calculator.php?bank=$1 [L,QSA]
+
+# Public Sector Banks - Home Loan
+RewriteRule ^calculators/(state-bank-of-india|punjab-national-bank|bank-of-baroda|bank-of-india|bank-of-maharashtra|canara-bank|central-bank-of-india|indian-bank|indian-overseas-bank|punjab-sind-bank|uco-bank|union-bank-of-india)-home-loan-emi-calculator/?$ /calculators/bank-home-loan-calculator.php?bank=$1 [L,QSA]
+
+# Payment Banks - Home Loan
+RewriteRule ^calculators/(airtel-payments-bank|india-post-payments-bank|fino-payments-bank|paytm-payments-bank|jio-payments-bank|nsdl-payments-bank)-home-loan-emi-calculator/?$ /calculators/bank-home-loan-calculator.php?bank=$1 [L,QSA]
+
+# Development Financial Institutions - Home Loan
+RewriteRule ^calculators/(nabard|exim-bank|nhb|sidbi)-home-loan-emi-calculator/?$ /calculators/bank-home-loan-calculator.php?bank=$1 [L,QSA]
+
+# Regional Rural Banks - Home Loan
+RewriteRule ^calculators/(assam-gramin-vikash-bank|andhra-pradesh-grameena-vikas-bank|baroda-gujarat-gramin-bank|aryavart-bank|punjab-gramin-bank|karnataka-vikas-gramin-bank|tamil-nadu-grama-bank|kerala-gramin-bank|maharashtra-gramin-bank|odisha-gramya-bank)-home-loan-emi-calculator/?$ /calculators/bank-home-loan-calculator.php?bank=$1 [L,QSA]
+
+# Small Finance Banks - Home Loan
+RewriteRule ^calculators/(au-small-finance-bank|capital-small-finance-bank|equitas-small-finance-bank|esaf-small-finance-bank|suryoday-small-finance-bank|ujjivan-small-finance-bank|utkarsh-small-finance-bank|slice-small-finance-bank|jana-small-finance-bank|shivalik-small-finance-bank|unity-small-finance-bank|fincare-small-finance-bank|northeast-small-finance-bank|north-east-small-finance-bank|poorvanchal-bank)-home-loan-emi-calculator/?$ /calculators/bank-home-loan-calculator.php?bank=$1 [L,QSA]
+
+# NBFCs & Housing Finance Companies - Home Loan
+RewriteRule ^calculators/(bajaj-finserv|bajaj-finance|tata-capital|mahindra-finance|mahindra-mahindra-financial|l-t-finance|shriram-finance|muthoot-finance|muthoot-fincorp|indiabulls-housing-finance|pnb-housing-finance|hdfc-ltd|hdb-financial-services|lic-housing-finance|repco-home-finance|aditya-birla-finance|fullerton-india|hero-fincorp|manappuram-finance|cholamandalam-finance|home-credit-india|iifl-finance|iifl-home-finance|tvs-credit|reliance-capital|sundaram-finance|idfc-financial-services|jm-financial|poonawalla-fincorp|northern-arc-capital|bajaj-finance-ltd|cholamandalam-investment|lt-finance-limited|mahindra-mahindra-financial|muthoot-finance-limited|sammaan-capital-limited|shriram-finance-limited|tata-capital-limited|tata-sons-private|360-one-prime|power-finance-corporation|rec-limited|indian-railway-finance-corp|hudco|canfin-homes|dewan-housing-finance|indiabulls-commercial-credit|reliance-home-finance|bajaj-housing-finance|tata-capital-housing|mahindra-rural-housing|aadhar-housing-finance|india-shelter-finance|vastu-housing-finance|aptus-housing-finance|ujjivan-housing-finance)-home-loan-emi-calculator/?$ /calculators/bank-home-loan-calculator.php?bank=$1 [L,QSA]
+
+# Foreign Banks - Home Loan
+RewriteRule ^calculators/(standard-chartered-bank-foreign|citibank-foreign|hsbc-bank-foreign|dbs-bank-foreign|deutsche-bank|bnp-paribas|bank-of-america|jp-morgan-chase|anz-bank|barclays-bank|ab-bank-limited|american-express-banking|bank-of-bahrain-kuwait|bank-of-ceylon|bank-of-china-limited|bank-of-nova-scotia|bank-of-tokyo-mitsubishi|bny-mellon|commonwealth-bank-australia|credit-agricole|credit-suisse|ctbc-bank|erste-bank|industrial-commercial-bank-china|industrial-bank-korea|ing-vysya-bank|jpmorgan-chase-bank|keb-hana-bank|krung-thai-bank|mashreq-bank|mizuho-bank|ncc-bank-limited|oman-international-bank|pt-bank-maybank|rabobank-international|royal-bank-scotland|sber-bank|shinhan-bank|societe-generale|sonali-bank-limited|sumitomo-mitsui-banking|ubs-ag|united-overseas-bank|westpac-banking)-home-loan-emi-calculator/?$ /calculators/bank-home-loan-calculator.php?bank=$1 [L,QSA]
+
+# Fintech Companies - Home Loan (All fintech companies offering home loans)
+RewriteRule ^calculators/(payme-india|kreditbee|moneytap|cashe|earlysalary|flexsalary|kissht|lendingkart|capital-float|navi-loans|cred-loans|dhani-loans|lazypay-loans|slice-fintech|rupeek-loans|faircent-loans|upwards-fintech|zest-money|true-balance|branch-fintech|loantap|incred|money-view|paysense|mobikwik-lending|ziploan|flexiloans|neogrowth|ugro-capital|tala-india|lenddo-efl|fibe-money|jupiter-money|fi-money|uni-fintech|simpl-fintech|okcredit|groww-credit|zomato-pay-later|amazon-pay-later|flipkart-pay-later|payu-credit|razorpay-capital|smartcoin|creditbee|moneyview|nira|cashbean|prefr|fairmoney|payme|upwards|oxyzo|credflow|rupifi|capfloat|finzy|money-club|ring|lazypay)-home-loan-emi-calculator/?$ /calculators/bank-home-loan-calculator.php?bank=$1 [L,QSA]
+
+# Cooperative Banks - Home Loan  
+RewriteRule ^calculators/(saraswat-cooperative-bank|nkgsb-cooperative-bank|cosmos-cooperative-bank|abhyudaya-cooperative-bank)-home-loan-emi-calculator/?$ /calculators/bank-home-loan-calculator.php?bank=$1 [L,QSA]
+
+# TWO WHEELER LOAN EMI CALCULATORS - Bank-specific routing
+# Private Banks - Two Wheeler Loan
+RewriteRule ^calculators/(axis-bank|bandhan-bank|csb-bank|city-union-bank|dcb-bank|dhanlaxmi-bank|federal-bank|hdfc-bank|icici-bank|indusind-bank|idfc-first-bank|jammu-kashmir-bank|karnataka-bank|karur-vysya-bank|kotak-mahindra-bank|nainital-bank|rbl-bank|south-indian-bank|tamilnad-mercantile-bank|yes-bank|idbi-bank|standard-chartered-bank|citibank|hsbc-bank|dbs-bank-india|catholic-syrian-bank)-two-wheeler-loan-emi-calculator/?$ /calculators/bank-two-wheeler-loan-calculator.php?bank=$1 [L,QSA]
+
+# Local Area Banks - Two Wheeler Loan
+RewriteRule ^calculators/(coastal-lab|krishna-bhima-lab)-two-wheeler-loan-emi-calculator/?$ /calculators/bank-two-wheeler-loan-calculator.php?bank=$1 [L,QSA]
+
+# Public Sector Banks - Two Wheeler Loan
+RewriteRule ^calculators/(state-bank-of-india|punjab-national-bank|bank-of-baroda|bank-of-india|bank-of-maharashtra|canara-bank|central-bank-of-india|indian-bank|indian-overseas-bank|punjab-sind-bank|uco-bank|union-bank-of-india)-two-wheeler-loan-emi-calculator/?$ /calculators/bank-two-wheeler-loan-calculator.php?bank=$1 [L,QSA]
+
+# Payment Banks - Two Wheeler Loan
+RewriteRule ^calculators/(airtel-payments-bank|india-post-payments-bank|fino-payments-bank|paytm-payments-bank|jio-payments-bank|nsdl-payments-bank)-two-wheeler-loan-emi-calculator/?$ /calculators/bank-two-wheeler-loan-calculator.php?bank=$1 [L,QSA]
+
+# Development Financial Institutions - Two Wheeler Loan
+RewriteRule ^calculators/(nabard|exim-bank|nhb|sidbi)-two-wheeler-loan-emi-calculator/?$ /calculators/bank-two-wheeler-loan-calculator.php?bank=$1 [L,QSA]
+
+# Regional Rural Banks - Two Wheeler Loan
+RewriteRule ^calculators/(assam-gramin-vikash-bank|andhra-pradesh-grameena-vikas-bank|baroda-gujarat-gramin-bank|aryavart-bank|punjab-gramin-bank|karnataka-vikas-gramin-bank|tamil-nadu-grama-bank|kerala-gramin-bank|maharashtra-gramin-bank|odisha-gramya-bank)-two-wheeler-loan-emi-calculator/?$ /calculators/bank-two-wheeler-loan-calculator.php?bank=$1 [L,QSA]
+
+# Small Finance Banks - Two Wheeler Loan
+RewriteRule ^calculators/(au-small-finance-bank|capital-small-finance-bank|equitas-small-finance-bank|esaf-small-finance-bank|suryoday-small-finance-bank|ujjivan-small-finance-bank|utkarsh-small-finance-bank|slice-small-finance-bank|jana-small-finance-bank|shivalik-small-finance-bank|unity-small-finance-bank|fincare-small-finance-bank|northeast-small-finance-bank|north-east-small-finance-bank|poorvanchal-bank)-two-wheeler-loan-emi-calculator/?$ /calculators/bank-two-wheeler-loan-calculator.php?bank=$1 [L,QSA]
+
+# NBFCs & Finance Companies - Two Wheeler Loan
+RewriteRule ^calculators/(bajaj-finserv|bajaj-finance|tata-capital|mahindra-finance|mahindra-mahindra-financial|l-t-finance|shriram-finance|muthoot-finance|muthoot-fincorp|indiabulls-housing-finance|pnb-housing-finance|hdfc-ltd|hdb-financial-services|lic-housing-finance|repco-home-finance|aditya-birla-finance|fullerton-india|hero-fincorp|manappuram-finance|cholamandalam-finance|home-credit-india|iifl-finance|iifl-home-finance|tvs-credit|reliance-capital|sundaram-finance|idfc-financial-services|jm-financial|poonawalla-fincorp|northern-arc-capital|bajaj-finance-ltd|cholamandalam-investment|lt-finance-limited|mahindra-mahindra-financial|muthoot-finance-limited|sammaan-capital-limited|shriram-finance-limited|tata-capital-limited|tata-sons-private|360-one-prime|power-finance-corporation|rec-limited|indian-railway-finance-corp|hudco|canfin-homes|dewan-housing-finance|indiabulls-commercial-credit|reliance-home-finance)-two-wheeler-loan-emi-calculator/?$ /calculators/bank-two-wheeler-loan-calculator.php?bank=$1 [L,QSA]
+
+# Foreign Banks - Two Wheeler Loan
+RewriteRule ^calculators/(standard-chartered-bank-foreign|citibank-foreign|hsbc-bank-foreign|dbs-bank-foreign|deutsche-bank|bnp-paribas|bank-of-america|jp-morgan-chase|anz-bank|barclays-bank|ab-bank-limited|american-express-banking|bank-of-bahrain-kuwait|bank-of-ceylon|bank-of-china-limited|bank-of-nova-scotia|bank-of-tokyo-mitsubishi|bny-mellon|commonwealth-bank-australia|credit-agricole|credit-suisse|ctbc-bank|erste-bank|industrial-commercial-bank-china|industrial-bank-korea|ing-vysya-bank|jpmorgan-chase-bank|keb-hana-bank|krung-thai-bank|mashreq-bank|mizuho-bank|ncc-bank-limited|oman-international-bank|pt-bank-maybank|rabobank-international|royal-bank-scotland|sber-bank|shinhan-bank|societe-generale|sonali-bank-limited|sumitomo-mitsui-banking|ubs-ag|united-overseas-bank|westpac-banking)-two-wheeler-loan-emi-calculator/?$ /calculators/bank-two-wheeler-loan-calculator.php?bank=$1 [L,QSA]
+
+# Fintech Companies - Two Wheeler Loan (All fintech companies offering two-wheeler loans)
+RewriteRule ^calculators/(payme-india|kreditbee|moneytap|cashe|earlysalary|flexsalary|kissht|lendingkart|capital-float|navi-loans|cred-loans|dhani-loans|lazypay-loans|slice-fintech|rupeek-loans|faircent-loans|upwards-fintech|zest-money|zestmoney|true-balance|branch-fintech|loantap|incred|money-view|moneyview|paysense|mobikwik-lending|ziploan|flexiloans|neogrowth|ugro-capital|tala-india|lenddo-efl|fibe-money|jupiter-money|fi-money|uni-fintech|simpl-fintech|okcredit|groww-credit|zomato-pay-later|amazon-pay-later|flipkart-pay-later|payu-credit|razorpay-capital|smartcoin|creditbee|nira|cashbean|prefr|fairmoney|payme|upwards|oxyzo|credflow|rupifi|capfloat|finzy|money-club|ring|lazypay)-two-wheeler-loan-emi-calculator/?$ /calculators/bank-two-wheeler-loan-calculator.php?bank=$1 [L,QSA]
+
+# Cooperative Banks - Two Wheeler Loan  
+RewriteRule ^calculators/(saraswat-cooperative-bank|nkgsb-cooperative-bank|cosmos-cooperative-bank|abhyudaya-cooperative-bank)-two-wheeler-loan-emi-calculator/?$ /calculators/bank-two-wheeler-loan-calculator.php?bank=$1 [L,QSA]
+
+# CAR LOAN EMI CALCULATORS - General car loan calculator first
+RewriteRule ^calculators/car-loan-emi-calculator/?$ /calculators/car-loan-emi-calculator.php [L]
+
+# CAR LOAN EMI CALCULATORS - Bank-specific routing
+# Private Banks - Car Loan
+RewriteRule ^calculators/(axis-bank|bandhan-bank|csb-bank|city-union-bank|dcb-bank|dhanlaxmi-bank|federal-bank|hdfc-bank|icici-bank|indusind-bank|idfc-first-bank|jammu-kashmir-bank|karnataka-bank|karur-vysya-bank|kotak-mahindra-bank|nainital-bank|rbl-bank|south-indian-bank|tamilnad-mercantile-bank|yes-bank|idbi-bank|standard-chartered-bank|citibank|hsbc-bank|dbs-bank-india|catholic-syrian-bank)-car-loan-emi-calculator/?$ /calculators/bank-car-loan-calculator.php?bank=$1 [L,QSA]
+
+# Local Area Banks - Car Loan
+RewriteRule ^calculators/(coastal-lab|krishna-bhima-lab)-car-loan-emi-calculator/?$ /calculators/bank-car-loan-calculator.php?bank=$1 [L,QSA]
+
+# Public Sector Banks - Car Loan
+RewriteRule ^calculators/(state-bank-of-india|punjab-national-bank|bank-of-baroda|bank-of-india|bank-of-maharashtra|canara-bank|central-bank-of-india|indian-bank|indian-overseas-bank|punjab-sind-bank|uco-bank|union-bank-of-india)-car-loan-emi-calculator/?$ /calculators/bank-car-loan-calculator.php?bank=$1 [L,QSA]
+
+# Payment Banks - Car Loan
+RewriteRule ^calculators/(airtel-payments-bank|india-post-payments-bank|fino-payments-bank|paytm-payments-bank|jio-payments-bank|nsdl-payments-bank)-car-loan-emi-calculator/?$ /calculators/bank-car-loan-calculator.php?bank=$1 [L,QSA]
+
+# Development Financial Institutions - Car Loan
+RewriteRule ^calculators/(nabard|exim-bank|nhb|sidbi)-car-loan-emi-calculator/?$ /calculators/bank-car-loan-calculator.php?bank=$1 [L,QSA]
+
+# Regional Rural Banks - Car Loan
+RewriteRule ^calculators/(assam-gramin-vikash-bank|andhra-pradesh-grameena-vikas-bank|baroda-gujarat-gramin-bank|aryavart-bank|punjab-gramin-bank|karnataka-vikas-gramin-bank|tamil-nadu-grama-bank|kerala-gramin-bank|maharashtra-gramin-bank|odisha-gramya-bank)-car-loan-emi-calculator/?$ /calculators/bank-car-loan-calculator.php?bank=$1 [L,QSA]
+
+# Small Finance Banks - Car Loan
+RewriteRule ^calculators/(au-small-finance-bank|capital-small-finance-bank|equitas-small-finance-bank|esaf-small-finance-bank|suryoday-small-finance-bank|ujjivan-small-finance-bank|utkarsh-small-finance-bank|slice-small-finance-bank|jana-small-finance-bank|shivalik-small-finance-bank|unity-small-finance-bank|fincare-small-finance-bank|northeast-small-finance-bank|north-east-small-finance-bank|poorvanchal-bank)-car-loan-emi-calculator/?$ /calculators/bank-car-loan-calculator.php?bank=$1 [L,QSA]
+
+# NBFCs & Auto Finance Companies - Car Loan
+RewriteRule ^calculators/(bajaj-finserv|bajaj-finance|tata-capital|mahindra-finance|mahindra-mahindra-financial|l-t-finance|shriram-finance|muthoot-finance|muthoot-fincorp|indiabulls-housing-finance|pnb-housing-finance|hdfc-ltd|hdb-financial-services|lic-housing-finance|repco-home-finance|aditya-birla-finance|fullerton-india|hero-fincorp|manappuram-finance|cholamandalam-finance|home-credit-india|iifl-finance|iifl-home-finance|tvs-credit|reliance-capital|sundaram-finance|idfc-financial-services|jm-financial|poonawalla-fincorp|northern-arc-capital|bajaj-finance-ltd|cholamandalam-investment|lt-finance-limited|mahindra-mahindra-financial|muthoot-finance-limited|sammaan-capital-limited|shriram-finance-limited|tata-capital-limited|tata-sons-private|360-one-prime|power-finance-corporation|rec-limited|indian-railway-finance-corp|hudco|canfin-homes|dewan-housing-finance|indiabulls-commercial-credit|reliance-home-finance|mahindra-finance-car|tata-motors-finance|maruti-suzuki-finance|hyundai-finance|hero-motocorp-finance|tvs-motor-finance)-car-loan-emi-calculator/?$ /calculators/bank-car-loan-calculator.php?bank=$1 [L,QSA]
+
+# Foreign Banks - Car Loan
+RewriteRule ^calculators/(standard-chartered-bank-foreign|citibank-foreign|hsbc-bank-foreign|dbs-bank-foreign|deutsche-bank|bnp-paribas|bank-of-america|jp-morgan-chase|anz-bank|barclays-bank|ab-bank-limited|american-express-banking|bank-of-bahrain-kuwait|bank-of-ceylon|bank-of-china-limited|bank-of-nova-scotia|bank-of-tokyo-mitsubishi|bny-mellon|commonwealth-bank-australia|credit-agricole|credit-suisse|ctbc-bank|erste-bank|industrial-commercial-bank-china|industrial-bank-korea|ing-vysya-bank|jpmorgan-chase-bank|keb-hana-bank|krung-thai-bank|mashreq-bank|mizuho-bank|ncc-bank-limited|oman-international-bank|pt-bank-maybank|rabobank-international|royal-bank-scotland|sber-bank|shinhan-bank|societe-generale|sonali-bank-limited|sumitomo-mitsui-banking|ubs-ag|united-overseas-bank|westpac-banking)-car-loan-emi-calculator/?$ /calculators/bank-car-loan-calculator.php?bank=$1 [L,QSA]
+
+# Fintech Companies - Car Loan (All fintech companies offering car loans)
+RewriteRule ^calculators/(payme-india|kreditbee|moneytap|cashe|earlysalary|flexsalary|kissht|lendingkart|capital-float|navi-loans|cred-loans|dhani-loans|lazypay-loans|slice-fintech|rupeek-loans|faircent-loans|upwards-fintech|zest-money|zestmoney|true-balance|branch-fintech|loantap|incred|money-view|moneyview|paysense|mobikwik-lending|ziploan|flexiloans|neogrowth|ugro-capital|tala-india|lenddo-efl|fibe-money|jupiter-money|fi-money|uni-fintech|simpl-fintech|okcredit|groww-credit|zomato-pay-later|amazon-pay-later|flipkart-pay-later|payu-credit|razorpay-capital|smartcoin|creditbee|nira|cashbean|prefr|fairmoney|payme|upwards|oxyzo|credflow|rupifi|capfloat|finzy|money-club|ring|lazypay)-car-loan-emi-calculator/?$ /calculators/bank-car-loan-calculator.php?bank=$1 [L,QSA]
+
+# Cooperative Banks - Car Loan  
+RewriteRule ^calculators/(saraswat-cooperative-bank|nkgsb-cooperative-bank|cosmos-cooperative-bank|abhyudaya-cooperative-bank)-car-loan-emi-calculator/?$ /calculators/bank-car-loan-calculator.php?bank=$1 [L,QSA]
+
+# General calculator pages
+RewriteRule ^calculators/([a-zA-Z-]+)/?$ /calculators/$1.php [L]
+
+# RTO Details
+RewriteRule ^rto-details/?$ /rto-details/index.php [L]
+
+# Electricity Board  
+RewriteRule ^electricity-board/?$ /electricity-board/index.php [L]
+
+# Service Center
+RewriteRule ^service-center/?$ /service-center/index.php [L]
+
+# Pincode URL Structure
+# All states and UTs page
+RewriteRule ^pincode/all-states/?$ /pincode/all-states.php [L]
+
+# Dynamic pincode pages - state/district/area-pincode-number
+RewriteRule ^pincode/([a-z-]+)/([a-z-]+)/([a-z0-9-]+)-pincode-([0-9]{6})/?$ /pincode/dynamic.php?state=$1&district=$2&area=$3&pincode=$4 [L,QSA]
+
+# Pincode search by number
+RewriteRule ^pincode/search/([0-9]{6})/?$ /pincode/index.php?search=$1 [L,QSA]
+
+# Pincode state pages
+RewriteRule ^pincode/([a-z-]+)/?$ /pincode/state.php?state=$1 [L,QSA]
+
+# Pincode district pages  
+RewriteRule ^pincode/([a-z-]+)/([a-z-]+)/?$ /pincode/district.php?state=$1&district=$2 [L,QSA]
+
+# Main pincode index
+RewriteRule ^pincode/?$ /pincode/index.php [L]
+
+# Holiday URL Structure
+# Main holiday index
+RewriteRule ^holiday/?$ /holiday/index.php [L]
+
+# UK Holiday URLs
+RewriteRule ^holiday/uk-holiday/?$ /holiday/uk-holiday/index.php [L]
+RewriteRule ^holiday/uk-holiday/england-holidays/?$ /holiday/uk-holiday/england-holidays.php [L]
+RewriteRule ^holiday/uk-holiday/wales-holidays/?$ /holiday/uk-holiday/wales-holidays.php [L]
+RewriteRule ^holiday/uk-holiday/scotland-holidays/?$ /holiday/uk-holiday/scotland-holidays.php [L]
+RewriteRule ^holiday/uk-holiday/northern-ireland-holidays/?$ /holiday/uk-holiday/northern-ireland-holidays.php [L]
+RewriteRule ^holiday/uk-holiday/jersey-holidays/?$ /holiday/uk-holiday/jersey-holidays.php [L]
+RewriteRule ^holiday/uk-holiday/guernsey-holidays/?$ /holiday/uk-holiday/guernsey-holidays.php [L]
+RewriteRule ^holiday/uk-holiday/isle-of-man-holidays/?$ /holiday/uk-holiday/isle-of-man-holidays.php [L]
+
+# England Cities (specific rule for england-cities directory)
+RewriteRule ^holiday/uk-holiday/england-cities/?$ /holiday/uk-holiday/england-cities/index.php [L]
+RewriteRule ^holiday/uk-holiday/england-cities/([a-zA-Z-]+)-holidays/?$ /holiday/uk-holiday/england-cities/$1-holidays.php [L]
+
+# USA Holiday URLs
+RewriteRule ^holiday/usa-holiday/?$ /holiday/usa-holiday/index.php [L]
+RewriteRule ^holiday/usa-holiday/([a-zA-Z-]+)-holidays/?$ /holiday/usa-holiday/$1-holidays.php [L]
+
+# Canada Holiday URLs
+RewriteRule ^holiday/canada-holidays/?$ /holiday/canada-holidays/index.php [L]
+RewriteRule ^holiday/canada-holidays/([a-zA-Z-]+)-holidays/?$ /holiday/canada-holidays/$1-holidays.php [L]
+
+# Australia Holiday URLs
+RewriteRule ^holiday/australia-holidays/?$ /holiday/australia-holidays/index.php [L]
+RewriteRule ^holiday/australia-holidays/([a-zA-Z-]+)-holidays/?$ /holiday/australia-holidays/$1-holidays.php [L]
+
+# Indian Holiday URLs
+RewriteRule ^holiday/indian-holiday/?$ /holiday/indian-holiday/index.php [L]
+RewriteRule ^holiday/indian-holiday/([a-zA-Z-]+)-holidays/?$ /holiday/indian-holiday/$1-holidays.php [L]
+
+# Special pages (clean URLs)
+RewriteRule ^contact/?$ /contact.php [L]
+RewriteRule ^privacy/?$ /privacy.php [L]
+
+# General clean URL handling for root level PHP files (lowest priority)
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteCond %{DOCUMENT_ROOT}/$1.php -f
+RewriteRule ^([^/]+)/?$ $1.php [L]
+
+# Security headers
+<IfModule mod_headers.c>
+    Header always set X-Frame-Options DENY
+    Header always set X-Content-Type-Options nosniff
+</IfModule>
+
+
