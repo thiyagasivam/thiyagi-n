@@ -30,10 +30,16 @@
     "@type": "Event",
     "@id": "#vic-holidays-2025",
     "name": "Victoria Public Holidays 2025",
-    "description": "Complete list of Victoria public holidays and bank holidays for 2025",
+    "description": "Complete list of Victoria public holidays and bank holidays for 2025 including Melbourne Cup Day, AFL Grand Final Friday, Labour Day, and all state-specific observances for Melbourne and Victoria.",
     "startDate": "2025-01-01",
     "endDate": "2025-12-31",
     "eventStatus": "https://schema.org/EventScheduled",
+    "image": {
+      "@type": "ImageObject",
+      "url": "https://via.placeholder.com/1200x630/002654/FFFFFF?text=VIC+Holidays+2025",
+      "width": 1200,
+      "height": 630
+    },
     "location": {
       "@type": "Place",
       "name": "Victoria, Australia",
@@ -46,7 +52,23 @@
     "organizer": {
       "@type": "GovernmentOrganization",
       "name": "Victoria Government",
+      "url": "https://www.vic.gov.au",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://www.vic.gov.au/sites/default/files/2019-05/vic-logo.png"
+      }
+    },
+    "performer": {
+      "@type": "GovernmentOrganization",
+      "name": "Victoria State Government",
       "url": "https://www.vic.gov.au"
+    },
+    "offers": {
+      "@type": "Offer",
+      "price": "0",
+      "priceCurrency": "AUD",
+      "availability": "https://schema.org/InStock",
+      "description": "Free access to Victoria public holiday calendar and information"
     }
   },
   "breadcrumb": {

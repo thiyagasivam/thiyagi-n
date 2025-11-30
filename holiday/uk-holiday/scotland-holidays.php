@@ -76,11 +76,45 @@ include '../../header.php';
     "mainEntity": {
         "@type": "Event",
         "name": "Scotland Holidays 2025",
+        "description": "Complete Scotland Holiday Calendar 2025 including all bank holidays, cultural events, and observances such as Burns Night, Edinburgh Festival, and traditional Scottish celebrations.",
         "startDate": "2025-01-01",
         "endDate": "2025-12-31",
+        "eventStatus": "https://schema.org/EventScheduled",
+        "image": {
+            "@type": "ImageObject",
+            "url": "https://www.thiyagi.com/nt.png",
+            "width": 1200,
+            "height": 630
+        },
         "location": {
             "@type": "Place",
-            "name": "Scotland, United Kingdom"
+            "name": "Scotland, United Kingdom",
+            "address": {
+                "@type": "PostalAddress",
+                "addressRegion": "Scotland",
+                "addressCountry": "GB"
+            }
+        },
+        "organizer": {
+            "@type": "GovernmentOrganization",
+            "name": "Scottish Government",
+            "url": "https://www.gov.scot",
+            "logo": {
+                "@type": "ImageObject",
+                "url": "https://www.gov.scot/binaries/content/gallery/govscot/logos/scottish-government-logo.png"
+            }
+        },
+        "performer": {
+            "@type": "GovernmentOrganization",
+            "name": "Scottish Government",
+            "url": "https://www.gov.scot"
+        },
+        "offers": {
+            "@type": "Offer",
+            "price": "0",
+            "priceCurrency": "GBP",
+            "availability": "https://schema.org/InStock",
+            "description": "Free access to Scotland holiday calendar and cultural event information"
         }
     }
 }

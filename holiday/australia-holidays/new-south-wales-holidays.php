@@ -30,10 +30,16 @@
     "@type": "Event",
     "@id": "#nsw-holidays-2025",
     "name": "New South Wales Public Holidays 2025",
-    "description": "Complete list of New South Wales public holidays and bank holidays for 2025",
+    "description": "Complete list of New South Wales public holidays and bank holidays for 2025 including Australia Day, ANZAC Day, Queen's Birthday, and all state-specific observances for Sydney and NSW.",
     "startDate": "2025-01-01",
     "endDate": "2025-12-31",
     "eventStatus": "https://schema.org/EventScheduled",
+    "image": {
+      "@type": "ImageObject",
+      "url": "https://via.placeholder.com/1200x630/003087/FFFFFF?text=NSW+Holidays+2025",
+      "width": 1200,
+      "height": 630
+    },
     "location": {
       "@type": "Place",
       "name": "New South Wales, Australia",
@@ -46,7 +52,23 @@
     "organizer": {
       "@type": "GovernmentOrganization",
       "name": "New South Wales Government",
+      "url": "https://www.nsw.gov.au",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://www.nsw.gov.au/sites/default/files/nsw-logo.png"
+      }
+    },
+    "performer": {
+      "@type": "GovernmentOrganization",
+      "name": "NSW State Government",
       "url": "https://www.nsw.gov.au"
+    },
+    "offers": {
+      "@type": "Offer",
+      "price": "0",
+      "priceCurrency": "AUD",
+      "availability": "https://schema.org/InStock",
+      "description": "Free access to New South Wales public holiday calendar and information"
     }
   },
   "breadcrumb": {
