@@ -213,6 +213,24 @@ for ($i = 1; $i <= 100; $i++) {
     ];
 }
 
+// Add INCHES to FEET converter dynamic pages (1-1000)
+for ($i = 1; $i <= 1000; $i++) {
+    $pages["/inches-to-feet/{$i}"] = [
+        'lastmod' => date('Y-m-d'),
+        'changefreq' => 'monthly',
+        'priority' => '0.7'
+    ];
+}
+
+// Add FEET to INCHES converter dynamic pages (1-1000) - for future use
+for ($i = 1; $i <= 1000; $i++) {
+    $pages["/feet-to-inches/{$i}"] = [
+        'lastmod' => date('Y-m-d'),
+        'changefreq' => 'monthly',
+        'priority' => '0.7'
+    ];
+}
+
 // Pages to EXCLUDE (will not appear in sitemap)
 $excludedPages = [
     '/404.php',

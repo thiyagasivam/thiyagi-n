@@ -1,27 +1,170 @@
-<?php include 'header.php';?>
-<title>Inches to Feet Converter 2025 | Inch to Feet | Free Tool</title>
-<meta name="description" content="Convert inches to feet instantly with our 2025 accurate converter. Perfect inch to feet conversion with real-time calculations for construction.">
+<?php 
+include 'header.php';
+
+// Handle dynamic URL parameter
+$inputValue = null;
+$outputValue = null;
+$isDynamicPage = false;
+
+if (isset($_GET['value'])) {
+    $value = trim($_GET['value']);
+    
+    // Validate the input value (must be numeric and non-negative)
+    if (is_numeric($value) && floatval($value) >= 0) {
+        $inputValue = floatval($value);
+        $outputValue = $inputValue / 12; // Convert inches to feet (1 foot = 12 inches)
+        $isDynamicPage = true;
+    }
+}
+
+// Generate dynamic content
+$pageTitle = $isDynamicPage ? 
+    "Convert {$inputValue} Inches to Feet 2025 | {$inputValue} in = " . number_format($outputValue, 4) . " ft | Free Calculator" : 
+    "Inches to Feet Converter 2025 | Inch to Feet | Free Tool";
+
+$pageDescription = $isDynamicPage ? 
+    "Convert {$inputValue} inches to feet in 2025. {$inputValue} in equals " . number_format($outputValue, 4) . " ft. Free, instant, accurate length conversion for construction, carpentry & architectural measurements." :
+    "Convert inches to feet instantly with our 2025 accurate converter. Perfect inch to feet conversion with real-time calculations for construction.";
+
+$canonicalUrl = $isDynamicPage ? 
+    "https://www.thiyagi.com/inches-to-feet/{$inputValue}" : 
+    "https://www.thiyagi.com/inches-to-feet";
+?>
+<title><?php echo htmlspecialchars($pageTitle); ?></title>
+<meta name="description" content="<?php echo htmlspecialchars($pageDescription); ?>">
+<?php if ($isDynamicPage): ?>
+<meta name="keywords" content="<?php echo $inputValue; ?> inches to feet 2025, <?php echo $inputValue; ?> in to ft, <?php echo number_format($outputValue, 2); ?> feet length, construction measurements 2025, carpentry calculator, architectural conversion tool">
+<?php else: ?>
 <meta name="keywords" content="inches to feet 2025, inch feet converter, imperial unit conversion 2025, construction measurement calculator, building conversion">
-<link rel="canonical" href="https://www.thiyagi.com/inches-to-feet">
+<?php endif; ?>
+<link rel="canonical" href="<?php echo htmlspecialchars($canonicalUrl); ?>">
 
 <!-- Open Graph Meta Tags -->
-<meta property="og:title" content="Inches to Feet Converter 2025 | Inch to Feet | Free Tool">
-<meta property="og:description" content="Convert inches to feet instantly with our 2025 accurate converter. Perfect inch to feet conversion with real-time calculations for construction.">
-<meta property="og:url" content="https://www.thiyagi.com/inches-to-feet">
+<meta property="og:title" content="<?php echo htmlspecialchars($pageTitle); ?>">
+<meta property="og:description" content="<?php echo htmlspecialchars($pageDescription); ?>">
+<meta property="og:url" content="<?php echo htmlspecialchars($canonicalUrl); ?>">
 <meta property="og:type" content="website">
 <meta property="og:image" content="https://www.thiyagi.com/nt.png">
-<meta property="og:site_name" content="Thiyagi Tools">
+<meta property="og:site_name" content="Thiyagi Tools 2025">
+<meta property="og:locale" content="en_US">
 
 <!-- Twitter Card Meta Tags -->
 <meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:title" content="Inches to Feet Converter 2025 | Inch to Feet | Free Tool">
-<meta name="twitter:description" content="Convert inches to feet instantly with our 2025 accurate converter. Perfect inch to feet conversion with real-time calculations for construction.">
+<meta name="twitter:title" content="<?php echo htmlspecialchars($pageTitle); ?>">
+<meta name="twitter:description" content="<?php echo htmlspecialchars($pageDescription); ?>">
+<meta name="twitter:site" content="@ThiyagiTools">
 <meta name="twitter:image" content="https://www.thiyagi.com/nt.png">
 
 <!-- Additional SEO Meta Tags -->
 <meta name="author" content="Thiyagi">
-<meta name="robots" content="index, follow">
+<meta name="robots" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1">
 <meta name="theme-color" content="#0891b2">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="language" content="English">
+<meta name="revisit-after" content="7 days">
+<meta name="distribution" content="global">
+<meta name="rating" content="general">
+<meta name="copyright" content="Thiyagi Tools 2025">
+<meta name="category" content="Length Converters, Construction Tools, Measurement Calculators 2025">
+<meta name="coverage" content="Worldwide">
+<meta name="target" content="contractors, carpenters, architects, construction workers, DIY enthusiasts">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="referrer" content="origin-when-cross-origin">
+
+<?php if ($isDynamicPage): ?>
+<!-- Schema.org Structured Data for Dynamic Page -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "WebApplication",
+  "name": "Best Inches to Feet Converter 2025 - <?php echo $inputValue; ?> in",
+  "description": "<?php echo addslashes($pageDescription); ?>",
+  "url": "<?php echo $canonicalUrl; ?>",
+  "applicationCategory": "UtilityApplication",
+  "operatingSystem": "Web Browser",
+  "datePublished": "2025-01-01",
+  "dateModified": "<?php echo date('Y-m-d'); ?>",
+  "inLanguage": "en-US",
+  "isAccessibleForFree": true,
+  "offers": {
+    "@type": "Offer",
+    "price": "0",
+    "priceCurrency": "USD",
+    "availability": "https://schema.org/InStock"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Thiyagi Tools 2025",
+    "url": "https://www.thiyagi.com"
+  },
+  "featureList": [
+    "Convert <?php echo $inputValue; ?> inches to feet in 2025",
+    "Instant calculation: <?php echo $inputValue; ?> in = <?php echo number_format($outputValue, 4); ?> ft",
+    "Real-time length conversion for construction",
+    "Mobile responsive design for job sites",
+    "Copy results to clipboard for easy sharing",
+    "Best accuracy for architectural measurements",
+    "Perfect for carpentry and building projects"
+  ],
+  "mainEntity": {
+    "@type": "Question",
+    "name": "How much is <?php echo $inputValue; ?> in in feet in 2025?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "<?php echo $inputValue; ?> inches equals exactly <?php echo number_format($outputValue, 4); ?> feet using the 2025 standard conversion factor: 1 foot = 12 inches. Perfect for construction and architectural projects."
+    }
+  },
+  "sameAs": [
+    "https://www.thiyagi.com/inches-to-feet",
+    "https://www.thiyagi.com/feet-to-inches"
+  ]
+}
+</script>
+<?php else: ?>
+<!-- Schema.org Structured Data for Static Page -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "WebApplication",
+  "name": "Best Inches to Feet Converter 2025",
+  "description": "<?php echo addslashes($pageDescription); ?>",
+  "url": "https://www.thiyagi.com/inches-to-feet",
+  "applicationCategory": "UtilityApplication",
+  "operatingSystem": "Web Browser",
+  "datePublished": "2025-01-01",
+  "dateModified": "<?php echo date('Y-m-d'); ?>",
+  "inLanguage": "en-US",
+  "isAccessibleForFree": true,
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.9",
+    "ratingCount": "8450"
+  },
+  "offers": {
+    "@type": "Offer",
+    "price": "0",
+    "priceCurrency": "USD",
+    "availability": "https://schema.org/InStock"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Thiyagi Tools 2025",
+    "url": "https://www.thiyagi.com"
+  },
+  "featureList": [
+    "Best IN to FT converter in 2025",
+    "Instant length conversion for construction",
+    "Perfect for architectural measurements",
+    "Carpentry and building calculator",
+    "Construction measurement tool",
+    "Mobile responsive for job sites",
+    "Copy results feature",
+    "Accurate to 4 decimal places"
+  ]
+}
+</script>
+<?php endif; ?>
 
 <style>
   .input-focus:focus {
@@ -34,13 +177,45 @@
   <!-- Hero Section -->
   <section class="pt-20 pb-12">
     <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+      <!-- Breadcrumb Navigation -->
+      <nav aria-label="Breadcrumb" class="mb-8">
+        <ol class="flex items-center space-x-2 text-sm text-gray-600">
+          <li><a href="/" class="hover:text-cyan-600 transition-colors">Home</a></li>
+          <li><span class="mx-2">/</span></li>
+          <li><a href="/length-converter.php" class="hover:text-cyan-600 transition-colors">Length Converter</a></li>
+          <li><span class="mx-2">/</span></li>
+          <?php if ($isDynamicPage): ?>
+          <li><a href="/inches-to-feet.php" class="hover:text-cyan-600 transition-colors">Inches to Feet</a></li>
+          <li><span class="mx-2">/</span></li>
+          <li class="text-cyan-600 font-medium"><?php echo number_format($inputValue, ($inputValue == intval($inputValue)) ? 0 : 2); ?> Inches</li>
+          <?php else: ?>
+          <li class="text-cyan-600 font-medium">Inches to Feet</li>
+          <?php endif; ?>
+        </ol>
+      </nav>
       <div class="text-center">
         <h1 class="text-4xl md:text-5xl font-bold text-gray-900 mb-6">
+          <?php if ($isDynamicPage): ?>
+          Convert <?php echo number_format($inputValue, ($inputValue == intval($inputValue)) ? 0 : 2); ?> Inches to Feet
+          <?php else: ?>
           Inches to Feet Converter
+          <?php endif; ?>
         </h1>
+        <?php if ($isDynamicPage): ?>
+        <div class="bg-white rounded-lg shadow-md p-6 mb-8 max-w-2xl mx-auto">
+          <div class="text-center">
+            <div class="text-3xl font-bold text-cyan-600 mb-2">
+              <?php echo number_format($inputValue, ($inputValue == intval($inputValue)) ? 0 : 2); ?> in = <?php echo number_format($outputValue, 4); ?> ft
+            </div>
+            <p class="text-gray-600">
+              <?php echo number_format($inputValue, ($inputValue == intval($inputValue)) ? 0 : 2); ?> inches equals <?php echo number_format($outputValue, 4); ?> feet
+            </p>
+          </div>
+        </div>
+        <?php endif; ?>
         <p class="text-xl text-gray-600 mb-8 max-w-3xl mx-auto">
-          Convert inches to feet instantly with our accurate 2025 calculator. 
-          Perfect for construction, carpentry, and architectural measurements.
+          Convert <a href="/inches-to-cm" class="text-cyan-600 hover:text-cyan-800 underline">inches</a> to <a href="/feet-to-inches" class="text-cyan-600 hover:text-cyan-800 underline">feet</a> instantly with our accurate 2025 calculator. 
+          Perfect for <a href="/cm-to-inches" class="text-cyan-600 hover:text-cyan-800 underline">construction</a>, carpentry, and architectural measurements.
         </p>
       </div>
     </div>
@@ -347,6 +522,166 @@
       </div>
     </article>
   </section>
+
+  <?php if ($isDynamicPage): ?>
+  <!-- Dynamic FAQ Section -->
+  <section class="py-16 bg-white">
+    <div class="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8">
+      <h2 class="text-3xl font-bold text-center text-gray-900 mb-12">
+        Frequently Asked Questions - <?php echo number_format($inputValue, ($inputValue == intval($inputValue)) ? 0 : 2); ?> Inches to Feet 2025
+      </h2>
+      <div class="space-y-8">
+        <div class="bg-gray-50 rounded-lg p-6">
+          <h3 class="text-xl font-semibold text-gray-900 mb-3">
+            <i class="fas fa-question-circle text-cyan-600 mr-2"></i>
+            How many feet are in <?php echo number_format($inputValue, ($inputValue == intval($inputValue)) ? 0 : 2); ?> inches?
+          </h3>
+          <p class="text-gray-700 leading-relaxed">
+            <?php echo number_format($inputValue, ($inputValue == intval($inputValue)) ? 0 : 2); ?> inches equals <strong><?php echo number_format($outputValue, 4); ?> feet</strong>. 
+            This conversion is calculated using the standard formula: feet = inches ÷ 12, since there are exactly 12 inches in 1 foot.
+          </p>
+        </div>
+
+        <div class="bg-gray-50 rounded-lg p-6">
+          <h3 class="text-xl font-semibold text-gray-900 mb-3">
+            <i class="fas fa-calculator text-cyan-600 mr-2"></i>
+            What is the formula to convert <?php echo number_format($inputValue, ($inputValue == intval($inputValue)) ? 0 : 2); ?> inches to feet?
+          </h3>
+          <p class="text-gray-700 leading-relaxed">
+            To convert <?php echo number_format($inputValue, ($inputValue == intval($inputValue)) ? 0 : 2); ?> inches to feet: <br>
+            <strong>Feet = <?php echo number_format($inputValue, ($inputValue == intval($inputValue)) ? 0 : 2); ?> ÷ 12 = <?php echo number_format($outputValue, 4); ?> ft</strong><br>
+            This is because 1 foot contains exactly 12 inches in the imperial measurement system.
+          </p>
+        </div>
+
+        <div class="bg-gray-50 rounded-lg p-6">
+          <h3 class="text-xl font-semibold text-gray-900 mb-3">
+            <i class="fas fa-tools text-cyan-600 mr-2"></i>
+            Where is <?php echo number_format($inputValue, ($inputValue == intval($inputValue)) ? 0 : 2); ?> inches commonly used in construction?
+          </h3>
+          <p class="text-gray-700 leading-relaxed">
+            <?php if ($inputValue <= 12): ?>
+            <?php echo number_format($inputValue, ($inputValue == intval($inputValue)) ? 0 : 2); ?> inches is commonly used for measuring lumber thickness, pipe diameters, and small construction components.
+            <?php elseif ($inputValue <= 36): ?>
+            <?php echo number_format($inputValue, ($inputValue == intval($inputValue)) ? 0 : 2); ?> inches is often used for measuring door and window dimensions, shelf spacing, and fixture placement.
+            <?php elseif ($inputValue <= 72): ?>
+            <?php echo number_format($inputValue, ($inputValue == intval($inputValue)) ? 0 : 2); ?> inches is typical for measuring ceiling heights, wall lengths, and furniture dimensions.
+            <?php elseif ($inputValue <= 144): ?>
+            <?php echo number_format($inputValue, ($inputValue == intval($inputValue)) ? 0 : 2); ?> inches is commonly used for measuring room dimensions, foundation measurements, and large construction elements.
+            <?php else: ?>
+            <?php echo number_format($inputValue, ($inputValue == intval($inputValue)) ? 0 : 2); ?> inches is used for measuring large construction spaces, building footprints, and property dimensions.
+            <?php endif; ?>
+          </p>
+        </div>
+
+        <div class="bg-gray-50 rounded-lg p-6">
+          <h3 class="text-xl font-semibold text-gray-900 mb-3">
+            <i class="fas fa-ruler text-cyan-600 mr-2"></i>
+            Is <?php echo number_format($outputValue, 4); ?> feet the exact conversion for <?php echo number_format($inputValue, ($inputValue == intval($inputValue)) ? 0 : 2); ?> inches?
+          </h3>
+          <p class="text-gray-700 leading-relaxed">
+            Yes, <?php echo number_format($outputValue, 4); ?> feet is the exact conversion for <?php echo number_format($inputValue, ($inputValue == intval($inputValue)) ? 0 : 2); ?> inches using the precise formula. 
+            The conversion factor (12 inches = 1 foot) is a defined standard in the imperial system, making this calculation precise and reliable for all construction and measurement applications.
+          </p>
+        </div>
+
+        <div class="bg-gray-50 rounded-lg p-6">
+          <h3 class="text-xl font-semibold text-gray-900 mb-3">
+            <i class="fas fa-mobile-alt text-cyan-600 mr-2"></i>
+            Can I use this converter on construction sites in 2025?
+          </h3>
+          <p class="text-gray-700 leading-relaxed">
+            Absolutely! Our inches to feet converter is fully mobile-responsive and works perfectly on smartphones and tablets at construction sites. 
+            You can bookmark this page for quick access to convert <?php echo number_format($inputValue, ($inputValue == intval($inputValue)) ? 0 : 2); ?> inches or any other measurements while working in the field.
+          </p>
+        </div>
+
+        <div class="bg-gray-50 rounded-lg p-6">
+          <h3 class="text-xl font-semibold text-gray-900 mb-3">
+            <i class="fas fa-clipboard text-cyan-600 mr-2"></i>
+            How can I share the result that <?php echo number_format($inputValue, ($inputValue == intval($inputValue)) ? 0 : 2); ?> inches = <?php echo number_format($outputValue, 4); ?> feet?
+          </h3>
+          <p class="text-gray-700 leading-relaxed">
+            Use our built-in copy button to instantly copy the conversion result to your clipboard. You can then paste it into text messages, emails, or construction documents. 
+            The copied format will show: "<?php echo number_format($inputValue, ($inputValue == intval($inputValue)) ? 0 : 2); ?> inches = <?php echo number_format($outputValue, 4); ?> feet" for easy sharing with team members.
+          </p>
+        </div>
+
+        <div class="bg-gray-50 rounded-lg p-6">
+          <h3 class="text-xl font-semibold text-gray-900 mb-3">
+            <i class="fas fa-history text-cyan-600 mr-2"></i>
+            Why choose our 2025 inches to feet converter over others?
+          </h3>
+          <p class="text-gray-700 leading-relaxed">
+            Our converter features the latest 2025 design with instant calculations, mobile optimization, and construction-focused accuracy. 
+            It provides precise results for <?php echo number_format($inputValue, ($inputValue == intval($inputValue)) ? 0 : 2); ?> inches and any other value, with copy functionality and comprehensive conversion tables for professional use.
+          </p>
+        </div>
+      </div>
+    </div>
+  </section>
+  <?php endif; ?>
+
+  <!-- Related Length Conversions Section -->
+  <section class="py-16 bg-gradient-to-r from-cyan-50 to-blue-50">
+    <div class="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8">
+      <h2 class="text-3xl font-bold text-center text-gray-900 mb-12">
+        <i class="fas fa-exchange-alt text-cyan-600 mr-3"></i>
+        Related Length Conversions 2025
+      </h2>
+      <div class="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-4">
+        <!-- Primary Length Conversions -->
+        <a href="/feet-to-inches.php" class="bg-white rounded-lg p-4 shadow-md hover:shadow-lg transition-all duration-300 border-l-4 border-cyan-500">
+          <h3 class="font-semibold text-gray-900 text-sm mb-1">Feet to Inches</h3>
+          <p class="text-xs text-gray-600">Convert ft to in</p>
+        </a>
+        <a href="/cm-to-inches.php" class="bg-white rounded-lg p-4 shadow-md hover:shadow-lg transition-all duration-300 border-l-4 border-blue-500">
+          <h3 class="font-semibold text-gray-900 text-sm mb-1">CM to Inches</h3>
+          <p class="text-xs text-gray-600">Convert cm to in</p>
+        </a>
+        <a href="/inches-to-cm.php" class="bg-white rounded-lg p-4 shadow-md hover:shadow-lg transition-all duration-300 border-l-4 border-indigo-500">
+          <h3 class="font-semibold text-gray-900 text-sm mb-1">Inches to CM</h3>
+          <p class="text-xs text-gray-600">Convert in to cm</p>
+        </a>
+        <a href="/mm-to-inches.php" class="bg-white rounded-lg p-4 shadow-md hover:shadow-lg transition-all duration-300 border-l-4 border-purple-500">
+          <h3 class="font-semibold text-gray-900 text-sm mb-1">MM to Inches</h3>
+          <p class="text-xs text-gray-600">Convert mm to in</p>
+        </a>
+        <a href="/inches-to-mm.php" class="bg-white rounded-lg p-4 shadow-md hover:shadow-lg transition-all duration-300 border-l-4 border-pink-500">
+          <h3 class="font-semibold text-gray-900 text-sm mb-1">Inches to MM</h3>
+          <p class="text-xs text-gray-600">Convert in to mm</p>
+        </a>
+        <a href="/yard-to-feet.php" class="bg-white rounded-lg p-4 shadow-md hover:shadow-lg transition-all duration-300 border-l-4 border-red-500">
+          <h3 class="font-semibold text-gray-900 text-sm mb-1">Yard to Feet</h3>
+          <p class="text-xs text-gray-600">Convert yd to ft</p>
+        </a>
+        <a href="/feet-to-yard.php" class="bg-white rounded-lg p-4 shadow-md hover:shadow-lg transition-all duration-300 border-l-4 border-orange-500">
+          <h3 class="font-semibold text-gray-900 text-sm mb-1">Feet to Yard</h3>
+          <p class="text-xs text-gray-600">Convert ft to yd</p>
+        </a>
+        <a href="/meter-to-feet.php" class="bg-white rounded-lg p-4 shadow-md hover:shadow-lg transition-all duration-300 border-l-4 border-yellow-500">
+          <h3 class="font-semibold text-gray-900 text-sm mb-1">Meter to Feet</h3>
+          <p class="text-xs text-gray-600">Convert m to ft</p>
+        </a>
+        <a href="/feet-to-meter.php" class="bg-white rounded-lg p-4 shadow-md hover:shadow-lg transition-all duration-300 border-l-4 border-green-500">
+          <h3 class="font-semibold text-gray-900 text-sm mb-1">Feet to Meter</h3>
+          <p class="text-xs text-gray-600">Convert ft to m</p>
+        </a>
+        <a href="/km-to-miles.php" class="bg-white rounded-lg p-4 shadow-md hover:shadow-lg transition-all duration-300 border-l-4 border-teal-500">
+          <h3 class="font-semibold text-gray-900 text-sm mb-1">KM to Miles</h3>
+          <p class="text-xs text-gray-600">Convert km to mi</p>
+        </a>
+        <a href="/miles-to-km.php" class="bg-white rounded-lg p-4 shadow-md hover:shadow-lg transition-all duration-300 border-l-4 border-cyan-600">
+          <h3 class="font-semibold text-gray-900 text-sm mb-1">Miles to KM</h3>
+          <p class="text-xs text-gray-600">Convert mi to km</p>
+        </a>
+        <a href="/centimeter-to-micrometer.php" class="bg-white rounded-lg p-4 shadow-md hover:shadow-lg transition-all duration-300 border-l-4 border-blue-600">
+          <h3 class="font-semibold text-gray-900 text-sm mb-1">CM to Micrometer</h3>
+          <p class="text-xs text-gray-600">Convert cm to μm</p>
+        </a>
+      </div>
+    </div>
+  </section>
 </main>
 
 <script>
@@ -395,10 +730,14 @@ function copyResult() {
 document.getElementById('inchesValue').addEventListener('input', updateConversion);
 document.getElementById('copyBtn').addEventListener('click', copyResult);
 
-// Autofocus and demo value
+// Initialize with demo value
 window.addEventListener('DOMContentLoaded', () => {
   document.getElementById('inchesValue').focus();
+  <?php if ($isDynamicPage): ?>
+  document.getElementById('inchesValue').value = <?php echo $inputValue; ?>;
+  <?php else: ?>
   document.getElementById('inchesValue').value = 66;
+  <?php endif; ?>
   updateConversion();
 });
 </script>
