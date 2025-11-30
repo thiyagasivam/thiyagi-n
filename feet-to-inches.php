@@ -175,19 +175,40 @@ $canonicalUrl = $isDynamicPage ?
     <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
       <!-- Breadcrumb Navigation -->
       <nav aria-label="Breadcrumb" class="mb-8">
-        <ol class="flex items-center space-x-2 text-sm text-gray-600">
-          <li><a href="/" class="hover:text-purple-600 transition-colors">Home</a></li>
-          <li><span class="mx-2">/</span></li>
-          <li><a href="/length-converter.php" class="hover:text-purple-600 transition-colors">Length Converter</a></li>
-          <li><span class="mx-2">/</span></li>
-          <?php if ($isDynamicPage): ?>
-          <li><a href="/feet-to-inches.php" class="hover:text-purple-600 transition-colors">Feet to Inches</a></li>
-          <li><span class="mx-2">/</span></li>
-          <li class="text-purple-600 font-medium"><?php echo number_format($inputValue, ($inputValue == intval($inputValue)) ? 0 : 2); ?> Feet</li>
-          <?php else: ?>
-          <li class="text-purple-600 font-medium">Feet to Inches</li>
-          <?php endif; ?>
-        </ol>
+      <ol class="flex items-center space-x-2 text-sm text-gray-600" itemscope itemtype="https://schema.org/BreadcrumbList">
+        <li itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem">
+          <a href="/" class="hover:text-purple-600 transition-colors" itemprop="item">
+            <span itemprop="name">Home</span>
+          </a>
+          <meta itemprop="position" content="1">
+        </li>
+        <li><span class="mx-2">/</span></li>
+        <li itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem">
+          <a href="/length-converter.php" class="hover:text-purple-600 transition-colors" itemprop="item">
+            <span itemprop="name">Length Converter</span>
+          </a>
+          <meta itemprop="position" content="2">
+        </li>
+        <li><span class="mx-2">/</span></li>
+        <?php if ($isDynamicPage): ?>
+        <li itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem">
+          <a href="/feet-to-inches.php" class="hover:text-purple-600 transition-colors" itemprop="item">
+            <span itemprop="name">Feet to Inches</span>
+          </a>
+          <meta itemprop="position" content="3">
+        </li>
+        <li><span class="mx-2">/</span></li>
+        <li itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem">
+          <span class="text-purple-600 font-medium" itemprop="name"><?php echo number_format($inputValue, ($inputValue == intval($inputValue)) ? 0 : 2); ?> Feet</span>
+          <meta itemprop="position" content="4">
+        </li>
+        <?php else: ?>
+        <li itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem">
+          <span class="text-purple-600 font-medium" itemprop="name">Feet to Inches</span>
+          <meta itemprop="position" content="3">
+        </li>
+        <?php endif; ?>
+      </ol>
       </nav>
       <div class="text-center">
         <h1 class="text-4xl md:text-5xl font-bold text-gray-900 mb-6">

@@ -179,17 +179,38 @@ $canonicalUrl = $isDynamicPage ?
     <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
       <!-- Breadcrumb Navigation -->
       <nav aria-label="Breadcrumb" class="mb-8">
-        <ol class="flex items-center space-x-2 text-sm text-gray-600">
-          <li><a href="/" class="hover:text-cyan-600 transition-colors">Home</a></li>
+        <ol class="flex items-center space-x-2 text-sm text-gray-600" itemscope itemtype="https://schema.org/BreadcrumbList">
+          <li itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem">
+            <a href="/" class="hover:text-cyan-600 transition-colors" itemprop="item">
+              <span itemprop="name">Home</span>
+            </a>
+            <meta itemprop="position" content="1">
+          </li>
           <li><span class="mx-2">/</span></li>
-          <li><a href="/length-converter.php" class="hover:text-cyan-600 transition-colors">Length Converter</a></li>
+          <li itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem">
+            <a href="/length-converter.php" class="hover:text-cyan-600 transition-colors" itemprop="item">
+              <span itemprop="name">Length Converter</span>
+            </a>
+            <meta itemprop="position" content="2">
+          </li>
           <li><span class="mx-2">/</span></li>
           <?php if ($isDynamicPage): ?>
-          <li><a href="/inches-to-feet.php" class="hover:text-cyan-600 transition-colors">Inches to Feet</a></li>
+          <li itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem">
+            <a href="/inches-to-feet.php" class="hover:text-cyan-600 transition-colors" itemprop="item">
+              <span itemprop="name">Inches to Feet</span>
+            </a>
+            <meta itemprop="position" content="3">
+          </li>
           <li><span class="mx-2">/</span></li>
-          <li class="text-cyan-600 font-medium"><?php echo number_format($inputValue, ($inputValue == intval($inputValue)) ? 0 : 2); ?> Inches</li>
+          <li itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem">
+            <span class="text-cyan-600 font-medium" itemprop="name"><?php echo number_format($inputValue, ($inputValue == intval($inputValue)) ? 0 : 2); ?> Inches</span>
+            <meta itemprop="position" content="4">
+          </li>
           <?php else: ?>
-          <li class="text-cyan-600 font-medium">Inches to Feet</li>
+          <li itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem">
+            <span class="text-cyan-600 font-medium" itemprop="name">Inches to Feet</span>
+            <meta itemprop="position" content="3">
+          </li>
           <?php endif; ?>
         </ol>
       </nav>

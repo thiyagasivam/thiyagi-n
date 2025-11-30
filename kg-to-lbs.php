@@ -188,7 +188,9 @@ $canonicalUrl = $isDynamicPage ?
           <i class="fas fa-chevron-right text-xs" aria-hidden="true"></i>
         </li>
         <li itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem">
-          <span class="text-blue-600" itemprop="name">Weight Converters</span>
+          <a href="/weight-and-mass-converter.php" class="text-blue-600 hover:text-blue-800 transition-colors" itemprop="item">
+            <span itemprop="name">Weight Converters</span>
+          </a>
           <meta itemprop="position" content="2">
         </li>
         <li class="text-gray-400">

@@ -278,17 +278,38 @@ $canonicalUrl = $isDynamicPage ?
   <!-- Breadcrumb Navigation -->
   <nav class="pt-16 pb-4" aria-label="Breadcrumb">
     <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-      <ol class="flex items-center space-x-2 text-sm text-gray-600">
-        <li><a href="/" class="hover:text-emerald-600 transition-colors">Home</a></li>
+      <ol class="flex items-center space-x-2 text-sm text-gray-600" itemscope itemtype="https://schema.org/BreadcrumbList">
+        <li itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem">
+          <a href="/" class="hover:text-emerald-600 transition-colors" itemprop="item">
+            <span itemprop="name">Home</span>
+          </a>
+          <meta itemprop="position" content="1">
+        </li>
         <li><span class="mx-2">/</span></li>
-        <li><a href="/volume-converter.php" class="hover:text-emerald-600 transition-colors">Volume Converter</a></li>
+        <li itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem">
+          <a href="/volume-converter.php" class="hover:text-emerald-600 transition-colors" itemprop="item">
+            <span itemprop="name">Volume Converter</span>
+          </a>
+          <meta itemprop="position" content="2">
+        </li>
         <li><span class="mx-2">/</span></li>
         <?php if ($isDynamicPage): ?>
-        <li><a href="/tablespoons-to-cups.php" class="hover:text-emerald-600 transition-colors">Tablespoons to Cups</a></li>
+        <li itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem">
+          <a href="/tablespoons-to-cups.php" class="hover:text-emerald-600 transition-colors" itemprop="item">
+            <span itemprop="name">Tablespoons to Cups</span>
+          </a>
+          <meta itemprop="position" content="3">
+        </li>
         <li><span class="mx-2">/</span></li>
-        <li class="text-emerald-600 font-medium"><?php echo number_format($inputValue, ($inputValue == intval($inputValue)) ? 0 : 2); ?> Tablespoons</li>
+        <li itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem">
+          <span class="text-emerald-600 font-medium" itemprop="name"><?php echo number_format($inputValue, ($inputValue == intval($inputValue)) ? 0 : 2); ?> Tablespoons</span>
+          <meta itemprop="position" content="4">
+        </li>
         <?php else: ?>
-        <li class="text-emerald-600 font-medium">Tablespoons to Cups</li>
+        <li itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem">
+          <span class="text-emerald-600 font-medium" itemprop="name">Tablespoons to Cups</span>
+          <meta itemprop="position" content="3">
+        </li>
         <?php endif; ?>
       </ol>
     </div>

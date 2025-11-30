@@ -188,7 +188,9 @@ $canonicalUrl = $isDynamicPage ?
           <i class="fas fa-chevron-right text-xs" aria-hidden="true"></i>
         </li>
         <li itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem">
-          <span class="text-emerald-600" itemprop="name">Volume Converters</span>
+          <a href="/volume-converter.php" class="text-emerald-600 hover:text-emerald-800 transition-colors" itemprop="item">
+            <span itemprop="name">Volume Converters</span>
+          </a>
           <meta itemprop="position" content="2">
         </li>
         <li class="text-gray-400">
