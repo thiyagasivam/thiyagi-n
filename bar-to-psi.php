@@ -164,7 +164,9 @@
           <i class="fas fa-chevron-right text-xs" aria-hidden="true"></i>
         </li>
         <li itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem">
-          <span class="text-blue-600" itemprop="name">Pressure Converters</span>
+          <a href="/pressure-converter.php" class="text-blue-600 hover:text-blue-800 transition-colors" itemprop="item">
+            <span itemprop="name">Pressure Converters</span>
+          </a>
           <meta itemprop="position" content="2">
         </li>
         <li class="text-gray-400">
@@ -172,6 +174,7 @@
         </li>
         <li itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem">
           <span class="text-gray-700 font-medium" itemprop="name">Bar to PSI Converter</span>
+          <link itemprop="item" href="https://www.thiyagi.com/bar-to-psi">
           <meta itemprop="position" content="3">
         </li>
       </ol>

@@ -300,6 +300,7 @@ if ($isDynamicPage) {
         </li>
         <li itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem">
           <span class="text-blue-600" itemprop="name">Speed Converters</span>
+          <link itemprop="item" href="https://www.thiyagi.com/speed-calculator.php">
           <meta itemprop="position" content="2">
         </li>
         <li class="text-gray-400">
