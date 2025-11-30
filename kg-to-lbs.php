@@ -8,10 +8,12 @@ $isDynamicPage = false;
 
 if (isset($_GET['value'])) {
     $value = trim($_GET['value']);
+    $originalValue = $value; // Store original format for URLs
     
-    // Validate the input value (must be numeric and non-negative)
-    if (is_numeric($value) && floatval($value) >= 0) {
-        $inputValue = floatval($value);
+    // Remove commas and validate the input value (must be numeric and non-negative)
+    $cleanValue = str_replace(',', '', $value);
+    if (is_numeric($cleanValue) && floatval($cleanValue) >= 0) {
+        $inputValue = floatval($cleanValue);
         $outputValue = $inputValue * 2.20462; // Convert kg to lbs
         $isDynamicPage = true;
     }
@@ -27,7 +29,7 @@ $pageDescription = $isDynamicPage ?
     "Convert kilogram to pound instantly with our best 2025 accurate converter. Perfect kg to lbs conversion with real-time calculations for fitness, weight loss, health & international travel.";
 
 $canonicalUrl = $isDynamicPage ? 
-    "https://www.thiyagi.com/kg-to-lbs/{$inputValue}" : 
+    "https://www.thiyagi.com/kg-to-lbs/{$originalValue}" : 
     "https://www.thiyagi.com/kg-to-lbs";
 ?>
 <title><?php echo htmlspecialchars($pageTitle); ?></title>

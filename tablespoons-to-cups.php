@@ -8,10 +8,12 @@ $isDynamicPage = false;
 
 if (isset($_GET['value'])) {
     $value = trim($_GET['value']);
+    $originalValue = $value; // Store original format for URLs
     
-    // Validate the input value (must be numeric and non-negative)
-    if (is_numeric($value) && floatval($value) >= 0) {
-        $inputValue = floatval($value);
+    // Remove commas and validate the input value (must be numeric and non-negative)
+    $cleanValue = str_replace(',', '', $value);
+    if (is_numeric($cleanValue) && floatval($cleanValue) >= 0) {
+        $inputValue = floatval($cleanValue);
         $outputValue = $inputValue / 16; // Convert tablespoons to cups (1 cup = 16 tablespoons)
         $isDynamicPage = true;
     }
@@ -26,8 +28,8 @@ $pageDescription = $isDynamicPage ?
     "Convert {$inputValue} tablespoons to cups instantly. {$inputValue} tbsp equals " . number_format($outputValue, 4) . " cups using our accurate 2025 calculator. Perfect for cooking and baking recipes." :
     "Convert tablespoons to cups instantly with our 2025 accurate converter. Perfect tbsp to cups conversion with real-time calculations for cooking and baking recipes.";
 
-$canonicalUrl = $isDynamicPage ?
-    "https://www.thiyagi.com/tablespoons-to-cups/{$inputValue}" :
+$canonicalUrl = $isDynamicPage ? 
+    "https://www.thiyagi.com/tablespoons-to-cups/{$originalValue}" : 
     "https://www.thiyagi.com/tablespoons-to-cups";
 ?>
 <title><?php echo htmlspecialchars($pageTitle); ?></title>

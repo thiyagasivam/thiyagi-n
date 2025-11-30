@@ -8,10 +8,12 @@ $isDynamicPage = false;
 
 if (isset($_GET['value'])) {
     $value = trim($_GET['value']);
+    $originalValue = $value; // Store original format for URLs
     
-    // Validate the input value (must be numeric and non-negative)
-    if (is_numeric($value) && floatval($value) >= 0) {
-        $inputValue = floatval($value);
+    // Remove commas and validate the input value (must be numeric and non-negative)
+    $cleanValue = str_replace(',', '', $value);
+    if (is_numeric($cleanValue) && floatval($cleanValue) >= 0) {
+        $inputValue = floatval($cleanValue);
         $outputValue = $inputValue / 12; // Convert inches to feet (1 foot = 12 inches)
         $isDynamicPage = true;
     }
@@ -27,7 +29,7 @@ $pageDescription = $isDynamicPage ?
     "Convert inches to feet instantly with our 2025 accurate converter. Perfect inch to feet conversion with real-time calculations for construction.";
 
 $canonicalUrl = $isDynamicPage ? 
-    "https://www.thiyagi.com/inches-to-feet/{$inputValue}" : 
+    "https://www.thiyagi.com/inches-to-feet/{$originalValue}" : 
     "https://www.thiyagi.com/inches-to-feet";
 ?>
 <title><?php echo htmlspecialchars($pageTitle); ?></title>

@@ -238,35 +238,35 @@ RewriteRule ^contact/?$ /contact.php [L]
 RewriteRule ^privacy/?$ /privacy.php [L]
 
 # Converter dynamic URLs (must come before general clean URL rules)
-# Handle /kph-to-mph/320 format
-RewriteRule ^kph-to-mph/([0-9]+(?:\.[0-9]+)?)/?$ kph-to-mph.php?value=$1 [L,QSA]
+# Handle /kph-to-mph/320 format (supports commas and decimals)
+RewriteRule ^kph-to-mph/([0-9,]+(?:\.[0-9]+)?)/?$ kph-to-mph.php?value=$1 [L,QSA]
 
-# Handle /mph-to-kph/320 format
-RewriteRule ^mph-to-kph/([0-9]+(?:\.[0-9]+)?)/?$ mph-to-kph.php?value=$1 [L,QSA]
+# Handle /mph-to-kph/320 format (supports commas and decimals)
+RewriteRule ^mph-to-kph/([0-9,]+(?:\.[0-9]+)?)/?$ mph-to-kph.php?value=$1 [L,QSA]
 
 # Handle /kg-to-lbs/70 format
-RewriteRule ^kg-to-lbs/([0-9]+(?:\.[0-9]+)?)/?$ kg-to-lbs.php?value=$1 [L,QSA]
+RewriteRule ^kg-to-lbs/([0-9,]+(?:\.[0-9]+)?)/?$ kg-to-lbs.php?value=$1 [L,QSA]
 
 # Handle /lbs-to-kg/155 format
-RewriteRule ^lbs-to-kg/([0-9]+(?:\.[0-9]+)?)/?$ lbs-to-kg.php?value=$1 [L,QSA]
+RewriteRule ^lbs-to-kg/([0-9,]+(?:\.[0-9]+)?)/?$ lbs-to-kg.php?value=$1 [L,QSA]
 
 # Handle /ounces-to-gallons/64 format
-RewriteRule ^ounces-to-gallons/([0-9]+(?:\.[0-9]+)?)/?$ ounces-to-gallons.php?value=$1 [L,QSA]
+RewriteRule ^ounces-to-gallons/([0-9,]+(?:\.[0-9]+)?)/?$ ounces-to-gallons.php?value=$1 [L,QSA]
 
 # Handle /gallons-to-ounces/1 format (for future use)
-RewriteRule ^gallons-to-ounces/([0-9]+(?:\.[0-9]+)?)/?$ gallons-to-ounces.php?value=$1 [L,QSA]
+RewriteRule ^gallons-to-ounces/([0-9,]+(?:\.[0-9]+)?)/?$ gallons-to-ounces.php?value=$1 [L,QSA]
 
 # Handle /inches-to-feet/1 format
-RewriteRule ^inches-to-feet/([0-9]+(?:\.[0-9]+)?)/?$ inches-to-feet.php?value=$1 [L,QSA]
+RewriteRule ^inches-to-feet/([0-9,]+(?:\.[0-9]+)?)/?$ inches-to-feet.php?value=$1 [L,QSA]
 
 # Handle /feet-to-inches/1 format (for future use)
-RewriteRule ^feet-to-inches/([0-9]+(?:\.[0-9]+)?)/?$ feet-to-inches.php?value=$1 [L,QSA]
+RewriteRule ^feet-to-inches/([0-9,]+(?:\.[0-9]+)?)/?$ feet-to-inches.php?value=$1 [L,QSA]
 
 # Handle /tablespoons-to-cups/16 format
-RewriteRule ^tablespoons-to-cups/([0-9]+(?:\.[0-9]+)?)/?$ tablespoons-to-cups.php?value=$1 [L,QSA]
+RewriteRule ^tablespoons-to-cups/([0-9,]+(?:\.[0-9]+)?)/?$ tablespoons-to-cups.php?value=$1 [L,QSA]
 
 # Handle /cups-to-tablespoons/1 format (for future use)
-RewriteRule ^cups-to-tablespoons/([0-9]+(?:\.[0-9]+)?)/?$ cups-to-tablespoons.php?value=$1 [L,QSA]
+RewriteRule ^cups-to-tablespoons/([0-9,]+(?:\.[0-9]+)?)/?$ cups-to-tablespoons.php?value=$1 [L,QSA]
 
 # General clean URL handling for root level PHP files (lowest priority)
 RewriteCond %{REQUEST_FILENAME} !-f

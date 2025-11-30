@@ -8,10 +8,12 @@ $isDynamicPage = false;
 
 if (isset($_GET['value'])) {
     $value = trim($_GET['value']);
+    $originalValue = $value; // Store original format for URLs
     
-    // Validate the input value (must be numeric and non-negative)
-    if (is_numeric($value) && floatval($value) >= 0) {
-        $inputValue = floatval($value);
+    // Remove commas and validate the input value (must be numeric and non-negative)
+    $cleanValue = str_replace(',', '', $value);
+    if (is_numeric($cleanValue) && floatval($cleanValue) >= 0) {
+        $inputValue = floatval($cleanValue);
         $outputValue = $inputValue * 0.621371; // Convert kph to mph
         $isDynamicPage = true;
     }
@@ -27,7 +29,7 @@ $pageDescription = $isDynamicPage ?
     "Convert kilometers per hour to miles per hour instantly with our best 2025 accurate converter. Perfect kph to mph conversion for automotive, driving, speedometer readings & international travel.";
 
 $canonicalUrl = $isDynamicPage ? 
-    "https://www.thiyagi.com/kph-to-mph/{$inputValue}" : 
+    "https://www.thiyagi.com/kph-to-mph/{$originalValue}" : 
     "https://www.thiyagi.com/kph-to-mph";
 ?>
 <title><?php echo htmlspecialchars($pageTitle); ?></title>
@@ -805,7 +807,7 @@ if ($isDynamicPage) {
 
   <!-- FAQs Section -->
   <section class="max-w-4xl mx-auto mt-8 px-4">
-    <article class="bg-white rounded-xl shadow-lg p-8" itemscope itemtype="https://schema.org/FAQPage">
+    <article class="bg-white rounded-xl shadow-lg p-8">
       <h2 class="text-2xl font-bold text-gray-800 mb-6 flex items-center gap-3">
         <i class="fas fa-question-circle text-red-600" aria-hidden="true"></i>
         Frequently Asked Questions (FAQs)
@@ -817,12 +819,12 @@ if ($isDynamicPage) {
       <div class="space-y-6">
         <?php if ($isDynamicPage): ?>
         <!-- Dynamic FAQ -->
-        <div class="border-l-4 border-blue-500 pl-4" itemscope itemprop="mainEntity" itemtype="https://schema.org/Question">
-          <h3 class="text-lg font-semibold text-gray-800 mb-2" itemprop="name">
+        <div class="border-l-4 border-blue-500 pl-4">
+          <h3 class="text-lg font-semibold text-gray-800 mb-2">
             How much is <?php echo number_format($inputValue, ($inputValue == intval($inputValue)) ? 0 : 2); ?> KPH in MPH?
           </h3>
-          <div itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-            <p class="text-gray-600" itemprop="text">
+          <div>
+            <p class="text-gray-600">
               <?php echo number_format($inputValue, ($inputValue == intval($inputValue)) ? 0 : 2); ?> kilometers per hour equals exactly <?php echo number_format($outputValue, 4); ?> miles per hour. 
               This conversion is calculated using the standard automotive factor: 1 kph = 0.621371 mph.
               <?php 
@@ -842,12 +844,12 @@ if ($isDynamicPage) {
           </div>
         </div>
         
-        <div class="border-l-4 border-green-500 pl-4" itemscope itemprop="mainEntity" itemtype="https://schema.org/Question">
-          <h3 class="text-lg font-semibold text-gray-800 mb-2" itemprop="name">
+        <div class="border-l-4 border-green-500 pl-4">
+          <h3 class="text-lg font-semibold text-gray-800 mb-2">
             What driving situations use <?php echo number_format($inputValue, ($inputValue == intval($inputValue)) ? 0 : 2); ?> KPH (<?php echo number_format($outputValue, 1); ?> MPH)?
           </h3>
-          <div itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-            <p class="text-gray-600" itemprop="text">
+          <div>
+            <p class="text-gray-600">
               <?php 
               if ($inputValue <= 20) {
                   echo 'This speed is used in parking lots, school zones, and very slow residential areas. Perfect for careful maneuvering and pedestrian-heavy zones.';
@@ -867,12 +869,12 @@ if ($isDynamicPage) {
           </div>
         </div>
         
-        <div class="border-l-4 border-purple-500 pl-4" itemscope itemprop="mainEntity" itemtype="https://schema.org/Question">
-          <h3 class="text-lg font-semibold text-gray-800 mb-2" itemprop="name">
+        <div class="border-l-4 border-purple-500 pl-4">
+          <h3 class="text-lg font-semibold text-gray-800 mb-2">
             Is <?php echo number_format($inputValue, ($inputValue == intval($inputValue)) ? 0 : 2); ?> KPH considered fast or slow?
           </h3>
-          <div itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-            <p class="text-gray-600" itemprop="text">
+          <div>
+            <p class="text-gray-600">
               At <?php echo number_format($outputValue, 1); ?> MPH (<?php echo number_format($inputValue, ($inputValue == intval($inputValue)) ? 0 : 2); ?> KPH), this speed is considered 
               <?php 
               if ($inputValue <= 30) {
@@ -892,45 +894,45 @@ if ($isDynamicPage) {
         </div>
         <?php endif; ?>
         
-        <div class="border-l-4 border-blue-500 pl-4" itemscope itemprop="mainEntity" itemtype="https://schema.org/Question">
-          <h3 class="text-lg font-semibold text-gray-800 mb-2" itemprop="name">How do you convert kph to mph in 2025?</h3>
-          <div itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-            <p class="text-gray-600" itemprop="text">To convert kilometers per hour to miles per hour in 2025, multiply the kph value by 0.621371. For example, <a href="/kph-to-mph/100" class="text-blue-600 hover:text-blue-800 underline">100 kph = 62.1371 mph</a>. This is the standard automotive conversion used worldwide. Also try our <a href="/mph-to-kph" class="text-blue-600 hover:text-blue-800 underline">reverse MPH to KPH converter</a>.</p>
+        <div class="border-l-4 border-blue-500 pl-4">
+          <h3 class="text-lg font-semibold text-gray-800 mb-2">How do you convert kph to mph in 2025?</h3>
+          <div>
+            <p class="text-gray-600">To convert kilometers per hour to miles per hour in 2025, multiply the kph value by 0.621371. For example, <a href="/kph-to-mph/100" class="text-blue-600 hover:text-blue-800 underline">100 kph = 62.1371 mph</a>. This is the standard automotive conversion used worldwide. Also try our <a href="/mph-to-kph" class="text-blue-600 hover:text-blue-800 underline">reverse MPH to KPH converter</a>.</p>
           </div>
         </div>
         
-        <div class="border-l-4 border-green-500 pl-4" itemscope itemprop="mainEntity" itemtype="https://schema.org/Question">
-          <h3 class="text-lg font-semibold text-gray-800 mb-2" itemprop="name">What is the exact automotive conversion factor from kph to mph?</h3>
-          <div itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-            <p class="text-gray-600" itemprop="text">1 kilometer per hour equals exactly 0.621371 miles per hour. This precise conversion is used in all automotive applications, speedometer calibrations, and international driving standards in 2025.</p>
+        <div class="border-l-4 border-green-500 pl-4">
+          <h3 class="text-lg font-semibold text-gray-800 mb-2">What is the exact automotive conversion factor from kph to mph?</h3>
+          <div>
+            <p class="text-gray-600">1 kilometer per hour equals exactly 0.621371 miles per hour. This precise conversion is used in all automotive applications, speedometer calibrations, and international driving standards in 2025.</p>
           </div>
         </div>
         
-        <div class="border-l-4 border-purple-500 pl-4" itemscope itemprop="mainEntity" itemtype="https://schema.org/Question">
-          <h3 class="text-lg font-semibold text-gray-800 mb-2" itemprop="name">Is this kph to mph converter accurate for 2025 speedometers and cars?</h3>
-          <div itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-            <p class="text-gray-600" itemprop="text">Yes, our 2025 converter uses the exact conversion factor used in automotive applications, speedometer calibrations, and modern car systems, making it perfect for driving, automotive use, and vehicle speed calculations.</p>
+        <div class="border-l-4 border-purple-500 pl-4">
+          <h3 class="text-lg font-semibold text-gray-800 mb-2">Is this kph to mph converter accurate for 2025 speedometers and cars?</h3>
+          <div>
+            <p class="text-gray-600">Yes, our 2025 converter uses the exact conversion factor used in automotive applications, speedometer calibrations, and modern car systems, making it perfect for driving, automotive use, and vehicle speed calculations.</p>
           </div>
         </div>
         
-        <div class="border-l-4 border-red-500 pl-4" itemscope itemprop="mainEntity" itemtype="https://schema.org/Question">
-          <h3 class="text-lg font-semibold text-gray-800 mb-2" itemprop="name">When do drivers need to convert kph to mph in 2025?</h3>
-          <div itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-            <p class="text-gray-600" itemprop="text">KPH to MPH conversion is essential when driving internationally, renting cars abroad, understanding speedometer readings in different countries, comparing vehicle performance specs, or traveling between metric and imperial system regions in 2025. Also convert <a href="/km-to-miles" class="text-blue-600 hover:text-blue-800 underline">travel distances</a>, <a href="/kg-to-lbs" class="text-blue-600 hover:text-blue-800 underline">luggage weights</a>, and <a href="/celsius-to-fahrenheit" class="text-blue-600 hover:text-blue-800 underline">weather temperatures</a> for complete travel preparation.</p>
+        <div class="border-l-4 border-red-500 pl-4">
+          <h3 class="text-lg font-semibold text-gray-800 mb-2">When do drivers need to convert kph to mph in 2025?</h3>
+          <div>
+            <p class="text-gray-600">KPH to MPH conversion is essential when driving internationally, renting cars abroad, understanding speedometer readings in different countries, comparing vehicle performance specs, or traveling between metric and imperial system regions in 2025. Also convert <a href="/km-to-miles" class="text-blue-600 hover:text-blue-800 underline">travel distances</a>, <a href="/kg-to-lbs" class="text-blue-600 hover:text-blue-800 underline">luggage weights</a>, and <a href="/celsius-to-fahrenheit" class="text-blue-600 hover:text-blue-800 underline">weather temperatures</a> for complete travel preparation.</p>
           </div>
         </div>
         
-        <div class="border-l-4 border-orange-500 pl-4" itemscope itemprop="mainEntity" itemtype="https://schema.org/Question">
-          <h3 class="text-lg font-semibold text-gray-800 mb-2" itemprop="name">Which countries use KPH vs MPH for driving in 2025?</h3>
-          <div itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-            <p class="text-gray-600" itemprop="text">Most countries worldwide use KPH (kilometers per hour) including Europe, Asia, and most of the Americas. Only USA, UK, and a few territories primarily use MPH (miles per hour). This makes KPH to MPH conversion essential for international driving in 2025.</p>
+        <div class="border-l-4 border-orange-500 pl-4">
+          <h3 class="text-lg font-semibold text-gray-800 mb-2">Which countries use KPH vs MPH for driving in 2025?</h3>
+          <div>
+            <p class="text-gray-600">Most countries worldwide use KPH (kilometers per hour) including Europe, Asia, and most of the Americas. Only USA, UK, and a few territories primarily use MPH (miles per hour). This makes KPH to MPH conversion essential for international driving in 2025.</p>
           </div>
         </div>
         
-        <div class="border-l-4 border-teal-500 pl-4" itemscope itemprop="mainEntity" itemtype="https://schema.org/Question">
-          <h3 class="text-lg font-semibold text-gray-800 mb-2" itemprop="name">What are common speed limits in KPH and their MPH equivalents for 2025?</h3>
-          <div itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-            <p class="text-gray-600" itemprop="text">Common 2025 speed conversions: <a href="/kph-to-mph/50" class="text-blue-600 hover:text-blue-800 underline">50 KPH = 31 MPH</a> (city), <a href="/kph-to-mph/80" class="text-blue-600 hover:text-blue-800 underline">80 KPH = 50 MPH</a> (suburban), <a href="/kph-to-mph/100" class="text-blue-600 hover:text-blue-800 underline">100 KPH = 62 MPH</a> (highway), <a href="/kph-to-mph/120" class="text-blue-600 hover:text-blue-800 underline">120 KPH = 75 MPH</a> (fast highway). These conversions help drivers understand international speed limits. Convert <a href="/miles-to-km" class="text-blue-600 hover:text-blue-800 underline">trip distances</a> and <a href="/lbs-to-kg" class="text-blue-600 hover:text-blue-800 underline">fuel efficiency</a> measurements too.</p>
+        <div class="border-l-4 border-teal-500 pl-4">
+          <h3 class="text-lg font-semibold text-gray-800 mb-2">What are common speed limits in KPH and their MPH equivalents for 2025?</h3>
+          <div>
+            <p class="text-gray-600">Common 2025 speed conversions: <a href="/kph-to-mph/50" class="text-blue-600 hover:text-blue-800 underline">50 KPH = 31 MPH</a> (city), <a href="/kph-to-mph/80" class="text-blue-600 hover:text-blue-800 underline">80 KPH = 50 MPH</a> (suburban), <a href="/kph-to-mph/100" class="text-blue-600 hover:text-blue-800 underline">100 KPH = 62 MPH</a> (highway), <a href="/kph-to-mph/120" class="text-blue-600 hover:text-blue-800 underline">120 KPH = 75 MPH</a> (fast highway). These conversions help drivers understand international speed limits. Convert <a href="/miles-to-km" class="text-blue-600 hover:text-blue-800 underline">trip distances</a> and <a href="/lbs-to-kg" class="text-blue-600 hover:text-blue-800 underline">fuel efficiency</a> measurements too.</p>
           </div>
         </div>
       </div>

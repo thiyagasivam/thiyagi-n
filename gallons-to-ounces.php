@@ -8,10 +8,12 @@ $isDynamicPage = false;
 
 if (isset($_GET['value'])) {
     $value = trim($_GET['value']);
+    $originalValue = $value; // Store original format for URLs
     
-    // Validate the input value (must be numeric and non-negative)
-    if (is_numeric($value) && floatval($value) >= 0) {
-        $inputValue = floatval($value);
+    // Remove commas and validate the input value (must be numeric and non-negative)
+    $cleanValue = str_replace(',', '', $value);
+    if (is_numeric($cleanValue) && floatval($cleanValue) >= 0) {
+        $inputValue = floatval($cleanValue);
         $outputValue = $inputValue * 128; // Convert gallons to fluid ounces (1 gallon = 128 fl oz)
         $isDynamicPage = true;
     }
@@ -27,7 +29,7 @@ $pageDescription = $isDynamicPage ?
     "Convert gallons to fluid ounces instantly with our best 2025 accurate converter. Perfect gal to fl oz conversion for cooking, recipes, beverages & liquid volume measurements.";
 
 $canonicalUrl = $isDynamicPage ? 
-    "https://www.thiyagi.com/gallons-to-ounces/{$inputValue}" : 
+    "https://www.thiyagi.com/gallons-to-ounces/{$originalValue}" : 
     "https://www.thiyagi.com/gallons-to-ounces";
 ?>
 <title><?php echo htmlspecialchars($pageTitle); ?></title>
