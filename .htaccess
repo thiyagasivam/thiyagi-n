@@ -262,6 +262,12 @@ RewriteRule ^inches-to-feet/([0-9]+(?:\.[0-9]+)?)/?$ inches-to-feet.php?value=$1
 # Handle /feet-to-inches/1 format (for future use)
 RewriteRule ^feet-to-inches/([0-9]+(?:\.[0-9]+)?)/?$ feet-to-inches.php?value=$1 [L,QSA]
 
+# Handle /tablespoons-to-cups/16 format
+RewriteRule ^tablespoons-to-cups/([0-9]+(?:\.[0-9]+)?)/?$ tablespoons-to-cups.php?value=$1 [L,QSA]
+
+# Handle /cups-to-tablespoons/1 format (for future use)
+RewriteRule ^cups-to-tablespoons/([0-9]+(?:\.[0-9]+)?)/?$ cups-to-tablespoons.php?value=$1 [L,QSA]
+
 # General clean URL handling for root level PHP files (lowest priority)
 RewriteCond %{REQUEST_FILENAME} !-f
 RewriteCond %{REQUEST_FILENAME} !-d

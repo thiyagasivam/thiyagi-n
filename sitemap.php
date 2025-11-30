@@ -231,6 +231,24 @@ for ($i = 1; $i <= 1000; $i++) {
     ];
 }
 
+// Add TABLESPOONS to CUPS converter dynamic pages (1-100)
+for ($i = 1; $i <= 100; $i++) {
+    $pages["/tablespoons-to-cups/{$i}"] = [
+        'lastmod' => date('Y-m-d'),
+        'changefreq' => 'monthly',
+        'priority' => '0.7'
+    ];
+}
+
+// Add CUPS to TABLESPOONS converter dynamic pages (1-100) - for future use
+for ($i = 1; $i <= 100; $i++) {
+    $pages["/cups-to-tablespoons/{$i}"] = [
+        'lastmod' => date('Y-m-d'),
+        'changefreq' => 'monthly',
+        'priority' => '0.7'
+    ];
+}
+
 // Pages to EXCLUDE (will not appear in sitemap)
 $excludedPages = [
     '/404.php',
