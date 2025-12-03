@@ -267,6 +267,24 @@ for ($i = 1; $i <= 500; $i++) {
     ];
 }
 
+// Add GALLONS to LITERS converter dynamic pages (1-1000)
+for ($i = 1; $i <= 1000; $i++) {
+    $pages["/gallons-to-liters/{$i}"] = [
+        'lastmod' => date('Y-m-d'),
+        'changefreq' => 'monthly',
+        'priority' => '0.7'
+    ];
+}
+
+// Add LITERS to GALLONS converter dynamic pages (1-1000) - for future use
+for ($i = 1; $i <= 1000; $i++) {
+    $pages["/liters-to-gallons/{$i}"] = [
+        'lastmod' => date('Y-m-d'),
+        'changefreq' => 'monthly',
+        'priority' => '0.7'
+    ];
+}
+
 
 // Pages to EXCLUDE (will not appear in sitemap)
 $excludedPages = [
