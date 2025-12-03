@@ -1,9 +1,18 @@
 <?php
 /**
- * KPH to MPH Dynamic Page Generator
+ * DEPRECATED: KPH to MPH Static Page Generator
+ * 
+ * ⚠️ WARNING: This script is DEPRECATED and should NOT be used.
+ * Static HTML pages in /generated-pages/ are no longer the primary approach.
+ * 
+ * Use the dynamic PHP implementation instead: kph-to-mph.php with URL rewriting
+ * URLs like /kph-to-mph/38 are now handled dynamically.
+ * 
  * This script generates static HTML files for KPH to MPH conversions (1-1000)
  * for better SEO performance and faster loading times.
  */
+
+die('DEPRECATED: This script should not be run. Use dynamic PHP implementation (kph-to-mph.php) instead.');
 
 // Set execution time limit for large batch processing
 set_time_limit(0);

@@ -1,5 +1,14 @@
 <?php
 /**
+ * DEPRECATED: MPH to KPH Static Page Generator
+ * 
+ * ⚠️ WARNING: This script is DEPRECATED and should NOT be used.
+ * Use dynamic PHP implementation instead: mph-to-kph.php
+ */
+
+die('DEPRECATED: This script should not be run. Use dynamic PHP implementation instead.');
+
+/**
  * MPH to KPH Dynamic Page Generator
  * This script generates static HTML files for MPH to KPH conversions (1-1000)
  * for better SEO performance and faster loading times.

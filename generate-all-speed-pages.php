@@ -1,6 +1,20 @@
 <?php
 /**
- * Unit Converter Pages Generator
+ * DEPRECATED: Unit Converter Pages Generator
+ * 
+ * ⚠️ WARNING: This master script is DEPRECATED and should NOT be used.
+ * All static page generation has been replaced with dynamic PHP implementations.
+ * 
+ * Use these dynamic PHP files instead:
+ * - kph-to-mph.php for /kph-to-mph/* URLs
+ * - mph-to-kph.php for /mph-to-kph/* URLs  
+ * - kg-to-lbs.php for /kg-to-lbs/* URLs
+ * - lbs-to-kg.php for /lbs-to-kg/* URLs
+ */
+
+die('DEPRECATED: This master script should not be run. All converters now use dynamic PHP implementations.');
+
+/**
  * Master script to generate all dynamic converter pages (Speed & Weight)
  * 
  * This script generates 4000 static HTML pages:

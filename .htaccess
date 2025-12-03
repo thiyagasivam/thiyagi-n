@@ -238,6 +238,12 @@ RewriteRule ^contact/?$ /contact.php [L]
 RewriteRule ^privacy/?$ /privacy.php [L]
 
 # Converter dynamic URLs (must come before general clean URL rules)
+# Redirect old generated-pages to dynamic PHP versions
+RewriteRule ^generated-pages/kph-to-mph/([0-9,]+)(?:\.html)?/?$ /kph-to-mph/$1 [R=301,L]
+RewriteRule ^generated-pages/mph-to-kph/([0-9,]+)(?:\.html)?/?$ /mph-to-kph/$1 [R=301,L]
+RewriteRule ^generated-pages/kg-to-lbs/([0-9,]+)(?:\.html)?/?$ /kg-to-lbs/$1 [R=301,L]
+RewriteRule ^generated-pages/lbs-to-kg/([0-9,]+)(?:\.html)?/?$ /lbs-to-kg/$1 [R=301,L]
+
 # Handle /kph-to-mph/320 format (supports commas and decimals)
 RewriteRule ^kph-to-mph/([0-9,]+(?:\.[0-9]+)?)/?$ kph-to-mph.php?value=$1 [L,QSA]
 

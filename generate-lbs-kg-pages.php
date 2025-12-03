@@ -1,9 +1,18 @@
 <?php
 /**
- * LBS to KG Dynamic Page Generator
+ * DEPRECATED: LBS to KG Static Page Generator
+ * 
+ * ⚠️ WARNING: This script is DEPRECATED and should NOT be used.
+ * Static HTML pages in /generated-pages/ are no longer the primary approach.
+ * 
+ * Use the dynamic PHP implementation instead: lbs-to-kg.php with URL rewriting
+ * URLs like /lbs-to-kg/100 are now handled dynamically.
+ * 
  * This script generates static HTML files for LBS to KG conversions (1-1000)
  * for better SEO performance and faster loading times.
  */
+
+die('DEPRECATED: This script should not be run. Use dynamic PHP implementation (lbs-to-kg.php) instead.');
 
 // Set execution time limit for large batch processing
 set_time_limit(0);
