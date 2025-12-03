@@ -292,6 +292,12 @@ RewriteRule ^cm-to-feet-inches/([0-9,]+(?:\.[0-9]+)?)/?$ cm-to-feet-inches.php?v
 # Handle /feet-inches-to-cm/1 format (for future use)
 RewriteRule ^feet-inches-to-cm/([0-9,]+(?:\.[0-9]+)?)/?$ feet-inches-to-cm.php?value=$1 [L,QSA]
 
+# Handle /weeks-to-days/1 format
+RewriteRule ^weeks-to-days/([0-9,]+(?:\.[0-9]+)?)/?$ weeks-to-days.php?value=$1 [L,QSA]
+
+# Handle /days-to-weeks/1 format (for future use)
+RewriteRule ^days-to-weeks/([0-9,]+(?:\.[0-9]+)?)/?$ days-to-weeks.php?value=$1 [L,QSA]
+
 # General clean URL handling for root level PHP files (lowest priority)
 RewriteCond %{REQUEST_FILENAME} !-f
 RewriteCond %{REQUEST_FILENAME} !-d

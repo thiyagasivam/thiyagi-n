@@ -303,6 +303,24 @@ for ($i = 1; $i <= 500; $i++) {
     ];
 }
 
+// Add WEEKS to DAYS converter dynamic pages (1-1000)
+for ($i = 1; $i <= 1000; $i++) {
+    $pages["/weeks-to-days/{$i}"] = [
+        'lastmod' => date('Y-m-d'),
+        'changefreq' => 'monthly',
+        'priority' => '0.7'
+    ];
+}
+
+// Add DAYS to WEEKS converter dynamic pages (1-1000) - for future use
+for ($i = 1; $i <= 1000; $i++) {
+    $pages["/days-to-weeks/{$i}"] = [
+        'lastmod' => date('Y-m-d'),
+        'changefreq' => 'monthly',
+        'priority' => '0.7'
+    ];
+}
+
 
 // Pages to EXCLUDE (will not appear in sitemap)
 $excludedPages = [
