@@ -286,6 +286,12 @@ RewriteRule ^gallons-to-liters/([0-9,]+(?:\.[0-9]+)?)/?$ gallons-to-liters.php?v
 # Handle /liters-to-gallons/1 format (for future use)
 RewriteRule ^liters-to-gallons/([0-9,]+(?:\.[0-9]+)?)/?$ liters-to-gallons.php?value=$1 [L,QSA]
 
+# Handle /cm-to-feet-inches/1 format
+RewriteRule ^cm-to-feet-inches/([0-9,]+(?:\.[0-9]+)?)/?$ cm-to-feet-inches.php?value=$1 [L,QSA]
+
+# Handle /feet-inches-to-cm/1 format (for future use)
+RewriteRule ^feet-inches-to-cm/([0-9,]+(?:\.[0-9]+)?)/?$ feet-inches-to-cm.php?value=$1 [L,QSA]
+
 # General clean URL handling for root level PHP files (lowest priority)
 RewriteCond %{REQUEST_FILENAME} !-f
 RewriteCond %{REQUEST_FILENAME} !-d

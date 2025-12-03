@@ -285,6 +285,24 @@ for ($i = 1; $i <= 1000; $i++) {
     ];
 }
 
+// Add CM to FEET and INCHES converter dynamic pages (1-500)
+for ($i = 1; $i <= 500; $i++) {
+    $pages["/cm-to-feet-inches/{$i}"] = [
+        'lastmod' => date('Y-m-d'),
+        'changefreq' => 'monthly',
+        'priority' => '0.7'
+    ];
+}
+
+// Add FEET and INCHES to CM converter dynamic pages (1-500) - for future use
+for ($i = 1; $i <= 500; $i++) {
+    $pages["/feet-inches-to-cm/{$i}"] = [
+        'lastmod' => date('Y-m-d'),
+        'changefreq' => 'monthly',
+        'priority' => '0.7'
+    ];
+}
+
 
 // Pages to EXCLUDE (will not appear in sitemap)
 $excludedPages = [
