@@ -312,9 +312,27 @@ for ($i = 1; $i <= 1000; $i++) {
     ];
 }
 
-// Add DAYS to WEEKS converter dynamic pages (1-1000) - for future use
+// Add DAYS to WEEKS converter dynamic pages (1-1000)
 for ($i = 1; $i <= 1000; $i++) {
     $pages["/days-to-weeks/{$i}"] = [
+        'lastmod' => date('Y-m-d'),
+        'changefreq' => 'monthly',
+        'priority' => '0.7'
+    ];
+}
+
+// Add WEEKS to MONTHS converter dynamic pages (1-1000)
+for ($i = 1; $i <= 1000; $i++) {
+    $pages["/weeks-to-months/{$i}"] = [
+        'lastmod' => date('Y-m-d'),
+        'changefreq' => 'monthly',
+        'priority' => '0.7'
+    ];
+}
+
+// Add MONTHS to WEEKS converter dynamic pages (1-1000) - for future use
+for ($i = 1; $i <= 1000; $i++) {
+    $pages["/months-to-weeks/{$i}"] = [
         'lastmod' => date('Y-m-d'),
         'changefreq' => 'monthly',
         'priority' => '0.7'
