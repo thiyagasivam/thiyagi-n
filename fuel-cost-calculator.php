@@ -28,6 +28,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
     <title>Fuel Cost Calculator 2025 - Calculate Your Travel Fuel Expenses</title>
     <meta name="description" content="2025 Fuel Cost Calculator: Instantly estimate your travel fuel expenses for any trip, commute, or journey. Modern, SEO-friendly, mobile-ready tool for India and worldwide.">
     <meta name="keywords" content="fuel cost calculator 2025, travel fuel cost, mileage calculator, petrol calculator, trip cost, india, online tool">
+    <meta name="robots" content="index, follow">
     <link rel="canonical" href="https://www.thiyagi.com/fuel-cost-calculator">
     <!-- Open Graph / Facebook -->
     <meta property="og:type" content="website">
@@ -175,6 +176,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
                     <p class="text-black text-lg">Calculate your travel fuel expenses easily</p>
                 </div>
             </div>
+            <h2 class="text-xl font-semibold text-yellow-700 mb-4 text-center">Fuel Cost Calculator Form 2025</h2>
             <div class="bg-white rounded-xl shadow-2xl overflow-hidden">
                 <?php if ($error): ?>
                 <div class="bg-red-50 border-l-4 border-red-500 p-4">

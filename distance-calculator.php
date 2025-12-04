@@ -24,6 +24,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
     <title>Distance Calculator 2025 - Find Distance Between Two Locations</title>
     <meta name="description" content="2025 Distance Calculator: Instantly find the distance between two locations, cities, or towns. Modern, SEO-friendly, mobile-ready tool for India and worldwide.">
     <meta name="keywords" content="distance calculator 2025, city distance, km calculator, road distance, map distance, travel distance, india, online tool">
+    <meta name="robots" content="index, follow">
     <link rel="canonical" href="https://www.thiyagi.com/distance-calculator">
     <!-- Open Graph / Facebook -->
     <meta property="og:type" content="website">
@@ -171,6 +172,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
                     <p class="text-black text-lg">Find the distance between two locations easily</p>
                 </div>
             </div>
+            <h2 class="text-xl font-semibold text-blue-800 mb-4 text-center">Distance Calculator Form 2025</h2>
             <div class="bg-white rounded-xl shadow-2xl overflow-hidden">
                 <?php if ($error): ?>
                 <div class="bg-red-50 border-l-4 border-red-500 p-4">
