@@ -10,8 +10,10 @@ define('DB_PASS', 'e^?al5veVS6');
 $slug = isset($_GET['slug']) ? trim($_GET['slug']) : '';
 
 if (empty($slug)) {
-    header("HTTP/1.0 404 Not Found");
-    die('Service center not specified');
+    error_log("Tata Motors service center: Empty slug");
+    header('HTTP/1.1 301 Moved Permanently');
+    header('Location: /service-center/tata-motors/');
+    exit;
 }
 
 try {
@@ -38,8 +40,10 @@ try {
     $center = $stmt->fetch();
 
     if (!$center) {
-        header("HTTP/1.0 404 Not Found");
-        die('Service center not found');
+        error_log("Tata Motors service center not found: " . $slug);
+        header('HTTP/1.1 301 Moved Permanently');
+        header('Location: /service-center/tata-motors/');
+        exit;
     }
 
     // Add static/default content for other fields
@@ -75,8 +79,10 @@ try {
     ];
 
 } catch (PDOException $e) {
-    header("HTTP/1.0 500 Internal Server Error");
-    die("Service unavailable. Please try again later.");
+    error_log("Tata Motors service center DB error: " . $e->getMessage());
+    header('HTTP/1.1 301 Moved Permanently');
+    header('Location: /service-center/tata-motors/');
+    exit;
 }
 ?>
 <!DOCTYPE html>

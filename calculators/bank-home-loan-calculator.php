@@ -5719,10 +5719,14 @@ $bankData = [
 $bankSlug = $_GET['bank'] ?? '';
 $bankInfo = $bankData[$bankSlug] ?? null;
 
-// If bank not found, show error or redirect
+// If bank not found, redirect to generic calculator instead of 404
 if (!$bankInfo) {
-    http_response_code(404);
-    include '../404.php';
+    // Log missing bank for debugging
+    error_log("Missing bank slug in home loan calculator: " . $bankSlug);
+    
+    // 301 redirect to generic calculator (preserves SEO)
+    header('HTTP/1.1 301 Moved Permanently');
+    header('Location: /calculators/home-loan-emi-calculator');
     exit;
 }
 

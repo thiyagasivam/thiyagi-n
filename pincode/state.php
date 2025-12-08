@@ -251,8 +251,12 @@ class PincodeStatePage {
     }
     
     private function generate404() {
-        header("HTTP/1.0 404 Not Found");
-        include_once '../404.php';
+        // Log the 404 for debugging
+        error_log("State page 404: " . ($_GET['state'] ?? 'unknown'));
+        
+        // Redirect to main pincode page instead of hard 404
+        header('HTTP/1.1 301 Moved Permanently');
+        header('Location: /pincode/');
         exit;
     }
 }

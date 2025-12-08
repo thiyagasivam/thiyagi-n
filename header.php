@@ -1,9 +1,13 @@
 <?php
-// Generate canonical URL
-$protocol = isset($_SERVER['HTTPS']) && $_SERVER['HTTPS'] === 'on' ? "https" : "http";
-$host = $_SERVER['HTTP_HOST'];
+// Generate canonical URL - Always use https://www.thiyagi.com for consistency
 $uri = strtok($_SERVER['REQUEST_URI'], '?');
-$canonicalUrl = $protocol . "://" . $host . $uri;
+// Remove trailing slash for consistency (except for root)
+if ($uri !== '/' && substr($uri, -1) === '/') {
+    $uri = rtrim($uri, '/');
+}
+// Remove .php extension from canonical URL
+$uri = preg_replace('/\.php$/', '', $uri);
+$canonicalUrl = "https://www.thiyagi.com" . $uri;
 ?>
 <!DOCTYPE html>
 <html lang="en">

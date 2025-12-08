@@ -1,6 +1,13 @@
 User-agent: *
 Allow: /
 Disallow: /generated-pages/
+Disallow: /admin/
+Disallow: /*.php$
+Disallow: /contact_errors.txt
 
-Sitemap: https://www.thiyagi.com/sitemap
+# Crawl-delay to prevent server overload
+Crawl-delay: 1
+
+# Sitemaps
+Sitemap: https://www.thiyagi.com/sitemap.xml
 Sitemap: https://www.thiyagi.com/service-center-sitemap.xml

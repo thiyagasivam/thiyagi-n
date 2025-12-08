@@ -50,8 +50,10 @@ define('DB_PASS', 'e^?al5veVS6');
 $slug = isset($_GET['slug']) ? trim($_GET['slug']) : '';
 
 if (empty($slug)) {
-    header("HTTP/1.0 404 Not Found");
-    die('Service center not specified');
+    error_log("Benq service center: Empty slug");
+    header('HTTP/1.1 301 Moved Permanently');
+    header('Location: /service-center/benq/');
+    exit;
 }
 
 try {
@@ -78,8 +80,10 @@ try {
     $center = $stmt->fetch();
 
     if (!$center) {
-        header("HTTP/1.0 404 Not Found");
-        die('Service center not found');
+        error_log("Benq service center not found: " . $slug);
+        header('HTTP/1.1 301 Moved Permanently');
+        header('Location: /service-center/benq/');
+        exit;
     }
 
     // Add static/default content for other fields
