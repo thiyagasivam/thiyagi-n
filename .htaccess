@@ -18,6 +18,9 @@ RewriteRule ^sitemap/?$ sitemap.php [L]
     Deny from all
 </Files>
 
+# Block access to generated-pages directory (returns 410 Gone for removed content)
+RewriteRule ^generated-pages/ - [L,R=410]
+
 # Remove .php from URL (redirect to clean URL) - but skip directory-based URLs
 RewriteCond %{THE_REQUEST} ^[A-Z]{3,}\s/([^.?\s]+)\.php [NC]
 RewriteCond %1 !^(rto-details|electricity-board|service-center|holiday)/ [NC]

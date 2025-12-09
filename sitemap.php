@@ -240,7 +240,8 @@ $excludedFolders = [
     '/css',
     '/js',
     '/images',
-    '/blog'
+    '/blog',
+    '/generated-pages'
 ];
 
 // Function to remove .php extension
