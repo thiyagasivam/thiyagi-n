@@ -414,13 +414,7 @@ document.addEventListener('DOMContentLoaded', function() {
         </div>
     </section>
 
-    <!-- Tailwind HTML Snippet reflecting the content structure -->
-    <section aria-label="Tailwind Snippet" class="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8 py-8">
-        <div class="prose prose-indigo">
-            <h2 class="text-xl font-bold">Implementation Snippet</h2>
-            <p class="text-gray-700">Drop the following semantic HTML in any Tailwind-enabled page to recreate the hero, features, content sections, CTA, and FAQ.</p>
-        </div>
-            </section>
+   
 </main>
 
 <?php include 'footer.php'; ?>
