@@ -19,7 +19,7 @@
 <div class="min-h-screen bg-gradient-to-br from-sky-50 via-blue-50 to-indigo-50 py-12">
 
 <div class="min-h-screen bg-gradient-to-br from-indigo-50 via-blue-50 to-cyan-50 py-12">
-    <div class="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8">
+    <div class="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8" id="converter">
         <!-- Header Section -->
         <div class="text-center mb-12">
             <h1 class="text-4xl md:text-5xl font-bold text-gray-900 mb-4">
@@ -173,6 +173,21 @@ function clearValues() {
 // Add event listeners
 document.getElementById('secondInput').addEventListener('input', convertSecondToDay);
 document.getElementById('dayOutput').addEventListener('input', convertDayToSecond);
+
+// Focus the seconds input when navigating to #converter
+document.addEventListener('DOMContentLoaded', function() {
+    if (window.location.hash === '#converter') {
+        const input = document.getElementById('secondInput');
+        if (input) { input.focus(); }
+    }
+    // Also focus on hashchange for dynamic navigation
+    window.addEventListener('hashchange', function() {
+        if (window.location.hash === '#converter') {
+            const input = document.getElementById('secondInput');
+            if (input) { input.focus(); }
+        }
+    });
+});
 </script>
 
 <!-- SEO Content: Comprehensive Guide and Conversion-Focused Page -->
@@ -306,7 +321,7 @@ document.getElementById('dayOutput').addEventListener('input', convertDayToSecon
                 <h2 class="text-2xl md:text-3xl font-bold">Convert Seconds to Days Instantly</h2>
                 <p class="mt-4 text-lg opacity-95">Enter a value and get reliable, precise day counts. Save time, improve reporting, and standardize calculations across your team.</p>
                 <div class="mt-8 flex flex-wrap gap-4">
-                    <a href="#top" class="inline-flex items-center justify-center rounded-lg bg-white text-indigo-700 font-semibold px-6 py-3 shadow hover:bg-indigo-50 focus:outline-none focus:ring-2 focus:ring-white focus:ring-offset-2 focus:ring-offset-indigo-700">Start Converting</a>
+                    <a href="#converter" class="inline-flex items-center justify-center rounded-lg bg-white text-indigo-700 font-semibold px-6 py-3 shadow hover:bg-indigo-50 focus:outline-none focus:ring-2 focus:ring-white focus:ring-offset-2 focus:ring-offset-indigo-700">Start Converting</a>
                     <a href="#faq" class="inline-flex items-center justify-center rounded-lg bg-indigo-900/20 text-white font-semibold px-6 py-3 border border-white/20 hover:bg-indigo-800/30">Read FAQs</a>
                 </div>
             </div>
@@ -365,14 +380,15 @@ document.getElementById('dayOutput').addEventListener('input', convertDayToSecon
                             ["q"=>"How do I contact support?","a"=>"Use our contact page; we respond promptly to integration or usage questions."],
                         ];
                         foreach ($faqs as $i => $item) {
-                            $id = 'faq-'.$i;
+                            $panelId = 'faq-panel-'.$i;
+                            $buttonId = 'faq-button-'.$i;
                             echo '<section class="group">';
-                            echo '<h3>'; 
-                            echo '<button class="w-full text-left px-6 py-4 flex items-center justify-between gap-4 focus:outline-none focus:ring-2 focus:ring-indigo-600" aria-expanded="false" aria-controls="'.$id.'">';
+                            echo '<h3 class="sr-only" id="'.$buttonId.'-label">FAQ Question '.($i+1).'</h3>';
+                            echo '<button id="'.$buttonId.'" class="w-full text-left px-6 py-4 flex items-center justify-between gap-4 focus:outline-none focus:ring-2 focus:ring-indigo-600" aria-expanded="false" aria-controls="'.$panelId.'" aria-labelledby="'.$buttonId.'-label">';
                             echo '<span class="font-semibold text-gray-900">'.$item['q'].'</span>';
                             echo '<span class="shrink-0 inline-flex items-center justify-center w-6 h-6 rounded-full bg-gray-100 text-gray-600 group-hover:bg-indigo-50">+';
-                            echo '</span></button></h3>';
-                            echo '<div id="'.$id.'" role="region" aria-labelledby="'.$id.'-label" class="px-6 pb-6 hidden">';
+                            echo '</span></button>';
+                            echo '<div id="'.$panelId.'" role="region" aria-labelledby="'.$buttonId.'-label" class="px-6 pb-6 hidden">';
                             echo '<p class="text-gray-700">'.$item['a'].'</p>';
                             echo '</div>';
                             echo '</section>';
@@ -404,69 +420,7 @@ document.getElementById('dayOutput').addEventListener('input', convertDayToSecon
             <h2 class="text-xl font-bold">Implementation Snippet</h2>
             <p class="text-gray-700">Drop the following semantic HTML in any Tailwind-enabled page to recreate the hero, features, content sections, CTA, and FAQ.</p>
         </div>
-        <pre class="mt-4 overflow-auto rounded-xl bg-gray-900 text-gray-100 p-6 text-sm"><code>&lt;header class="bg-gradient-to-br from-indigo-600 via-blue-600 to-cyan-600 text-white"&gt;
-    &lt;div class="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8 py-16"&gt;
-        &lt;h1 class="text-3xl md:text-5xl font-extrabold"&gt;Seconds to Days Converter&lt;/h1&gt;
-        &lt;p class="mt-6 text-lg md:text-xl opacity-95"&gt;Accurate, fast, and reliable time conversion.&lt;/p&gt;
-        &lt;div class="mt-8 flex gap-4"&gt;
-            &lt;a href="#cta" class="rounded-lg bg-white text-indigo-700 font-semibold px-6 py-3 shadow hover:bg-indigo-50"&gt;Convert Seconds Now&lt;/a&gt;
-            &lt;a href="#features" class="rounded-lg bg-indigo-900/20 text-white font-semibold px-6 py-3 border border-white/20"&gt;Explore Features&lt;/a&gt;
-        &lt;/div&gt;
-    &lt;/div&gt;
-&lt;/header&gt;
-
-&lt;main&gt;
-    &lt;section id="features" class="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8 py-16"&gt;
-        &lt;h2 class="text-2xl md:text-3xl font-bold text-gray-900"&gt;Feature-Rich Seconds to Days Calculator&lt;/h2&gt;
-        &lt;div class="mt-10 grid sm:grid-cols-2 lg:grid-cols-3 gap-6"&gt;
-            &lt;article class="bg-white border border-gray-200 rounded-xl p-6 shadow-sm"&gt;
-                &lt;h3 class="text-lg font-semibold"&gt;Instant Results&lt;/h3&gt;
-                &lt;p class="mt-2 text-gray-700"&gt;Real-time conversion for precise outputs.&lt;/p&gt;
-            &lt;/article&gt;
-            &lt;article class="bg-white border border-gray-200 rounded-xl p-6 shadow-sm"&gt;
-                &lt;h3 class="text-lg font-semibold"&gt;Bidirectional&lt;/h3&gt;
-                &lt;p class="mt-2 text-gray-700"&gt;Convert days back to seconds seamlessly.&lt;/p&gt;
-            &lt;/article&gt;
-            &lt;article class="bg-white border border-gray-200 rounded-xl p-6 shadow-sm"&gt;
-                &lt;h3 class="text-lg font-semibold"&gt;Fractional Precision&lt;/h3&gt;
-                &lt;p class="mt-2 text-gray-700"&gt;Accurate fractional-day calculations.&lt;/p&gt;
-            &lt;/article&gt;
-        &lt;/div&gt;
-    &lt;/section&gt;
-
-    &lt;section id="cta" class="bg-indigo-50"&gt;
-        &lt;div class="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8 py-16"&gt;
-            &lt;div class="rounded-2xl bg-gradient-to-br from-indigo-600 via-blue-600 to-cyan-600 p-8 md:p-12 text-white"&gt;
-                &lt;h2 class="text-2xl md:text-3xl font-bold"&gt;Convert Seconds to Days Instantly&lt;/h2&gt;
-                &lt;p class="mt-4 text-lg opacity-95"&gt;Enter a value and get reliable day counts.&lt;/p&gt;
-                &lt;div class="mt-8 flex gap-4"&gt;
-                    &lt;a href="#top" class="rounded-lg bg-white text-indigo-700 font-semibold px-6 py-3 shadow hover:bg-indigo-50"&gt;Start Converting&lt;/a&gt;
-                    &lt;a href="#faq" class="rounded-lg bg-indigo-900/20 text-white font-semibold px-6 py-3 border border-white/20"&gt;Read FAQs&lt;/a&gt;
-                &lt;/div&gt;
-            &lt;/div&gt;
-        &lt;/div&gt;
-    &lt;/section&gt;
-
-    &lt;section id="faq" class="bg-gray-50"&gt;
-        &lt;div class="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8 py-16"&gt;
-            &lt;h2 class="text-2xl md:text-3xl font-bold text-gray-900"&gt;Frequently Asked Questions&lt;/h2&gt;
-            &lt;div class="mt-8 divide-y divide-gray-200 border border-gray-200 rounded-xl bg-white"&gt;
-                &lt;article&gt;
-                    &lt;h3&gt;
-                        &lt;button class="w-full text-left px-6 py-4 flex items-center justify-between" aria-expanded="false" aria-controls="faq-1"&gt;
-                            &lt;span class="font-semibold text-gray-900"&gt;What is the formula to convert seconds to days?&lt;/span&gt;
-                            &lt;span class="shrink-0 w-6 h-6 rounded-full bg-gray-100 text-gray-600 grid place-items-center"&gt;+&lt;/span&gt;
-                        &lt;/button&gt;
-                    &lt;/h3&gt;
-                    &lt;div id="faq-1" role="region" class="px-6 pb-6 hidden"&gt;
-                        &lt;p class="text-gray-700"&gt;Divide seconds by 86,400.&lt;/p&gt;
-                    &lt;/div&gt;
-                &lt;/article&gt;
-            &lt;/div&gt;
-        &lt;/div&gt;
-    &lt;/section&gt;
-&lt;/main&gt;</code></pre>
-    </section>
+            </section>
 </main>
 
 <?php include 'footer.php'; ?>
