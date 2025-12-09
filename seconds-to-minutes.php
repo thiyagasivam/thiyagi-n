@@ -5,17 +5,6 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Seconds to Minutes Converter 2025 - Free Online Calculator</title>
-    <meta name="description" content="Convert seconds to minutes with our free 2025 online calculator. Instant conversion between seconds and minutes with accurate results.">
-    <meta name="keywords" content="seconds to minutes converter 2025, time converter, seconds conversion, minutes calculator 2025">
-    <script src="https://cdn.tailwindcss.com"></script>
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
-</head>
-<body>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Seconds to Minutes Converter - Time Conversion Calculator</title>
     <meta name="description" content="Convert seconds to minutes with our free online calculator. Accurate time conversion between seconds and minutes.">
     <meta name="keywords" content="seconds to minutes, time converter, seconds conversion, minutes calculator">
@@ -240,6 +229,20 @@ function clearInputs() {
     document.getElementById('minutes').value = '';
     document.getElementById('timeDisplay').textContent = 'Enter a value to see the time breakdown';
 }
+
+// Accessible FAQ accordion toggle
+function toggleFaq(id, btn) {
+    const panel = document.getElementById(id);
+    const expanded = btn.getAttribute('aria-expanded') === 'true';
+    btn.setAttribute('aria-expanded', (!expanded).toString());
+    if (!expanded) {
+        panel.classList.remove('hidden');
+        panel.setAttribute('aria-hidden', 'false');
+    } else {
+        panel.classList.add('hidden');
+        panel.setAttribute('aria-hidden', 'true');
+    }
+}
 </script>
 
 <!-- SEO Article Section -->
@@ -314,18 +317,33 @@ function clearInputs() {
             </ul>
 
             <h3 class="text-2xl font-bold text-gray-800 mt-8 mb-3">Frequently Asked Questions (25)</h3>
-            <div class="space-y-4">
-                <div>
-                    <p class="font-semibold text-gray-900">1) What is the formula to convert seconds to minutes?</p>
-                    <p class="text-gray-700">Minutes = <strong>Seconds ÷ 60</strong>.</p>
+            <div class="space-y-3" id="faq" role="list" aria-label="Frequently Asked Questions">
+                <div class="border border-gray-200 rounded-lg" role="listitem">
+                    <button class="w-full text-left px-4 py-3 font-semibold text-gray-900 flex justify-between items-center" aria-expanded="false" aria-controls="faq-q1" onclick="toggleFaq('faq-q1', this)">
+                        1) What is the formula to convert seconds to minutes?
+                        <span class="ml-4 text-gray-500">+</span>
+                    </button>
+                    <div id="faq-q1" class="px-4 pb-3 hidden" role="region" aria-hidden="true">
+                        <p class="text-gray-700">Minutes = <strong>Seconds ÷ 60</strong>.</p>
+                    </div>
                 </div>
-                <div>
-                    <p class="font-semibold text-gray-900">2) How many seconds are in a minute?</p>
-                    <p class="text-gray-700"><strong>60 seconds</strong>.</p>
+                <div class="border border-gray-200 rounded-lg" role="listitem">
+                    <button class="w-full text-left px-4 py-3 font-semibold text-gray-900 flex justify-between items-center" aria-expanded="false" aria-controls="faq-q2" onclick="toggleFaq('faq-q2', this)">
+                        2) How many seconds are in a minute?
+                        <span class="ml-4 text-gray-500">+</span>
+                    </button>
+                    <div id="faq-q2" class="px-4 pb-3 hidden" role="region" aria-hidden="true">
+                        <p class="text-gray-700"><strong>60 seconds</strong>.</p>
+                    </div>
                 </div>
-                <div>
-                    <p class="font-semibold text-gray-900">3) What is 90 seconds in minutes?</p>
-                    <p class="text-gray-700">1.5 minutes (1 minute 30 seconds).</p>
+                <div class="border border-gray-200 rounded-lg" role="listitem">
+                    <button class="w-full text-left px-4 py-3 font-semibold text-gray-900 flex justify-between items-center" aria-expanded="false" aria-controls="faq-q3" onclick="toggleFaq('faq-q3', this)">
+                        3) What is 90 seconds in minutes?
+                        <span class="ml-4 text-gray-500">+</span>
+                    </button>
+                    <div id="faq-q3" class="px-4 pb-3 hidden" role="region" aria-hidden="true">
+                        <p class="text-gray-700">1.5 minutes (1 minute 30 seconds).</p>
+                    </div>
                 </div>
                 <div>
                     <p class="font-semibold text-gray-900">4) What is 120 seconds in minutes?</p>
@@ -351,9 +369,14 @@ function clearInputs() {
                     <p class="font-semibold text-gray-900">9) How do I include milliseconds in conversion?</p>
                     <p class="text-gray-700">ms ÷ 1000 = s, then ÷ 60 = min.</p>
                 </div>
-                <div>
-                    <p class="font-semibold text-gray-900">10) What is 7,200 seconds in minutes?</p>
-                    <p class="text-gray-700">120 minutes (2 hours).</p>
+                <div class="border border-gray-200 rounded-lg" role="listitem">
+                    <button class="w-full text-left px-4 py-3 font-semibold text-gray-900 flex justify-between items-center" aria-expanded="false" aria-controls="faq-q10" onclick="toggleFaq('faq-q10', this)">
+                        10) What is 7,200 seconds in minutes?
+                        <span class="ml-4 text-gray-500">+</span>
+                    </button>
+                    <div id="faq-q10" class="px-4 pb-3 hidden" role="region" aria-hidden="true">
+                        <p class="text-gray-700">120 minutes (2 hours).</p>
+                    </div>
                 </div>
                 <div>
                     <p class="font-semibold text-gray-900">11) How many minutes are in a day?</p>
