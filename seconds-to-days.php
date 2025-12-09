@@ -197,7 +197,7 @@ document.addEventListener('DOMContentLoaded', function() {
         <div class="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8 py-16">
             <article class="md:grid md:grid-cols-12 md:gap-8 items-center">
                 <div class="md:col-span-7">
-                    <h1 class="text-3xl md:text-5xl font-extrabold tracking-tight">Seconds to Days Converter: Accurate Time Conversion, Expert Guide, and Instant Results</h1>
+                    <h2 class="text-3xl md:text-5xl font-extrabold tracking-tight">Seconds to Days Converter: Accurate Time Conversion, Expert Guide, and Instant Results</h2>
                     <p class="mt-6 text-lg md:text-xl opacity-95">We provide a professional, fast, and accurate <strong>seconds to days converter</strong> designed for developers, engineers, analysts, students, and operations teams who need reliable time calculations. Use our tool to convert large datasets, model project timelines, audit uptime, or document SLAs with confidence.</p>
                     <div class="mt-8 flex gap-4">
                         <a href="#cta" class="inline-flex items-center justify-center rounded-lg bg-white text-indigo-700 font-semibold px-6 py-3 shadow hover:bg-indigo-50 focus:outline-none focus:ring-2 focus:ring-white focus:ring-offset-2 focus:ring-offset-indigo-700">Convert Seconds Now</a>
