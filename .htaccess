@@ -8,9 +8,10 @@ RewriteRule ^(.*)$ https://www.thiyagi.com/$1 [L,R=301]
 # Set custom 404 error page
 ErrorDocument 404 /404.php
 
-# Sitemap rule
+# Sitemap rules
 RewriteRule ^sitemap\.xml$ sitemap.php [L]
 RewriteRule ^sitemap/?$ sitemap.php [L]
+RewriteRule ^service-center-sitemap\.xml$ service-center-sitemap.php [L]
 
 # Prevent access to .htaccess and other sensitive files
 <Files ".htaccess">
