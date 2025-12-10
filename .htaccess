@@ -21,6 +21,88 @@ RewriteRule ^sitemap/?$ sitemap.php [L]
 # Block access to generated-pages directory (returns 410 Gone for removed content)
 RewriteRule ^generated-pages/ - [L,R=410]
 
+# Block non-existent pages and old URLs (returns 410 Gone for removed content)
+# Time conversion pages with numbers
+RewriteRule ^(weeks-to-days|months-to-weeks|days-to-weeks|weeks-to-months)/[0-9]+$ - [L,R=410]
+
+# Volume/weight conversion pages with numbers  
+RewriteRule ^(ounces-to-liters|gallons-to-liters|liters-to-gallons|gallons-to-ounces|kg-to-lbs)/[0-9]+$ - [L,R=410]
+
+# Length conversion pages with numbers
+RewriteRule ^(cm-to-feet-inches|feet-inches-to-cm|inches-to-feet|feet-to-inches|kph-to-mph)/[0-9,]+$ - [L,R=410]
+
+# Non-existent conversion pages
+RewriteRule ^(weeks-to-months|cups-to-ounces|ounces-to-cups|mps-to-mph|ounce-to-cup|cup-to-ounce|pint-to-cup|cooking-converter|speed-converter|ounces-to-tablespoons|cup-to-gallon|pint-to-quart|fluid-ounce-us-to-ml|volume-converters|tablespoons-to-teaspoons|teaspoons-to-ml|ppm-to-mg-l|mph-to-kmh|knot-to-kmh)$ - [L,R=410]
+
+# Non-existent area/unit conversion pages
+RewriteRule ^(cent-to-bigha|cent-to-hectare|square-mile-to-hectare|marla-to-kanal|square-meter-to-marla)$ - [L,R=410]
+
+# Non-existent physics/chemistry conversion pages
+RewriteRule ^(atmosphere-to-pascal|atm-to-psi|atm-to-bar|mmhg-to-bar|newtons-to-pounds|kg-to-grams|kg-to-pounds|pounds-to-kg|horsepower-to-watts|watts-to-horsepower|kw-to-watts|joule-to-btu|joule-to-cal|btu-to-cal|watt-to-btu-per-hour|gb-to-tb|tb-to-gb|nanograms-to-micrograms|micrograms-to-grams|mole-to-gram|radian-to-degree|kilometer-per-hour-to-meter-per-second)$ - [L,R=410]
+
+# Non-existent calculator/tool pages
+RewriteRule ^(youtube-views-ratio-calculator|seo-analyzer|image-compressor|flip-image|rotate-image|reverse-image-search|distance-calculator|cubic-meter-to-cubic-yard|cubic-yard-to-cubic-meter)$ - [L,R=410]
+
+# Non-existent two-wheeler loan calculator paths
+RewriteRule ^calculators/two-wheeler-loan/.+$ - [L,R=410]
+
+# Non-existent NBFC calculator paths
+RewriteRule ^calculators/(cashbean|payme|prefr|rupifi|money-club|nira|fairmoney|credflow|capfloat|finzy|moneyview|zest-money|creditbee|ring)-(personal|home)-loan-emi-calculator$ - [L,R=410]
+RewriteRule ^calculators/nbfc/[^/]+/?$ - [L,R=410]
+
+# Shop pages (entire shop section is non-existent)
+RewriteRule ^shop/ - [L,R=410]
+RewriteRule ^product/ - [L,R=410]
+
+# Non-existent holiday pages
+RewriteRule ^holiday/(france|northern-ireland|isle-of-man|guernsey)-holidays\.php$ - [L,R=410]
+RewriteRule ^holiday/(nova-scotia|quebec|saskatchewan|british-columbia)-holidays\.php$ - [L,R=410]
+RewriteRule ^holiday/(new-south-wales)-holidays\.php$ - [L,R=410]
+RewriteRule ^holiday/(usa-holiday|australia-holidays|uk-holiday/england-cities|indian-holiday)/(index|sip-calculator|emi-calculator|lumpsum-calculator|fd-calculator|rd-calculator|ppf-calculator|sukanya-samriddhi-yojana-calculator|loan-calculator|html-minifier|html-beautifier|css-minifier|css-beautifier|javascript-beautifier|javascript-minifier|json-viewer|privacy|about|step-up-sip-calculator|fix-state-pages)$ - [L,R=410]
+
+# Service center/electricity board tool pages
+RewriteRule ^(service-center|electricity-board|rto-details)/(index|contact|privacy|sip-calculator|emi-calculator|fd-calculator|rd-calculator|ppf-calculator|sukanya-samriddhi-yojana-calculator|html-minifier|html-beautifier|css-minifier|javascript-beautifier|breadcrumb-schema)$ - [L,R=410]
+
+# Non-existent service center specific pages
+RewriteRule ^service-center/xiaomi/aurangabad-authorized-service-center-1$ - [L,R=410]
+RewriteRule ^apple-authorized-service-center-near-me$ - [L,R=410]
+
+# Test and development pages
+RewriteRule ^(newhome|n-home|new-service-center|temp_link_analysis|verify-links|final-link-cleanup|opage_sharing|index\.html|wp-login|home/home)/ - [L,R=410]
+RewriteRule ^(newhome|n-home|new-service-center|temp_link_analysis|verify-links|final-link-analysis|opage_sharing|wp-login)$ - [L,R=410]
+
+# Calendar pages
+RewriteRule ^calendar/2025/[a-z]+-festivals$ - [L,R=410]
+RewriteRule ^past/index$ - [L,R=410]
+
+# Pincode pages
+RewriteRule ^pincode/(quick-fix|api_test|ladakh|state-districts|pincode-detail)$ - [L,R=410]
+
+# Blog WordPress paths (entire blog section)
+RewriteRule ^blog/ - [L,R=410]
+RewriteRule ^disclaimer/ - [L,R=410]
+RewriteRule ^about-us-2/ - [L,R=410]
+RewriteRule ^faq/ - [L,R=410]
+
+# Gallery and shows
+RewriteRule ^gallery/connections/$ - [L,R=410]
+RewriteRule ^shows/hisaab-barabar/$ - [L,R=410]
+RewriteRule ^elements/text-sliders/$ - [L,R=410]
+
+# WordPress and RSS feeds
+RewriteRule ^(rss\.xml|wp-content|wp-includes|wp-admin|xmlrpc)/ - [L,R=410]
+
+# Apple app association files
+RewriteRule ^(\.well-known/)?apple-app-site-association$ - [L,R=410]
+
+# Old image paths
+RewriteRule ^images/(tneb-calculator-preview|calculator-screenshot|emi-calculator-twitter|emi-calculator-og|wifi-password-generator|logo)\.jpg$ - [L,R=410]
+RewriteRule ^images/logo\.png$ - [L,R=410]
+RewriteRule ^wp-content/uploads/.*\.png$ - [L,R=410]
+
+# Miscellaneous non-existent pages
+RewriteRule ^[0-9]+\.htm$ - [L,R=410]
+
 # Remove .php from URL (redirect to clean URL) - but skip directory-based URLs
 RewriteCond %{THE_REQUEST} ^[A-Z]{3,}\s/([^.?\s]+)\.php [NC]
 RewriteCond %1 !^(rto-details|electricity-board|service-center|holiday)/ [NC]
