@@ -27,9 +27,9 @@ RewriteRule ^generated-pages/ - [L,R=410]
 RewriteRule ^(weeks-to-days|months-to-weeks|days-to-weeks|weeks-to-months)/[0-9]+$ - [L,R=410]
 
 # Volume/weight conversion pages with numbers  
-RewriteRule ^(ounces-to-liters|gallons-to-liters|liters-to-gallons|gallons-to-ounces|kg-to-lbs)/[0-9]+$ - [L,R=410]
+RewriteRule ^(ounces-to-liters|gallons-to-liters|liters-to-gallons|liters-to-ounces|gallons-to-ounces|kg-to-lbs)/[0-9,]+$ - [L,R=410]
 
-# Length conversion pages with numbers
+# Length conversion pages with numbers (includes numbers with commas)
 RewriteRule ^(cm-to-feet-inches|feet-inches-to-cm|inches-to-feet|feet-to-inches|kph-to-mph)/[0-9,]+$ - [L,R=410]
 
 # Non-existent conversion pages
