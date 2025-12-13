@@ -123,7 +123,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
 <body class="bg-gray-100 text-gray-800">
     <div class="calculator-container">
         <div class="calculator-header text-center">
-            <h2 class="text-2xl font-semibold mb-0">Simple Interest Calculator</h2> <!-- mb-0 -->
+            <h1 class="text-2xl font-semibold mb-0">Simple Interest Calculator</h1> <!-- mb-0 -->
         </div>
 
         <div class="calculator-body">
