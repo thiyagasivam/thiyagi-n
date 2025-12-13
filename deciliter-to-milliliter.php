@@ -1,19 +1,19 @@
 <?php include 'header.php'; ?>
 
 <!-- SEO Meta Tags -->
-<title>Deciliter to Milliliter Converter 2025 - dL to mL | Thiyagi</title>
-<meta name="description" content="Free online deciliter to milliliter converter 2025. Convert dL to mL instantly with accurate volume conversion formula: mL = dL × 100.">
-<meta name="keywords" content="deciliter to milliliter 2025, dL to mL converter, volume converter, laboratory measurement, cooking converter">
+<title>Deciliter to Milliliter Converter 2026 - dL to mL | Thiyagi</title>
+<meta name="description" content="Free online deciliter to milliliter converter 2026. Convert dL to mL instantly with accurate volume conversion formula: mL = dL × 100.">
+<meta name="keywords" content="deciliter to milliliter 2026, dL to mL converter, volume converter, laboratory measurement, cooking converter">
 <meta name="author" content="Thiyagi">
-<meta property="og:title" content="Deciliter to Milliliter Converter 2025 - dL to mL">
-<meta property="og:description" content="Free online deciliter to milliliter converter 2025. Convert dL to mL instantly.">
+<meta property="og:title" content="Deciliter to Milliliter Converter 2026 - dL to mL">
+<meta property="og:description" content="Free online deciliter to milliliter converter 2026. Convert dL to mL instantly.">
 <meta property="og:type" content="website">
 <meta property="og:url" content="https://www.thiyagi.com/deciliter-to-milliliter.php">
 <meta property="og:image" content="https://www.thiyagi.com/nt.png">
 <meta property="og:site_name" content="Thiyagi">
 <meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:title" content="Deciliter to Milliliter Converter 2025 - dL to mL">
-<meta name="twitter:description" content="Free online deciliter to milliliter converter 2025. Convert dL to mL instantly.">
+<meta name="twitter:title" content="Deciliter to Milliliter Converter 2026 - dL to mL">
+<meta name="twitter:description" content="Free online deciliter to milliliter converter 2026. Convert dL to mL instantly.">
 <meta name="twitter:image" content="https://www.thiyagi.com/nt.png">
 
 <div class="min-h-screen bg-gradient-to-br from-blue-50 via-cyan-50 to-teal-50 py-12">

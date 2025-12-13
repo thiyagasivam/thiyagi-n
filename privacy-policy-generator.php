@@ -56,8 +56,8 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Privacy Policy Generator 2025 - Free GDPR & CCPA Compliant Template</title>
-<meta name="description" content="Create a custom privacy policy for your website or app in minutes. Our free 2025 generator covers GDPR, CCPA, CalOPPA, and more with legally-reviewed clauses for global compliance.">
+    <title>Privacy Policy Generator 2026 - Free GDPR & CCPA Compliant Template</title>
+<meta name="description" content="Create a custom privacy policy for your website or app in minutes. Our free 2026 generator covers GDPR, CCPA, CalOPPA, and more with legally-reviewed clauses for global compliance.">
     <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" rel="stylesheet">
 
 </head>

@@ -34,8 +34,8 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>JSON Validator Tool 2025 - Free Online Syntax Checker & Formatter</title>
-<meta name="description" content="Free online JSON validator for 2025. Validate, format, and fix JSON syntax errors instantly. Beautify and lint JSON data with our real-time checking tool.">
+    <title>JSON Validator Tool 2026 - Free Online Syntax Checker & Formatter</title>
+<meta name="description" content="Free online JSON validator for 2026. Validate, format, and fix JSON syntax errors instantly. Beautify and lint JSON data with our real-time checking tool.">
     <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" rel="stylesheet">
     <style>
         /* Additional custom styles */

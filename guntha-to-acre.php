@@ -1,12 +1,12 @@
 <?php include 'header.php';?>
-<title>Guntha to Acre Converter 2025 | Convert guntha to acre | Free Tool</title>
-<meta name="description" content="Convert guntha to acre instantly with our 2025 accurate converter. Perfect guntha to acre conversion with real-time calculations for Indian land measurement.">
-<meta name="keywords" content="guntha to acre 2025, guntha acre converter, Indian land measurement 2025, property area calculator, land surveying tool India">
+<title>Guntha to Acre Converter 2026 | Convert guntha to acre | Free Tool</title>
+<meta name="description" content="Convert guntha to acre instantly with our 2026 accurate converter. Perfect guntha to acre conversion with real-time calculations for Indian land measurement.">
+<meta name="keywords" content="guntha to acre 2026, guntha acre converter, Indian land measurement 2026, property area calculator, land surveying tool India">
 <link rel="canonical" href="https://www.thiyagi.com/guntha-to-acre">
 
 <!-- Open Graph Meta Tags -->
-<meta property="og:title" content="Guntha to Acre Converter 2025 | Convert guntha to acre | Free Tool">
-<meta property="og:description" content="Convert guntha to acre instantly with our 2025 accurate converter. Perfect guntha to acre conversion with real-time calculations for Indian land measurement.">
+<meta property="og:title" content="Guntha to Acre Converter 2026 | Convert guntha to acre | Free Tool">
+<meta property="og:description" content="Convert guntha to acre instantly with our 2026 accurate converter. Perfect guntha to acre conversion with real-time calculations for Indian land measurement.">
 <meta property="og:url" content="https://www.thiyagi.com/guntha-to-acre">
 <meta property="og:type" content="website">
 <meta property="og:image" content="https://www.thiyagi.com/nt.png">
@@ -14,8 +14,8 @@
 
 <!-- Twitter Card Meta Tags -->
 <meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:title" content="Guntha to Acre Converter 2025 | Convert guntha to acre | Free Tool">
-<meta name="twitter:description" content="Convert guntha to acre instantly with our 2025 accurate converter. Perfect guntha to acre conversion with real-time calculations for Indian land measurement.">
+<meta name="twitter:title" content="Guntha to Acre Converter 2026 | Convert guntha to acre | Free Tool">
+<meta name="twitter:description" content="Convert guntha to acre instantly with our 2026 accurate converter. Perfect guntha to acre conversion with real-time calculations for Indian land measurement.">
 <meta name="twitter:image" content="https://www.thiyagi.com/nt.png">
 
 <!-- Additional SEO Meta Tags -->
@@ -39,7 +39,7 @@
           Guntha to Acre Converter
         </h1>
         <p class="text-xl text-gray-600 mb-8 max-w-3xl mx-auto">
-          Convert guntha to acre instantly with our accurate 2025 calculator. 
+          Convert guntha to acre instantly with our accurate 2026 calculator. 
           Perfect for Indian land measurement, real estate, and agricultural applications.
         </p>
       </div>
@@ -156,16 +156,16 @@
     <article class="bg-white rounded-xl shadow-lg p-8">
       <h2 class="text-2xl font-bold text-gray-800 mb-6 flex items-center gap-3">
         <i class="fas fa-info-circle text-indigo-600" aria-hidden="true"></i>
-        Guntha to Acre Conversion 2025
+        Guntha to Acre Conversion 2026
       </h2>
       <div class="prose max-w-none text-gray-600">
         <p class="mb-4">
-          Converting guntha to acre is essential for Indian land measurement, real estate, and agricultural applications in 2025. 
+          Converting guntha to acre is essential for Indian land measurement, real estate, and agricultural applications in 2026. 
           This conversion between traditional Indian land units and international units enables accurate communication 
           between local farmers, real estate professionals, and international agricultural consultants.
         </p>
         <p class="mb-6">
-          Our 2025 converter provides instant and precise conversions from guntha to acre, essential for farmers, 
+          Our 2026 converter provides instant and precise conversions from guntha to acre, essential for farmers, 
           real estate agents, land surveyors, and agricultural professionals working with Indian land measurements. 
           40 guntha equals exactly 1 acre.
         </p>

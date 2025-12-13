@@ -1,7 +1,7 @@
 <?php include 'header.php';?>
 <?php
 /**
- * Advanced UUID Generator Tool 2025
+ * Advanced UUID Generator Tool 2026
  */
 
 // Enhanced UUID generation functions
@@ -179,22 +179,22 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>UUID Generator 2025 - Generate & Validate Unique Identifiers</title>
-    <meta name="description" content="Advanced UUID generator tool supporting v1, v3, v4, v5 versions with bulk generation, validation, and multiple formats. Professional development tool for creating unique identifiers in 2025.">
-    <meta name="keywords" content="UUID generator, unique identifier generator, GUID generator, UUID v4, unique ID tool 2025, UUID validator, bulk UUID generation">
+    <title>UUID Generator 2026 - Generate & Validate Unique Identifiers</title>
+    <meta name="description" content="Advanced UUID generator tool supporting v1, v3, v4, v5 versions with bulk generation, validation, and multiple formats. Professional development tool for creating unique identifiers in 2026.">
+    <meta name="keywords" content="UUID generator, unique identifier generator, GUID generator, UUID v4, unique ID tool 2026, UUID validator, bulk UUID generation">
     <link rel="canonical" href="https://www.thiyagi.com/uuid-generator">
     
     <!-- Open Graph / Facebook -->
     <meta property="og:type" content="website">
     <meta property="og:url" content="https://www.thiyagi.com/uuid-generator">
-    <meta property="og:title" content="UUID Generator 2025 - Generate & Validate Unique Identifiers">
+    <meta property="og:title" content="UUID Generator 2026 - Generate & Validate Unique Identifiers">
     <meta property="og:description" content="Advanced UUID generator supporting multiple versions with bulk generation and validation. Professional development tool for creating unique identifiers.">
     <meta property="og:image" content="https://www.thiyagi.com/nt.png">
     
     <!-- Twitter -->
     <meta property="twitter:card" content="summary_large_image">
     <meta property="twitter:url" content="https://www.thiyagi.com/uuid-generator">
-    <meta property="twitter:title" content="UUID Generator 2025 - Generate & Validate Unique Identifiers">
+    <meta property="twitter:title" content="UUID Generator 2026 - Generate & Validate Unique Identifiers">
     <meta property="twitter:description" content="Advanced UUID generator with bulk generation and validation features. Professional development tool.">
     <meta property="twitter:image" content="https://www.thiyagi.com/nt.png">
     
@@ -205,7 +205,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
     {
         "@context": "https://schema.org",
         "@type": "WebApplication",
-        "name": "UUID Generator 2025",
+        "name": "UUID Generator 2026",
         "description": "Advanced UUID generator and validator tool for developers supporting multiple UUID versions with bulk generation capabilities",
         "url": "https://www.thiyagi.com/uuid-generator",
         "applicationCategory": "DeveloperApplication",
@@ -268,7 +268,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
 
     <div class="container mx-auto px-4 py-8 max-w-6xl">
         <header class="text-center mb-12">
-            <h1 class="text-4xl font-bold text-gray-900 mb-4">🆔 UUID Generator 2025</h1>
+            <h1 class="text-4xl font-bold text-gray-900 mb-4">🆔 UUID Generator 2026</h1>
             <p class="text-xl text-gray-600 max-w-3xl mx-auto">Advanced UUID generator supporting multiple versions (v1, v3, v4, v5) with bulk generation, validation, and custom formatting options for developers and system architects.</p>
         </header>
 

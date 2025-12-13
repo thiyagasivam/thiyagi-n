@@ -1,19 +1,19 @@
 <?php include 'header.php'; ?>
 
 <!-- SEO Meta Tags -->
-<title>Yard to Centimeter Converter 2025 - Length Calculator | Thiyagi</title>
-<meta name="description" content="Free online yard to centimeter converter 2025. Convert yards to cm instantly with accurate length conversion. Perfect for sports, textiles, and construction.">
-<meta name="keywords" content="yard to centimeter converter 2025, yard to cm, length converter, sports calculator, textile converter">
+<title>Yard to Centimeter Converter 2026 - Length Calculator | Thiyagi</title>
+<meta name="description" content="Free online yard to centimeter converter 2026. Convert yards to cm instantly with accurate length conversion. Perfect for sports, textiles, and construction.">
+<meta name="keywords" content="yard to centimeter converter 2026, yard to cm, length converter, sports calculator, textile converter">
 <meta name="author" content="Thiyagi">
-<meta property="og:title" content="Yard to Centimeter Converter 2025 - Length Calculator">
-<meta property="og:description" content="Free online yard to centimeter converter 2025. Convert yards to cm instantly with accurate length conversion.">
+<meta property="og:title" content="Yard to Centimeter Converter 2026 - Length Calculator">
+<meta property="og:description" content="Free online yard to centimeter converter 2026. Convert yards to cm instantly with accurate length conversion.">
 <meta property="og:type" content="website">
 <meta property="og:url" content="https://www.thiyagi.com/yard-to-centimeter.php">
 <meta property="og:image" content="https://www.thiyagi.com/nt.png">
 <meta property="og:site_name" content="Thiyagi">
 <meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:title" content="Yard to Centimeter Converter 2025 - Length Calculator">
-<meta name="twitter:description" content="Free online yard to centimeter converter 2025. Convert yards to cm instantly with accurate length conversion.">
+<meta name="twitter:title" content="Yard to Centimeter Converter 2026 - Length Calculator">
+<meta name="twitter:description" content="Free online yard to centimeter converter 2026. Convert yards to cm instantly with accurate length conversion.">
 <meta name="twitter:image" content="https://www.thiyagi.com/nt.png">
 
 <div class="min-h-screen bg-gradient-to-br from-green-50 via-lime-50 to-emerald-50 py-12">

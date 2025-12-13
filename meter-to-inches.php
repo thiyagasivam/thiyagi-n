@@ -1,12 +1,12 @@
 <?php include 'header.php';?>
-<title>Meter to Inches Converter 2025 | m to in | Free Length Tool</title>
-<meta name="description" content="Convert meters to inches instantly with our 2025 accurate converter. Perfect m to in conversion with real-time calculations for construction and engineering.">
-<meta name="keywords" content="meter to inches converter 2025, m to in converter, meter inches conversion, length converter 2025, construction calculator, engineering tools, metric to imperial conversion, inches calculator online, building measurements, architectural converter">
+<title>Meter to Inches Converter 2026 | m to in | Free Length Tool</title>
+<meta name="description" content="Convert meters to inches instantly with our 2026 accurate converter. Perfect m to in conversion with real-time calculations for construction and engineering.">
+<meta name="keywords" content="meter to inches converter 2026, m to in converter, meter inches conversion, length converter 2026, construction calculator, engineering tools, metric to imperial conversion, inches calculator online, building measurements, architectural converter">
 <link rel="canonical" href="https://www.thiyagi.com/meter-to-inches">
 
 <!-- Open Graph Meta Tags -->
-<meta property="og:title" content="Meter to Inches Converter 2025 | m to in | Free Length Tool">
-<meta property="og:description" content="Convert meters to inches instantly with our 2025 accurate converter. Perfect m to in conversion with real-time calculations for construction and engineering.">
+<meta property="og:title" content="Meter to Inches Converter 2026 | m to in | Free Length Tool">
+<meta property="og:description" content="Convert meters to inches instantly with our 2026 accurate converter. Perfect m to in conversion with real-time calculations for construction and engineering.">
 <meta property="og:url" content="https://www.thiyagi.com/meter-to-inches">
 <meta property="og:type" content="website">
 <meta property="og:image" content="https://www.thiyagi.com/nt.png">
@@ -14,8 +14,8 @@
 
 <!-- Twitter Card Meta Tags -->
 <meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:title" content="Meter to Inches Converter 2025 | m to in | Free Length Tool">
-<meta name="twitter:description" content="Convert meters to inches instantly with our 2025 accurate converter. Perfect m to in conversion with real-time calculations for construction and engineering.">
+<meta name="twitter:title" content="Meter to Inches Converter 2026 | m to in | Free Length Tool">
+<meta name="twitter:description" content="Convert meters to inches instantly with our 2026 accurate converter. Perfect m to in conversion with real-time calculations for construction and engineering.">
 <meta name="twitter:image" content="https://www.thiyagi.com/nt.png">
 
 <!-- Additional SEO Meta Tags -->
@@ -39,7 +39,7 @@
           Meter to Inches Converter
         </h1>
         <p class="text-xl text-gray-600 mb-8 max-w-3xl mx-auto">
-          Convert meters to inches instantly with our accurate 2025 calculator. 
+          Convert meters to inches instantly with our accurate 2026 calculator. 
           Perfect for construction, engineering, and precise measurements.
         </p>
       </div>

@@ -3,19 +3,19 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Dadra and Nagar Haveli Holidays 2025 | Complete Calendar | Festivals | National Holidays</title>
-    <meta name="description" content="Complete Dadra and Nagar Haveli Holiday Calendar 2025. Find all festivals, national holidays, cultural events, and religious celebrations. Plan your year with our comprehensive holiday guide.">
-    <meta name="keywords" content="Dadra and Nagar Haveli holidays 2025, festivals, national holidays India, cultural events, Dadra and Nagar Haveli calendar, holidays Dadra and Nagar Haveli, festival dates 2025">
+    <title>Dadra and Nagar Haveli Holidays 2026 | Complete Calendar | Festivals | National Holidays</title>
+    <meta name="description" content="Complete Dadra and Nagar Haveli Holiday Calendar 2026. Find all festivals, national holidays, cultural events, and religious celebrations. Plan your year with our comprehensive holiday guide.">
+    <meta name="keywords" content="Dadra and Nagar Haveli holidays 2026, festivals, national holidays India, cultural events, Dadra and Nagar Haveli calendar, holidays Dadra and Nagar Haveli, festival dates 2026">
     <meta name="author" content="Dadra and Nagar Haveli Holiday Calendar">
     <meta name="robots" content="index, follow">
-    <meta property="og:title" content="Dadra and Nagar Haveli Holidays 2025 - Complete Calendar">
-    <meta property="og:description" content="Complete Dadra and Nagar Haveli Holiday Calendar 2025 with all festivals, national holidays, and cultural events. Plan your year with our comprehensive guide.">
+    <meta property="og:title" content="Dadra and Nagar Haveli Holidays 2026 - Complete Calendar">
+    <meta property="og:description" content="Complete Dadra and Nagar Haveli Holiday Calendar 2026 with all festivals, national holidays, and cultural events. Plan your year with our comprehensive guide.">
     <meta property="og:type" content="website">
     <meta property="og:url" content="<?php echo 'https://' . $_SERVER['HTTP_HOST'] . $_SERVER['REQUEST_URI']; ?>">
-    <meta property="og:image" content="https://via.placeholder.com/1200x630/FF0000/FFFFFF?text=Dadra+and+Nagar+Haveli+Holidays+2025">
+    <meta property="og:image" content="https://via.placeholder.com/1200x630/FF0000/FFFFFF?text=Dadra+and+Nagar+Haveli+Holidays+2026">
     <meta name="twitter:card" content="summary_large_image">
-    <meta name="twitter:title" content="Dadra and Nagar Haveli Holidays 2025">
-    <meta name="twitter:description" content="Complete Dadra and Nagar Haveli Holiday Calendar 2025 with all festivals and holidays.">
+    <meta name="twitter:title" content="Dadra and Nagar Haveli Holidays 2026">
+    <meta name="twitter:description" content="Complete Dadra and Nagar Haveli Holiday Calendar 2026 with all festivals and holidays.">
     <link rel="canonical" href="<?php echo 'https://' . $_SERVER['HTTP_HOST'] . $_SERVER['REQUEST_URI']; ?>">
     <meta name="language" content="English">
     <meta name="geo.region" content="IN-DN">
@@ -26,26 +26,26 @@
     {
         "@context": "https://schema.org",
         "@type": "WebPage",
-        "name": "Dadra and Nagar Haveli Holidays 2025",
-        "description": "Complete Dadra and Nagar Haveli Holiday Calendar 2025 with all festivals, national holidays, and cultural events",
+        "name": "Dadra and Nagar Haveli Holidays 2026",
+        "description": "Complete Dadra and Nagar Haveli Holiday Calendar 2026 with all festivals, national holidays, and cultural events",
         "url": "<?php echo 'https://' . $_SERVER['HTTP_HOST'] . $_SERVER['REQUEST_URI']; ?>",
         "mainEntity": {
             "@type": "FAQPage",
             "mainEntity": [
                 {
                     "@type": "Question",
-                    "name": "What are the main festivals in Dadra and Nagar Haveli in 2025?",
+                    "name": "What are the main festivals in Dadra and Nagar Haveli in 2026?",
                     "acceptedAnswer": {
                         "@type": "Answer",
-                        "text": "The main festivals in Dadra and Nagar Haveli in 2025 include Diwali, Holi, and Ganesh Chaturthi."
+                        "text": "The main festivals in Dadra and Nagar Haveli in 2026 include Diwali, Holi, and Ganesh Chaturthi."
                     }
                 },
                 {
                     "@type": "Question",
-                    "name": "How many national holidays are there in Dadra and Nagar Haveli 2025?",
+                    "name": "How many national holidays are there in Dadra and Nagar Haveli 2026?",
                     "acceptedAnswer": {
                         "@type": "Answer",
-                        "text": "There are several national holidays in Dadra and Nagar Haveli 2025 including Republic Day (January 26), Independence Day (August 15), and Gandhi Jayanti (October 2)."
+                        "text": "There are several national holidays in Dadra and Nagar Haveli 2026 including Republic Day (January 26), Independence Day (August 15), and Gandhi Jayanti (October 2)."
                     }
                 },
                 {
@@ -61,12 +61,12 @@
                     "name": "How is Independence Day celebrated in Dadra and Nagar Haveli?",
                     "acceptedAnswer": {
                         "@type": "Answer",
-                        "text": "Independence Day (August 15, 2025) is celebrated with great patriotic fervor across Dadra and Nagar Haveli. The day begins with flag hoisting ceremonies in schools, colleges, and government offices."
+                        "text": "Independence Day (August 15, 2026) is celebrated with great patriotic fervor across Dadra and Nagar Haveli. The day begins with flag hoisting ceremonies in schools, colleges, and government offices."
                     }
                 },
                 {
                     "@type": "Question",
-                    "name": "Are there any special holidays specific to Dadra and Nagar Haveli in 2025?",
+                    "name": "Are there any special holidays specific to Dadra and Nagar Haveli in 2026?",
                     "acceptedAnswer": {
                         "@type": "Answer",
                         "text": "Yes, Dadra and Nagar Haveli has Liberation Day on December 19th as a special holiday commemorating its liberation from Portuguese rule."
@@ -78,7 +78,7 @@
             "@type": "Organization",
             "name": "Dadra and Nagar Haveli Holiday Calendar"
         },
-        "datePublished": "2025-01-01",
+        "datePublished": "2026-01-01",
         "dateModified": "<?php echo date('Y-m-d'); ?>"
     }
     </script>
@@ -102,100 +102,100 @@
 </head>
 <body class="bg-gradient-to-br from-blue-50 to-indigo-100 min-h-screen">
     <?php
-    // Dadra and Nagar Haveli Holidays 2025 Data
-    $holidays_2025 = [
-        '2025-01-01' => [
+    // Dadra and Nagar Haveli Holidays 2026 Data
+    $holidays_2026 = [
+        '2026-01-01' => [
             'name' => 'New Year\'s Day',
             'type' => 'National Holiday',
             'description' => 'Celebration of the new year',
             'icon' => 'fa-calendar-day',
             'bank_holiday' => true
         ],
-        '2025-01-14' => [
+        '2026-01-14' => [
             'name' => 'Makar Sankranti',
             'type' => 'Festival',
             'description' => 'Harvest festival celebrated across India',
             'icon' => 'fa-sun',
             'bank_holiday' => false
         ],
-        '2025-01-26' => [
+        '2026-01-26' => [
             'name' => 'Republic Day',
             'type' => 'National Holiday',
             'description' => 'Celebration of Indian Republic',
             'icon' => 'fa-flag',
             'bank_holiday' => true
         ],
-        '2025-03-08' => [
+        '2026-03-08' => [
             'name' => 'International Women\'s Day',
             'type' => 'International',
             'description' => 'Celebration of women\'s achievements',
             'icon' => 'fa-venus',
             'bank_holiday' => false
         ],
-        '2025-03-25' => [
+        '2026-03-25' => [
             'name' => 'Holi',
             'type' => 'Festival',
             'description' => 'Festival of colors',
             'icon' => 'fa-paint-brush',
             'bank_holiday' => true
         ],
-        '2025-04-14' => [
+        '2026-04-14' => [
             'name' => 'Ambedkar Jayanti',
             'type' => 'National',
             'description' => 'Birth anniversary of Dr. B.R. Ambedkar',
             'icon' => 'fa-book',
             'bank_holiday' => true
         ],
-        '2025-05-01' => [
+        '2026-05-01' => [
             'name' => 'Labour Day',
             'type' => 'International',
             'description' => 'International Workers\' Day',
             'icon' => 'fa-hard-hat',
             'bank_holiday' => true
         ],
-        '2025-08-15' => [
+        '2026-08-15' => [
             'name' => 'Independence Day',
             'type' => 'National Holiday',
             'description' => 'Indian Independence Day',
             'icon' => 'fa-dove',
             'bank_holiday' => true
         ],
-        '2025-09-07' => [
+        '2026-09-07' => [
             'name' => 'Ganesh Chaturthi',
             'type' => 'Festival',
             'description' => 'Birth anniversary of Lord Ganesha',
             'icon' => 'fa-elephant',
             'bank_holiday' => true
         ],
-        '2025-10-02' => [
+        '2026-10-02' => [
             'name' => 'Gandhi Jayanti',
             'type' => 'National Holiday',
             'description' => 'Birth anniversary of Mahatma Gandhi',
             'icon' => 'fa-peace',
             'bank_holiday' => true
         ],
-        '2025-10-31' => [
+        '2026-10-31' => [
             'name' => 'Diwali',
             'type' => 'Festival',
             'description' => 'Festival of lights',
             'icon' => 'fa-candle-holder',
             'bank_holiday' => true
         ],
-        '2025-11-15' => [
+        '2026-11-15' => [
             'name' => 'Guru Nanak Jayanti',
             'type' => 'Religious',
             'description' => 'Birth anniversary of Guru Nanak Dev Ji',
             'icon' => 'fa-pray',
             'bank_holiday' => true
         ],
-        '2025-12-19' => [
+        '2026-12-19' => [
             'name' => 'Liberation Day',
             'type' => 'Regional Holiday',
             'description' => 'Commemorates liberation from Portuguese rule',
             'icon' => 'fa-landmark',
             'bank_holiday' => true
         ],
-        '2025-12-25' => [
+        '2026-12-25' => [
             'name' => 'Christmas',
             'type' => 'Religious',
             'description' => 'Celebration of Jesus Christ\'s birth',
@@ -204,79 +204,79 @@
         ]
     ];
 
-    // Bank Holidays 2025 - Additional holidays specific to banks
-    $bank_holidays_2025 = [
-        '2025-01-14' => [
+    // Bank Holidays 2026 - Additional holidays specific to banks
+    $bank_holidays_2026 = [
+        '2026-01-14' => [
             'name' => 'Makar Sankranti',
             'type' => 'Bank Holiday',
             'description' => 'Harvest festival - Banks closed',
             'icon' => 'fa-university',
             'bank_holiday' => true
         ],
-        '2025-03-25' => [
+        '2026-03-25' => [
             'name' => 'Holi',
             'type' => 'Bank Holiday',
             'description' => 'Festival of colors - Banks closed',
             'icon' => 'fa-university',
             'bank_holiday' => true
         ],
-        '2025-04-02' => [
+        '2026-04-02' => [
             'name' => 'Good Friday',
             'type' => 'Bank Holiday',
             'description' => 'Christian religious holiday - Banks closed',
             'icon' => 'fa-university',
             'bank_holiday' => true
         ],
-        '2025-05-09' => [
+        '2026-05-09' => [
             'name' => 'Buddha Purnima',
             'type' => 'Bank Holiday',
             'description' => 'Birth anniversary of Lord Buddha',
             'icon' => 'fa-university',
             'bank_holiday' => true
         ],
-        '2025-06-17' => [
+        '2026-06-17' => [
             'name' => 'Bakrid/Eid al-Adha',
             'type' => 'Bank Holiday',
             'description' => 'Islamic festival - Banks closed',
             'icon' => 'fa-university',
             'bank_holiday' => true
         ],
-        '2025-07-17' => [
+        '2026-07-17' => [
             'name' => 'Muharram',
             'type' => 'Bank Holiday',
             'description' => 'Islamic New Year - Banks closed',
             'icon' => 'fa-university',
             'bank_holiday' => true
         ],
-        '2025-08-26' => [
+        '2026-08-26' => [
             'name' => 'Janmashtami',
             'type' => 'Bank Holiday',
             'description' => 'Birth anniversary of Lord Krishna',
             'icon' => 'fa-university',
             'bank_holiday' => true
         ],
-        '2025-09-23' => [
+        '2026-09-23' => [
             'name' => 'Maha Navami',
             'type' => 'Bank Holiday',
             'description' => 'Ninth day of Navratri - Banks closed',
             'icon' => 'fa-university',
             'bank_holiday' => true
         ],
-        '2025-09-24' => [
+        '2026-09-24' => [
             'name' => 'Vijaya Dashami/Dussehra',
             'type' => 'Bank Holiday',
             'description' => 'Tenth day of Navratri - Banks closed',
             'icon' => 'fa-university',
             'bank_holiday' => true
         ],
-        '2025-11-01' => [
+        '2026-11-01' => [
             'name' => 'Diwali Holiday',
             'type' => 'Bank Holiday',
             'description' => 'Day after Diwali - Banks closed',
             'icon' => 'fa-university',
             'bank_holiday' => true
         ],
-        '2025-12-24' => [
+        '2026-12-24' => [
             'name' => 'Christmas Eve',
             'type' => 'Bank Holiday',
             'description' => 'Day before Christmas - Banks closed',
@@ -286,11 +286,11 @@
     ];
 
     // Merge all holidays
-    $all_holidays_2025 = array_merge($holidays_2025, $bank_holidays_2025);
+    $all_holidays_2026 = array_merge($holidays_2026, $bank_holidays_2026);
 
     // Get current month and year
     $current_month = isset($_GET['month']) ? (int)$_GET['month'] : (int)date('n');
-    $current_year = isset($_GET['year']) ? (int)$_GET['year'] : 2025;
+    $current_year = isset($_GET['year']) ? (int)$_GET['year'] : 2026;
     
     // Month names
     $month_names = [
@@ -341,7 +341,7 @@
                     </div>
                     <div>
                         <h1 class="text-4xl font-bold flex items-center space-x-3">
-                            <span>Dadra and Nagar Haveli Holidays 2025</span>
+                            <span>Dadra and Nagar Haveli Holidays 2026</span>
                             <i class="fas fa-flag text-2xl animate-bounce"></i>
                         </h1>
                         <p class="text-lg opacity-90 flex items-center space-x-2">
@@ -454,12 +454,12 @@
                 // Calendar days
                 for ($day = 1; $day <= $days_in_month; $day++) {
                     $date = sprintf('%04d-%02d-%02d', $current_year, $current_month, $day);
-                    $is_holiday = isset($all_holidays_2025[$date]);
-                    $is_bank_holiday = $is_holiday && $all_holidays_2025[$date]['bank_holiday'];
+                    $is_holiday = isset($all_holidays_2026[$date]);
+                    $is_bank_holiday = $is_holiday && $all_holidays_2026[$date]['bank_holiday'];
                     $is_today = (int)date('j') === $day && (int)date('n') === $current_month && (int)date('Y') === $current_year;
-                    $holiday_name = $is_holiday ? $all_holidays_2025[$date]['name'] : '';
-                    $holiday_type = $is_holiday ? $all_holidays_2025[$date]['type'] : '';
-                    $holiday_icon = $is_holiday ? $all_holidays_2025[$date]['icon'] : 'fa-calendar-day';
+                    $holiday_name = $is_holiday ? $all_holidays_2026[$date]['name'] : '';
+                    $holiday_type = $is_holiday ? $all_holidays_2026[$date]['type'] : '';
+                    $holiday_icon = $is_holiday ? $all_holidays_2026[$date]['icon'] : 'fa-calendar-day';
                     
                     $cell_classes = 'p-4 border-r border-b min-h-[100px] relative';
                     $cell_classes .= $is_today ? ' bg-yellow-100' : '';
@@ -532,7 +532,7 @@
                                 <div class="font-semibold text-gray-800 text-lg">Republic Day</div>
                                 <div class="text-sm text-gray-600 flex items-center space-x-2">
                                     <i class="fas fa-calendar-alt text-blue-500"></i>
-                                    <span>Jan 26, 2025</span>
+                                    <span>Jan 26, 2026</span>
                                 </div>
                             </div>
                         </div>
@@ -554,7 +554,7 @@
                                 <div class="font-semibold text-gray-800 text-lg">Holi</div>
                                 <div class="text-sm text-gray-600 flex items-center space-x-2">
                                     <i class="fas fa-calendar-alt text-blue-500"></i>
-                                    <span>Mar 17, 2025</span>
+                                    <span>Mar 17, 2026</span>
                                 </div>
                             </div>
                         </div>
@@ -576,7 +576,7 @@
                                 <div class="font-semibold text-gray-800 text-lg">Ganesh Chaturthi</div>
                                 <div class="text-sm text-gray-600 flex items-center space-x-2">
                                     <i class="fas fa-calendar-alt text-blue-500"></i>
-                                    <span>Sep 7, 2025</span>
+                                    <span>Sep 7, 2026</span>
                                 </div>
                             </div>
                         </div>
@@ -598,7 +598,7 @@
                                 <div class="font-semibold text-gray-800 text-lg">Independence Day</div>
                                 <div class="text-sm text-gray-600 flex items-center space-x-2">
                                     <i class="fas fa-calendar-alt text-blue-500"></i>
-                                    <span>Aug 15, 2025</span>
+                                    <span>Aug 15, 2026</span>
                                 </div>
                             </div>
                         </div>
@@ -620,7 +620,7 @@
                                 <div class="font-semibold text-gray-800 text-lg">Diwali</div>
                                 <div class="text-sm text-gray-600 flex items-center space-x-2">
                                     <i class="fas fa-calendar-alt text-blue-500"></i>
-                                    <span>Oct 31, 2025</span>
+                                    <span>Oct 31, 2026</span>
                                 </div>
                             </div>
                         </div>
@@ -700,7 +700,7 @@
         <div class="mt-8 bg-white rounded-lg shadow-lg p-6 border-l-4 border-blue-500">
             <h3 class="text-2xl font-bold text-gray-800 mb-4 flex items-center">
                 <i class="fas fa-university text-blue-500 mr-3 text-2xl"></i>
-                <span>Bank Holidays 2025</span>
+                <span>Bank Holidays 2026</span>
                 <i class="fas fa-building-columns text-blue-400 ml-2"></i>
             </h3>
             <p class="text-gray-600 mb-6">All major banks in Dadra and Nagar Haveli will be closed on these dates. Plan your banking activities accordingly.</p>
@@ -710,7 +710,7 @@
                         <i class="fas fa-university text-blue-600 text-lg"></i>
                         <div class="flex-1">
                             <div class="font-semibold text-blue-800 text-sm">New Year's Day</div>
-                            <div class="text-xs text-blue-600">Wednesday, Jan 1, 2025</div>
+                            <div class="text-xs text-blue-600">Wednesday, Jan 1, 2026</div>
                         </div>
                     </div>
                     <div class="text-right">
@@ -722,7 +722,7 @@
                         <i class="fas fa-university text-blue-600 text-lg"></i>
                         <div class="flex-1">
                             <div class="font-semibold text-blue-800 text-sm">Republic Day</div>
-                            <div class="text-xs text-blue-600">Monday, Jan 26, 2025</div>
+                            <div class="text-xs text-blue-600">Monday, Jan 26, 2026</div>
                         </div>
                     </div>
                     <div class="text-right">
@@ -734,7 +734,7 @@
                         <i class="fas fa-university text-blue-600 text-lg"></i>
                         <div class="flex-1">
                             <div class="font-semibold text-blue-800 text-sm">Holi</div>
-                            <div class="text-xs text-blue-600">Monday, Mar 17, 2025</div>
+                            <div class="text-xs text-blue-600">Monday, Mar 17, 2026</div>
                         </div>
                     </div>
                     <div class="text-right">
@@ -746,7 +746,7 @@
                         <i class="fas fa-university text-blue-600 text-lg"></i>
                         <div class="flex-1">
                             <div class="font-semibold text-blue-800 text-sm">Good Friday</div>
-                            <div class="text-xs text-blue-600">Friday, Apr 4, 2025</div>
+                            <div class="text-xs text-blue-600">Friday, Apr 4, 2026</div>
                         </div>
                     </div>
                     <div class="text-right">
@@ -758,7 +758,7 @@
                         <i class="fas fa-university text-blue-600 text-lg"></i>
                         <div class="flex-1">
                             <div class="font-semibold text-blue-800 text-sm">Eid-ul-Fitr</div>
-                            <div class="text-xs text-blue-600">Thursday, Apr 17, 2025</div>
+                            <div class="text-xs text-blue-600">Thursday, Apr 17, 2026</div>
                         </div>
                     </div>
                     <div class="text-right">
@@ -770,7 +770,7 @@
                         <i class="fas fa-university text-blue-600 text-lg"></i>
                         <div class="flex-1">
                             <div class="font-semibold text-blue-800 text-sm">Ganesh Chaturthi</div>
-                            <div class="text-xs text-blue-600">Sunday, Sep 7, 2025</div>
+                            <div class="text-xs text-blue-600">Sunday, Sep 7, 2026</div>
                         </div>
                     </div>
                     <div class="text-right">
@@ -782,7 +782,7 @@
                         <i class="fas fa-university text-blue-600 text-lg"></i>
                         <div class="flex-1">
                             <div class="font-semibold text-blue-800 text-sm">Independence Day</div>
-                            <div class="text-xs text-blue-600">Friday, Aug 15, 2025</div>
+                            <div class="text-xs text-blue-600">Friday, Aug 15, 2026</div>
                         </div>
                     </div>
                     <div class="text-right">
@@ -794,7 +794,7 @@
                         <i class="fas fa-university text-blue-600 text-lg"></i>
                         <div class="flex-1">
                             <div class="font-semibold text-blue-800 text-sm">Diwali</div>
-                            <div class="text-xs text-blue-600">Friday, Oct 31, 2025</div>
+                            <div class="text-xs text-blue-600">Friday, Oct 31, 2026</div>
                         </div>
                     </div>
                     <div class="text-right">
@@ -909,10 +909,10 @@
                     <div class="bg-gray-50 rounded-lg p-6 hover:shadow-md transition-all">
                         <h3 class="text-xl font-semibold text-gray-800 mb-3 flex items-center space-x-2">
                             <i class="fas fa-calendar-day text-blue-500"></i>
-                            <span>What are the main festivals in Dadra and Nagar Haveli in 2025?</span>
+                            <span>What are the main festivals in Dadra and Nagar Haveli in 2026?</span>
                         </h3>
                         <p class="text-gray-700 leading-relaxed">
-                            The main festivals in Dadra and Nagar Haveli in 2025 include <strong>Holi</strong> (March 17), 
+                            The main festivals in Dadra and Nagar Haveli in 2026 include <strong>Holi</strong> (March 17), 
                             <strong>Diwali</strong> (October 31), and <strong>Ganesh Chaturthi</strong> (September 7). The region also celebrates 
                             unique tribal festivals like the <strong>Warli Festival</strong> which showcases the culture of the indigenous Warli tribe. 
                             Due to its location between Gujarat and Maharashtra, the region celebrates festivals from both cultures.
@@ -922,10 +922,10 @@
                     <div class="bg-gray-50 rounded-lg p-6 hover:shadow-md transition-all">
                         <h3 class="text-xl font-semibold text-gray-800 mb-3 flex items-center space-x-2">
                             <i class="fas fa-flag text-red-500"></i>
-                            <span>How many national holidays are there in Dadra and Nagar Haveli 2025?</span>
+                            <span>How many national holidays are there in Dadra and Nagar Haveli 2026?</span>
                         </h3>
                         <p class="text-gray-700 leading-relaxed">
-                            Dadra and Nagar Haveli observes several national holidays in 2025 including <strong>Republic Day</strong> (January 26), 
+                            Dadra and Nagar Haveli observes several national holidays in 2026 including <strong>Republic Day</strong> (January 26), 
                             <strong>Independence Day</strong> (August 15), and <strong>Gandhi Jayanti</strong> (October 2). 
                             As a union territory, it observes all national holidays when banks, schools, and government offices remain closed.
                         </p>
@@ -937,7 +937,7 @@
                             <span>What is the significance of Holi in Dadra and Nagar Haveli?</span>
                         </h3>
                         <p class="text-gray-700 leading-relaxed">
-                            <strong>Holi</strong> (March 17, 2025) is celebrated with great enthusiasm in Dadra and Nagar Haveli, 
+                            <strong>Holi</strong> (March 17, 2026) is celebrated with great enthusiasm in Dadra and Nagar Haveli, 
                             reflecting the cultural influences of both Gujarat and Maharashtra. The festival is celebrated with 
                             colorful powders, traditional music, and dance. Communities come together for celebrations, and 
                             special sweets like gujiya are prepared. The festival promotes communal harmony and joy.
@@ -963,8 +963,8 @@
                             <span>Are international holidays like Valentine's Day celebrated in Dadra and Nagar Haveli?</span>
                         </h3>
                         <p class="text-gray-700 leading-relaxed">
-                            Yes, <strong>Valentine's Day</strong> (February 14, 2025) and other international holidays like 
-                            <strong>International Women's Day</strong> (March 8, 2025) are celebrated in Dadra and Nagar Haveli, 
+                            Yes, <strong>Valentine's Day</strong> (February 14, 2026) and other international holidays like 
+                            <strong>International Women's Day</strong> (March 8, 2026) are celebrated in Dadra and Nagar Haveli, 
                             especially in urban areas. While these are not official holidays, they are widely observed by younger 
                             generations and commercial establishments, reflecting the region's modern and cosmopolitan culture.
                         </p>
@@ -976,7 +976,7 @@
                             <span>What is the significance of Republic Day in Dadra and Nagar Haveli?</span>
                         </h3>
                         <p class="text-gray-700 leading-relaxed">
-                            <strong>Republic Day</strong> (January 26, 2025) is celebrated with great patriotic fervor in Dadra and Nagar Haveli. 
+                            <strong>Republic Day</strong> (January 26, 2026) is celebrated with great patriotic fervor in Dadra and Nagar Haveli. 
                             The main ceremony takes place in Silvassa with the Administrator hoisting the national flag. 
                             The celebrations include a parade with contingents from various government departments, cultural performances, 
                             and awards ceremonies. Schools and colleges organize special programs to mark the occasion.
@@ -989,7 +989,7 @@
                             <span>Is Labour Day a public holiday in Dadra and Nagar Haveli?</span>
                         </h3>
                         <p class="text-gray-700 leading-relaxed">
-                            <strong>Labour Day</strong> (May 1, 2025) is celebrated as <strong>International Workers' Day</strong> 
+                            <strong>Labour Day</strong> (May 1, 2026) is celebrated as <strong>International Workers' Day</strong> 
                             in Dadra and Nagar Haveli. While it's not always a complete public holiday, many government offices and educational 
                             institutions may have reduced working hours or special arrangements. Trade unions and workers' organizations 
                             organize rallies and events to celebrate workers' rights and achievements.
@@ -1002,7 +1002,7 @@
                             <span>How is Independence Day celebrated in Dadra and Nagar Haveli?</span>
                         </h3>
                         <p class="text-gray-700 leading-relaxed">
-                            <strong>Independence Day</strong> (August 15, 2025) is celebrated with great patriotic fervor across Dadra and Nagar Haveli. 
+                            <strong>Independence Day</strong> (August 15, 2026) is celebrated with great patriotic fervor across Dadra and Nagar Haveli. 
                             The main ceremony takes place in Silvassa with the Administrator hoisting the national flag. 
                             Schools, colleges, and government offices organize various cultural programs and flag hoisting ceremonies. 
                             The city is decorated with national flags and lights, and various patriotic events are organized throughout the week.
@@ -1015,7 +1015,7 @@
                             <span>What is the significance of Gandhi Jayanti in Dadra and Nagar Haveli?</span>
                         </h3>
                         <p class="text-gray-700 leading-relaxed">
-                            <strong>Gandhi Jayanti</strong> (October 2, 2025) commemorates the birth anniversary of Mahatma Gandhi, 
+                            <strong>Gandhi Jayanti</strong> (October 2, 2026) commemorates the birth anniversary of Mahatma Gandhi, 
                             the Father of the Nation. In Dadra and Nagar Haveli, this day is observed with prayer meetings, seminars on Gandhian 
                             philosophy, and community service activities. Schools organize special assemblies, and government offices 
                             remain closed. The day promotes Gandhian values of non-violence, truth, and simplicity.
@@ -1028,7 +1028,7 @@
                             <span>How is Children's Day celebrated in Dadra and Nagar Haveli?</span>
                         </h3>
                         <p class="text-gray-700 leading-relaxed">
-                            <strong>Children's Day</strong> (November 14, 2025) celebrates the birth anniversary of India's first 
+                            <strong>Children's Day</strong> (November 14, 2026) celebrates the birth anniversary of India's first 
                             Prime Minister, Jawaharlal Nehru, who was fondly called "Chacha Nehru" by children. In Dadra and Nagar Haveli, schools 
                             organize special programs, cultural activities, and competitions for children. Many schools also distribute 
                             sweets and gifts to students, making it a memorable day for children across the region.
@@ -1041,7 +1041,7 @@
                             <span>Is Christmas celebrated in Dadra and Nagar Haveli?</span>
                         </h3>
                         <p class="text-gray-700 leading-relaxed">
-                            Yes, <strong>Christmas</strong> (December 25, 2025) is celebrated in Dadra and Nagar Haveli, 
+                            Yes, <strong>Christmas</strong> (December 25, 2026) is celebrated in Dadra and Nagar Haveli, 
                             especially in areas with significant Christian populations. Churches are beautifully decorated, 
                             midnight masses are held, and communities come together for celebrations. The festival promotes 
                             communal harmony and is celebrated by people of all faiths, with markets and malls decorated 
@@ -1055,7 +1055,7 @@
                             <span>What is the significance of International Women's Day in Dadra and Nagar Haveli?</span>
                         </h3>
                         <p class="text-gray-700 leading-relaxed">
-                            <strong>International Women's Day</strong> (March 8, 2025) is celebrated across Dadra and Nagar Haveli to recognize 
+                            <strong>International Women's Day</strong> (March 8, 2026) is celebrated across Dadra and Nagar Haveli to recognize 
                             women's achievements and promote gender equality. Various organizations, educational institutions, and 
                             government bodies organize seminars, workshops, and cultural programs highlighting women's contributions 
                             to society. The day also focuses on women's rights, empowerment, and addressing gender-based challenges.
@@ -1091,7 +1091,7 @@
                     <div class="bg-gray-50 rounded-lg p-6 hover:shadow-md transition-all">
                         <h3 class="text-xl font-semibold text-gray-800 mb-3 flex items-center space-x-2">
                             <i class="fas fa-calendar-check text-green-500"></i>
-                            <span>Are there any special holidays specific to Dadra and Nagar Haveli in 2025?</span>
+                            <span>Are there any special holidays specific to Dadra and Nagar Haveli in 2026?</span>
                         </h3>
                         <p class="text-gray-700 leading-relaxed">
                             Yes, Dadra and Nagar Haveli celebrates several regional festivals that reflect its unique cultural blend of 
@@ -1173,98 +1173,98 @@
         // JavaScript functionality
         // Holiday data for search functionality
         const holidaysData = {
-            '2025-01-01': {
+            '2026-01-01': {
                 name: 'New Year\'s Day',
                 type: 'National Holiday',
                 description: 'Celebration of the new year',
                 icon: 'fa-calendar-day',
                 bank_holiday: true
             },
-            '2025-01-26': {
+            '2026-01-26': {
                 name: 'Republic Day',
                 type: 'National Holiday',
                 description: 'Celebration of Indian Republic',
                 icon: 'fa-flag',
                 bank_holiday: true
             },
-            '2025-02-14': {
+            '2026-02-14': {
                 name: 'Valentine\'s Day',
                 type: 'International',
                 description: 'Day of love and affection',
                 icon: 'fa-heart',
                 bank_holiday: false
             },
-            '2025-03-08': {
+            '2026-03-08': {
                 name: 'International Women\'s Day',
                 type: 'International',
                 description: 'Celebration of women\'s achievements',
                 icon: 'fa-venus',
                 bank_holiday: false
             },
-            '2025-03-17': {
+            '2026-03-17': {
                 name: 'Holi',
                 type: 'Religious',
                 description: 'Festival of colors',
                 icon: 'fa-fire',
                 bank_holiday: true
             },
-            '2025-04-04': {
+            '2026-04-04': {
                 name: 'Good Friday',
                 type: 'Religious',
                 description: 'Christian religious holiday',
                 icon: 'fa-cross',
                 bank_holiday: true
             },
-            '2025-04-17': {
+            '2026-04-17': {
                 name: 'Eid-ul-Fitr',
                 type: 'Religious',
                 description: 'Islamic festival marking the end of Ramadan',
                 icon: 'fa-moon',
                 bank_holiday: true
             },
-            '2025-05-01': {
+            '2026-05-01': {
                 name: 'Labour Day',
                 type: 'International',
                 description: 'International Workers\' Day',
                 icon: 'fa-hard-hat',
                 bank_holiday: true
             },
-            '2025-08-15': {
+            '2026-08-15': {
                 name: 'Independence Day',
                 type: 'National Holiday',
                 description: 'Indian Independence Day',
                 icon: 'fa-dove',
                 bank_holiday: true
             },
-            '2025-09-07': {
+            '2026-09-07': {
                 name: 'Ganesh Chaturthi',
                 type: 'Gujarati Festival',
                 description: 'Birth anniversary of Lord Ganesha',
                 icon: 'fa-star',
                 bank_holiday: true
             },
-            '2025-10-02': {
+            '2026-10-02': {
                 name: 'Gandhi Jayanti',
                 type: 'National Holiday',
                 description: 'Birth anniversary of Mahatma Gandhi',
                 icon: 'fa-peace',
                 bank_holiday: true
             },
-            '2025-10-31': {
+            '2026-10-31': {
                 name: 'Diwali',
                 type: 'Religious',
                 description: 'Festival of lights',
                 icon: 'fa-star',
                 bank_holiday: true
             },
-            '2025-11-14': {
+            '2026-11-14': {
                 name: 'Children\'s Day',
                 type: 'National',
                 description: 'Birth anniversary of Jawaharlal Nehru',
                 icon: 'fa-child',
                 bank_holiday: false
             },
-            '2025-12-25': {
+            '2026-12-25': {
                 name: 'Christmas',
                 type: 'Religious',
                 description: 'Celebration of Jesus Christ\'s birth',
@@ -1383,13 +1383,13 @@
         
         function downloadCalendar() {
             // Create a simple text version for download
-            const content = `Dadra and Nagar Haveli Holidays 2025
+            const content = `Dadra and Nagar Haveli Holidays 2026
 `;
             const blob = new Blob([content], { type: 'text/plain' });
             const url = window.URL.createObjectURL(blob);
             const a = document.createElement('a');
             a.href = url;
-            a.download = 'dadra-nagar-haveli-holidays-2025.txt';
+            a.download = 'dadra-nagar-haveli-holidays-2026.txt';
             a.click();
             window.URL.revokeObjectURL(url);
         }
@@ -1397,8 +1397,8 @@
         function shareCalendar() {
             if (navigator.share) {
                 navigator.share({
-                    title: 'Dadra and Nagar Haveli Holidays 2025',
-                    text: 'Check out the Dadra and Nagar Haveli holiday calendar for 2025!',
+                    title: 'Dadra and Nagar Haveli Holidays 2026',
+                    text: 'Check out the Dadra and Nagar Haveli holiday calendar for 2026!',
                     url: window.location.href
                 });
             } else {

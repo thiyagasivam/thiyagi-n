@@ -1,12 +1,12 @@
 <?php include 'header.php';?>
-<title>Square Yard to Square Meter Converter 2025 | Convert sq yd to sqm | Free Tool</title>
-<meta name="description" content="Convert square yard to square meter instantly with our 2025 accurate area converter. Perfect sq yd to sqm conversion with real-time calculations for construction and measurement needs.">
-<meta name="keywords" content="square yard to square meter 2025, area converter, construction conversion 2025, sq yd to sqm calculator, area measurement tool">
+<title>Square Yard to Square Meter Converter 2026 | Convert sq yd to sqm | Free Tool</title>
+<meta name="description" content="Convert square yard to square meter instantly with our 2026 accurate area converter. Perfect sq yd to sqm conversion with real-time calculations for construction and measurement needs.">
+<meta name="keywords" content="square yard to square meter 2026, area converter, construction conversion 2026, sq yd to sqm calculator, area measurement tool">
 <link rel="canonical" href="https://www.thiyagi.com/square-yard-to-square-meter">
 
 <!-- Open Graph Meta Tags -->
-<meta property="og:title" content="Square Yard to Square Meter Converter 2025 | Convert sq yd to sqm | Free Tool">
-<meta property="og:description" content="Convert square yard to square meter instantly with our 2025 accurate area converter. Perfect sq yd to sqm conversion with real-time calculations for construction and measurement needs.">
+<meta property="og:title" content="Square Yard to Square Meter Converter 2026 | Convert sq yd to sqm | Free Tool">
+<meta property="og:description" content="Convert square yard to square meter instantly with our 2026 accurate area converter. Perfect sq yd to sqm conversion with real-time calculations for construction and measurement needs.">
 <meta property="og:url" content="https://www.thiyagi.com/square-yard-to-square-meter">
 <meta property="og:type" content="website">
 <meta property="og:image" content="https://www.thiyagi.com/nt.png">
@@ -14,8 +14,8 @@
 
 <!-- Twitter Card Meta Tags -->
 <meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:title" content="Square Yard to Square Meter Converter 2025 | Convert sq yd to sqm | Free Tool">
-<meta name="twitter:description" content="Convert square yard to square meter instantly with our 2025 accurate area converter. Perfect sq yd to sqm conversion with real-time calculations for construction and measurement needs.">
+<meta name="twitter:title" content="Square Yard to Square Meter Converter 2026 | Convert sq yd to sqm | Free Tool">
+<meta name="twitter:description" content="Convert square yard to square meter instantly with our 2026 accurate area converter. Perfect sq yd to sqm conversion with real-time calculations for construction and measurement needs.">
 <meta name="twitter:image" content="https://www.thiyagi.com/nt.png">
 
 <!-- Additional SEO Meta Tags -->
@@ -39,7 +39,7 @@
           Square Yard to Square Meter Converter
         </h1>
         <p class="text-xl text-gray-600 mb-8 max-w-3xl mx-auto">
-          Convert square yards to square meters instantly with our accurate 2025 area calculator. 
+          Convert square yards to square meters instantly with our accurate 2026 area calculator. 
           Perfect for construction, landscaping, and property measurement conversions.
         </p>
       </div>
@@ -156,16 +156,16 @@
     <article class="bg-white rounded-xl shadow-lg p-8">
       <h2 class="text-2xl font-bold text-gray-800 mb-6 flex items-center gap-3">
         <i class="fas fa-info-circle text-emerald-600" aria-hidden="true"></i>
-        Square Yard to Square Meter Conversion 2025
+        Square Yard to Square Meter Conversion 2026
       </h2>
       <div class="prose max-w-none text-gray-600">
         <p class="mb-4">
-          Converting square yards to square meters is essential for construction, landscaping, and property measurement in 2025. 
+          Converting square yards to square meters is essential for construction, landscaping, and property measurement in 2026. 
           This conversion between imperial and metric area units enables accurate communication between professionals 
           working in different measurement systems, from international construction projects to sports field dimensions.
         </p>
         <p class="mb-6">
-          Our 2025 converter provides instant and precise conversions from square yards to square meters, essential for architects, 
+          Our 2026 converter provides instant and precise conversions from square yards to square meters, essential for architects, 
           contractors, landscapers, and anyone working with area measurements. 
           1 square yard equals approximately 0.836 square meters.
         </p>

@@ -1,19 +1,19 @@
 <?php include 'header.php'; ?>
 
 <!-- SEO Meta Tags -->
-<title>Miles to Yards Converter 2025 - Distance Calculator | Thiyagi</title>
-<meta name="description" content="Free online miles to yards converter 2025. Convert miles to yards instantly with accurate distance conversion. Perfect for sports, surveying, and athletic measurements.">
-<meta name="keywords" content="miles to yards converter 2025, miles to yards, distance converter, sports calculator, surveying tool, athletic measurements">
+<title>Miles to Yards Converter 2026 - Distance Calculator | Thiyagi</title>
+<meta name="description" content="Free online miles to yards converter 2026. Convert miles to yards instantly with accurate distance conversion. Perfect for sports, surveying, and athletic measurements.">
+<meta name="keywords" content="miles to yards converter 2026, miles to yards, distance converter, sports calculator, surveying tool, athletic measurements">
 <meta name="author" content="Thiyagi">
-<meta property="og:title" content="Miles to Yards Converter 2025 - Distance Calculator">
-<meta property="og:description" content="Free online miles to yards converter 2025. Convert miles to yards instantly with accurate distance conversion.">
+<meta property="og:title" content="Miles to Yards Converter 2026 - Distance Calculator">
+<meta property="og:description" content="Free online miles to yards converter 2026. Convert miles to yards instantly with accurate distance conversion.">
 <meta property="og:type" content="website">
 <meta property="og:url" content="https://www.thiyagi.com/miles-to-yards.php">
 <meta property="og:image" content="https://www.thiyagi.com/nt.png">
 <meta property="og:site_name" content="Thiyagi">
 <meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:title" content="Miles to Yards Converter 2025 - Distance Calculator">
-<meta name="twitter:description" content="Free online miles to yards converter 2025. Convert miles to yards instantly with accurate distance conversion.">
+<meta name="twitter:title" content="Miles to Yards Converter 2026 - Distance Calculator">
+<meta name="twitter:description" content="Free online miles to yards converter 2026. Convert miles to yards instantly with accurate distance conversion.">
 <meta name="twitter:image" content="https://www.thiyagi.com/nt.png">
 
 <div class="min-h-screen bg-gradient-to-br from-purple-50 via-indigo-50 to-blue-50 py-12">

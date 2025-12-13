@@ -90,8 +90,8 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Free CSS Beautifier & Formatter Tool 2025 – Clean & Minify Instantly</title>
-    <meta name="description" content="Format and beautify messy CSS code for free in 2025! Our online tool instantly cleans, indents, and minifies stylesheets—perfect for developers. No signup required!">
+    <title>Free CSS Beautifier & Formatter Tool 2026 – Clean & Minify Instantly</title>
+    <meta name="description" content="Format and beautify messy CSS code for free in 2026! Our online tool instantly cleans, indents, and minifies stylesheets—perfect for developers. No signup required!">
     <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" rel="stylesheet">
     <style>
         /* Additional custom styles */

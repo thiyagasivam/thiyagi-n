@@ -1,19 +1,19 @@
 <?php include 'header.php'; ?>
 
 <!-- SEO Meta Tags -->
-<title>Pints to Gallon Converter 2025 - Volume Measurement Calculator | Thiyagi</title>
-<meta name="description" content="Free online pints to gallon converter 2025. Convert pints to gallons instantly with accurate volume conversion. Perfect for cooking and beverage measurements.">
-<meta name="keywords" content="pints to gallon converter 2025, pints to gallons, volume converter, cooking converter, beverage calculator, liquid measurement">
+<title>Pints to Gallon Converter 2026 - Volume Measurement Calculator | Thiyagi</title>
+<meta name="description" content="Free online pints to gallon converter 2026. Convert pints to gallons instantly with accurate volume conversion. Perfect for cooking and beverage measurements.">
+<meta name="keywords" content="pints to gallon converter 2026, pints to gallons, volume converter, cooking converter, beverage calculator, liquid measurement">
 <meta name="author" content="Thiyagi">
-<meta property="og:title" content="Pints to Gallon Converter 2025 - Volume Measurement Calculator">
-<meta property="og:description" content="Free online pints to gallon converter 2025. Convert pints to gallons instantly with accurate volume conversion.">
+<meta property="og:title" content="Pints to Gallon Converter 2026 - Volume Measurement Calculator">
+<meta property="og:description" content="Free online pints to gallon converter 2026. Convert pints to gallons instantly with accurate volume conversion.">
 <meta property="og:type" content="website">
 <meta property="og:url" content="https://www.thiyagi.com/pints-to-gallon.php">
 <meta property="og:image" content="https://www.thiyagi.com/nt.png">
 <meta property="og:site_name" content="Thiyagi">
 <meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:title" content="Pints to Gallon Converter 2025 - Volume Measurement Calculator">
-<meta name="twitter:description" content="Free online pints to gallon converter 2025. Convert pints to gallons instantly with accurate volume conversion.">
+<meta name="twitter:title" content="Pints to Gallon Converter 2026 - Volume Measurement Calculator">
+<meta name="twitter:description" content="Free online pints to gallon converter 2026. Convert pints to gallons instantly with accurate volume conversion.">
 <meta name="twitter:image" content="https://www.thiyagi.com/nt.png">
 
 <div class="min-h-screen bg-gradient-to-br from-emerald-50 via-green-50 to-lime-50 py-12">hp include 'header.php'; ?>

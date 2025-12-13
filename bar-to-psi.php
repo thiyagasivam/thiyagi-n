@@ -1,12 +1,12 @@
 <?php include 'header.php';?>
-<title>Bar to PSI Converter 2025 | bar to psi | Free Pressure Tool</title>
-<meta name="description" content="Convert bar to PSI instantly with our 2025 accurate converter. Perfect bar to psi conversion with real-time calculations for pressure measurements and engineering.">
-<meta name="keywords" content="bar to psi converter 2025, bar to psi converter, bar psi conversion, pressure converter 2025, tire pressure calculator, hydraulic pressure, engineering tools, atmospheric pressure, mechanical measurements, pressure gauge">
+<title>Bar to PSI Converter 2026 | bar to psi | Free Pressure Tool</title>
+<meta name="description" content="Convert bar to PSI instantly with our 2026 accurate converter. Perfect bar to psi conversion with real-time calculations for pressure measurements and engineering.">
+<meta name="keywords" content="bar to psi converter 2026, bar to psi converter, bar psi conversion, pressure converter 2026, tire pressure calculator, hydraulic pressure, engineering tools, atmospheric pressure, mechanical measurements, pressure gauge">
 <link rel="canonical" href="https://www.thiyagi.com/bar-to-psi">
 
 <!-- Open Graph Meta Tags -->
-<meta property="og:title" content="Bar to PSI Converter 2025 | bar to psi | Free Pressure Tool">
-<meta property="og:description" content="Convert bar to PSI instantly with our 2025 accurate converter. Perfect bar to psi conversion with real-time calculations for pressure measurements and engineering.">
+<meta property="og:title" content="Bar to PSI Converter 2026 | bar to psi | Free Pressure Tool">
+<meta property="og:description" content="Convert bar to PSI instantly with our 2026 accurate converter. Perfect bar to psi conversion with real-time calculations for pressure measurements and engineering.">
 <meta property="og:url" content="https://www.thiyagi.com/bar-to-psi">
 <meta property="og:type" content="website">
 <meta property="og:image" content="https://www.thiyagi.com/nt.png">
@@ -14,8 +14,8 @@
 
 <!-- Twitter Card Meta Tags -->
 <meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:title" content="Bar to PSI Converter 2025 | bar to psi | Free Pressure Tool">
-<meta name="twitter:description" content="Convert bar to PSI instantly with our 2025 accurate converter. Perfect bar to psi conversion with real-time calculations for pressure measurements and engineering.">
+<meta name="twitter:title" content="Bar to PSI Converter 2026 | bar to psi | Free Pressure Tool">
+<meta name="twitter:description" content="Convert bar to PSI instantly with our 2026 accurate converter. Perfect bar to psi conversion with real-time calculations for pressure measurements and engineering.">
 <meta name="twitter:image" content="https://www.thiyagi.com/nt.png">
 
 <!-- Additional SEO Meta Tags -->
@@ -47,7 +47,7 @@
   "@context": "https://schema.org",
   "@type": "WebApplication",
   "name": "Bar to PSI Converter",
-  "description": "Convert bar to PSI instantly with our accurate 2025 calculator. Perfect bar to psi conversion with real-time calculations for pressure measurements and engineering.",
+  "description": "Convert bar to PSI instantly with our accurate 2026 calculator. Perfect bar to psi conversion with real-time calculations for pressure measurements and engineering.",
   "url": "https://www.thiyagi.com/bar-to-psi",
   "applicationCategory": "UtilityApplication",
   "operatingSystem": "Web Browser",
@@ -190,7 +190,7 @@
           Bar to PSI Converter
         </h1>
         <p class="text-xl text-gray-600 mb-8 max-w-3xl mx-auto">
-          Convert bar to PSI instantly with our accurate 2025 calculator. 
+          Convert bar to PSI instantly with our accurate 2026 calculator. 
           Perfect for tire pressure, hydraulic systems, and engineering measurements.
         </p>
       </div>

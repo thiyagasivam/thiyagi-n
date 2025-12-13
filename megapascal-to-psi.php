@@ -4,9 +4,9 @@ include 'header.php';
 $header_content = ob_get_clean();
 
 // Insert title and meta tags into the head section
-$title = 'Megapascal to PSI Converter 2025 | Pressure Conversion Tool | Free Calculator';
-$description = 'Convert megapascals to pounds per square inch instantly with our 2025 accurate pressure converter. Perfect for engineering and industrial applications.';
-$keywords = 'megapascal to psi converter 2025, pressure conversion calculator, mpa psi converter, engineering pressure, industrial calculator';
+$title = 'Megapascal to PSI Converter 2026 | Pressure Conversion Tool | Free Calculator';
+$description = 'Convert megapascals to pounds per square inch instantly with our 2026 accurate pressure converter. Perfect for engineering and industrial applications.';
+$keywords = 'megapascal to psi converter 2026, pressure conversion calculator, mpa psi converter, engineering pressure, industrial calculator';
 $canonical = 'https://www.thiyagi.com/megapascal-to-psi';
 
 $meta_tags = '<title>' . htmlspecialchars($title) . '</title>' . "\n";

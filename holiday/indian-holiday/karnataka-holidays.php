@@ -3,19 +3,19 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Karnataka Holidays 2025 | Complete Calendar | Karnataka Festivals | National Holidays</title>
-    <meta name="description" content="Complete Karnataka Holiday Calendar 2025. Find all Karnataka festivals, national holidays, cultural events, and religious celebrations. Plan your year with our comprehensive holiday guide.">
-    <meta name="keywords" content="Karnataka holidays 2025, Karnataka festivals, Ugadi, Karnataka Rajyotsava, national holidays India, Karnataka cultural events, Karnataka calendar, holidays Karnataka, festival dates 2025">
+    <title>Karnataka Holidays 2026 | Complete Calendar | Karnataka Festivals | National Holidays</title>
+    <meta name="description" content="Complete Karnataka Holiday Calendar 2026. Find all Karnataka festivals, national holidays, cultural events, and religious celebrations. Plan your year with our comprehensive holiday guide.">
+    <meta name="keywords" content="Karnataka holidays 2026, Karnataka festivals, Ugadi, Karnataka Rajyotsava, national holidays India, Karnataka cultural events, Karnataka calendar, holidays Karnataka, festival dates 2026">
     <meta name="author" content="Karnataka Holiday Calendar">
     <meta name="robots" content="index, follow">
-    <meta property="og:title" content="Karnataka Holidays 2025 - Complete Calendar">
-    <meta property="og:description" content="Complete Karnataka Holiday Calendar 2025 with all festivals, national holidays, and cultural events. Plan your year with our comprehensive guide.">
+    <meta property="og:title" content="Karnataka Holidays 2026 - Complete Calendar">
+    <meta property="og:description" content="Complete Karnataka Holiday Calendar 2026 with all festivals, national holidays, and cultural events. Plan your year with our comprehensive guide.">
     <meta property="og:type" content="website">
     <meta property="og:url" content="<?php echo 'https://' . $_SERVER['HTTP_HOST'] . $_SERVER['REQUEST_URI']; ?>">
-    <meta property="og:image" content="https://via.placeholder.com/1200x630/1976D2/FFFFFF?text=Karnataka+Holidays+2025">
+    <meta property="og:image" content="https://via.placeholder.com/1200x630/1976D2/FFFFFF?text=Karnataka+Holidays+2026">
     <meta name="twitter:card" content="summary_large_image">
-    <meta name="twitter:title" content="Karnataka Holidays 2025">
-    <meta name="twitter:description" content="Complete Karnataka Holiday Calendar 2025 with all festivals and holidays.">
+    <meta name="twitter:title" content="Karnataka Holidays 2026">
+    <meta name="twitter:description" content="Complete Karnataka Holiday Calendar 2026 with all festivals and holidays.">
     <link rel="canonical" href="<?php echo 'https://' . $_SERVER['HTTP_HOST'] . $_SERVER['REQUEST_URI']; ?>">
     <meta name="language" content="English, Kannada">
     <meta name="geo.region" content="IN-KA">
@@ -26,14 +26,14 @@
     {
         "@context": "https://schema.org",
         "@type": "WebPage",
-        "name": "Karnataka Holidays 2025",
-        "description": "Complete Karnataka Holiday Calendar 2025 with all festivals, national holidays, and cultural events",
+        "name": "Karnataka Holidays 2026",
+        "description": "Complete Karnataka Holiday Calendar 2026 with all festivals, national holidays, and cultural events",
         "url": "<?php echo 'https://' . $_SERVER['HTTP_HOST'] . $_SERVER['REQUEST_URI']; ?>",
         "publisher": {
             "@type": "Organization",
             "name": "Karnataka Holiday Calendar"
         },
-        "datePublished": "2025-01-01",
+        "datePublished": "2026-01-01",
         "dateModified": "<?php echo date('Y-m-d'); ?>"
     }
     </script>
@@ -44,7 +44,7 @@
     "mainEntity": [
         {
             "@type": "Question",
-            "name": "What are the major public holidays in Karnataka in 2025?",
+            "name": "What are the major public holidays in Karnataka in 2026?",
             "acceptedAnswer": {
                 "@type": "Answer",
                 "text": "Major holidays include Ugadi, Makara Sankranti, Karnataka Rajyotsava, Deepavali, Independence Day, Republic Day, and Gandhi Jayanti."
@@ -60,10 +60,10 @@
         },
         {
             "@type": "Question",
-            "name": "When is Karnataka Rajyotsava in 2025?",
+            "name": "When is Karnataka Rajyotsava in 2026?",
             "acceptedAnswer": {
                 "@type": "Answer",
-                "text": "Karnataka Rajyotsava is on November 1, 2025."
+                "text": "Karnataka Rajyotsava is on November 1, 2026."
             }
         },
         {
@@ -105,65 +105,65 @@
 </head>
 <body class="bg-gradient-to-br from-blue-50 to-indigo-100 min-h-screen">
     <?php
-    // Karnataka Holidays 2025 Data
-    $holidays_2025 = [
-        '2025-01-01' => [
+    // Karnataka Holidays 2026 Data
+    $holidays_2026 = [
+        '2026-01-01' => [
             'name' => 'New Year\'s Day',
             'type' => 'National Holiday',
             'description' => 'Celebration of the new year',
             'icon' => 'fa-calendar-day',
             'bank_holiday' => true
         ],
-        '2025-01-14' => [
+        '2026-01-14' => [
             'name' => 'Makara Sankranti',
             'type' => 'Karnataka Festival',
             'description' => 'Harvest festival celebrated in Karnataka',
             'icon' => 'fa-sun',
             'bank_holiday' => true
         ],
-        '2025-03-29' => [
+        '2026-03-29' => [
             'name' => 'Ugadi',
             'type' => 'Karnataka Festival',
             'description' => 'Kannada New Year festival',
             'icon' => 'fa-calendar-plus',
             'bank_holiday' => true
         ],
-        '2025-04-14' => [
+        '2026-04-14' => [
             'name' => 'Dr. Ambedkar Jayanti',
             'type' => 'National Holiday',
             'description' => 'Birth anniversary of Dr. B.R. Ambedkar',
             'icon' => 'fa-user-graduate',
             'bank_holiday' => true
         ],
-        '2025-05-01' => [
+        '2026-05-01' => [
             'name' => 'Labour Day',
             'type' => 'International',
             'description' => 'International Workers\' Day',
             'icon' => 'fa-hard-hat',
             'bank_holiday' => true
         ],
-        '2025-08-15' => [
+        '2026-08-15' => [
             'name' => 'Independence Day',
             'type' => 'National Holiday',
             'description' => 'Indian Independence Day',
             'icon' => 'fa-dove',
             'bank_holiday' => true
         ],
-        '2025-10-02' => [
+        '2026-10-02' => [
             'name' => 'Gandhi Jayanti',
             'type' => 'National Holiday',
             'description' => 'Birth anniversary of Mahatma Gandhi',
             'icon' => 'fa-peace',
             'bank_holiday' => true
         ],
-        '2025-11-01' => [
+        '2026-11-01' => [
             'name' => 'Karnataka Rajyotsava',
             'type' => 'Karnataka Festival',
             'description' => 'Formation Day of Karnataka State',
             'icon' => 'fa-flag',
             'bank_holiday' => true
         ],
-        '2025-12-25' => [
+        '2026-12-25' => [
             'name' => 'Christmas',
             'type' => 'Religious',
             'description' => 'Celebration of Jesus Christ\'s birth',
@@ -172,65 +172,65 @@
         ]
     ];
 
-    // Bank Holidays 2025 - Additional holidays specific to banks
-    $bank_holidays_2025 = [
-        '2025-03-14' => [
+    // Bank Holidays 2026 - Additional holidays specific to banks
+    $bank_holidays_2026 = [
+        '2026-03-14' => [
             'name' => 'Mahashivratri',
             'type' => 'Bank Holiday',
             'description' => 'Festival dedicated to Lord Shiva',
             'icon' => 'fa-university',
             'bank_holiday' => true
         ],
-        '2025-04-18' => [
+        '2026-04-18' => [
             'name' => 'Good Friday',
             'type' => 'Bank Holiday',
             'description' => 'Christian religious holiday - Banks closed',
             'icon' => 'fa-university',
             'bank_holiday' => true
         ],
-        '2025-07-07' => [
+        '2026-07-07' => [
             'name' => 'Bakrid/Eid al-Adha',
             'type' => 'Bank Holiday',
             'description' => 'Islamic festival - Banks closed',
             'icon' => 'fa-university',
             'bank_holiday' => true
         ],
-        '2025-08-08' => [
+        '2026-08-08' => [
             'name' => 'Varamahalakshmi Vrata',
             'type' => 'Bank Holiday',
             'description' => 'Festival for Goddess Lakshmi',
             'icon' => 'fa-university',
             'bank_holiday' => true
         ],
-        '2025-09-06' => [
+        '2026-09-06' => [
             'name' => 'Ganesh Chaturthi',
             'type' => 'Bank Holiday',
             'description' => 'Birth anniversary of Lord Ganesha',
             'icon' => 'fa-university',
             'bank_holiday' => true
         ],
-        '2025-10-02' => [
+        '2026-10-02' => [
             'name' => 'Gandhi Jayanti',
             'type' => 'Bank Holiday',
             'description' => 'Birth anniversary of Mahatma Gandhi',
             'icon' => 'fa-university',
             'bank_holiday' => true
         ],
-        '2025-10-03' => [
+        '2026-10-03' => [
             'name' => 'Maha Navami',
             'type' => 'Bank Holiday',
             'description' => 'Ninth day of Navratri - Banks closed',
             'icon' => 'fa-university',
             'bank_holiday' => true
         ],
-        '2025-10-04' => [
+        '2026-10-04' => [
             'name' => 'Vijaya Dashami/Dussehra',
             'type' => 'Bank Holiday',
             'description' => 'Tenth day of Navratri - Banks closed',
             'icon' => 'fa-university',
             'bank_holiday' => true
         ],
-        '2025-10-21' => [
+        '2026-10-21' => [
             'name' => 'Deepavali',
             'type' => 'Bank Holiday',
             'description' => 'Festival of lights - Banks closed',
@@ -240,11 +240,11 @@
     ];
 
     // Merge all holidays
-    $all_holidays_2025 = array_merge($holidays_2025, $bank_holidays_2025);
+    $all_holidays_2026 = array_merge($holidays_2026, $bank_holidays_2026);
 
     // Get current month and year
     $current_month = isset($_GET['month']) ? (int)$_GET['month'] : (int)date('n');
-    $current_year = isset($_GET['year']) ? (int)$_GET['year'] : 2025;
+    $current_year = isset($_GET['year']) ? (int)$_GET['year'] : 2026;
     
     // Month names
     $month_names = [
@@ -286,8 +286,8 @@
         </div>
         <div class="container mx-auto px-4 py-6 relative z-10">
             <div class="flex items-center justify-between">
-                <h1 class="text-3xl font-bold tracking-tight">Karnataka Holidays 2025 <span class="text-ka-yellow text-xl font-normal ml-2">ಕರ್ನಾಟಕ ರಜೆಗಳು</span></h1>
-                <span class="text-lg"><i class="fa fa-calendar-alt mr-2"></i>2025</span>
+                <h1 class="text-3xl font-bold tracking-tight">Karnataka Holidays 2026 <span class="text-ka-yellow text-xl font-normal ml-2">ಕರ್ನಾಟಕ ರಜೆಗಳು</span></h1>
+                <span class="text-lg"><i class="fa fa-calendar-alt mr-2"></i>2026</span>
             </div>
             <div class="flex justify-center mt-6 space-x-8 opacity-60">
                 <i class="fa fa-flag fa-2x"></i>
@@ -304,13 +304,13 @@
         <nav class="mb-6 text-sm text-gray-600" aria-label="Breadcrumb">
             <a href="/Live Pages/thiyagi/" class="hover:underline">Home</a> /
             <a href="/Live Pages/thiyagi/holiday/indian-holiday/" class="hover:underline">Indian Holidays</a> /
-            <span class="font-semibold">Karnataka Holidays 2025</span>
+            <span class="font-semibold">Karnataka Holidays 2026</span>
         </nav>
 
         <section class="mb-8 bg-gradient-to-r from-blue-50 to-indigo-50 rounded-lg p-6 border-l-4 border-ka-blue">
-            <h2 class="text-2xl font-semibold mb-2">Karnataka Holiday Calendar 2025</h2>
+            <h2 class="text-2xl font-semibold mb-2">Karnataka Holiday Calendar 2026</h2>
             <p>
-                Discover all public, bank, and festival holidays in Karnataka for 2025. This calendar includes major Kannada festivals like Ugadi, Karnataka Rajyotsava, Varamahalakshmi Vrata, and national holidays. Plan your year with our comprehensive list of holidays and cultural events.
+                Discover all public, bank, and festival holidays in Karnataka for 2026. This calendar includes major Kannada festivals like Ugadi, Karnataka Rajyotsava, Varamahalakshmi Vrata, and national holidays. Plan your year with our comprehensive list of holidays and cultural events.
             </p>
         </section>
 
@@ -349,11 +349,11 @@
                             if (!$started && $j == $first_day_of_week) $started = true;
                             if ($started && $day <= $days_in_month) {
                                 $date_str = sprintf('%04d-%02d-%02d', $current_year, $current_month, $day);
-                                $is_holiday = isset($all_holidays_2025[$date_str]);
+                                $is_holiday = isset($all_holidays_2026[$date_str]);
                                 echo '<td class="py-2 px-1 '.($is_holiday ? 'bg-ka-yellow font-bold text-ka-blue rounded shadow' : '').'">';
                                 echo $day;
                                 if ($is_holiday) {
-                                    echo '<br><i class="fa '.$all_holidays_2025[$date_str]['icon'].'"></i>';
+                                    echo '<br><i class="fa '.$all_holidays_2026[$date_str]['icon'].'"></i>';
                                 }
                                 echo '</td>';
                                 $day++;
@@ -371,7 +371,7 @@
 
         <div class="mt-8 grid md:grid-cols-2 gap-6">
             <?php
-            foreach ($holidays_2025 as $date => $holiday) {
+            foreach ($holidays_2026 as $date => $holiday) {
                 echo '<div class="bg-white rounded-lg shadow-md p-4 flex items-center border-l-4 '.($holiday['bank_holiday'] ? 'border-ka-green' : 'border-ka-blue').'">';
                 echo '<div class="mr-4 text-2xl text-ka-blue"><i class="fa '.$holiday['icon'].'"></i></div>';
                 echo '<div>';
@@ -385,10 +385,10 @@
         </div>
 
         <div class="mt-8 bg-white rounded-lg shadow-lg p-6 border-l-4 border-ka-blue">
-            <h3 class="text-xl font-semibold mb-4">Karnataka Bank Holidays 2025</h3>
+            <h3 class="text-xl font-semibold mb-4">Karnataka Bank Holidays 2026</h3>
             <ul class="space-y-2">
                 <?php
-                foreach ($bank_holidays_2025 as $date => $holiday) {
+                foreach ($bank_holidays_2026 as $date => $holiday) {
                     echo '<li class="flex items-center">';
                     echo '<span class="mr-3 text-ka-blue"><i class="fa '.$holiday['icon'].'"></i></span>';
                     echo '<span class="font-semibold">'.$holiday['name'].'</span>';
@@ -406,14 +406,14 @@
             <button onclick="window.print()" class="bg-ka-blue text-white px-4 py-2 rounded hover:bg-ka-yellow hover:text-ka-blue transition"><i class="fa fa-print mr-2"></i>Print Calendar</button>
             <button onclick="downloadCalendar()" class="bg-ka-green text-white px-4 py-2 rounded hover:bg-ka-yellow hover:text-ka-green transition"><i class="fa fa-download mr-2"></i>Download</button>
             <button onclick="shareCalendar()" class="bg-ka-red text-white px-4 py-2 rounded hover:bg-ka-yellow hover:text-ka-red transition"><i class="fa fa-share-alt mr-2"></i>Share</button>
-            <button onclick="window.location.href='?month=<?php echo date('n'); ?>&year=2025'" class="bg-ka-yellow text-ka-blue px-4 py-2 rounded hover:bg-ka-blue hover:text-white transition"><i class="fa fa-sync mr-2"></i>Current Month</button>
+            <button onclick="window.location.href='?month=<?php echo date('n'); ?>&year=2026'" class="bg-ka-yellow text-ka-blue px-4 py-2 rounded hover:bg-ka-blue hover:text-white transition"><i class="fa fa-sync mr-2"></i>Current Month</button>
         </div>
 
         <section class="mt-12 bg-white rounded-lg shadow-lg p-8 border-l-4 border-ka-green">
-            <h3 class="text-xl font-semibold mb-4">Frequently Asked Questions (FAQ) - Karnataka Holidays 2025</h3>
+            <h3 class="text-xl font-semibold mb-4">Frequently Asked Questions (FAQ) - Karnataka Holidays 2026</h3>
             <div class="space-y-4">
                 <div>
-                    <div class="font-semibold">Q: What are the major public holidays in Karnataka in 2025?</div>
+                    <div class="font-semibold">Q: What are the major public holidays in Karnataka in 2026?</div>
                     <div class="text-gray-700">A: Major holidays include Ugadi, Makara Sankranti, Karnataka Rajyotsava, Deepavali, Independence Day, Republic Day, and Gandhi Jayanti.</div>
                 </div>
                 <div>
@@ -421,8 +421,8 @@
                     <div class="text-gray-700">A: Not all festivals are bank holidays. Only select festivals and national holidays are observed as bank holidays.</div>
                 </div>
                 <div>
-                    <div class="font-semibold">Q: When is Karnataka Rajyotsava in 2025?</div>
-                    <div class="text-gray-700">A: Karnataka Rajyotsava is on November 1, 2025.</div>
+                    <div class="font-semibold">Q: When is Karnataka Rajyotsava in 2026?</div>
+                    <div class="text-gray-700">A: Karnataka Rajyotsava is on November 1, 2026.</div>
                 </div>
                 <div>
                     <div class="font-semibold">Q: How can I download the Karnataka holiday calendar?</div>
@@ -438,7 +438,7 @@
 
     
     <script>
-        const holidaysData = <?php echo json_encode($all_holidays_2025); ?>;
+        const holidaysData = <?php echo json_encode($all_holidays_2026); ?>;
 
         function searchHolidays() {
             const query = document.getElementById('holidaySearch').value.toLowerCase();
@@ -491,7 +491,7 @@
         function shareCalendar() {
             if (navigator.share) {
                 navigator.share({
-                    title: 'Karnataka Holidays 2025',
+                    title: 'Karnataka Holidays 2026',
                     url: window.location.href
                 });
             } else {

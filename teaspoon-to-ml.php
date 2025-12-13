@@ -1,12 +1,12 @@
 <?php include 'header.php';?>
-<title>Teaspoon to ML Converter 2025 | Convert teaspoon to milliliter | Free Tool</title>
-<meta name="description" content="Convert teaspoon to milliliter instantly with our 2025 accurate converter. Perfect tsp to ml conversion with real-time calculations for cooking and baking measurement.">
-<meta name="keywords" content="teaspoon to ml 2025, tsp milliliter converter, cooking conversion 2025, recipe measurement calculator, baking conversion tool">
+<title>Teaspoon to ML Converter 2026 | Convert teaspoon to milliliter | Free Tool</title>
+<meta name="description" content="Convert teaspoon to milliliter instantly with our 2026 accurate converter. Perfect tsp to ml conversion with real-time calculations for cooking and baking measurement.">
+<meta name="keywords" content="teaspoon to ml 2026, tsp milliliter converter, cooking conversion 2026, recipe measurement calculator, baking conversion tool">
 <link rel="canonical" href="https://www.thiyagi.com/teaspoon-to-ml">
 
 <!-- Open Graph Meta Tags -->
-<meta property="og:title" content="Teaspoon to ML Converter 2025 | Convert teaspoon to milliliter | Free Tool">
-<meta property="og:description" content="Convert teaspoon to milliliter instantly with our 2025 accurate converter. Perfect tsp to ml conversion with real-time calculations for cooking and baking measurement.">
+<meta property="og:title" content="Teaspoon to ML Converter 2026 | Convert teaspoon to milliliter | Free Tool">
+<meta property="og:description" content="Convert teaspoon to milliliter instantly with our 2026 accurate converter. Perfect tsp to ml conversion with real-time calculations for cooking and baking measurement.">
 <meta property="og:url" content="https://www.thiyagi.com/teaspoon-to-ml">
 <meta property="og:type" content="website">
 <meta property="og:image" content="https://www.thiyagi.com/nt.png">
@@ -14,8 +14,8 @@
 
 <!-- Twitter Card Meta Tags -->
 <meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:title" content="Teaspoon to ML Converter 2025 | Convert teaspoon to milliliter | Free Tool">
-<meta name="twitter:description" content="Convert teaspoon to milliliter instantly with our 2025 accurate converter. Perfect tsp to ml conversion with real-time calculations for cooking and baking measurement.">
+<meta name="twitter:title" content="Teaspoon to ML Converter 2026 | Convert teaspoon to milliliter | Free Tool">
+<meta name="twitter:description" content="Convert teaspoon to milliliter instantly with our 2026 accurate converter. Perfect tsp to ml conversion with real-time calculations for cooking and baking measurement.">
 <meta name="twitter:image" content="https://www.thiyagi.com/nt.png">
 
 <!-- Additional SEO Meta Tags -->
@@ -39,7 +39,7 @@
           Teaspoon to Milliliter Converter
         </h1>
         <p class="text-xl text-gray-600 mb-8 max-w-3xl mx-auto">
-          Convert teaspoons to milliliters instantly with our accurate 2025 calculator. 
+          Convert teaspoons to milliliters instantly with our accurate 2026 calculator. 
           Perfect for cooking, baking, and precise recipe measurements.
         </p>
       </div>
@@ -176,16 +176,16 @@
     <article class="bg-white rounded-xl shadow-lg p-8">
       <h2 class="text-2xl font-bold text-gray-800 mb-6 flex items-center gap-3">
         <i class="fas fa-info-circle text-indigo-600" aria-hidden="true"></i>
-        Teaspoon to Milliliter Conversion 2025
+        Teaspoon to Milliliter Conversion 2026
       </h2>
       <div class="prose max-w-none text-gray-600">
         <p class="mb-4">
-          Converting teaspoons to milliliters is essential for cooking, baking, and international recipe adaptation in 2025. 
+          Converting teaspoons to milliliters is essential for cooking, baking, and international recipe adaptation in 2026. 
           This conversion between imperial and metric small volume measurements enables accurate communication between professionals 
           working in different measurement systems, from international recipe sharing to professional kitchen operations.
         </p>
         <p class="mb-6">
-          Our 2025 converter provides instant and precise conversions from teaspoons to milliliters, essential for chefs, 
+          Our 2026 converter provides instant and precise conversions from teaspoons to milliliters, essential for chefs, 
           home cooks, bakers, and anyone working with recipe specifications. 
           1 US teaspoon equals approximately 4.929 milliliters, while 1 metric teaspoon equals exactly 5 milliliters.
         </p>

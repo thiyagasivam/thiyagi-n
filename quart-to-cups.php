@@ -4,9 +4,9 @@ include 'header.php';
 $header_content = ob_get_clean();
 
 // Insert title and meta tags into the head section
-$title = 'Quart to Cups Converter 2025 | Volume Conversion Tool | Free Calculator';
-$description = 'Convert quarts to cups instantly with our 2025 accurate volume converter. Perfect for cooking, baking, and recipe measurements.';
-$keywords = 'quart to cups converter 2025, volume conversion calculator, quart cup converter, cooking measurements, recipe calculator';
+$title = 'Quart to Cups Converter 2026 | Volume Conversion Tool | Free Calculator';
+$description = 'Convert quarts to cups instantly with our 2026 accurate volume converter. Perfect for cooking, baking, and recipe measurements.';
+$keywords = 'quart to cups converter 2026, volume conversion calculator, quart cup converter, cooking measurements, recipe calculator';
 $canonical = 'https://www.thiyagi.com/quart-to-cups';
 
 $meta_tags = '<title>' . htmlspecialchars($title) . '</title>' . "\n";

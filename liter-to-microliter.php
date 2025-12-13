@@ -1,19 +1,19 @@
 <?php include 'header.php'; ?>
 
 <!-- SEO Meta Tags -->
-<title>Liter to Microliter Converter 2025 - Volume Calculator | Thiyagi</title>
-<meta name="description" content="Free online liter to microliter converter 2025. Convert L to μL instantly with accurate volume conversion for laboratory and medical use.">
-<meta name="keywords" content="liter to microliter converter 2025, L to μL, volume converter, laboratory calculator, medical converter">
+<title>Liter to Microliter Converter 2026 - Volume Calculator | Thiyagi</title>
+<meta name="description" content="Free online liter to microliter converter 2026. Convert L to μL instantly with accurate volume conversion for laboratory and medical use.">
+<meta name="keywords" content="liter to microliter converter 2026, L to μL, volume converter, laboratory calculator, medical converter">
 <meta name="author" content="Thiyagi">
-<meta property="og:title" content="Liter to Microliter Converter 2025 - Volume Calculator">
-<meta property="og:description" content="Free online liter to microliter converter 2025. Convert L to μL instantly with accurate volume conversion.">
+<meta property="og:title" content="Liter to Microliter Converter 2026 - Volume Calculator">
+<meta property="og:description" content="Free online liter to microliter converter 2026. Convert L to μL instantly with accurate volume conversion.">
 <meta property="og:type" content="website">
 <meta property="og:url" content="https://www.thiyagi.com/liter-to-microliter.php">
 <meta property="og:image" content="https://www.thiyagi.com/nt.png">
 <meta property="og:site_name" content="Thiyagi">
 <meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:title" content="Liter to Microliter Converter 2025 - Volume Calculator">
-<meta name="twitter:description" content="Free online liter to microliter converter 2025. Convert L to μL instantly.">
+<meta name="twitter:title" content="Liter to Microliter Converter 2026 - Volume Calculator">
+<meta name="twitter:description" content="Free online liter to microliter converter 2026. Convert L to μL instantly.">
 <meta name="twitter:image" content="https://www.thiyagi.com/nt.png">
 
 <div class="min-h-screen bg-gradient-to-br from-purple-50 via-violet-50 to-indigo-50 py-12">

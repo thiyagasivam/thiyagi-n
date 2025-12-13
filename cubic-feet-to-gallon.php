@@ -1,19 +1,19 @@
 <?php include 'header.php'; ?>
 
 <!-- SEO Meta Tags -->
-<title>Cubic Feet to Gallon Converter 2025 - Volume Calculator | Thiyagi</title>
-<meta name="description" content="Free online cubic feet to gallon converter 2025. Convert cubic feet to gallons instantly with accurate volume conversion. Perfect for storage and tank calculations.">
-<meta name="keywords" content="cubic feet to gallon converter 2025, cubic feet to gallons, volume converter, storage calculator, tank capacity, water volume">
+<title>Cubic Feet to Gallon Converter 2026 - Volume Calculator | Thiyagi</title>
+<meta name="description" content="Free online cubic feet to gallon converter 2026. Convert cubic feet to gallons instantly with accurate volume conversion. Perfect for storage and tank calculations.">
+<meta name="keywords" content="cubic feet to gallon converter 2026, cubic feet to gallons, volume converter, storage calculator, tank capacity, water volume">
 <meta name="author" content="Thiyagi">
-<meta property="og:title" content="Cubic Feet to Gallon Converter 2025 - Volume Calculator">
-<meta property="og:description" content="Free online cubic feet to gallon converter 2025. Convert cubic feet to gallons instantly with accurate volume conversion.">
+<meta property="og:title" content="Cubic Feet to Gallon Converter 2026 - Volume Calculator">
+<meta property="og:description" content="Free online cubic feet to gallon converter 2026. Convert cubic feet to gallons instantly with accurate volume conversion.">
 <meta property="og:type" content="website">
 <meta property="og:url" content="https://www.thiyagi.com/cubic-feet-to-gallon.php">
 <meta property="og:image" content="https://www.thiyagi.com/nt.png">
 <meta property="og:site_name" content="Thiyagi">
 <meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:title" content="Cubic Feet to Gallon Converter 2025 - Volume Calculator">
-<meta name="twitter:description" content="Free online cubic feet to gallon converter 2025. Convert cubic feet to gallons instantly with accurate volume conversion.">
+<meta name="twitter:title" content="Cubic Feet to Gallon Converter 2026 - Volume Calculator">
+<meta name="twitter:description" content="Free online cubic feet to gallon converter 2026. Convert cubic feet to gallons instantly with accurate volume conversion.">
 <meta name="twitter:image" content="https://www.thiyagi.com/nt.png">
 
 <div class="min-h-screen bg-gradient-to-br from-blue-50 via-cyan-50 to-teal-50 py-12">

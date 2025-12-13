@@ -1,12 +1,12 @@
 <?php include 'header.php';?>
-<title>Mile to Kilometer Converter 2025 | Mile to KM | Free Tool</title>
-<meta name="description" content="Convert mile to kilometer instantly with our 2025 accurate converter. Perfect mile to km conversion with real-time calculations for travel and distance.">
-<meta name="keywords" content="mile to kilometer 2025, mile km converter, imperial metric distance conversion 2025, travel measurement calculator, distance conversion">
+<title>Mile to Kilometer Converter 2026 | Mile to KM | Free Tool</title>
+<meta name="description" content="Convert mile to kilometer instantly with our 2026 accurate converter. Perfect mile to km conversion with real-time calculations for travel and distance.">
+<meta name="keywords" content="mile to kilometer 2026, mile km converter, imperial metric distance conversion 2026, travel measurement calculator, distance conversion">
 <link rel="canonical" href="https://www.thiyagi.com/mile-to-km">
 
 <!-- Open Graph Meta Tags -->
-<meta property="og:title" content="Mile to Kilometer Converter 2025 | Mile to KM | Free Tool">
-<meta property="og:description" content="Convert mile to kilometer instantly with our 2025 accurate converter. Perfect mile to km conversion with real-time calculations for travel and distance.">
+<meta property="og:title" content="Mile to Kilometer Converter 2026 | Mile to KM | Free Tool">
+<meta property="og:description" content="Convert mile to kilometer instantly with our 2026 accurate converter. Perfect mile to km conversion with real-time calculations for travel and distance.">
 <meta property="og:url" content="https://www.thiyagi.com/mile-to-km">
 <meta property="og:type" content="website">
 <meta property="og:image" content="https://www.thiyagi.com/nt.png">
@@ -14,8 +14,8 @@
 
 <!-- Twitter Card Meta Tags -->
 <meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:title" content="Mile to Kilometer Converter 2025 | Mile to KM | Free Tool">
-<meta name="twitter:description" content="Convert mile to kilometer instantly with our 2025 accurate converter. Perfect mile to km conversion with real-time calculations for travel and distance.">
+<meta name="twitter:title" content="Mile to Kilometer Converter 2026 | Mile to KM | Free Tool">
+<meta name="twitter:description" content="Convert mile to kilometer instantly with our 2026 accurate converter. Perfect mile to km conversion with real-time calculations for travel and distance.">
 <meta name="twitter:image" content="https://www.thiyagi.com/nt.png">
 
 <!-- Additional SEO Meta Tags -->
@@ -39,7 +39,7 @@
           Mile to Kilometer Converter
         </h1>
         <p class="text-xl text-gray-600 mb-8 max-w-3xl mx-auto">
-          Convert miles to kilometers instantly with our accurate 2025 calculator. 
+          Convert miles to kilometers instantly with our accurate 2026 calculator. 
           Perfect for travel planning, running distances, and international navigation.
         </p>
       </div>
@@ -157,16 +157,16 @@
     <article class="bg-white rounded-xl shadow-lg p-8">
       <h2 class="text-2xl font-bold text-gray-800 mb-6 flex items-center gap-3">
         <i class="fas fa-info-circle text-blue-600" aria-hidden="true"></i>
-        Mile to Kilometer Conversion 2025
+        Mile to Kilometer Conversion 2026
       </h2>
       <div class="prose max-w-none text-gray-600">
         <p class="mb-4">
-          Converting miles to kilometers is essential for travel planning, running, and international navigation in 2025. 
+          Converting miles to kilometers is essential for travel planning, running, and international navigation in 2026. 
           This imperial to metric distance conversion enables accurate communication between travelers, athletes, 
           and professionals working with both measurement systems across different regions.
         </p>
         <p class="mb-6">
-          Our 2025 converter provides instant and accurate conversions from miles to kilometers, essential for travelers, 
+          Our 2026 converter provides instant and accurate conversions from miles to kilometers, essential for travelers, 
           runners, pilots, and navigation professionals working with international distances. 
           One mile equals approximately 1.6093 kilometers.
         </p>

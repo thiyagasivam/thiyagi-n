@@ -1,19 +1,19 @@
 <?php include 'header.php'; ?>
 
 <!-- SEO Meta Tags -->
-<title>Tonne to Pound Converter 2025 - Weight Calculator | Thiyagi</title>
-<meta name="description" content="Free online tonne to pound converter 2025. Convert metric tonnes to pounds instantly with accurate weight conversion for shipping and logistics.">
-<meta name="keywords" content="tonne to pound converter 2025, tonne to lb, weight converter, metric converter, shipping calculator">
+<title>Tonne to Pound Converter 2026 - Weight Calculator | Thiyagi</title>
+<meta name="description" content="Free online tonne to pound converter 2026. Convert metric tonnes to pounds instantly with accurate weight conversion for shipping and logistics.">
+<meta name="keywords" content="tonne to pound converter 2026, tonne to lb, weight converter, metric converter, shipping calculator">
 <meta name="author" content="Thiyagi">
-<meta property="og:title" content="Tonne to Pound Converter 2025 - Weight Calculator">
-<meta property="og:description" content="Free online tonne to pound converter 2025. Convert metric tonnes to pounds instantly with accurate weight conversion.">
+<meta property="og:title" content="Tonne to Pound Converter 2026 - Weight Calculator">
+<meta property="og:description" content="Free online tonne to pound converter 2026. Convert metric tonnes to pounds instantly with accurate weight conversion.">
 <meta property="og:type" content="website">
 <meta property="og:url" content="https://www.thiyagi.com/tonne-to-pound.php">
 <meta property="og:image" content="https://www.thiyagi.com/nt.png">
 <meta property="og:site_name" content="Thiyagi">
 <meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:title" content="Tonne to Pound Converter 2025 - Weight Calculator">
-<meta name="twitter:description" content="Free online tonne to pound converter 2025. Convert metric tonnes to pounds instantly.">
+<meta name="twitter:title" content="Tonne to Pound Converter 2026 - Weight Calculator">
+<meta name="twitter:description" content="Free online tonne to pound converter 2026. Convert metric tonnes to pounds instantly.">
 <meta name="twitter:image" content="https://www.thiyagi.com/nt.png">
 
 <div class="min-h-screen bg-gradient-to-br from-green-50 via-emerald-50 to-teal-50 py-12">

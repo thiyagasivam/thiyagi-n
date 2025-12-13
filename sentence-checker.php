@@ -39,7 +39,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Free Sentence  Checker (2025) - Grammar, Spelling & Punctuation Corrector</title>
+    <title>Free Sentence  Checker (2026) - Grammar, Spelling & Punctuation Corrector</title>
 <meta name="description" content="Instantly check and improve your sentences for grammar errors, spelling mistakes, and punctuation. Enhance your writing for emails, essays, and content with AI-powered suggestions.">
     <!-- Add Tailwind CSS CDN -->
     <script src="https://cdn.tailwindcss.com"></script>

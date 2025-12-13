@@ -1,12 +1,12 @@
 <?php include 'header.php';?>
-<title>MPH to KPH Converter 2025 | mph to km/h | Free Speed Tool</title>
-<meta name="description" content="Convert miles per hour to kilometers per hour instantly with our 2025 accurate converter. Perfect mph to kph conversion for automotive and speed calculations.">
-<meta name="keywords" content="mph to kph converter 2025, mph to km/h converter, miles per hour kilometers per hour conversion, speed converter 2025, automotive calculator, driving tools, velocity conversion, speedometer converter, road speed calculator">
+<title>MPH to KPH Converter 2026 | mph to km/h | Free Speed Tool</title>
+<meta name="description" content="Convert miles per hour to kilometers per hour instantly with our 2026 accurate converter. Perfect mph to kph conversion for automotive and speed calculations.">
+<meta name="keywords" content="mph to kph converter 2026, mph to km/h converter, miles per hour kilometers per hour conversion, speed converter 2026, automotive calculator, driving tools, velocity conversion, speedometer converter, road speed calculator">
 <link rel="canonical" href="https://www.thiyagi.com/mph-to-kph">
 
 <!-- Open Graph Meta Tags -->
-<meta property="og:title" content="MPH to KPH Converter 2025 | mph to km/h | Free Speed Tool">
-<meta property="og:description" content="Convert miles per hour to kilometers per hour instantly with our 2025 accurate converter. Perfect mph to kph conversion for automotive and speed calculations.">
+<meta property="og:title" content="MPH to KPH Converter 2026 | mph to km/h | Free Speed Tool">
+<meta property="og:description" content="Convert miles per hour to kilometers per hour instantly with our 2026 accurate converter. Perfect mph to kph conversion for automotive and speed calculations.">
 <meta property="og:url" content="https://www.thiyagi.com/mph-to-kph">
 <meta property="og:type" content="website">
 <meta property="og:image" content="https://www.thiyagi.com/nt.png">
@@ -14,8 +14,8 @@
 
 <!-- Twitter Card Meta Tags -->
 <meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:title" content="MPH to KPH Converter 2025 | mph to km/h | Free Speed Tool">
-<meta name="twitter:description" content="Convert miles per hour to kilometers per hour instantly with our 2025 accurate converter. Perfect mph to kph conversion for automotive and speed calculations.">
+<meta name="twitter:title" content="MPH to KPH Converter 2026 | mph to km/h | Free Speed Tool">
+<meta name="twitter:description" content="Convert miles per hour to kilometers per hour instantly with our 2026 accurate converter. Perfect mph to kph conversion for automotive and speed calculations.">
 <meta name="twitter:image" content="https://www.thiyagi.com/nt.png">
 
 <!-- Additional SEO Meta Tags -->
@@ -47,7 +47,7 @@
   "@context": "https://schema.org",
   "@type": "WebApplication",
   "name": "MPH to KPH Converter",
-  "description": "Convert miles per hour to kilometers per hour instantly with our accurate 2025 calculator. Perfect mph to kph conversion for automotive and speed calculations.",
+  "description": "Convert miles per hour to kilometers per hour instantly with our accurate 2026 calculator. Perfect mph to kph conversion for automotive and speed calculations.",
   "url": "https://www.thiyagi.com/mph-to-kph",
   "applicationCategory": "UtilityApplication",
   "operatingSystem": "Web Browser",
@@ -189,7 +189,7 @@
           MPH to KPH Converter
         </h1>
         <p class="text-xl text-gray-600 mb-8 max-w-3xl mx-auto">
-          Convert miles per hour to kilometers per hour instantly with our accurate 2025 calculator. 
+          Convert miles per hour to kilometers per hour instantly with our accurate 2026 calculator. 
           Perfect for automotive applications, speedometer readings, and international driving.
         </p>
       </div>

@@ -1,19 +1,19 @@
 <?php include 'header.php'; ?>
 
 <!-- SEO Meta Tags -->
-<title>Fluid Ounce US to Teaspoon US Converter 2025 - fl oz to tsp Calculator | Thiyagi</title>
-<meta name="description" content="Free online Fluid Ounce US to Teaspoon US converter 2025. Convert fl oz to tsp and tsp to fl oz instantly with accurate cooking measurement conversion.">
-<meta name="keywords" content="fluid ounce to teaspoon converter 2025, fl oz to tsp, cooking converter, recipe measurement, baking conversion, kitchen calculator">
+<title>Fluid Ounce US to Teaspoon US Converter 2026 - fl oz to tsp Calculator | Thiyagi</title>
+<meta name="description" content="Free online Fluid Ounce US to Teaspoon US converter 2026. Convert fl oz to tsp and tsp to fl oz instantly with accurate cooking measurement conversion.">
+<meta name="keywords" content="fluid ounce to teaspoon converter 2026, fl oz to tsp, cooking converter, recipe measurement, baking conversion, kitchen calculator">
 <meta name="author" content="Thiyagi">
-<meta property="og:title" content="Fluid Ounce US to Teaspoon US Converter 2025 - fl oz to tsp Calculator">
-<meta property="og:description" content="Free online Fluid Ounce US to Teaspoon US converter 2025. Convert fl oz to tsp and tsp to fl oz instantly.">
+<meta property="og:title" content="Fluid Ounce US to Teaspoon US Converter 2026 - fl oz to tsp Calculator">
+<meta property="og:description" content="Free online Fluid Ounce US to Teaspoon US converter 2026. Convert fl oz to tsp and tsp to fl oz instantly.">
 <meta property="og:type" content="website">
 <meta property="og:url" content="https://www.thiyagi.com/fluid-ounce-us-to-teaspoon-us.php">
 <meta property="og:image" content="https://www.thiyagi.com/nt.png">
 <meta property="og:site_name" content="Thiyagi">
 <meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:title" content="Fluid Ounce US to Teaspoon US Converter 2025 - fl oz to tsp Calculator">
-<meta name="twitter:description" content="Free online Fluid Ounce US to Teaspoon US converter 2025. Convert fl oz to tsp and tsp to fl oz instantly.">
+<meta name="twitter:title" content="Fluid Ounce US to Teaspoon US Converter 2026 - fl oz to tsp Calculator">
+<meta name="twitter:description" content="Free online Fluid Ounce US to Teaspoon US converter 2026. Convert fl oz to tsp and tsp to fl oz instantly.">
 <meta name="twitter:image" content="https://www.thiyagi.com/nt.png">
 
 <div class="min-h-screen bg-gradient-to-br from-pink-50 via-rose-50 to-red-50 py-12">

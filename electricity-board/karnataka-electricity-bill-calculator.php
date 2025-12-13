@@ -57,8 +57,8 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Karnataka Electricity Bill Calculator 2025 – BESCOM, GESCOM, HESCOM, MESCOM</title>
-    <meta name="description" content="Instantly calculate your electricity bill for Karnataka(2025) using the latest BESCOM, GESCOM, HESCOM, MESCOM tariffs.">
+    <title>Karnataka Electricity Bill Calculator 2026 – BESCOM, GESCOM, HESCOM, MESCOM</title>
+    <meta name="description" content="Instantly calculate your electricity bill for Karnataka(2026) using the latest BESCOM, GESCOM, HESCOM, MESCOM tariffs.">
     <link rel="canonical" href="https://www.thiyagi.com/electricity-board/karnataka-electricity-bill-calculator" />
     
     <!-- Tailwind CSS -->

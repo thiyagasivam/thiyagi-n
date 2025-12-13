@@ -1,12 +1,12 @@
 <?php include 'header.php';?>
-<title>Yards to Feet Converter 2025 | Yards to Feet Calculator | Free Tool</title>
-<meta name="description" content="Professional Yards to Feet converter 2025. Convert yards to feet instantly with precision calculations. Perfect for construction, sports, landscaping, and measurements.">
-<meta name="keywords" content="yards to feet converter 2025, yards feet calculator, length converter, construction measurements, sports field dimensions, landscaping calculator">
+<title>Yards to Feet Converter 2026 | Yards to Feet Calculator | Free Tool</title>
+<meta name="description" content="Professional Yards to Feet converter 2026. Convert yards to feet instantly with precision calculations. Perfect for construction, sports, landscaping, and measurements.">
+<meta name="keywords" content="yards to feet converter 2026, yards feet calculator, length converter, construction measurements, sports field dimensions, landscaping calculator">
 <link rel="canonical" href="https://www.thiyagi.com/yards-to-feet">
 
 <!-- Open Graph Meta Tags -->
-<meta property="og:title" content="Yards to Feet Converter 2025 | Yards to Feet Calculator | Free Tool">
-<meta property="og:description" content="Professional Yards to Feet converter 2025. Convert yards to feet instantly with precision calculations. Perfect for construction, sports, landscaping, and measurements.">
+<meta property="og:title" content="Yards to Feet Converter 2026 | Yards to Feet Calculator | Free Tool">
+<meta property="og:description" content="Professional Yards to Feet converter 2026. Convert yards to feet instantly with precision calculations. Perfect for construction, sports, landscaping, and measurements.">
 <meta property="og:url" content="https://www.thiyagi.com/yards-to-feet">
 <meta property="og:type" content="website">
 <meta property="og:image" content="https://www.thiyagi.com/nt.png">
@@ -14,8 +14,8 @@
 
 <!-- Twitter Card Meta Tags -->
 <meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:title" content="Yards to Feet Converter 2025 | Yards to Feet Calculator | Free Tool">
-<meta name="twitter:description" content="Professional Yards to Feet converter 2025. Convert yards to feet instantly with precision calculations. Perfect for construction, sports, landscaping, and measurements.">
+<meta name="twitter:title" content="Yards to Feet Converter 2026 | Yards to Feet Calculator | Free Tool">
+<meta name="twitter:description" content="Professional Yards to Feet converter 2026. Convert yards to feet instantly with precision calculations. Perfect for construction, sports, landscaping, and measurements.">
 <meta name="twitter:image" content="https://www.thiyagi.com/nt.png">
 
 <!-- Additional SEO Meta Tags -->
@@ -102,7 +102,7 @@
         </div>
         <h1 class="text-4xl md:text-6xl font-bold text-gray-900 mb-6">
           Yards to Feet Converter
-          <span class="block text-2xl md:text-3xl text-red-600 mt-2">Professional 2025</span>
+          <span class="block text-2xl md:text-3xl text-red-600 mt-2">Professional 2026</span>
         </h1>
         <p class="text-xl text-gray-600 mb-8 max-w-4xl mx-auto leading-relaxed">
           Convert yards to feet with professional-grade precision. Perfect for construction projects, 

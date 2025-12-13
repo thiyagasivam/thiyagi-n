@@ -1,19 +1,19 @@
 <?php include 'header.php'; ?>
 
 <!-- SEO Meta Tags -->
-<title>Kilonewton to Ton Force Metric Converter 2025 - kN to tf Calculator | Thiyagi</title>
-<meta name="description" content="Free online Kilonewton to Ton Force Metric converter 2025. Convert kN to tf and tf to kN instantly with accurate force conversion.">
-<meta name="keywords" content="kilonewton to ton force metric converter 2025, kN to tf, force conversion, metric units, engineering calculator">
+<title>Kilonewton to Ton Force Metric Converter 2026 - kN to tf Calculator | Thiyagi</title>
+<meta name="description" content="Free online Kilonewton to Ton Force Metric converter 2026. Convert kN to tf and tf to kN instantly with accurate force conversion.">
+<meta name="keywords" content="kilonewton to ton force metric converter 2026, kN to tf, force conversion, metric units, engineering calculator">
 <meta name="author" content="Thiyagi">
-<meta property="og:title" content="Kilonewton to Ton Force Metric Converter 2025 - kN to tf Calculator">
-<meta property="og:description" content="Free online Kilonewton to Ton Force Metric converter 2025. Convert kN to tf and tf to kN instantly.">
+<meta property="og:title" content="Kilonewton to Ton Force Metric Converter 2026 - kN to tf Calculator">
+<meta property="og:description" content="Free online Kilonewton to Ton Force Metric converter 2026. Convert kN to tf and tf to kN instantly.">
 <meta property="og:type" content="website">
 <meta property="og:url" content="https://www.thiyagi.com/kilonewton-to-ton-force-metric.php">
 <meta property="og:image" content="https://www.thiyagi.com/nt.png">
 <meta property="og:site_name" content="Thiyagi">
 <meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:title" content="Kilonewton to Ton Force Metric Converter 2025 - kN to tf Calculator">
-<meta property="twitter:description" content="Free online Kilonewton to Ton Force Metric converter 2025. Convert kN to tf and tf to kN instantly.">
+<meta name="twitter:title" content="Kilonewton to Ton Force Metric Converter 2026 - kN to tf Calculator">
+<meta property="twitter:description" content="Free online Kilonewton to Ton Force Metric converter 2026. Convert kN to tf and tf to kN instantly.">
 <meta name="twitter:image" content="https://www.thiyagi.com/nt.png">
 
 <div class="min-h-screen bg-gradient-to-br from-blue-50 via-indigo-50 to-purple-50 py-12">

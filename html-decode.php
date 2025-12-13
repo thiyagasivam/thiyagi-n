@@ -20,8 +20,8 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Free HTML Decoder 2025 - Decode Encoded HTML Entities Online</title>
-<meta name="description" content="Instantly convert HTML entities (&amp;#x27;) back to readable characters (2025). Works with all symbols, emojis and special codes - No software needed!">
+    <title>Free HTML Decoder 2026 - Decode Encoded HTML Entities Online</title>
+<meta name="description" content="Instantly convert HTML entities (&amp;#x27;) back to readable characters (2026). Works with all symbols, emojis and special codes - No software needed!">
     <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" rel="stylesheet">
     <style>
         /* Additional custom styles */

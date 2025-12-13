@@ -1,19 +1,19 @@
 <?php include 'header.php'; ?>
 
 <!-- SEO Meta Tags -->
-<title>Decimeter to Meter Converter 2025 - dm to m Calculator | Thiyagi</title>
-<meta name="description" content="Free online Decimeter to Meter converter 2025. Convert dm to m and m to dm instantly with accurate metric length conversion.">
-<meta name="keywords" content="decimeter to meter converter 2025, dm to m, metric converter, length units, measurement conversion, metric system">
+<title>Decimeter to Meter Converter 2026 - dm to m Calculator | Thiyagi</title>
+<meta name="description" content="Free online Decimeter to Meter converter 2026. Convert dm to m and m to dm instantly with accurate metric length conversion.">
+<meta name="keywords" content="decimeter to meter converter 2026, dm to m, metric converter, length units, measurement conversion, metric system">
 <meta name="author" content="Thiyagi">
-<meta property="og:title" content="Decimeter to Meter Converter 2025 - dm to m Calculator">
-<meta property="og:description" content="Free online Decimeter to Meter converter 2025. Convert dm to m and m to dm instantly.">
+<meta property="og:title" content="Decimeter to Meter Converter 2026 - dm to m Calculator">
+<meta property="og:description" content="Free online Decimeter to Meter converter 2026. Convert dm to m and m to dm instantly.">
 <meta property="og:type" content="website">
 <meta property="og:url" content="https://www.thiyagi.com/decimeter-to-meter.php">
 <meta property="og:image" content="https://www.thiyagi.com/nt.png">
 <meta property="og:site_name" content="Thiyagi">
 <meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:title" content="Decimeter to Meter Converter 2025 - dm to m Calculator">
-<meta property="twitter:description" content="Free online Decimeter to Meter converter 2025. Convert dm to m and m to dm instantly.">
+<meta name="twitter:title" content="Decimeter to Meter Converter 2026 - dm to m Calculator">
+<meta property="twitter:description" content="Free online Decimeter to Meter converter 2026. Convert dm to m and m to dm instantly.">
 <meta name="twitter:image" content="https://www.thiyagi.com/nt.png">
 
 <div class="min-h-screen bg-gradient-to-br from-green-50 via-lime-50 to-emerald-50 py-12">

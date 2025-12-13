@@ -1,12 +1,12 @@
 <?php include 'header.php';?>
-<title>Hectare to Bigha Converter 2025 | Ha to Bigha | Free Tool</title>
-<meta name="description" content="Convert hectare to bigha instantly with our 2025 accurate converter. Perfect hectare to bigha conversion with real-time calculations for Indian land measurement.">
-<meta name="keywords" content="hectare to bigha 2025, hectare bigha converter, Indian land conversion 2025, hectare bigha calculation, metric to traditional land">
+<title>Hectare to Bigha Converter 2026 | Ha to Bigha | Free Tool</title>
+<meta name="description" content="Convert hectare to bigha instantly with our 2026 accurate converter. Perfect hectare to bigha conversion with real-time calculations for Indian land measurement.">
+<meta name="keywords" content="hectare to bigha 2026, hectare bigha converter, Indian land conversion 2026, hectare bigha calculation, metric to traditional land">
 <link rel="canonical" href="https://www.thiyagi.com/hectare-to-bigha">
 
 <!-- Open Graph Meta Tags -->
-<meta property="og:title" content="Hectare to Bigha Converter 2025 | Ha to Bigha | Free Tool">
-<meta property="og:description" content="Convert hectare to bigha instantly with our 2025 accurate converter. Perfect hectare to bigha conversion with real-time calculations for Indian land measurement.">
+<meta property="og:title" content="Hectare to Bigha Converter 2026 | Ha to Bigha | Free Tool">
+<meta property="og:description" content="Convert hectare to bigha instantly with our 2026 accurate converter. Perfect hectare to bigha conversion with real-time calculations for Indian land measurement.">
 <meta property="og:url" content="https://www.thiyagi.com/hectare-to-bigha">
 <meta property="og:type" content="website">
 <meta property="og:image" content="https://www.thiyagi.com/nt.png">
@@ -14,8 +14,8 @@
 
 <!-- Twitter Card Meta Tags -->
 <meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:title" content="Hectare to Bigha Converter 2025 | Ha to Bigha | Free Tool">
-<meta name="twitter:description" content="Convert hectare to bigha instantly with our 2025 accurate converter. Perfect hectare to bigha conversion with real-time calculations for Indian land measurement.">
+<meta name="twitter:title" content="Hectare to Bigha Converter 2026 | Ha to Bigha | Free Tool">
+<meta name="twitter:description" content="Convert hectare to bigha instantly with our 2026 accurate converter. Perfect hectare to bigha conversion with real-time calculations for Indian land measurement.">
 <meta name="twitter:image" content="https://www.thiyagi.com/nt.png">
 
 <!-- Additional SEO Meta Tags -->
@@ -39,7 +39,7 @@
           Hectare to Bigha Converter
         </h1>
         <p class="text-xl text-gray-600 mb-8 max-w-3xl mx-auto">
-          Convert hectares to bigha instantly with our accurate 2025 calculator. 
+          Convert hectares to bigha instantly with our accurate 2026 calculator. 
           Perfect for Indian agricultural land measurement and documentation.
         </p>
       </div>

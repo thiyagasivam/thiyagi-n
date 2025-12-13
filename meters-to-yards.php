@@ -4,9 +4,9 @@ include 'header.php';
 $header_content = ob_get_clean();
 
 // Insert title and meta tags into the head section
-$title = 'Meters to Yards Converter 2025 | Length Conversion Tool | Free Calculator';
-$description = 'Convert meters to yards instantly with our 2025 accurate length converter. Perfect for sports, construction, and distance measurements.';
-$keywords = 'meters to yards converter 2025, length conversion calculator, meter yard converter, sports measurements, construction calculator';
+$title = 'Meters to Yards Converter 2026 | Length Conversion Tool | Free Calculator';
+$description = 'Convert meters to yards instantly with our 2026 accurate length converter. Perfect for sports, construction, and distance measurements.';
+$keywords = 'meters to yards converter 2026, length conversion calculator, meter yard converter, sports measurements, construction calculator';
 $canonical = 'https://www.thiyagi.com/meters-to-yards';
 
 $meta_tags = '<title>' . htmlspecialchars($title) . '</title>' . "\n";

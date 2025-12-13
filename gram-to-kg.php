@@ -1,12 +1,12 @@
 <?php include 'header.php';?>
-<title>Gram to Kilogram Converter 2025 | G to KG | Free Tool</title>
-<meta name="description" content="Convert gram to kilogram instantly with our 2025 accurate converter. Perfect g to kg conversion with real-time calculations for weight measurements.">
-<meta name="keywords" content="gram to kilogram 2025, gram kg converter, weight unit conversion 2025, kitchen weight calculator, g kg conversion">
+<title>Gram to Kilogram Converter 2026 | G to KG | Free Tool</title>
+<meta name="description" content="Convert gram to kilogram instantly with our 2026 accurate converter. Perfect g to kg conversion with real-time calculations for weight measurements.">
+<meta name="keywords" content="gram to kilogram 2026, gram kg converter, weight unit conversion 2026, kitchen weight calculator, g kg conversion">
 <link rel="canonical" href="https://www.thiyagi.com/gram-to-kg">
 
 <!-- Open Graph Meta Tags -->
-<meta property="og:title" content="Gram to Kilogram Converter 2025 | G to KG | Free Tool">
-<meta property="og:description" content="Convert gram to kilogram instantly with our 2025 accurate converter. Perfect g to kg conversion with real-time calculations for weight measurements.">
+<meta property="og:title" content="Gram to Kilogram Converter 2026 | G to KG | Free Tool">
+<meta property="og:description" content="Convert gram to kilogram instantly with our 2026 accurate converter. Perfect g to kg conversion with real-time calculations for weight measurements.">
 <meta property="og:url" content="https://www.thiyagi.com/gram-to-kg">
 <meta property="og:type" content="website">
 <meta property="og:image" content="https://www.thiyagi.com/nt.png">
@@ -14,8 +14,8 @@
 
 <!-- Twitter Card Meta Tags -->
 <meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:title" content="Gram to Kilogram Converter 2025 | G to KG | Free Tool">
-<meta name="twitter:description" content="Convert gram to kilogram instantly with our 2025 accurate converter. Perfect g to kg conversion with real-time calculations for weight measurements.">
+<meta name="twitter:title" content="Gram to Kilogram Converter 2026 | G to KG | Free Tool">
+<meta name="twitter:description" content="Convert gram to kilogram instantly with our 2026 accurate converter. Perfect g to kg conversion with real-time calculations for weight measurements.">
 <meta name="twitter:image" content="https://www.thiyagi.com/nt.png">
 
 <!-- Additional SEO Meta Tags -->
@@ -39,7 +39,7 @@
           Gram to Kilogram Converter
         </h1>
         <p class="text-xl text-gray-600 mb-8 max-w-3xl mx-auto">
-          Convert grams to kilograms instantly with our accurate 2025 calculator. 
+          Convert grams to kilograms instantly with our accurate 2026 calculator. 
           Perfect for cooking recipes, nutrition tracking, and laboratory measurements.
         </p>
       </div>
@@ -157,16 +157,16 @@
     <article class="bg-white rounded-xl shadow-lg p-8">
       <h2 class="text-2xl font-bold text-gray-800 mb-6 flex items-center gap-3">
         <i class="fas fa-info-circle text-green-600" aria-hidden="true"></i>
-        Gram to Kilogram Conversion 2025
+        Gram to Kilogram Conversion 2026
       </h2>
       <div class="prose max-w-none text-gray-600">
         <p class="mb-4">
-          Converting grams to kilograms is essential for cooking recipes, nutrition tracking, and laboratory measurements in 2025. 
+          Converting grams to kilograms is essential for cooking recipes, nutrition tracking, and laboratory measurements in 2026. 
           This weight unit conversion enables accurate calculations for chefs, 
           nutritionists, and scientists working with precise weight measurements and food preparation.
         </p>
         <p class="mb-6">
-          Our 2025 converter provides instant and accurate conversions from grams to kilograms, essential for cooking enthusiasts, 
+          Our 2026 converter provides instant and accurate conversions from grams to kilograms, essential for cooking enthusiasts, 
           nutritionists, researchers, and professionals working with weight measurements. 
           One thousand grams equals exactly one kilogram.
         </p>

@@ -1,19 +1,19 @@
 <?php include 'header.php'; ?>
 
 <!-- SEO Meta Tags -->
-<title>Free Pressure Converter 2025 - Convert PSI, Bar, Pascal, Atmosphere | Thiyagi</title>
-<meta name="description" content="Free online pressure converter tool 2025. Convert between PSI, Bar, Pascal, Atmosphere, kPa, MPa, Torr, mmHg, and inHg instantly. Accurate pressure unit conversions for engineering and scientific calculations.">
-<meta name="keywords" content="pressure converter 2025, PSI to Bar, Pascal converter, pressure units, engineering calculator, scientific converter, atmosphere pressure, pressure conversion tool">
+<title>Free Pressure Converter 2026 - Convert PSI, Bar, Pascal, Atmosphere | Thiyagi</title>
+<meta name="description" content="Free online pressure converter tool 2026. Convert between PSI, Bar, Pascal, Atmosphere, kPa, MPa, Torr, mmHg, and inHg instantly. Accurate pressure unit conversions for engineering and scientific calculations.">
+<meta name="keywords" content="pressure converter 2026, PSI to Bar, Pascal converter, pressure units, engineering calculator, scientific converter, atmosphere pressure, pressure conversion tool">
 <meta name="author" content="Thiyagi">
-<meta property="og:title" content="Free Pressure Converter 2025 - Convert PSI, Bar, Pascal, Atmosphere">
-<meta property="og:description" content="Free online pressure converter tool 2025. Convert between PSI, Bar, Pascal, Atmosphere, kPa, MPa, Torr, mmHg, and inHg instantly.">
+<meta property="og:title" content="Free Pressure Converter 2026 - Convert PSI, Bar, Pascal, Atmosphere">
+<meta property="og:description" content="Free online pressure converter tool 2026. Convert between PSI, Bar, Pascal, Atmosphere, kPa, MPa, Torr, mmHg, and inHg instantly.">
 <meta property="og:type" content="website">
 <meta property="og:url" content="https://www.thiyagi.com/pressure-converter.php">
 <meta property="og:image" content="https://www.thiyagi.com/nt.png">
 <meta property="og:site_name" content="Thiyagi">
 <meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:title" content="Free Pressure Converter 2025 - Convert PSI, Bar, Pascal, Atmosphere">
-<meta name="twitter:description" content="Free online pressure converter tool 2025. Convert between PSI, Bar, Pascal, Atmosphere, kPa, MPa, Torr, mmHg, and inHg instantly.">
+<meta name="twitter:title" content="Free Pressure Converter 2026 - Convert PSI, Bar, Pascal, Atmosphere">
+<meta name="twitter:description" content="Free online pressure converter tool 2026. Convert between PSI, Bar, Pascal, Atmosphere, kPa, MPa, Torr, mmHg, and inHg instantly.">
 <meta name="twitter:image" content="https://www.thiyagi.com/nt.png">
 
 <div class="min-h-screen bg-gradient-to-br from-indigo-50 via-purple-50 to-blue-50 py-12">

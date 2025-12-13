@@ -3,14 +3,14 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>TV Wall Mount Height Calculator 2025 - Optimal Viewing Height Guide | Thiyagi.com</title>
-    <meta name="description" content="TV wall mount height calculator 2025 - find the perfect TV mounting height based on room dimensions, seating position, TV size, and viewing angles for optimal comfort.">
-    <meta name="keywords" content="TV wall mount height calculator 2025, TV mounting height, wall mount calculator, viewing angle calculator, TV height guide">
+    <title>TV Wall Mount Height Calculator 2026 - Optimal Viewing Height Guide | Thiyagi.com</title>
+    <meta name="description" content="TV wall mount height calculator 2026 - find the perfect TV mounting height based on room dimensions, seating position, TV size, and viewing angles for optimal comfort.">
+    <meta name="keywords" content="TV wall mount height calculator 2026, TV mounting height, wall mount calculator, viewing angle calculator, TV height guide">
     <meta name="author" content="Thiyagi">
     <meta name="robots" content="index, follow">
     
     <!-- Open Graph Meta Tags -->
-    <meta property="og:title" content="TV Wall Mount Height Calculator 2025 - Optimal Viewing Height Guide">
+    <meta property="og:title" content="TV Wall Mount Height Calculator 2026 - Optimal Viewing Height Guide">
     <meta property="og:description" content="Calculate the perfect TV wall mount height for optimal viewing comfort and ergonomics.">
     <meta property="og:url" content="https://www.thiyagi.com/tv-wall-mount-height-calculator">
     <meta property="og:type" content="website">
@@ -18,7 +18,7 @@
     
     <!-- Twitter Card Meta Tags -->
     <meta name="twitter:card" content="summary_large_image">
-    <meta name="twitter:title" content="TV Wall Mount Height Calculator 2025 - Optimal Viewing Height Guide">
+    <meta name="twitter:title" content="TV Wall Mount Height Calculator 2026 - Optimal Viewing Height Guide">
     <meta name="twitter:description" content="Find the perfect TV wall mount height for comfortable viewing.">
     <meta name="twitter:image" content="https://www.thiyagi.com/nt.png">
     
@@ -136,7 +136,7 @@
 {
   "@context": "https://schema.org",
   "@type": "WebApplication",
-  "name": "TV Wall Mount Height Calculator 2025",
+  "name": "TV Wall Mount Height Calculator 2026",
   "description": "Home improvement calculator for optimal TV mounting height based on room dimensions and viewing angles.",
   "url": "https://www.thiyagi.com/tv-wall-mount-height-calculator",
   "applicationCategory": "HomeApplication",

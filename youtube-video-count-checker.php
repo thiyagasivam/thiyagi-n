@@ -107,8 +107,8 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Free YouTube Video Count Checker 2025 - Channel Analytics</title>
-    <meta name="description" content="Check total video count for any YouTube channel instantly. Professional channel analytics tool for content creators and researchers (2025).">
+    <title>Free YouTube Video Count Checker 2026 - Channel Analytics</title>
+    <meta name="description" content="Check total video count for any YouTube channel instantly. Professional channel analytics tool for content creators and researchers (2026).">
     <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" rel="stylesheet">
     <style>
         .stat-card {

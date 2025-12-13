@@ -5,9 +5,9 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Kilometer to Foot Converter 2025 - Distance Conversion Calculator</title>
-    <meta name="description" content="Convert kilometers to feet with our free 2025 online calculator. Perfect for running, hiking, and distance measurements.">
-    <meta name="keywords" content="kilometer to foot converter 2025, distance converter, running calculator, hiking measurements 2025">
+    <title>Kilometer to Foot Converter 2026 - Distance Conversion Calculator</title>
+    <meta name="description" content="Convert kilometers to feet with our free 2026 online calculator. Perfect for running, hiking, and distance measurements.">
+    <meta name="keywords" content="kilometer to foot converter 2026, distance converter, running calculator, hiking measurements 2026">
     <script src="https://cdn.tailwindcss.com"></script>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
 </head>

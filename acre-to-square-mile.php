@@ -1,12 +1,12 @@
 <?php include 'header.php';?>
-<title>Acre to Square Mile Converter 2025 | Convert acre to sq mi | Free Tool</title>
-<meta name="description" content="Convert acre to square mile instantly with our 2025 accurate converter. Perfect acre to sq mi conversion with real-time calculations for land measurement.">
-<meta name="keywords" content="acre to square mile 2025, acre sq mi converter, land area conversion 2025, property measurement calculator, land surveying tool">
+<title>Acre to Square Mile Converter 2026 | Convert acre to sq mi | Free Tool</title>
+<meta name="description" content="Convert acre to square mile instantly with our 2026 accurate converter. Perfect acre to sq mi conversion with real-time calculations for land measurement.">
+<meta name="keywords" content="acre to square mile 2026, acre sq mi converter, land area conversion 2026, property measurement calculator, land surveying tool">
 <link rel="canonical" href="https://www.thiyagi.com/acre-to-square-mile">
 
 <!-- Open Graph Meta Tags -->
-<meta property="og:title" content="Acre to Square Mile Converter 2025 | Convert acre to sq mi | Free Tool">
-<meta property="og:description" content="Convert acre to square mile instantly with our 2025 accurate converter. Perfect acre to sq mi conversion with real-time calculations for land measurement.">
+<meta property="og:title" content="Acre to Square Mile Converter 2026 | Convert acre to sq mi | Free Tool">
+<meta property="og:description" content="Convert acre to square mile instantly with our 2026 accurate converter. Perfect acre to sq mi conversion with real-time calculations for land measurement.">
 <meta property="og:url" content="https://www.thiyagi.com/acre-to-square-mile">
 <meta property="og:type" content="website">
 <meta property="og:image" content="https://www.thiyagi.com/nt.png">
@@ -14,8 +14,8 @@
 
 <!-- Twitter Card Meta Tags -->
 <meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:title" content="Acre to Square Mile Converter 2025 | Convert acre to sq mi | Free Tool">
-<meta name="twitter:description" content="Convert acre to square mile instantly with our 2025 accurate converter. Perfect acre to sq mi conversion with real-time calculations for land measurement.">
+<meta name="twitter:title" content="Acre to Square Mile Converter 2026 | Convert acre to sq mi | Free Tool">
+<meta name="twitter:description" content="Convert acre to square mile instantly with our 2026 accurate converter. Perfect acre to sq mi conversion with real-time calculations for land measurement.">
 <meta name="twitter:image" content="https://www.thiyagi.com/nt.png">
 
 <!-- Additional SEO Meta Tags -->
@@ -39,7 +39,7 @@
           Acre to Square Mile Converter
         </h1>
         <p class="text-xl text-gray-600 mb-8 max-w-3xl mx-auto">
-          Convert acres to square miles instantly with our accurate 2025 calculator. 
+          Convert acres to square miles instantly with our accurate 2026 calculator. 
           Perfect for land measurement, real estate, and agricultural applications.
         </p>
       </div>
@@ -156,16 +156,16 @@
     <article class="bg-white rounded-xl shadow-lg p-8">
       <h2 class="text-2xl font-bold text-gray-800 mb-6 flex items-center gap-3">
         <i class="fas fa-info-circle text-indigo-600" aria-hidden="true"></i>
-        Acre to Square Mile Conversion 2025
+        Acre to Square Mile Conversion 2026
       </h2>
       <div class="prose max-w-none text-gray-600">
         <p class="mb-4">
-          Converting acres to square miles is essential for land measurement, real estate, and agricultural applications in 2025. 
+          Converting acres to square miles is essential for land measurement, real estate, and agricultural applications in 2026. 
           This conversion between imperial units enables accurate communication about large land areas, 
           from agricultural operations to municipal planning and real estate development.
         </p>
         <p class="mb-6">
-          Our 2025 converter provides instant and precise conversions from acres to square miles, essential for land surveyors, 
+          Our 2026 converter provides instant and precise conversions from acres to square miles, essential for land surveyors, 
           real estate professionals, farmers, and urban planners working with extensive land areas. 
           640 acres equals exactly 1 square mile.
         </p>

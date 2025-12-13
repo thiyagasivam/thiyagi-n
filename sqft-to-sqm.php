@@ -1,12 +1,12 @@
 <?php include 'header.php';?>
-<title>Square Feet to Square Meter Converter 2025 | Sqft to Sqm | Free Tool</title>
-<meta name="description" content="Convert square feet to square meters instantly with our 2025 accurate converter. Perfect sqft to sqm conversion with real-time calculations for real estate, construction, and property measurements.">
-<meta name="keywords" content="square feet to square meter 2025, sqft to sqm converter, feet to meter conversion, area conversion 2025, property measurement, real estate calculator">
+<title>Square Feet to Square Meter Converter 2026 | Sqft to Sqm | Free Tool</title>
+<meta name="description" content="Convert square feet to square meters instantly with our 2026 accurate converter. Perfect sqft to sqm conversion with real-time calculations for real estate, construction, and property measurements.">
+<meta name="keywords" content="square feet to square meter 2026, sqft to sqm converter, feet to meter conversion, area conversion 2026, property measurement, real estate calculator">
 <link rel="canonical" href="https://www.thiyagi.com/sqft-to-sqm">
 
 <!-- Open Graph Meta Tags -->
-<meta property="og:title" content="Square Feet to Square Meter Converter 2025 | Sqft to Sqm | Free Tool">
-<meta property="og:description" content="Convert square feet to square meters instantly with our 2025 accurate converter. Perfect sqft to sqm conversion with real-time calculations for real estate, construction, and property measurements.">
+<meta property="og:title" content="Square Feet to Square Meter Converter 2026 | Sqft to Sqm | Free Tool">
+<meta property="og:description" content="Convert square feet to square meters instantly with our 2026 accurate converter. Perfect sqft to sqm conversion with real-time calculations for real estate, construction, and property measurements.">
 <meta property="og:url" content="https://www.thiyagi.com/sqft-to-sqm">
 <meta property="og:type" content="website">
 <meta property="og:image" content="https://www.thiyagi.com/nt.png">
@@ -14,8 +14,8 @@
 
 <!-- Twitter Card Meta Tags -->
 <meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:title" content="Square Feet to Square Meter Converter 2025 | Sqft to Sqm | Free Tool">
-<meta name="twitter:description" content="Convert square feet to square meters instantly with our 2025 accurate converter. Perfect sqft to sqm conversion with real-time calculations for real estate, construction, and property measurements.">
+<meta name="twitter:title" content="Square Feet to Square Meter Converter 2026 | Sqft to Sqm | Free Tool">
+<meta name="twitter:description" content="Convert square feet to square meters instantly with our 2026 accurate converter. Perfect sqft to sqm conversion with real-time calculations for real estate, construction, and property measurements.">
 <meta name="twitter:image" content="https://www.thiyagi.com/nt.png">
 
 <!-- Additional SEO Meta Tags -->
@@ -44,10 +44,10 @@
     "@type": "Organization",
     "name": "Thiyagi Tools",
     "url": "https://www.thiyagi.com",
-    "foundingDate": "2025"
+    "foundingDate": "2026"
   },
-  "datePublished": "2025-08-23",
-  "dateModified": "2025-08-23",
+  "datePublished": "2026-08-23",
+  "dateModified": "2026-08-23",
   "featureList": [
     "Convert square feet to square meters",
     "Real-time conversion calculations",
@@ -250,15 +250,15 @@
     <article class="bg-white rounded-xl shadow-lg p-8">
       <h2 id="about-heading" class="text-2xl font-bold text-gray-800 mb-6 flex items-center gap-3">
         <i class="fas fa-info-circle text-blue-600" aria-hidden="true"></i>
-        Square Feet to Square Meter Conversion 2025
+        Square Feet to Square Meter Conversion 2026
       </h2>
       <div class="prose max-w-none text-gray-600">
         <p class="mb-4">
-          Converting square feet to square meters is essential for international real estate, construction projects, and property measurements in 2025. 
+          Converting square feet to square meters is essential for international real estate, construction projects, and property measurements in 2026. 
           Square feet are commonly used in the United States, while square meters are the standard metric unit used worldwide.
         </p>
         <p class="mb-6">
-          Our 2025 converter uses the exact conversion factor: 1 square foot = 0.09290304 square meters. This ensures accurate conversions 
+          Our 2026 converter uses the exact conversion factor: 1 square foot = 0.09290304 square meters. This ensures accurate conversions 
           for property listings, construction planning, and architectural measurements.
         </p>
       </div>

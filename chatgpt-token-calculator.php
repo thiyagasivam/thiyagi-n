@@ -3,14 +3,14 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>ChatGPT Token Calculator 2025 - Estimate API Usage & Costs | Thiyagi.com</title>
-    <meta name="description" content="ChatGPT token calculator 2025 - estimate API usage costs, token counts for GPT-4, GPT-3.5, and other OpenAI models. Plan your AI project budget effectively.">
-    <meta name="keywords" content="chatgpt token calculator 2025, openai api cost calculator, gpt token counter, ai usage cost estimator, openai pricing calculator">
+    <title>ChatGPT Token Calculator 2026 - Estimate API Usage & Costs | Thiyagi.com</title>
+    <meta name="description" content="ChatGPT token calculator 2026 - estimate API usage costs, token counts for GPT-4, GPT-3.5, and other OpenAI models. Plan your AI project budget effectively.">
+    <meta name="keywords" content="chatgpt token calculator 2026, openai api cost calculator, gpt token counter, ai usage cost estimator, openai pricing calculator">
     <meta name="author" content="Thiyagi">
     <meta name="robots" content="index, follow">
     
     <!-- Open Graph Meta Tags -->
-    <meta property="og:title" content="ChatGPT Token Calculator 2025 - Estimate API Usage & Costs">
+    <meta property="og:title" content="ChatGPT Token Calculator 2026 - Estimate API Usage & Costs">
     <meta property="og:description" content="Calculate ChatGPT API costs and token usage for GPT models. Plan your AI project budget with accurate cost estimates.">
     <meta property="og:url" content="https://www.thiyagi.com/chatgpt-token-calculator">
     <meta property="og:type" content="website">
@@ -18,7 +18,7 @@
     
     <!-- Twitter Card Meta Tags -->
     <meta name="twitter:card" content="summary_large_image">
-    <meta name="twitter:title" content="ChatGPT Token Calculator 2025 - Estimate API Usage & Costs">
+    <meta name="twitter:title" content="ChatGPT Token Calculator 2026 - Estimate API Usage & Costs">
     <meta name="twitter:description" content="Calculate ChatGPT API costs and token usage for your AI projects.">
     <meta name="twitter:image" content="https://www.thiyagi.com/nt.png">
     
@@ -88,7 +88,7 @@
 {
   "@context": "https://schema.org",
   "@type": "WebApplication",
-  "name": "ChatGPT Token Calculator 2025",
+  "name": "ChatGPT Token Calculator 2026",
   "description": "Calculate ChatGPT API usage costs and token counts for GPT-4, GPT-3.5, and other OpenAI models with accurate pricing estimates.",
   "url": "https://www.thiyagi.com/chatgpt-token-calculator",
   "applicationCategory": "ProductivityApplication",
@@ -520,7 +520,7 @@
         <section class="bg-white rounded-xl shadow-lg p-8 mt-8">
             <h2 class="text-2xl font-bold text-gray-800 mb-6 flex items-center">
                 <i class="fas fa-table mr-3 text-indigo-600" aria-hidden="true"></i>
-                OpenAI Model Comparison (2025 Pricing)
+                OpenAI Model Comparison (2026 Pricing)
             </h2>
             
             <div class="overflow-x-auto">

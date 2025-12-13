@@ -3,8 +3,8 @@
 <!-- Advanced Discount Calculator Meta Tags -->
 <head>
     <!-- Primary Meta Tags -->
-    <title>Free Advanced Discount Calculator 2025 - Calculate Savings & Sale Prices Instantly</title>
-    <meta name="title" content="Free Advanced Discount Calculator 2025 - Calculate Savings & Sale Prices Instantly">
+    <title>Free Advanced Discount Calculator 2026 - Calculate Savings & Sale Prices Instantly</title>
+    <meta name="title" content="Free Advanced Discount Calculator 2026 - Calculate Savings & Sale Prices Instantly">
     <meta name="description" content="Professional discount calculator for percentage, fixed amount, bulk discounts & buy-get offers. Calculate sale prices, savings & final costs instantly. Free tool for shoppers & businesses.">
     <meta name="keywords" content="discount calculator, percentage discount, sale price calculator, savings calculator, bulk discount, buy one get one, BOGO calculator, price reduction, coupon calculator, shopping calculator, business discount tool, markdown calculator">
     <meta name="author" content="Thiyagi Calculator Tools">
@@ -17,7 +17,7 @@
     <!-- Open Graph / Facebook -->
     <meta property="og:type" content="website">
     <meta property="og:url" content="https://thiyagi.com/discount-calculator.php">
-    <meta property="og:title" content="Free Advanced Discount Calculator 2025 - Calculate Savings & Sale Prices">
+    <meta property="og:title" content="Free Advanced Discount Calculator 2026 - Calculate Savings & Sale Prices">
     <meta property="og:description" content="Professional discount calculator supporting percentage, fixed amount, bulk discounts & promotional offers. Calculate accurate sale prices and savings instantly.">
     <meta property="og:image" content="https://www.thiyagi.com/nt.png">
     <meta property="og:image:width" content="1200">
@@ -28,7 +28,7 @@
     <!-- Twitter -->
     <meta property="twitter:card" content="summary_large_image">
     <meta property="twitter:url" content="https://thiyagi.com/discount-calculator.php">
-    <meta property="twitter:title" content="Free Advanced Discount Calculator 2025 - Calculate Savings & Sale Prices">
+    <meta property="twitter:title" content="Free Advanced Discount Calculator 2026 - Calculate Savings & Sale Prices">
     <meta property="twitter:description" content="Professional discount calculator supporting percentage, fixed amount, bulk discounts & promotional offers. Calculate accurate sale prices and savings instantly.">
     <meta property="twitter:image" content="https://www.thiyagi.com/nt.png">
     <meta property="twitter:creator" content="@ThiyagiTools">
@@ -47,7 +47,7 @@
     {
         "@context": "https://schema.org",
         "@type": "WebApplication",
-        "name": "Advanced Discount Calculator 2025",
+        "name": "Advanced Discount Calculator 2026",
         "description": "Professional discount calculator for percentage, fixed amount, bulk discounts and promotional offers",
         "url": "https://thiyagi.com/discount-calculator.php",
         "applicationCategory": "FinanceApplication",
@@ -151,7 +151,7 @@
 
 <?php
 /**
- * Advanced Discount Calculator 2025
+ * Advanced Discount Calculator 2026
  * Professional discount and savings calculator tool
  */
 
@@ -387,7 +387,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
     <div class="text-center mb-8">
         <h1 class="text-4xl font-bold text-gray-800 mb-4">
             <i class="fas fa-tags text-green-600 mr-3"></i>
-            Advanced Discount Calculator 2025
+            Advanced Discount Calculator 2026
         </h1>
         <p class="text-xl text-gray-600 max-w-3xl mx-auto">
             Professional discount calculator for all types of savings - percentage, fixed amount, bulk discounts, and special offers

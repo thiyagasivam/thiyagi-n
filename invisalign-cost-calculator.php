@@ -3,14 +3,14 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Invisalign Cost Calculator 2025 - Estimate Treatment Costs | Thiyagi.com</title>
-    <meta name="description" content="Invisalign cost calculator 2025 - estimate orthodontic treatment costs based on complexity, duration, location, and insurance coverage for accurate pricing.">
-    <meta name="keywords" content="invisalign calculator 2025, orthodontic cost calculator, braces cost estimator, dental treatment calculator, clear aligners cost">
+    <title>Invisalign Cost Calculator 2026 - Estimate Treatment Costs | Thiyagi.com</title>
+    <meta name="description" content="Invisalign cost calculator 2026 - estimate orthodontic treatment costs based on complexity, duration, location, and insurance coverage for accurate pricing.">
+    <meta name="keywords" content="invisalign calculator 2026, orthodontic cost calculator, braces cost estimator, dental treatment calculator, clear aligners cost">
     <meta name="author" content="Thiyagi">
     <meta name="robots" content="index, follow">
     
     <!-- Open Graph Meta Tags -->
-    <meta property="og:title" content="Invisalign Cost Calculator 2025 - Estimate Treatment Costs">
+    <meta property="og:title" content="Invisalign Cost Calculator 2026 - Estimate Treatment Costs">
     <meta property="og:description" content="Calculate accurate Invisalign treatment costs based on complexity and location factors.">
     <meta property="og:url" content="https://www.thiyagi.com/invisalign-cost-calculator">
     <meta property="og:type" content="website">
@@ -18,7 +18,7 @@
     
     <!-- Twitter Card Meta Tags -->
     <meta name="twitter:card" content="summary_large_image">
-    <meta name="twitter:title" content="Invisalign Cost Calculator 2025 - Estimate Treatment Costs">
+    <meta name="twitter:title" content="Invisalign Cost Calculator 2026 - Estimate Treatment Costs">
     <meta name="twitter:description" content="Calculate Invisalign treatment costs with our comprehensive healthcare calculator.">
     <meta name="twitter:image" content="https://www.thiyagi.com/nt.png">
     
@@ -77,7 +77,7 @@
 {
   "@context": "https://schema.org",
   "@type": "WebApplication",
-  "name": "Invisalign Cost Calculator 2025",
+  "name": "Invisalign Cost Calculator 2026",
   "description": "Healthcare calculator for Invisalign treatment cost estimation based on complexity, duration, location, and insurance coverage factors.",
   "url": "https://www.thiyagi.com/invisalign-cost-calculator",
   "applicationCategory": "HealthApplication",

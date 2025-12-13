@@ -1,19 +1,19 @@
 <?php include 'header.php'; ?>
 
 <!-- SEO Meta Tags -->
-<title>Newton per Square Meter to PSI Converter 2025 - N/m² to psi | Thiyagi</title>
-<meta name="description" content="Free online newton per square meter to PSI converter 2025. Convert N/m² to psi instantly with accurate formula: psi = N/m² × 0.000145038.">
-<meta name="keywords" content="newton square meter to PSI 2025, N/m² to psi converter, pressure converter, pascal to psi, engineering calculator">
+<title>Newton per Square Meter to PSI Converter 2026 - N/m² to psi | Thiyagi</title>
+<meta name="description" content="Free online newton per square meter to PSI converter 2026. Convert N/m² to psi instantly with accurate formula: psi = N/m² × 0.000145038.">
+<meta name="keywords" content="newton square meter to PSI 2026, N/m² to psi converter, pressure converter, pascal to psi, engineering calculator">
 <meta name="author" content="Thiyagi">
-<meta property="og:title" content="Newton per Square Meter to PSI Converter 2025 - N/m² to psi">
-<meta property="og:description" content="Free online newton per square meter to PSI converter 2025. Convert N/m² to psi instantly.">
+<meta property="og:title" content="Newton per Square Meter to PSI Converter 2026 - N/m² to psi">
+<meta property="og:description" content="Free online newton per square meter to PSI converter 2026. Convert N/m² to psi instantly.">
 <meta property="og:type" content="website">
 <meta property="og:url" content="https://www.thiyagi.com/newton-square-meter-to-psi.php">
 <meta property="og:image" content="https://www.thiyagi.com/nt.png">
 <meta property="og:site_name" content="Thiyagi">
 <meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:title" content="Newton per Square Meter to PSI Converter 2025 - N/m² to psi">
-<meta name="twitter:description" content="Free online newton per square meter to PSI converter 2025. Convert N/m² to psi instantly.">
+<meta name="twitter:title" content="Newton per Square Meter to PSI Converter 2026 - N/m² to psi">
+<meta name="twitter:description" content="Free online newton per square meter to PSI converter 2026. Convert N/m² to psi instantly.">
 <meta name="twitter:image" content="https://www.thiyagi.com/nt.png">
 
 <div class="min-h-screen bg-gradient-to-br from-purple-50 via-violet-50 to-indigo-50 py-12">

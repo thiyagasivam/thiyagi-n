@@ -1,19 +1,19 @@
 <?php include 'header.php'; ?>
 
 <!-- SEO Meta Tags -->
-<title>PSI to kPa Converter 2025 - Pressure Calculator | Thiyagi</title>
-<meta name="description" content="Free online PSI to kPa converter 2025. Convert pounds per square inch to kilopascals instantly. Perfect for engineering and automotive pressure measurements.">
-<meta name="keywords" content="psi to kpa converter 2025, pressure converter, engineering calculator, automotive pressure, tire pressure converter">
+<title>PSI to kPa Converter 2026 - Pressure Calculator | Thiyagi</title>
+<meta name="description" content="Free online PSI to kPa converter 2026. Convert pounds per square inch to kilopascals instantly. Perfect for engineering and automotive pressure measurements.">
+<meta name="keywords" content="psi to kpa converter 2026, pressure converter, engineering calculator, automotive pressure, tire pressure converter">
 <meta name="author" content="Thiyagi">
-<meta property="og:title" content="PSI to kPa Converter 2025 - Pressure Calculator">
-<meta property="og:description" content="Free online PSI to kPa converter 2025. Convert pounds per square inch to kilopascals instantly.">
+<meta property="og:title" content="PSI to kPa Converter 2026 - Pressure Calculator">
+<meta property="og:description" content="Free online PSI to kPa converter 2026. Convert pounds per square inch to kilopascals instantly.">
 <meta property="og:type" content="website">
 <meta property="og:url" content="https://www.thiyagi.com/psi-to-kpa.php">
 <meta property="og:image" content="https://www.thiyagi.com/nt.png">
 <meta property="og:site_name" content="Thiyagi">
 <meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:title" content="PSI to kPa Converter 2025 - Pressure Calculator">
-<meta name="twitter:description" content="Free online PSI to kPa converter 2025. Convert pounds per square inch to kilopascals instantly.">
+<meta name="twitter:title" content="PSI to kPa Converter 2026 - Pressure Calculator">
+<meta name="twitter:description" content="Free online PSI to kPa converter 2026. Convert pounds per square inch to kilopascals instantly.">
 <meta name="twitter:image" content="https://www.thiyagi.com/nt.png">
 
 <div class="min-h-screen bg-gradient-to-br from-blue-50 via-indigo-50 to-purple-50 py-12">

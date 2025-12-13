@@ -2,19 +2,19 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Haryana Holidays 2025 | Complete Calendar | Festivals | National Holidays</title>
-    <meta name="description" content="Complete Haryana Holiday Calendar 2025. Find all major festivals, national holidays, cultural events, and religious celebrations in Haryana. Plan your year with our comprehensive guide.">
-    <meta name="keywords" content="Haryana holidays 2025, Haryana festivals, Teej, Gangaur, national holidays India, cultural events Haryana, Haryana calendar, holidays Haryana, festival dates 2025">
+    <title>Haryana Holidays 2026 | Complete Calendar | Festivals | National Holidays</title>
+    <meta name="description" content="Complete Haryana Holiday Calendar 2026. Find all major festivals, national holidays, cultural events, and religious celebrations in Haryana. Plan your year with our comprehensive guide.">
+    <meta name="keywords" content="Haryana holidays 2026, Haryana festivals, Teej, Gangaur, national holidays India, cultural events Haryana, Haryana calendar, holidays Haryana, festival dates 2026">
     <meta name="author" content="Haryana Holiday Calendar">
     <meta name="robots" content="index, follow">
-    <meta property="og:title" content="Haryana Holidays 2025 - Complete Calendar">
-    <meta property="og:description" content="Complete Haryana Holiday Calendar 2025 with all festivals, national holidays, and cultural events. Plan your year with our comprehensive guide.">
+    <meta property="og:title" content="Haryana Holidays 2026 - Complete Calendar">
+    <meta property="og:description" content="Complete Haryana Holiday Calendar 2026 with all festivals, national holidays, and cultural events. Plan your year with our comprehensive guide.">
     <meta property="og:type" content="website">
     <meta property="og:url" content="<?php echo 'https://' . $_SERVER['HTTP_HOST'] . $_SERVER['REQUEST_URI']; ?>">
-    <meta property="og:image" content="https://via.placeholder.com/1200x630/006400/FFFFFF?text=Haryana+Holidays+2025"> <!-- Dark Green -->
+    <meta property="og:image" content="https://via.placeholder.com/1200x630/006400/FFFFFF?text=Haryana+Holidays+2026"> <!-- Dark Green -->
     <meta name="twitter:card" content="summary_large_image">
-    <meta name="twitter:title" content="Haryana Holidays 2025">
-    <meta name="twitter:description" content="Complete Haryana Holiday Calendar 2025 with all festivals and holidays.">
+    <meta name="twitter:title" content="Haryana Holidays 2026">
+    <meta name="twitter:description" content="Complete Haryana Holiday Calendar 2026 with all festivals and holidays.">
     <link rel="canonical" href="<?php echo 'https://' . $_SERVER['HTTP_HOST'] . $_SERVER['REQUEST_URI']; ?>">
     <meta name="language" content="English">
     <meta name="geo.region" content="IN-HR">
@@ -24,26 +24,26 @@
     {
         "@context": "https://schema.org",
         "@type": "WebPage",
-        "name": "Haryana Holidays 2025",
-        "description": "Complete Haryana Holiday Calendar 2025 with all festivals, national holidays, and cultural events",
+        "name": "Haryana Holidays 2026",
+        "description": "Complete Haryana Holiday Calendar 2026 with all festivals, national holidays, and cultural events",
         "url": "<?php echo 'https://' . $_SERVER['HTTP_HOST'] . $_SERVER['REQUEST_URI']; ?>",
         "mainEntity": {
             "@type": "FAQPage",
             "mainEntity": [
                 {
                     "@type": "Question",
-                    "name": "What are the main festivals in Haryana in 2025?",
+                    "name": "What are the main festivals in Haryana in 2026?",
                     "acceptedAnswer": {
                         "@type": "Answer",
-                        "text": "The main festivals in Haryana in 2025 include Teej (August 15), Gangaur (March 25), and Lohri (January 13)."
+                        "text": "The main festivals in Haryana in 2026 include Teej (August 15), Gangaur (March 25), and Lohri (January 13)."
                     }
                 },
                 {
                     "@type": "Question",
-                    "name": "How many national holidays are there in Haryana 2025?",
+                    "name": "How many national holidays are there in Haryana 2026?",
                     "acceptedAnswer": {
                         "@type": "Answer",
-                        "text": "There are several national holidays in Haryana 2025 including Republic Day (January 26), Independence Day (August 15), and Gandhi Jayanti (October 2)."
+                        "text": "There are several national holidays in Haryana 2026 including Republic Day (January 26), Independence Day (August 15), and Gandhi Jayanti (October 2)."
                     }
                 },
                 {
@@ -59,12 +59,12 @@
                     "name": "How is Independence Day celebrated in Haryana?",
                     "acceptedAnswer": {
                         "@type": "Answer",
-                        "text": "Independence Day (August 15, 2025) is celebrated with great patriotic fervor in Haryana. The day begins with flag hoisting ceremonies in schools, colleges, and government offices, often accompanied by cultural programs and parades."
+                        "text": "Independence Day (August 15, 2026) is celebrated with great patriotic fervor in Haryana. The day begins with flag hoisting ceremonies in schools, colleges, and government offices, often accompanied by cultural programs and parades."
                     }
                 },
                 {
                     "@type": "Question",
-                    "name": "Are there any special holidays specific to Haryana in 2025?",
+                    "name": "Are there any special holidays specific to Haryana in 2026?",
                     "acceptedAnswer": {
                         "@type": "Answer",
                         "text": "Yes, Haryana has several state-specific holidays and festivals. Teej, Gangaur, and Lohri are prominent cultural festivals unique to the region and are widely celebrated."
@@ -76,7 +76,7 @@
             "@type": "Organization",
             "name": "Haryana Holiday Calendar"
         },
-        "datePublished": "2025-01-01",
+        "datePublished": "2026-01-01",
         "dateModified": "<?php echo date('Y-m-d'); ?>"
     }
     </script>
@@ -100,122 +100,122 @@
 </head>
 <body class="bg-gradient-to-br from-green-50 to-blue-100 min-h-screen">
     <?php
-    // Haryana Holidays 2025 Data
+    // Haryana Holidays 2026 Data
     // Note: Dates for lunar/solar based festivals are estimates. Exact dates may vary.
-    $holidays_2025 = [
-        '2025-01-01' => [
+    $holidays_2026 = [
+        '2026-01-01' => [
             'name' => 'New Year\'s Day',
             'type' => 'National Holiday',
             'description' => 'Celebration of the new year',
             'icon' => 'fa-calendar-day',
             'bank_holiday' => true
         ],
-        '2025-01-13' => [ // Lohri - Approximate date (Winter Solstice)
+        '2026-01-13' => [ // Lohri - Approximate date (Winter Solstice)
             'name' => 'Lohri',
             'type' => 'Haryana Festival',
             'description' => 'Harvest festival marking end of winter',
             'icon' => 'fa-fire-burner',
             'bank_holiday' => true
         ],
-        '2025-01-14' => [ // Maghi - Day after Lohri
+        '2026-01-14' => [ // Maghi - Day after Lohri
             'name' => 'Maghi',
             'type' => 'Haryana Festival',
             'description' => 'Sikh religious observance, day after Lohri',
             'icon' => 'fa-book-quran',
             'bank_holiday' => true
         ],
-        '2025-01-26' => [
+        '2026-01-26' => [
             'name' => 'Republic Day',
             'type' => 'National Holiday',
             'description' => 'Celebration of Indian Republic',
             'icon' => 'fa-flag',
             'bank_holiday' => true
         ],
-        '2025-02-14' => [
+        '2026-02-14' => [
             'name' => 'Valentine\'s Day',
             'type' => 'International',
             'description' => 'Day of love and affection',
             'icon' => 'fa-heart',
             'bank_holiday' => false
         ],
-        '2025-03-08' => [
+        '2026-03-08' => [
             'name' => 'International Women\'s Day',
             'type' => 'International',
             'description' => 'Celebration of women\'s achievements',
             'icon' => 'fa-venus',
             'bank_holiday' => false
         ],
-        '2025-03-25' => [ // Gangaur - Approximate date (Phalgun Shukla Trayodashi)
+        '2026-03-25' => [ // Gangaur - Approximate date (Phalgun Shukla Trayodashi)
             'name' => 'Gangaur',
             'type' => 'Haryana Festival',
             'description' => 'Celebration of Goddess Gauri, primarily by women',
             'icon' => 'fa-person-dress',
             'bank_holiday' => true
         ],
-        '2025-04-14' => [
+        '2026-04-14' => [
             'name' => 'Ambedkar Jayanti',
             'type' => 'National Holiday',
             'description' => 'Birth anniversary of Dr. B.R. Ambedkar',
             'icon' => 'fa-graduation-cap',
             'bank_holiday' => true
         ],
-        '2025-05-01' => [
+        '2026-05-01' => [
             'name' => 'Labour Day / May Day',
             'type' => 'International',
             'description' => 'International Workers\' Day',
             'icon' => 'fa-hard-hat',
             'bank_holiday' => true
         ],
-        '2025-06-16' => [ // Eid al-Fitr - Approximate date
+        '2026-06-16' => [ // Eid al-Fitr - Approximate date
             'name' => 'Eid al-Fitr',
             'type' => 'Religious',
             'description' => 'End of Ramadan',
             'icon' => 'fa-moon',
             'bank_holiday' => true
         ],
-        '2025-08-15' => [
+        '2026-08-15' => [
             'name' => 'Independence Day',
             'type' => 'National Holiday',
             'description' => 'Indian Independence Day',
             'icon' => 'fa-dove',
             'bank_holiday' => true
         ],
-        '2025-08-15' => [ // Teej - Approximate date (Shravan Krishna Paksha)
+        '2026-08-15' => [ // Teej - Approximate date (Shravan Krishna Paksha)
             'name' => 'Teej',
             'type' => 'Haryana Festival',
             'description' => 'Festival for married women, celebrating monsoon',
             'icon' => 'fa-person-dress',
             'bank_holiday' => true
         ],
-        '2025-09-07' => [ // Ganesh Chaturthi - Approximate date
+        '2026-09-07' => [ // Ganesh Chaturthi - Approximate date
             'name' => 'Ganesh Chaturthi',
             'type' => 'Religious',
             'description' => 'Birth anniversary of Lord Ganesha',
             'icon' => 'fa-gem',
             'bank_holiday' => true
         ],
-        '2025-10-02' => [
+        '2026-10-02' => [
             'name' => 'Gandhi Jayanti',
             'type' => 'National Holiday',
             'description' => 'Birth anniversary of Mahatma Gandhi',
             'icon' => 'fa-peace',
             'bank_holiday' => true
         ],
-        '2025-10-28' => [ // Diwali - Approximate date
+        '2026-10-28' => [ // Diwali - Approximate date
             'name' => 'Diwali',
             'type' => 'Religious',
             'description' => 'Festival of lights',
             'icon' => 'fa-lightbulb',
             'bank_holiday' => true
         ],
-        '2025-11-14' => [
+        '2026-11-14' => [
             'name' => 'Children\'s Day',
             'type' => 'National',
             'description' => 'Birth anniversary of Jawaharlal Nehru',
             'icon' => 'fa-child',
             'bank_holiday' => false
         ],
-        '2025-12-25' => [
+        '2026-12-25' => [
             'name' => 'Christmas',
             'type' => 'Religious',
             'description' => 'Celebration of Jesus Christ\'s birth',
@@ -224,79 +224,79 @@
         ]
     ];
 
-    // Bank Holidays 2025 - Additional holidays specific to banks or common closures
-    $bank_holidays_2025 = [
-        '2025-01-25' => [
+    // Bank Holidays 2026 - Additional holidays specific to banks or common closures
+    $bank_holidays_2026 = [
+        '2026-01-25' => [
             'name' => 'Republic Day Eve',
             'type' => 'Bank Holiday',
             'description' => 'Day before Republic Day - Banks may close early',
             'icon' => 'fa-university',
             'bank_holiday' => true
         ],
-        '2025-03-01' => [ // Holi - Approximate date
+        '2026-03-01' => [ // Holi - Approximate date
             'name' => 'Holi',
             'type' => 'Bank Holiday',
             'description' => 'Festival of colors - Banks closed',
             'icon' => 'fa-spray-can-sparkles',
             'bank_holiday' => true
         ],
-        '2025-04-05' => [ // Good Friday - Approximate date
+        '2026-04-05' => [ // Good Friday - Approximate date
             'name' => 'Good Friday',
             'type' => 'Bank Holiday',
             'description' => 'Christian religious holiday - Banks closed',
             'icon' => 'fa-university',
             'bank_holiday' => true
         ],
-        '2025-04-07' => [ // Easter Monday - Approximate date
+        '2026-04-07' => [ // Easter Monday - Approximate date
             'name' => 'Easter Monday',
             'type' => 'Bank Holiday',
             'description' => 'Christian religious holiday - Banks closed',
             'icon' => 'fa-university',
             'bank_holiday' => true
         ],
-        '2025-06-17' => [ // Bakrid/Eid al-Adha - Approximate date
+        '2026-06-17' => [ // Bakrid/Eid al-Adha - Approximate date
             'name' => 'Bakrid/Eid al-Adha',
             'type' => 'Bank Holiday',
             'description' => 'Islamic festival - Banks closed',
             'icon' => 'fa-university',
             'bank_holiday' => true
         ],
-        '2025-07-17' => [ // Muharram - Approximate date
+        '2026-07-17' => [ // Muharram - Approximate date
             'name' => 'Muharram',
             'type' => 'Bank Holiday',
             'description' => 'Islamic New Year - Banks closed',
             'icon' => 'fa-university',
             'bank_holiday' => true
         ],
-        '2025-08-26' => [ // Janmashtami - Approximate date
+        '2026-08-26' => [ // Janmashtami - Approximate date
             'name' => 'Janmashtami',
             'type' => 'Bank Holiday',
             'description' => 'Birth anniversary of Lord Krishna',
             'icon' => 'fa-university',
             'bank_holiday' => true
         ],
-        '2025-09-24' => [ // Vijaya Dashami/Dussehra - Approximate date
+        '2026-09-24' => [ // Vijaya Dashami/Dussehra - Approximate date
             'name' => 'Vijaya Dashami/Dussehra',
             'type' => 'Bank Holiday',
             'description' => 'Tenth day of Navratri - Banks closed',
             'icon' => 'fa-university',
             'bank_holiday' => true
         ],
-        '2025-10-29' => [ // Diwali Holiday - Approximate date
+        '2026-10-29' => [ // Diwali Holiday - Approximate date
             'name' => 'Diwali Holiday',
             'type' => 'Bank Holiday',
             'description' => 'Day after Diwali - Banks closed',
             'icon' => 'fa-university',
             'bank_holiday' => true
         ],
-        '2025-11-15' => [ // Guru Nanak Jayanti - Approximate date
+        '2026-11-15' => [ // Guru Nanak Jayanti - Approximate date
             'name' => 'Guru Nanak Jayanti',
             'type' => 'Bank Holiday',
             'description' => 'Birth anniversary of Guru Nanak Dev Ji',
             'icon' => 'fa-university',
             'bank_holiday' => true
         ],
-        '2025-12-24' => [
+        '2026-12-24' => [
             'name' => 'Christmas Eve',
             'type' => 'Bank Holiday',
             'description' => 'Day before Christmas - Banks closed',
@@ -306,11 +306,11 @@
     ];
 
     // Merge all holidays
-    $all_holidays_2025 = array_merge($holidays_2025, $bank_holidays_2025);
+    $all_holidays_2026 = array_merge($holidays_2026, $bank_holidays_2026);
 
     // Get current month and year
     $current_month = isset($_GET['month']) ? (int)$_GET['month'] : (int)date('n');
-    $current_year = isset($_GET['year']) ? (int)$_GET['year'] : 2025;
+    $current_year = isset($_GET['year']) ? (int)$_GET['year'] : 2026;
 
     // Month names
     $month_names = [
@@ -357,7 +357,7 @@
                     </div>
                     <div>
                         <h1 class="text-4xl font-bold flex items-center space-x-3">
-                            <span>Haryana Holidays 2025</span>
+                            <span>Haryana Holidays 2026</span>
                             <i class="fas fa-wheat-awn text-2xl animate-bounce"></i> <!-- Wheat icon for agriculture -->
                         </h1>
                         <p class="text-lg opacity-90 flex items-center space-x-2">
@@ -377,7 +377,7 @@
                     </p>
                     <div class="mt-2 flex items-center space-x-2">
                         <i class="fas fa-gift text-yellow-200"></i>
-                        <span class="text-sm opacity-75"><?php echo count($all_holidays_2025); ?> Total Holidays</span>
+                        <span class="text-sm opacity-75"><?php echo count($all_holidays_2026); ?> Total Holidays</span>
                     </div>
                 </div>
             </div>
@@ -403,7 +403,7 @@
                 <li><i class="fas fa-chevron-right text-xs"></i></li>
                 <li><a href="#" class="hover:text-blue-600 transition-colors">Haryana</a></li>
                 <li><i class="fas fa-chevron-right text-xs"></i></li>
-                <li class="text-gray-800 font-medium">Holidays 2025</li>
+                <li class="text-gray-800 font-medium">Holidays 2026</li>
             </ol>
         </nav>
         <!-- SEO Introduction Section -->
@@ -411,11 +411,11 @@
             <div class="max-w-4xl mx-auto text-center">
                 <h2 class="text-3xl font-bold text-gray-800 mb-4 flex items-center justify-center space-x-3">
                     <i class="fas fa-calendar-alt text-green-600"></i>
-                    <span>Complete Haryana Holiday Calendar 2025</span>
+                    <span>Complete Haryana Holiday Calendar 2026</span>
                     <i class="fas fa-star text-yellow-500"></i>
                 </h2>
                 <p class="text-lg text-gray-700 mb-4 leading-relaxed">
-                    Welcome to the comprehensive Haryana Holiday Calendar 2025! This detailed guide provides you with all the important dates,
+                    Welcome to the comprehensive Haryana Holiday Calendar 2026! This detailed guide provides you with all the important dates,
                     festivals, and celebrations throughout the year. Whether you're planning a trip to the heartland of India, organizing events,
                     or simply want to stay informed about cultural celebrations, our calendar covers everything from vibrant local festivals
                     like Teej and Gangaur to national holidays and international observances.
@@ -591,8 +591,8 @@
                 // Days of the month
                 for ($day = 1; $day <= $days_in_month; $day++) {
                     $date = sprintf('%04d-%02d-%02d', $current_year, $current_month, $day);
-                    $is_holiday = isset($all_holidays_2025[$date]);
-                    $is_bank_holiday = isset($all_holidays_2025[$date]) && $all_holidays_2025[$date]['bank_holiday'] === true;
+                    $is_holiday = isset($all_holidays_2026[$date]);
+                    $is_bank_holiday = isset($all_holidays_2026[$date]) && $all_holidays_2026[$date]['bank_holiday'] === true;
                     $is_today = ($day == date('j') && $current_month == date('n') && $current_year == date('Y'));
                     $cell_classes = 'p-4 border-r border-b min-h-[100px] relative';
                     $cell_classes .= $is_today ? ' bg-yellow-100' : '';
@@ -604,7 +604,7 @@
                     echo '<div class="' . $cell_classes . '">';
                     echo '<div class="text-lg font-semibold text-gray-800 mb-2">' . $day . '</div>';
                     if ($is_holiday) {
-                        $holiday = $all_holidays_2025[$date];
+                        $holiday = $all_holidays_2026[$date];
                         $border_color = $is_bank_holiday ? 'border-blue-500' : 'border-green-500'; // Changed color for Haryana
                         $bg_color = $is_bank_holiday ? 'bg-blue-100' : 'bg-green-100'; // Changed color for Haryana
                         $text_color = $is_bank_holiday ? 'text-blue-800' : 'text-green-800'; // Changed color for Haryana
@@ -657,7 +657,7 @@
                     <?php
                     $today = date('Y-m-d');
                     $upcoming_count = 0;
-                    foreach ($all_holidays_2025 as $date => $holiday) {
+                    foreach ($all_holidays_2026 as $date => $holiday) {
                         if ($date >= $today && $upcoming_count < 5) {
                             $days_until = (strtotime($date) - strtotime($today)) / (60 * 60 * 24);
                             echo '<div class="flex items-center justify-between p-4 bg-gradient-to-r from-green-50 to-blue-50 rounded-lg border border-green-200 hover:shadow-md transition-all transform hover:scale-105">';
@@ -699,16 +699,16 @@
                     <div class="text-center p-4 bg-gradient-to-br from-green-50 to-green-100 rounded-lg border border-green-200 hover:shadow-md transition-all">
                         <div class="flex items-center justify-center space-x-2 mb-2">
                             <i class="fas fa-gift text-green-600 text-xl"></i>
-                            <div class="text-3xl font-bold text-green-600"><?php echo count($holidays_2025); ?></div>
+                            <div class="text-3xl font-bold text-green-600"><?php echo count($holidays_2026); ?></div>
                         </div>
                         <div class="text-sm text-green-700 font-medium">Total Holidays</div>
-                        <div class="text-xs text-green-600 mt-1"><?php echo count(array_filter($all_holidays_2025, function($h) { return $h['bank_holiday'] === true; })); ?> Bank Holidays</div>
+                        <div class="text-xs text-green-600 mt-1"><?php echo count(array_filter($all_holidays_2026, function($h) { return $h['bank_holiday'] === true; })); ?> Bank Holidays</div>
                         <div class="text-xs text-green-600 mt-1">🎉 Celebrations</div>
                     </div>
                     <div class="text-center p-4 bg-gradient-to-br from-orange-50 to-orange-100 rounded-lg border border-orange-200 hover:shadow-md transition-all"> <!-- Changed color -->
                         <div class="flex items-center justify-center space-x-2 mb-2">
                             <i class="fas fa-seedling text-orange-600 text-xl"></i> <!-- Changed icon and color -->
-                            <div class="text-3xl font-bold text-orange-600"><?php echo count(array_filter($holidays_2025, function($h) { return $h['type'] === 'Haryana Festival'; })); ?></div>
+                            <div class="text-3xl font-bold text-orange-600"><?php echo count(array_filter($holidays_2026, function($h) { return $h['type'] === 'Haryana Festival'; })); ?></div>
                         </div>
                         <div class="text-sm text-orange-700 font-medium">Haryana Festivals</div> <!-- Changed text -->
                         <div class="text-xs text-orange-600 mt-1">🌾 Cultural</div> <!-- Changed text -->
@@ -716,7 +716,7 @@
                     <div class="text-center p-4 bg-gradient-to-br from-yellow-50 to-yellow-100 rounded-lg border border-yellow-200 hover:shadow-md transition-all">
                         <div class="flex items-center justify-center space-x-2 mb-2">
                             <i class="fas fa-star text-yellow-600 text-xl"></i>
-                            <div class="text-3xl font-bold text-yellow-600"><?php echo count(array_filter($holidays_2025, function($h) { return $h['type'] === 'National Holiday'; })); ?></div>
+                            <div class="text-3xl font-bold text-yellow-600"><?php echo count(array_filter($holidays_2026, function($h) { return $h['type'] === 'National Holiday'; })); ?></div>
                         </div>
                         <div class="text-sm text-yellow-700 font-medium">National Holidays</div>
                         <div class="text-xs text-yellow-600 mt-1">🇮🇳 Patriotic</div>
@@ -724,7 +724,7 @@
                     <div class="text-center p-4 bg-gradient-to-br from-purple-50 to-purple-100 rounded-lg border border-purple-200 hover:shadow-md transition-all">
                         <div class="flex items-center justify-center space-x-2 mb-2">
                             <i class="fas fa-pray text-purple-600 text-xl"></i>
-                            <div class="text-3xl font-bold text-purple-600"><?php echo count(array_filter($all_holidays_2025, function($h) { return $h['type'] === 'Religious'; })); ?></div>
+                            <div class="text-3xl font-bold text-purple-600"><?php echo count(array_filter($all_holidays_2026, function($h) { return $h['type'] === 'Religious'; })); ?></div>
                         </div>
                         <div class="text-sm text-purple-700 font-medium">Religious</div>
                         <div class="text-xs text-purple-600 mt-1">⛪ Spiritual</div>
@@ -732,7 +732,7 @@
                     <div class="text-center p-4 bg-gradient-to-br from-blue-50 to-blue-100 rounded-lg border border-blue-200 hover:shadow-md transition-all">
                         <div class="flex items-center justify-center space-x-2 mb-2">
                             <i class="fas fa-university text-blue-600 text-xl"></i>
-                            <div class="text-3xl font-bold text-blue-600"><?php echo count(array_filter($all_holidays_2025, function($h) { return $h['bank_holiday'] === true; })); ?></div>
+                            <div class="text-3xl font-bold text-blue-600"><?php echo count(array_filter($all_holidays_2026, function($h) { return $h['bank_holiday'] === true; })); ?></div>
                         </div>
                         <div class="text-sm text-blue-700 font-medium">Bank Holidays</div>
                         <div class="text-xs text-blue-600 mt-1">🏦 Financial</div>
@@ -744,14 +744,14 @@
         <div class="mt-8 bg-white rounded-lg shadow-lg p-6 border-l-4 border-green-500">
             <h3 class="text-2xl font-bold text-gray-800 mb-4 flex items-center">
                 <i class="fas fa-university text-green-500 mr-3 text-2xl"></i>
-                <span>Bank Holidays 2025</span>
+                <span>Bank Holidays 2026</span>
                 <i class="fas fa-building-columns text-green-400 ml-2"></i>
             </h3>
             <p class="text-gray-600 mb-6">All major banks in Haryana will be closed on these dates. Plan your banking activities accordingly.</p>
             <div class="grid md:grid-cols-2 lg:grid-cols-3 gap-4">
                 <?php
                 $bank_holidays_displayed = 0;
-                foreach ($all_holidays_2025 as $date => $holiday) {
+                foreach ($all_holidays_2026 as $date => $holiday) {
                     if ($holiday['bank_holiday'] === true && $bank_holidays_displayed < 12) {
                         $formatted_date = date('M d, Y', strtotime($date));
                         $day_name = date('l', strtotime($date));
@@ -875,10 +875,10 @@
                     <div class="bg-gray-50 rounded-lg p-6 hover:shadow-md transition-all">
                         <h3 class="text-xl font-semibold text-gray-800 mb-3 flex items-center space-x-2">
                             <i class="fas fa-seedling text-green-500"></i> <!-- Changed icon and color -->
-                            <span>What are the main festivals in Haryana in 2025?</span>
+                            <span>What are the main festivals in Haryana in 2026?</span>
                         </h3>
                         <p class="text-gray-700 leading-relaxed">
-                            The main festivals in Haryana in 2025 include <strong>Teej</strong> (August 15) - a vibrant festival for women,
+                            The main festivals in Haryana in 2026 include <strong>Teej</strong> (August 15) - a vibrant festival for women,
                             <strong>Gangaur</strong> (March 25) - celebrating Goddess Gauri, and
                             <strong>Lohri</strong> (January 13) - a harvest festival marking the end of winter.
                         </p>
@@ -887,10 +887,10 @@
                     <div class="bg-gray-50 rounded-lg p-6 hover:shadow-md transition-all">
                         <h3 class="text-xl font-semibold text-gray-800 mb-3 flex items-center space-x-2">
                             <i class="fas fa-flag text-red-500"></i>
-                            <span>How many national holidays are there in Haryana 2025?</span>
+                            <span>How many national holidays are there in Haryana 2026?</span>
                         </h3>
                         <p class="text-gray-700 leading-relaxed">
-                            Haryana observes several national holidays in 2025 including <strong>Republic Day</strong> (January 26),
+                            Haryana observes several national holidays in 2026 including <strong>Republic Day</strong> (January 26),
                             <strong>Independence Day</strong> (August 15), and <strong>Gandhi Jayanti</strong> (October 2).
                             These are official government holidays when banks, schools, and government offices remain closed.
                         </p>
@@ -902,7 +902,7 @@
                             <span>What is Lohri and why is it important?</span>
                         </h3>
                         <p class="text-gray-700 leading-relaxed">
-                            <strong>Lohri</strong> (January 13, 2025) is a significant harvest festival in Haryana, celebrated in January.
+                            <strong>Lohri</strong> (January 13, 2026) is a significant harvest festival in Haryana, celebrated in January.
                             It marks the end of the winter solstice and the beginning of longer days. People gather around bonfires,
                             sing folk songs, dance (especially Bhangra and Gidda), and offer prayers for a good harvest and prosperity.
                             It's also associated with the birth of sons in the family.
@@ -915,7 +915,7 @@
                             <span>What is Gangaur and its significance?</span>
                         </h3>
                         <p class="text-gray-700 leading-relaxed">
-                            <strong>Gangaur</strong> (March 25, 2025) is a major festival dedicated to Goddess Gauri (Parvati), primarily celebrated by women in Haryana.
+                            <strong>Gangaur</strong> (March 25, 2026) is a major festival dedicated to Goddess Gauri (Parvati), primarily celebrated by women in Haryana.
                             Married women pray for the well-being of their husbands, while unmarried women pray for a good husband.
                             The festival involves creating clay idols of Gauri and Ishwar (Shiva), dressing them in fine clothes,
                             and carrying them in processions. It celebrates marital bliss and feminine power.
@@ -928,8 +928,8 @@
                             <span>Are international holidays like Valentine's Day celebrated in Haryana?</span>
                         </h3>
                         <p class="text-gray-700 leading-relaxed">
-                            Yes, <strong>Valentine's Day</strong> (February 14, 2025) and other international holidays like
-                            <strong>International Women's Day</strong> (March 8, 2025) are celebrated in Haryana, especially in
+                            Yes, <strong>Valentine's Day</strong> (February 14, 2026) and other international holidays like
+                            <strong>International Women's Day</strong> (March 8, 2026) are celebrated in Haryana, especially in
                             urban areas. While these are not official holidays, they are widely observed by younger generations and
                             commercial establishments, reflecting the state's cosmopolitan culture.
                         </p>
@@ -941,7 +941,7 @@
                             <span>What is Teej and how is it celebrated?</span>
                         </h3>
                         <p class="text-gray-700 leading-relaxed">
-                            <strong>Teej</strong> (August 15, 2025) is a festival dedicated to Goddess Parvati, celebrated with great enthusiasm by married women in Haryana.
+                            <strong>Teej</strong> (August 15, 2026) is a festival dedicated to Goddess Parvati, celebrated with great enthusiasm by married women in Haryana.
                             It marks the arrival of the monsoon season and celebrates the union of Lord Shiva and Parvati.
                             Women dress in colorful traditional attire (like Ghagra-Choli), apply henna (mehndi) on their hands,
                             swing on decorated swings, and participate in folk dances like Ghoomar. They also observe a fast and pray for their husband's well-being.
@@ -954,7 +954,7 @@
                             <span>Is Labour Day a public holiday in Haryana?</span>
                         </h3>
                         <p class="text-gray-700 leading-relaxed">
-                            <strong>Labour Day / May Day</strong> (May 1, 2025) is a public holiday in Haryana. Banks, government offices,
+                            <strong>Labour Day / May Day</strong> (May 1, 2026) is a public holiday in Haryana. Banks, government offices,
                             and many businesses typically remain closed. Trade unions and workers' organizations often organize rallies
                             and events to celebrate workers' rights and achievements.
                         </p>
@@ -966,7 +966,7 @@
                             <span>How is Independence Day celebrated in Haryana?</span>
                         </h3>
                         <p class="text-gray-700 leading-relaxed">
-                            <strong>Independence Day</strong> (August 15, 2025) is celebrated with great patriotic fervor in Haryana.
+                            <strong>Independence Day</strong> (August 15, 2026) is celebrated with great patriotic fervor in Haryana.
                             The day begins with flag hoisting ceremonies in schools, colleges, and government offices, often accompanied by cultural programs.
                             Major celebrations usually take place in state capitals like Chandigarh and important cities like Hisar, Rohtak, and Gurugram.
                         </p>
@@ -978,7 +978,7 @@
                             <span>What is the significance of Gandhi Jayanti in Haryana?</span>
                         </h3>
                         <p class="text-gray-700 leading-relaxed">
-                            <strong>Gandhi Jayanti</strong> (October 2, 2025) commemorates the birth anniversary of Mahatma Gandhi,
+                            <strong>Gandhi Jayanti</strong> (October 2, 2026) commemorates the birth anniversary of Mahatma Gandhi,
                             the Father of the Nation. In Haryana, this day is observed with prayer meetings, seminars on Gandhian
                             philosophy, and community service activities. Schools organize special assemblies, and government offices
                             remain closed. The day promotes Gandhian values of non-violence, truth, and simplicity.
@@ -991,7 +991,7 @@
                             <span>How is Children's Day celebrated in Haryana?</span>
                         </h3>
                         <p class="text-gray-700 leading-relaxed">
-                            <strong>Children's Day</strong> (November 14, 2025) celebrates the birth anniversary of India's first
+                            <strong>Children's Day</strong> (November 14, 2026) celebrates the birth anniversary of India's first
                             Prime Minister, Jawaharlal Nehru. In Haryana, schools organize special programs, cultural activities, and competitions for children.
                             Many schools also distribute sweets and gifts to students, making it a memorable day for children across the state.
                         </p>
@@ -1003,7 +1003,7 @@
                             <span>Is Christmas celebrated in Haryana?</span>
                         </h3>
                         <p class="text-gray-700 leading-relaxed">
-                            Yes, <strong>Christmas</strong> (December 25, 2025) is celebrated in Haryana, especially in areas with significant Christian populations
+                            Yes, <strong>Christmas</strong> (December 25, 2026) is celebrated in Haryana, especially in areas with significant Christian populations
                             like urban centers (Chandigarh, Gurugram, Faridabad). Churches are beautifully decorated,
                             midnight masses are held, and communities come together for celebrations.
                             The festival promotes communal harmony and is celebrated by people of all faiths.
@@ -1016,7 +1016,7 @@
                             <span>What is the significance of International Women's Day in Haryana?</span>
                         </h3>
                         <p class="text-gray-700 leading-relaxed">
-                            <strong>International Women's Day</strong> (March 8, 2025) is celebrated across Haryana to recognize
+                            <strong>International Women's Day</strong> (March 8, 2026) is celebrated across Haryana to recognize
                             women's achievements and promote gender equality. Various organizations, educational institutions, and
                             government bodies organize seminars, workshops, and cultural programs highlighting women's contributions
                             to society. The day also focuses on women's rights, empowerment, and addressing gender-based challenges.
@@ -1051,7 +1051,7 @@
                     <div class="bg-gray-50 rounded-lg p-6 hover:shadow-md transition-all">
                         <h3 class="text-xl font-semibold text-gray-800 mb-3 flex items-center space-x-2">
                             <i class="fas fa-calendar-check text-green-500"></i>
-                            <span>Are there any special holidays specific to Haryana in 2025?</span>
+                            <span>Are there any special holidays specific to Haryana in 2026?</span>
                         </h3>
                         <p class="text-gray-700 leading-relaxed">
                             Yes, Haryana has several state-specific holidays and festivals. <strong>Teej</strong>,
@@ -1132,7 +1132,7 @@
     <script>
         // JavaScript functionality
         // Holiday data for search functionality
-        const holidaysData = <?php echo json_encode($all_holidays_2025); ?>;
+        const holidaysData = <?php echo json_encode($all_holidays_2026); ?>;
         function searchHolidays() {
             const searchTerm = document.getElementById('searchInput').value.toLowerCase();
             const filterType = document.getElementById('filterType').value;
@@ -1234,21 +1234,21 @@
         }
         function downloadCalendar() {
             // Create a simple text version for download
-            const content = `Haryana Holidays 2025
+            const content = `Haryana Holidays 2026
 `;
             const blob = new Blob([content], { type: 'text/plain' });
             const url = window.URL.createObjectURL(blob);
             const a = document.createElement('a');
             a.href = url;
-            a.download = 'haryana-holidays-2025.txt';
+            a.download = 'haryana-holidays-2026.txt';
             a.click();
             window.URL.revokeObjectURL(url);
         }
         function shareCalendar() {
             if (navigator.share) {
                 navigator.share({
-                    title: 'Haryana Holidays 2025',
-                    text: 'Check out the Haryana holiday calendar for 2025!',
+                    title: 'Haryana Holidays 2026',
+                    text: 'Check out the Haryana holiday calendar for 2026!',
                     url: window.location.href
                 });
             } else {

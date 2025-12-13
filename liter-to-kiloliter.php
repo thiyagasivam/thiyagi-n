@@ -1,19 +1,19 @@
 <?php include 'header.php'; ?>
 
 <!-- SEO Meta Tags -->
-<title>Liter to Kiloliter Converter 2025 - L to kL Calculator | Thiyagi</title>
-<meta name="description" content="Free online Liter to Kiloliter converter 2025. Convert L to kL and kL to L instantly with accurate volume conversion for water management.">
-<meta name="keywords" content="liter to kiloliter converter 2025, L to kL, volume converter, water management, large volume, industrial measurements">
+<title>Liter to Kiloliter Converter 2026 - L to kL Calculator | Thiyagi</title>
+<meta name="description" content="Free online Liter to Kiloliter converter 2026. Convert L to kL and kL to L instantly with accurate volume conversion for water management.">
+<meta name="keywords" content="liter to kiloliter converter 2026, L to kL, volume converter, water management, large volume, industrial measurements">
 <meta name="author" content="Thiyagi">
-<meta property="og:title" content="Liter to Kiloliter Converter 2025 - L to kL Calculator">
-<meta property="og:description" content="Free online Liter to Kiloliter converter 2025. Convert L to kL and kL to L instantly.">
+<meta property="og:title" content="Liter to Kiloliter Converter 2026 - L to kL Calculator">
+<meta property="og:description" content="Free online Liter to Kiloliter converter 2026. Convert L to kL and kL to L instantly.">
 <meta property="og:type" content="website">
 <meta property="og:url" content="https://www.thiyagi.com/liter-to-kiloliter.php">
 <meta property="og:image" content="https://www.thiyagi.com/nt.png">
 <meta property="og:site_name" content="Thiyagi">
 <meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:title" content="Liter to Kiloliter Converter 2025 - L to kL Calculator">
-<meta property="twitter:description" content="Free online Liter to Kiloliter converter 2025. Convert L to kL and kL to L instantly.">
+<meta name="twitter:title" content="Liter to Kiloliter Converter 2026 - L to kL Calculator">
+<meta property="twitter:description" content="Free online Liter to Kiloliter converter 2026. Convert L to kL and kL to L instantly.">
 <meta name="twitter:image" content="https://www.thiyagi.com/nt.png">
 
 <div class="min-h-screen bg-gradient-to-br from-blue-50 via-sky-50 to-cyan-50 py-12">

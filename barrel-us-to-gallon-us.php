@@ -1,19 +1,19 @@
 <?php include 'header.php'; ?>
 
 <!-- SEO Meta Tags -->
-<title>Barrel US to Gallon US Converter 2025 - bbl to gal Calculator | Thiyagi</title>
-<meta name="description" content="Free online Barrel US to Gallon US converter 2025. Convert US barrel to US gallon and gal to bbl instantly with accurate volume conversion.">
-<meta name="keywords" content="barrel US to gallon US converter 2025, bbl to gal, oil barrel converter, petroleum volume, liquid measurement">
+<title>Barrel US to Gallon US Converter 2026 - bbl to gal Calculator | Thiyagi</title>
+<meta name="description" content="Free online Barrel US to Gallon US converter 2026. Convert US barrel to US gallon and gal to bbl instantly with accurate volume conversion.">
+<meta name="keywords" content="barrel US to gallon US converter 2026, bbl to gal, oil barrel converter, petroleum volume, liquid measurement">
 <meta name="author" content="Thiyagi">
-<meta property="og:title" content="Barrel US to Gallon US Converter 2025 - bbl to gal Calculator">
-<meta property="og:description" content="Free online Barrel US to Gallon US converter 2025. Convert US barrel to US gallon and gal to bbl instantly.">
+<meta property="og:title" content="Barrel US to Gallon US Converter 2026 - bbl to gal Calculator">
+<meta property="og:description" content="Free online Barrel US to Gallon US converter 2026. Convert US barrel to US gallon and gal to bbl instantly.">
 <meta property="og:type" content="website">
 <meta property="og:url" content="https://www.thiyagi.com/barrel-us-to-gallon-us.php">
 <meta property="og:image" content="https://www.thiyagi.com/nt.png">
 <meta property="og:site_name" content="Thiyagi">
 <meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:title" content="Barrel US to Gallon US Converter 2025 - bbl to gal Calculator">
-<meta name="twitter:description" content="Free online Barrel US to Gallon US converter 2025. Convert US barrel to US gallon and gal to bbl instantly.">
+<meta name="twitter:title" content="Barrel US to Gallon US Converter 2026 - bbl to gal Calculator">
+<meta name="twitter:description" content="Free online Barrel US to Gallon US converter 2026. Convert US barrel to US gallon and gal to bbl instantly.">
 <meta name="twitter:image" content="https://www.thiyagi.com/nt.png">
 
 <div class="min-h-screen bg-gradient-to-br from-amber-50 via-orange-50 to-red-50 py-12">

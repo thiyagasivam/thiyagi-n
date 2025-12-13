@@ -1,12 +1,12 @@
 <?php include 'header.php';?>
-<title>Pounds to Ounces Converter 2025 | lbs to oz | Free Weight Tool</title>
-<meta name="description" content="Convert pounds to ounces instantly with our 2025 accurate converter. Perfect lbs to oz conversion with real-time calculations for cooking and weight measurements.">
-<meta name="keywords" content="pounds to ounces converter 2025, lbs to oz converter, pounds ounces conversion, weight converter 2025, cooking calculator, food measurements, nutrition tools, dietary conversion, kitchen scales, weight calculator">
+<title>Pounds to Ounces Converter 2026 | lbs to oz | Free Weight Tool</title>
+<meta name="description" content="Convert pounds to ounces instantly with our 2026 accurate converter. Perfect lbs to oz conversion with real-time calculations for cooking and weight measurements.">
+<meta name="keywords" content="pounds to ounces converter 2026, lbs to oz converter, pounds ounces conversion, weight converter 2026, cooking calculator, food measurements, nutrition tools, dietary conversion, kitchen scales, weight calculator">
 <link rel="canonical" href="https://www.thiyagi.com/pounds-to-ounces">
 
 <!-- Open Graph Meta Tags -->
-<meta property="og:title" content="Pounds to Ounces Converter 2025 | lbs to oz | Free Weight Tool">
-<meta property="og:description" content="Convert pounds to ounces instantly with our 2025 accurate converter. Perfect lbs to oz conversion with real-time calculations for cooking and weight measurements.">
+<meta property="og:title" content="Pounds to Ounces Converter 2026 | lbs to oz | Free Weight Tool">
+<meta property="og:description" content="Convert pounds to ounces instantly with our 2026 accurate converter. Perfect lbs to oz conversion with real-time calculations for cooking and weight measurements.">
 <meta property="og:url" content="https://www.thiyagi.com/pounds-to-ounces">
 <meta property="og:type" content="website">
 <meta property="og:image" content="https://www.thiyagi.com/nt.png">
@@ -14,8 +14,8 @@
 
 <!-- Twitter Card Meta Tags -->
 <meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:title" content="Pounds to Ounces Converter 2025 | lbs to oz | Free Weight Tool">
-<meta name="twitter:description" content="Convert pounds to ounces instantly with our 2025 accurate converter. Perfect lbs to oz conversion with real-time calculations for cooking and weight measurements.">
+<meta name="twitter:title" content="Pounds to Ounces Converter 2026 | lbs to oz | Free Weight Tool">
+<meta name="twitter:description" content="Convert pounds to ounces instantly with our 2026 accurate converter. Perfect lbs to oz conversion with real-time calculations for cooking and weight measurements.">
 <meta name="twitter:image" content="https://www.thiyagi.com/nt.png">
 
 <!-- Additional SEO Meta Tags -->
@@ -47,7 +47,7 @@
   "@context": "https://schema.org",
   "@type": "WebApplication",
   "name": "Pounds to Ounces Converter",
-  "description": "Convert pounds to ounces instantly with our accurate 2025 calculator. Perfect lbs to oz conversion with real-time calculations for cooking and weight measurements.",
+  "description": "Convert pounds to ounces instantly with our accurate 2026 calculator. Perfect lbs to oz conversion with real-time calculations for cooking and weight measurements.",
   "url": "https://www.thiyagi.com/pounds-to-ounces",
   "applicationCategory": "UtilityApplication",
   "operatingSystem": "Web Browser",
@@ -187,7 +187,7 @@
           Pounds to Ounces Converter
         </h1>
         <p class="text-xl text-gray-600 mb-8 max-w-3xl mx-auto">
-          Convert pounds to ounces instantly with our accurate 2025 calculator. 
+          Convert pounds to ounces instantly with our accurate 2026 calculator. 
           Perfect for cooking recipes, food measurements, and nutritional calculations.
         </p>
       </div>

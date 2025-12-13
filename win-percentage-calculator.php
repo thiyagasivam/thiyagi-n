@@ -3,14 +3,14 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Win Percentage Calculator 2025 - Sports & Gaming Statistics | Thiyagi.com</title>
-    <meta name="description" content="Win percentage calculator 2025 - track wins, losses, and ties for sports teams, gaming records, and competitive performance with streak analysis and predictions.">
-    <meta name="keywords" content="win percentage calculator 2025, win rate calculator, sports statistics, gaming win rate, team performance, winning percentage">
+    <title>Win Percentage Calculator 2026 - Sports & Gaming Statistics | Thiyagi.com</title>
+    <meta name="description" content="Win percentage calculator 2026 - track wins, losses, and ties for sports teams, gaming records, and competitive performance with streak analysis and predictions.">
+    <meta name="keywords" content="win percentage calculator 2026, win rate calculator, sports statistics, gaming win rate, team performance, winning percentage">
     <meta name="author" content="Thiyagi">
     <meta name="robots" content="index, follow">
     
     <!-- Open Graph Meta Tags -->
-    <meta property="og:title" content="Win Percentage Calculator 2025 - Sports & Gaming Statistics">
+    <meta property="og:title" content="Win Percentage Calculator 2026 - Sports & Gaming Statistics">
     <meta property="og:description" content="Track wins, losses, and ties for sports teams and gaming with advanced statistics and streak analysis.">
     <meta property="og:url" content="https://www.thiyagi.com/win-percentage-calculator">
     <meta property="og:type" content="website">
@@ -18,7 +18,7 @@
     
     <!-- Twitter Card Meta Tags -->
     <meta name="twitter:card" content="summary_large_image">
-    <meta name="twitter:title" content="Win Percentage Calculator 2025 - Sports & Gaming Statistics">
+    <meta name="twitter:title" content="Win Percentage Calculator 2026 - Sports & Gaming Statistics">
     <meta name="twitter:description" content="Calculate win percentages and track performance for sports and gaming.">
     <meta name="twitter:image" content="https://www.thiyagi.com/nt.png">
     
@@ -87,7 +87,7 @@
 {
   "@context": "https://schema.org",
   "@type": "WebApplication",
-  "name": "Win Percentage Calculator 2025",
+  "name": "Win Percentage Calculator 2026",
   "description": "Calculate win percentages for sports teams, gaming records, and competitive performance with advanced statistics, streak analysis, and predictive insights.",
   "url": "https://www.thiyagi.com/win-percentage-calculator",
   "applicationCategory": "UtilityApplication",

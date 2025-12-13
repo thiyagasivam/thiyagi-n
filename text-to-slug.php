@@ -3,14 +3,14 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Text to Slug Converter 2025 - URL Slug Generator Tool | Thiyagi.com</title>
-    <meta name="description" content="Convert text to URL-friendly slugs instantly. Free text to slug converter 2025 with multiple formatting options, special character handling, and SEO optimization features.">
-    <meta name="keywords" content="text to slug converter 2025, URL slug generator, SEO slug tool, text formatter, URL friendly converter, web development tools, permalink generator">
+    <title>Text to Slug Converter 2026 - URL Slug Generator Tool | Thiyagi.com</title>
+    <meta name="description" content="Convert text to URL-friendly slugs instantly. Free text to slug converter 2026 with multiple formatting options, special character handling, and SEO optimization features.">
+    <meta name="keywords" content="text to slug converter 2026, URL slug generator, SEO slug tool, text formatter, URL friendly converter, web development tools, permalink generator">
     <meta name="author" content="Thiyagi">
     <meta name="robots" content="index, follow">
     
     <!-- Open Graph Meta Tags -->
-    <meta property="og:title" content="Text to Slug Converter 2025 - URL Slug Generator Tool">
+    <meta property="og:title" content="Text to Slug Converter 2026 - URL Slug Generator Tool">
     <meta property="og:description" content="Convert text to URL-friendly slugs instantly. Free text to slug converter with multiple formatting options and SEO optimization features.">
     <meta property="og:url" content="https://www.thiyagi.com/text-to-slug">
     <meta property="og:type" content="website">
@@ -18,7 +18,7 @@
     
     <!-- Twitter Card Meta Tags -->
     <meta name="twitter:card" content="summary_large_image">
-    <meta name="twitter:title" content="Text to Slug Converter 2025 - URL Slug Generator Tool">
+    <meta name="twitter:title" content="Text to Slug Converter 2026 - URL Slug Generator Tool">
     <meta name="twitter:description" content="Convert text to URL-friendly slugs instantly. Free text to slug converter with multiple formatting options and SEO optimization features.">
     <meta name="twitter:image" content="https://www.thiyagi.com/nt.png">
     
@@ -71,7 +71,7 @@
 {
   "@context": "https://schema.org",
   "@type": "WebApplication",
-  "name": "Text to Slug Converter 2025",
+  "name": "Text to Slug Converter 2026",
   "description": "Convert any text to URL-friendly slugs with customizable formatting options, special character handling, and SEO optimization features for web developers and content creators.",
   "url": "https://www.thiyagi.com/text-to-slug",
   "applicationCategory": "DeveloperApplication",
@@ -206,7 +206,7 @@
                 <textarea 
                     id="inputText" 
                     rows="4" 
-                    placeholder="Enter your text here... (e.g., How to Create Amazing Blog Posts in 2025)"
+                    placeholder="Enter your text here... (e.g., How to Create Amazing Blog Posts in 2026)"
                     class="w-full px-4 py-3 border border-gray-300 rounded-lg focus:ring-2 focus:ring-purple-500 focus:border-transparent resize-vertical"
                 ></textarea>
                 <div class="flex justify-between items-center mt-2">
@@ -391,10 +391,10 @@
             </h2>
             
             <div class="grid md:grid-cols-3 gap-6">
-                <div class="example-card bg-gray-50 p-4 rounded-lg cursor-pointer hover:bg-gray-100 transition-colors" data-example="How to Create Amazing Blog Posts in 2025">
+                <div class="example-card bg-gray-50 p-4 rounded-lg cursor-pointer hover:bg-gray-100 transition-colors" data-example="How to Create Amazing Blog Posts in 2026">
                     <h3 class="font-semibold text-gray-800 mb-2">Blog Title</h3>
-                    <div class="text-sm text-gray-600 mb-2">Input: "How to Create Amazing Blog Posts in 2025"</div>
-                    <div class="text-sm text-purple-600 font-mono">Output: how-to-create-amazing-blog-posts-in-2025</div>
+                    <div class="text-sm text-gray-600 mb-2">Input: "How to Create Amazing Blog Posts in 2026"</div>
+                    <div class="text-sm text-purple-600 font-mono">Output: how-to-create-amazing-blog-posts-in-2026</div>
                 </div>
 
                 <div class="example-card bg-gray-50 p-4 rounded-lg cursor-pointer hover:bg-gray-100 transition-colors" data-example="Best SEO Practices & Tips for Beginners!">

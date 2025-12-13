@@ -1,12 +1,12 @@
 <?php include 'header.php';?>
-<title>Cups to Liters Converter 2025 | Cup to L Calculator | Free Tool</title>
-<meta name="description" content="Professional cups to liters converter 2025. Convert cups to liters instantly with precision calculations. Perfect for cooking, baking, and recipe conversions.">
-<meta name="keywords" content="cups to liters converter 2025, cup to l calculator, cooking converter, recipe calculator, volume converter">
+<title>Cups to Liters Converter 2026 | Cup to L Calculator | Free Tool</title>
+<meta name="description" content="Professional cups to liters converter 2026. Convert cups to liters instantly with precision calculations. Perfect for cooking, baking, and recipe conversions.">
+<meta name="keywords" content="cups to liters converter 2026, cup to l calculator, cooking converter, recipe calculator, volume converter">
 <link rel="canonical" href="https://www.thiyagi.com/cups-to-liters">
 
 <!-- Open Graph Meta Tags -->
-<meta property="og:title" content="Cups to Liters Converter 2025 | Cup to L Calculator | Free Tool">
-<meta property="og:description" content="Professional cups to liters converter 2025. Convert cups to liters instantly with precision calculations. Perfect for cooking, baking, and recipe conversions.">
+<meta property="og:title" content="Cups to Liters Converter 2026 | Cup to L Calculator | Free Tool">
+<meta property="og:description" content="Professional cups to liters converter 2026. Convert cups to liters instantly with precision calculations. Perfect for cooking, baking, and recipe conversions.">
 <meta property="og:url" content="https://www.thiyagi.com/cups-to-liters">
 <meta property="og:type" content="website">
 <meta property="og:image" content="https://www.thiyagi.com/nt.png">
@@ -83,7 +83,7 @@
         </div>
         <h1 class="text-4xl md:text-6xl font-bold text-gray-900 mb-6">
           Cups to Liters Converter
-          <span class="block text-2xl md:text-3xl text-sky-600 mt-2">Professional 2025</span>
+          <span class="block text-2xl md:text-3xl text-sky-600 mt-2">Professional 2026</span>
         </h1>
         <p class="text-xl text-gray-600 mb-8 max-w-4xl mx-auto leading-relaxed">
           Convert US cups to liters with precision accuracy. Essential for cooking, baking, recipes, 

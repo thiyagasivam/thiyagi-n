@@ -1,19 +1,19 @@
 <?php include 'header.php'; ?>
 
 <!-- SEO Meta Tags -->
-<title>Liters to Pints Converter 2025 - L to pt Calculator | Thiyagi</title>
-<meta name="description" content="Free online Liters to Pints converter 2025. Convert liters to pints and pints to liters instantly with accurate volume measurement conversion.">
-<meta name="keywords" content="liters to pints converter 2025, L to pt, volume conversion, liquid measurement, cooking converter">
+<title>Liters to Pints Converter 2026 - L to pt Calculator | Thiyagi</title>
+<meta name="description" content="Free online Liters to Pints converter 2026. Convert liters to pints and pints to liters instantly with accurate volume measurement conversion.">
+<meta name="keywords" content="liters to pints converter 2026, L to pt, volume conversion, liquid measurement, cooking converter">
 <meta name="author" content="Thiyagi">
-<meta property="og:title" content="Liters to Pints Converter 2025 - L to pt Calculator">
-<meta property="og:description" content="Free online Liters to Pints converter 2025. Convert liters to pints and pints to liters instantly.">
+<meta property="og:title" content="Liters to Pints Converter 2026 - L to pt Calculator">
+<meta property="og:description" content="Free online Liters to Pints converter 2026. Convert liters to pints and pints to liters instantly.">
 <meta property="og:type" content="website">
 <meta property="og:url" content="https://www.thiyagi.com/liters-to-pints.php">
 <meta property="og:image" content="https://www.thiyagi.com/nt.png">
 <meta property="og:site_name" content="Thiyagi">
 <meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:title" content="Liters to Pints Converter 2025 - L to pt Calculator">
-<meta property="twitter:description" content="Free online Liters to Pints converter 2025. Convert liters to pints and pints to liters instantly.">
+<meta name="twitter:title" content="Liters to Pints Converter 2026 - L to pt Calculator">
+<meta property="twitter:description" content="Free online Liters to Pints converter 2026. Convert liters to pints and pints to liters instantly.">
 <meta name="twitter:image" content="https://www.thiyagi.com/nt.png">
 
 <div class="min-h-screen bg-gradient-to-br from-emerald-50 via-green-50 to-lime-50 py-12">

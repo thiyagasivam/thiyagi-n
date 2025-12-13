@@ -141,8 +141,8 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Free YouTube Region Restriction Checker 2025 - Check Video Availability</title>
-    <meta name="description" content="Check YouTube video region restrictions and availability worldwide. Professional tool to verify if videos are blocked in specific countries (2025).">
+    <title>Free YouTube Region Restriction Checker 2026 - Check Video Availability</title>
+    <meta name="description" content="Check YouTube video region restrictions and availability worldwide. Professional tool to verify if videos are blocked in specific countries (2026).">
     <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" rel="stylesheet">
 
     <!-- JSON-LD Structured Data -->

@@ -1,19 +1,19 @@
 <?php include 'header.php'; ?>
 
 <!-- SEO Meta Tags -->
-<title>Cycle per Second to Hertz Converter 2025 - cps to Hz Calculator | Thiyagi</title>
-<meta name="description" content="Free online Cycle per Second to Hertz converter 2025. Convert cps to Hz and Hz to cps instantly with accurate frequency unit conversion.">
-<meta name="keywords" content="cycle per second to hertz converter 2025, cps to hz, frequency conversion, oscillation measurement, wave frequency">
+<title>Cycle per Second to Hertz Converter 2026 - cps to Hz Calculator | Thiyagi</title>
+<meta name="description" content="Free online Cycle per Second to Hertz converter 2026. Convert cps to Hz and Hz to cps instantly with accurate frequency unit conversion.">
+<meta name="keywords" content="cycle per second to hertz converter 2026, cps to hz, frequency conversion, oscillation measurement, wave frequency">
 <meta name="author" content="Thiyagi">
-<meta property="og:title" content="Cycle per Second to Hertz Converter 2025 - cps to Hz Calculator">
-<meta property="og:description" content="Free online Cycle per Second to Hertz converter 2025. Convert cps to Hz and Hz to cps instantly.">
+<meta property="og:title" content="Cycle per Second to Hertz Converter 2026 - cps to Hz Calculator">
+<meta property="og:description" content="Free online Cycle per Second to Hertz converter 2026. Convert cps to Hz and Hz to cps instantly.">
 <meta property="og:type" content="website">
 <meta property="og:url" content="https://www.thiyagi.com/cycle-second-to-hertz.php">
 <meta property="og:image" content="https://www.thiyagi.com/nt.png">
 <meta property="og:site_name" content="Thiyagi">
 <meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:title" content="Cycle per Second to Hertz Converter 2025 - cps to Hz Calculator">
-<meta property="twitter:description" content="Free online Cycle per Second to Hertz converter 2025. Convert cps to Hz and Hz to cps instantly.">
+<meta name="twitter:title" content="Cycle per Second to Hertz Converter 2026 - cps to Hz Calculator">
+<meta property="twitter:description" content="Free online Cycle per Second to Hertz converter 2026. Convert cps to Hz and Hz to cps instantly.">
 <meta name="twitter:image" content="https://www.thiyagi.com/nt.png">
 
 <div class="min-h-screen bg-gradient-to-br from-purple-50 via-indigo-50 to-blue-50 py-12">

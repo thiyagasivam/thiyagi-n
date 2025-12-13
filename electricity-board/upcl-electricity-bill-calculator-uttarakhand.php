@@ -1,7 +1,7 @@
 <?php include '../header.php';?>
 <?php include 'breadcrumb-schema.php';?>
 <?php
-// Define UPCL 2025 tariff slabs for domestic residential consumers
+// Define UPCL 2026 tariff slabs for domestic residential consumers
 $tariff_slabs = [
     ['from' => 0, 'to' => 100, 'rate' => 3.25],
     ['from' => 101, 'to' => 200, 'rate' => 4.70],
@@ -49,8 +49,8 @@ if ($units > 0) {
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>UPCL Bill Calculator (2025) - Uttarakhand Electricity Bill Estimator</title>
-    <meta name="description" content="Calculate your UPCL electricity bill for 2025 based on domestic residential tariff slabs. Includes fixed charges and accurate calculations.">
+    <title>UPCL Bill Calculator (2026) - Uttarakhand Electricity Bill Estimator</title>
+    <meta name="description" content="Calculate your UPCL electricity bill for 2026 based on domestic residential tariff slabs. Includes fixed charges and accurate calculations.">
     
     <!-- Tailwind CSS via CDN -->
     <script src="https://cdn.tailwindcss.com"></script>
@@ -129,14 +129,14 @@ if ($units > 0) {
         // Share the calculator
         function shareCalculator() {
             const url = encodeURIComponent(window.location.href);
-            const text = encodeURIComponent("Check out this UPCL Electricity Bill Calculator for 2025 - My estimated bill is ₹" + 
+            const text = encodeURIComponent("Check out this UPCL Electricity Bill Calculator for 2026 - My estimated bill is ₹" + 
                                          document.getElementById('total_amount').textContent);
             
             if (navigator.share) {
                 // Use Web Share API if available
                 navigator.share({
                     title: 'UPCL Bill Calculator',
-                    text: 'Calculate your UPCL electricity bill for 2025',
+                    text: 'Calculate your UPCL electricity bill for 2026',
                     url: window.location.href
                 }).catch(err => {
                     console.log('Error sharing:', err);
@@ -201,7 +201,7 @@ if ($units > 0) {
         <!-- Header -->
         <header class="mb-8 text-center">
             <h1 class="text-3xl font-bold text-green-600 dark:text-green-400">UPCL Electricity Bill Calculator</h1>
-            <p class="text-gray-600 dark:text-gray-400 mt-2">2025 Domestic Residential Tariff Calculator for Uttarakhand</p>
+            <p class="text-gray-600 dark:text-gray-400 mt-2">2026 Domestic Residential Tariff Calculator for Uttarakhand</p>
         </header>
 
         <!-- Calculator Card -->
@@ -238,7 +238,7 @@ if ($units > 0) {
                         <div class="flex justify-between items-center">
                             <div>
                                 <h3 class="font-semibold text-lg">Estimated Total Bill</h3>
-                                <p class="text-sm text-green-700 dark:text-green-300">Based on UPCL 2025 domestic rates</p>
+                                <p class="text-sm text-green-700 dark:text-green-300">Based on UPCL 2026 domestic rates</p>
                             </div>
                             <div class="text-3xl font-bold text-green-600 dark:text-green-400">
                                 ₹<span id="total_amount"><?= number_format($total, 2) ?></span>
@@ -310,7 +310,7 @@ if ($units > 0) {
         <div class="bg-white dark:bg-gray-800 rounded-lg shadow-lg overflow-hidden print-content">
             <div class="p-6">
                 <h2 class="text-2xl font-semibold mb-4 flex items-center">
-                    <i data-lucide="info" class="mr-2"></i> 2025 Domestic Tariff Slabs (UPCL)
+                    <i data-lucide="info" class="mr-2"></i> 2026 Domestic Tariff Slabs (UPCL)
                 </h2>
                 
                 <div class="overflow-x-auto">
@@ -345,7 +345,7 @@ if ($units > 0) {
                     <ul class="list-disc pl-5 mt-2 text-yellow-700 dark:text-yellow-300 space-y-1">
                         <li>This calculator is for <strong>domestic residential consumers</strong> only.</li>
                         <li>Fixed charges: ₹<?= $fixed_charges ?> per month (included if checked).</li>
-                        <li>Rates are based on UPCL's 2025 domestic tariff structure.</li>
+                        <li>Rates are based on UPCL's 2026 domestic tariff structure.</li>
                         <li>This is an estimate only. Your actual bill may vary based on additional charges.</li>
                         <li>For official billing information, please visit UPCL's website.</li>
                     </ul>

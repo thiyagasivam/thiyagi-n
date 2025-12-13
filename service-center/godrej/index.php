@@ -37,7 +37,7 @@ $conn->close();
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Godrej Authorized Service Centers Near Me 2025</title>
+    <title>Godrej Authorized Service Centers Near Me 2026</title>
     <script src="https://cdn.tailwindcss.com"></script>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
     <style>
@@ -67,7 +67,7 @@ $conn->close();
             <div class="flex items-center justify-between">
                 <div class="flex items-center space-x-3">
                     <i class="fas fa-home godrej-primary text-2xl"></i>
-                    <h1 class="text-xl font-bold text-gray-800">Godrej Service Centers Near Me 2025</h1>
+                    <h1 class="text-xl font-bold text-gray-800">Godrej Service Centers Near Me 2026</h1>
                 </div>
                 <span class="bg-gray-100 text-gray-800 px-3 py-1 rounded-full text-sm">
                     <i class="fas fa-store mr-1"></i>
@@ -81,7 +81,7 @@ $conn->close();
     <div class="godrej-gradient">
         <div class="container mx-auto px-4 py-8">
             <div class="max-w-3xl mx-auto text-center">
-                <h2 class="text-2xl font-bold text-gray-800 mb-2">Find an Authorized Godrej Service Center Near Me 2025</h2>
+                <h2 class="text-2xl font-bold text-gray-800 mb-2">Find an Authorized Godrej Service Center Near Me 2026</h2>
                 <p class="text-gray-600 mb-6">Get professional service for your Godrej appliances and products</p>
                 
                 <!-- Search Form -->

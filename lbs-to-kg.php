@@ -1,12 +1,12 @@
 <?php include 'header.php';?>
-<title>Pound to Kilogram Converter 2025 | LBS to KG | Free Tool</title>
-<meta name="description" content="Convert pound to kilogram instantly with our 2025 accurate converter. Perfect lbs to kg conversion with real-time calculations for weight measurements.">
-<meta name="keywords" content="pound to kilogram 2025, lbs kg converter, weight unit conversion 2025, fitness weight calculator, lbs kg conversion">
+<title>Pound to Kilogram Converter 2026 | LBS to KG | Free Tool</title>
+<meta name="description" content="Convert pound to kilogram instantly with our 2026 accurate converter. Perfect lbs to kg conversion with real-time calculations for weight measurements.">
+<meta name="keywords" content="pound to kilogram 2026, lbs kg converter, weight unit conversion 2026, fitness weight calculator, lbs kg conversion">
 <link rel="canonical" href="https://www.thiyagi.com/lbs-to-kg">
 
 <!-- Open Graph Meta Tags -->
-<meta property="og:title" content="Pound to Kilogram Converter 2025 | LBS to KG | Free Tool">
-<meta property="og:description" content="Convert pound to kilogram instantly with our 2025 accurate converter. Perfect lbs to kg conversion with real-time calculations for weight measurements.">
+<meta property="og:title" content="Pound to Kilogram Converter 2026 | LBS to KG | Free Tool">
+<meta property="og:description" content="Convert pound to kilogram instantly with our 2026 accurate converter. Perfect lbs to kg conversion with real-time calculations for weight measurements.">
 <meta property="og:url" content="https://www.thiyagi.com/lbs-to-kg">
 <meta property="og:type" content="website">
 <meta property="og:image" content="https://www.thiyagi.com/nt.png">
@@ -14,8 +14,8 @@
 
 <!-- Twitter Card Meta Tags -->
 <meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:title" content="Pound to Kilogram Converter 2025 | LBS to KG | Free Tool">
-<meta name="twitter:description" content="Convert pound to kilogram instantly with our 2025 accurate converter. Perfect lbs to kg conversion with real-time calculations for weight measurements.">
+<meta name="twitter:title" content="Pound to Kilogram Converter 2026 | LBS to KG | Free Tool">
+<meta name="twitter:description" content="Convert pound to kilogram instantly with our 2026 accurate converter. Perfect lbs to kg conversion with real-time calculations for weight measurements.">
 <meta name="twitter:image" content="https://www.thiyagi.com/nt.png">
 
 <!-- Additional SEO Meta Tags -->
@@ -39,7 +39,7 @@
           Pound to Kilogram Converter
         </h1>
         <p class="text-xl text-gray-600 mb-8 max-w-3xl mx-auto">
-          Convert pounds to kilograms instantly with our accurate 2025 calculator. 
+          Convert pounds to kilograms instantly with our accurate 2026 calculator. 
           Perfect for fitness tracking, weight management, and international weight conversions.
         </p>
       </div>
@@ -157,16 +157,16 @@
     <article class="bg-white rounded-xl shadow-lg p-8">
       <h2 class="text-2xl font-bold text-gray-800 mb-6 flex items-center gap-3">
         <i class="fas fa-info-circle text-cyan-600" aria-hidden="true"></i>
-        Pound to Kilogram Conversion 2025
+        Pound to Kilogram Conversion 2026
       </h2>
       <div class="prose max-w-none text-gray-600">
         <p class="mb-4">
-          Converting pounds to kilograms is essential for fitness tracking, weight management, and international weight conversions in 2025. 
+          Converting pounds to kilograms is essential for fitness tracking, weight management, and international weight conversions in 2026. 
           This weight unit conversion enables accurate calculations for athletes, 
           health professionals, and travelers working with international weight standards.
         </p>
         <p class="mb-6">
-          Our 2025 converter provides instant and accurate conversions from pounds to kilograms, essential for fitness enthusiasts, 
+          Our 2026 converter provides instant and accurate conversions from pounds to kilograms, essential for fitness enthusiasts, 
           healthcare professionals, athletes, and travelers working with weight measurements. 
           One pound equals approximately 0.453592 kilograms.
         </p>

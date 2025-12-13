@@ -1,19 +1,19 @@
 <?php include 'header.php'; ?>
 
 <!-- SEO Meta Tags -->
-<title>Pound Force to Kilonewton Converter 2025 - Force Calculator | Thiyagi</title>
-<meta name="description" content="Free online pound force to kilonewton converter 2025. Convert lbf to kN instantly with accurate force conversion for engineering applications.">
-<meta name="keywords" content="pound force to kilonewton converter 2025, lbf to kN, force converter, engineering calculator, structural converter">
+<title>Pound Force to Kilonewton Converter 2026 - Force Calculator | Thiyagi</title>
+<meta name="description" content="Free online pound force to kilonewton converter 2026. Convert lbf to kN instantly with accurate force conversion for engineering applications.">
+<meta name="keywords" content="pound force to kilonewton converter 2026, lbf to kN, force converter, engineering calculator, structural converter">
 <meta name="author" content="Thiyagi">
-<meta property="og:title" content="Pound Force to Kilonewton Converter 2025 - Force Calculator">
-<meta property="og:description" content="Free online pound force to kilonewton converter 2025. Convert lbf to kN instantly with accurate force conversion.">
+<meta property="og:title" content="Pound Force to Kilonewton Converter 2026 - Force Calculator">
+<meta property="og:description" content="Free online pound force to kilonewton converter 2026. Convert lbf to kN instantly with accurate force conversion.">
 <meta property="og:type" content="website">
 <meta property="og:url" content="https://www.thiyagi.com/pound-force-to-kilonewton.php">
 <meta property="og:image" content="https://www.thiyagi.com/nt.png">
 <meta property="og:site_name" content="Thiyagi">
 <meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:title" content="Pound Force to Kilonewton Converter 2025 - Force Calculator">
-<meta name="twitter:description" content="Free online pound force to kilonewton converter 2025. Convert lbf to kN instantly.">
+<meta name="twitter:title" content="Pound Force to Kilonewton Converter 2026 - Force Calculator">
+<meta name="twitter:description" content="Free online pound force to kilonewton converter 2026. Convert lbf to kN instantly.">
 <meta name="twitter:image" content="https://www.thiyagi.com/nt.png">
 
 <div class="min-h-screen bg-gradient-to-br from-red-50 via-rose-50 to-pink-50 py-12">

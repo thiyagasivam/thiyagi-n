@@ -1,19 +1,19 @@
 <?php include 'header.php'; ?>
 
 <!-- SEO Meta Tags -->
-<title>Pound-force per Square Foot to PSI Converter 2025 - psf to psi Calculator | Thiyagi</title>
-<meta name="description" content="Free online Pound-force per Square Foot to PSI converter 2025. Convert psf to psi and psi to psf instantly with accurate pressure conversion.">
-<meta name="keywords" content="pound-force square foot to psi converter 2025, psf to psi, pressure converter, engineering pressure, structural analysis">
+<title>Pound-force per Square Foot to PSI Converter 2026 - psf to psi Calculator | Thiyagi</title>
+<meta name="description" content="Free online Pound-force per Square Foot to PSI converter 2026. Convert psf to psi and psi to psf instantly with accurate pressure conversion.">
+<meta name="keywords" content="pound-force square foot to psi converter 2026, psf to psi, pressure converter, engineering pressure, structural analysis">
 <meta name="author" content="Thiyagi">
-<meta property="og:title" content="Pound-force per Square Foot to PSI Converter 2025 - psf to psi Calculator">
-<meta property="og:description" content="Free online Pound-force per Square Foot to PSI converter 2025. Convert psf to psi and psi to psf instantly.">
+<meta property="og:title" content="Pound-force per Square Foot to PSI Converter 2026 - psf to psi Calculator">
+<meta property="og:description" content="Free online Pound-force per Square Foot to PSI converter 2026. Convert psf to psi and psi to psf instantly.">
 <meta property="og:type" content="website">
 <meta property="og:url" content="https://www.thiyagi.com/pound-force-square-foot-to-psi.php">
 <meta property="og:image" content="https://www.thiyagi.com/nt.png">
 <meta property="og:site_name" content="Thiyagi">
 <meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:title" content="Pound-force per Square Foot to PSI Converter 2025 - psf to psi Calculator">
-<meta name="twitter:description" content="Free online Pound-force per Square Foot to PSI converter 2025. Convert psf to psi and psi to psf instantly.">
+<meta name="twitter:title" content="Pound-force per Square Foot to PSI Converter 2026 - psf to psi Calculator">
+<meta name="twitter:description" content="Free online Pound-force per Square Foot to PSI converter 2026. Convert psf to psi and psi to psf instantly.">
 <meta name="twitter:image" content="https://www.thiyagi.com/nt.png">
 
 <div class="min-h-screen bg-gradient-to-br from-emerald-50 via-teal-50 to-green-50 py-12">

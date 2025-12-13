@@ -1,19 +1,19 @@
 <?php include 'header.php'; ?>
 
 <!-- SEO Meta Tags -->
-<title>Minute to Millisecond Converter 2025 - min to ms Calculator | Thiyagi</title>
-<meta name="description" content="Free online Minute to Millisecond converter 2025. Convert min to ms and ms to min instantly with accurate time conversion for programming and timing calculations.">
-<meta name="keywords" content="minute to millisecond converter 2025, min to ms, time converter, programming time, computer timing, millisecond precision">
+<title>Minute to Millisecond Converter 2026 - min to ms Calculator | Thiyagi</title>
+<meta name="description" content="Free online Minute to Millisecond converter 2026. Convert min to ms and ms to min instantly with accurate time conversion for programming and timing calculations.">
+<meta name="keywords" content="minute to millisecond converter 2026, min to ms, time converter, programming time, computer timing, millisecond precision">
 <meta name="author" content="Thiyagi">
-<meta property="og:title" content="Minute to Millisecond Converter 2025 - min to ms Calculator">
-<meta property="og:description" content="Free online Minute to Millisecond converter 2025. Convert min to ms and ms to min instantly.">
+<meta property="og:title" content="Minute to Millisecond Converter 2026 - min to ms Calculator">
+<meta property="og:description" content="Free online Minute to Millisecond converter 2026. Convert min to ms and ms to min instantly.">
 <meta property="og:type" content="website">
 <meta property="og:url" content="https://www.thiyagi.com/minute-to-millisecond.php">
 <meta property="og:image" content="https://www.thiyagi.com/nt.png">
 <meta property="og:site_name" content="Thiyagi">
 <meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:title" content="Minute to Millisecond Converter 2025 - min to ms Calculator">
-<meta name="twitter:description" content="Free online Minute to Millisecond converter 2025. Convert min to ms and ms to min instantly.">
+<meta name="twitter:title" content="Minute to Millisecond Converter 2026 - min to ms Calculator">
+<meta name="twitter:description" content="Free online Minute to Millisecond converter 2026. Convert min to ms and ms to min instantly.">
 <meta name="twitter:image" content="https://www.thiyagi.com/nt.png">
 
 <div class="min-h-screen bg-gradient-to-br from-green-50 via-teal-50 to-cyan-50 py-12">

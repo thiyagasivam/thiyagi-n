@@ -4,9 +4,9 @@ include 'header.php';
 $header_content = ob_get_clean();
 
 // Insert title and meta tags into the head section
-$title = 'KB to MB Converter 2025 | Data Storage Conversion Tool | Free Calculator';
-$description = 'Convert kilobytes to megabytes instantly with our 2025 accurate data storage converter. Perfect for file size calculations and storage planning.';
-$keywords = 'kb to mb converter 2025, data storage conversion calculator, kilobyte megabyte converter, file size calculator, storage calculator';
+$title = 'KB to MB Converter 2026 | Data Storage Conversion Tool | Free Calculator';
+$description = 'Convert kilobytes to megabytes instantly with our 2026 accurate data storage converter. Perfect for file size calculations and storage planning.';
+$keywords = 'kb to mb converter 2026, data storage conversion calculator, kilobyte megabyte converter, file size calculator, storage calculator';
 $canonical = 'https://www.thiyagi.com/kb-to-mb';
 
 $meta_tags = '<title>' . htmlspecialchars($title) . '</title>' . "\n";

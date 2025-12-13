@@ -1,7 +1,7 @@
 <?php include 'header.php'; ?>
-<title>Milligrams to Grams Converter 2025 | Weight Conversion Tool | Free Calculator</title>
-<meta name="description" content="Convert milligrams to grams instantly with our 2025 accurate weight converter. Perfect for medicine, cooking, and precise measurements.">
-<meta name="keywords" content="milligrams to grams converter 2025, weight conversion calculator, mg gram converter, medicine dosage, cooking measurements">
+<title>Milligrams to Grams Converter 2026 | Weight Conversion Tool | Free Calculator</title>
+<meta name="description" content="Convert milligrams to grams instantly with our 2026 accurate weight converter. Perfect for medicine, cooking, and precise measurements.">
+<meta name="keywords" content="milligrams to grams converter 2026, weight conversion calculator, mg gram converter, medicine dosage, cooking measurements">
 <link rel="canonical" href="https://www.thiyagi.com/milligrams-to-grams">
 
 <div class="min-h-screen bg-gradient-to-br from-pink-50 to-rose-100 py-8">

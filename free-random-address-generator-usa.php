@@ -3,14 +3,14 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Free Random Address Generator USA 2025 - Generate US Addresses | Thiyagi.com</title>
-    <meta name="description" content="Generate random US addresses 2025 for testing, development, and form filling. Free American address generator with real ZIP codes, cities, and states.">
-    <meta name="keywords" content="random address generator usa 2025, fake address generator, us address generator, random american addresses, testing addresses, development addresses">
+    <title>Free Random Address Generator USA 2026 - Generate US Addresses | Thiyagi.com</title>
+    <meta name="description" content="Generate random US addresses 2026 for testing, development, and form filling. Free American address generator with real ZIP codes, cities, and states.">
+    <meta name="keywords" content="random address generator usa 2026, fake address generator, us address generator, random american addresses, testing addresses, development addresses">
     <meta name="author" content="Thiyagi">
     <meta name="robots" content="index, follow">
     
     <!-- Open Graph Meta Tags -->
-    <meta property="og:title" content="Free Random Address Generator USA 2025 - Generate US Addresses">
+    <meta property="og:title" content="Free Random Address Generator USA 2026 - Generate US Addresses">
     <meta property="og:description" content="Generate random US addresses for testing, development, and form filling. Free American address generator with real ZIP codes and cities.">
     <meta property="og:url" content="https://www.thiyagi.com/free-random-address-generator-usa">
     <meta property="og:type" content="website">
@@ -18,7 +18,7 @@
     
     <!-- Twitter Card Meta Tags -->
     <meta name="twitter:card" content="summary_large_image">
-    <meta name="twitter:title" content="Free Random Address Generator USA 2025 - Generate US Addresses">
+    <meta name="twitter:title" content="Free Random Address Generator USA 2026 - Generate US Addresses">
     <meta name="twitter:description" content="Generate random US addresses for testing and development. Free American address generator with real ZIP codes.">
     <meta name="twitter:image" content="https://www.thiyagi.com/nt.png">
     
@@ -69,7 +69,7 @@
 {
   "@context": "https://schema.org",
   "@type": "WebApplication",
-  "name": "Free Random Address Generator USA 2025",
+  "name": "Free Random Address Generator USA 2026",
   "description": "Generate random US addresses for testing, development, and form filling purposes. Free American address generator with real ZIP codes, cities, and states.",
   "url": "https://www.thiyagi.com/free-random-address-generator-usa",
   "applicationCategory": "UtilityApplication",

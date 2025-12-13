@@ -100,8 +100,8 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Free YouTube Subscribe Link Generator 2025 - Grow Your Channel</title>
-    <meta name="description" content="Generate YouTube channel subscription links for easy subscriber growth. Professional subscription link creator for content creators and marketers (2025).">
+    <title>Free YouTube Subscribe Link Generator 2026 - Grow Your Channel</title>
+    <meta name="description" content="Generate YouTube channel subscription links for easy subscriber growth. Professional subscription link creator for content creators and marketers (2026).">
     <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" rel="stylesheet">
 
     <!-- JSON-LD Structured Data -->

@@ -1,19 +1,19 @@
 <?php include 'header.php'; ?>
 
 <!-- SEO Meta Tags -->
-<title>Quart US to Pint US Converter 2025 - qt to pt Calculator | Thiyagi</title>
-<meta name="description" content="Free online Quart US to Pint US converter 2025. Convert qt to pt and pt to qt instantly with accurate volume conversion.">
-<meta name="keywords" content="quart US to pint US converter 2025, qt to pt, volume conversion, cooking measurements, liquid units calculator">
+<title>Quart US to Pint US Converter 2026 - qt to pt Calculator | Thiyagi</title>
+<meta name="description" content="Free online Quart US to Pint US converter 2026. Convert qt to pt and pt to qt instantly with accurate volume conversion.">
+<meta name="keywords" content="quart US to pint US converter 2026, qt to pt, volume conversion, cooking measurements, liquid units calculator">
 <meta name="author" content="Thiyagi">
-<meta property="og:title" content="Quart US to Pint US Converter 2025 - qt to pt Calculator">
-<meta property="og:description" content="Free online Quart US to Pint US converter 2025. Convert qt to pt and pt to qt instantly.">
+<meta property="og:title" content="Quart US to Pint US Converter 2026 - qt to pt Calculator">
+<meta property="og:description" content="Free online Quart US to Pint US converter 2026. Convert qt to pt and pt to qt instantly.">
 <meta property="og:type" content="website">
 <meta property="og:url" content="https://www.thiyagi.com/quart-us-to-pint-us.php">
 <meta property="og:image" content="https://www.thiyagi.com/nt.png">
 <meta property="og:site_name" content="Thiyagi">
 <meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:title" content="Quart US to Pint US Converter 2025 - qt to pt Calculator">
-<meta property="twitter:description" content="Free online Quart US to Pint US converter 2025. Convert qt to pt and pt to qt instantly.">
+<meta name="twitter:title" content="Quart US to Pint US Converter 2026 - qt to pt Calculator">
+<meta property="twitter:description" content="Free online Quart US to Pint US converter 2026. Convert qt to pt and pt to qt instantly.">
 <meta name="twitter:image" content="https://www.thiyagi.com/nt.png">
 
 <div class="min-h-screen bg-gradient-to-br from-yellow-50 via-amber-50 to-orange-50 py-12">

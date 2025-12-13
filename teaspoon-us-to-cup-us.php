@@ -1,19 +1,19 @@
 <?php include 'header.php'; ?>
 
 <!-- SEO Meta Tags -->
-<title>Teaspoon US to Cup US Converter 2025 - tsp to cup | Thiyagi</title>
-<meta name="description" content="Free online teaspoon US to cup US converter 2025. Convert tsp to cup instantly with accurate formula: cup = tsp ÷ 48.">
-<meta name="keywords" content="teaspoon to cup 2025, tsp to cup converter, US cooking measurements, recipe converter, kitchen calculator">
+<title>Teaspoon US to Cup US Converter 2026 - tsp to cup | Thiyagi</title>
+<meta name="description" content="Free online teaspoon US to cup US converter 2026. Convert tsp to cup instantly with accurate formula: cup = tsp ÷ 48.">
+<meta name="keywords" content="teaspoon to cup 2026, tsp to cup converter, US cooking measurements, recipe converter, kitchen calculator">
 <meta name="author" content="Thiyagi">
-<meta property="og:title" content="Teaspoon US to Cup US Converter 2025 - tsp to cup">
-<meta property="og:description" content="Free online teaspoon US to cup US converter 2025. Convert tsp to cup instantly.">
+<meta property="og:title" content="Teaspoon US to Cup US Converter 2026 - tsp to cup">
+<meta property="og:description" content="Free online teaspoon US to cup US converter 2026. Convert tsp to cup instantly.">
 <meta property="og:type" content="website">
 <meta property="og:url" content="https://www.thiyagi.com/teaspoon-us-to-cup-us.php">
 <meta property="og:image" content="https://www.thiyagi.com/nt.png">
 <meta property="og:site_name" content="Thiyagi">
 <meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:title" content="Teaspoon US to Cup US Converter 2025 - tsp to cup">
-<meta name="twitter:description" content="Free online teaspoon US to cup US converter 2025. Convert tsp to cup instantly.">
+<meta name="twitter:title" content="Teaspoon US to Cup US Converter 2026 - tsp to cup">
+<meta name="twitter:description" content="Free online teaspoon US to cup US converter 2026. Convert tsp to cup instantly.">
 <meta name="twitter:image" content="https://www.thiyagi.com/nt.png">
 
 <div class="min-h-screen bg-gradient-to-br from-pink-50 via-rose-50 to-red-50 py-12">

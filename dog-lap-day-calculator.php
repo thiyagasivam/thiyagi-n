@@ -3,14 +3,14 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Dog Lap Day Calculator 2025 - National Dog Day Fun Calculator | Thiyagi.com</title>
-    <meta name="description" content="Dog lap day calculator 2025 - calculate your dog's lap day frequency based on size, breed, and personality. Fun National Dog Day calculator with cute dog statistics.">
-    <meta name="keywords" content="dog lap day calculator 2025, national dog day calculator, dog size calculator, dog breed calculator, pet lap time">
+    <title>Dog Lap Day Calculator 2026 - National Dog Day Fun Calculator | Thiyagi.com</title>
+    <meta name="description" content="Dog lap day calculator 2026 - calculate your dog's lap day frequency based on size, breed, and personality. Fun National Dog Day calculator with cute dog statistics.">
+    <meta name="keywords" content="dog lap day calculator 2026, national dog day calculator, dog size calculator, dog breed calculator, pet lap time">
     <meta name="author" content="Thiyagi">
     <meta name="robots" content="index, follow">
     
     <!-- Open Graph Meta Tags -->
-    <meta property="og:title" content="Dog Lap Day Calculator 2025 - National Dog Day Fun Calculator">
+    <meta property="og:title" content="Dog Lap Day Calculator 2026 - National Dog Day Fun Calculator">
     <meta property="og:description" content="Calculate your dog's lap day frequency based on size, breed, and personality with our fun dog calculator.">
     <meta property="og:url" content="https://www.thiyagi.com/dog-lap-day-calculator">
     <meta property="og:type" content="website">
@@ -18,7 +18,7 @@
     
     <!-- Twitter Card Meta Tags -->
     <meta name="twitter:card" content="summary_large_image">
-    <meta name="twitter:title" content="Dog Lap Day Calculator 2025 - National Dog Day Fun Calculator">
+    <meta name="twitter:title" content="Dog Lap Day Calculator 2026 - National Dog Day Fun Calculator">
     <meta name="twitter:description" content="Calculate your dog's lap day frequency with our fun National Dog Day calculator.">
     <meta name="twitter:image" content="https://www.thiyagi.com/nt.png">
     
@@ -78,7 +78,7 @@
 {
   "@context": "https://schema.org",
   "@type": "WebApplication",
-  "name": "Dog Lap Day Calculator 2025",
+  "name": "Dog Lap Day Calculator 2026",
   "description": "Fun calculator to determine your dog's lap day frequency based on size, breed, personality, and owner preferences. Perfect for National Dog Day celebrations.",
   "url": "https://www.thiyagi.com/dog-lap-day-calculator",
   "applicationCategory": "EntertainmentApplication",

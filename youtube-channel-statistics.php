@@ -177,8 +177,8 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Free YouTube Channel Statistics Analyzer 2025 - Complete Channel Metrics</title>
-    <meta name="description" content="Get detailed YouTube channel statistics including subscribers, views, videos count and engagement metrics. Professional analytics tool (2025).">
+    <title>Free YouTube Channel Statistics Analyzer 2026 - Complete Channel Metrics</title>
+    <meta name="description" content="Get detailed YouTube channel statistics including subscribers, views, videos count and engagement metrics. Professional analytics tool (2026).">
     <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" rel="stylesheet">
 
     <!-- JSON-LD Structured Data -->

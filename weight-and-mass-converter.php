@@ -1,19 +1,19 @@
 <?php include 'header.php'; ?>
 
 <!-- SEO Meta Tags -->
-<title>Weight and Mass Converter 2025 - Universal Calculator | Thiyagi</title>
-<meta name="description" content="Free online weight and mass converter 2025. Convert between kg, lbs, grams, ounces and more units instantly with accurate conversion rates.">
-<meta name="keywords" content="weight and mass converter 2025, weight converter, mass converter, kg to lbs, unit converter">
+<title>Weight and Mass Converter 2026 - Universal Calculator | Thiyagi</title>
+<meta name="description" content="Free online weight and mass converter 2026. Convert between kg, lbs, grams, ounces and more units instantly with accurate conversion rates.">
+<meta name="keywords" content="weight and mass converter 2026, weight converter, mass converter, kg to lbs, unit converter">
 <meta name="author" content="Thiyagi">
-<meta property="og:title" content="Weight and Mass Converter 2025 - Universal Calculator">
-<meta property="og:description" content="Free online weight and mass converter 2025. Convert between multiple weight and mass units instantly.">
+<meta property="og:title" content="Weight and Mass Converter 2026 - Universal Calculator">
+<meta property="og:description" content="Free online weight and mass converter 2026. Convert between multiple weight and mass units instantly.">
 <meta property="og:type" content="website">
 <meta property="og:url" content="https://www.thiyagi.com/weight-and-mass-converter.php">
 <meta property="og:image" content="https://www.thiyagi.com/nt.png">
 <meta property="og:site_name" content="Thiyagi">
 <meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:title" content="Weight and Mass Converter 2025 - Universal Calculator">
-<meta name="twitter:description" content="Free online weight and mass converter 2025. Convert between multiple weight and mass units.">
+<meta name="twitter:title" content="Weight and Mass Converter 2026 - Universal Calculator">
+<meta name="twitter:description" content="Free online weight and mass converter 2026. Convert between multiple weight and mass units.">
 <meta name="twitter:image" content="https://www.thiyagi.com/nt.png">
 
 <div class="min-h-screen bg-gradient-to-br from-purple-50 via-pink-50 to-rose-50 py-12">

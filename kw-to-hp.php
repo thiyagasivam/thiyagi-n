@@ -1,12 +1,12 @@
 <?php include 'header.php';?>
-<title>Kilowatts to Horsepower Converter 2025 | kW to HP Calculator | Free Tool</title>
-<meta name="description" content="Professional kilowatts to horsepower converter 2025. Convert kW to HP instantly with precision calculations. Perfect for automotive, engineering, and power measurements.">
-<meta name="keywords" content="kilowatts to horsepower converter 2025, kW to HP calculator, power converter, automotive calculator, engine power">
+<title>Kilowatts to Horsepower Converter 2026 | kW to HP Calculator | Free Tool</title>
+<meta name="description" content="Professional kilowatts to horsepower converter 2026. Convert kW to HP instantly with precision calculations. Perfect for automotive, engineering, and power measurements.">
+<meta name="keywords" content="kilowatts to horsepower converter 2026, kW to HP calculator, power converter, automotive calculator, engine power">
 <link rel="canonical" href="https://www.thiyagi.com/kw-to-hp">
 
 <!-- Open Graph Meta Tags -->
-<meta property="og:title" content="Kilowatts to Horsepower Converter 2025 | kW to HP Calculator | Free Tool">
-<meta property="og:description" content="Professional kilowatts to horsepower converter 2025. Convert kW to HP instantly with precision calculations. Perfect for automotive, engineering, and power measurements.">
+<meta property="og:title" content="Kilowatts to Horsepower Converter 2026 | kW to HP Calculator | Free Tool">
+<meta property="og:description" content="Professional kilowatts to horsepower converter 2026. Convert kW to HP instantly with precision calculations. Perfect for automotive, engineering, and power measurements.">
 <meta property="og:url" content="https://www.thiyagi.com/kw-to-hp">
 <meta property="og:type" content="website">
 <meta property="og:image" content="https://www.thiyagi.com/nt.png">
@@ -83,7 +83,7 @@
         </div>
         <h1 class="text-4xl md:text-6xl font-bold text-gray-900 mb-6">
           Kilowatts to Horsepower Converter
-          <span class="block text-2xl md:text-3xl text-red-600 mt-2">Professional 2025</span>
+          <span class="block text-2xl md:text-3xl text-red-600 mt-2">Professional 2026</span>
         </h1>
         <p class="text-xl text-gray-600 mb-8 max-w-4xl mx-auto leading-relaxed">
           Convert kilowatts to horsepower with precision accuracy. Essential for automotive specifications, 

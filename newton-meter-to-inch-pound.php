@@ -5,9 +5,9 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Newton Meter to Inch Pound Converter 2025 - Torque Conversion Calculator</title>
-    <meta name="description" content="Convert Newton meters to inch pounds with our free 2025 online calculator. Perfect for automotive, engineering, and mechanical applications.">
-    <meta name="keywords" content="newton meter to inch pound converter 2025, torque converter, automotive calculator, mechanical engineering 2025">
+    <title>Newton Meter to Inch Pound Converter 2026 - Torque Conversion Calculator</title>
+    <meta name="description" content="Convert Newton meters to inch pounds with our free 2026 online calculator. Perfect for automotive, engineering, and mechanical applications.">
+    <meta name="keywords" content="newton meter to inch pound converter 2026, torque converter, automotive calculator, mechanical engineering 2026">
     <script src="https://cdn.tailwindcss.com"></script>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
 </head>

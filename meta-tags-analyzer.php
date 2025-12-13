@@ -60,8 +60,8 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Meta Tags Analyzer 2025 - Free SEO Metadata Checker & Preview Tool</title>
-<meta name="description" content="Free online meta tags analyzer for 2025. Audit and optimize your page's metadata for better SEO. Preview search snippets, check lengths, and improve click-through rates instantly.">
+    <title>Meta Tags Analyzer 2026 - Free SEO Metadata Checker & Preview Tool</title>
+<meta name="description" content="Free online meta tags analyzer for 2026. Audit and optimize your page's metadata for better SEO. Preview search snippets, check lengths, and improve click-through rates instantly.">
     <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" rel="stylesheet">
 
 </head>

@@ -1,19 +1,19 @@
 <?php include 'header.php'; ?>
 
 <!-- SEO Meta Tags -->
-<title>BTU/h to MBH Converter 2025 - BTU per Hour to Thousand BTU per Hour Calculator | Thiyagi</title>
-<meta name="description" content="Free online BTU/h to MBH converter 2025. Convert BTU per hour to thousand BTU per hour and MBH to BTU/h instantly with accurate heating conversion.">
-<meta name="keywords" content="BTU/h to MBH converter 2025, BTU per hour to MBH, heating conversion, HVAC units, thermal energy calculator">
+<title>BTU/h to MBH Converter 2026 - BTU per Hour to Thousand BTU per Hour Calculator | Thiyagi</title>
+<meta name="description" content="Free online BTU/h to MBH converter 2026. Convert BTU per hour to thousand BTU per hour and MBH to BTU/h instantly with accurate heating conversion.">
+<meta name="keywords" content="BTU/h to MBH converter 2026, BTU per hour to MBH, heating conversion, HVAC units, thermal energy calculator">
 <meta name="author" content="Thiyagi">
-<meta property="og:title" content="BTU/h to MBH Converter 2025 - BTU per Hour to Thousand BTU per Hour Calculator">
-<meta property="og:description" content="Free online BTU/h to MBH converter 2025. Convert BTU per hour to thousand BTU per hour instantly.">
+<meta property="og:title" content="BTU/h to MBH Converter 2026 - BTU per Hour to Thousand BTU per Hour Calculator">
+<meta property="og:description" content="Free online BTU/h to MBH converter 2026. Convert BTU per hour to thousand BTU per hour instantly.">
 <meta property="og:type" content="website">
 <meta property="og:url" content="https://www.thiyagi.com/btu-it-hour-to-mbh.php">
 <meta property="og:image" content="https://www.thiyagi.com/nt.png">
 <meta property="og:site_name" content="Thiyagi">
 <meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:title" content="BTU/h to MBH Converter 2025 - BTU per Hour to Thousand BTU per Hour Calculator">
-<meta property="twitter:description" content="Free online BTU/h to MBH converter 2025. Convert BTU per hour to thousand BTU per hour instantly.">
+<meta name="twitter:title" content="BTU/h to MBH Converter 2026 - BTU per Hour to Thousand BTU per Hour Calculator">
+<meta property="twitter:description" content="Free online BTU/h to MBH converter 2026. Convert BTU per hour to thousand BTU per hour instantly.">
 <meta name="twitter:image" content="https://www.thiyagi.com/nt.png">
 
 <div class="min-h-screen bg-gradient-to-br from-red-50 via-pink-50 to-rose-50 py-12">

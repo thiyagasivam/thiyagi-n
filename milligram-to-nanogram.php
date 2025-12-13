@@ -1,19 +1,19 @@
 <?php include 'header.php'; ?>
 
 <!-- SEO Meta Tags -->
-<title>Milligram to Nanogram Converter 2025 - mg to ng Calculator | Thiyagi</title>
-<meta name="description" content="Free online Milligram to Nanogram converter 2025. Convert mg to ng and ng to mg instantly with accurate micro-scale weight conversion.">
-<meta name="keywords" content="milligram to nanogram converter 2025, mg to ng, micro weight, pharmaceutical dosing, laboratory measurements, precision scale">
+<title>Milligram to Nanogram Converter 2026 - mg to ng Calculator | Thiyagi</title>
+<meta name="description" content="Free online Milligram to Nanogram converter 2026. Convert mg to ng and ng to mg instantly with accurate micro-scale weight conversion.">
+<meta name="keywords" content="milligram to nanogram converter 2026, mg to ng, micro weight, pharmaceutical dosing, laboratory measurements, precision scale">
 <meta name="author" content="Thiyagi">
-<meta property="og:title" content="Milligram to Nanogram Converter 2025 - mg to ng Calculator">
-<meta property="og:description" content="Free online Milligram to Nanogram converter 2025. Convert mg to ng and ng to mg instantly.">
+<meta property="og:title" content="Milligram to Nanogram Converter 2026 - mg to ng Calculator">
+<meta property="og:description" content="Free online Milligram to Nanogram converter 2026. Convert mg to ng and ng to mg instantly.">
 <meta property="og:type" content="website">
 <meta property="og:url" content="https://www.thiyagi.com/milligram-to-nanogram.php">
 <meta property="og:image" content="https://www.thiyagi.com/nt.png">
 <meta property="og:site_name" content="Thiyagi">
 <meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:title" content="Milligram to Nanogram Converter 2025 - mg to ng Calculator">
-<meta property="twitter:description" content="Free online Milligram to Nanogram converter 2025. Convert mg to ng and ng to mg instantly.">
+<meta name="twitter:title" content="Milligram to Nanogram Converter 2026 - mg to ng Calculator">
+<meta property="twitter:description" content="Free online Milligram to Nanogram converter 2026. Convert mg to ng and ng to mg instantly.">
 <meta name="twitter:image" content="https://www.thiyagi.com/nt.png">
 
 <div class="min-h-screen bg-gradient-to-br from-pink-50 via-rose-50 to-red-50 py-12">

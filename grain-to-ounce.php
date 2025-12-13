@@ -1,19 +1,19 @@
 <?php include 'header.php'; ?>
 
 <!-- SEO Meta Tags -->
-<title>Grain to Ounce Converter 2025 - gr to oz Calculator | Thiyagi</title>
-<meta name="description" content="Free online Grain to Ounce converter 2025. Convert gr to oz and oz to gr instantly with accurate weight conversion.">
-<meta name="keywords" content="grain to ounce converter 2025, gr to oz, weight converter, apothecary weight, precision measurement">
+<title>Grain to Ounce Converter 2026 - gr to oz Calculator | Thiyagi</title>
+<meta name="description" content="Free online Grain to Ounce converter 2026. Convert gr to oz and oz to gr instantly with accurate weight conversion.">
+<meta name="keywords" content="grain to ounce converter 2026, gr to oz, weight converter, apothecary weight, precision measurement">
 <meta name="author" content="Thiyagi">
-<meta property="og:title" content="Grain to Ounce Converter 2025 - gr to oz Calculator">
-<meta property="og:description" content="Free online Grain to Ounce converter 2025. Convert gr to oz and oz to gr instantly.">
+<meta property="og:title" content="Grain to Ounce Converter 2026 - gr to oz Calculator">
+<meta property="og:description" content="Free online Grain to Ounce converter 2026. Convert gr to oz and oz to gr instantly.">
 <meta property="og:type" content="website">
 <meta property="og:url" content="https://www.thiyagi.com/grain-to-ounce.php">
 <meta property="og:image" content="https://www.thiyagi.com/nt.png">
 <meta property="og:site_name" content="Thiyagi">
 <meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:title" content="Grain to Ounce Converter 2025 - gr to oz Calculator">
-<meta property="twitter:description" content="Free online Grain to Ounce converter 2025. Convert gr to oz and oz to gr instantly.">
+<meta name="twitter:title" content="Grain to Ounce Converter 2026 - gr to oz Calculator">
+<meta property="twitter:description" content="Free online Grain to Ounce converter 2026. Convert gr to oz and oz to gr instantly.">
 <meta name="twitter:image" content="https://www.thiyagi.com/nt.png">
 
 <div class="min-h-screen bg-gradient-to-br from-yellow-50 via-amber-50 to-orange-50 py-12">

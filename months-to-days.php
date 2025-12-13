@@ -1,19 +1,19 @@
 <?php include 'header.php'; ?>
 
 <!-- SEO Meta Tags -->
-<title>Months to Days Converter 2025 - Convert Months to Days | Thiyagi</title>
-<meta name="description" content="Free online months to days converter 2025. Convert months to days instantly considering leap years and month variations.">
-<meta name="keywords" content="months to days 2025, month day converter, time calculator, calendar converter, date calculation">
+<title>Months to Days Converter 2026 - Convert Months to Days | Thiyagi</title>
+<meta name="description" content="Free online months to days converter 2026. Convert months to days instantly considering leap years and month variations.">
+<meta name="keywords" content="months to days 2026, month day converter, time calculator, calendar converter, date calculation">
 <meta name="author" content="Thiyagi">
-<meta property="og:title" content="Months to Days Converter 2025 - Convert Months to Days">
-<meta property="og:description" content="Free online months to days converter 2025. Convert months to days instantly.">
+<meta property="og:title" content="Months to Days Converter 2026 - Convert Months to Days">
+<meta property="og:description" content="Free online months to days converter 2026. Convert months to days instantly.">
 <meta property="og:type" content="website">
 <meta property="og:url" content="https://www.thiyagi.com/months-to-days.php">
 <meta property="og:image" content="https://www.thiyagi.com/nt.png">
 <meta property="og:site_name" content="Thiyagi">
 <meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:title" content="Months to Days Converter 2025 - Convert Months to Days">
-<meta name="twitter:description" content="Free online months to days converter 2025. Convert months to days instantly.">
+<meta name="twitter:title" content="Months to Days Converter 2026 - Convert Months to Days">
+<meta name="twitter:description" content="Free online months to days converter 2026. Convert months to days instantly.">
 <meta name="twitter:image" content="https://www.thiyagi.com/nt.png">
 
 <div class="min-h-screen bg-gradient-to-br from-green-50 via-emerald-50 to-teal-50 py-12">

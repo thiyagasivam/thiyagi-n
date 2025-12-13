@@ -33,8 +33,8 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Lumpsum Calculator 2025 - Free Mutual Fund & SIP Returns Calculator</title>
-<meta name="description" content="Free online lumpsum investment calculator for 2025. Estimate returns on mutual funds, stocks, or fixed deposits. Compare one-time vs. SIP investments with detailed growth projections.">
+    <title>Lumpsum Calculator 2026 - Free Mutual Fund & SIP Returns Calculator</title>
+<meta name="description" content="Free online lumpsum investment calculator for 2026. Estimate returns on mutual funds, stocks, or fixed deposits. Compare one-time vs. SIP investments with detailed growth projections.">
     <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" rel="stylesheet">
     <style>
         .slider-thumb::-webkit-slider-thumb {

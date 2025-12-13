@@ -4,9 +4,9 @@ include 'header.php';
 $header_content = ob_get_clean();
 
 // Insert title and meta tags into the head section
-$title = 'Days to Hours Converter 2025 | Time Conversion Tool | Free Calculator';
-$description = 'Convert days to hours instantly with our 2025 accurate time converter. Perfect for project planning, scheduling, and duration calculations.';
-$keywords = 'days to hours converter 2025, time conversion calculator, day hour converter, scheduling calculator, project planning';
+$title = 'Days to Hours Converter 2026 | Time Conversion Tool | Free Calculator';
+$description = 'Convert days to hours instantly with our 2026 accurate time converter. Perfect for project planning, scheduling, and duration calculations.';
+$keywords = 'days to hours converter 2026, time conversion calculator, day hour converter, scheduling calculator, project planning';
 $canonical = 'https://www.thiyagi.com/days-to-hours';
 
 $meta_tags = '<title>' . htmlspecialchars($title) . '</title>' . "\n";

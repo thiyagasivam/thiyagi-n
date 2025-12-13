@@ -1,19 +1,19 @@
 <?php include 'header.php'; ?>
 
 <!-- SEO Meta Tags -->
-<title>Liter Minute to Cubic Foot Minute Converter 2025 - L/min to CFM Calculator | Thiyagi</title>
-<meta name="description" content="Free online Liter Minute to Cubic Foot Minute converter 2025. Convert L/min to CFM and CFM to L/min instantly with accurate flow rate conversion.">
-<meta name="keywords" content="liter minute to cubic foot minute converter 2025, L/min to CFM, flow rate converter, HVAC, ventilation, air flow">
+<title>Liter Minute to Cubic Foot Minute Converter 2026 - L/min to CFM Calculator | Thiyagi</title>
+<meta name="description" content="Free online Liter Minute to Cubic Foot Minute converter 2026. Convert L/min to CFM and CFM to L/min instantly with accurate flow rate conversion.">
+<meta name="keywords" content="liter minute to cubic foot minute converter 2026, L/min to CFM, flow rate converter, HVAC, ventilation, air flow">
 <meta name="author" content="Thiyagi">
-<meta property="og:title" content="Liter Minute to Cubic Foot Minute Converter 2025 - L/min to CFM Calculator">
-<meta property="og:description" content="Free online Liter Minute to Cubic Foot Minute converter 2025. Convert L/min to CFM and CFM to L/min instantly.">
+<meta property="og:title" content="Liter Minute to Cubic Foot Minute Converter 2026 - L/min to CFM Calculator">
+<meta property="og:description" content="Free online Liter Minute to Cubic Foot Minute converter 2026. Convert L/min to CFM and CFM to L/min instantly.">
 <meta property="og:type" content="website">
 <meta property="og:url" content="https://www.thiyagi.com/liter-minute-to-cubic-foot-minute.php">
 <meta property="og:image" content="https://www.thiyagi.com/nt.png">
 <meta property="og:site_name" content="Thiyagi">
 <meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:title" content="Liter Minute to Cubic Foot Minute Converter 2025 - L/min to CFM Calculator">
-<meta property="twitter:description" content="Free online Liter Minute to Cubic Foot Minute converter 2025. Convert L/min to CFM and CFM to L/min instantly.">
+<meta name="twitter:title" content="Liter Minute to Cubic Foot Minute Converter 2026 - L/min to CFM Calculator">
+<meta property="twitter:description" content="Free online Liter Minute to Cubic Foot Minute converter 2026. Convert L/min to CFM and CFM to L/min instantly.">
 <meta name="twitter:image" content="https://www.thiyagi.com/nt.png">
 
 <div class="min-h-screen bg-gradient-to-br from-sky-50 via-blue-50 to-indigo-50 py-12">

@@ -6032,9 +6032,9 @@ if (isset($_GET['ajax']) && $_GET['ajax'] === '1') {
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title><?php echo $bank['name'] . " Two Wheeler Loan EMI Calculator 2025 - Bike & Scooter Loan | Thiyagi.com"; ?></title>
-    <meta name="description" content="<?php echo "Calculate " . $bank['name'] . " two-wheeler loan EMI for bikes and scooters in 2025. Interest rates from " . $bank['minRate'] . "% to " . $bank['maxRate'] . "%. Get instant EMI calculation, eligibility, and apply online."; ?>">
-    <meta name="keywords" content="<?php echo $bank['name'] . " two wheeler loan, bike loan EMI calculator, scooter loan " . strtolower(str_replace(' ', '', $bank['name'])) . ", vehicle loan calculator 2025"; ?>">
+    <title><?php echo $bank['name'] . " Two Wheeler Loan EMI Calculator 2026 - Bike & Scooter Loan | Thiyagi.com"; ?></title>
+    <meta name="description" content="<?php echo "Calculate " . $bank['name'] . " two-wheeler loan EMI for bikes and scooters in 2026. Interest rates from " . $bank['minRate'] . "% to " . $bank['maxRate'] . "%. Get instant EMI calculation, eligibility, and apply online."; ?>">
+    <meta name="keywords" content="<?php echo $bank['name'] . " two wheeler loan, bike loan EMI calculator, scooter loan " . strtolower(str_replace(' ', '', $bank['name'])) . ", vehicle loan calculator 2026"; ?>">
     <link rel="canonical" href="<?php echo "https://www.thiyagi.com/calculators/two-wheeler-loan/" . $bankSlug; ?>">
     <link href="https://www.thiyagi.com/nt.png" rel="icon">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
@@ -6091,7 +6091,7 @@ if (isset($_GET['ajax']) && $_GET['ajax'] === '1') {
                     <i class="fas fa-motorcycle text-2xl"></i>
                 </div>
                 <h1 class="text-4xl md:text-5xl font-bold mb-4"><?php echo $bank['name']; ?> Two Wheeler Loan Calculator</h1>
-                <p class="text-xl opacity-90 max-w-2xl mx-auto">Calculate your <?php echo $bank['name']; ?> bike & scooter loan EMI with current 2025 rates (<?php echo $bank['minRate']; ?>% - <?php echo $bank['maxRate']; ?>%)</p>
+                <p class="text-xl opacity-90 max-w-2xl mx-auto">Calculate your <?php echo $bank['name']; ?> bike & scooter loan EMI with current 2026 rates (<?php echo $bank['minRate']; ?>% - <?php echo $bank['maxRate']; ?>%)</p>
                 
                 <!-- Bank Type Badge -->
                 <div class="mt-4">
@@ -6343,7 +6343,7 @@ if (isset($_GET['ajax']) && $_GET['ajax'] === '1') {
         <!-- SEO Content Section -->
         <div class="mt-12 bg-white rounded-2xl shadow-xl p-8">
             <div class="prose max-w-none">
-                <h2 class="text-3xl font-bold text-gray-800 mb-6"><?php echo $bank['name']; ?> Two Wheeler Loan - Complete Guide 2025</h2>
+                <h2 class="text-3xl font-bold text-gray-800 mb-6"><?php echo $bank['name']; ?> Two Wheeler Loan - Complete Guide 2026</h2>
                 
                 <div class="bg-gradient-to-r from-blue-50 to-indigo-50 rounded-xl p-6 mb-8">
                     <h3 class="text-xl font-semibold text-gray-800 mb-4">Interest Rate Range</h3>

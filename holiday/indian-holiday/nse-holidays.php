@@ -2,19 +2,19 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>NSE Holiday List 2025 | National Stock Exchange Trading Holidays | Equity, Derivatives, Commodity</title>
-    <meta name="description" content="Complete NSE Holiday List 2025. Find all trading holidays for Equity, Derivatives, SLB, Commodity segments, and Muhurat Trading. Plan your investments and trades.">
-    <meta name="keywords" content="NSE holidays 2025, National Stock Exchange, trading holidays India, stock market holidays, equity holidays, derivatives holidays, commodity holidays, Muhurat Trading 2025, NSE calendar">
+    <title>NSE Holiday List 2026 | National Stock Exchange Trading Holidays | Equity, Derivatives, Commodity</title>
+    <meta name="description" content="Complete NSE Holiday List 2026. Find all trading holidays for Equity, Derivatives, SLB, Commodity segments, and Muhurat Trading. Plan your investments and trades.">
+    <meta name="keywords" content="NSE holidays 2026, National Stock Exchange, trading holidays India, stock market holidays, equity holidays, derivatives holidays, commodity holidays, Muhurat Trading 2026, NSE calendar">
     <meta name="author" content="NSE Holiday Calendar">
     <meta name="robots" content="index, follow">
-    <meta property="og:title" content="NSE Holiday List 2025 - Trading Holidays Calendar">
-    <meta property="og:description" content="Complete NSE Holiday List 2025 with Equity, Derivatives, SLB, Commodity holidays and Muhurat Trading. Plan your trades.">
+    <meta property="og:title" content="NSE Holiday List 2026 - Trading Holidays Calendar">
+    <meta property="og:description" content="Complete NSE Holiday List 2026 with Equity, Derivatives, SLB, Commodity holidays and Muhurat Trading. Plan your trades.">
     <meta property="og:type" content="website">
     <meta property="og:url" content="<?php echo 'https://' . $_SERVER['HTTP_HOST'] . $_SERVER['REQUEST_URI']; ?>">
-    <meta property="og:image" content="https://via.placeholder.com/1200x630/0066CC/FFFFFF?text=NSE+Holidays+2025">
+    <meta property="og:image" content="https://via.placeholder.com/1200x630/0066CC/FFFFFF?text=NSE+Holidays+2026">
     <meta name="twitter:card" content="summary_large_image">
-    <meta name="twitter:title" content="NSE Holiday List 2025">
-    <meta name="twitter:description" content="Complete NSE Holiday List 2025 with all trading holidays.">
+    <meta name="twitter:title" content="NSE Holiday List 2026">
+    <meta name="twitter:description" content="Complete NSE Holiday List 2026 with all trading holidays.">
     <link rel="canonical" href="<?php echo 'https://' . $_SERVER['HTTP_HOST'] . $_SERVER['REQUEST_URI']; ?>">
     <meta name="language" content="English">
     <meta name="geo.region" content="IN">
@@ -24,26 +24,26 @@
     {
         "@context": "https://schema.org",
         "@type": "WebPage",
-        "name": "NSE Holiday List 2025",
-        "description": "Complete NSE Holiday List 2025 with all trading holidays for Equity, Derivatives, SLB, Commodity segments, and Muhurat Trading",
+        "name": "NSE Holiday List 2026",
+        "description": "Complete NSE Holiday List 2026 with all trading holidays for Equity, Derivatives, SLB, Commodity segments, and Muhurat Trading",
         "url": "<?php echo 'https://' . $_SERVER['HTTP_HOST'] . $_SERVER['REQUEST_URI']; ?>",
         "mainEntity": {
             "@type": "FAQPage",
             "mainEntity": [
                 {
                     "@type": "Question",
-                    "name": "What are the NSE trading holidays in 2025?",
+                    "name": "What are the NSE trading holidays in 2026?",
                     "acceptedAnswer": {
                         "@type": "Answer",
-                        "text": "The NSE trading holidays in 2025 include Republic Day (Jan 26), Mahashivratri (Mar 1), Holi (Mar 14), Good Friday (Apr 18), Ambedkar Jayanti (Apr 14), May Day (May 1), Eid-Ul-Fitr (Apr 1), Bakri Eid (Jul 1), Ganesh Chaturthi (Sep 2), Dussehra (Oct 2), Diwali (Oct 21), Guru Nanak Jayanti (Nov 5), Christmas (Dec 25), and others as declared by NSE."
+                        "text": "The NSE trading holidays in 2026 include Republic Day (Jan 26), Mahashivratri (Mar 1), Holi (Mar 14), Good Friday (Apr 18), Ambedkar Jayanti (Apr 14), May Day (May 1), Eid-Ul-Fitr (Apr 1), Bakri Eid (Jul 1), Ganesh Chaturthi (Sep 2), Dussehra (Oct 2), Diwali (Oct 21), Guru Nanak Jayanti (Nov 5), Christmas (Dec 25), and others as declared by NSE."
                     }
                 },
                 {
                     "@type": "Question",
-                    "name": "Is Muhurat Trading happening in 2025?",
+                    "name": "Is Muhurat Trading happening in 2026?",
                     "acceptedAnswer": {
                         "@type": "Answer",
-                        "text": "Yes, Muhurat Trading is typically held on the day of Diwali. For 2025, it is expected to occur on October 21, 2025, but the exact timings are usually announced closer to the date by NSE."
+                        "text": "Yes, Muhurat Trading is typically held on the day of Diwali. For 2026, it is expected to occur on October 21, 2026, but the exact timings are usually announced closer to the date by NSE."
                     }
                 },
                 {
@@ -67,7 +67,7 @@
                     "name": "Where can I find the official NSE holiday list?",
                     "acceptedAnswer": {
                         "@type": "Answer",
-                        "text": "The official NSE holiday list for 2025 can be found on the National Stock Exchange of India's official website (nseindia.com) under the 'Products & Services' or 'Trading' section, usually in the 'Circulars' or 'Market Holidays' area."
+                        "text": "The official NSE holiday list for 2026 can be found on the National Stock Exchange of India's official website (nseindia.com) under the 'Products & Services' or 'Trading' section, usually in the 'Circulars' or 'Market Holidays' area."
                     }
                 }
             ]
@@ -76,7 +76,7 @@
             "@type": "Organization",
             "name": "NSE Holiday Calendar"
         },
-        "datePublished": "2025-01-01",
+        "datePublished": "2026-01-01",
         "dateModified": "<?php echo date('Y-m-d'); ?>"
     }
     </script>
@@ -100,86 +100,86 @@
 </head>
 <body class="bg-gradient-to-br from-blue-50 to-indigo-100 min-h-screen">
     <?php
-    // NSE Holidays 2025 Data - Weekdays (Equity, Derivatives, SLB)
-    $nse_weekday_holidays_2025 = [
-        '2025-01-26' => [
+    // NSE Holidays 2026 Data - Weekdays (Equity, Derivatives, SLB)
+    $nse_weekday_holidays_2026 = [
+        '2026-01-26' => [
             'name' => 'Republic Day',
             'type' => 'National Holiday',
             'description' => 'Celebration of the Indian Republic',
             'icon' => 'fa-flag',
             'segment' => 'Equity, Derivatives, SLB'
         ],
-        '2025-03-01' => [
+        '2026-03-01' => [
             'name' => 'Mahashivratri',
             'type' => 'Religious Holiday',
             'description' => 'Hindu festival dedicated to Lord Shiva',
             'icon' => 'fa-spa',
             'segment' => 'Equity, Derivatives, SLB'
         ],
-        '2025-03-14' => [
+        '2026-03-14' => [
             'name' => 'Holi',
             'type' => 'Religious Holiday',
             'description' => 'Festival of Colors',
             'icon' => 'fa-paint-brush',
             'segment' => 'Equity, Derivatives, SLB'
         ],
-        '2025-04-11' => [
+        '2026-04-11' => [
             'name' => 'Good Friday',
             'type' => 'Religious Holiday',
             'description' => 'Christian religious holiday',
             'icon' => 'fa-cross',
             'segment' => 'Equity, Derivatives, SLB'
         ],
-        '2025-04-14' => [
+        '2026-04-14' => [
             'name' => 'Ambedkar Jayanti',
             'type' => 'National Observance',
             'description' => 'Birth anniversary of Dr. B.R. Ambedkar',
             'icon' => 'fa-book',
             'segment' => 'Equity, Derivatives, SLB'
         ],
-        '2025-05-01' => [
+        '2026-05-01' => [
             'name' => 'May Day / Labour Day',
             'type' => 'International Observance',
             'description' => 'International Workers\' Day',
             'icon' => 'fa-hard-hat',
             'segment' => 'Equity, Derivatives, SLB'
         ],
-        '2025-06-30' => [
+        '2026-06-30' => [
             'name' => 'Bakri Eid / Eid al-Adha',
             'type' => 'Religious Holiday',
             'description' => 'Islamic festival of sacrifice',
             'icon' => 'fa-moon',
             'segment' => 'Equity, Derivatives, SLB'
         ],
-        '2025-08-15' => [
+        '2026-08-15' => [
             'name' => 'Independence Day',
             'type' => 'National Holiday',
             'description' => 'Indian Independence Day',
             'icon' => 'fa-dove',
             'segment' => 'Equity, Derivatives, SLB'
         ],
-        '2025-10-02' => [
+        '2026-10-02' => [
             'name' => 'Gandhi Jayanti',
             'type' => 'National Observance',
             'description' => 'Birth anniversary of Mahatma Gandhi',
             'icon' => 'fa-peace',
             'segment' => 'Equity, Derivatives, SLB'
         ],
-        '2025-10-21' => [
+        '2026-10-21' => [
             'name' => 'Diwali / Deepavali',
             'type' => 'Religious Holiday',
             'description' => 'Festival of Lights',
             'icon' => 'fa-lightbulb',
             'segment' => 'Equity, Derivatives, SLB'
         ],
-        '2025-11-05' => [
+        '2026-11-05' => [
             'name' => 'Guru Nanak Jayanti',
             'type' => 'Religious Holiday',
             'description' => 'Birth anniversary of Guru Nanak Dev Ji',
             'icon' => 'fa-pray',
             'segment' => 'Equity, Derivatives, SLB'
         ],
-        '2025-12-25' => [
+        '2026-12-25' => [
             'name' => 'Christmas',
             'type' => 'Religious Holiday',
             'description' => 'Celebration of Jesus Christ\'s birth',
@@ -188,11 +188,11 @@
         ]
     ];
 
-    // NSE Holidays 2025 - Weekends (Example - specific dates depend on calendar)
+    // NSE Holidays 2026 - Weekends (Example - specific dates depend on calendar)
     // Note: These are illustrative. Real weekend holidays are just regular weekends unless declared otherwise.
-    $nse_weekend_holidays_2025 = [
+    $nse_weekend_holidays_2026 = [
         // Example: If a holiday falls on a weekend and is declared a special observance
-        // '2025-01-11' => [
+        // '2026-01-11' => [
         //     'name' => 'Special Weekend Observance',
         //     'type' => 'Observance',
         //     'description' => 'Market closed due to special weekend observance.',
@@ -201,58 +201,58 @@
         // ]
     ];
 
-    // NSE Trading Holidays 2025 - Commodity Segment (Example - may differ)
-    $nse_commodity_holidays_2025 = [
-        '2025-01-26' => [
+    // NSE Trading Holidays 2026 - Commodity Segment (Example - may differ)
+    $nse_commodity_holidays_2026 = [
+        '2026-01-26' => [
             'name' => 'Republic Day',
             'type' => 'National Holiday',
             'description' => 'Celebration of the Indian Republic',
             'icon' => 'fa-flag',
             'segment' => 'Commodity'
         ],
-        '2025-03-01' => [
+        '2026-03-01' => [
             'name' => 'Mahashivratri',
             'type' => 'Religious Holiday',
             'description' => 'Hindu festival dedicated to Lord Shiva',
             'icon' => 'fa-spa',
             'segment' => 'Commodity'
         ],
-        '2025-04-11' => [
+        '2026-04-11' => [
             'name' => 'Good Friday',
             'type' => 'Religious Holiday',
             'description' => 'Christian religious holiday',
             'icon' => 'fa-cross',
             'segment' => 'Commodity'
         ],
-        '2025-05-01' => [
+        '2026-05-01' => [
             'name' => 'May Day / Labour Day',
             'type' => 'International Observance',
             'description' => 'International Workers\' Day',
             'icon' => 'fa-hard-hat',
             'segment' => 'Commodity'
         ],
-        '2025-08-15' => [
+        '2026-08-15' => [
             'name' => 'Independence Day',
             'type' => 'National Holiday',
             'description' => 'Indian Independence Day',
             'icon' => 'fa-dove',
             'segment' => 'Commodity'
         ],
-        '2025-10-02' => [
+        '2026-10-02' => [
             'name' => 'Gandhi Jayanti',
             'type' => 'National Observance',
             'description' => 'Birth anniversary of Mahatma Gandhi',
             'icon' => 'fa-peace',
             'segment' => 'Commodity'
         ],
-        '2025-10-21' => [
+        '2026-10-21' => [
             'name' => 'Diwali / Deepavali',
             'type' => 'Religious Holiday',
             'description' => 'Festival of Lights',
             'icon' => 'fa-lightbulb',
             'segment' => 'Commodity'
         ],
-        '2025-12-25' => [
+        '2026-12-25' => [
             'name' => 'Christmas',
             'type' => 'Religious Holiday',
             'description' => 'Celebration of Jesus Christ\'s birth',
@@ -262,10 +262,10 @@
         // Add more commodity-specific holidays if they differ
     ];
 
-    // Muhurat Trading 2025 (Example - date is tentative based on Diwali)
-    $muhurat_trading_2025 = [
-        '2025-10-21' => [
-            'name' => 'Muhurat Trading 2025',
+    // Muhurat Trading 2026 (Example - date is tentative based on Diwali)
+    $muhurat_trading_2026 = [
+        '2026-10-21' => [
+            'name' => 'Muhurat Trading 2026',
             'type' => 'Special Trading Session',
             'description' => 'Lucky trading session held on the occasion of Diwali. Exact timings announced by NSE closer to date.',
             'icon' => 'fa-star-and-crescent',
@@ -274,16 +274,16 @@
     ];
 
     // Merge all holidays for search and general display (excluding weekend examples)
-    $all_nse_holidays_2025 = array_merge($nse_weekday_holidays_2025, $nse_commodity_holidays_2025, $muhurat_trading_2025);
+    $all_nse_holidays_2026 = array_merge($nse_weekday_holidays_2026, $nse_commodity_holidays_2026, $muhurat_trading_2026);
 
     // Latest Updates (Placeholder)
     $latest_updates = [
         [
-            'date' => '2025-01-15',
-            'update' => 'Official NSE Holiday List 2025 has been released. No changes expected.'
+            'date' => '2026-01-15',
+            'update' => 'Official NSE Holiday List 2026 has been released. No changes expected.'
         ],
         [
-            'date' => '2025-03-01',
+            'date' => '2026-03-01',
             'update' => 'Mahashivratri declared as a trading holiday for all segments.'
         ]
     ];
@@ -305,7 +305,7 @@
                     </div>
                     <div>
                         <h1 class="text-4xl font-bold flex items-center space-x-3">
-                            <span>NSE Holiday List 2025</span>
+                            <span>NSE Holiday List 2026</span>
                             <i class="fas fa-building text-2xl"></i>
                         </h1>
                         <p class="text-lg opacity-90 flex items-center space-x-2">
@@ -325,7 +325,7 @@
                     </p>
                     <div class="mt-2 flex items-center space-x-2">
                         <i class="fas fa-gift text-yellow-200"></i>
-                        <span class="text-sm opacity-75"><?php echo count($all_nse_holidays_2025); ?> Total Holidays</span>
+                        <span class="text-sm opacity-75"><?php echo count($all_nse_holidays_2026); ?> Total Holidays</span>
                     </div>
                 </div>
             </div>
@@ -352,7 +352,7 @@
                 <li><i class="fas fa-chevron-right text-xs"></i></li>
                 <li><a href="#" class="hover:text-blue-600 transition-colors">Stock Market</a></li>
                 <li><i class="fas fa-chevron-right text-xs"></i></li>
-                <li class="text-gray-800 font-medium">NSE Holidays 2025</li>
+                <li class="text-gray-800 font-medium">NSE Holidays 2026</li>
             </ol>
         </nav>
 
@@ -361,11 +361,11 @@
             <div class="max-w-4xl mx-auto text-center">
                 <h2 class="text-3xl font-bold text-gray-800 mb-4 flex items-center justify-center space-x-3">
                     <i class="fas fa-calendar-alt text-nse-blue"></i>
-                    <span>Complete NSE Holiday Calendar 2025</span>
+                    <span>Complete NSE Holiday Calendar 2026</span>
                     <i class="fas fa-star text-yellow-500"></i>
                 </h2>
                 <p class="text-lg text-gray-700 mb-4 leading-relaxed">
-                    Welcome to the definitive guide for the NSE Holiday List 2025. This page provides a comprehensive list of all trading holidays declared by the National Stock Exchange (NSE) for the year 2025. Whether you're an investor, trader, or simply need to plan around market closures, this calendar covers all essential dates for Equity, Derivatives, SLB, and Commodity segments, including the special Muhurat Trading session.
+                    Welcome to the definitive guide for the NSE Holiday List 2026. This page provides a comprehensive list of all trading holidays declared by the National Stock Exchange (NSE) for the year 2026. Whether you're an investor, trader, or simply need to plan around market closures, this calendar covers all essential dates for Equity, Derivatives, SLB, and Commodity segments, including the special Muhurat Trading session.
                 </p>
                 <div class="grid md:grid-cols-3 gap-4 mt-6">
                     <div class="bg-white p-4 rounded-lg shadow-sm border border-blue-200">
@@ -480,7 +480,7 @@
                 NSE Holidays on Weekdays (Equity, Derivatives, SLB)
             </h2>
             <p class="text-gray-600 mb-4">
-                These are the official trading holidays declared by the National Stock Exchange for the Equity, Derivatives (Futures & Options), and Securities Lending & Borrowing (SLB) segments in 2025. The market will be closed for trading and settlement on these days.
+                These are the official trading holidays declared by the National Stock Exchange for the Equity, Derivatives (Futures & Options), and Securities Lending & Borrowing (SLB) segments in 2026. The market will be closed for trading and settlement on these days.
             </p>
             <div class="overflow-x-auto">
                 <table class="min-w-full bg-white border border-gray-200">
@@ -494,7 +494,7 @@
                         </tr>
                     </thead>
                     <tbody class="divide-y divide-gray-200">
-                        <?php foreach ($nse_weekday_holidays_2025 as $date => $holiday): ?>
+                        <?php foreach ($nse_weekday_holidays_2026 as $date => $holiday): ?>
                         <tr class="hover:bg-gray-50">
                             <td class="py-3 px-4 border-b text-sm text-gray-800"><?php echo date('M d, Y (l)', strtotime($date)); ?></td>
                             <td class="py-3 px-4 border-b text-sm font-medium text-gray-800 flex items-center">
@@ -515,10 +515,10 @@
         <section class="mb-8 bg-white rounded-lg shadow-lg p-6 border-l-4 border-nse-green">
             <h2 class="text-2xl font-bold text-gray-800 mb-4 flex items-center">
                 <i class="fas fa-calendar-week text-nse-green mr-3"></i>
-                NSE Holidays in 2025 on Weekends
+                NSE Holidays in 2026 on Weekends
             </h2>
             <p class="text-gray-600 mb-4">
-                The NSE is typically closed on all Saturdays and Sundays. This section will list any specific holidays declared by NSE that fall on a weekend, which might have special implications (e.g., affecting settlement cycles). As of now, no specific weekend holidays beyond regular closures are listed for 2025. Regular weekends (Saturdays and Sundays) are non-trading days.
+                The NSE is typically closed on all Saturdays and Sundays. This section will list any specific holidays declared by NSE that fall on a weekend, which might have special implications (e.g., affecting settlement cycles). As of now, no specific weekend holidays beyond regular closures are listed for 2026. Regular weekends (Saturdays and Sundays) are non-trading days.
             </p>
             <div class="overflow-x-auto">
                 <table class="min-w-full bg-white border border-gray-200">
@@ -532,12 +532,12 @@
                         </tr>
                     </thead>
                     <tbody class="divide-y divide-gray-200">
-                        <?php if (empty($nse_weekend_holidays_2025)): ?>
+                        <?php if (empty($nse_weekend_holidays_2026)): ?>
                         <tr>
                             <td colspan="5" class="py-4 px-4 text-center text-gray-500">No specific weekend holidays declared beyond regular Saturday/Sunday closures.</td>
                         </tr>
                         <?php else: ?>
-                        <?php foreach ($nse_weekend_holidays_2025 as $date => $holiday): ?>
+                        <?php foreach ($nse_weekend_holidays_2026 as $date => $holiday): ?>
                         <tr class="hover:bg-gray-50">
                             <td class="py-3 px-4 border-b text-sm text-gray-800"><?php echo date('M d, Y (l)', strtotime($date)); ?></td>
                             <td class="py-3 px-4 border-b text-sm font-medium text-gray-800 flex items-center">
@@ -559,7 +559,7 @@
         <section class="mb-8 bg-white rounded-lg shadow-lg p-6 border-l-4 border-nse-red">
             <h2 class="text-2xl font-bold text-gray-800 mb-4 flex items-center">
                 <i class="fas fa-gem text-nse-red mr-3"></i>
-                Trading Holidays for 2025 (Commodity Segment)
+                Trading Holidays for 2026 (Commodity Segment)
             </h2>
             <p class="text-gray-600 mb-4">
                 This list details the holidays applicable to the Commodity Derivatives segment traded on the NSE. While largely overlapping with Equity holidays, there might be slight variations. Always refer to the official NSE circular for the most accurate list.
@@ -576,7 +576,7 @@
                         </tr>
                     </thead>
                     <tbody class="divide-y divide-gray-200">
-                        <?php foreach ($nse_commodity_holidays_2025 as $date => $holiday): ?>
+                        <?php foreach ($nse_commodity_holidays_2026 as $date => $holiday): ?>
                         <tr class="hover:bg-gray-50">
                             <td class="py-3 px-4 border-b text-sm text-gray-800"><?php echo date('M d, Y (l)', strtotime($date)); ?></td>
                             <td class="py-3 px-4 border-b text-sm font-medium text-gray-800 flex items-center">
@@ -597,7 +597,7 @@
         <section class="mb-8 bg-white rounded-lg shadow-lg p-6 border-l-4 border-yellow-500">
             <h2 class="text-2xl font-bold text-gray-800 mb-4 flex items-center">
                 <i class="fas fa-star-and-crescent text-yellow-500 mr-3"></i>
-                Muhurat Trading 2025
+                Muhurat Trading 2026
             </h2>
             <p class="text-gray-600 mb-4">
                 Muhurat Trading is a special, auspicious trading session held by Indian stock exchanges, including the NSE, on the occasion of Diwali. It is considered a propitious time to buy and hold stocks for good fortune in the coming year. The exact date and timings are usually announced by the exchange closer to Diwali.
@@ -614,7 +614,7 @@
                         </tr>
                     </thead>
                     <tbody class="divide-y divide-gray-200">
-                        <?php foreach ($muhurat_trading_2025 as $date => $holiday): ?>
+                        <?php foreach ($muhurat_trading_2026 as $date => $holiday): ?>
                         <tr class="hover:bg-gray-50">
                             <td class="py-3 px-4 border-b text-sm text-gray-800"><?php echo date('M d, Y (l)', strtotime($date)); ?></td>
                             <td class="py-3 px-4 border-b text-sm font-medium text-gray-800 flex items-center">
@@ -632,7 +632,7 @@
             <div class="mt-4 p-4 bg-yellow-50 border border-yellow-200 rounded-lg">
                 <p class="text-sm text-yellow-800">
                     <i class="fas fa-exclamation-circle text-yellow-600 mr-2"></i>
-                    <strong>Note:</strong> The exact timings for Muhurat Trading 2025 will be announced by NSE in an official circular closer to the date (expected around October 21, 2025). Please check the NSE website for the confirmed schedule.
+                    <strong>Note:</strong> The exact timings for Muhurat Trading 2026 will be announced by NSE in an official circular closer to the date (expected around October 21, 2026). Please check the NSE website for the confirmed schedule.
                 </p>
             </div>
         </section>
@@ -655,7 +655,7 @@
                         <strong>Regulatory Bodies:</strong> The Securities and Exchange Board of India (SEBI) is the primary regulator. While SEBI sets the framework, the exchanges themselves (like NSE) propose the holiday calendar.
                     </li>
                     <li>
-                        <strong>Annual Calendar:</strong> NSE typically releases the annual holiday calendar towards the end of the previous year (e.g., the 2025 calendar is usually released in late 2024). This calendar is based on government notifications for national holidays and widely observed religious festivals.
+                        <strong>Annual Calendar:</strong> NSE typically releases the annual holiday calendar towards the end of the previous year (e.g., the 2026 calendar is usually released in late 2024). This calendar is based on government notifications for national holidays and widely observed religious festivals.
                     </li>
                     <li>
                         <strong>Types of Holidays:</strong>
@@ -680,17 +680,17 @@
         <section class="mb-8 bg-white rounded-lg shadow-lg p-6 border-l-4 border-green-500">
             <h2 class="text-2xl font-bold text-gray-800 mb-4 flex items-center">
                 <i class="fas fa-check-circle text-green-500 mr-3"></i>
-                Conclusion of NSE Trading Holidays 2025
+                Conclusion of NSE Trading Holidays 2026
             </h2>
             <div class="prose max-w-none text-gray-700">
                 <p>
-                    The NSE Holiday List 2025 is an essential tool for all market participants. Understanding these dates helps in effective trade planning, managing settlement expectations, and avoiding potential disruptions. Remember that the NSE typically closes on all Saturdays and Sundays, in addition to the listed holidays.
+                    The NSE Holiday List 2026 is an essential tool for all market participants. Understanding these dates helps in effective trade planning, managing settlement expectations, and avoiding potential disruptions. Remember that the NSE typically closes on all Saturdays and Sundays, in addition to the listed holidays.
                 </p>
                 <p>
                     It's crucial to stay updated with any last-minute changes or additions to the holiday calendar. The official NSE website is the most reliable source for the latest information. Mark your calendars for key holidays like Republic Day, Diwali, and Muhurat Trading to ensure smooth trading activities throughout the year.
                 </p>
                 <p>
-                    Planning your investments and trades around these holidays can help you make informed decisions and manage your portfolio effectively in 2025.
+                    Planning your investments and trades around these holidays can help you make informed decisions and manage your portfolio effectively in 2026.
                 </p>
             </div>
         </section>
@@ -699,7 +699,7 @@
         <section class="mb-8 bg-white rounded-lg shadow-lg p-6 border-l-4 border-orange-500">
             <h2 class="text-2xl font-bold text-gray-800 mb-4 flex items-center">
                 <i class="fas fa-bullhorn text-orange-500 mr-3"></i>
-                Latest Updates on NSE Holidays 2025
+                Latest Updates on NSE Holidays 2026
             </h2>
             <div class="space-y-4">
                 <?php if (empty($latest_updates)): ?>
@@ -731,7 +731,7 @@
             <div class="max-w-4xl mx-auto">
                 <h2 class="text-3xl font-bold text-gray-800 mb-8 text-center flex items-center justify-center space-x-3">
                     <i class="fas fa-question-circle text-purple-600"></i>
-                    <span>FAQs on the NSE Holidays List 2025</span>
+                    <span>FAQs on the NSE Holidays List 2026</span>
                     <i class="fas fa-lightbulb text-yellow-500"></i>
                 </h2>
                 <div class="space-y-6">
@@ -739,20 +739,20 @@
                     <div class="bg-gray-50 rounded-lg p-6 hover:shadow-md transition-all">
                         <h3 class="text-xl font-semibold text-gray-800 mb-3 flex items-center space-x-2">
                             <i class="fas fa-calendar-day text-blue-500"></i>
-                            <span>What are the NSE trading holidays in 2025?</span>
+                            <span>What are the NSE trading holidays in 2026?</span>
                         </h3>
                         <p class="text-gray-700 leading-relaxed">
-                            The main NSE trading holidays in 2025 include <strong>Republic Day (Jan 26)</strong>, <strong>Mahashivratri (Mar 1)</strong>, <strong>Holi (Mar 14)</strong>, <strong>Good Friday (Apr 11)</strong>, <strong>Ambedkar Jayanti (Apr 14)</strong>, <strong>May Day (May 1)</strong>, <strong>Bakri Eid (Jun 30)</strong>, <strong>Independence Day (Aug 15)</strong>, <strong>Gandhi Jayanti (Oct 2)</strong>, <strong>Diwali (Oct 21)</strong>, <strong>Guru Nanak Jayanti (Nov 5)</strong>, and <strong>Christmas (Dec 25)</strong>. The NSE is also closed on all Saturdays and Sundays.
+                            The main NSE trading holidays in 2026 include <strong>Republic Day (Jan 26)</strong>, <strong>Mahashivratri (Mar 1)</strong>, <strong>Holi (Mar 14)</strong>, <strong>Good Friday (Apr 11)</strong>, <strong>Ambedkar Jayanti (Apr 14)</strong>, <strong>May Day (May 1)</strong>, <strong>Bakri Eid (Jun 30)</strong>, <strong>Independence Day (Aug 15)</strong>, <strong>Gandhi Jayanti (Oct 2)</strong>, <strong>Diwali (Oct 21)</strong>, <strong>Guru Nanak Jayanti (Nov 5)</strong>, and <strong>Christmas (Dec 25)</strong>. The NSE is also closed on all Saturdays and Sundays.
                         </p>
                     </div>
                     <!-- FAQ Item 2 -->
                     <div class="bg-gray-50 rounded-lg p-6 hover:shadow-md transition-all">
                         <h3 class="text-xl font-semibold text-gray-800 mb-3 flex items-center space-x-2">
                             <i class="fas fa-star-and-crescent text-yellow-500"></i>
-                            <span>Is Muhurat Trading happening in 2025?</span>
+                            <span>Is Muhurat Trading happening in 2026?</span>
                         </h3>
                         <p class="text-gray-700 leading-relaxed">
-                            Yes, Muhurat Trading is expected to be held in 2025, traditionally on the day of Diwali, which falls on <strong>October 21, 2025</strong>. This is a special, auspicious trading session. The exact timings are usually announced by NSE in a separate circular closer to the date. Please check the official NSE website for confirmed details.
+                            Yes, Muhurat Trading is expected to be held in 2026, traditionally on the day of Diwali, which falls on <strong>October 21, 2026</strong>. This is a special, auspicious trading session. The exact timings are usually announced by NSE in a separate circular closer to the date. Please check the official NSE website for confirmed details.
                         </p>
                     </div>
                     <!-- FAQ Item 3 -->
@@ -762,7 +762,7 @@
                             <span>Are weekends considered NSE holidays?</span>
                         </h3>
                         <p class="text-gray-700 leading-relaxed">
-                            Yes, by default, the National Stock Exchange (NSE) is closed on all <strong>Saturdays and Sundays</strong>. These are regular non-trading days. The list of 'NSE Holidays on Weekends' specifically refers to any additional holidays declared by NSE that happen to fall on a Saturday or Sunday, which is rare but might have specific implications (like settlement adjustments). For 2025, there are no specific weekend holidays listed beyond the regular weekend closures.
+                            Yes, by default, the National Stock Exchange (NSE) is closed on all <strong>Saturdays and Sundays</strong>. These are regular non-trading days. The list of 'NSE Holidays on Weekends' specifically refers to any additional holidays declared by NSE that happen to fall on a Saturday or Sunday, which is rare but might have specific implications (like settlement adjustments). For 2026, there are no specific weekend holidays listed beyond the regular weekend closures.
                         </p>
                     </div>
                     <!-- FAQ Item 4 -->
@@ -782,7 +782,7 @@
                             <span>Where can I find the official NSE holiday list?</span>
                         </h3>
                         <p class="text-gray-700 leading-relaxed">
-                            The official NSE holiday list for 2025 can be found on the <strong>National Stock Exchange of India's official website</strong> (<a href="https://www.nseindia.com/" target="_blank" class="text-blue-600 hover:underline">nseindia.com</a>). Look for the 'Products' or 'Trading' section, then navigate to 'Circulars' or directly search for 'Market Holidays' or 'Holiday Calendar 2025'.
+                            The official NSE holiday list for 2026 can be found on the <strong>National Stock Exchange of India's official website</strong> (<a href="https://www.nseindia.com/" target="_blank" class="text-blue-600 hover:underline">nseindia.com</a>). Look for the 'Products' or 'Trading' section, then navigate to 'Circulars' or directly search for 'Market Holidays' or 'Holiday Calendar 2026'.
                         </p>
                     </div>
                     <!-- FAQ Item 6 -->
@@ -824,7 +824,7 @@
     <script>
         // JavaScript functionality
         // Holiday data for search functionality
-        const holidaysData = <?php echo json_encode($all_nse_holidays_2025); ?>;
+        const holidaysData = <?php echo json_encode($all_nse_holidays_2026); ?>;
         function searchHolidays() {
             const searchTerm = document.getElementById('searchInput').value.toLowerCase();
             const filterType = document.getElementById('filterType').value;

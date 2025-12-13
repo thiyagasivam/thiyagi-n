@@ -1,12 +1,12 @@
 <?php include 'header.php';?>
-<title>Acre to Hectare Converter 2025 | Acre to Ha | Free Tool</title>
-<meta name="description" content="Convert acre to hectare instantly with our 2025 accurate converter. Perfect acre to ha conversion with real-time calculations for agriculture and land measurement.">
-<meta name="keywords" content="acre to hectare 2025, acre to ha converter, acre hectare conversion, area conversion 2025, agriculture land measurement, farming calculator">
+<title>Acre to Hectare Converter 2026 | Acre to Ha | Free Tool</title>
+<meta name="description" content="Convert acre to hectare instantly with our 2026 accurate converter. Perfect acre to ha conversion with real-time calculations for agriculture and land measurement.">
+<meta name="keywords" content="acre to hectare 2026, acre to ha converter, acre hectare conversion, area conversion 2026, agriculture land measurement, farming calculator">
 <link rel="canonical" href="https://www.thiyagi.com/acre-to-hectare">
 
 <!-- Open Graph Meta Tags -->
-<meta property="og:title" content="Acre to Hectare Converter 2025 | Acre to Ha | Free Tool">
-<meta property="og:description" content="Convert acre to hectare instantly with our 2025 accurate converter. Perfect acre to ha conversion with real-time calculations for agriculture and land measurement.">
+<meta property="og:title" content="Acre to Hectare Converter 2026 | Acre to Ha | Free Tool">
+<meta property="og:description" content="Convert acre to hectare instantly with our 2026 accurate converter. Perfect acre to ha conversion with real-time calculations for agriculture and land measurement.">
 <meta property="og:url" content="https://www.thiyagi.com/acre-to-hectare">
 <meta property="og:type" content="website">
 <meta property="og:image" content="https://www.thiyagi.com/nt.png">
@@ -14,8 +14,8 @@
 
 <!-- Twitter Card Meta Tags -->
 <meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:title" content="Acre to Hectare Converter 2025 | Acre to Ha | Free Tool">
-<meta name="twitter:description" content="Convert acre to hectare instantly with our 2025 accurate converter. Perfect acre to ha conversion with real-time calculations for agriculture and land measurement.">
+<meta name="twitter:title" content="Acre to Hectare Converter 2026 | Acre to Ha | Free Tool">
+<meta name="twitter:description" content="Convert acre to hectare instantly with our 2026 accurate converter. Perfect acre to ha conversion with real-time calculations for agriculture and land measurement.">
 <meta name="twitter:image" content="https://www.thiyagi.com/nt.png">
 
 <!-- Additional SEO Meta Tags -->
@@ -39,7 +39,7 @@
           Acre to Hectare Converter
         </h1>
         <p class="text-xl text-gray-600 mb-8 max-w-3xl mx-auto">
-          Convert acres to hectares instantly with our accurate 2025 calculator. 
+          Convert acres to hectares instantly with our accurate 2026 calculator. 
           Perfect for agriculture, forestry, and large land measurements worldwide.
         </p>
       </div>
@@ -157,15 +157,15 @@
     <article class="bg-white rounded-xl shadow-lg p-8">
       <h2 class="text-2xl font-bold text-gray-800 mb-6 flex items-center gap-3">
         <i class="fas fa-info-circle text-emerald-600" aria-hidden="true"></i>
-        Acre to Hectare Conversion 2025
+        Acre to Hectare Conversion 2026
       </h2>
       <div class="prose max-w-none text-gray-600">
         <p class="mb-4">
-          Converting acres to hectares is essential for international agriculture and land management in 2025. Hectare is the 
+          Converting acres to hectares is essential for international agriculture and land management in 2026. Hectare is the 
           standard metric unit for measuring large areas, widely used in agriculture, forestry, and environmental planning worldwide.
         </p>
         <p class="mb-6">
-          Our 2025 converter provides instant and accurate conversions from acres to hectares, essential for farmers, agriculturalists, 
+          Our 2026 converter provides instant and accurate conversions from acres to hectares, essential for farmers, agriculturalists, 
           land developers, and environmental professionals. One acre equals approximately 0.4047 hectares.
         </p>
       </div>

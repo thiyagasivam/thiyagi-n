@@ -1,19 +1,19 @@
 <?php include 'header.php'; ?>
 
 <!-- SEO Meta Tags -->
-<title>Megajoule to Joule Converter 2025 - Energy Calculator | Thiyagi</title>
-<meta name="description" content="Free online megajoule to joule converter 2025. Convert MJ to J instantly with accurate energy conversion for physics and engineering calculations.">
-<meta name="keywords" content="megajoule to joule converter 2025, MJ to J, energy converter, physics calculator, engineering converter">
+<title>Megajoule to Joule Converter 2026 - Energy Calculator | Thiyagi</title>
+<meta name="description" content="Free online megajoule to joule converter 2026. Convert MJ to J instantly with accurate energy conversion for physics and engineering calculations.">
+<meta name="keywords" content="megajoule to joule converter 2026, MJ to J, energy converter, physics calculator, engineering converter">
 <meta name="author" content="Thiyagi">
-<meta property="og:title" content="Megajoule to Joule Converter 2025 - Energy Calculator">
-<meta property="og:description" content="Free online megajoule to joule converter 2025. Convert MJ to J instantly with accurate energy conversion.">
+<meta property="og:title" content="Megajoule to Joule Converter 2026 - Energy Calculator">
+<meta property="og:description" content="Free online megajoule to joule converter 2026. Convert MJ to J instantly with accurate energy conversion.">
 <meta property="og:type" content="website">
 <meta property="og:url" content="https://www.thiyagi.com/megajoule-to-joule.php">
 <meta property="og:image" content="https://www.thiyagi.com/nt.png">
 <meta property="og:site_name" content="Thiyagi">
 <meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:title" content="Megajoule to Joule Converter 2025 - Energy Calculator">
-<meta name="twitter:description" content="Free online megajoule to joule converter 2025. Convert MJ to J instantly.">
+<meta name="twitter:title" content="Megajoule to Joule Converter 2026 - Energy Calculator">
+<meta name="twitter:description" content="Free online megajoule to joule converter 2026. Convert MJ to J instantly.">
 <meta name="twitter:image" content="https://www.thiyagi.com/nt.png">
 
 <div class="min-h-screen bg-gradient-to-br from-purple-50 via-violet-50 to-indigo-50 py-12">

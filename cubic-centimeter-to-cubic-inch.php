@@ -1,19 +1,19 @@
 <?php include 'header.php'; ?>
 
 <!-- SEO Meta Tags -->
-<title>Cubic Centimeter to Cubic Inch Converter 2025 - cm³ to in³ Calculator | Thiyagi</title>
-<meta name="description" content="Free online Cubic Centimeter to Cubic Inch converter 2025. Convert cm³ to in³ and in³ to cm³ instantly with accurate volume conversion for engineering and design.">
-<meta name="keywords" content="cubic centimeter to cubic inch converter 2025, cm³ to in³, volume converter, metric to imperial, engine displacement, cubic volume">
+<title>Cubic Centimeter to Cubic Inch Converter 2026 - cm³ to in³ Calculator | Thiyagi</title>
+<meta name="description" content="Free online Cubic Centimeter to Cubic Inch converter 2026. Convert cm³ to in³ and in³ to cm³ instantly with accurate volume conversion for engineering and design.">
+<meta name="keywords" content="cubic centimeter to cubic inch converter 2026, cm³ to in³, volume converter, metric to imperial, engine displacement, cubic volume">
 <meta name="author" content="Thiyagi">
-<meta property="og:title" content="Cubic Centimeter to Cubic Inch Converter 2025 - cm³ to in³ Calculator">
-<meta property="og:description" content="Free online Cubic Centimeter to Cubic Inch converter 2025. Convert cm³ to in³ and in³ to cm³ instantly.">
+<meta property="og:title" content="Cubic Centimeter to Cubic Inch Converter 2026 - cm³ to in³ Calculator">
+<meta property="og:description" content="Free online Cubic Centimeter to Cubic Inch converter 2026. Convert cm³ to in³ and in³ to cm³ instantly.">
 <meta property="og:type" content="website">
 <meta property="og:url" content="https://www.thiyagi.com/cubic-centimeter-to-cubic-inch.php">
 <meta property="og:image" content="https://www.thiyagi.com/nt.png">
 <meta property="og:site_name" content="Thiyagi">
 <meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:title" content="Cubic Centimeter to Cubic Inch Converter 2025 - cm³ to in³ Calculator">
-<meta name="twitter:description" content="Free online Cubic Centimeter to Cubic Inch converter 2025. Convert cm³ to in³ and in³ to cm³ instantly.">
+<meta name="twitter:title" content="Cubic Centimeter to Cubic Inch Converter 2026 - cm³ to in³ Calculator">
+<meta name="twitter:description" content="Free online Cubic Centimeter to Cubic Inch converter 2026. Convert cm³ to in³ and in³ to cm³ instantly.">
 <meta name="twitter:image" content="https://www.thiyagi.com/nt.png">
 
 <div class="min-h-screen bg-gradient-to-br from-cyan-50 via-blue-50 to-indigo-50 py-12">

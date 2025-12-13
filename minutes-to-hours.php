@@ -4,9 +4,9 @@ include 'header.php';
 $header_content = ob_get_clean();
 
 // Insert title and meta tags into the head section
-$title = 'Minutes to Hours Converter 2025 | Time Conversion Tool | Free Calculator';
-$description = 'Convert minutes to hours instantly with our 2025 accurate time converter. Perfect for scheduling, duration calculations, and time management with real-time results.';
-$keywords = 'minutes to hours converter 2025, time conversion calculator, minute hour converter, time duration calculator, scheduling tool';
+$title = 'Minutes to Hours Converter 2026 | Time Conversion Tool | Free Calculator';
+$description = 'Convert minutes to hours instantly with our 2026 accurate time converter. Perfect for scheduling, duration calculations, and time management with real-time results.';
+$keywords = 'minutes to hours converter 2026, time conversion calculator, minute hour converter, time duration calculator, scheduling tool';
 $canonical = 'https://www.thiyagi.com/minutes-to-hours';
 
 $meta_tags = '<title>' . htmlspecialchars($title) . '</title>' . "\n";
@@ -25,8 +25,8 @@ echo $header_content;
 ?>
 
 <!-- Open Graph Meta Tags -->
-<meta property="og:title" content="Minutes to Hours Converter 2025 | Time Conversion Tool | Free Calculator">
-<meta property="og:description" content="Convert minutes to hours instantly with our 2025 accurate time converter. Perfect for scheduling, duration calculations, and time management with real-time results.">
+<meta property="og:title" content="Minutes to Hours Converter 2026 | Time Conversion Tool | Free Calculator">
+<meta property="og:description" content="Convert minutes to hours instantly with our 2026 accurate time converter. Perfect for scheduling, duration calculations, and time management with real-time results.">
 <meta property="og:url" content="https://www.thiyagi.com/minutes-to-hours">
 <meta property="og:type" content="website">
 <meta property="og:image" content="https://www.thiyagi.com/nt.png">
@@ -34,8 +34,8 @@ echo $header_content;
 
 <!-- Twitter Card Meta Tags -->
 <meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:title" content="Minutes to Hours Converter 2025 | Time Conversion Tool | Free Calculator">
-<meta name="twitter:description" content="Convert minutes to hours instantly with our 2025 accurate time converter. Perfect for scheduling, duration calculations, and time management with real-time results.">
+<meta name="twitter:title" content="Minutes to Hours Converter 2026 | Time Conversion Tool | Free Calculator">
+<meta name="twitter:description" content="Convert minutes to hours instantly with our 2026 accurate time converter. Perfect for scheduling, duration calculations, and time management with real-time results.">
 <meta name="twitter:image" content="https://www.thiyagi.com/nt.png">
 
 <div class="min-h-screen bg-gradient-to-br from-blue-50 to-blue-100 py-12 px-4 sm:px-6 lg:px-8">

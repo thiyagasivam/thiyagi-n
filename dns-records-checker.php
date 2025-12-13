@@ -83,8 +83,8 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Free DNS Records Checker 2025 - Verify & Analyze Domain Records Instantly</title>
-    <meta name="description" content="Quickly check and validate DNS records (A, MX, CNAME, TXT) for any domain with our free 2025 tool. Perfect for troubleshooting, migrations, and website setup!">
+    <title>Free DNS Records Checker 2026 - Verify & Analyze Domain Records Instantly</title>
+    <meta name="description" content="Quickly check and validate DNS records (A, MX, CNAME, TXT) for any domain with our free 2026 tool. Perfect for troubleshooting, migrations, and website setup!">
     <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" rel="stylesheet">
 
 </head>

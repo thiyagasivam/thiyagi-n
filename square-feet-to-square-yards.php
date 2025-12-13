@@ -1,7 +1,7 @@
 <?php include 'header.php'; ?>
-<title>Square Feet to Square Yards Converter 2025 | Area Conversion Tool | Free Calculator</title>
-<meta name="description" content="Convert square feet to square yards instantly with our 2025 accurate area converter. Perfect for flooring, carpeting, and construction calculations.">
-<meta name="keywords" content="square feet to square yards converter 2025, area conversion calculator, sqft sqyd converter, flooring calculator, construction measurements">
+<title>Square Feet to Square Yards Converter 2026 | Area Conversion Tool | Free Calculator</title>
+<meta name="description" content="Convert square feet to square yards instantly with our 2026 accurate area converter. Perfect for flooring, carpeting, and construction calculations.">
+<meta name="keywords" content="square feet to square yards converter 2026, area conversion calculator, sqft sqyd converter, flooring calculator, construction measurements">
 <link rel="canonical" href="https://www.thiyagi.com/square-feet-to-square-yards">
 
 <div class="min-h-screen bg-gradient-to-br from-emerald-50 to-emerald-100 py-12 px-4 sm:px-6 lg:px-8">

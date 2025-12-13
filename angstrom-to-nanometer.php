@@ -1,19 +1,19 @@
 <?php include 'header.php'; ?>
 
 <!-- SEO Meta Tags -->
-<title>Angstrom to Nanometer Converter 2025 - Å to nm Calculator | Thiyagi</title>
-<meta name="description" content="Free online Angstrom to Nanometer converter 2025. Convert Å to nm and nm to Å instantly with accurate atomic-scale length conversion for science.">
-<meta name="keywords" content="angstrom to nanometer converter 2025, Å to nm, atomic scale converter, wavelength converter, molecular measurement, crystallography">
+<title>Angstrom to Nanometer Converter 2026 - Å to nm Calculator | Thiyagi</title>
+<meta name="description" content="Free online Angstrom to Nanometer converter 2026. Convert Å to nm and nm to Å instantly with accurate atomic-scale length conversion for science.">
+<meta name="keywords" content="angstrom to nanometer converter 2026, Å to nm, atomic scale converter, wavelength converter, molecular measurement, crystallography">
 <meta name="author" content="Thiyagi">
-<meta property="og:title" content="Angstrom to Nanometer Converter 2025 - Å to nm Calculator">
-<meta property="og:description" content="Free online Angstrom to Nanometer converter 2025. Convert Å to nm and nm to Å instantly.">
+<meta property="og:title" content="Angstrom to Nanometer Converter 2026 - Å to nm Calculator">
+<meta property="og:description" content="Free online Angstrom to Nanometer converter 2026. Convert Å to nm and nm to Å instantly.">
 <meta property="og:type" content="website">
 <meta property="og:url" content="https://www.thiyagi.com/angstrom-to-nanometer.php">
 <meta property="og:image" content="https://www.thiyagi.com/nt.png">
 <meta property="og:site_name" content="Thiyagi">
 <meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:title" content="Angstrom to Nanometer Converter 2025 - Å to nm Calculator">
-<meta name="twitter:description" content="Free online Angstrom to Nanometer converter 2025. Convert Å to nm and nm to Å instantly.">
+<meta name="twitter:title" content="Angstrom to Nanometer Converter 2026 - Å to nm Calculator">
+<meta name="twitter:description" content="Free online Angstrom to Nanometer converter 2026. Convert Å to nm and nm to Å instantly.">
 <meta name="twitter:image" content="https://www.thiyagi.com/nt.png">
 
 <div class="min-h-screen bg-gradient-to-br from-purple-50 via-indigo-50 to-blue-50 py-12">

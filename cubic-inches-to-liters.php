@@ -1,12 +1,12 @@
 <?php include 'header.php';?>
-<title>Cubic Inches to Liters Converter 2025 | In³ to L Calculator | Free Tool</title>
-<meta name="description" content="Professional cubic inches to liters converter 2025. Convert in³ to L instantly with precision calculations. Perfect for automotive, engineering, and volume measurements.">
-<meta name="keywords" content="cubic inches to liters converter 2025, in3 to L calculator, engine displacement, volume converter, automotive calculator">
+<title>Cubic Inches to Liters Converter 2026 | In³ to L Calculator | Free Tool</title>
+<meta name="description" content="Professional cubic inches to liters converter 2026. Convert in³ to L instantly with precision calculations. Perfect for automotive, engineering, and volume measurements.">
+<meta name="keywords" content="cubic inches to liters converter 2026, in3 to L calculator, engine displacement, volume converter, automotive calculator">
 <link rel="canonical" href="https://www.thiyagi.com/cubic-inches-to-liters">
 
 <!-- Open Graph Meta Tags -->
-<meta property="og:title" content="Cubic Inches to Liters Converter 2025 | In³ to L Calculator | Free Tool">
-<meta property="og:description" content="Professional cubic inches to liters converter 2025. Convert in³ to L instantly with precision calculations. Perfect for automotive, engineering, and volume measurements.">
+<meta property="og:title" content="Cubic Inches to Liters Converter 2026 | In³ to L Calculator | Free Tool">
+<meta property="og:description" content="Professional cubic inches to liters converter 2026. Convert in³ to L instantly with precision calculations. Perfect for automotive, engineering, and volume measurements.">
 <meta property="og:url" content="https://www.thiyagi.com/cubic-inches-to-liters">
 <meta property="og:type" content="website">
 <meta property="og:image" content="https://www.thiyagi.com/nt.png">
@@ -83,7 +83,7 @@
         </div>
         <h1 class="text-4xl md:text-6xl font-bold text-gray-900 mb-6">
           Cubic Inches to Liters Converter
-          <span class="block text-2xl md:text-3xl text-sky-600 mt-2">Professional 2025</span>
+          <span class="block text-2xl md:text-3xl text-sky-600 mt-2">Professional 2026</span>
         </h1>
         <p class="text-xl text-gray-600 mb-8 max-w-4xl mx-auto leading-relaxed">
           Convert cubic inches to liters with precision accuracy. Essential for engine displacement calculations, 

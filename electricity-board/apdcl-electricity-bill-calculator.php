@@ -3,10 +3,10 @@
 <?php include 'breadcrumb-schema.php';?>
 <?php
 /**
- * APDCL Electricity Bill Calculator (2025)
+ * APDCL Electricity Bill Calculator (2026)
  * Single-file PHP solution with Tailwind CSS UI
  */
-// APDCL 2025 Domestic Tariff Slabs (placeholder rates - verify with official sources)
+// APDCL 2026 Domestic Tariff Slabs (placeholder rates - verify with official sources)
 $slab_rates = [
     ['from' => 0, 'to' => 50, 'rate' => 0.00, 'fixed' => 10],
     ['from' => 51, 'to' => 100, 'rate' => 2.00, 'fixed' => 20],
@@ -63,8 +63,8 @@ if ($units > 0) {
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>APDCL Electricity Bill Calculator 2025 - Assam Power</title>
-    <meta name="description" content="Calculate your Assam electricity bill with the latest APDCL 2025 tariff rates. Instant estimates with subsidy options.">
+    <title>APDCL Electricity Bill Calculator 2026 - Assam Power</title>
+    <meta name="description" content="Calculate your Assam electricity bill with the latest APDCL 2026 tariff rates. Instant estimates with subsidy options.">
     <link rel="canonical" href="https://www.thiyagi.com/electricity-board/apdcl-electricity-bill-calculator" />
    
     <script src="https://cdn.tailwindcss.com"></script>
@@ -201,7 +201,7 @@ if ($units > 0) {
 <body class="bg-gray-100">
     <div class="max-w-4xl mx-auto px-4 py-8">
         <header class="text-center mb-10">
-            <h1 class="text-3xl font-bold text-blue-800 mb-2">APDCL Electricity Bill Calculator 2025</h1>
+            <h1 class="text-3xl font-bold text-blue-800 mb-2">APDCL Electricity Bill Calculator 2026</h1>
             <p class="text-gray-600">Calculate your Assam power bill with latest tariff rates</p>
         </header>
         

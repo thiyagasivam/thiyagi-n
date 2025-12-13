@@ -1,19 +1,19 @@
 <?php include 'header.php'; ?>
 
 <!-- SEO Meta Tags -->
-<title>Mile to Nautical Mile Converter 2025 - mi to nmi Calculator | Thiyagi</title>
-<meta name="description" content="Free online Mile to Nautical Mile converter 2025. Convert mi to nmi and nmi to mi instantly with accurate distance conversion.">
-<meta name="keywords" content="mile to nautical mile converter 2025, mi to nmi, distance conversion, navigation, marine calculator">
+<title>Mile to Nautical Mile Converter 2026 - mi to nmi Calculator | Thiyagi</title>
+<meta name="description" content="Free online Mile to Nautical Mile converter 2026. Convert mi to nmi and nmi to mi instantly with accurate distance conversion.">
+<meta name="keywords" content="mile to nautical mile converter 2026, mi to nmi, distance conversion, navigation, marine calculator">
 <meta name="author" content="Thiyagi">
-<meta property="og:title" content="Mile to Nautical Mile Converter 2025 - mi to nmi Calculator">
-<meta property="og:description" content="Free online Mile to Nautical Mile converter 2025. Convert mi to nmi and nmi to mi instantly.">
+<meta property="og:title" content="Mile to Nautical Mile Converter 2026 - mi to nmi Calculator">
+<meta property="og:description" content="Free online Mile to Nautical Mile converter 2026. Convert mi to nmi and nmi to mi instantly.">
 <meta property="og:type" content="website">
 <meta property="og:url" content="https://www.thiyagi.com/mile-to-nautical-mile-international.php">
 <meta property="og:image" content="https://www.thiyagi.com/nt.png">
 <meta property="og:site_name" content="Thiyagi">
 <meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:title" content="Mile to Nautical Mile Converter 2025 - mi to nmi Calculator">
-<meta property="twitter:description" content="Free online Mile to Nautical Mile converter 2025. Convert mi to nmi and nmi to mi instantly.">
+<meta name="twitter:title" content="Mile to Nautical Mile Converter 2026 - mi to nmi Calculator">
+<meta property="twitter:description" content="Free online Mile to Nautical Mile converter 2026. Convert mi to nmi and nmi to mi instantly.">
 <meta name="twitter:image" content="https://www.thiyagi.com/nt.png">
 
 <div class="min-h-screen bg-gradient-to-br from-indigo-50 via-blue-50 to-sky-50 py-12">

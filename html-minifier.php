@@ -48,8 +48,8 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST' && isset($_POST['html'])) {
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Free HTML Minifier 2025 - Compress & Optimize Code Online</title>
-<meta name="description" content="Reduce HTML file size by removing comments, whitespace and extra tags (2025). Boost website speed with clean minified code - No installation needed!">
+    <title>Free HTML Minifier 2026 - Compress & Optimize Code Online</title>
+<meta name="description" content="Reduce HTML file size by removing comments, whitespace and extra tags (2026). Boost website speed with clean minified code - No installation needed!">
     <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" rel="stylesheet">
     <style>
         .copy-btn { transition: all 0.2s ease; }

@@ -1,12 +1,12 @@
 <?php include 'header.php';?>
-<title>Liter to Pint Converter 2025 | Convert liter to pint | Free Tool</title>
-<meta name="description" content="Convert liter to pint instantly with our 2025 accurate volume converter. Perfect L to pt conversion with real-time calculations for cooking and measurement needs.">
-<meta name="keywords" content="liter to pint 2025, volume converter, cooking conversion 2025, L to pt calculator, liquid measurement tool">
+<title>Liter to Pint Converter 2026 | Convert liter to pint | Free Tool</title>
+<meta name="description" content="Convert liter to pint instantly with our 2026 accurate volume converter. Perfect L to pt conversion with real-time calculations for cooking and measurement needs.">
+<meta name="keywords" content="liter to pint 2026, volume converter, cooking conversion 2026, L to pt calculator, liquid measurement tool">
 <link rel="canonical" href="https://www.thiyagi.com/liter-to-pint">
 
 <!-- Open Graph Meta Tags -->
-<meta property="og:title" content="Liter to Pint Converter 2025 | Convert liter to pint | Free Tool">
-<meta property="og:description" content="Convert liter to pint instantly with our 2025 accurate volume converter. Perfect L to pt conversion with real-time calculations for cooking and measurement needs.">
+<meta property="og:title" content="Liter to Pint Converter 2026 | Convert liter to pint | Free Tool">
+<meta property="og:description" content="Convert liter to pint instantly with our 2026 accurate volume converter. Perfect L to pt conversion with real-time calculations for cooking and measurement needs.">
 <meta property="og:url" content="https://www.thiyagi.com/liter-to-pint">
 <meta property="og:type" content="website">
 <meta property="og:image" content="https://www.thiyagi.com/nt.png">
@@ -14,8 +14,8 @@
 
 <!-- Twitter Card Meta Tags -->
 <meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:title" content="Liter to Pint Converter 2025 | Convert liter to pint | Free Tool">
-<meta name="twitter:description" content="Convert liter to pint instantly with our 2025 accurate volume converter. Perfect L to pt conversion with real-time calculations for cooking and measurement needs.">
+<meta name="twitter:title" content="Liter to Pint Converter 2026 | Convert liter to pint | Free Tool">
+<meta name="twitter:description" content="Convert liter to pint instantly with our 2026 accurate volume converter. Perfect L to pt conversion with real-time calculations for cooking and measurement needs.">
 <meta name="twitter:image" content="https://www.thiyagi.com/nt.png">
 
 <!-- Additional SEO Meta Tags -->
@@ -39,7 +39,7 @@
           Liter to Pint Converter
         </h1>
         <p class="text-xl text-gray-600 mb-8 max-w-3xl mx-auto">
-          Convert liters to pints instantly with our accurate 2025 volume calculator. 
+          Convert liters to pints instantly with our accurate 2026 volume calculator. 
           Perfect for cooking, brewing, and liquid measurement conversions.
         </p>
       </div>
@@ -176,16 +176,16 @@
     <article class="bg-white rounded-xl shadow-lg p-8">
       <h2 class="text-2xl font-bold text-gray-800 mb-6 flex items-center gap-3">
         <i class="fas fa-info-circle text-indigo-600" aria-hidden="true"></i>
-        Liter to Pint Conversion 2025
+        Liter to Pint Conversion 2026
       </h2>
       <div class="prose max-w-none text-gray-600">
         <p class="mb-4">
-          Converting liters to pints is essential for cooking, brewing, and international liquid measurement in 2025. 
+          Converting liters to pints is essential for cooking, brewing, and international liquid measurement in 2026. 
           This conversion between metric and imperial volume units enables accurate communication between professionals 
           working in different measurement systems, from international recipe sharing to industrial liquid handling.
         </p>
         <p class="mb-6">
-          Our 2025 converter provides instant and precise conversions from liters to pints, essential for chefs, 
+          Our 2026 converter provides instant and precise conversions from liters to pints, essential for chefs, 
           brewers, bartenders, and anyone working with liquid measurements. 
           1 liter equals approximately 2.113 US pints or 1.760 UK pints.
         </p>

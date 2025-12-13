@@ -48,7 +48,7 @@ try {
 
     // Add static/default content for other fields
     $center['email'] = 'support@boat-lifestyle.com';
-    $center['page_title'] = $center['shop_name'] . ' | Authorized boAt Service Center Near Me 2025';
+    $center['page_title'] = $center['shop_name'] . ' | Authorized boAt Service Center Near Me 2026';
     $center['about'] = $center['shop_name'] .' is an authorized boAt service center Near Me - India\'s No.1 Earwear Brand. We provide expert repairs and support for all boAt headphones, earphones, and wearable devices.';
     
     $center['services'] = [

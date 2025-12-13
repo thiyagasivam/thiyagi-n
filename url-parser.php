@@ -263,22 +263,22 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>URL Parser & Analyzer 2025 - Advanced URL Component Breakdown Tool</title>
-    <meta name="description" content="Professional URL parser and analyzer tool for 2025. Parse, analyze, and breakdown URLs with detailed component extraction, SEO analysis, and security insights for developers and marketers.">
-    <meta name="keywords" content="URL parser 2025, URL analyzer tool, parse URL components, URL breakdown, domain extractor, SEO URL analysis, web development tools">
+    <title>URL Parser & Analyzer 2026 - Advanced URL Component Breakdown Tool</title>
+    <meta name="description" content="Professional URL parser and analyzer tool for 2026. Parse, analyze, and breakdown URLs with detailed component extraction, SEO analysis, and security insights for developers and marketers.">
+    <meta name="keywords" content="URL parser 2026, URL analyzer tool, parse URL components, URL breakdown, domain extractor, SEO URL analysis, web development tools">
     <link rel="canonical" href="https://www.thiyagi.com/url-parser">
     
     <!-- Open Graph / Facebook -->
     <meta property="og:type" content="website">
     <meta property="og:url" content="https://www.thiyagi.com/url-parser">
-    <meta property="og:title" content="URL Parser & Analyzer 2025 - Advanced URL Component Breakdown Tool">
+    <meta property="og:title" content="URL Parser & Analyzer 2026 - Advanced URL Component Breakdown Tool">
     <meta property="og:description" content="Professional URL parser with detailed analysis, SEO insights, and component breakdown. Essential tool for developers and marketers.">
     <meta property="og:image" content="https://www.thiyagi.com/nt.png">
     
     <!-- Twitter -->
     <meta property="twitter:card" content="summary_large_image">
     <meta property="twitter:url" content="https://www.thiyagi.com/url-parser">
-    <meta property="twitter:title" content="URL Parser & Analyzer 2025 - Advanced URL Component Breakdown Tool">
+    <meta property="twitter:title" content="URL Parser & Analyzer 2026 - Advanced URL Component Breakdown Tool">
     <meta property="twitter:description" content="Professional URL parser with SEO analysis and detailed component breakdown.">
     <meta property="twitter:image" content="https://www.thiyagi.com/nt.png">
     
@@ -289,7 +289,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
     {
         "@context": "https://schema.org",
         "@type": "WebApplication",
-        "name": "URL Parser & Analyzer 2025",
+        "name": "URL Parser & Analyzer 2026",
         "description": "Advanced URL parsing and analysis tool for developers with detailed component breakdown and SEO insights",
         "url": "https://www.thiyagi.com/url-parser",
         "applicationCategory": "DeveloperApplication",
@@ -369,7 +369,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
 
     <div class="container mx-auto px-4 py-8 max-w-6xl">
         <header class="text-center mb-12">
-            <h1 class="text-4xl font-bold text-gray-900 mb-4">🔍 URL Parser & Analyzer 2025</h1>
+            <h1 class="text-4xl font-bold text-gray-900 mb-4">🔍 URL Parser & Analyzer 2026</h1>
             <p class="text-xl text-gray-600 max-w-4xl mx-auto">Advanced URL parsing and analysis tool with detailed component breakdown, SEO insights, and security analysis for developers, marketers, and web professionals.</p>
         </header>
 
@@ -793,7 +793,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
         function loadSampleUrl() {
             const samples = [
                 'https://api.example.com:8080/v1/users?limit=10&offset=0&sort=name#results',
-                'https://www.example.com/blog/2025/url-parsing-guide?utm_source=google&utm_medium=search',
+                'https://www.example.com/blog/2026/url-parsing-guide?utm_source=google&utm_medium=search',
                 'https://cdn.example.com/assets/images/logo.png?v=1.2.3',
                 'https://shop.example.com/products/category/electronics?brand=apple&price_min=100&price_max=500#reviews'
             ];

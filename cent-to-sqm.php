@@ -1,12 +1,12 @@
 <?php include 'header.php';?>
-<title>Cent to Square Meter Converter 2025 | Cent to Sqm | Free Tool</title>
-<meta name="description" content="Convert cent to square meter instantly with our 2025 accurate converter. Perfect cent to sqm conversion with real-time calculations for land measurement.">
-<meta name="keywords" content="cent to square meter 2025, cent sqm converter, Indian land measurement 2025, property conversion calculator, real estate measurement">
+<title>Cent to Square Meter Converter 2026 | Cent to Sqm | Free Tool</title>
+<meta name="description" content="Convert cent to square meter instantly with our 2026 accurate converter. Perfect cent to sqm conversion with real-time calculations for land measurement.">
+<meta name="keywords" content="cent to square meter 2026, cent sqm converter, Indian land measurement 2026, property conversion calculator, real estate measurement">
 <link rel="canonical" href="https://www.thiyagi.com/cent-to-sqm">
 
 <!-- Open Graph Meta Tags -->
-<meta property="og:title" content="Cent to Square Meter Converter 2025 | Cent to Sqm | Free Tool">
-<meta property="og:description" content="Convert cent to square meter instantly with our 2025 accurate converter. Perfect cent to sqm conversion with real-time calculations for land measurement.">
+<meta property="og:title" content="Cent to Square Meter Converter 2026 | Cent to Sqm | Free Tool">
+<meta property="og:description" content="Convert cent to square meter instantly with our 2026 accurate converter. Perfect cent to sqm conversion with real-time calculations for land measurement.">
 <meta property="og:url" content="https://www.thiyagi.com/cent-to-sqm">
 <meta property="og:type" content="website">
 <meta property="og:image" content="https://www.thiyagi.com/nt.png">
@@ -14,8 +14,8 @@
 
 <!-- Twitter Card Meta Tags -->
 <meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:title" content="Cent to Square Meter Converter 2025 | Cent to Sqm | Free Tool">
-<meta name="twitter:description" content="Convert cent to square meter instantly with our 2025 accurate converter. Perfect cent to sqm conversion with real-time calculations for land measurement.">
+<meta name="twitter:title" content="Cent to Square Meter Converter 2026 | Cent to Sqm | Free Tool">
+<meta name="twitter:description" content="Convert cent to square meter instantly with our 2026 accurate converter. Perfect cent to sqm conversion with real-time calculations for land measurement.">
 <meta name="twitter:image" content="https://www.thiyagi.com/nt.png">
 
 <!-- Additional SEO Meta Tags -->
@@ -39,7 +39,7 @@
           Cent to Square Meter Converter
         </h1>
         <p class="text-xl text-gray-600 mb-8 max-w-3xl mx-auto">
-          Convert cents to square meters instantly with our accurate 2025 calculator. 
+          Convert cents to square meters instantly with our accurate 2026 calculator. 
           Perfect for Indian property measurements, land documentation, and real estate calculations.
         </p>
       </div>
@@ -157,16 +157,16 @@
     <article class="bg-white rounded-xl shadow-lg p-8">
       <h2 class="text-2xl font-bold text-gray-800 mb-6 flex items-center gap-3">
         <i class="fas fa-info-circle text-red-600" aria-hidden="true"></i>
-        Cent to Square Meter Conversion 2025
+        Cent to Square Meter Conversion 2026
       </h2>
       <div class="prose max-w-none text-gray-600">
         <p class="mb-4">
-          Converting cents to square meters is essential for Indian property documentation, land registration, and real estate transactions in 2025. 
+          Converting cents to square meters is essential for Indian property documentation, land registration, and real estate transactions in 2026. 
           The cent is a traditional land measurement unit commonly used in Southern India, while square meters provide international standardization 
           for property area calculations and legal documentation.
         </p>
         <p class="mb-6">
-          Our 2025 converter provides instant and accurate conversions from cents to square meters, essential for property dealers, 
+          Our 2026 converter provides instant and accurate conversions from cents to square meters, essential for property dealers, 
           land surveyors, real estate professionals, and property buyers in South India. 
           One cent equals exactly 40.468564224 square meters.
         </p>

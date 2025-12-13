@@ -1,19 +1,19 @@
 <?php include 'header.php'; ?>
 
 <!-- SEO Meta Tags -->
-<title>Megahertz to Hertz Converter 2025 - Frequency Calculator | Thiyagi</title>
-<meta name="description" content="Free online megahertz to hertz converter 2025. Convert MHz to Hz instantly with accurate frequency conversion for electronics and engineering.">
-<meta name="keywords" content="megahertz to hertz converter 2025, MHz to Hz, frequency converter, electronics calculator, signal processing">
+<title>Megahertz to Hertz Converter 2026 - Frequency Calculator | Thiyagi</title>
+<meta name="description" content="Free online megahertz to hertz converter 2026. Convert MHz to Hz instantly with accurate frequency conversion for electronics and engineering.">
+<meta name="keywords" content="megahertz to hertz converter 2026, MHz to Hz, frequency converter, electronics calculator, signal processing">
 <meta name="author" content="Thiyagi">
-<meta property="og:title" content="Megahertz to Hertz Converter 2025 - Frequency Calculator">
-<meta property="og:description" content="Free online megahertz to hertz converter 2025. Convert MHz to Hz instantly with accurate frequency conversion.">
+<meta property="og:title" content="Megahertz to Hertz Converter 2026 - Frequency Calculator">
+<meta property="og:description" content="Free online megahertz to hertz converter 2026. Convert MHz to Hz instantly with accurate frequency conversion.">
 <meta property="og:type" content="website">
 <meta property="og:url" content="https://www.thiyagi.com/megahertz-to-hertz.php">
 <meta property="og:image" content="https://www.thiyagi.com/nt.png">
 <meta property="og:site_name" content="Thiyagi">
 <meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:title" content="Megahertz to Hertz Converter 2025 - Frequency Calculator">
-<meta name="twitter:description" content="Free online megahertz to hertz converter 2025. Convert MHz to Hz instantly.">
+<meta name="twitter:title" content="Megahertz to Hertz Converter 2026 - Frequency Calculator">
+<meta name="twitter:description" content="Free online megahertz to hertz converter 2026. Convert MHz to Hz instantly.">
 <meta name="twitter:image" content="https://www.thiyagi.com/nt.png">
 
 <div class="min-h-screen bg-gradient-to-br from-green-50 via-emerald-50 to-teal-50 py-12">

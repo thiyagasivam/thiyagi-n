@@ -3,14 +3,14 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Hebrew Birthday Calculator 2025 - Convert Gregorian to Hebrew Calendar | Thiyagi.com</title>
-    <meta name="description" content="Hebrew birthday calculator 2025 - convert Gregorian dates to Hebrew calendar, find your Hebrew birthday, and calculate upcoming Hebrew anniversaries.">
-    <meta name="keywords" content="hebrew birthday calculator 2025, jewish calendar converter, hebrew date calculator, jewish birthday finder, hebrew calendar conversion">
+    <title>Hebrew Birthday Calculator 2026 - Convert Gregorian to Hebrew Calendar | Thiyagi.com</title>
+    <meta name="description" content="Hebrew birthday calculator 2026 - convert Gregorian dates to Hebrew calendar, find your Hebrew birthday, and calculate upcoming Hebrew anniversaries.">
+    <meta name="keywords" content="hebrew birthday calculator 2026, jewish calendar converter, hebrew date calculator, jewish birthday finder, hebrew calendar conversion">
     <meta name="author" content="Thiyagi">
     <meta name="robots" content="index, follow">
     
     <!-- Open Graph Meta Tags -->
-    <meta property="og:title" content="Hebrew Birthday Calculator 2025 - Convert Gregorian to Hebrew Calendar">
+    <meta property="og:title" content="Hebrew Birthday Calculator 2026 - Convert Gregorian to Hebrew Calendar">
     <meta property="og:description" content="Convert your birthday to Hebrew calendar, find Hebrew dates, and calculate Jewish calendar anniversaries.">
     <meta property="og:url" content="https://www.thiyagi.com/hebrew-birthday-calculator">
     <meta property="og:type" content="website">
@@ -18,7 +18,7 @@
     
     <!-- Twitter Card Meta Tags -->
     <meta name="twitter:card" content="summary_large_image">
-    <meta name="twitter:title" content="Hebrew Birthday Calculator 2025 - Convert Gregorian to Hebrew Calendar">
+    <meta name="twitter:title" content="Hebrew Birthday Calculator 2026 - Convert Gregorian to Hebrew Calendar">
     <meta name="twitter:description" content="Convert your birthday to Hebrew calendar and find Jewish calendar dates.">
     <meta name="twitter:image" content="https://www.thiyagi.com/nt.png">
     
@@ -67,7 +67,7 @@
 {
   "@context": "https://schema.org",
   "@type": "WebApplication",
-  "name": "Hebrew Birthday Calculator 2025",
+  "name": "Hebrew Birthday Calculator 2026",
   "description": "Convert Gregorian dates to Hebrew calendar, find your Hebrew birthday, and calculate Jewish calendar anniversaries.",
   "url": "https://www.thiyagi.com/hebrew-birthday-calculator",
   "applicationCategory": "UtilityApplication",

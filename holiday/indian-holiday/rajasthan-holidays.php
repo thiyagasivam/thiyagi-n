@@ -2,19 +2,19 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Rajasthan Holidays 2025 | Complete Calendar | Festivals | National Holidays</title>
-    <meta name="description" content="Complete Rajasthan Holiday Calendar 2025. Find all major festivals, national holidays, cultural events, and religious celebrations in Rajasthan. Plan your year with our comprehensive holiday guide.">
-    <meta name="keywords" content="Rajasthan holidays 2025, Rajasthan festivals, Teej, Gangaur, national holidays India, cultural events Rajasthan, Rajasthan calendar, holidays Rajasthan, festival dates 2025">
+    <title>Rajasthan Holidays 2026 | Complete Calendar | Festivals | National Holidays</title>
+    <meta name="description" content="Complete Rajasthan Holiday Calendar 2026. Find all major festivals, national holidays, cultural events, and religious celebrations in Rajasthan. Plan your year with our comprehensive holiday guide.">
+    <meta name="keywords" content="Rajasthan holidays 2026, Rajasthan festivals, Teej, Gangaur, national holidays India, cultural events Rajasthan, Rajasthan calendar, holidays Rajasthan, festival dates 2026">
     <meta name="author" content="Rajasthan Holiday Calendar">
     <meta name="robots" content="index, follow">
-    <meta property="og:title" content="Rajasthan Holidays 2025 - Complete Calendar">
-    <meta property="og:description" content="Complete Rajasthan Holiday Calendar 2025 with all festivals, national holidays, and cultural events. Plan your year with our comprehensive guide.">
+    <meta property="og:title" content="Rajasthan Holidays 2026 - Complete Calendar">
+    <meta property="og:description" content="Complete Rajasthan Holiday Calendar 2026 with all festivals, national holidays, and cultural events. Plan your year with our comprehensive guide.">
     <meta property="og:type" content="website">
     <meta property="og:url" content="<?php echo 'https://' . $_SERVER['HTTP_HOST'] . $_SERVER['REQUEST_URI']; ?>">
-    <meta property="og:image" content="https://via.placeholder.com/1200x630/FF6B35/FFFFFF?text=Rajasthan+Holidays+2025">
+    <meta property="og:image" content="https://via.placeholder.com/1200x630/FF6B35/FFFFFF?text=Rajasthan+Holidays+2026">
     <meta name="twitter:card" content="summary_large_image">
-    <meta name="twitter:title" content="Rajasthan Holidays 2025">
-    <meta name="twitter:description" content="Complete Rajasthan Holiday Calendar 2025 with all festivals and holidays.">
+    <meta name="twitter:title" content="Rajasthan Holidays 2026">
+    <meta name="twitter:description" content="Complete Rajasthan Holiday Calendar 2026 with all festivals and holidays.">
     <link rel="canonical" href="<?php echo 'https://' . $_SERVER['HTTP_HOST'] . $_SERVER['REQUEST_URI']; ?>">
     <meta name="language" content="English, Hindi">
     <meta name="geo.region" content="IN-RJ">
@@ -24,26 +24,26 @@
     {
         "@context": "https://schema.org",
         "@type": "WebPage",
-        "name": "Rajasthan Holidays 2025",
-        "description": "Complete Rajasthan Holiday Calendar 2025 with all festivals, national holidays, and cultural events",
+        "name": "Rajasthan Holidays 2026",
+        "description": "Complete Rajasthan Holiday Calendar 2026 with all festivals, national holidays, and cultural events",
         "url": "<?php echo 'https://' . $_SERVER['HTTP_HOST'] . $_SERVER['REQUEST_URI']; ?>",
         "mainEntity": {
             "@type": "FAQPage",
             "mainEntity": [
                 {
                     "@type": "Question",
-                    "name": "What are the main festivals in Rajasthan in 2025?",
+                    "name": "What are the main festivals in Rajasthan in 2026?",
                     "acceptedAnswer": {
                         "@type": "Answer",
-                        "text": "The main festivals in Rajasthan 2025 include Teej (July/August), Gangaur (March/April), and Pushkar Fair (November)."
+                        "text": "The main festivals in Rajasthan 2026 include Teej (July/August), Gangaur (March/April), and Pushkar Fair (November)."
                     }
                 },
                 {
                     "@type": "Question",
-                    "name": "How many national holidays are there in Rajasthan 2025?",
+                    "name": "How many national holidays are there in Rajasthan 2026?",
                     "acceptedAnswer": {
                         "@type": "Answer",
-                        "text": "There are several national holidays in Rajasthan 2025 including Republic Day (January 26), Independence Day (August 15), and Gandhi Jayanti (October 2)."
+                        "text": "There are several national holidays in Rajasthan 2026 including Republic Day (January 26), Independence Day (August 15), and Gandhi Jayanti (October 2)."
                     }
                 },
                 {
@@ -59,12 +59,12 @@
                     "name": "How is Independence Day celebrated in Rajasthan?",
                     "acceptedAnswer": {
                         "@type": "Answer",
-                        "text": "Independence Day (August 15, 2025) is celebrated with great patriotic fervor across Rajasthan. The day begins with flag hoisting ceremonies in schools, colleges, and government offices, often accompanied by cultural programs and parades."
+                        "text": "Independence Day (August 15, 2026) is celebrated with great patriotic fervor across Rajasthan. The day begins with flag hoisting ceremonies in schools, colleges, and government offices, often accompanied by cultural programs and parades."
                     }
                 },
                 {
                     "@type": "Question",
-                    "name": "Are there any special holidays specific to Rajasthan in 2025?",
+                    "name": "Are there any special holidays specific to Rajasthan in 2026?",
                     "acceptedAnswer": {
                         "@type": "Answer",
                         "text": "Yes, Rajasthan has several state-specific holidays and festivals. Teej, Gangaur, and the Pushkar Fair are unique to Rajasthan and are celebrated with great enthusiasm. The state government may also declare holidays for local events."
@@ -76,7 +76,7 @@
             "@type": "Organization",
             "name": "Rajasthan Holiday Calendar"
         },
-        "datePublished": "2025-01-01",
+        "datePublished": "2026-01-01",
         "dateModified": "<?php echo date('Y-m-d'); ?>"
     }
     </script>
@@ -100,114 +100,114 @@
 </head>
 <body class="bg-gradient-to-br from-orange-50 to-blue-50 min-h-screen">
     <?php
-    // Rajasthan Holidays 2025 Data
-    $holidays_2025 = [
-        '2025-01-01' => [
+    // Rajasthan Holidays 2026 Data
+    $holidays_2026 = [
+        '2026-01-01' => [
             'name' => 'New Year\'s Day',
             'type' => 'National Holiday',
             'description' => 'Celebration of the new year',
             'icon' => 'fa-calendar-day',
             'bank_holiday' => true
         ],
-        '2025-01-14' => [
+        '2026-01-14' => [
             'name' => 'Makar Sankranti',
             'type' => 'Regional Festival',
             'description' => 'Harvest festival marking the sun\'s entry into Capricorn',
             'icon' => 'fa-sun',
             'bank_holiday' => true
         ],
-        '2025-01-26' => [
+        '2026-01-26' => [
             'name' => 'Republic Day',
             'type' => 'National Holiday',
             'description' => 'Celebration of Indian Republic',
             'icon' => 'fa-flag',
             'bank_holiday' => true
         ],
-        '2025-02-14' => [
+        '2026-02-14' => [
             'name' => 'Valentine\'s Day',
             'type' => 'International',
             'description' => 'Day of love and affection',
             'icon' => 'fa-heart',
             'bank_holiday' => false
         ],
-        '2025-03-08' => [
+        '2026-03-08' => [
             'name' => 'International Women\'s Day',
             'type' => 'International',
             'description' => 'Celebration of women\'s achievements',
             'icon' => 'fa-venus',
             'bank_holiday' => false
         ],
-        '2025-03-29' => [ // Approximate date for Holi (Phalgun Purnima)
+        '2026-03-29' => [ // Approximate date for Holi (Phalgun Purnima)
             'name' => 'Holi',
             'type' => 'Hindu Festival',
             'description' => 'Festival of colors',
             'icon' => 'fa-spray-can-sparkles',
             'bank_holiday' => true
         ],
-        '2025-04-05' => [ // Approximate date for Good Friday (Varies)
+        '2026-04-05' => [ // Approximate date for Good Friday (Varies)
             'name' => 'Good Friday',
             'type' => 'Christian Holiday',
             'description' => 'Commemorates the crucifixion of Jesus Christ',
             'icon' => 'fa-cross',
             'bank_holiday' => true
         ],
-        '2025-04-14' => [
+        '2026-04-14' => [
             'name' => 'Ambedkar Jayanti',
             'type' => 'National Holiday',
             'description' => 'Birth anniversary of Dr. B.R. Ambedkar',
             'icon' => 'fa-book',
             'bank_holiday' => true
         ],
-        '2025-05-01' => [
+        '2026-05-01' => [
             'name' => 'Labour Day',
             'type' => 'International',
             'description' => 'International Workers\' Day',
             'icon' => 'fa-hard-hat',
             'bank_holiday' => true
         ],
-        '2025-06-16' => [ // Approximate date for Bakrid/Eid al-Adha (Varies)
+        '2026-06-16' => [ // Approximate date for Bakrid/Eid al-Adha (Varies)
             'name' => 'Bakrid/Eid al-Adha',
             'type' => 'Islamic Holiday',
             'description' => 'Festival of sacrifice',
             'icon' => 'fa-moon',
             'bank_holiday' => true
         ],
-        '2025-07-17' => [ // Approximate date for Muharram (Varies)
+        '2026-07-17' => [ // Approximate date for Muharram (Varies)
             'name' => 'Muharram',
             'type' => 'Islamic Holiday',
             'description' => 'Islamic New Year',
             'icon' => 'fa-moon',
             'bank_holiday' => true
         ],
-        '2025-08-15' => [
+        '2026-08-15' => [
             'name' => 'Independence Day',
             'type' => 'National Holiday',
             'description' => 'Indian Independence Day',
             'icon' => 'fa-dove',
             'bank_holiday' => true
         ],
-        '2025-10-02' => [
+        '2026-10-02' => [
             'name' => 'Gandhi Jayanti',
             'type' => 'National Holiday',
             'description' => 'Birth anniversary of Mahatma Gandhi',
             'icon' => 'fa-peace',
             'bank_holiday' => true
         ],
-        '2025-10-31' => [ // Approximate date for Diwali (Kartik Amavasya)
+        '2026-10-31' => [ // Approximate date for Diwali (Kartik Amavasya)
             'name' => 'Diwali',
             'type' => 'Hindu Festival',
             'description' => 'Festival of lights',
             'icon' => 'fa-lightbulb',
             'bank_holiday' => true
         ],
-        '2025-11-14' => [
+        '2026-11-14' => [
             'name' => 'Children\'s Day',
             'type' => 'National',
             'description' => 'Birth anniversary of Jawaharlal Nehru',
             'icon' => 'fa-child',
             'bank_holiday' => false
         ],
-        '2025-12-25' => [
+        '2026-12-25' => [
             'name' => 'Christmas',
             'type' => 'Religious',
             'description' => 'Celebration of Jesus Christ\'s birth',
@@ -216,81 +216,81 @@
         ]
     ];
 
-    // Rajasthan-Specific & Bank Holidays 2025
-    $bank_holidays_2025 = [
+    // Rajasthan-Specific & Bank Holidays 2026
+    $bank_holidays_2026 = [
         // Note: Dates for festivals like Teej, Gangaur, and Pushkar are approximate or vary by region/year.
         // These are illustrative examples. Actual dates should be verified closer to the year.
-        '2025-03-15' => [ // Approximate Gangaur date (Chaitra month)
+        '2026-03-15' => [ // Approximate Gangaur date (Chaitra month)
             'name' => 'Gangaur',
             'type' => 'Rajasthan Festival',
             'description' => 'Celebrates the union of Lord Shiva and Goddess Parvati, especially important for women',
             'icon' => 'fa-person-dress',
             'bank_holiday' => true
         ],
-        '2025-07-25' => [ // Approximate Teej date (Shravan month)
+        '2026-07-25' => [ // Approximate Teej date (Shravan month)
             'name' => 'Teej',
             'type' => 'Rajasthan Festival',
             'description' => 'Festival of monsoon, celebrated by women with songs, dances, and swings',
             'icon' => 'fa-droplet',
             'bank_holiday' => true
         ],
-        '2025-11-10' => [ // Approximate Pushkar Fair date (Kartik month)
+        '2026-11-10' => [ // Approximate Pushkar Fair date (Kartik month)
             'name' => 'Pushkar Fair',
             'type' => 'Rajasthan Festival',
             'description' => 'World-famous camel fair and cultural festival',
             'icon' => 'fa-cow',
             'bank_holiday' => true
         ],
-        '2025-05-09' => [
+        '2026-05-09' => [
             'name' => 'Buddha Purnima',
             'type' => 'Bank Holiday',
             'description' => 'Birth anniversary of Lord Buddha',
             'icon' => 'fa-university',
             'bank_holiday' => true
         ],
-        '2025-08-26' => [
+        '2026-08-26' => [
             'name' => 'Janmashtami',
             'type' => 'Bank Holiday',
             'description' => 'Birth anniversary of Lord Krishna',
             'icon' => 'fa-university',
             'bank_holiday' => true
         ],
-        '2025-09-07' => [
+        '2026-09-07' => [
             'name' => 'Ganesh Chaturthi',
             'type' => 'Bank Holiday',
             'description' => 'Birth anniversary of Lord Ganesha',
             'icon' => 'fa-university',
             'bank_holiday' => true
         ],
-        '2025-09-23' => [
+        '2026-09-23' => [
             'name' => 'Maha Navami',
             'type' => 'Bank Holiday',
             'description' => 'Ninth day of Navratri',
             'icon' => 'fa-university',
             'bank_holiday' => true
         ],
-        '2025-09-24' => [
+        '2026-09-24' => [
             'name' => 'Vijaya Dashami/Dussehra',
             'type' => 'Bank Holiday',
             'description' => 'Tenth day of Navratri',
             'icon' => 'fa-university',
             'bank_holiday' => true
         ],
-        '2025-11-01' => [
+        '2026-11-01' => [
             'name' => 'Diwali Holiday',
             'type' => 'Bank Holiday',
             'description' => 'Day after Diwali',
             'icon' => 'fa-university',
             'bank_holiday' => true
         ],
-        '2025-11-15' => [
+        '2026-11-15' => [
             'name' => 'Guru Nanak Jayanti',
             'type' => 'Bank Holiday',
             'description' => 'Birth anniversary of Guru Nanak Dev Ji',
             'icon' => 'fa-university',
             'bank_holiday' => true
         ],
-        '2025-12-24' => [
+        '2026-12-24' => [
             'name' => 'Christmas Eve',
             'type' => 'Bank Holiday',
             'description' => 'Day before Christmas',
@@ -300,11 +300,11 @@
     ];
 
     // Merge all holidays
-    $all_holidays_2025 = array_merge($holidays_2025, $bank_holidays_2025);
+    $all_holidays_2026 = array_merge($holidays_2026, $bank_holidays_2026);
 
     // Get current month and year
     $current_month = isset($_GET['month']) ? (int)$_GET['month'] : (int)date('n');
-    $current_year = isset($_GET['year']) ? (int)$_GET['year'] : 2025;
+    $current_year = isset($_GET['year']) ? (int)$_GET['year'] : 2026;
 
     // Month names
     $month_names = [
@@ -351,7 +351,7 @@
                     </div>
                     <div>
                         <h1 class="text-4xl font-bold flex items-center space-x-3">
-                            <span>Rajasthan Holidays 2025</span>
+                            <span>Rajasthan Holidays 2026</span>
                             <i class="fas fa-fort-awesome text-2xl animate-bounce"></i>
                         </h1>
                         <p class="text-lg opacity-90 flex items-center space-x-2">
@@ -371,7 +371,7 @@
                     </p>
                     <div class="mt-2 flex items-center space-x-2">
                         <i class="fas fa-gift text-yellow-200"></i>
-                        <span class="text-sm opacity-75"><?php echo count($all_holidays_2025); ?> Total Holidays</span>
+                        <span class="text-sm opacity-75"><?php echo count($all_holidays_2026); ?> Total Holidays</span>
                     </div>
                 </div>
             </div>
@@ -397,7 +397,7 @@
                 <li><i class="fas fa-chevron-right text-xs"></i></li>
                 <li><a href="#" class="hover:text-blue-600 transition-colors">Rajasthan</a></li>
                 <li><i class="fas fa-chevron-right text-xs"></i></li>
-                <li class="text-gray-800 font-medium">Holidays 2025</li>
+                <li class="text-gray-800 font-medium">Holidays 2026</li>
             </ol>
         </nav>
         <!-- SEO Introduction Section -->
@@ -405,11 +405,11 @@
             <div class="max-w-4xl mx-auto text-center">
                 <h2 class="text-3xl font-bold text-gray-800 mb-4 flex items-center justify-center space-x-3">
                     <i class="fas fa-calendar-alt text-rj-orange"></i>
-                    <span>Complete Rajasthan Holiday Calendar 2025</span>
+                    <span>Complete Rajasthan Holiday Calendar 2026</span>
                     <i class="fas fa-star text-yellow-500"></i>
                 </h2>
                 <p class="text-lg text-gray-700 mb-4 leading-relaxed">
-                    Welcome to the comprehensive Rajasthan Holiday Calendar 2025! This detailed guide provides you with all the important dates,
+                    Welcome to the comprehensive Rajasthan Holiday Calendar 2026! This detailed guide provides you with all the important dates,
                     festivals, and celebrations throughout the year. Whether you're planning a trip to the Land of Kings, organizing events,
                     or simply want to stay informed about cultural celebrations, our calendar covers everything from traditional Rajasthan festivals
                     like Teej and Gangaur to national holidays and international observances.
@@ -589,8 +589,8 @@
                 // Days of the month
                 for ($day = 1; $day <= $days_in_month; $day++) {
                     $date = sprintf('%04d-%02d-%02d', $current_year, $current_month, $day);
-                    $is_holiday = isset($all_holidays_2025[$date]);
-                    $is_bank_holiday = isset($all_holidays_2025[$date]) && $all_holidays_2025[$date]['bank_holiday'] === true;
+                    $is_holiday = isset($all_holidays_2026[$date]);
+                    $is_bank_holiday = isset($all_holidays_2026[$date]) && $all_holidays_2026[$date]['bank_holiday'] === true;
                     $is_today = ($day == date('j') && $current_month == date('n') && $current_year == date('Y'));
                     $cell_classes = 'p-4 border-r border-b min-h-[100px] relative';
                     $cell_classes .= $is_today ? ' bg-yellow-100' : '';
@@ -602,7 +602,7 @@
                     echo '<div class="' . $cell_classes . '">';
                     echo '<div class="text-lg font-semibold text-gray-800 mb-2">' . $day . '</div>';
                     if ($is_holiday) {
-                        $holiday = $all_holidays_2025[$date];
+                        $holiday = $all_holidays_2026[$date];
                         $border_color = $is_bank_holiday ? 'border-blue-500' : 'border-rj-orange';
                         $bg_color = $is_bank_holiday ? 'bg-blue-100' : 'bg-orange-100';
                         $text_color = $is_bank_holiday ? 'text-blue-800' : 'text-rj-orange';
@@ -655,7 +655,7 @@
                     <?php
                     $today = date('Y-m-d');
                     $upcoming_count = 0;
-                    foreach ($all_holidays_2025 as $date => $holiday) {
+                    foreach ($all_holidays_2026 as $date => $holiday) {
                         if ($date >= $today && $upcoming_count < 5) {
                             $days_until = (strtotime($date) - strtotime($today)) / (60 * 60 * 24);
                             echo '<div class="flex items-center justify-between p-4 bg-gradient-to-r from-blue-50 to-orange-50 rounded-lg border border-rj-blue hover:shadow-md transition-all transform hover:scale-105">';
@@ -697,16 +697,16 @@
                     <div class="text-center p-4 bg-gradient-to-br from-green-50 to-orange-50 rounded-lg border border-rj-green hover:shadow-md transition-all">
                         <div class="flex items-center justify-center space-x-2 mb-2">
                             <i class="fas fa-gift text-rj-green text-xl"></i>
-                            <div class="text-3xl font-bold text-rj-green"><?php echo count($holidays_2025); ?></div>
+                            <div class="text-3xl font-bold text-rj-green"><?php echo count($holidays_2026); ?></div>
                         </div>
                         <div class="text-sm text-rj-green font-medium">Total Holidays</div>
-                        <div class="text-xs text-rj-orange mt-1"><?php echo count(array_filter($all_holidays_2025, function($h) { return $h['bank_holiday'] === true; })); ?> Bank Holidays</div>
+                        <div class="text-xs text-rj-orange mt-1"><?php echo count(array_filter($all_holidays_2026, function($h) { return $h['bank_holiday'] === true; })); ?> Bank Holidays</div>
                         <div class="text-xs text-rj-green mt-1">🎉 Celebrations</div>
                     </div>
                     <div class="text-center p-4 bg-gradient-to-br from-orange-50 to-blue-50 rounded-lg border border-rj-orange hover:shadow-md transition-all">
                         <div class="flex items-center justify-center space-x-2 mb-2">
                             <i class="fas fa-fort-awesome text-rj-orange text-xl"></i>
-                            <div class="text-3xl font-bold text-rj-orange"><?php echo count(array_filter($bank_holidays_2025, function($h) { return $h['type'] === 'Rajasthan Festival'; })); ?></div>
+                            <div class="text-3xl font-bold text-rj-orange"><?php echo count(array_filter($bank_holidays_2026, function($h) { return $h['type'] === 'Rajasthan Festival'; })); ?></div>
                         </div>
                         <div class="text-sm text-rj-orange font-medium">Rajasthan Festivals</div>
                         <div class="text-xs text-rj-blue mt-1">🏰 Cultural</div>
@@ -714,7 +714,7 @@
                     <div class="text-center p-4 bg-gradient-to-br from-blue-50 to-green-50 rounded-lg border border-rj-blue hover:shadow-md transition-all">
                         <div class="flex items-center justify-center space-x-2 mb-2">
                             <i class="fas fa-star text-rj-blue text-xl"></i>
-                            <div class="text-3xl font-bold text-rj-blue"><?php echo count(array_filter($holidays_2025, function($h) { return $h['type'] === 'National Holiday'; })); ?></div>
+                            <div class="text-3xl font-bold text-rj-blue"><?php echo count(array_filter($holidays_2026, function($h) { return $h['type'] === 'National Holiday'; })); ?></div>
                         </div>
                         <div class="text-sm text-rj-blue font-medium">National Holidays</div>
                         <div class="text-xs text-rj-blue mt-1">🇮🇳 Patriotic</div>
@@ -722,7 +722,7 @@
                     <div class="text-center p-4 bg-gradient-to-br from-purple-50 to-orange-50 rounded-lg border border-purple-200 hover:shadow-md transition-all">
                         <div class="flex items-center justify-center space-x-2 mb-2">
                             <i class="fas fa-pray text-purple-600 text-xl"></i>
-                            <div class="text-3xl font-bold text-purple-600"><?php echo count(array_filter($all_holidays_2025, function($h) { return in_array($h['type'], ['Hindu Festival', 'Islamic Holiday', 'Christian Holiday', 'Religious']); })); ?></div>
+                            <div class="text-3xl font-bold text-purple-600"><?php echo count(array_filter($all_holidays_2026, function($h) { return in_array($h['type'], ['Hindu Festival', 'Islamic Holiday', 'Christian Holiday', 'Religious']); })); ?></div>
                         </div>
                         <div class="text-sm text-purple-700 font-medium">Religious</div>
                         <div class="text-xs text-purple-600 mt-1">⛪ Spiritual</div>
@@ -730,7 +730,7 @@
                     <div class="text-center p-4 bg-gradient-to-br from-blue-50 to-blue-100 rounded-lg border border-blue-200 hover:shadow-md transition-all">
                         <div class="flex items-center justify-center space-x-2 mb-2">
                             <i class="fas fa-university text-blue-600 text-xl"></i>
-                            <div class="text-3xl font-bold text-blue-600"><?php echo count(array_filter($all_holidays_2025, function($h) { return $h['bank_holiday'] === true; })); ?></div>
+                            <div class="text-3xl font-bold text-blue-600"><?php echo count(array_filter($all_holidays_2026, function($h) { return $h['bank_holiday'] === true; })); ?></div>
                         </div>
                         <div class="text-sm text-blue-700 font-medium">Bank Holidays</div>
                         <div class="text-xs text-blue-600 mt-1">🏦 Financial</div>
@@ -742,14 +742,14 @@
         <div class="mt-8 bg-white rounded-lg shadow-lg p-6 border-l-4 border-rj-blue">
             <h3 class="text-2xl font-bold text-gray-800 mb-4 flex items-center">
                 <i class="fas fa-university text-rj-blue mr-3 text-2xl"></i>
-                <span>Bank Holidays 2025</span>
+                <span>Bank Holidays 2026</span>
                 <i class="fas fa-building-columns text-rj-orange ml-2"></i>
             </h3>
             <p class="text-gray-600 mb-6">All major banks in Rajasthan will be closed on these dates. Plan your banking activities accordingly.</p>
             <div class="grid md:grid-cols-2 lg:grid-cols-3 gap-4">
                 <?php
                 $bank_holidays_displayed = 0;
-                foreach ($all_holidays_2025 as $date => $holiday) {
+                foreach ($all_holidays_2026 as $date => $holiday) {
                     if ($holiday['bank_holiday'] === true && $bank_holidays_displayed < 12) {
                         $formatted_date = date('M d, Y', strtotime($date));
                         $day_name = date('l', strtotime($date));
@@ -875,10 +875,10 @@
                     <div class="bg-gray-50 rounded-lg p-6 hover:shadow-md transition-all">
                         <h3 class="text-xl font-semibold text-gray-800 mb-3 flex items-center space-x-2">
                             <i class="fas fa-fort-awesome text-rj-orange"></i>
-                            <span>What are the main festivals in Rajasthan in 2025?</span>
+                            <span>What are the main festivals in Rajasthan in 2026?</span>
                         </h3>
                         <p class="text-gray-700 leading-relaxed">
-                            The main festivals in Rajasthan 2025 include <strong>Teej</strong> (July/August) - a vibrant monsoon festival for women,
+                            The main festivals in Rajasthan 2026 include <strong>Teej</strong> (July/August) - a vibrant monsoon festival for women,
                             <strong>Gangaur</strong> (March/April) - honoring Goddess Parvati/Gauri, and the famous
                             <strong>Pushkar Fair</strong> (November) - a renowned camel fair and cultural event. These festivals
                             showcase Rajasthan's rich culture and heritage.
@@ -888,10 +888,10 @@
                     <div class="bg-gray-50 rounded-lg p-6 hover:shadow-md transition-all">
                         <h3 class="text-xl font-semibold text-gray-800 mb-3 flex items-center space-x-2">
                             <i class="fas fa-flag text-rj-blue"></i>
-                            <span>How many national holidays are there in Rajasthan 2025?</span>
+                            <span>How many national holidays are there in Rajasthan 2026?</span>
                         </h3>
                         <p class="text-gray-700 leading-relaxed">
-                            Rajasthan observes several national holidays in 2025 including <strong>Republic Day</strong> (January 26),
+                            Rajasthan observes several national holidays in 2026 including <strong>Republic Day</strong> (January 26),
                             <strong>Independence Day</strong> (August 15), and <strong>Gandhi Jayanti</strong> (October 2).
                             These are official government holidays when banks, schools, and government offices remain closed.
                         </p>
@@ -939,7 +939,7 @@
                             <span>What is Makar Sankranti and how is it celebrated in Rajasthan?</span>
                        h3>
                         <p class="text-gray-700 leading-relaxed">
-                            <strong>Makar Sankranti</strong> (January 14, 2025) marks the sun's entry into the zodiac sign of Capricorn (Makar).
+                            <strong>Makar Sankranti</strong> (January 14, 2026) marks the sun's entry into the zodiac sign of Capricorn (Makar).
                             In Rajasthan, it's celebrated with kite flying, traditional sweets like til-gul (sesame and jaggery ladoos),
                             and taking holy dips in rivers. It signifies the end of the winter solstice and the beginning of longer days.
                         </p>
@@ -951,7 +951,7 @@
                             <span>Is Labour Day a public holiday in Rajasthan?</span>
                         </h3>
                         <p class="text-gray-700 leading-relaxed">
-                            <strong>Labour Day</strong> (May 1, 2025) is celebrated as <strong>International Workers' Day</strong>
+                            <strong>Labour Day</strong> (May 1, 2026) is celebrated as <strong>International Workers' Day</strong>
                             in Rajasthan. It is generally observed as a public holiday, with banks, government offices, and many businesses closed.
                             Trade unions and workers' organizations often hold rallies and events.
                         </p>
@@ -963,7 +963,7 @@
                             <span>How is Independence Day celebrated in Rajasthan?</span>
                         </h3>
                         <p class="text-gray-700 leading-relaxed">
-                            <strong>Independence Day</strong> (August 15, 2025) is celebrated with great patriotic fervor across Rajasthan.
+                            <strong>Independence Day</strong> (August 15, 2026) is celebrated with great patriotic fervor across Rajasthan.
                             The day begins with flag hoisting ceremonies in schools, colleges, and government offices, often accompanied by cultural programs,
                             parades, and speeches. Cities like Jaipur, Jodhpur, and Udaipur host grand celebrations.
                         </p>
@@ -975,7 +975,7 @@
                             <span>What is the significance of Gandhi Jayanti in Rajasthan?</span>
                         </h3>
                         <p class="text-gray-700 leading-relaxed">
-                            <strong>Gandhi Jayanti</strong> (October 2, 2025) commemorates the birth anniversary of Mahatma Gandhi,
+                            <strong>Gandhi Jayanti</strong> (October 2, 2026) commemorates the birth anniversary of Mahatma Gandhi,
                             the Father of the Nation. In Rajasthan, this day is observed with prayer meetings, seminars on Gandhian
                             philosophy, and community service activities. Schools organize special assemblies, and government offices
                             remain closed. The day promotes Gandhian values of non-violence, truth, and simplicity.
@@ -988,7 +988,7 @@
                             <span>How is Children's Day celebrated in Rajasthan?</span>
                         </h3>
                         <p class="text-gray-700 leading-relaxed">
-                            <strong>Children's Day</strong> (November 14, 2025) celebrates the birth anniversary of India's first
+                            <strong>Children's Day</strong> (November 14, 2026) celebrates the birth anniversary of India's first
                             Prime Minister, Jawaharlal Nehru, who was fondly called "Chacha Nehru" by children. In Rajasthan, schools
                             organize special programs, cultural activities, and competitions for children. Many schools also distribute
                             sweets and gifts to students, making it a memorable day for children.
@@ -1001,7 +1001,7 @@
                             <span>Is Christmas celebrated in Rajasthan?</span>
                         </h3>
                         <p class="text-gray-700 leading-relaxed">
-                            Yes, <strong>Christmas</strong> (December 25, 2025) is celebrated in Rajasthan, especially in cities with Christian communities.
+                            Yes, <strong>Christmas</strong> (December 25, 2026) is celebrated in Rajasthan, especially in cities with Christian communities.
                             Churches hold midnight masses, and communities come together for celebrations. The festival promotes communal harmony
                             and is observed by people of various faiths.
                         </p>
@@ -1013,7 +1013,7 @@
                             <span>What is the significance of International Women's Day in Rajasthan?</span>
                         </h3>
                         <p class="text-gray-700 leading-relaxed">
-                            <strong>International Women's Day</strong> (March 8, 2025) is celebrated across Rajasthan to recognize
+                            <strong>International Women's Day</strong> (March 8, 2026) is celebrated across Rajasthan to recognize
                             women's achievements and promote gender equality. Various organizations, educational institutions, and
                             government bodies organize seminars, workshops, and cultural programs highlighting women's contributions
                             to society. The day also focuses on women's rights, empowerment, and addressing gender-based challenges.
@@ -1050,7 +1050,7 @@
                     <div class="bg-gray-50 rounded-lg p-6 hover:shadow-md transition-all">
                         <h3 class="text-xl font-semibold text-gray-800 mb-3 flex items-center space-x-2">
                             <i class="fas fa-calendar-check text-rj-green"></i>
-                            <span>Are there any special holidays specific to Rajasthan in 2025?</span>
+                            <span>Are there any special holidays specific to Rajasthan in 2026?</span>
                         </h3>
                         <p class="text-gray-700 leading-relaxed">
                             Yes, Rajasthan has several state-specific holidays and festivals.
@@ -1134,7 +1134,7 @@
     <script>
         // JavaScript functionality
         // Holiday data for search functionality
-        const holidaysData = <?php echo json_encode($all_holidays_2025); ?>;
+        const holidaysData = <?php echo json_encode($all_holidays_2026); ?>;
         function searchHolidays() {
             const searchTerm = document.getElementById('searchInput').value.toLowerCase();
             const filterType = document.getElementById('filterType').value;
@@ -1236,21 +1236,21 @@
         }
         function downloadCalendar() {
             // Create a simple text version for download
-            const content = `Rajasthan Holidays 2025
+            const content = `Rajasthan Holidays 2026
 `;
             const blob = new Blob([content], { type: 'text/plain' });
             const url = window.URL.createObjectURL(blob);
             const a = document.createElement('a');
             a.href = url;
-            a.download = 'rajasthan-holidays-2025.txt';
+            a.download = 'rajasthan-holidays-2026.txt';
             a.click();
             window.URL.revokeObjectURL(url);
         }
         function shareCalendar() {
             if (navigator.share) {
                 navigator.share({
-                    title: 'Rajasthan Holidays 2025',
-                    text: 'Check out the Rajasthan holiday calendar for 2025!',
+                    title: 'Rajasthan Holidays 2026',
+                    text: 'Check out the Rajasthan holiday calendar for 2026!',
                     url: window.location.href
                 });
             } else {

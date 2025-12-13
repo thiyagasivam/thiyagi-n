@@ -28,7 +28,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <title>URL Encoder & Decoder 2025 - Encode and Decode URLs Online</title>
+        <title>URL Encoder & Decoder 2026 - Encode and Decode URLs Online</title>
         <meta name="description" content="Free URL Encoder & Decoder tool to convert text to URL-safe format and decode percent-encoded URLs. Fast, accurate, and mobile-friendly.">
         <meta name="keywords" content="URL encoder, URL decoder, percent encoding, URL escape, URL unescape, encode decode URL">
         <link rel="canonical" href="https://<?php echo $_SERVER['HTTP_HOST'] . strtok($_SERVER['REQUEST_URI'], '?'); ?>">

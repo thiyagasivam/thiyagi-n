@@ -1,19 +1,19 @@
 <?php include 'header.php'; ?>
 
 <!-- SEO Meta Tags -->
-<title>Square Meter to Square Centimeter Converter 2025 - m² to cm² Calculator | Thiyagi</title>
-<meta name="description" content="Free online Square Meter to Square Centimeter converter 2025. Convert m² to cm² and cm² to m² instantly with accurate area conversion.">
-<meta name="keywords" content="square meter to square centimeter converter 2025, m² to cm², area conversion, metric units, surface area calculator">
+<title>Square Meter to Square Centimeter Converter 2026 - m² to cm² Calculator | Thiyagi</title>
+<meta name="description" content="Free online Square Meter to Square Centimeter converter 2026. Convert m² to cm² and cm² to m² instantly with accurate area conversion.">
+<meta name="keywords" content="square meter to square centimeter converter 2026, m² to cm², area conversion, metric units, surface area calculator">
 <meta name="author" content="Thiyagi">
-<meta property="og:title" content="Square Meter to Square Centimeter Converter 2025 - m² to cm² Calculator">
-<meta property="og:description" content="Free online Square Meter to Square Centimeter converter 2025. Convert m² to cm² and cm² to m² instantly.">
+<meta property="og:title" content="Square Meter to Square Centimeter Converter 2026 - m² to cm² Calculator">
+<meta property="og:description" content="Free online Square Meter to Square Centimeter converter 2026. Convert m² to cm² and cm² to m² instantly.">
 <meta property="og:type" content="website">
 <meta property="og:url" content="https://www.thiyagi.com/square-meter-to-square-centimeter.php">
 <meta property="og:image" content="https://www.thiyagi.com/nt.png">
 <meta property="og:site_name" content="Thiyagi">
 <meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:title" content="Square Meter to Square Centimeter Converter 2025 - m² to cm² Calculator">
-<meta property="twitter:description" content="Free online Square Meter to Square Centimeter converter 2025. Convert m² to cm² and cm² to m² instantly.">
+<meta name="twitter:title" content="Square Meter to Square Centimeter Converter 2026 - m² to cm² Calculator">
+<meta property="twitter:description" content="Free online Square Meter to Square Centimeter converter 2026. Convert m² to cm² and cm² to m² instantly.">
 <meta name="twitter:image" content="https://www.thiyagi.com/nt.png">
 
 <div class="min-h-screen bg-gradient-to-br from-emerald-50 via-green-50 to-lime-50 py-12">

@@ -2,7 +2,7 @@
 <?php include '../header.php';?>
 <?php include 'breadcrumb-schema.php';?>
 <?php
-// Define current tariff slabs (2025)
+// Define current tariff slabs (2026)
 $slabs = [
     ['min' => 0, 'max' => 200, 'rate' => 3.00],
     ['min' => 201, 'max' => 400, 'rate' => 4.50],
@@ -67,8 +67,8 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Delhi Electricity Bill Calculator (BSES, Tata Power) - 2025</title>
-    <meta name="description" content="Estimate your Delhi electricity bill online for BSES Rajdhani, BSES Yamuna, and Tata Power with updated 2025 tariff slabs.">
+    <title>Delhi Electricity Bill Calculator (BSES, Tata Power) - 2026</title>
+    <meta name="description" content="Estimate your Delhi electricity bill online for BSES Rajdhani, BSES Yamuna, and Tata Power with updated 2026 tariff slabs.">
     <link rel="canonical" href="https://www.thiyagi.com/electricity-board/delhi-electricity-bill-calculator" />
    
     <script src="https://cdn.tailwindcss.com"></script>
@@ -145,7 +145,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
         function shareBill() {
             const units = <?= $units ?? 0 ?>;
             const total = <?= $total ?? 0 ?>;
-            const text = `My Delhi Electricity Bill Calculation: ${units} units = ₹${total.toFixed(2)} (2025 rates)`;
+            const text = `My Delhi Electricity Bill Calculation: ${units} units = ₹${total.toFixed(2)} (2026 rates)`;
             const url = window.location.href;
             if (navigator.share) {
                 navigator.share({
@@ -180,7 +180,7 @@ Calculate yours: ${url}`;
 <body class="bg-gray-100">
     <div class="container mx-auto py-10 px-4 max-w-4xl">
         <header class="text-center mb-10">
-            <h1 class="text-3xl font-bold text-blue-600 mb-2">Delhi Electricity Bill Calculator 2025</h1>
+            <h1 class="text-3xl font-bold text-blue-600 mb-2">Delhi Electricity Bill Calculator 2026</h1>
             <p class="text-gray-600">For BSES Rajdhani, BSES Yamuna, and Tata Power Delhi Consumers</p>
         </header>
         <div class="bg-white shadow-md rounded-lg mb-8 overflow-hidden">
@@ -241,7 +241,7 @@ Calculate yours: ${url}`;
                         <div class="flex flex-col md:flex-row md:justify-between md:items-center">
                             <div>
                                 <p class="text-gray-600 mb-1">For <span class="font-medium"><?= $units ?></span> units</p>
-                                <p class="text-sm text-gray-500 mb-1">Delhi Electricity Bill (2025 Rates)</p>
+                                <p class="text-sm text-gray-500 mb-1">Delhi Electricity Bill (2026 Rates)</p>
                                 <?php if ($load > 0): ?>
                                     <p class="text-sm text-gray-500 mb-1">Connected Load: <?= $load ?> kW</p>
                                 <?php endif; ?>
@@ -311,7 +311,7 @@ Calculate yours: ${url}`;
         
         <div class="bg-white shadow-md rounded-lg overflow-hidden">
             <div class="px-6 py-4">
-                <h2 class="text-xl font-semibold text-gray-800 mb-4">Current Delhi Electricity Tariff (2025)</h2>
+                <h2 class="text-xl font-semibold text-gray-800 mb-4">Current Delhi Electricity Tariff (2026)</h2>
                 <div class="grid grid-cols-1 md:grid-cols-2 gap-6">
                     <div>
                         <h3 class="text-lg font-medium text-gray-800 mb-3">Energy Charges (₹/unit)</h3>

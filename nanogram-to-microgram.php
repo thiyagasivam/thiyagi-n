@@ -1,19 +1,19 @@
 <?php include 'header.php'; ?>
 
 <!-- SEO Meta Tags -->
-<title>Nanogram to Microgram Converter 2025 - ng to µg Calculator | Thiyagi</title>
-<meta name="description" content="Free online Nanogram to Microgram converter 2025. Convert ng to µg and µg to ng instantly with accurate micro-weight conversion for scientific use.">
-<meta name="keywords" content="nanogram to microgram converter 2025, ng to µg, micro weight converter, scientific weighing, laboratory measurements">
+<title>Nanogram to Microgram Converter 2026 - ng to µg Calculator | Thiyagi</title>
+<meta name="description" content="Free online Nanogram to Microgram converter 2026. Convert ng to µg and µg to ng instantly with accurate micro-weight conversion for scientific use.">
+<meta name="keywords" content="nanogram to microgram converter 2026, ng to µg, micro weight converter, scientific weighing, laboratory measurements">
 <meta name="author" content="Thiyagi">
-<meta property="og:title" content="Nanogram to Microgram Converter 2025 - ng to µg Calculator">
-<meta property="og:description" content="Free online Nanogram to Microgram converter 2025. Convert ng to µg and µg to ng instantly.">
+<meta property="og:title" content="Nanogram to Microgram Converter 2026 - ng to µg Calculator">
+<meta property="og:description" content="Free online Nanogram to Microgram converter 2026. Convert ng to µg and µg to ng instantly.">
 <meta property="og:type" content="website">
 <meta property="og:url" content="https://www.thiyagi.com/nanogram-to-microgram.php">
 <meta property="og:image" content="https://www.thiyagi.com/nt.png">
 <meta property="og:site_name" content="Thiyagi">
 <meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:title" content="Nanogram to Microgram Converter 2025 - ng to µg Calculator">
-<meta name="twitter:description" content="Free online Nanogram to Microgram converter 2025. Convert ng to µg and µg to ng instantly.">
+<meta name="twitter:title" content="Nanogram to Microgram Converter 2026 - ng to µg Calculator">
+<meta name="twitter:description" content="Free online Nanogram to Microgram converter 2026. Convert ng to µg and µg to ng instantly.">
 <meta name="twitter:image" content="https://www.thiyagi.com/nt.png">
 
 <div class="min-h-screen bg-gradient-to-br from-rose-50 via-pink-50 to-red-50 py-12">

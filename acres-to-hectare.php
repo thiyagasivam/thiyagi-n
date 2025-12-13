@@ -1,12 +1,12 @@
 <?php include 'header.php';?>
-<title>Acres to Hectare Converter 2025 | Acres to Ha Calculator | Free Tool</title>
-<meta name="description" content="Professional acres to hectare converter 2025. Convert acres to hectares instantly with precision calculations. Perfect for land measurement, agriculture, and real estate.">
-<meta name="keywords" content="acres to hectare converter 2025, acres to ha calculator, land converter, agriculture measurements, real estate conversion">
+<title>Acres to Hectare Converter 2026 | Acres to Ha Calculator | Free Tool</title>
+<meta name="description" content="Professional acres to hectare converter 2026. Convert acres to hectares instantly with precision calculations. Perfect for land measurement, agriculture, and real estate.">
+<meta name="keywords" content="acres to hectare converter 2026, acres to ha calculator, land converter, agriculture measurements, real estate conversion">
 <link rel="canonical" href="https://www.thiyagi.com/acres-to-hectare">
 
 <!-- Open Graph Meta Tags -->
-<meta property="og:title" content="Acres to Hectare Converter 2025 | Acres to Ha Calculator | Free Tool">
-<meta property="og:description" content="Professional acres to hectare converter 2025. Convert acres to hectares instantly with precision calculations. Perfect for land measurement, agriculture, and real estate.">
+<meta property="og:title" content="Acres to Hectare Converter 2026 | Acres to Ha Calculator | Free Tool">
+<meta property="og:description" content="Professional acres to hectare converter 2026. Convert acres to hectares instantly with precision calculations. Perfect for land measurement, agriculture, and real estate.">
 <meta property="og:url" content="https://www.thiyagi.com/acres-to-hectare">
 <meta property="og:type" content="website">
 <meta property="og:image" content="https://www.thiyagi.com/nt.png">
@@ -83,7 +83,7 @@
         </div>
         <h1 class="text-4xl md:text-6xl font-bold text-gray-900 mb-6">
           Acres to Hectare Converter
-          <span class="block text-2xl md:text-3xl text-emerald-600 mt-2">Professional 2025</span>
+          <span class="block text-2xl md:text-3xl text-emerald-600 mt-2">Professional 2026</span>
         </h1>
         <p class="text-xl text-gray-600 mb-8 max-w-4xl mx-auto leading-relaxed">
           Convert acres to hectares with precision accuracy. Essential for agriculture, 

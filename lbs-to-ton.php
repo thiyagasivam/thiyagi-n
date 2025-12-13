@@ -1,12 +1,12 @@
 <?php include 'header.php';?>
-<title>LBS to Ton Converter 2025 | Professional Weight Calculator | Free Tool</title>
-<meta name="description" content="Professional LBS to ton converter 2025. Convert pounds to tons instantly with precision calculations. Perfect for shipping, industrial, and weight measurements.">
-<meta name="keywords" content="lbs to ton converter 2025, pounds to tons calculator, weight converter, shipping calculator, industrial tools">
+<title>LBS to Ton Converter 2026 | Professional Weight Calculator | Free Tool</title>
+<meta name="description" content="Professional LBS to ton converter 2026. Convert pounds to tons instantly with precision calculations. Perfect for shipping, industrial, and weight measurements.">
+<meta name="keywords" content="lbs to ton converter 2026, pounds to tons calculator, weight converter, shipping calculator, industrial tools">
 <link rel="canonical" href="https://www.thiyagi.com/lbs-to-ton">
 
 <!-- Open Graph Meta Tags -->
-<meta property="og:title" content="LBS to Ton Converter 2025 | Professional Weight Calculator | Free Tool">
-<meta property="og:description" content="Professional LBS to ton converter 2025. Convert pounds to tons instantly with precision calculations. Perfect for shipping, industrial, and weight measurements.">
+<meta property="og:title" content="LBS to Ton Converter 2026 | Professional Weight Calculator | Free Tool">
+<meta property="og:description" content="Professional LBS to ton converter 2026. Convert pounds to tons instantly with precision calculations. Perfect for shipping, industrial, and weight measurements.">
 <meta property="og:url" content="https://www.thiyagi.com/lbs-to-ton">
 <meta property="og:type" content="website">
 <meta property="og:image" content="https://www.thiyagi.com/nt.png">
@@ -83,7 +83,7 @@
         </div>
         <h1 class="text-4xl md:text-6xl font-bold text-gray-900 mb-6">
           LBS to Ton Converter
-          <span class="block text-2xl md:text-3xl text-emerald-600 mt-2">Professional 2025</span>
+          <span class="block text-2xl md:text-3xl text-emerald-600 mt-2">Professional 2026</span>
         </h1>
         <p class="text-xl text-gray-600 mb-8 max-w-4xl mx-auto leading-relaxed">
           Convert pounds to tons with professional-grade precision. Perfect for shipping calculations, 

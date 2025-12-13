@@ -1,19 +1,19 @@
 <?php include 'header.php'; ?>
 
 <!-- SEO Meta Tags -->
-<title>Millimeter to Mil Converter 2025 - Length Calculator | Thiyagi</title>
-<meta name="description" content="Free online millimeter to mil converter 2025. Convert mm to mil instantly with accurate length conversion for engineering and manufacturing.">
-<meta name="keywords" content="millimeter to mil converter 2025, mm to mil, length converter, engineering calculator, precision converter">
+<title>Millimeter to Mil Converter 2026 - Length Calculator | Thiyagi</title>
+<meta name="description" content="Free online millimeter to mil converter 2026. Convert mm to mil instantly with accurate length conversion for engineering and manufacturing.">
+<meta name="keywords" content="millimeter to mil converter 2026, mm to mil, length converter, engineering calculator, precision converter">
 <meta name="author" content="Thiyagi">
-<meta property="og:title" content="Millimeter to Mil Converter 2025 - Length Calculator">
-<meta property="og:description" content="Free online millimeter to mil converter 2025. Convert mm to mil instantly with accurate length conversion.">
+<meta property="og:title" content="Millimeter to Mil Converter 2026 - Length Calculator">
+<meta property="og:description" content="Free online millimeter to mil converter 2026. Convert mm to mil instantly with accurate length conversion.">
 <meta property="og:type" content="website">
 <meta property="og:url" content="https://www.thiyagi.com/millimeter-to-mil.php">
 <meta property="og:image" content="https://www.thiyagi.com/nt.png">
 <meta property="og:site_name" content="Thiyagi">
 <meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:title" content="Millimeter to Mil Converter 2025 - Length Calculator">
-<meta name="twitter:description" content="Free online millimeter to mil converter 2025. Convert mm to mil instantly.">
+<meta name="twitter:title" content="Millimeter to Mil Converter 2026 - Length Calculator">
+<meta name="twitter:description" content="Free online millimeter to mil converter 2026. Convert mm to mil instantly.">
 <meta name="twitter:image" content="https://www.thiyagi.com/nt.png">
 
 <div class="min-h-screen bg-gradient-to-br from-slate-50 via-gray-50 to-zinc-50 py-12">

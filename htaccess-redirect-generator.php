@@ -30,8 +30,8 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Free .htaccess Redirect Generator 2025 - Create 301/302 Rules in Seconds</title>
-<meta name="description" content="Generate error-free Apache redirect code for 301 (permanent), 302 (temporary), and HTTPS forced rules (2025). No server skills required - copy-paste ready!">
+    <title>Free .htaccess Redirect Generator 2026 - Create 301/302 Rules in Seconds</title>
+<meta name="description" content="Generate error-free Apache redirect code for 301 (permanent), 302 (temporary), and HTTPS forced rules (2026). No server skills required - copy-paste ready!">
     <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" rel="stylesheet">
 
 </head>

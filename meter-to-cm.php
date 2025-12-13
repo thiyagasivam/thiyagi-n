@@ -1,12 +1,12 @@
 <?php include 'header.php';?>
-<title>Meter to Centimeter Converter 2025 | M to CM | Free Tool</title>
-<meta name="description" content="Convert meter to centimeter instantly with our 2025 accurate converter. Perfect m to cm conversion with real-time calculations for educational measurements.">
-<meta name="keywords" content="meter to centimeter 2025, meter cm converter, metric unit conversion 2025, educational measurement calculator, m cm conversion">
+<title>Meter to Centimeter Converter 2026 | M to CM | Free Tool</title>
+<meta name="description" content="Convert meter to centimeter instantly with our 2026 accurate converter. Perfect m to cm conversion with real-time calculations for educational measurements.">
+<meta name="keywords" content="meter to centimeter 2026, meter cm converter, metric unit conversion 2026, educational measurement calculator, m cm conversion">
 <link rel="canonical" href="https://www.thiyagi.com/meter-to-cm">
 
 <!-- Open Graph Meta Tags -->
-<meta property="og:title" content="Meter to Centimeter Converter 2025 | M to CM | Free Tool">
-<meta property="og:description" content="Convert meter to centimeter instantly with our 2025 accurate converter. Perfect m to cm conversion with real-time calculations for educational measurements.">
+<meta property="og:title" content="Meter to Centimeter Converter 2026 | M to CM | Free Tool">
+<meta property="og:description" content="Convert meter to centimeter instantly with our 2026 accurate converter. Perfect m to cm conversion with real-time calculations for educational measurements.">
 <meta property="og:url" content="https://www.thiyagi.com/meter-to-cm">
 <meta property="og:type" content="website">
 <meta property="og:image" content="https://www.thiyagi.com/nt.png">
@@ -14,8 +14,8 @@
 
 <!-- Twitter Card Meta Tags -->
 <meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:title" content="Meter to Centimeter Converter 2025 | M to CM | Free Tool">
-<meta name="twitter:description" content="Convert meter to centimeter instantly with our 2025 accurate converter. Perfect m to cm conversion with real-time calculations for educational measurements.">
+<meta name="twitter:title" content="Meter to Centimeter Converter 2026 | M to CM | Free Tool">
+<meta name="twitter:description" content="Convert meter to centimeter instantly with our 2026 accurate converter. Perfect m to cm conversion with real-time calculations for educational measurements.">
 <meta name="twitter:image" content="https://www.thiyagi.com/nt.png">
 
 <!-- Additional SEO Meta Tags -->
@@ -39,7 +39,7 @@
           Meter to Centimeter Converter
         </h1>
         <p class="text-xl text-gray-600 mb-8 max-w-3xl mx-auto">
-          Convert meters to centimeters instantly with our accurate 2025 calculator. 
+          Convert meters to centimeters instantly with our accurate 2026 calculator. 
           Perfect for educational measurements, classroom activities, and metric system learning.
         </p>
       </div>
@@ -157,16 +157,16 @@
     <article class="bg-white rounded-xl shadow-lg p-8">
       <h2 class="text-2xl font-bold text-gray-800 mb-6 flex items-center gap-3">
         <i class="fas fa-info-circle text-pink-600" aria-hidden="true"></i>
-        Meter to Centimeter Conversion 2025
+        Meter to Centimeter Conversion 2026
       </h2>
       <div class="prose max-w-none text-gray-600">
         <p class="mb-4">
-          Converting meters to centimeters is essential for educational measurements, classroom activities, and metric system learning in 2025. 
+          Converting meters to centimeters is essential for educational measurements, classroom activities, and metric system learning in 2026. 
           This metric unit conversion enables accurate teaching for educators, students, 
           and learners working with metric system fundamentals and mathematical applications.
         </p>
         <p class="mb-6">
-          Our 2025 converter provides instant and accurate conversions from meters to centimeters, essential for educators, 
+          Our 2026 converter provides instant and accurate conversions from meters to centimeters, essential for educators, 
           students, researchers, and professionals working with metric measurements. 
           One meter equals exactly 100 centimeters.
         </p>

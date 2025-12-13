@@ -21,12 +21,12 @@ if (isset($_GET['value'])) {
 
 // Generate dynamic content
 $pageTitle = $isDynamicPage ? 
-    "Convert {$inputValue} KG to LBS 2025 | {$inputValue} kg = " . number_format($outputValue, 4) . " lbs | Free Calculator" : 
-    "Kilogram to Pound Converter 2025 | KG to LBS | Best Free Weight Tool";
+    "Convert {$inputValue} KG to LBS 2026 | {$inputValue} kg = " . number_format($outputValue, 4) . " lbs | Free Calculator" : 
+    "Kilogram to Pound Converter 2026 | KG to LBS | Best Free Weight Tool";
 
 $pageDescription = $isDynamicPage ? 
-    "Convert {$inputValue} kilograms to pounds in 2025. {$inputValue} kg equals " . number_format($outputValue, 4) . " lbs. Free, instant, accurate weight conversion calculator for fitness, health & travel." :
-    "Convert kilogram to pound instantly with our best 2025 accurate converter. Perfect kg to lbs conversion with real-time calculations for fitness, weight loss, health & international travel.";
+    "Convert {$inputValue} kilograms to pounds in 2026. {$inputValue} kg equals " . number_format($outputValue, 4) . " lbs. Free, instant, accurate weight conversion calculator for fitness, health & travel." :
+    "Convert kilogram to pound instantly with our best 2026 accurate converter. Perfect kg to lbs conversion with real-time calculations for fitness, weight loss, health & international travel.";
 
 $canonicalUrl = $isDynamicPage ? 
     "https://www.thiyagi.com/kg-to-lbs/{$originalValue}" : 
@@ -35,9 +35,9 @@ $canonicalUrl = $isDynamicPage ?
 <title><?php echo htmlspecialchars($pageTitle); ?></title>
 <meta name="description" content="<?php echo htmlspecialchars($pageDescription); ?>">
 <?php if ($isDynamicPage): ?>
-<meta name="keywords" content="<?php echo $inputValue; ?> kg to lbs 2025, <?php echo $inputValue; ?> kilograms to pounds, <?php echo number_format($outputValue, 2); ?> pounds weight, kg lbs converter 2025, fitness weight calculator, body weight conversion 2025, health tracker, weight loss calculator, gym weight converter, international weight conversion">
+<meta name="keywords" content="<?php echo $inputValue; ?> kg to lbs 2026, <?php echo $inputValue; ?> kilograms to pounds, <?php echo number_format($outputValue, 2); ?> pounds weight, kg lbs converter 2026, fitness weight calculator, body weight conversion 2026, health tracker, weight loss calculator, gym weight converter, international weight conversion">
 <?php else: ?>
-<meta name="keywords" content="kilogram to pound converter 2025, kg lbs converter 2025, weight unit conversion 2025, fitness weight calculator 2025, kg lbs conversion tool, body weight converter, health weight tracker, gym calculator, weight loss tool, international weight conversion, best kg to lbs converter 2025">
+<meta name="keywords" content="kilogram to pound converter 2026, kg lbs converter 2026, weight unit conversion 2026, fitness weight calculator 2026, kg lbs conversion tool, body weight converter, health weight tracker, gym calculator, weight loss tool, international weight conversion, best kg to lbs converter 2026">
 <?php endif; ?>
 <link rel="canonical" href="<?php echo htmlspecialchars($canonicalUrl); ?>">
 
@@ -47,7 +47,7 @@ $canonicalUrl = $isDynamicPage ?
 <meta property="og:url" content="<?php echo htmlspecialchars($canonicalUrl); ?>">
 <meta property="og:type" content="website">
 <meta property="og:image" content="https://www.thiyagi.com/nt.png">
-<meta property="og:site_name" content="Thiyagi Tools 2025">
+<meta property="og:site_name" content="Thiyagi Tools 2026">
 <meta property="og:locale" content="en_US">
 
 <!-- Twitter Card Meta Tags -->
@@ -66,8 +66,8 @@ $canonicalUrl = $isDynamicPage ?
 <meta name="revisit-after" content="7 days">
 <meta name="distribution" content="global">
 <meta name="rating" content="general">
-<meta name="copyright" content="Thiyagi Tools 2025">
-<meta name="category" content="Weight Converters, Fitness Tools, Health Calculators 2025">
+<meta name="copyright" content="Thiyagi Tools 2026">
+<meta name="category" content="Weight Converters, Fitness Tools, Health Calculators 2026">
 <meta name="coverage" content="Worldwide">
 <meta name="target" content="fitness enthusiasts, health conscious individuals, travelers, gym goers, weight watchers">
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -80,12 +80,12 @@ $canonicalUrl = $isDynamicPage ?
 {
   "@context": "https://schema.org",
   "@type": "WebApplication",
-  "name": "Best KG to LBS Converter 2025 - <?php echo $inputValue; ?> kg",
+  "name": "Best KG to LBS Converter 2026 - <?php echo $inputValue; ?> kg",
   "description": "<?php echo addslashes($pageDescription); ?>",
   "url": "<?php echo $canonicalUrl; ?>",
   "applicationCategory": "UtilityApplication",
   "operatingSystem": "Web Browser",
-  "datePublished": "2025-01-01",
+  "datePublished": "2026-01-01",
   "dateModified": "<?php echo date('Y-m-d'); ?>",
   "inLanguage": "en-US",
   "isAccessibleForFree": true,
@@ -97,11 +97,11 @@ $canonicalUrl = $isDynamicPage ?
   },
   "publisher": {
     "@type": "Organization",
-    "name": "Thiyagi Tools 2025",
+    "name": "Thiyagi Tools 2026",
     "url": "https://www.thiyagi.com"
   },
   "featureList": [
-    "Convert <?php echo $inputValue; ?> kilograms to pounds in 2025",
+    "Convert <?php echo $inputValue; ?> kilograms to pounds in 2026",
     "Instant calculation: <?php echo $inputValue; ?> kg = <?php echo number_format($outputValue, 4); ?> lbs",
     "Real-time weight conversion for fitness & health",
     "Mobile responsive design for gym use",
@@ -111,10 +111,10 @@ $canonicalUrl = $isDynamicPage ?
   ],
   "mainEntity": {
     "@type": "Question",
-    "name": "How much is <?php echo $inputValue; ?> kg in pounds in 2025?",
+    "name": "How much is <?php echo $inputValue; ?> kg in pounds in 2026?",
     "acceptedAnswer": {
       "@type": "Answer",
-      "text": "<?php echo $inputValue; ?> kilograms equals exactly <?php echo number_format($outputValue, 4); ?> pounds using the 2025 standard conversion factor: 1 kg = 2.20462 lbs. Perfect for fitness tracking and health monitoring."
+      "text": "<?php echo $inputValue; ?> kilograms equals exactly <?php echo number_format($outputValue, 4); ?> pounds using the 2026 standard conversion factor: 1 kg = 2.20462 lbs. Perfect for fitness tracking and health monitoring."
     }
   },
   "sameAs": [
@@ -129,12 +129,12 @@ $canonicalUrl = $isDynamicPage ?
 {
   "@context": "https://schema.org",
   "@type": "WebApplication",
-  "name": "Best Kilogram to Pound Converter 2025",
+  "name": "Best Kilogram to Pound Converter 2026",
   "description": "<?php echo addslashes($pageDescription); ?>",
   "url": "https://www.thiyagi.com/kg-to-lbs",
   "applicationCategory": "UtilityApplication",
   "operatingSystem": "Web Browser",
-  "datePublished": "2025-01-01",
+  "datePublished": "2026-01-01",
   "dateModified": "<?php echo date('Y-m-d'); ?>",
   "inLanguage": "en-US",
   "isAccessibleForFree": true,
@@ -151,11 +151,11 @@ $canonicalUrl = $isDynamicPage ?
   },
   "publisher": {
     "@type": "Organization",
-    "name": "Thiyagi Tools 2025",
+    "name": "Thiyagi Tools 2026",
     "url": "https://www.thiyagi.com"
   },
   "featureList": [
-    "Best KG to LBS converter in 2025",
+    "Best KG to LBS converter in 2026",
     "Instant weight conversion for fitness",
     "Perfect for weight loss tracking",
     "Health and gym calculator",
@@ -245,7 +245,7 @@ $canonicalUrl = $isDynamicPage ?
         </div>
         <?php endif; ?>
         <p class="text-xl text-gray-600 mb-8 max-w-3xl mx-auto">
-          Convert <a href="/kg-to-gram" class="text-blue-600 hover:text-blue-800 underline">kilograms</a> to <a href="/lbs-to-kg" class="text-blue-600 hover:text-blue-800 underline">pounds</a> instantly with our accurate 2025 calculator. 
+          Convert <a href="/kg-to-gram" class="text-blue-600 hover:text-blue-800 underline">kilograms</a> to <a href="/lbs-to-kg" class="text-blue-600 hover:text-blue-800 underline">pounds</a> instantly with our accurate 2026 calculator. 
           Perfect for <a href="/bmi-calculator" class="text-blue-600 hover:text-blue-800 underline">fitness tracking</a>, weight management, and international weight conversions.
         </p>
       </div>
@@ -366,16 +366,16 @@ $canonicalUrl = $isDynamicPage ?
     <article class="bg-white rounded-xl shadow-lg p-8">
       <h2 class="text-2xl font-bold text-gray-800 mb-6 flex items-center gap-3">
         <i class="fas fa-info-circle text-red-600" aria-hidden="true"></i>
-        Kilogram to Pound Conversion 2025
+        Kilogram to Pound Conversion 2026
       </h2>
       <div class="prose max-w-none text-gray-600">
         <p class="mb-4">
-          Converting <a href="/kg-to-gram" class="text-blue-600 hover:text-blue-800 underline">kilograms</a> to <a href="/lbs-to-kg" class="text-blue-600 hover:text-blue-800 underline">pounds</a> is essential for <a href="/bmi-calculator" class="text-blue-600 hover:text-blue-800 underline">fitness tracking</a>, weight management, and international weight conversions in 2025. 
+          Converting <a href="/kg-to-gram" class="text-blue-600 hover:text-blue-800 underline">kilograms</a> to <a href="/lbs-to-kg" class="text-blue-600 hover:text-blue-800 underline">pounds</a> is essential for <a href="/bmi-calculator" class="text-blue-600 hover:text-blue-800 underline">fitness tracking</a>, weight management, and international weight conversions in 2026. 
           This <a href="/area-converter" class="text-blue-600 hover:text-blue-800 underline">weight unit conversion</a> enables accurate calculations for athletes, 
           health professionals, and travelers working with international weight standards.
         </p>
         <p class="mb-6">
-          Our 2025 converter provides instant and accurate conversions from <a href="/kg-to-stone" class="text-blue-600 hover:text-blue-800 underline">kilograms</a> to <a href="/stone-to-kg" class="text-blue-600 hover:text-blue-800 underline">pounds</a>, essential for fitness enthusiasts, 
+          Our 2026 converter provides instant and accurate conversions from <a href="/kg-to-stone" class="text-blue-600 hover:text-blue-800 underline">kilograms</a> to <a href="/stone-to-kg" class="text-blue-600 hover:text-blue-800 underline">pounds</a>, essential for fitness enthusiasts, 
           healthcare professionals, athletes, and travelers working with weight measurements. 
           One <a href="/gram-to-kg" class="text-blue-600 hover:text-blue-800 underline">kilogram</a> equals approximately <a href="/ounce-to-gram" class="text-blue-600 hover:text-blue-800 underline">2.20462 pounds</a>.
         </p>

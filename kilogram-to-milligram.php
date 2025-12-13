@@ -1,19 +1,19 @@
 <?php include 'header.php'; ?>
 
 <!-- SEO Meta Tags -->
-<title>Kilogram to Milligram Converter 2025 - kg to mg Calculator | Thiyagi</title>
-<meta name="description" content="Free online Kilogram to Milligram converter 2025. Convert kg to mg and mg to kg instantly with accurate mass conversion.">
-<meta name="keywords" content="kilogram to milligram converter 2025, kg to mg, mass conversion, weight units, metric calculator">
+<title>Kilogram to Milligram Converter 2026 - kg to mg Calculator | Thiyagi</title>
+<meta name="description" content="Free online Kilogram to Milligram converter 2026. Convert kg to mg and mg to kg instantly with accurate mass conversion.">
+<meta name="keywords" content="kilogram to milligram converter 2026, kg to mg, mass conversion, weight units, metric calculator">
 <meta name="author" content="Thiyagi">
-<meta property="og:title" content="Kilogram to Milligram Converter 2025 - kg to mg Calculator">
-<meta property="og:description" content="Free online Kilogram to Milligram converter 2025. Convert kg to mg and mg to kg instantly.">
+<meta property="og:title" content="Kilogram to Milligram Converter 2026 - kg to mg Calculator">
+<meta property="og:description" content="Free online Kilogram to Milligram converter 2026. Convert kg to mg and mg to kg instantly.">
 <meta property="og:type" content="website">
 <meta property="og:url" content="https://www.thiyagi.com/kilogram-to-milligram.php">
 <meta property="og:image" content="https://www.thiyagi.com/nt.png">
 <meta property="og:site_name" content="Thiyagi">
 <meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:title" content="Kilogram to Milligram Converter 2025 - kg to mg Calculator">
-<meta property="twitter:description" content="Free online Kilogram to Milligram converter 2025. Convert kg to mg and mg to kg instantly.">
+<meta name="twitter:title" content="Kilogram to Milligram Converter 2026 - kg to mg Calculator">
+<meta property="twitter:description" content="Free online Kilogram to Milligram converter 2026. Convert kg to mg and mg to kg instantly.">
 <meta name="twitter:image" content="https://www.thiyagi.com/nt.png">
 
 <div class="min-h-screen bg-gradient-to-br from-teal-50 via-cyan-50 to-blue-50 py-12">

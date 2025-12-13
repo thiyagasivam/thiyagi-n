@@ -1,19 +1,19 @@
 <?php include 'header.php'; ?>
 
 <!-- SEO Meta Tags -->
-<title>Point to Inch Converter 2025 - pt to in Calculator | Thiyagi</title>
-<meta name="description" content="Free online Point to Inch converter 2025. Convert pt to in and in to pt instantly with accurate typography and printing conversion.">
-<meta name="keywords" content="point to inch converter 2025, pt to in, typography converter, printing units, font size, design measurements">
+<title>Point to Inch Converter 2026 - pt to in Calculator | Thiyagi</title>
+<meta name="description" content="Free online Point to Inch converter 2026. Convert pt to in and in to pt instantly with accurate typography and printing conversion.">
+<meta name="keywords" content="point to inch converter 2026, pt to in, typography converter, printing units, font size, design measurements">
 <meta name="author" content="Thiyagi">
-<meta property="og:title" content="Point to Inch Converter 2025 - pt to in Calculator">
-<meta property="og:description" content="Free online Point to Inch converter 2025. Convert pt to in and in to pt instantly.">
+<meta property="og:title" content="Point to Inch Converter 2026 - pt to in Calculator">
+<meta property="og:description" content="Free online Point to Inch converter 2026. Convert pt to in and in to pt instantly.">
 <meta property="og:type" content="website">
 <meta property="og:url" content="https://www.thiyagi.com/point-to-inch.php">
 <meta property="og:image" content="https://www.thiyagi.com/nt.png">
 <meta property="og:site_name" content="Thiyagi">
 <meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:title" content="Point to Inch Converter 2025 - pt to in Calculator">
-<meta property="twitter:description" content="Free online Point to Inch converter 2025. Convert pt to in and in to pt instantly.">
+<meta name="twitter:title" content="Point to Inch Converter 2026 - pt to in Calculator">
+<meta property="twitter:description" content="Free online Point to Inch converter 2026. Convert pt to in and in to pt instantly.">
 <meta name="twitter:image" content="https://www.thiyagi.com/nt.png">
 
 <div class="min-h-screen bg-gradient-to-br from-slate-50 via-gray-50 to-zinc-50 py-12">

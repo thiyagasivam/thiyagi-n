@@ -1,12 +1,12 @@
 <?php include 'header.php';?>
-<title>Ounces to Grams Converter 2025 | oz to g | Free Weight Tool</title>
-<meta name="description" content="Convert ounces to grams instantly with our 2025 accurate converter. Perfect oz to g conversion with real-time calculations for cooking and precise measurements.">
-<meta name="keywords" content="ounces to grams converter 2025, oz to g converter, ounces grams conversion, weight converter 2025, cooking calculator, baking measurements, precise weight tools, food scales, nutrition calculator, recipe conversion">
+<title>Ounces to Grams Converter 2026 | oz to g | Free Weight Tool</title>
+<meta name="description" content="Convert ounces to grams instantly with our 2026 accurate converter. Perfect oz to g conversion with real-time calculations for cooking and precise measurements.">
+<meta name="keywords" content="ounces to grams converter 2026, oz to g converter, ounces grams conversion, weight converter 2026, cooking calculator, baking measurements, precise weight tools, food scales, nutrition calculator, recipe conversion">
 <link rel="canonical" href="https://www.thiyagi.com/ounces-to-grams">
 
 <!-- Open Graph Meta Tags -->
-<meta property="og:title" content="Ounces to Grams Converter 2025 | oz to g | Free Weight Tool">
-<meta property="og:description" content="Convert ounces to grams instantly with our 2025 accurate converter. Perfect oz to g conversion with real-time calculations for cooking and precise measurements.">
+<meta property="og:title" content="Ounces to Grams Converter 2026 | oz to g | Free Weight Tool">
+<meta property="og:description" content="Convert ounces to grams instantly with our 2026 accurate converter. Perfect oz to g conversion with real-time calculations for cooking and precise measurements.">
 <meta property="og:url" content="https://www.thiyagi.com/ounces-to-grams">
 <meta property="og:type" content="website">
 <meta property="og:image" content="https://www.thiyagi.com/nt.png">
@@ -14,8 +14,8 @@
 
 <!-- Twitter Card Meta Tags -->
 <meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:title" content="Ounces to Grams Converter 2025 | oz to g | Free Weight Tool">
-<meta name="twitter:description" content="Convert ounces to grams instantly with our 2025 accurate converter. Perfect oz to g conversion with real-time calculations for cooking and precise measurements.">
+<meta name="twitter:title" content="Ounces to Grams Converter 2026 | oz to g | Free Weight Tool">
+<meta name="twitter:description" content="Convert ounces to grams instantly with our 2026 accurate converter. Perfect oz to g conversion with real-time calculations for cooking and precise measurements.">
 <meta name="twitter:image" content="https://www.thiyagi.com/nt.png">
 
 <!-- Additional SEO Meta Tags -->
@@ -47,7 +47,7 @@
   "@context": "https://schema.org",
   "@type": "WebApplication",
   "name": "Ounces to Grams Converter",
-  "description": "Convert ounces to grams instantly with our accurate 2025 calculator. Perfect oz to g conversion with real-time calculations for cooking and precise measurements.",
+  "description": "Convert ounces to grams instantly with our accurate 2026 calculator. Perfect oz to g conversion with real-time calculations for cooking and precise measurements.",
   "url": "https://www.thiyagi.com/ounces-to-grams",
   "applicationCategory": "UtilityApplication",
   "operatingSystem": "Web Browser",
@@ -187,7 +187,7 @@
           Ounces to Grams Converter
         </h1>
         <p class="text-xl text-gray-600 mb-8 max-w-3xl mx-auto">
-          Convert ounces to grams instantly with our accurate 2025 calculator. 
+          Convert ounces to grams instantly with our accurate 2026 calculator. 
           Perfect for cooking recipes, baking measurements, and precise weight calculations.
         </p>
       </div>

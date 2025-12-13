@@ -1,12 +1,12 @@
 <?php include 'header.php';?>
-<title>MB to KB Converter 2025 | Megabytes to Kilobytes Calculator | Free Tool</title>
-<meta name="description" content="Professional MB to KB converter 2025. Convert megabytes to kilobytes instantly with precision calculations. Perfect for file size, storage, and data management.">
-<meta name="keywords" content="mb to kb converter 2025, megabytes to kilobytes calculator, storage converter, file size converter, data conversion">
+<title>MB to KB Converter 2026 | Megabytes to Kilobytes Calculator | Free Tool</title>
+<meta name="description" content="Professional MB to KB converter 2026. Convert megabytes to kilobytes instantly with precision calculations. Perfect for file size, storage, and data management.">
+<meta name="keywords" content="mb to kb converter 2026, megabytes to kilobytes calculator, storage converter, file size converter, data conversion">
 <link rel="canonical" href="https://www.thiyagi.com/mb-to-kb">
 
 <!-- Open Graph Meta Tags -->
-<meta property="og:title" content="MB to KB Converter 2025 | Megabytes to Kilobytes Calculator | Free Tool">
-<meta property="og:description" content="Professional MB to KB converter 2025. Convert megabytes to kilobytes instantly with precision calculations. Perfect for file size, storage, and data management.">
+<meta property="og:title" content="MB to KB Converter 2026 | Megabytes to Kilobytes Calculator | Free Tool">
+<meta property="og:description" content="Professional MB to KB converter 2026. Convert megabytes to kilobytes instantly with precision calculations. Perfect for file size, storage, and data management.">
 <meta property="og:url" content="https://www.thiyagi.com/mb-to-kb">
 <meta property="og:type" content="website">
 <meta property="og:image" content="https://www.thiyagi.com/nt.png">
@@ -83,7 +83,7 @@
         </div>
         <h1 class="text-4xl md:text-6xl font-bold text-gray-900 mb-6">
           MB to KB Converter
-          <span class="block text-2xl md:text-3xl text-violet-600 mt-2">Professional 2025</span>
+          <span class="block text-2xl md:text-3xl text-violet-600 mt-2">Professional 2026</span>
         </h1>
         <p class="text-xl text-gray-600 mb-8 max-w-4xl mx-auto leading-relaxed">
           Convert megabytes to kilobytes with precision accuracy. Essential for file management, 

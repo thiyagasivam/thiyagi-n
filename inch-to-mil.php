@@ -1,19 +1,19 @@
 <?php include 'header.php'; ?>
 
 <!-- SEO Meta Tags -->
-<title>Inch to Mil Converter 2025 - in to mil Calculator | Thiyagi</title>
-<meta name="description" content="Free online Inch to Mil converter 2025. Convert in to mil and mil to in instantly with accurate length conversion for engineering measurements.">
-<meta name="keywords" content="inch to mil converter 2025, in to mil, length converter, mil measurement, precision engineering, manufacturing tolerances">
+<title>Inch to Mil Converter 2026 - in to mil Calculator | Thiyagi</title>
+<meta name="description" content="Free online Inch to Mil converter 2026. Convert in to mil and mil to in instantly with accurate length conversion for engineering measurements.">
+<meta name="keywords" content="inch to mil converter 2026, in to mil, length converter, mil measurement, precision engineering, manufacturing tolerances">
 <meta name="author" content="Thiyagi">
-<meta property="og:title" content="Inch to Mil Converter 2025 - in to mil Calculator">
-<meta property="og:description" content="Free online Inch to Mil converter 2025. Convert in to mil and mil to in instantly.">
+<meta property="og:title" content="Inch to Mil Converter 2026 - in to mil Calculator">
+<meta property="og:description" content="Free online Inch to Mil converter 2026. Convert in to mil and mil to in instantly.">
 <meta property="og:type" content="website">
 <meta property="og:url" content="https://www.thiyagi.com/inch-to-mil.php">
 <meta property="og:image" content="https://www.thiyagi.com/nt.png">
 <meta property="og:site_name" content="Thiyagi">
 <meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:title" content="Inch to Mil Converter 2025 - in to mil Calculator">
-<meta name="twitter:description" content="Free online Inch to Mil converter 2025. Convert in to mil and mil to in instantly.">
+<meta name="twitter:title" content="Inch to Mil Converter 2026 - in to mil Calculator">
+<meta name="twitter:description" content="Free online Inch to Mil converter 2026. Convert in to mil and mil to in instantly.">
 <meta name="twitter:image" content="https://www.thiyagi.com/nt.png">
 
 <div class="min-h-screen bg-gradient-to-br from-rose-50 via-pink-50 to-red-50 py-12">

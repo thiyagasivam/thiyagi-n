@@ -1,19 +1,19 @@
 <?php include 'header.php'; ?>
 
 <!-- SEO Meta Tags -->
-<title>Pound-Force Foot to Newton Meter Converter 2025 - lbf·ft to N·m Calculator | Thiyagi</title>
-<meta name="description" content="Free online Pound-Force Foot to Newton Meter converter 2025. Convert lbf·ft to N·m and N·m to lbf·ft instantly with accurate torque conversion.">
-<meta name="keywords" content="pound force foot to newton meter converter 2025, lbf ft to N m, torque conversion, engineering units, mechanical torque">
+<title>Pound-Force Foot to Newton Meter Converter 2026 - lbf·ft to N·m Calculator | Thiyagi</title>
+<meta name="description" content="Free online Pound-Force Foot to Newton Meter converter 2026. Convert lbf·ft to N·m and N·m to lbf·ft instantly with accurate torque conversion.">
+<meta name="keywords" content="pound force foot to newton meter converter 2026, lbf ft to N m, torque conversion, engineering units, mechanical torque">
 <meta name="author" content="Thiyagi">
-<meta property="og:title" content="Pound-Force Foot to Newton Meter Converter 2025 - lbf·ft to N·m Calculator">
-<meta property="og:description" content="Free online Pound-Force Foot to Newton Meter converter 2025. Convert lbf·ft to N·m and N·m to lbf·ft instantly.">
+<meta property="og:title" content="Pound-Force Foot to Newton Meter Converter 2026 - lbf·ft to N·m Calculator">
+<meta property="og:description" content="Free online Pound-Force Foot to Newton Meter converter 2026. Convert lbf·ft to N·m and N·m to lbf·ft instantly.">
 <meta property="og:type" content="website">
 <meta property="og:url" content="https://www.thiyagi.com/pound-force-foot-to-newton-meter.php">
 <meta property="og:image" content="https://www.thiyagi.com/nt.png">
 <meta property="og:site_name" content="Thiyagi">
 <meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:title" content="Pound-Force Foot to Newton Meter Converter 2025 - lbf·ft to N·m Calculator">
-<meta property="twitter:description" content="Free online Pound-Force Foot to Newton Meter converter 2025. Convert lbf·ft to N·m and N·m to lbf·ft instantly.">
+<meta name="twitter:title" content="Pound-Force Foot to Newton Meter Converter 2026 - lbf·ft to N·m Calculator">
+<meta property="twitter:description" content="Free online Pound-Force Foot to Newton Meter converter 2026. Convert lbf·ft to N·m and N·m to lbf·ft instantly.">
 <meta name="twitter:image" content="https://www.thiyagi.com/nt.png">
 
 <div class="min-h-screen bg-gradient-to-br from-red-50 via-orange-50 to-yellow-50 py-12">

@@ -1,8 +1,8 @@
 <?php include '../header.php'; ?>
 
-<title>Holidays 2025 | USA, UK, India, Canada, Australia | Complete International Calendar</title>
-<meta name="description" content="Complete Holiday Calendar 2025 for USA, UK, India, Canada, Australia and more. Find federal, state, national holidays, bank holidays, festivals and observances worldwide.">
-<meta name="keywords" content="holidays 2025, USA holidays, UK holidays, India holidays, Canadian holidays, Australia holidays, international holidays, holiday calendar, bank holidays, state holidays, festivals">
+<title>Holidays 2026 | USA, UK, India, Canada, Australia | Complete International Calendar</title>
+<meta name="description" content="Complete Holiday Calendar 2026 for USA, UK, India, Canada, Australia and more. Find federal, state, national holidays, bank holidays, festivals and observances worldwide.">
+<meta name="keywords" content="holidays 2026, USA holidays, UK holidays, India holidays, Canadian holidays, Australia holidays, international holidays, holiday calendar, bank holidays, state holidays, festivals">
 <link rel="canonical" href="https://<?= $_SERVER['HTTP_HOST'] . strtok($_SERVER['REQUEST_URI'], '?') ?>">
 
 <style>
@@ -21,7 +21,7 @@
                 Home
             </a>
             <i class="fas fa-chevron-right text-gray-400"></i>
-            <span class="text-gray-600 font-medium">Holidays 2025</span>
+            <span class="text-gray-600 font-medium">Holidays 2026</span>
         </div>
     </div>
 </nav>
@@ -35,7 +35,7 @@
                 <i class="fas fa-calendar-alt text-6xl text-white drop-shadow-lg"></i>
                 <i class="fas fa-flag text-6xl text-blue-300 drop-shadow-lg"></i>
             </div>
-            <h1 class="text-6xl font-bold mb-4">Holidays 2025</h1>
+            <h1 class="text-6xl font-bold mb-4">Holidays 2026</h1>
             <p class="text-2xl opacity-90 mb-8">Complete Holiday Calendar for USA, UK, India, Canada & Australia</p>
             <div class="flex justify-center space-x-8 text-lg">
                 <div class="flex items-center space-x-2">

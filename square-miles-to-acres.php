@@ -5,9 +5,9 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Square Miles to Acres Converter 2025 - Area Conversion Calculator</title>
-    <meta name="description" content="Convert square miles to acres with our free 2025 online calculator. Accurate area conversion for land measurement and real estate calculations.">
-    <meta name="keywords" content="square miles to acres converter 2025, sq mi to acres, area converter, land measurement calculator 2025">
+    <title>Square Miles to Acres Converter 2026 - Area Conversion Calculator</title>
+    <meta name="description" content="Convert square miles to acres with our free 2026 online calculator. Accurate area conversion for land measurement and real estate calculations.">
+    <meta name="keywords" content="square miles to acres converter 2026, sq mi to acres, area converter, land measurement calculator 2026">
     <script src="https://cdn.tailwindcss.com"></script>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
 </head>

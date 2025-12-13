@@ -1,19 +1,19 @@
 <?php include 'header.php'; ?>
 
 <!-- SEO Meta Tags -->
-<title>Nanometer to Micrometer Converter 2025 - nm to μm Calculator | Thiyagi</title>
-<meta name="description" content="Free online nanometer to micrometer converter 2025. Convert nm to μm and μm to nm instantly with accurate length conversion.">
-<meta name="keywords" content="nanometer to micrometer converter 2025, nm to μm, microscopic length, nanotechnology units, scientific measurements">
+<title>Nanometer to Micrometer Converter 2026 - nm to μm Calculator | Thiyagi</title>
+<meta name="description" content="Free online nanometer to micrometer converter 2026. Convert nm to μm and μm to nm instantly with accurate length conversion.">
+<meta name="keywords" content="nanometer to micrometer converter 2026, nm to μm, microscopic length, nanotechnology units, scientific measurements">
 <meta name="author" content="Thiyagi">
-<meta property="og:title" content="Nanometer to Micrometer Converter 2025 - nm to μm Calculator">
-<meta property="og:description" content="Free online nanometer to micrometer converter 2025. Convert nm to μm and μm to nm instantly.">
+<meta property="og:title" content="Nanometer to Micrometer Converter 2026 - nm to μm Calculator">
+<meta property="og:description" content="Free online nanometer to micrometer converter 2026. Convert nm to μm and μm to nm instantly.">
 <meta property="og:type" content="website">
 <meta property="og:url" content="https://www.thiyagi.com/nanometer-to-micrometer.php">
 <meta property="og:image" content="https://www.thiyagi.com/nt.png">
 <meta property="og:site_name" content="Thiyagi">
 <meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:title" content="Nanometer to Micrometer Converter 2025 - nm to μm Calculator">
-<meta name="twitter:description" content="Free online nanometer to micrometer converter 2025. Convert nm to μm and μm to nm instantly.">
+<meta name="twitter:title" content="Nanometer to Micrometer Converter 2026 - nm to μm Calculator">
+<meta name="twitter:description" content="Free online nanometer to micrometer converter 2026. Convert nm to μm and μm to nm instantly.">
 <meta name="twitter:image" content="https://www.thiyagi.com/nt.png">
 
 <div class="min-h-screen bg-gradient-to-br from-emerald-50 via-teal-50 to-cyan-50 py-12">

@@ -1,19 +1,19 @@
 <?php include 'header.php'; ?>
 
 <!-- SEO Meta Tags -->
-<title>Nanosecond to Second Converter 2025 - ns to s Calculator | Thiyagi</title>
-<meta name="description" content="Free online Nanosecond to Second converter 2025. Convert ns to s and s to ns instantly with accurate time conversion for electronics and physics.">
-<meta name="keywords" content="nanosecond to second converter 2025, ns to s, time converter, electronics timing, physics calculations, nanosecond measurements">
+<title>Nanosecond to Second Converter 2026 - ns to s Calculator | Thiyagi</title>
+<meta name="description" content="Free online Nanosecond to Second converter 2026. Convert ns to s and s to ns instantly with accurate time conversion for electronics and physics.">
+<meta name="keywords" content="nanosecond to second converter 2026, ns to s, time converter, electronics timing, physics calculations, nanosecond measurements">
 <meta name="author" content="Thiyagi">
-<meta property="og:title" content="Nanosecond to Second Converter 2025 - ns to s Calculator">
-<meta property="og:description" content="Free online Nanosecond to Second converter 2025. Convert ns to s and s to ns instantly.">
+<meta property="og:title" content="Nanosecond to Second Converter 2026 - ns to s Calculator">
+<meta property="og:description" content="Free online Nanosecond to Second converter 2026. Convert ns to s and s to ns instantly.">
 <meta property="og:type" content="website">
 <meta property="og:url" content="https://www.thiyagi.com/nanosecond-to-second.php">
 <meta property="og:image" content="https://www.thiyagi.com/nt.png">
 <meta property="og:site_name" content="Thiyagi">
 <meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:title" content="Nanosecond to Second Converter 2025 - ns to s Calculator">
-<meta name="twitter:description" content="Free online Nanosecond to Second converter 2025. Convert ns to s and s to ns instantly.">
+<meta name="twitter:title" content="Nanosecond to Second Converter 2026 - ns to s Calculator">
+<meta name="twitter:description" content="Free online Nanosecond to Second converter 2026. Convert ns to s and s to ns instantly.">
 <meta name="twitter:image" content="https://www.thiyagi.com/nt.png">
 
 <div class="min-h-screen bg-gradient-to-br from-green-50 via-teal-50 to-cyan-50 py-12">

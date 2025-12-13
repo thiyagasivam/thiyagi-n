@@ -134,8 +134,8 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Free YouTube Hashtag Extractor 2025 - Extract Tags from Any Video</title>
-    <meta name="description" content="Extract hashtags and tags from any YouTube video. Analyze hashtag effectiveness and discover successful tagging strategies (2025).">
+    <title>Free YouTube Hashtag Extractor 2026 - Extract Tags from Any Video</title>
+    <meta name="description" content="Extract hashtags and tags from any YouTube video. Analyze hashtag effectiveness and discover successful tagging strategies (2026).">
     <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" rel="stylesheet">
 
     <!-- JSON-LD Structured Data -->

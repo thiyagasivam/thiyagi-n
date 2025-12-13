@@ -1,12 +1,12 @@
 <?php include 'header.php';?>
-<title>Acre to Cent Converter 2025 | Acre to Cent | Free Tool</title>
-<meta name="description" content="Convert acre to cent instantly with our 2025 accurate converter. Perfect acre to cent conversion with real-time calculations for South Indian land measurement and property.">
-<meta name="keywords" content="acre to cent 2025, acre to cent converter, acre cent conversion, area conversion 2025, South Indian land measurement, property calculator">
+<title>Acre to Cent Converter 2026 | Acre to Cent | Free Tool</title>
+<meta name="description" content="Convert acre to cent instantly with our 2026 accurate converter. Perfect acre to cent conversion with real-time calculations for South Indian land measurement and property.">
+<meta name="keywords" content="acre to cent 2026, acre to cent converter, acre cent conversion, area conversion 2026, South Indian land measurement, property calculator">
 <link rel="canonical" href="https://www.thiyagi.com/acre-to-cent">
 
 <!-- Open Graph Meta Tags -->
-<meta property="og:title" content="Acre to Cent Converters 2025 | Acre to Cent | Free Tool">
-<meta property="og:description" content="Convert acre to cent instantly with our 2025 accurate converter. Perfect acre to cent conversion with real-time calculations for South Indian land measurement and property.">
+<meta property="og:title" content="Acre to Cent Converters 2026 | Acre to Cent | Free Tool">
+<meta property="og:description" content="Convert acre to cent instantly with our 2026 accurate converter. Perfect acre to cent conversion with real-time calculations for South Indian land measurement and property.">
 <meta property="og:url" content="https://www.thiyagi.com/acre-to-cent">
 <meta property="og:type" content="website">
 <meta property="og:image" content="https://www.thiyagi.com/nt.png">
@@ -14,8 +14,8 @@
 
 <!-- Twitter Card Meta Tags -->
 <meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:title" content="Acre to Cent Converter 2025 | Acre to Cent | Free Tool">
-<meta name="twitter:description" content="Convert acre to cent instantly with our 2025 accurate converter. Perfect acre to cent conversion with real-time calculations for South Indian land measurement and property.">
+<meta name="twitter:title" content="Acre to Cent Converter 2026 | Acre to Cent | Free Tool">
+<meta name="twitter:description" content="Convert acre to cent instantly with our 2026 accurate converter. Perfect acre to cent conversion with real-time calculations for South Indian land measurement and property.">
 <meta name="twitter:image" content="https://www.thiyagi.com/nt.png">
 
 <!-- Additional SEO Meta Tags -->
@@ -39,7 +39,7 @@
           Acre to Cent Converter
         </h1>
         <p class="text-xl text-gray-600 mb-8 max-w-3xl mx-auto">
-          Convert acres to cent instantly with our accurate 2025 calculator. 
+          Convert acres to cent instantly with our accurate 2026 calculator. 
           Perfect for South Indian property transactions and land measurements.
         </p>
       </div>
@@ -157,16 +157,16 @@
     <article class="bg-white rounded-xl shadow-lg p-8">
       <h2 class="text-2xl font-bold text-gray-800 mb-6 flex items-center gap-3">
         <i class="fas fa-info-circle text-yellow-600" aria-hidden="true"></i>
-        Acre to Cent Conversion 2025
+        Acre to Cent Conversion 2026
       </h2>
       <div class="prose max-w-none text-gray-600">
         <p class="mb-4">
-          Converting acres to cent is essential for South Indian property transactions and land documentation in 2025. 
+          Converting acres to cent is essential for South Indian property transactions and land documentation in 2026. 
           Cent is a traditional unit of land measurement widely used in Tamil Nadu, Kerala, Karnataka, and other South 
           Indian states for property dealings and agriculture.
         </p>
         <p class="mb-6">
-          Our 2025 converter provides instant and accurate conversions from acres to cent, essential for property buyers, 
+          Our 2026 converter provides instant and accurate conversions from acres to cent, essential for property buyers, 
           real estate agents, farmers, and anyone dealing with South Indian land measurements. One acre equals exactly 
           100 cent (in standard measurement).
         </p>

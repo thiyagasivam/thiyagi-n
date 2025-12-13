@@ -1,12 +1,12 @@
 <?php include 'header.php';?>
-<title>ML to Cup Converter 2025 | Convert milliliter to cup | Free Tool</title>
-<meta name="description" content="Convert milliliter to cup instantly with our 2025 accurate converter. Perfect ml to cup conversion with real-time calculations for cooking and baking measurement.">
-<meta name="keywords" content="ml to cup 2025, milliliter cup converter, cooking conversion 2025, recipe measurement calculator, baking conversion tool">
+<title>ML to Cup Converter 2026 | Convert milliliter to cup | Free Tool</title>
+<meta name="description" content="Convert milliliter to cup instantly with our 2026 accurate converter. Perfect ml to cup conversion with real-time calculations for cooking and baking measurement.">
+<meta name="keywords" content="ml to cup 2026, milliliter cup converter, cooking conversion 2026, recipe measurement calculator, baking conversion tool">
 <link rel="canonical" href="https://www.thiyagi.com/ml-to-cup">
 
 <!-- Open Graph Meta Tags -->
-<meta property="og:title" content="ML to Cup Converter 2025 | Convert milliliter to cup | Free Tool">
-<meta property="og:description" content="Convert milliliter to cup instantly with our 2025 accurate converter. Perfect ml to cup conversion with real-time calculations for cooking and baking measurement.">
+<meta property="og:title" content="ML to Cup Converter 2026 | Convert milliliter to cup | Free Tool">
+<meta property="og:description" content="Convert milliliter to cup instantly with our 2026 accurate converter. Perfect ml to cup conversion with real-time calculations for cooking and baking measurement.">
 <meta property="og:url" content="https://www.thiyagi.com/ml-to-cup">
 <meta property="og:type" content="website">
 <meta property="og:image" content="https://www.thiyagi.com/nt.png">
@@ -14,8 +14,8 @@
 
 <!-- Twitter Card Meta Tags -->
 <meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:title" content="ML to Cup Converter 2025 | Convert milliliter to cup | Free Tool">
-<meta name="twitter:description" content="Convert milliliter to cup instantly with our 2025 accurate converter. Perfect ml to cup conversion with real-time calculations for cooking and baking measurement.">
+<meta name="twitter:title" content="ML to Cup Converter 2026 | Convert milliliter to cup | Free Tool">
+<meta name="twitter:description" content="Convert milliliter to cup instantly with our 2026 accurate converter. Perfect ml to cup conversion with real-time calculations for cooking and baking measurement.">
 <meta name="twitter:image" content="https://www.thiyagi.com/nt.png">
 
 <!-- Additional SEO Meta Tags -->
@@ -39,7 +39,7 @@
           Milliliter to Cup Converter
         </h1>
         <p class="text-xl text-gray-600 mb-8 max-w-3xl mx-auto">
-          Convert milliliters to cups instantly with our accurate 2025 calculator. 
+          Convert milliliters to cups instantly with our accurate 2026 calculator. 
           Perfect for cooking, baking, and precise recipe measurements.
         </p>
       </div>
@@ -176,16 +176,16 @@
     <article class="bg-white rounded-xl shadow-lg p-8">
       <h2 class="text-2xl font-bold text-gray-800 mb-6 flex items-center gap-3">
         <i class="fas fa-info-circle text-indigo-600" aria-hidden="true"></i>
-        Milliliter to Cup Conversion 2025
+        Milliliter to Cup Conversion 2026
       </h2>
       <div class="prose max-w-none text-gray-600">
         <p class="mb-4">
-          Converting milliliters to cups is essential for cooking, baking, and international recipe adaptation in 2025. 
+          Converting milliliters to cups is essential for cooking, baking, and international recipe adaptation in 2026. 
           This conversion between metric and imperial cooking measurements enables accurate communication between professionals 
           working in different measurement systems, from international recipe sharing to professional kitchen operations.
         </p>
         <p class="mb-6">
-          Our 2025 converter provides instant and precise conversions from milliliters to cups, essential for chefs, 
+          Our 2026 converter provides instant and precise conversions from milliliters to cups, essential for chefs, 
           home cooks, bakers, and anyone working with recipe specifications. 
           1 milliliter equals approximately 0.004227 US cups or 0.004 metric cups.
         </p>

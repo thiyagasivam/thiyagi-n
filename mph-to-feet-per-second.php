@@ -1,19 +1,19 @@
 <?php include 'header.php'; ?>
 
 <!-- SEO Meta Tags -->
-<title>MPH to Feet per Second Converter 2025 - Speed Calculator | Thiyagi</title>
-<meta name="description" content="Free online miles per hour to feet per second converter 2025. Convert mph to ft/s instantly for speed and velocity calculations.">
-<meta name="keywords" content="mph to feet per second converter 2025, mph to ft/s, speed converter, velocity calculator, automotive converter">
+<title>MPH to Feet per Second Converter 2026 - Speed Calculator | Thiyagi</title>
+<meta name="description" content="Free online miles per hour to feet per second converter 2026. Convert mph to ft/s instantly for speed and velocity calculations.">
+<meta name="keywords" content="mph to feet per second converter 2026, mph to ft/s, speed converter, velocity calculator, automotive converter">
 <meta name="author" content="Thiyagi">
-<meta property="og:title" content="MPH to Feet per Second Converter 2025 - Speed Calculator">
-<meta property="og:description" content="Free online miles per hour to feet per second converter 2025. Convert mph to ft/s instantly.">
+<meta property="og:title" content="MPH to Feet per Second Converter 2026 - Speed Calculator">
+<meta property="og:description" content="Free online miles per hour to feet per second converter 2026. Convert mph to ft/s instantly.">
 <meta property="og:type" content="website">
 <meta property="og:url" content="https://www.thiyagi.com/mph-to-feet-per-second.php">
 <meta property="og:image" content="https://www.thiyagi.com/nt.png">
 <meta property="og:site_name" content="Thiyagi">
 <meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:title" content="MPH to Feet per Second Converter 2025 - Speed Calculator">
-<meta name="twitter:description" content="Free online miles per hour to feet per second converter 2025. Convert mph to ft/s instantly.">
+<meta name="twitter:title" content="MPH to Feet per Second Converter 2026 - Speed Calculator">
+<meta name="twitter:description" content="Free online miles per hour to feet per second converter 2026. Convert mph to ft/s instantly.">
 <meta name="twitter:image" content="https://www.thiyagi.com/nt.png">
 
 <div class="min-h-screen bg-gradient-to-br from-green-50 via-lime-50 to-emerald-50 py-12">

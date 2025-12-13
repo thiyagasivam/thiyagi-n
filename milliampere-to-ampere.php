@@ -1,12 +1,12 @@
 <?php include 'header.php';?>
-<title>Milliampere to Ampere Converter 2025 | Convert mA to A | Free Tool</title>
-<meta name="description" content="Convert milliampere to ampere instantly with our 2025 accurate electrical current converter. Perfect mA to A conversion with real-time calculations for electrical needs.">
-<meta name="keywords" content="milliampere to ampere 2025, electrical converter, current conversion 2025, mA to A calculator, electrical tool">
+<title>Milliampere to Ampere Converter 2026 | Convert mA to A | Free Tool</title>
+<meta name="description" content="Convert milliampere to ampere instantly with our 2026 accurate electrical current converter. Perfect mA to A conversion with real-time calculations for electrical needs.">
+<meta name="keywords" content="milliampere to ampere 2026, electrical converter, current conversion 2026, mA to A calculator, electrical tool">
 <link rel="canonical" href="https://www.thiyagi.com/milliampere-to-ampere">
 
 <!-- Open Graph Meta Tags -->
-<meta property="og:title" content="Milliampere to Ampere Converter 2025 | Convert mA to A | Free Tool">
-<meta property="og:description" content="Convert milliampere to ampere instantly with our 2025 accurate electrical current converter. Perfect mA to A conversion with real-time calculations for electrical needs.">
+<meta property="og:title" content="Milliampere to Ampere Converter 2026 | Convert mA to A | Free Tool">
+<meta property="og:description" content="Convert milliampere to ampere instantly with our 2026 accurate electrical current converter. Perfect mA to A conversion with real-time calculations for electrical needs.">
 <meta property="og:url" content="https://www.thiyagi.com/milliampere-to-ampere">
 <meta property="og:type" content="website">
 <meta property="og:image" content="https://www.thiyagi.com/nt.png">
@@ -14,8 +14,8 @@
 
 <!-- Twitter Card Meta Tags -->
 <meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:title" content="Milliampere to Ampere Converter 2025 | Convert mA to A | Free Tool">
-<meta name="twitter:description" content="Convert milliampere to ampere instantly with our 2025 accurate electrical current converter. Perfect mA to A conversion with real-time calculations for electrical needs.">
+<meta name="twitter:title" content="Milliampere to Ampere Converter 2026 | Convert mA to A | Free Tool">
+<meta name="twitter:description" content="Convert milliampere to ampere instantly with our 2026 accurate electrical current converter. Perfect mA to A conversion with real-time calculations for electrical needs.">
 <meta name="twitter:image" content="https://www.thiyagi.com/nt.png">
 
 <!-- Additional SEO Meta Tags -->
@@ -39,7 +39,7 @@
           Milliampere to Ampere Converter
         </h1>
         <p class="text-xl text-gray-600 mb-8 max-w-3xl mx-auto">
-          Convert milliampere to ampere instantly with our accurate 2025 electrical current calculator. 
+          Convert milliampere to ampere instantly with our accurate 2026 electrical current calculator. 
           Perfect for electronics, circuit design, and electrical engineering applications.
         </p>
       </div>
@@ -156,16 +156,16 @@
     <article class="bg-white rounded-xl shadow-lg p-8">
       <h2 class="text-2xl font-bold text-gray-800 mb-6 flex items-center gap-3">
         <i class="fas fa-info-circle text-cyan-600" aria-hidden="true"></i>
-        Milliampere to Ampere Conversion 2025
+        Milliampere to Ampere Conversion 2026
       </h2>
       <div class="prose max-w-none text-gray-600">
         <p class="mb-4">
-          Converting milliampere to ampere is essential for electrical engineering, electronics design, and circuit analysis in 2025. 
+          Converting milliampere to ampere is essential for electrical engineering, electronics design, and circuit analysis in 2026. 
           This conversion between milliampere (mA) and ampere (A) enables accurate current measurements and calculations 
           in electronic circuits, sensors, microcontrollers, and low-power devices where precise current control is critical.
         </p>
         <p class="mb-6">
-          Our 2025 converter provides instant and precise conversions from milliampere to ampere, essential for electrical engineers, 
+          Our 2026 converter provides instant and precise conversions from milliampere to ampere, essential for electrical engineers, 
           electronics technicians, circuit designers, and anyone working with electrical current measurements. 
           1 ampere equals exactly 1,000 milliampere in the electrical system.
         </p>

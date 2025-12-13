@@ -1,7 +1,7 @@
 <?php include '../header.php';?>
 <?php include 'breadcrumb-schema.php';?>
 <?php
-// Define A&N 2025 tariff rates (Domestic consumers - assumed rates)
+// Define A&N 2026 tariff rates (Domestic consumers - assumed rates)
 $tariff_slabs = [
     ['from' => 0, 'to' => 50, 'rate' => 3.50, 'name' => '0-50 units'],
     ['from' => 51, 'to' => 150, 'rate' => 4.80, 'name' => '51-150 units'],
@@ -61,10 +61,10 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST' && $units > 0) {
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Andaman & Nicobar Electricity Bill Calculator 2025 | Power Department</title>
-    <meta name="description" content="Calculate your A&N Islands electricity bill for 2025. Official estimate tool with current tariff rates and subsidy options.">
-    <meta property="og:title" content="A&N Islands Electricity Bill Calculator 2025">
-    <meta property="og:description" content="Calculate your Andaman & Nicobar power bill with official 2025 tariff rates">
+    <title>Andaman & Nicobar Electricity Bill Calculator 2026 | Power Department</title>
+    <meta name="description" content="Calculate your A&N Islands electricity bill for 2026. Official estimate tool with current tariff rates and subsidy options.">
+    <meta property="og:title" content="A&N Islands Electricity Bill Calculator 2026">
+    <meta property="og:description" content="Calculate your Andaman & Nicobar power bill with official 2026 tariff rates">
     <script src="https://kit.fontawesome.com/a076d05399.js" crossorigin="anonymous"></script>
     <script src="https://cdn.tailwindcss.com"></script>
     <style>
@@ -91,7 +91,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST' && $units > 0) {
             </div>
             <p class="text-gray-600 dark:text-gray-300 font-medium">Electricity Department, Andaman & Nicobar Islands</p>
             <div class="flex items-center justify-center space-x-2">
-                <span class="px-3 py-1 bg-blue-100 dark:bg-blue-900/30 text-blue-800 dark:text-blue-200 rounded-full text-sm">2025 Rates</span>
+                <span class="px-3 py-1 bg-blue-100 dark:bg-blue-900/30 text-blue-800 dark:text-blue-200 rounded-full text-sm">2026 Rates</span>
                 <span class="px-3 py-1 bg-green-100 dark:bg-green-900/30 text-green-800 dark:text-green-200 rounded-full text-sm">Subsidy Ready</span>
             </div>
         </header>
@@ -293,7 +293,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST' && $units > 0) {
             <div class="bg-gradient-to-r from-indigo-600 to-purple-700 text-white p-4">
                 <h2 class="text-xl font-semibold flex items-center">
                     <i class="fas fa-chart-line mr-3 text-yellow-300" alt="Chart icon" title="Tariff rates chart"></i>
-                    2025 Official Tariff Rates
+                    2026 Official Tariff Rates
                     <span class="ml-3 px-2 py-1 bg-white/20 rounded-full text-xs">
                         <i class="fas fa-calendar-alt mr-1" alt="Calendar icon"></i>
                         Updated
@@ -701,7 +701,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST' && $units > 0) {
                 </button>
                 <div class="faq-content hidden px-4 pb-4" id="faq-content-1">
                     <p class="text-gray-600 dark:text-gray-300 leading-relaxed">
-                        Our calculator uses the official 2025 tariff rates from the Andaman & Nicobar Electricity Department and provides estimates with 95%+ accuracy. The calculation includes all components: energy charges, fixed costs, subsidies, and taxes. However, actual bills may vary slightly due to meter reading dates, additional charges, or policy updates.
+                        Our calculator uses the official 2026 tariff rates from the Andaman & Nicobar Electricity Department and provides estimates with 95%+ accuracy. The calculation includes all components: energy charges, fixed costs, subsidies, and taxes. However, actual bills may vary slightly due to meter reading dates, additional charges, or policy updates.
                     </p>
                 </div>
             </div>
@@ -775,13 +775,13 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST' && $units > 0) {
                 <button class="faq-toggle w-full px-4 py-3 text-left flex items-center justify-between hover:bg-gray-50 dark:hover:bg-gray-700 transition-colors" onclick="toggleFAQ(6)">
                     <span class="flex items-center font-medium text-gray-800 dark:text-gray-200">
                         <i class="fas fa-clock text-cyan-500 mr-3" alt="Clock icon"></i>
-                        When do the 2025 tariff rates come into effect?
+                        When do the 2026 tariff rates come into effect?
                     </span>
                     <i class="fas fa-chevron-down transform transition-transform" id="faq-icon-6" alt="Expand icon"></i>
                 </button>
                 <div class="faq-content hidden px-4 pb-4" id="faq-content-6">
                     <p class="text-gray-600 dark:text-gray-300 leading-relaxed">
-                        The 2025 tariff rates are effective from January 1, 2025. These rates are subject to periodic review by the Andaman & Nicobar Electricity Regulatory Commission. Any changes will be notified officially and updated in our calculator immediately to maintain accuracy.
+                        The 2026 tariff rates are effective from January 1, 2026. These rates are subject to periodic review by the Andaman & Nicobar Electricity Regulatory Commission. Any changes will be notified officially and updated in our calculator immediately to maintain accuracy.
                     </p>
                 </div>
             </div>
@@ -910,7 +910,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST' && $units > 0) {
                 </span>
                 <span class="px-3 py-1 bg-purple-100 dark:bg-purple-900/30 text-purple-800 dark:text-purple-200 rounded-full text-sm flex items-center">
                     <i class="fas fa-clock mr-1" alt="Clock icon"></i>
-                    Updated 2025
+                    Updated 2026
                 </span>
             </div>
         </div>
@@ -1254,7 +1254,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST' && $units > 0) {
                     <div class="stat-label">Electricity Boards</div>
                 </div>
                 <div class="stat-card">
-                    <div class="stat-number">2025</div>
+                    <div class="stat-number">2026</div>
                     <div class="stat-label">Updated Rates</div>
                 </div>
                 <div class="stat-card">

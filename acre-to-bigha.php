@@ -1,12 +1,12 @@
 <?php include 'header.php';?>
-<title>Acre to Bigha Converter 2025 | Acre to Bigha | Free Tool</title>
-<meta name="description" content="Convert acre to bigha instantly with our 2025 accurate converter. Perfect acre to bigha conversion with real-time calculations for Indian land measurement and agriculture.">
-<meta name="keywords" content="acre to bigha 2025, acre to bigha converter, acre bigha conversion, area conversion 2025, Indian land measurement, agriculture calculator">
+<title>Acre to Bigha Converter 2026 | Acre to Bigha | Free Tool</title>
+<meta name="description" content="Convert acre to bigha instantly with our 2026 accurate converter. Perfect acre to bigha conversion with real-time calculations for Indian land measurement and agriculture.">
+<meta name="keywords" content="acre to bigha 2026, acre to bigha converter, acre bigha conversion, area conversion 2026, Indian land measurement, agriculture calculator">
 <link rel="canonical" href="https://www.thiyagi.com/acre-to-bigha">
 
 <!-- Open Graph Meta Tags -->
-<meta property="og:title" content="Acre to Bigha Converter 2025 | Acre to Bigha | Free Tool">
-<meta property="og:description" content="Convert acre to bigha instantly with our 2025 accurate converter. Perfect acre to bigha conversion with real-time calculations for Indian land measurement and agriculture.">
+<meta property="og:title" content="Acre to Bigha Converter 2026 | Acre to Bigha | Free Tool">
+<meta property="og:description" content="Convert acre to bigha instantly with our 2026 accurate converter. Perfect acre to bigha conversion with real-time calculations for Indian land measurement and agriculture.">
 <meta property="og:url" content="https://www.thiyagi.com/acre-to-bigha">
 <meta property="og:type" content="website">
 <meta property="og:image" content="https://www.thiyagi.com/nt.png">
@@ -14,8 +14,8 @@
 
 <!-- Twitter Card Meta Tags -->
 <meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:title" content="Acre to Bigha Converter 2025 | Acre to Bigha | Free Tool">
-<meta name="twitter:description" content="Convert acre to bigha instantly with our 2025 accurate converter. Perfect acre to bigha conversion with real-time calculations for Indian land measurement and agriculture.">
+<meta name="twitter:title" content="Acre to Bigha Converter 2026 | Acre to Bigha | Free Tool">
+<meta name="twitter:description" content="Convert acre to bigha instantly with our 2026 accurate converter. Perfect acre to bigha conversion with real-time calculations for Indian land measurement and agriculture.">
 <meta name="twitter:image" content="https://www.thiyagi.com/nt.png">
 
 <!-- Additional SEO Meta Tags -->
@@ -39,7 +39,7 @@
           Acre to Bigha Converter
         </h1>
         <p class="text-xl text-gray-600 mb-8 max-w-3xl mx-auto">
-          Convert acres to bigha instantly with our accurate 2025 calculator. 
+          Convert acres to bigha instantly with our accurate 2026 calculator. 
           Perfect for Indian agriculture, land records, and property transactions.
         </p>
       </div>
@@ -157,16 +157,16 @@
     <article class="bg-white rounded-xl shadow-lg p-8">
       <h2 class="text-2xl font-bold text-gray-800 mb-6 flex items-center gap-3">
         <i class="fas fa-info-circle text-amber-600" aria-hidden="true"></i>
-        Acre to Bigha Conversion 2025
+        Acre to Bigha Conversion 2026
       </h2>
       <div class="prose max-w-none text-gray-600">
         <p class="mb-4">
-          Converting acres to bigha is essential for Indian agriculture and land record management in 2025. Bigha is a 
+          Converting acres to bigha is essential for Indian agriculture and land record management in 2026. Bigha is a 
           traditional unit of land measurement widely used across North India, particularly in states like Uttar Pradesh, 
           Bihar, Rajasthan, and Punjab for agricultural land transactions.
         </p>
         <p class="mb-6">
-          Our 2025 converter provides instant and accurate conversions from acres to bigha, essential for farmers, 
+          Our 2026 converter provides instant and accurate conversions from acres to bigha, essential for farmers, 
           land dealers, revenue officials, and anyone dealing with Indian agricultural land. One acre equals approximately 
           1.61 bigha (standard Uttar Pradesh measurement).
         </p>

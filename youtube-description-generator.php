@@ -1,12 +1,12 @@
 <?php include 'header.php';?>
 
-<title>YouTube Description Generator 2025 - Create Engaging Descriptions | 25+ Years Experience</title>
-<meta name="description" content="Generate compelling YouTube video descriptions that boost engagement and SEO. Professional description creator for content creators. Built with 25+ years of digital marketing expertise for 2025 optimization.">
-<meta name="keywords" content="YouTube description generator, video description creator, YouTube SEO descriptions, description templates 2025">
+<title>YouTube Description Generator 2026 - Create Engaging Descriptions | 25+ Years Experience</title>
+<meta name="description" content="Generate compelling YouTube video descriptions that boost engagement and SEO. Professional description creator for content creators. Built with 25+ years of digital marketing expertise for 2026 optimization.">
+<meta name="keywords" content="YouTube description generator, video description creator, YouTube SEO descriptions, description templates 2026">
 
 <div class="min-h-screen bg-gradient-to-br from-red-50 to-pink-100 py-12 px-4 sm:px-6 lg:px-8">
   <div class="max-w-4xl mx-auto">
-    <h1 class="text-4xl font-bold text-center text-gray-900 mb-8">YouTube Description Generator 2025</h1>
+    <h1 class="text-4xl font-bold text-center text-gray-900 mb-8">YouTube Description Generator 2026</h1>
     <p class="text-xl text-gray-600 text-center mb-12">Create engaging video descriptions that drive results - Professional tool with 25+ years of experience</p>?php include 'header.php'; ?>
 
 

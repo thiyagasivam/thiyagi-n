@@ -1,12 +1,12 @@
 <?php include 'header.php';?>
-<title>Acres to Square Miles Converter 2025 | Acre to Sq Mi Calculator | Free Tool</title>
-<meta name="description" content="Professional acres to square miles converter 2025. Convert acres to square miles instantly with precision calculations. Perfect for land area, real estate, and geographic measurements.">
-<meta name="keywords" content="acres to square miles converter 2025, acre to sq mi calculator, land area converter, real estate calculator, geographic measurements">
+<title>Acres to Square Miles Converter 2026 | Acre to Sq Mi Calculator | Free Tool</title>
+<meta name="description" content="Professional acres to square miles converter 2026. Convert acres to square miles instantly with precision calculations. Perfect for land area, real estate, and geographic measurements.">
+<meta name="keywords" content="acres to square miles converter 2026, acre to sq mi calculator, land area converter, real estate calculator, geographic measurements">
 <link rel="canonical" href="https://www.thiyagi.com/acres-to-square-miles">
 
 <!-- Open Graph Meta Tags -->
-<meta property="og:title" content="Acres to Square Miles Converter 2025 | Acre to Sq Mi Calculator | Free Tool">
-<meta property="og:description" content="Professional acres to square miles converter 2025. Convert acres to square miles instantly with precision calculations. Perfect for land area, real estate, and geographic measurements.">
+<meta property="og:title" content="Acres to Square Miles Converter 2026 | Acre to Sq Mi Calculator | Free Tool">
+<meta property="og:description" content="Professional acres to square miles converter 2026. Convert acres to square miles instantly with precision calculations. Perfect for land area, real estate, and geographic measurements.">
 <meta property="og:url" content="https://www.thiyagi.com/acres-to-square-miles">
 <meta property="og:type" content="website">
 <meta property="og:image" content="https://www.thiyagi.com/nt.png">
@@ -83,7 +83,7 @@
         </div>
         <h1 class="text-4xl md:text-6xl font-bold text-gray-900 mb-6">
           Acres to Square Miles Converter
-          <span class="block text-2xl md:text-3xl text-emerald-600 mt-2">Professional 2025</span>
+          <span class="block text-2xl md:text-3xl text-emerald-600 mt-2">Professional 2026</span>
         </h1>
         <p class="text-xl text-gray-600 mb-8 max-w-4xl mx-auto leading-relaxed">
           Convert acres to square miles with precision accuracy. Essential for large land areas, 

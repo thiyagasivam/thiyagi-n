@@ -1,19 +1,19 @@
 <?php include 'header.php'; ?>
 
 <!-- SEO Meta Tags -->
-<title>Centimeter to Kilometer Converter 2025 - cm to km Calculator | Thiyagi</title>
-<meta name="description" content="Free online Centimeter to Kilometer converter 2025. Convert cm to km and km to cm instantly with accurate length measurement conversion.">
-<meta name="keywords" content="centimeter to kilometer converter 2025, cm to km, length conversion, metric distance, measurement calculator">
+<title>Centimeter to Kilometer Converter 2026 - cm to km Calculator | Thiyagi</title>
+<meta name="description" content="Free online Centimeter to Kilometer converter 2026. Convert cm to km and km to cm instantly with accurate length measurement conversion.">
+<meta name="keywords" content="centimeter to kilometer converter 2026, cm to km, length conversion, metric distance, measurement calculator">
 <meta name="author" content="Thiyagi">
-<meta property="og:title" content="Centimeter to Kilometer Converter 2025 - cm to km Calculator">
-<meta property="og:description" content="Free online Centimeter to Kilometer converter 2025. Convert cm to km and km to cm instantly.">
+<meta property="og:title" content="Centimeter to Kilometer Converter 2026 - cm to km Calculator">
+<meta property="og:description" content="Free online Centimeter to Kilometer converter 2026. Convert cm to km and km to cm instantly.">
 <meta property="og:type" content="website">
 <meta property="og:url" content="https://www.thiyagi.com/cm-to-km.php">
 <meta property="og:image" content="https://www.thiyagi.com/nt.png">
 <meta property="og:site_name" content="Thiyagi">
 <meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:title" content="Centimeter to Kilometer Converter 2025 - cm to km Calculator">
-<meta property="twitter:description" content="Free online Centimeter to Kilometer converter 2025. Convert cm to km and km to cm instantly.">
+<meta name="twitter:title" content="Centimeter to Kilometer Converter 2026 - cm to km Calculator">
+<meta property="twitter:description" content="Free online Centimeter to Kilometer converter 2026. Convert cm to km and km to cm instantly.">
 <meta name="twitter:image" content="https://www.thiyagi.com/nt.png">
 
 <div class="min-h-screen bg-gradient-to-br from-green-50 via-emerald-50 to-teal-50 py-12">

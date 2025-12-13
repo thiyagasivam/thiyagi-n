@@ -1,19 +1,19 @@
 <?php include 'header.php'; ?>
 
 <!-- SEO Meta Tags -->
-<title>Newton Millimeter to Newton Meter Converter 2025 - N·mm to N·m Calculator | Thiyagi</title>
-<meta name="description" content="Free online Newton Millimeter to Newton Meter converter 2025. Convert N·mm to N·m and N·m to N·mm instantly with accurate torque conversion.">
-<meta name="keywords" content="newton millimeter to newton meter converter 2025, N·mm to N·m, torque conversion, precision torque, engineering calculator">
+<title>Newton Millimeter to Newton Meter Converter 2026 - N·mm to N·m Calculator | Thiyagi</title>
+<meta name="description" content="Free online Newton Millimeter to Newton Meter converter 2026. Convert N·mm to N·m and N·m to N·mm instantly with accurate torque conversion.">
+<meta name="keywords" content="newton millimeter to newton meter converter 2026, N·mm to N·m, torque conversion, precision torque, engineering calculator">
 <meta name="author" content="Thiyagi">
-<meta property="og:title" content="Newton Millimeter to Newton Meter Converter 2025 - N·mm to N·m Calculator">
-<meta property="og:description" content="Free online Newton Millimeter to Newton Meter converter 2025. Convert N·mm to N·m and N·m to N·mm instantly.">
+<meta property="og:title" content="Newton Millimeter to Newton Meter Converter 2026 - N·mm to N·m Calculator">
+<meta property="og:description" content="Free online Newton Millimeter to Newton Meter converter 2026. Convert N·mm to N·m and N·m to N·mm instantly.">
 <meta property="og:type" content="website">
 <meta property="og:url" content="https://www.thiyagi.com/newton-millimeter-to-newton-meter.php">
 <meta property="og:image" content="https://www.thiyagi.com/nt.png">
 <meta property="og:site_name" content="Thiyagi">
 <meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:title" content="Newton Millimeter to Newton Meter Converter 2025 - N·mm to N·m Calculator">
-<meta property="twitter:description" content="Free online Newton Millimeter to Newton Meter converter 2025. Convert N·mm to N·m and N·m to N·mm instantly.">
+<meta name="twitter:title" content="Newton Millimeter to Newton Meter Converter 2026 - N·mm to N·m Calculator">
+<meta property="twitter:description" content="Free online Newton Millimeter to Newton Meter converter 2026. Convert N·mm to N·m and N·m to N·mm instantly.">
 <meta name="twitter:image" content="https://www.thiyagi.com/nt.png">
 
 <div class="min-h-screen bg-gradient-to-br from-indigo-50 via-purple-50 to-pink-50 py-12">

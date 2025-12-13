@@ -1,19 +1,19 @@
 <?php include 'header.php'; ?>
 
 <!-- SEO Meta Tags -->
-<title>Pascal to PSI Converter 2025 - Pressure Calculator | Thiyagi</title>
-<meta name="description" content="Free online Pascal to PSI converter 2025. Convert pascals to pounds per square inch instantly. Perfect for engineering and scientific pressure calculations.">
-<meta name="keywords" content="pascal to psi converter 2025, pa to psi, pressure converter, engineering calculator, scientific converter">
+<title>Pascal to PSI Converter 2026 - Pressure Calculator | Thiyagi</title>
+<meta name="description" content="Free online Pascal to PSI converter 2026. Convert pascals to pounds per square inch instantly. Perfect for engineering and scientific pressure calculations.">
+<meta name="keywords" content="pascal to psi converter 2026, pa to psi, pressure converter, engineering calculator, scientific converter">
 <meta name="author" content="Thiyagi">
-<meta property="og:title" content="Pascal to PSI Converter 2025 - Pressure Calculator">
-<meta property="og:description" content="Free online Pascal to PSI converter 2025. Convert pascals to pounds per square inch instantly.">
+<meta property="og:title" content="Pascal to PSI Converter 2026 - Pressure Calculator">
+<meta property="og:description" content="Free online Pascal to PSI converter 2026. Convert pascals to pounds per square inch instantly.">
 <meta property="og:type" content="website">
 <meta property="og:url" content="https://www.thiyagi.com/pascal-to-psi.php">
 <meta property="og:image" content="https://www.thiyagi.com/nt.png">
 <meta property="og:site_name" content="Thiyagi">
 <meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:title" content="Pascal to PSI Converter 2025 - Pressure Calculator">
-<meta name="twitter:description" content="Free online Pascal to PSI converter 2025. Convert pascals to pounds per square inch instantly.">
+<meta name="twitter:title" content="Pascal to PSI Converter 2026 - Pressure Calculator">
+<meta name="twitter:description" content="Free online Pascal to PSI converter 2026. Convert pascals to pounds per square inch instantly.">
 <meta name="twitter:image" content="https://www.thiyagi.com/nt.png">
 
 <div class="min-h-screen bg-gradient-to-br from-slate-50 via-gray-50 to-zinc-50 py-12">

@@ -56,8 +56,8 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST' && isset($_POST['weight']) && isset($_
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Free BMI Calculator 2025 - Accurate Weight Status Tool</title>
-    <meta name="description" content="Calculate your Body Mass Index (BMI) for 2025 instantly! Free tool with WHO classification. Checks if you're underweight, normal, or obese. No sign-up needed!">
+    <title>Free BMI Calculator 2026 - Accurate Weight Status Tool</title>
+    <meta name="description" content="Calculate your Body Mass Index (BMI) for 2026 instantly! Free tool with WHO classification. Checks if you're underweight, normal, or obese. No sign-up needed!">
     <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" rel="stylesheet">
     <style>
     .bmi-meter {

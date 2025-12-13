@@ -55,8 +55,8 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Meta Tag Generator 2025 - Free SEO Meta Title & Description Creator</title>
-<meta name="description" content="Free online meta tag generator for 2025. Create perfect SEO meta titles & descriptions in seconds. Boost click-through rates with optimized metadata for Google & social media.">
+    <title>Meta Tag Generator 2026 - Free SEO Meta Title & Description Creator</title>
+<meta name="description" content="Free online meta tag generator for 2026. Create perfect SEO meta titles & descriptions in seconds. Boost click-through rates with optimized metadata for Google & social media.">
     <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" rel="stylesheet">
 
 </head>

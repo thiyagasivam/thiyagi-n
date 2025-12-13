@@ -1,12 +1,12 @@
 <?php include 'header.php';?>
-<title>Liters to Quarts Converter 2025 | L to Qt Calculator | Free Tool</title>
-<meta name="description" content="Professional liters to quarts converter 2025. Convert L to quarts instantly with precision calculations. Perfect for cooking, recipes, and volume measurements.">
-<meta name="keywords" content="liters to quarts converter 2025, L to qt calculator, cooking converter, recipe volume converter, metric to imperial">
+<title>Liters to Quarts Converter 2026 | L to Qt Calculator | Free Tool</title>
+<meta name="description" content="Professional liters to quarts converter 2026. Convert L to quarts instantly with precision calculations. Perfect for cooking, recipes, and volume measurements.">
+<meta name="keywords" content="liters to quarts converter 2026, L to qt calculator, cooking converter, recipe volume converter, metric to imperial">
 <link rel="canonical" href="https://www.thiyagi.com/liters-to-quarts">
 
 <!-- Open Graph Meta Tags -->
-<meta property="og:title" content="Liters to Quarts Converter 2025 | L to Qt Calculator | Free Tool">
-<meta property="og:description" content="Professional liters to quarts converter 2025. Convert L to quarts instantly with precision calculations. Perfect for cooking, recipes, and volume measurements.">
+<meta property="og:title" content="Liters to Quarts Converter 2026 | L to Qt Calculator | Free Tool">
+<meta property="og:description" content="Professional liters to quarts converter 2026. Convert L to quarts instantly with precision calculations. Perfect for cooking, recipes, and volume measurements.">
 <meta property="og:url" content="https://www.thiyagi.com/liters-to-quarts">
 <meta property="og:type" content="website">
 <meta property="og:image" content="https://www.thiyagi.com/nt.png">
@@ -83,7 +83,7 @@
         </div>
         <h1 class="text-4xl md:text-6xl font-bold text-gray-900 mb-6">
           Liters to Quarts Converter
-          <span class="block text-2xl md:text-3xl text-blue-600 mt-2">Professional 2025</span>
+          <span class="block text-2xl md:text-3xl text-blue-600 mt-2">Professional 2026</span>
         </h1>
         <p class="text-xl text-gray-600 mb-8 max-w-4xl mx-auto leading-relaxed">
           Convert liters to quarts with precision accuracy. Essential for cooking, 

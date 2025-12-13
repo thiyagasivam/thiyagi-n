@@ -31,8 +31,8 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Free Decimal to ASCII Converter 2025 – Instant Code & Text Decoding</title>
-    <meta name="description" content="Convert decimal numbers to ASCII characters in seconds with our free 2025 online tool. Perfect for developers, debugging, and encoding tasks—no installation required!">
+    <title>Free Decimal to ASCII Converter 2026 – Instant Code & Text Decoding</title>
+    <meta name="description" content="Convert decimal numbers to ASCII characters in seconds with our free 2026 online tool. Perfect for developers, debugging, and encoding tasks—no installation required!">
     <!-- Add Tailwind CSS CDN -->
     <script src="https://cdn.tailwindcss.com"></script>
     <style>

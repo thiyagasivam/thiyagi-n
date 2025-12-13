@@ -1,12 +1,12 @@
 <?php include 'header.php';?>
-<title>Inch to Pixel Converter 2025 | Inch to PX Calculator | Free Tool</title>
-<meta name="description" content="Professional inch to pixel converter 2025. Convert inches to pixels instantly with adjustable DPI. Perfect for web design, print media, and digital graphics.">
-<meta name="keywords" content="inch to pixel converter 2025, inch to px calculator, DPI converter, web design converter, digital graphics conversion">
+<title>Inch to Pixel Converter 2026 | Inch to PX Calculator | Free Tool</title>
+<meta name="description" content="Professional inch to pixel converter 2026. Convert inches to pixels instantly with adjustable DPI. Perfect for web design, print media, and digital graphics.">
+<meta name="keywords" content="inch to pixel converter 2026, inch to px calculator, DPI converter, web design converter, digital graphics conversion">
 <link rel="canonical" href="https://www.thiyagi.com/inch-to-pixel-x">
 
 <!-- Open Graph Meta Tags -->
-<meta property="og:title" content="Inch to Pixel Converter 2025 | Inch to PX Calculator | Free Tool">
-<meta property="og:description" content="Professional inch to pixel converter 2025. Convert inches to pixels instantly with adjustable DPI. Perfect for web design, print media, and digital graphics.">
+<meta property="og:title" content="Inch to Pixel Converter 2026 | Inch to PX Calculator | Free Tool">
+<meta property="og:description" content="Professional inch to pixel converter 2026. Convert inches to pixels instantly with adjustable DPI. Perfect for web design, print media, and digital graphics.">
 <meta property="og:url" content="https://www.thiyagi.com/inch-to-pixel-x">
 <meta property="og:type" content="website">
 <meta property="og:image" content="https://www.thiyagi.com/nt.png">
@@ -83,7 +83,7 @@
         </div>
         <h1 class="text-4xl md:text-6xl font-bold text-gray-900 mb-6">
           Inch to Pixel Converter
-          <span class="block text-2xl md:text-3xl text-emerald-600 mt-2">Professional 2025</span>
+          <span class="block text-2xl md:text-3xl text-emerald-600 mt-2">Professional 2026</span>
         </h1>
         <p class="text-xl text-gray-600 mb-8 max-w-4xl mx-auto leading-relaxed">
           Convert inches to pixels with adjustable DPI settings. Essential for web designers, 

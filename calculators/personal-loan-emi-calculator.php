@@ -4,9 +4,9 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title><?php echo "Personal Loan EMI Calculator 2025 - Calculate Monthly Payments | Thiyagi.com"; ?></title>
-    <meta name="description" content="<?php echo "Calculate your personal loan EMI for 2025 with our advanced calculator. Get instant results for monthly payments, total interest, and payment schedule. Compare different loan scenarios with interactive charts and current interest rates."; ?>">
-    <meta name="keywords" content="<?php echo "personal loan EMI calculator 2025, loan EMI calculator, monthly payment calculator, personal loan interest calculator, EMI calculation, loan repayment calculator 2025"; ?>">
+    <title><?php echo "Personal Loan EMI Calculator 2026 - Calculate Monthly Payments | Thiyagi.com"; ?></title>
+    <meta name="description" content="<?php echo "Calculate your personal loan EMI for 2026 with our advanced calculator. Get instant results for monthly payments, total interest, and payment schedule. Compare different loan scenarios with interactive charts and current interest rates."; ?>">
+    <meta name="keywords" content="<?php echo "personal loan EMI calculator 2026, loan EMI calculator, monthly payment calculator, personal loan interest calculator, EMI calculation, loan repayment calculator 2026"; ?>">
     <link rel="canonical" href="<?php echo "https://www.thiyagi.com/calculators/personal-loan-emi-calculator"; ?>">
     
     <!-- Tailwind CSS -->
@@ -101,8 +101,8 @@ if (isset($_GET['ajax']) && $_GET['ajax'] === '1') {
                 <div class="inline-flex items-center justify-center w-16 h-16 bg-white/20 rounded-full mb-4">
                     <i class="fas fa-calculator text-2xl"></i>
                 </div>
-                <h1 class="text-4xl md:text-5xl font-bold mb-4">Personal Loan EMI Calculator 2025</h1>
-                <p class="text-xl opacity-90 max-w-2xl mx-auto">Calculate your monthly EMI with current 2025 interest rates, total interest, and plan your personal loan repayment with our advanced calculator</p>
+                <h1 class="text-4xl md:text-5xl font-bold mb-4">Personal Loan EMI Calculator 2026</h1>
+                <p class="text-xl opacity-90 max-w-2xl mx-auto">Calculate your monthly EMI with current 2026 interest rates, total interest, and plan your personal loan repayment with our advanced calculator</p>
             </div>
         </div>
     </div>
@@ -339,7 +339,7 @@ if (isset($_GET['ajax']) && $_GET['ajax'] === '1') {
         <!-- SEO Content Section -->
         <div class="mt-12 bg-white rounded-2xl shadow-xl p-8">
             <div class="prose max-w-none">
-                <h2 class="text-3xl font-bold text-gray-800 mb-6">Personal Loan EMI Calculator 2025 - Complete Guide</h2>
+                <h2 class="text-3xl font-bold text-gray-800 mb-6">Personal Loan EMI Calculator 2026 - Complete Guide</h2>
                 
                 <div class="grid md:grid-cols-2 gap-8 mb-8">
                     <div>
@@ -442,7 +442,7 @@ if (isset($_GET['ajax']) && $_GET['ajax'] === '1') {
                     </div>
                 </div>
 
-                <h3 class="text-2xl font-semibold text-gray-800 mb-4">Personal Loan Market Trends 2025</h3>
+                <h3 class="text-2xl font-semibold text-gray-800 mb-4">Personal Loan Market Trends 2026</h3>
                 <div class="bg-gradient-to-r from-blue-50 to-indigo-50 rounded-xl p-6 mb-8">
                     <div class="grid md:grid-cols-2 gap-6">
                         <div>
@@ -468,7 +468,7 @@ if (isset($_GET['ajax']) && $_GET['ajax'] === '1') {
                         <div>
                             <h4 class="font-semibold text-gray-800 mb-3 flex items-center">
                                 <i class="fas fa-mobile-alt text-green-600 mr-2"></i>
-                                Digital Innovation in 2025
+                                Digital Innovation in 2026
                             </h4>
                             <ul class="space-y-2 text-gray-600">
                                 <li class="flex items-start">
@@ -799,8 +799,8 @@ document.head.appendChild(style);
 {
   "@context": "https://schema.org",
   "@type": "WebApplication",
-  "name": "Personal Loan EMI Calculator 2025",
-  "description": "Calculate your personal loan EMI for 2025 with our advanced calculator. Get instant results for monthly payments, total interest, and payment schedule with current market rates.",
+  "name": "Personal Loan EMI Calculator 2026",
+  "description": "Calculate your personal loan EMI for 2026 with our advanced calculator. Get instant results for monthly payments, total interest, and payment schedule with current market rates.",
   "url": "https://www.thiyagi.com/calculators/personal-loan-emi-calculator",
   "applicationCategory": "FinanceApplication",
   "operatingSystem": "Any",

@@ -588,22 +588,22 @@ $templates = TermsGenerator::getTemplateInfo();
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Terms & Conditions Generator 2025 - Professional Legal Document Creator</title>
-    <meta name="description" content="Create professional Terms & Conditions with our advanced 2025 generator. Multiple templates for e-commerce, SaaS, blogs, apps & marketplaces. Legal compliance made easy for businesses.">
-    <meta name="keywords" content="terms conditions generator 2025, legal document creator, terms of service generator, website legal documents, business legal templates, legal compliance tool">
+    <title>Terms & Conditions Generator 2026 - Professional Legal Document Creator</title>
+    <meta name="description" content="Create professional Terms & Conditions with our advanced 2026 generator. Multiple templates for e-commerce, SaaS, blogs, apps & marketplaces. Legal compliance made easy for businesses.">
+    <meta name="keywords" content="terms conditions generator 2026, legal document creator, terms of service generator, website legal documents, business legal templates, legal compliance tool">
     <link rel="canonical" href="https://www.thiyagi.com/terms-and-conditions-generator">
     
     <!-- Open Graph / Facebook -->
     <meta property="og:type" content="website">
     <meta property="og:url" content="https://www.thiyagi.com/terms-and-conditions-generator">
-    <meta property="og:title" content="Terms & Conditions Generator 2025 - Professional Legal Document Creator">
+    <meta property="og:title" content="Terms & Conditions Generator 2026 - Professional Legal Document Creator">
     <meta property="og:description" content="Advanced Terms & Conditions generator with multiple business templates. Create professional legal documents for compliance and protection.">
     <meta property="og:image" content="https://www.thiyagi.com/nt.png">
     
     <!-- Twitter -->
     <meta property="twitter:card" content="summary_large_image">
     <meta property="twitter:url" content="https://www.thiyagi.com/terms-and-conditions-generator">
-    <meta property="twitter:title" content="Terms & Conditions Generator 2025 - Professional Legal Document Creator">
+    <meta property="twitter:title" content="Terms & Conditions Generator 2026 - Professional Legal Document Creator">
     <meta property="twitter:description" content="Professional legal document generator with business-specific templates and compliance features.">
     <meta property="twitter:image" content="https://www.thiyagi.com/nt.png">
     
@@ -614,7 +614,7 @@ $templates = TermsGenerator::getTemplateInfo();
     {
         "@context": "https://schema.org",
         "@type": "WebApplication",
-        "name": "Terms & Conditions Generator 2025",
+        "name": "Terms & Conditions Generator 2026",
         "description": "Professional Terms and Conditions generator with business-specific templates for legal compliance and protection",
         "url": "https://www.thiyagi.com/terms-and-conditions-generator",
         "applicationCategory": "BusinessApplication",
@@ -688,7 +688,7 @@ $templates = TermsGenerator::getTemplateInfo();
 
     <div class="container mx-auto px-4 py-8 max-w-6xl">
         <header class="text-center mb-12">
-            <h1 class="text-4xl font-bold text-gray-900 mb-4">📋 Terms & Conditions Generator 2025</h1>
+            <h1 class="text-4xl font-bold text-gray-900 mb-4">📋 Terms & Conditions Generator 2026</h1>
             <p class="text-xl text-gray-600 max-w-4xl mx-auto">Create professional, legally-compliant Terms & Conditions with our advanced generator featuring business-specific templates, customizable clauses, and expert legal guidance.</p>
         </header>
 

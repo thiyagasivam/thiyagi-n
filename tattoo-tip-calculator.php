@@ -3,14 +3,14 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Tattoo Tip Calculator 2025 - Calculate Tattoo Artist Gratuity | Thiyagi.com</title>
-    <meta name="description" content="Tattoo tip calculator 2025 - calculate appropriate gratuity for your tattoo artist. Professional tipping guide for tattoo sessions, touch-ups, and custom work.">
-    <meta name="keywords" content="tattoo tip calculator 2025, tattoo gratuity calculator, how much to tip tattoo artist, tattoo tipping guide, tattoo tip etiquette">
+    <title>Tattoo Tip Calculator 2026 - Calculate Tattoo Artist Gratuity | Thiyagi.com</title>
+    <meta name="description" content="Tattoo tip calculator 2026 - calculate appropriate gratuity for your tattoo artist. Professional tipping guide for tattoo sessions, touch-ups, and custom work.">
+    <meta name="keywords" content="tattoo tip calculator 2026, tattoo gratuity calculator, how much to tip tattoo artist, tattoo tipping guide, tattoo tip etiquette">
     <meta name="author" content="Thiyagi">
     <meta name="robots" content="index, follow">
     
     <!-- Open Graph Meta Tags -->
-    <meta property="og:title" content="Tattoo Tip Calculator 2025 - Calculate Tattoo Artist Gratuity">
+    <meta property="og:title" content="Tattoo Tip Calculator 2026 - Calculate Tattoo Artist Gratuity">
     <meta property="og:description" content="Calculate appropriate gratuity for your tattoo artist. Professional tipping guide for tattoo sessions and custom work.">
     <meta property="og:url" content="https://www.thiyagi.com/tattoo-tip-calculator">
     <meta property="og:type" content="website">
@@ -18,7 +18,7 @@
     
     <!-- Twitter Card Meta Tags -->
     <meta name="twitter:card" content="summary_large_image">
-    <meta name="twitter:title" content="Tattoo Tip Calculator 2025 - Calculate Tattoo Artist Gratuity">
+    <meta name="twitter:title" content="Tattoo Tip Calculator 2026 - Calculate Tattoo Artist Gratuity">
     <meta name="twitter:description" content="Calculate appropriate gratuity for your tattoo artist with our professional tipping guide.">
     <meta name="twitter:image" content="https://www.thiyagi.com/nt.png">
     
@@ -67,7 +67,7 @@
 {
   "@context": "https://schema.org",
   "@type": "WebApplication",
-  "name": "Tattoo Tip Calculator 2025",
+  "name": "Tattoo Tip Calculator 2026",
   "description": "Calculate appropriate gratuity for your tattoo artist based on service quality, session duration, and tattoo complexity. Professional tipping guide for tattoo enthusiasts.",
   "url": "https://www.thiyagi.com/tattoo-tip-calculator",
   "applicationCategory": "UtilityApplication",

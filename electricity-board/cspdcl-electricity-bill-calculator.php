@@ -2,7 +2,7 @@
 <?php include 'breadcrumb-schema.php';?>
 <?php
 // PHP Backend Logic
-$slabs_2025 = [
+$slabs_2026 = [
     ['min' => 0, 'max' => 100, 'rate' => 3.40, 'fixed' => 75, 'subsidy' => true],
     ['min' => 101, 'max' => 200, 'rate' => 4.35, 'fixed' => 100, 'subsidy' => true],
     ['min' => 201, 'max' => 300, 'rate' => 5.40, 'fixed' => 125, 'subsidy' => false],
@@ -24,7 +24,7 @@ $total = 0;
 $subsidy_amount = 0;
 
 if ($units > 0) {
-    foreach ($slabs_2025 as $slab) {
+    foreach ($slabs_2026 as $slab) {
         if ($units > $slab['min']) {
             $slab_units = min($units, $slab['max']) - $slab['min'];
             $energy_charge += $slab_units * $slab['rate'];
@@ -35,7 +35,7 @@ if ($units > 0) {
         }
     }
     
-    $fixed_charge = $slabs_2025[array_search(true, array_column($slabs_2025, 'subsidy'))]['fixed'];
+    $fixed_charge = $slabs_2026[array_search(true, array_column($slabs_2026, 'subsidy'))]['fixed'];
     
     if ($phase == 'three') {
         $energy_charge *= $three_phase_multiplier;
@@ -50,8 +50,8 @@ if ($units > 0) {
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>CSPDCL Electricity Bill Calculator 2025 | Estimate Chhattisgarh Power Charges</title>
-    <meta name="description" content="Accurately calculate your 2025 CSPDCL electricity bill based on slab rates in Chhattisgarh. Includes subsidy option, print, and share features.">
+    <title>CSPDCL Electricity Bill Calculator 2026 | Estimate Chhattisgarh Power Charges</title>
+    <meta name="description" content="Accurately calculate your 2026 CSPDCL electricity bill based on slab rates in Chhattisgarh. Includes subsidy option, print, and share features.">
     <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" rel="stylesheet">
     <script src="https://unpkg.com/lucide@latest"></script>
 
@@ -62,7 +62,7 @@ if ($units > 0) {
 <body class="bg-gray-50 text-gray-800 font-sans">
     <header class="bg-green-600 text-white shadow-md">
         <div class="container mx-auto px-4 py-6">
-            <h1 class="text-2xl md:text-3xl font-bold">CSPDCL Electricity Bill Calculator 2025</h1>
+            <h1 class="text-2xl md:text-3xl font-bold">CSPDCL Electricity Bill Calculator 2026</h1>
             <p class="mt-2 opacity-90">Estimate your Chhattisgarh power charges based on latest slab rates</p>
         </div>
     </header>
@@ -185,7 +185,7 @@ if ($units > 0) {
         <section class="bg-white rounded-xl shadow-md overflow-hidden">
             <div class="p-6 md:p-8">
                 <h2 class="text-xl font-bold text-gray-800 mb-4 flex items-center">
-                    <i data-lucide="help-circle" class="w-5 h-5 mr-2"></i> CSPDCL Tariff Details (2025)
+                    <i data-lucide="help-circle" class="w-5 h-5 mr-2"></i> CSPDCL Tariff Details (2026)
                 </h2>
                 
                 <div class="overflow-x-auto">
@@ -199,7 +199,7 @@ if ($units > 0) {
                             </tr>
                         </thead>
                         <tbody class="bg-white divide-y divide-gray-200">
-                            <?php foreach ($slabs_2025 as $slab): ?>
+                            <?php foreach ($slabs_2026 as $slab): ?>
                             <tr>
                                 <td class="px-4 py-3 whitespace-nowrap text-sm text-gray-900">
                                     <?= $slab['min'] ?> - <?= $slab['max'] == PHP_INT_MAX ? 'Above 600' : $slab['max'] ?>

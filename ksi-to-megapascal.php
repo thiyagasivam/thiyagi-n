@@ -1,19 +1,19 @@
 <?php include 'header.php'; ?>
 
 <!-- SEO Meta Tags -->
-<title>KSI to Megapascal Converter 2025 - ksi to MPa Calculator | Thiyagi</title>
-<meta name="description" content="Free online KSI to Megapascal converter 2025. Convert ksi to MPa and MPa to ksi instantly with accurate pressure conversion for engineering and materials science.">
-<meta name="keywords" content="ksi to megapascal converter 2025, ksi to MPa, pressure converter, engineering pressure, material strength, stress analysis">
+<title>KSI to Megapascal Converter 2026 - ksi to MPa Calculator | Thiyagi</title>
+<meta name="description" content="Free online KSI to Megapascal converter 2026. Convert ksi to MPa and MPa to ksi instantly with accurate pressure conversion for engineering and materials science.">
+<meta name="keywords" content="ksi to megapascal converter 2026, ksi to MPa, pressure converter, engineering pressure, material strength, stress analysis">
 <meta name="author" content="Thiyagi">
-<meta property="og:title" content="KSI to Megapascal Converter 2025 - ksi to MPa Calculator">
-<meta property="og:description" content="Free online KSI to Megapascal converter 2025. Convert ksi to MPa and MPa to ksi instantly.">
+<meta property="og:title" content="KSI to Megapascal Converter 2026 - ksi to MPa Calculator">
+<meta property="og:description" content="Free online KSI to Megapascal converter 2026. Convert ksi to MPa and MPa to ksi instantly.">
 <meta property="og:type" content="website">
 <meta property="og:url" content="https://www.thiyagi.com/ksi-to-megapascal.php">
 <meta property="og:image" content="https://www.thiyagi.com/nt.png">
 <meta property="og:site_name" content="Thiyagi">
 <meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:title" content="KSI to Megapascal Converter 2025 - ksi to MPa Calculator">
-<meta name="twitter:description" content="Free online KSI to Megapascal converter 2025. Convert ksi to MPa and MPa to ksi instantly.">
+<meta name="twitter:title" content="KSI to Megapascal Converter 2026 - ksi to MPa Calculator">
+<meta name="twitter:description" content="Free online KSI to Megapascal converter 2026. Convert ksi to MPa and MPa to ksi instantly.">
 <meta name="twitter:image" content="https://www.thiyagi.com/nt.png">
 
 <div class="min-h-screen bg-gradient-to-br from-red-50 via-orange-50 to-yellow-50 py-12">

@@ -1,19 +1,19 @@
 <?php include 'header.php'; ?>
 
 <!-- SEO Meta Tags -->
-<title>Byte to Megabit Converter 2025 - Data Storage Calculator | Thiyagi</title>
-<meta name="description" content="Free online byte to megabit converter 2025. Convert bytes to Mbit instantly with accurate data conversion. Perfect for IT and networking calculations.">
-<meta name="keywords" content="byte to megabit converter 2025, byte to Mbit, data converter, IT calculator, networking converter">
+<title>Byte to Megabit Converter 2026 - Data Storage Calculator | Thiyagi</title>
+<meta name="description" content="Free online byte to megabit converter 2026. Convert bytes to Mbit instantly with accurate data conversion. Perfect for IT and networking calculations.">
+<meta name="keywords" content="byte to megabit converter 2026, byte to Mbit, data converter, IT calculator, networking converter">
 <meta name="author" content="Thiyagi">
-<meta property="og:title" content="Byte to Megabit Converter 2025 - Data Storage Calculator">
-<meta property="og:description" content="Free online byte to megabit converter 2025. Convert bytes to Mbit instantly with accurate data conversion.">
+<meta property="og:title" content="Byte to Megabit Converter 2026 - Data Storage Calculator">
+<meta property="og:description" content="Free online byte to megabit converter 2026. Convert bytes to Mbit instantly with accurate data conversion.">
 <meta property="og:type" content="website">
 <meta property="og:url" content="https://www.thiyagi.com/byte-to-megabit.php">
 <meta property="og:image" content="https://www.thiyagi.com/nt.png">
 <meta property="og:site_name" content="Thiyagi">
 <meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:title" content="Byte to Megabit Converter 2025 - Data Storage Calculator">
-<meta name="twitter:description" content="Free online byte to megabit converter 2025. Convert bytes to Mbit instantly with accurate data conversion.">
+<meta name="twitter:title" content="Byte to Megabit Converter 2026 - Data Storage Calculator">
+<meta name="twitter:description" content="Free online byte to megabit converter 2026. Convert bytes to Mbit instantly with accurate data conversion.">
 <meta name="twitter:image" content="https://www.thiyagi.com/nt.png">
 
 <div class="min-h-screen bg-gradient-to-br from-purple-50 via-indigo-50 to-blue-50 py-12">

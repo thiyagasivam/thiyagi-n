@@ -76,8 +76,8 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Morse Code Translator 2025 - Free Online Decoder & Encoder</title>
-<meta name="description" content="Free online Morse code translator for 2025. Instantly convert text to Morse code and vice versa. Learn Morse alphabet with audio playback and flashing light simulation.">
+    <title>Morse Code Translator 2026 - Free Online Decoder & Encoder</title>
+<meta name="description" content="Free online Morse code translator for 2026. Instantly convert text to Morse code and vice versa. Learn Morse alphabet with audio playback and flashing light simulation.">
     <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" rel="stylesheet">
     <style>
         .active-tab {

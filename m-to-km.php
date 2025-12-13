@@ -1,12 +1,12 @@
 <?php include 'header.php';?>
-<title>M to KM Converter 2025 | Meters to Kilometers Calculator | Free Tool</title>
-<meta name="description" content="Professional M to KM converter 2025. Convert meters to kilometers instantly with precision calculations. Perfect for sports, navigation, and distance measurements.">
-<meta name="keywords" content="m to km converter 2025, meters to kilometers calculator, distance converter, metric conversion, navigation measurements">
+<title>M to KM Converter 2026 | Meters to Kilometers Calculator | Free Tool</title>
+<meta name="description" content="Professional M to KM converter 2026. Convert meters to kilometers instantly with precision calculations. Perfect for sports, navigation, and distance measurements.">
+<meta name="keywords" content="m to km converter 2026, meters to kilometers calculator, distance converter, metric conversion, navigation measurements">
 <link rel="canonical" href="https://www.thiyagi.com/m-to-km">
 
 <!-- Open Graph Meta Tags -->
-<meta property="og:title" content="M to KM Converter 2025 | Meters to Kilometers Calculator | Free Tool">
-<meta property="og:description" content="Professional M to KM converter 2025. Convert meters to kilometers instantly with precision calculations. Perfect for sports, navigation, and distance measurements.">
+<meta property="og:title" content="M to KM Converter 2026 | Meters to Kilometers Calculator | Free Tool">
+<meta property="og:description" content="Professional M to KM converter 2026. Convert meters to kilometers instantly with precision calculations. Perfect for sports, navigation, and distance measurements.">
 <meta property="og:url" content="https://www.thiyagi.com/m-to-km">
 <meta property="og:type" content="website">
 <meta property="og:image" content="https://www.thiyagi.com/nt.png">
@@ -83,7 +83,7 @@
         </div>
         <h1 class="text-4xl md:text-6xl font-bold text-gray-900 mb-6">
           M to KM Converter
-          <span class="block text-2xl md:text-3xl text-emerald-600 mt-2">Professional 2025</span>
+          <span class="block text-2xl md:text-3xl text-emerald-600 mt-2">Professional 2026</span>
         </h1>
         <p class="text-xl text-gray-600 mb-8 max-w-4xl mx-auto leading-relaxed">
           Convert meters to kilometers with precision accuracy. Essential for sports tracking, 

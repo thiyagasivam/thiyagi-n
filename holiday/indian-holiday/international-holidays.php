@@ -2,19 +2,19 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>International Holidays 2025 | Global Observances Calendar</title>
-    <meta name="description" content="Complete list of International Holidays 2025. Find dates for Valentine's Day, International Women's Day, Labour Day, and other global observances.">
-    <meta name="keywords" content="International holidays 2025, global holidays, Valentine's Day, Women's Day, Labour Day, Children's Day, worldwide celebrations">
+    <title>International Holidays 2026 | Global Observances Calendar</title>
+    <meta name="description" content="Complete list of International Holidays 2026. Find dates for Valentine's Day, International Women's Day, Labour Day, and other global observances.">
+    <meta name="keywords" content="International holidays 2026, global holidays, Valentine's Day, Women's Day, Labour Day, Children's Day, worldwide celebrations">
     <meta name="author" content="Global Holiday Calendar">
     <meta name="robots" content="index, follow">
-    <meta property="og:title" content="International Holidays 2025 - Global Observances Calendar">
-    <meta property="og:description" content="Complete list of International Holidays 2025 including Valentine's Day, Women's Day, Labour Day, and more.">
+    <meta property="og:title" content="International Holidays 2026 - Global Observances Calendar">
+    <meta property="og:description" content="Complete list of International Holidays 2026 including Valentine's Day, Women's Day, Labour Day, and more.">
     <meta property="og:type" content="website">
     <meta property="og:url" content="<?php echo 'https://' . $_SERVER['HTTP_HOST'] . $_SERVER['REQUEST_URI']; ?>">
-    <meta property="og:image" content="https://via.placeholder.com/1200x630/4B0082/FFFFFF?text=International+Holidays+2025">
+    <meta property="og:image" content="https://via.placeholder.com/1200x630/4B0082/FFFFFF?text=International+Holidays+2026">
     <meta name="twitter:card" content="summary_large_image">
-    <meta name="twitter:title" content="International Holidays 2025">
-    <meta name="twitter:description" content="Complete list of International Holidays 2025.">
+    <meta name="twitter:title" content="International Holidays 2026">
+    <meta name="twitter:description" content="Complete list of International Holidays 2026.">
     <link rel="canonical" href="<?php echo 'https://' . $_SERVER['HTTP_HOST'] . $_SERVER['REQUEST_URI']; ?>">
     <meta name="language" content="English">
     <meta name="geo.region" content="GLOBAL">
@@ -24,18 +24,18 @@
     {
         "@context": "https://schema.org",
         "@type": "WebPage",
-        "name": "International Holidays 2025",
-        "description": "Complete list of International Holidays 2025 including Valentine's Day, Women's Day, Labour Day, and more.",
+        "name": "International Holidays 2026",
+        "description": "Complete list of International Holidays 2026 including Valentine's Day, Women's Day, Labour Day, and more.",
         "url": "<?php echo 'https://' . $_SERVER['HTTP_HOST'] . $_SERVER['REQUEST_URI']; ?>",
         "mainEntity": {
             "@type": "FAQPage",
             "mainEntity": [
                 {
                     "@type": "Question",
-                    "name": "What are some major international holidays in 2025?",
+                    "name": "What are some major international holidays in 2026?",
                     "acceptedAnswer": {
                         "@type": "Answer",
-                        "text": "Major international holidays in 2025 include Valentine's Day (February 14), International Women's Day (March 8), Labour Day (May 1), Children's Day (November 14), and Christmas (December 25)."
+                        "text": "Major international holidays in 2026 include Valentine's Day (February 14), International Women's Day (March 8), Labour Day (May 1), Children's Day (November 14), and Christmas (December 25)."
                     }
                 },
                 {
@@ -43,7 +43,7 @@
                     "name": "Is Valentine's Day celebrated worldwide?",
                     "acceptedAnswer": {
                         "@type": "Answer",
-                        "text": "Yes, Valentine's Day (February 14, 2025) is celebrated in many countries around the world as a day of love and affection, although the traditions and level of celebration can vary."
+                        "text": "Yes, Valentine's Day (February 14, 2026) is celebrated in many countries around the world as a day of love and affection, although the traditions and level of celebration can vary."
                     }
                 }
             ]
@@ -52,7 +52,7 @@
             "@type": "Organization",
             "name": "Global Holiday Calendar"
         },
-        "datePublished": "2025-01-01",
+        "datePublished": "2026-01-01",
         "dateModified": "<?php echo date('Y-m-d'); ?>"
     }
     </script>
@@ -77,92 +77,92 @@
     <?php
     // --- Simulate the data structure from the original file ---
     // In a real scenario, you might include a data file or fetch from a database
-    $holidays_2025_simulated = [
-        '2025-01-01' => [
+    $holidays_2026_simulated = [
+        '2026-01-01' => [
             'name' => 'New Year\'s Day',
             'type' => 'International',
             'description' => 'Celebration of the new year worldwide',
             'icon' => 'fa-calendar-day',
             'bank_holiday' => true
         ],
-        '2025-02-14' => [
+        '2026-02-14' => [
             'name' => 'Valentine\'s Day',
             'type' => 'International',
             'description' => 'Day of love and affection',
             'icon' => 'fa-heart',
             'bank_holiday' => false
         ],
-        '2025-03-08' => [
+        '2026-03-08' => [
             'name' => 'International Women\'s Day',
             'type' => 'International',
             'description' => 'Celebration of women\'s achievements',
             'icon' => 'fa-venus',
             'bank_holiday' => false
         ],
-        '2025-03-20' => [
+        '2026-03-20' => [
             'name' => 'International Day of Happiness',
             'type' => 'International',
             'description' => 'UN recognized day promoting happiness and well-being',
             'icon' => 'fa-smile',
             'bank_holiday' => false
         ],
-        '2025-04-22' => [
+        '2026-04-22' => [
             'name' => 'Earth Day',
             'type' => 'International',
             'description' => 'Global environmental awareness day',
             'icon' => 'fa-globe-americas',
             'bank_holiday' => false
         ],
-        '2025-05-01' => [
+        '2026-05-01' => [
             'name' => 'Labour Day',
             'type' => 'International',
             'description' => 'International Workers\' Day',
             'icon' => 'fa-hard-hat',
             'bank_holiday' => true
         ],
-        '2025-06-05' => [
+        '2026-06-05' => [
             'name' => 'World Environment Day',
             'type' => 'International',
             'description' => 'UN day for encouraging worldwide awareness',
             'icon' => 'fa-leaf',
             'bank_holiday' => false
         ],
-        '2025-06-21' => [
+        '2026-06-21' => [
             'name' => 'International Yoga Day',
             'type' => 'International',
             'description' => 'Global day for yoga practice and awareness',
             'icon' => 'fa-spa',
             'bank_holiday' => false
         ],
-        '2025-09-21' => [
+        '2026-09-21' => [
             'name' => 'International Day of Peace',
             'type' => 'International',
             'description' => 'UN sanctioned day devoted to world peace',
             'icon' => 'fa-dove',
             'bank_holiday' => false
         ],
-        '2025-10-16' => [
+        '2026-10-16' => [
             'name' => 'World Food Day',
             'type' => 'International',
             'description' => 'Day of action against hunger',
             'icon' => 'fa-utensils',
             'bank_holiday' => false
         ],
-        '2025-11-14' => [
+        '2026-11-14' => [
             'name' => 'Children\'s Day',
             'type' => 'International',
             'description' => 'Universal Children\'s Day',
             'icon' => 'fa-child',
             'bank_holiday' => false
         ],
-        '2025-12-10' => [
+        '2026-12-10' => [
             'name' => 'Human Rights Day',
             'type' => 'International',
             'description' => 'Commemorating the Universal Declaration of Human Rights',
             'icon' => 'fa-balance-scale',
             'bank_holiday' => false
         ],
-        '2025-12-25' => [
+        '2026-12-25' => [
             'name' => 'Christmas',
             'type' => 'International',
             'description' => 'Celebration of Jesus Christ\'s birth worldwide',
@@ -172,12 +172,12 @@
     ];
 
     // Filter to get only International Holidays
-    $international_holidays_2025 = array_filter($holidays_2025_simulated, function($holiday) {
+    $international_holidays_2026 = array_filter($holidays_2026_simulated, function($holiday) {
         return $holiday['type'] === 'International';
     });
 
     // Sort holidays by date
-    ksort($international_holidays_2025);
+    ksort($international_holidays_2026);
 
     ?>
     <!-- Header -->
@@ -196,7 +196,7 @@
                     </div>
                     <div>
                         <h1 class="text-4xl font-bold flex items-center space-x-3">
-                            <span>International Holidays 2025</span>
+                            <span>International Holidays 2026</span>
                             <i class="fas fa-earth-americas text-2xl animate-bounce"></i>
                         </h1>
                         <p class="text-lg opacity-90">Global Observances & Celebrations</p>
@@ -213,7 +213,7 @@
                     </p>
                     <div class="mt-2 flex items-center space-x-2">
                         <i class="fas fa-gift text-yellow-200"></i>
-                        <span class="text-sm opacity-75"><?php echo count($international_holidays_2025); ?> International Holidays</span>
+                        <span class="text-sm opacity-75"><?php echo count($international_holidays_2026); ?> International Holidays</span>
                     </div>
                 </div>
             </div>
@@ -233,7 +233,7 @@
             <ol class="flex items-center space-x-2">
                 <li><a href="#" class="hover:text-purple-600 transition-colors">Home</a></li>
                 <li><i class="fas fa-chevron-right text-xs"></i></li>
-                <li class="text-gray-800 font-medium">International Holidays 2025</li>
+                <li class="text-gray-800 font-medium">International Holidays 2026</li>
             </ol>
         </nav>
 
@@ -242,11 +242,11 @@
             <div class="max-w-4xl mx-auto text-center">
                 <h2 class="text-3xl font-bold text-gray-800 mb-4 flex items-center justify-center space-x-3">
                     <i class="fas fa-calendar-alt text-intl-purple"></i>
-                    <span>Global Celebrations in 2025</span>
+                    <span>Global Celebrations in 2026</span>
                     <i class="fas fa-star text-yellow-500"></i>
                 </h2>
                 <p class="text-lg text-gray-700 mb-4 leading-relaxed">
-                    Explore the key international holidays and observances happening throughout 2025. This calendar highlights globally recognized events like Valentine's Day, International Women's Day, Labour Day, and more. Whether you're planning for a special occasion or simply curious about worldwide celebrations, this guide provides the essential dates.
+                    Explore the key international holidays and observances happening throughout 2026. This calendar highlights globally recognized events like Valentine's Day, International Women's Day, Labour Day, and more. Whether you're planning for a special occasion or simply curious about worldwide celebrations, this guide provides the essential dates.
                 </p>
                 <div class="grid md:grid-cols-2 gap-4 mt-6">
                     <div class="bg-white p-4 rounded-lg shadow-sm border border-purple-200">
@@ -302,16 +302,16 @@
             <div class="bg-gradient-to-r from-gray-100 to-gray-200 p-4 border-b">
                 <h2 class="text-2xl font-bold text-gray-800 flex items-center">
                     <i class="fas fa-list text-intl-purple mr-3"></i>
-                    <span>List of International Holidays 2025</span>
+                    <span>List of International Holidays 2026</span>
                 </h2>
             </div>
             <div class="divide-y divide-gray-200">
-                <?php if (empty($international_holidays_2025)): ?>
+                <?php if (empty($international_holidays_2026)): ?>
                     <div class="p-6 text-center text-gray-500">
-                        No international holidays found for 2025.
+                        No international holidays found for 2026.
                     </div>
                 <?php else: ?>
-                    <?php foreach ($international_holidays_2025 as $date => $holiday): ?>
+                    <?php foreach ($international_holidays_2026 as $date => $holiday): ?>
                         <div class="p-6 hover:bg-purple-50 transition-colors">
                             <div class="flex flex-col md:flex-row md:items-center justify-between space-y-4 md:space-y-0">
                                 <div class="flex items-start space-x-4">
@@ -365,7 +365,7 @@
                     <span class="text-sm font-medium text-blue-800">Share</span>
                     <div class="text-xs text-blue-600 mt-1">📤 Social</div>
                 </button>
-                 <button onclick="window.location.href='tamil-nadu-holidays-2025.php'" class="flex flex-col items-center p-6 bg-gradient-to-br from-blue-100 to-blue-200 hover:from-blue-200 hover:to-blue-300 rounded-lg transition-all transform hover:scale-105 shadow-md border border-blue-300">
+                 <button onclick="window.location.href='tamil-nadu-holidays-2026.php'" class="flex flex-col items-center p-6 bg-gradient-to-br from-blue-100 to-blue-200 hover:from-blue-200 hover:to-blue-300 rounded-lg transition-all transform hover:scale-105 shadow-md border border-blue-300">
                     <i class="fas fa-arrow-left text-3xl text-blue-600 mb-3"></i>
                     <span class="text-sm font-medium text-blue-800">Back to TN</span>
                     <div class="text-xs text-blue-600 mt-1">📅 Holidays</div>
@@ -388,7 +388,7 @@
                             <span>Is Valentine's Day a public holiday?</span>
                         </h3>
                         <p class="text-gray-700 leading-relaxed">
-                            Valentine's Day (February 14, 2025) is widely celebrated around the world as a day of love and romance.
+                            Valentine's Day (February 14, 2026) is widely celebrated around the world as a day of love and romance.
                             However, it is generally not a public or bank holiday in most countries. Businesses and schools typically operate on normal hours.
                         </p>
                     </div>
@@ -398,7 +398,7 @@
                             <span>What is the significance of International Women's Day?</span>
                         </h3>
                         <p class="text-gray-700 leading-relaxed">
-                            International Women's Day (March 8, 2025) is a global day celebrating women's social, economic, cultural, and political achievements.
+                            International Women's Day (March 8, 2026) is a global day celebrating women's social, economic, cultural, and political achievements.
                              It also calls for gender equality and women's rights. Many organizations host events, and it's recognized by the United Nations.
                              While not always a public holiday, it's widely observed.
                         </p>
@@ -409,7 +409,7 @@
                             <span>Is Labour Day celebrated the same way everywhere?</span>
                         </h3>
                         <p class="text-gray-700 leading-relaxed">
-                            Labour Day, or International Workers' Day (May 1, 2025), is celebrated globally, but the nature of celebrations varies.
+                            Labour Day, or International Workers' Day (May 1, 2026), is celebrated globally, but the nature of celebrations varies.
                             In many countries, it's a significant public holiday with parades, rallies, and events organized by labor unions.
                             In others, it might be more low-key or combined with other local holidays.
                         </p>
@@ -420,7 +420,7 @@
                             <span>Are all these holidays official in every country?</span>
                         </h3>
                         <p class="text-gray-700 leading-relaxed">
-                            No, the status of international holidays varies greatly by country. Some, like Christmas (December 25, 2025) and New Year's Day (January 1, 2025),
+                            No, the status of international holidays varies greatly by country. Some, like Christmas (December 25, 2026) and New Year's Day (January 1, 2026),
                             are widely recognized public holidays, while others like Valentine's Day or International Women's Day are cultural or awareness observances.
                             They might be celebrated but not necessarily result in a day off work or school.
                         </p>
@@ -433,7 +433,7 @@
     <script>
         // JavaScript functionality
         // Holiday data for search functionality
-        const holidaysData = <?php echo json_encode($international_holidays_2025); ?>;
+        const holidaysData = <?php echo json_encode($international_holidays_2026); ?>;
         function searchHolidays() {
             const searchTerm = document.getElementById('searchInput').value.toLowerCase();
             const searchResults = document.getElementById('searchResults');
@@ -505,8 +505,8 @@
 
         function downloadCalendar() {
             // Create a simple text version for download
-            let content = `International Holidays 2025\n========================\n\n`;
-            <?php foreach ($international_holidays_2025 as $date => $holiday): ?>
+            let content = `International Holidays 2026\n========================\n\n`;
+            <?php foreach ($international_holidays_2026 as $date => $holiday): ?>
             content += `<?php echo date('F j, Y', strtotime($date)) . " - " . $holiday['name'] . " (" . $holiday['type'] . ")\n"; ?>`;
             content += `  <?php echo $holiday['description'] . "\n\n"; ?>`;
             <?php endforeach; ?>
@@ -514,7 +514,7 @@
             const url = window.URL.createObjectURL(blob);
             const a = document.createElement('a');
             a.href = url;
-            a.download = 'international-holidays-2025.txt';
+            a.download = 'international-holidays-2026.txt';
             a.click();
             window.URL.revokeObjectURL(url);
         }
@@ -522,8 +522,8 @@
         function shareCalendar() {
             if (navigator.share) {
                 navigator.share({
-                    title: 'International Holidays 2025',
-                    text: 'Check out the International Holiday calendar for 2025!',
+                    title: 'International Holidays 2026',
+                    text: 'Check out the International Holiday calendar for 2026!',
                     url: window.location.href
                 });
             } else {

@@ -114,7 +114,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>YouTube Channel Logo Downloader 2025 - Download Channel Icons</title>
+    <title>YouTube Channel Logo Downloader 2026 - Download Channel Icons</title>
     <meta name="description" content="Download YouTube channel logos in multiple sizes. Paste a channel URL, @handle, or ID to fetch the channel icon and save it.">
     <meta name="keywords" content="YouTube channel logo downloader, YouTube icon download, channel logo, YouTube handle logo">
     <link rel="canonical" href="https://<?php echo $_SERVER['HTTP_HOST'] . strtok($_SERVER['REQUEST_URI'], '?'); ?>">

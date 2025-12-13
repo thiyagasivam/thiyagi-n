@@ -2,19 +2,19 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Odisha Holidays 2025 | Complete Calendar | Odia Festivals | National Holidays</title>
-    <meta name="description" content="Complete Odisha Holiday Calendar 2025. Find all Odia festivals, national holidays, cultural events, and religious celebrations. Plan your year with our comprehensive holiday guide.">
-    <meta name="keywords" content="Odisha holidays 2025, Odia festivals, Rath Yatra, Durga Puja, Raja Parba, national holidays India, Odia cultural events, Odisha calendar, holidays Odisha, festival dates 2025">
+    <title>Odisha Holidays 2026 | Complete Calendar | Odia Festivals | National Holidays</title>
+    <meta name="description" content="Complete Odisha Holiday Calendar 2026. Find all Odia festivals, national holidays, cultural events, and religious celebrations. Plan your year with our comprehensive holiday guide.">
+    <meta name="keywords" content="Odisha holidays 2026, Odia festivals, Rath Yatra, Durga Puja, Raja Parba, national holidays India, Odia cultural events, Odisha calendar, holidays Odisha, festival dates 2026">
     <meta name="author" content="Odisha Holiday Calendar">
     <meta name="robots" content="index, follow">
-    <meta property="og:title" content="Odisha Holidays 2025 - Complete Calendar">
-    <meta property="og:description" content="Complete Odisha Holiday Calendar 2025 with all festivals, national holidays, and cultural events. Plan your year with our comprehensive guide.">
+    <meta property="og:title" content="Odisha Holidays 2026 - Complete Calendar">
+    <meta property="og:description" content="Complete Odisha Holiday Calendar 2026 with all festivals, national holidays, and cultural events. Plan your year with our comprehensive guide.">
     <meta property="og:type" content="website">
     <meta property="og:url" content="<?php echo 'https://' . $_SERVER['HTTP_HOST'] . $_SERVER['REQUEST_URI']; ?>">
-    <meta property="og:image" content="https://via.placeholder.com/1200x630/FF8C00/FFFFFF?text=Odisha+Holidays+2025"> <!-- Changed color -->
+    <meta property="og:image" content="https://via.placeholder.com/1200x630/FF8C00/FFFFFF?text=Odisha+Holidays+2026"> <!-- Changed color -->
     <meta name="twitter:card" content="summary_large_image">
-    <meta name="twitter:title" content="Odisha Holidays 2025">
-    <meta name="twitter:description" content="Complete Odisha Holiday Calendar 2025 with all festivals and holidays.">
+    <meta name="twitter:title" content="Odisha Holidays 2026">
+    <meta name="twitter:description" content="Complete Odisha Holiday Calendar 2026 with all festivals and holidays.">
     <link rel="canonical" href="<?php echo 'https://' . $_SERVER['HTTP_HOST'] . $_SERVER['REQUEST_URI']; ?>">
     <meta name="language" content="English, Odia">
     <meta name="geo.region" content="IN-OR">
@@ -24,26 +24,26 @@
     {
         "@context": "https://schema.org",
         "@type": "WebPage",
-        "name": "Odisha Holidays 2025",
-        "description": "Complete Odisha Holiday Calendar 2025 with all festivals, national holidays, and cultural events",
+        "name": "Odisha Holidays 2026",
+        "description": "Complete Odisha Holiday Calendar 2026 with all festivals, national holidays, and cultural events",
         "url": "<?php echo 'https://' . $_SERVER['HTTP_HOST'] . $_SERVER['REQUEST_URI']; ?>",
         "mainEntity": {
             "@type": "FAQPage",
             "mainEntity": [
                 {
                     "@type": "Question",
-                    "name": "What are the main Odia festivals in 2025?",
+                    "name": "What are the main Odia festivals in 2026?",
                     "acceptedAnswer": {
                         "@type": "Answer",
-                        "text": "The main Odia festivals in 2025 include Rath Yatra (June 23), Durga Puja (October 1-5), and Raja Parba (June 13-15)."
+                        "text": "The main Odia festivals in 2026 include Rath Yatra (June 23), Durga Puja (October 1-5), and Raja Parba (June 13-15)."
                     }
                 },
                 {
                     "@type": "Question",
-                    "name": "How many national holidays are there in Odisha 2025?",
+                    "name": "How many national holidays are there in Odisha 2026?",
                     "acceptedAnswer": {
                         "@type": "Answer",
-                        "text": "There are several national holidays in Odisha 2025 including Republic Day (January 26), Independence Day (August 15), and Gandhi Jayanti (October 2)."
+                        "text": "There are several national holidays in Odisha 2026 including Republic Day (January 26), Independence Day (August 15), and Gandhi Jayanti (October 2)."
                     }
                 },
                 {
@@ -51,7 +51,7 @@
                     "name": "What is Rath Yatra and why is it important?",
                     "acceptedAnswer": {
                         "@type": "Answer",
-                        "text": "Rath Yatra, held in 2025 on June 23, is one of the most important festivals in Odisha, celebrated at the Jagannath Temple in Puri. It involves the ceremonial procession of Lord Jagannath, Balabhadra, and Subhadra on massive chariots."
+                        "text": "Rath Yatra, held in 2026 on June 23, is one of the most important festivals in Odisha, celebrated at the Jagannath Temple in Puri. It involves the ceremonial procession of Lord Jagannath, Balabhadra, and Subhadra on massive chariots."
                     }
                 },
                 {
@@ -59,12 +59,12 @@
                     "name": "How is Independence Day celebrated in Odisha?",
                     "acceptedAnswer": {
                         "@type": "Answer",
-                        "text": "Independence Day (August 15, 2025) is celebrated with great patriotic fervor across Odisha. The day begins with flag hoisting ceremonies in schools, colleges, and government offices, often accompanied by cultural programs."
+                        "text": "Independence Day (August 15, 2026) is celebrated with great patriotic fervor across Odisha. The day begins with flag hoisting ceremonies in schools, colleges, and government offices, often accompanied by cultural programs."
                     }
                 },
                 {
                     "@type": "Question",
-                    "name": "Are there any special holidays specific to Odisha in 2025?",
+                    "name": "Are there any special holidays specific to Odisha in 2026?",
                     "acceptedAnswer": {
                         "@type": "Answer",
                         "text": "Yes, Odisha has several state-specific holidays and festivals. Rath Yatra, Raja Parba, and Odisha Day (April 1) are unique to Odisha and are celebrated as state holidays."
@@ -76,7 +76,7 @@
             "@type": "Organization",
             "name": "Odisha Holiday Calendar"
         },
-        "datePublished": "2025-01-01",
+        "datePublished": "2026-01-01",
         "dateModified": "<?php echo date('Y-m-d'); ?>"
     }
     </script>
@@ -100,136 +100,136 @@
 </head>
 <body class="bg-gradient-to-br from-blue-50 to-green-100 min-h-screen"> <!-- Changed background gradient -->
     <?php
-    // Odisha Holidays 2025 Data
+    // Odisha Holidays 2026 Data
     // Note: Dates for Rath Yatra, Durga Puja, and Raja Parba are estimates based on typical timing. Exact dates may vary.
-    $holidays_2025 = [
-        '2025-01-01' => [
+    $holidays_2026 = [
+        '2026-01-01' => [
             'name' => 'New Year\'s Day',
             'type' => 'National Holiday',
             'description' => 'Celebration of the new year',
             'icon' => 'fa-calendar-day',
             'bank_holiday' => true
         ],
-        '2025-01-26' => [
+        '2026-01-26' => [
             'name' => 'Republic Day',
             'type' => 'National Holiday',
             'description' => 'Celebration of Indian Republic',
             'icon' => 'fa-flag',
             'bank_holiday' => true
         ],
-        '2025-02-14' => [
+        '2026-02-14' => [
             'name' => 'Valentine\'s Day',
             'type' => 'International',
             'description' => 'Day of love and affection',
             'icon' => 'fa-heart',
             'bank_holiday' => false
         ],
-        '2025-03-08' => [
+        '2026-03-08' => [
             'name' => 'International Women\'s Day',
             'type' => 'International',
             'description' => 'Celebration of women\'s achievements',
             'icon' => 'fa-venus',
             'bank_holiday' => false
         ],
-        '2025-03-21' => [ // Approximate date for Holi
+        '2026-03-21' => [ // Approximate date for Holi
             'name' => 'Holi',
             'type' => 'Religious',
             'description' => 'Festival of colors',
             'icon' => 'fa-spray-can-sparkles',
             'bank_holiday' => true
         ],
-        '2025-04-01' => [
+        '2026-04-01' => [
             'name' => 'Odisha Day / Utkal Divas',
             'type' => 'Odisha Festival',
             'description' => 'Formation Day of Odisha',
             'icon' => 'fa-map',
             'bank_holiday' => true
         ],
-        '2025-04-14' => [
+        '2026-04-14' => [
             'name' => 'Ambedkar Jayanti',
             'type' => 'National Holiday',
             'description' => 'Birth anniversary of Dr. B.R. Ambedkar',
             'icon' => 'fa-graduation-cap',
             'bank_holiday' => true
         ],
-        '2025-05-01' => [
+        '2026-05-01' => [
             'name' => 'Labour Day / May Day',
             'type' => 'International',
             'description' => 'International Workers\' Day',
             'icon' => 'fa-hard-hat',
             'bank_holiday' => true
         ],
-        '2025-06-13' => [ // Raja Parba Start - Approximate date
+        '2026-06-13' => [ // Raja Parba Start - Approximate date
             'name' => 'Raja Parba (Day 1)',
             'type' => 'Odisha Festival',
             'description' => 'Celebration of Mother Earth and womanhood',
             'icon' => 'fa-seedling',
             'bank_holiday' => true
         ],
-        '2025-06-14' => [ // Raja Parba Day 2 - Approximate date
+        '2026-06-14' => [ // Raja Parba Day 2 - Approximate date
             'name' => 'Raja Parba (Day 2)',
             'type' => 'Odisha Festival',
             'description' => 'Second day of the three-day festival',
             'icon' => 'fa-seedling',
             'bank_holiday' => true
         ],
-        '2025-06-15' => [ // Raja Parba End - Approximate date
+        '2026-06-15' => [ // Raja Parba End - Approximate date
             'name' => 'Raja Parba (Day 3)',
             'type' => 'Odisha Festival',
             'description' => 'Final day of the three-day festival',
             'icon' => 'fa-seedling',
             'bank_holiday' => true
         ],
-        '2025-06-23' => [ // Rath Yatra - Approximate date
+        '2026-06-23' => [ // Rath Yatra - Approximate date
             'name' => 'Rath Yatra',
             'type' => 'Odisha Festival',
             'description' => 'Chariot festival of Lord Jagannath',
             'icon' => 'fa-om',
             'bank_holiday' => true
         ],
-        '2025-07-21' => [ // Ganesh Chaturthi - Approximate date
+        '2026-07-21' => [ // Ganesh Chaturthi - Approximate date
             'name' => 'Ganesh Chaturthi',
             'type' => 'Religious',
             'description' => 'Birth anniversary of Lord Ganesha',
             'icon' => 'fa-gem',
             'bank_holiday' => true
         ],
-        '2025-08-15' => [
+        '2026-08-15' => [
             'name' => 'Independence Day',
             'type' => 'National Holiday',
             'description' => 'Indian Independence Day',
             'icon' => 'fa-dove',
             'bank_holiday' => true
         ],
-        '2025-10-02' => [
+        '2026-10-02' => [
             'name' => 'Gandhi Jayanti',
             'type' => 'National Holiday',
             'description' => 'Birth anniversary of Mahatma Gandhi',
             'icon' => 'fa-peace',
             'bank_holiday' => true
         ],
-        '2025-10-24' => [ // Durga Puja - Approximate date (starts)
+        '2026-10-24' => [ // Durga Puja - Approximate date (starts)
             'name' => 'Durga Puja (Starts)',
             'type' => 'Religious',
             'description' => 'Celebration of Goddess Durga',
             'icon' => 'fa-star-and-crescent',
             'bank_holiday' => true
         ],
-        '2025-10-28' => [ // Durga Puja - Approximate date (ends)
+        '2026-10-28' => [ // Durga Puja - Approximate date (ends)
             'name' => 'Durga Puja (Ends)',
             'type' => 'Religious',
             'description' => 'Celebration of Goddess Durga',
             'icon' => 'fa-star-and-crescent',
             'bank_holiday' => true
         ],
-        '2025-11-14' => [
+        '2026-11-14' => [
             'name' => 'Children\'s Day',
             'type' => 'National',
             'description' => 'Birth anniversary of Jawaharlal Nehru',
             'icon' => 'fa-child',
             'bank_holiday' => false
         ],
-        '2025-12-25' => [
+        '2026-12-25' => [
             'name' => 'Christmas',
             'type' => 'Religious',
             'description' => 'Celebration of Jesus Christ\'s birth',
@@ -238,100 +238,100 @@
         ]
     ];
 
-    // Bank Holidays 2025 - Additional holidays specific to banks or common closures
-    $bank_holidays_2025 = [
-        '2025-01-25' => [ // Republic Day Eve
+    // Bank Holidays 2026 - Additional holidays specific to banks or common closures
+    $bank_holidays_2026 = [
+        '2026-01-25' => [ // Republic Day Eve
             'name' => 'Republic Day Eve',
             'type' => 'Bank Holiday',
             'description' => 'Day before Republic Day - Banks may close early',
             'icon' => 'fa-university',
             'bank_holiday' => true
         ],
-        '2025-04-04' => [ // Good Friday - Approximate date
+        '2026-04-04' => [ // Good Friday - Approximate date
             'name' => 'Good Friday',
             'type' => 'Bank Holiday',
             'description' => 'Christian religious holiday - Banks closed',
             'icon' => 'fa-university',
             'bank_holiday' => true
         ],
-        '2025-04-07' => [ // Easter Monday - Approximate date
+        '2026-04-07' => [ // Easter Monday - Approximate date
             'name' => 'Easter Monday',
             'type' => 'Bank Holiday',
             'description' => 'Christian religious holiday - Banks closed',
             'icon' => 'fa-university',
             'bank_holiday' => true
         ],
-        '2025-06-16' => [ // Eid al-Fitr - Approximate date
+        '2026-06-16' => [ // Eid al-Fitr - Approximate date
             'name' => 'Eid al-Fitr',
             'type' => 'Bank Holiday',
             'description' => 'End of Ramadan - Banks closed',
             'icon' => 'fa-university',
             'bank_holiday' => true
         ],
-        '2025-06-24' => [ // Rath Yatra Holiday - Approximate date
+        '2026-06-24' => [ // Rath Yatra Holiday - Approximate date
             'name' => 'Rath Yatra Holiday',
             'type' => 'Bank Holiday',
             'description' => 'Day after Rath Yatra - Banks closed',
             'icon' => 'fa-university',
             'bank_holiday' => true
         ],
-        '2025-07-07' => [ // Rath Yatra Snana Yatra - Approximate date
+        '2026-07-07' => [ // Rath Yatra Snana Yatra - Approximate date
             'name' => 'Snana Yatra',
             'type' => 'Bank Holiday',
             'description' => 'Bathing ceremony before Rath Yatra - Banks closed',
             'icon' => 'fa-university',
             'bank_holiday' => true
         ],
-        '2025-08-11' => [ // Eid al-Adha/Bakrid - Approximate date
+        '2026-08-11' => [ // Eid al-Adha/Bakrid - Approximate date
             'name' => 'Eid al-Adha/Bakrid',
             'type' => 'Bank Holiday',
             'description' => 'Islamic festival - Banks closed',
             'icon' => 'fa-university',
             'bank_holiday' => true
         ],
-        '2025-08-26' => [ // Janmashtami - Approximate date
+        '2026-08-26' => [ // Janmashtami - Approximate date
             'name' => 'Janmashtami',
             'type' => 'Bank Holiday',
             'description' => 'Birth anniversary of Lord Krishna',
             'icon' => 'fa-university',
             'bank_holiday' => true
         ],
-        '2025-09-24' => [ // Vijaya Dashami/Dussehra - Approximate date
+        '2026-09-24' => [ // Vijaya Dashami/Dussehra - Approximate date
             'name' => 'Vijaya Dashami/Dussehra',
             'type' => 'Bank Holiday',
             'description' => 'Tenth day of Navratri - Banks closed',
             'icon' => 'fa-university',
             'bank_holiday' => true
         ],
-        '2025-10-29' => [ // Diwali - Approximate date
+        '2026-10-29' => [ // Diwali - Approximate date
             'name' => 'Diwali',
             'type' => 'Bank Holiday',
             'description' => 'Festival of lights - Banks closed',
             'icon' => 'fa-university',
             'bank_holiday' => true
         ],
-        '2025-10-30' => [ // Diwali Holiday - Approximate date
+        '2026-10-30' => [ // Diwali Holiday - Approximate date
             'name' => 'Diwali Holiday',
             'type' => 'Bank Holiday',
             'description' => 'Day after Diwali - Banks closed',
             'icon' => 'fa-university',
             'bank_holiday' => true
         ],
-        '2025-11-06' => [ // Chhat Puja - Approximate date
+        '2026-11-06' => [ // Chhat Puja - Approximate date
             'name' => 'Chhat Puja',
             'type' => 'Bank Holiday',
             'description' => 'Worship of the Sun God - Banks closed',
             'icon' => 'fa-university',
             'bank_holiday' => true
         ],
-        '2025-11-15' => [ // Guru Nanak Jayanti - Approximate date
+        '2026-11-15' => [ // Guru Nanak Jayanti - Approximate date
             'name' => 'Guru Nanak Jayanti',
             'type' => 'Bank Holiday',
             'description' => 'Birth anniversary of Guru Nanak Dev Ji',
             'icon' => 'fa-university',
             'bank_holiday' => true
         ],
-        '2025-12-24' => [
+        '2026-12-24' => [
             'name' => 'Christmas Eve',
             'type' => 'Bank Holiday',
             'description' => 'Day before Christmas - Banks closed',
@@ -341,11 +341,11 @@
     ];
 
     // Merge all holidays
-    $all_holidays_2025 = array_merge($holidays_2025, $bank_holidays_2025);
+    $all_holidays_2026 = array_merge($holidays_2026, $bank_holidays_2026);
 
     // Get current month and year
     $current_month = isset($_GET['month']) ? (int)$_GET['month'] : (int)date('n');
-    $current_year = isset($_GET['year']) ? (int)$_GET['year'] : 2025;
+    $current_year = isset($_GET['year']) ? (int)$_GET['year'] : 2026;
 
     // Month names
     $month_names = [
@@ -392,7 +392,7 @@
                     </div>
                     <div>
                         <h1 class="text-4xl font-bold flex items-center space-x-3">
-                            <span>Odisha Holidays 2025</span>
+                            <span>Odisha Holidays 2026</span>
                             <i class="fas fa-landmark text-2xl animate-bounce"></i> <!-- Changed icon -->
                         </h1>
                         <p class="text-lg opacity-90 flex items-center space-x-2">
@@ -412,7 +412,7 @@
                     </p>
                     <div class="mt-2 flex items-center space-x-2">
                         <i class="fas fa-gift text-yellow-200"></i>
-                        <span class="text-sm opacity-75"><?php echo count($all_holidays_2025); ?> Total Holidays</span>
+                        <span class="text-sm opacity-75"><?php echo count($all_holidays_2026); ?> Total Holidays</span>
                     </div>
                 </div>
             </div>
@@ -438,7 +438,7 @@
                 <li><i class="fas fa-chevron-right text-xs"></i></li>
                 <li><a href="#" class="hover:text-blue-600 transition-colors">Odisha</a></li>
                 <li><i class="fas fa-chevron-right text-xs"></i></li>
-                <li class="text-gray-800 font-medium">Holidays 2025</li>
+                <li class="text-gray-800 font-medium">Holidays 2026</li>
             </ol>
         </nav>
         <!-- SEO Introduction Section -->
@@ -446,11 +446,11 @@
             <div class="max-w-4xl mx-auto text-center">
                 <h2 class="text-3xl font-bold text-gray-800 mb-4 flex items-center justify-center space-x-3">
                     <i class="fas fa-calendar-alt text-blue-600"></i>
-                    <span>Complete Odisha Holiday Calendar 2025</span>
+                    <span>Complete Odisha Holiday Calendar 2026</span>
                     <i class="fas fa-star text-yellow-500"></i>
                 </h2>
                 <p class="text-lg text-gray-700 mb-4 leading-relaxed">
-                    Welcome to the comprehensive Odisha Holiday Calendar 2025! This detailed guide provides you with all the important dates,
+                    Welcome to the comprehensive Odisha Holiday Calendar 2026! This detailed guide provides you with all the important dates,
                     festivals, and celebrations throughout the year. Whether you're planning a trip to Odisha, organizing events,
                     or simply want to stay informed about cultural celebrations, our calendar covers everything from traditional Odia festivals
                     like Rath Yatra and Raja Parba to national holidays and international observances.
@@ -626,8 +626,8 @@
                 // Days of the month
                 for ($day = 1; $day <= $days_in_month; $day++) {
                     $date = sprintf('%04d-%02d-%02d', $current_year, $current_month, $day);
-                    $is_holiday = isset($all_holidays_2025[$date]);
-                    $is_bank_holiday = isset($all_holidays_2025[$date]) && $all_holidays_2025[$date]['bank_holiday'] === true;
+                    $is_holiday = isset($all_holidays_2026[$date]);
+                    $is_bank_holiday = isset($all_holidays_2026[$date]) && $all_holidays_2026[$date]['bank_holiday'] === true;
                     $is_today = ($day == date('j') && $current_month == date('n') && $current_year == date('Y'));
                     $cell_classes = 'p-4 border-r border-b min-h-[100px] relative';
                     $cell_classes .= $is_today ? ' bg-yellow-100' : '';
@@ -639,7 +639,7 @@
                     echo '<div class="' . $cell_classes . '">';
                     echo '<div class="text-lg font-semibold text-gray-800 mb-2">' . $day . '</div>';
                     if ($is_holiday) {
-                        $holiday = $all_holidays_2025[$date];
+                        $holiday = $all_holidays_2026[$date];
                         $border_color = $is_bank_holiday ? 'border-blue-500' : 'border-orange-500'; // Changed color
                         $bg_color = $is_bank_holiday ? 'bg-blue-100' : 'bg-orange-100'; // Changed color
                         $text_color = $is_bank_holiday ? 'text-blue-800' : 'text-orange-800'; // Changed color
@@ -692,7 +692,7 @@
                     <?php
                     $today = date('Y-m-d');
                     $upcoming_count = 0;
-                    foreach ($all_holidays_2025 as $date => $holiday) {
+                    foreach ($all_holidays_2026 as $date => $holiday) {
                         if ($date >= $today && $upcoming_count < 5) {
                             $days_until = (strtotime($date) - strtotime($today)) / (60 * 60 * 24);
                             echo '<div class="flex items-center justify-between p-4 bg-gradient-to-r from-blue-50 to-green-50 rounded-lg border border-blue-200 hover:shadow-md transition-all transform hover:scale-105">'; // Changed background
@@ -734,16 +734,16 @@
                     <div class="text-center p-4 bg-gradient-to-br from-green-50 to-green-100 rounded-lg border border-green-200 hover:shadow-md transition-all">
                         <div class="flex items-center justify-center space-x-2 mb-2">
                             <i class="fas fa-gift text-green-600 text-xl"></i>
-                            <div class="text-3xl font-bold text-green-600"><?php echo count($holidays_2025); ?></div>
+                            <div class="text-3xl font-bold text-green-600"><?php echo count($holidays_2026); ?></div>
                         </div>
                         <div class="text-sm text-green-700 font-medium">Total Holidays</div>
-                        <div class="text-xs text-green-600 mt-1"><?php echo count(array_filter($all_holidays_2025, function($h) { return $h['bank_holiday'] === true; })); ?> Bank Holidays</div>
+                        <div class="text-xs text-green-600 mt-1"><?php echo count(array_filter($all_holidays_2026, function($h) { return $h['bank_holiday'] === true; })); ?> Bank Holidays</div>
                         <div class="text-xs text-green-600 mt-1">🎉 Celebrations</div>
                     </div>
                     <div class="text-center p-4 bg-gradient-to-br from-orange-50 to-orange-100 rounded-lg border border-orange-200 hover:shadow-md transition-all"> <!-- Changed color -->
                         <div class="flex items-center justify-center space-x-2 mb-2">
                             <i class="fas fa-landmark text-orange-600 text-xl"></i> <!-- Changed icon and color -->
-                            <div class="text-3xl font-bold text-orange-600"><?php echo count(array_filter($holidays_2025, function($h) { return $h['type'] === 'Odisha Festival'; })); ?></div>
+                            <div class="text-3xl font-bold text-orange-600"><?php echo count(array_filter($holidays_2026, function($h) { return $h['type'] === 'Odisha Festival'; })); ?></div>
                         </div>
                         <div class="text-sm text-orange-700 font-medium">Odisha Festivals</div> <!-- Changed text -->
                         <div class="text-xs text-orange-600 mt-1">🏛️ Cultural</div> <!-- Changed text -->
@@ -751,7 +751,7 @@
                     <div class="text-center p-4 bg-gradient-to-br from-yellow-50 to-yellow-100 rounded-lg border border-yellow-200 hover:shadow-md transition-all">
                         <div class="flex items-center justify-center space-x-2 mb-2">
                             <i class="fas fa-star text-yellow-600 text-xl"></i>
-                            <div class="text-3xl font-bold text-yellow-600"><?php echo count(array_filter($holidays_2025, function($h) { return $h['type'] === 'National Holiday'; })); ?></div>
+                            <div class="text-3xl font-bold text-yellow-600"><?php echo count(array_filter($holidays_2026, function($h) { return $h['type'] === 'National Holiday'; })); ?></div>
                         </div>
                         <div class="text-sm text-yellow-700 font-medium">National Holidays</div>
                         <div class="text-xs text-yellow-600 mt-1">🇮🇳 Patriotic</div>
@@ -759,7 +759,7 @@
                     <div class="text-center p-4 bg-gradient-to-br from-purple-50 to-purple-100 rounded-lg border border-purple-200 hover:shadow-md transition-all">
                         <div class="flex items-center justify-center space-x-2 mb-2">
                             <i class="fas fa-pray text-purple-600 text-xl"></i>
-                            <div class="text-3xl font-bold text-purple-600"><?php echo count(array_filter($all_holidays_2025, function($h) { return $h['type'] === 'Religious'; })); ?></div>
+                            <div class="text-3xl font-bold text-purple-600"><?php echo count(array_filter($all_holidays_2026, function($h) { return $h['type'] === 'Religious'; })); ?></div>
                         </div>
                         <div class="text-sm text-purple-700 font-medium">Religious</div>
                         <div class="text-xs text-purple-600 mt-1">⛪ Spiritual</div>
@@ -767,7 +767,7 @@
                     <div class="text-center p-4 bg-gradient-to-br from-blue-50 to-blue-100 rounded-lg border border-blue-200 hover:shadow-md transition-all">
                         <div class="flex items-center justify-center space-x-2 mb-2">
                             <i class="fas fa-university text-blue-600 text-xl"></i>
-                            <div class="text-3xl font-bold text-blue-600"><?php echo count(array_filter($all_holidays_2025, function($h) { return $h['bank_holiday'] === true; })); ?></div>
+                            <div class="text-3xl font-bold text-blue-600"><?php echo count(array_filter($all_holidays_2026, function($h) { return $h['bank_holiday'] === true; })); ?></div>
                         </div>
                         <div class="text-sm text-blue-700 font-medium">Bank Holidays</div>
                         <div class="text-xs text-blue-600 mt-1">🏦 Financial</div>
@@ -779,14 +779,14 @@
         <div class="mt-8 bg-white rounded-lg shadow-lg p-6 border-l-4 border-blue-500">
             <h3 class="text-2xl font-bold text-gray-800 mb-4 flex items-center">
                 <i class="fas fa-university text-blue-500 mr-3 text-2xl"></i>
-                <span>Bank Holidays 2025</span>
+                <span>Bank Holidays 2026</span>
                 <i class="fas fa-building-columns text-blue-400 ml-2"></i>
             </h3>
             <p class="text-gray-600 mb-6">All major banks in Odisha will be closed on these dates. Plan your banking activities accordingly.</p>
             <div class="grid md:grid-cols-2 lg:grid-cols-3 gap-4">
                 <?php
                 $bank_holidays_displayed = 0;
-                foreach ($all_holidays_2025 as $date => $holiday) {
+                foreach ($all_holidays_2026 as $date => $holiday) {
                     if ($holiday['bank_holiday'] === true && $bank_holidays_displayed < 12) {
                         $formatted_date = date('M d, Y', strtotime($date));
                         $day_name = date('l', strtotime($date));
@@ -912,10 +912,10 @@
                     <div class="bg-gray-50 rounded-lg p-6 hover:shadow-md transition-all">
                         <h3 class="text-xl font-semibold text-gray-800 mb-3 flex items-center space-x-2">
                             <i class="fas fa-om text-red-500"></i> <!-- Changed icon and color -->
-                            <span>What are the main Odia festivals in 2025?</span>
+                            <span>What are the main Odia festivals in 2026?</span>
                         </h3>
                         <p class="text-gray-700 leading-relaxed">
-                            The main Odia festivals in 2025 include <strong>Rath Yatra</strong> (June 23) - the famous chariot festival at Puri,
+                            The main Odia festivals in 2026 include <strong>Rath Yatra</strong> (June 23) - the famous chariot festival at Puri,
                             <strong>Raja Parba</strong> (June 13-15) - a celebration of womanhood and Mother Earth, and
                             <strong>Durga Puja</strong> (October 1-5) - a grand celebration of Goddess Durga, especially in Cuttack and Bhubaneswar.
                         </p>
@@ -924,10 +924,10 @@
                     <div class="bg-gray-50 rounded-lg p-6 hover:shadow-md transition-all">
                         <h3 class="text-xl font-semibold text-gray-800 mb-3 flex items-center space-x-2">
                             <i class="fas fa-flag text-orange-500"></i> <!-- Changed color -->
-                            <span>How many national holidays are there in Odisha 2025?</span>
+                            <span>How many national holidays are there in Odisha 2026?</span>
                         </h3>
                         <p class="text-gray-700 leading-relaxed">
-                            Odisha observes several national holidays in 2025 including <strong>Republic Day</strong> (January 26),
+                            Odisha observes several national holidays in 2026 including <strong>Republic Day</strong> (January 26),
                             <strong>Independence Day</strong> (August 15), and <strong>Gandhi Jayanti</strong> (October 2).
                             These are official government holidays when banks, schools, and government offices remain closed.
                         </p>
@@ -939,7 +939,7 @@
                             <span>What is Rath Yatra and why is it important?</span>
                         </h3>
                         <p class="text-gray-700 leading-relaxed">
-                            <strong>Rath Yatra</strong> (June 23, 2025) is one of the most important festivals in Odisha, celebrated at the Jagannath Temple in Puri.
+                            <strong>Rath Yatra</strong> (June 23, 2026) is one of the most important festivals in Odisha, celebrated at the Jagannath Temple in Puri.
                             It involves the ceremonial procession of Lord Jagannath, Balabhadra, and Subhadra on massive chariots.
                             Millions of devotees from around the world participate in this event, making it one of the oldest and most significant religious gatherings.
                         </p>
@@ -951,7 +951,7 @@
                             <span>What is Raja Parba and its significance?</span>
                         </h3>
                         <p class="text-gray-700 leading-relaxed">
-                            <strong>Raja Parba</strong> (June 13-15, 2025) is a unique three-day festival in Odisha that celebrates the onset of the monsoon season and womanhood.
+                            <strong>Raja Parba</strong> (June 13-15, 2026) is a unique three-day festival in Odisha that celebrates the onset of the monsoon season and womanhood.
                             It's believed that during these days, Mother Earth (Bhudevi) undergoes menstruation and rests. People refrain from plowing fields and celebrate with traditional games, music, and special foods like <em>Pitha</em> and <em>Khichdi</em>.
                         </p>
                     </div>
@@ -962,8 +962,8 @@
                             <span>Are international holidays like Valentine's Day celebrated in Odisha?</span>
                         </h3>
                         <p class="text-gray-700 leading-relaxed">
-                            Yes, <strong>Valentine's Day</strong> (February 14, 2025) and other international holidays like
-                            <strong>International Women's Day</strong> (March 8, 2025) are celebrated in Odisha, especially in
+                            Yes, <strong>Valentine's Day</strong> (February 14, 2026) and other international holidays like
+                            <strong>International Women's Day</strong> (March 8, 2026) are celebrated in Odisha, especially in
                             urban areas. While these are not official holidays, they are widely observed by younger generations and
                             commercial establishments, reflecting the state's cosmopolitan culture.
                         </p>
@@ -975,7 +975,7 @@
                             <span>What is Odisha Day and how is it celebrated?</span>
                         </h3>
                         <p class="text-gray-700 leading-relaxed">
-                            <strong>Odisha Day</strong> (April 1, 2025), also known as <strong>Utkal Divas</strong>, commemorates the formation of Odisha as a separate province in 1936.
+                            <strong>Odisha Day</strong> (April 1, 2026), also known as <strong>Utkal Divas</strong>, commemorates the formation of Odisha as a separate province in 1936.
                             It's celebrated with great enthusiasm across the state with cultural programs, parades, and events highlighting Odia heritage, language, and traditions.
                             Government offices and educational institutions organize special functions to mark the occasion.
                         </p>
@@ -987,7 +987,7 @@
                             <span>Is Labour Day a public holiday in Odisha?</span>
                         </h3>
                         <p class="text-gray-700 leading-relaxed">
-                            <strong>Labour Day / May Day</strong> (May 1, 2025) is a public holiday in Odisha. Banks, government offices,
+                            <strong>Labour Day / May Day</strong> (May 1, 2026) is a public holiday in Odisha. Banks, government offices,
                             and many businesses typically remain closed. Trade unions and workers' organizations often organize rallies
                             and events to celebrate workers' rights and achievements.
                         </p>
@@ -999,7 +999,7 @@
                             <span>How is Independence Day celebrated in Odisha?</span>
                         </h3>
                         <p class="text-gray-700 leading-relaxed">
-                            <strong>Independence Day</strong> (August 15, 2025) is celebrated with great patriotic fervor across Odisha.
+                            <strong>Independence Day</strong> (August 15, 2026) is celebrated with great patriotic fervor across Odisha.
                             The day begins with flag hoisting ceremonies in schools, colleges, and government offices, often accompanied by cultural programs.
                             The main celebration usually takes place at the Secretariat in Bhubaneswar.
                         </p>
@@ -1011,7 +1011,7 @@
                             <span>What is the significance of Gandhi Jayanti in Odisha?</span>
                         </h3>
                         <p class="text-gray-700 leading-relaxed">
-                            <strong>Gandhi Jayanti</strong> (October 2, 2025) commemorates the birth anniversary of Mahatma Gandhi,
+                            <strong>Gandhi Jayanti</strong> (October 2, 2026) commemorates the birth anniversary of Mahatma Gandhi,
                             the Father of the Nation. In Odisha, this day is observed with prayer meetings, seminars on Gandhian
                             philosophy, and community service activities. Schools organize special assemblies, and government offices
                             remain closed. The day promotes Gandhian values of non-violence, truth, and simplicity.
@@ -1024,7 +1024,7 @@
                             <span>How is Children's Day celebrated in Odisha?</span>
                         </h3>
                         <p class="text-gray-700 leading-relaxed">
-                            <strong>Children's Day</strong> (November 14, 2025) celebrates the birth anniversary of India's first
+                            <strong>Children's Day</strong> (November 14, 2026) celebrates the birth anniversary of India's first
                             Prime Minister, Jawaharlal Nehru. In Odisha, schools organize special programs, cultural activities, and competitions for children.
                             Many schools also distribute sweets and gifts to students, making it a memorable day for children across the state.
                         </p>
@@ -1036,7 +1036,7 @@
                             <span>Is Christmas celebrated in Odisha?</span>
                         </h3>
                         <p class="text-gray-700 leading-relaxed">
-                            Yes, <strong>Christmas</strong> (December 25, 2025) is celebrated with great enthusiasm in Odisha,
+                            Yes, <strong>Christmas</strong> (December 25, 2026) is celebrated with great enthusiasm in Odisha,
                             especially in areas with significant Christian populations like Cuttack, Berhampur, and Koraput.
                             Churches are beautifully decorated, midnight masses are held, and communities come together for celebrations.
                             The festival promotes communal harmony and is celebrated by people of all faiths.
@@ -1049,7 +1049,7 @@
                             <span>What is the significance of International Women's Day in Odisha?</span>
                         </h3>
                         <p class="text-gray-700 leading-relaxed">
-                            <strong>International Women's Day</strong> (March 8, 2025) is celebrated across Odisha to recognize
+                            <strong>International Women's Day</strong> (March 8, 2026) is celebrated across Odisha to recognize
                             women's achievements and promote gender equality. Various organizations, educational institutions, and
                             government bodies organize seminars, workshops, and cultural programs highlighting women's contributions
                             to society. The day also focuses on women's rights, empowerment, and addressing gender-based challenges.
@@ -1084,7 +1084,7 @@
                     <div class="bg-gray-50 rounded-lg p-6 hover:shadow-md transition-all">
                         <h3 class="text-xl font-semibold text-gray-800 mb-3 flex items-center space-x-2">
                             <i class="fas fa-calendar-check text-green-500"></i>
-                            <span>Are there any special holidays specific to Odisha in 2025?</span>
+                            <span>Are there any special holidays specific to Odisha in 2026?</span>
                         </h3>
                         <p class="text-gray-700 leading-relaxed">
                             Yes, Odisha has several state-specific holidays and festivals. <strong>Rath Yatra</strong>,
@@ -1165,7 +1165,7 @@
     <script>
         // JavaScript functionality
         // Holiday data for search functionality
-        const holidaysData = <?php echo json_encode($all_holidays_2025); ?>;
+        const holidaysData = <?php echo json_encode($all_holidays_2026); ?>;
         function searchHolidays() {
             const searchTerm = document.getElementById('searchInput').value.toLowerCase();
             const filterType = document.getElementById('filterType').value;
@@ -1267,21 +1267,21 @@
         }
         function downloadCalendar() {
             // Create a simple text version for download
-            const content = `Odisha Holidays 2025
+            const content = `Odisha Holidays 2026
 `;
             const blob = new Blob([content], { type: 'text/plain' });
             const url = window.URL.createObjectURL(blob);
             const a = document.createElement('a');
             a.href = url;
-            a.download = 'odisha-holidays-2025.txt';
+            a.download = 'odisha-holidays-2026.txt';
             a.click();
             window.URL.revokeObjectURL(url);
         }
         function shareCalendar() {
             if (navigator.share) {
                 navigator.share({
-                    title: 'Odisha Holidays 2025',
-                    text: 'Check out the Odisha holiday calendar for 2025!',
+                    title: 'Odisha Holidays 2026',
+                    text: 'Check out the Odisha holiday calendar for 2026!',
                     url: window.location.href
                 });
             } else {

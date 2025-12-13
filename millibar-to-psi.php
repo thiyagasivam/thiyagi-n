@@ -1,19 +1,19 @@
 <?php include 'header.php'; ?>
 
 <!-- SEO Meta Tags -->
-<title>Millibar to PSI Converter 2025 - Pressure Calculator | Thiyagi</title>
-<meta name="description" content="Free online millibar to PSI converter 2025. Convert mbar to psi instantly with accurate pressure conversion for meteorology and engineering.">
-<meta name="keywords" content="millibar to PSI converter 2025, mbar to psi, pressure converter, meteorology calculator, engineering converter">
+<title>Millibar to PSI Converter 2026 - Pressure Calculator | Thiyagi</title>
+<meta name="description" content="Free online millibar to PSI converter 2026. Convert mbar to psi instantly with accurate pressure conversion for meteorology and engineering.">
+<meta name="keywords" content="millibar to PSI converter 2026, mbar to psi, pressure converter, meteorology calculator, engineering converter">
 <meta name="author" content="Thiyagi">
-<meta property="og:title" content="Millibar to PSI Converter 2025 - Pressure Calculator">
-<meta property="og:description" content="Free online millibar to PSI converter 2025. Convert mbar to psi instantly with accurate pressure conversion.">
+<meta property="og:title" content="Millibar to PSI Converter 2026 - Pressure Calculator">
+<meta property="og:description" content="Free online millibar to PSI converter 2026. Convert mbar to psi instantly with accurate pressure conversion.">
 <meta property="og:type" content="website">
 <meta property="og:url" content="https://www.thiyagi.com/millibar-to-psi.php">
 <meta property="og:image" content="https://www.thiyagi.com/nt.png">
 <meta property="og:site_name" content="Thiyagi">
 <meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:title" content="Millibar to PSI Converter 2025 - Pressure Calculator">
-<meta name="twitter:description" content="Free online millibar to PSI converter 2025. Convert mbar to psi instantly.">
+<meta name="twitter:title" content="Millibar to PSI Converter 2026 - Pressure Calculator">
+<meta name="twitter:description" content="Free online millibar to PSI converter 2026. Convert mbar to psi instantly.">
 <meta name="twitter:image" content="https://www.thiyagi.com/nt.png">
 
 <div class="min-h-screen bg-gradient-to-br from-blue-50 via-indigo-50 to-purple-50 py-12">

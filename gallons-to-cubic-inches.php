@@ -1,19 +1,19 @@
 <?php include 'header.php'; ?>
 
 <!-- SEO Meta Tags -->
-<title>Gallons to Cubic Inches Converter 2025 - gal to in³ Calculator | Thiyagi</title>
-<meta name="description" content="Free online gallons to cubic inches converter 2025. Convert gal to in³ and in³ to gal instantly with accurate volume conversion.">
-<meta name="keywords" content="gallons to cubic inches converter 2025, gal to in³, volume converter, imperial volume units, liquid measurements">
+<title>Gallons to Cubic Inches Converter 2026 - gal to in³ Calculator | Thiyagi</title>
+<meta name="description" content="Free online gallons to cubic inches converter 2026. Convert gal to in³ and in³ to gal instantly with accurate volume conversion.">
+<meta name="keywords" content="gallons to cubic inches converter 2026, gal to in³, volume converter, imperial volume units, liquid measurements">
 <meta name="author" content="Thiyagi">
-<meta property="og:title" content="Gallons to Cubic Inches Converter 2025 - gal to in³ Calculator">
-<meta property="og:description" content="Free online gallons to cubic inches converter 2025. Convert gal to in³ and in³ to gal instantly.">
+<meta property="og:title" content="Gallons to Cubic Inches Converter 2026 - gal to in³ Calculator">
+<meta property="og:description" content="Free online gallons to cubic inches converter 2026. Convert gal to in³ and in³ to gal instantly.">
 <meta property="og:type" content="website">
 <meta property="og:url" content="https://www.thiyagi.com/gallons-to-cubic-inches.php">
 <meta property="og:image" content="https://www.thiyagi.com/nt.png">
 <meta property="og:site_name" content="Thiyagi">
 <meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:title" content="Gallons to Cubic Inches Converter 2025 - gal to in³ Calculator">
-<meta name="twitter:description" content="Free online gallons to cubic inches converter 2025. Convert gal to in³ and in³ to gal instantly.">
+<meta name="twitter:title" content="Gallons to Cubic Inches Converter 2026 - gal to in³ Calculator">
+<meta name="twitter:description" content="Free online gallons to cubic inches converter 2026. Convert gal to in³ and in³ to gal instantly.">
 <meta name="twitter:image" content="https://www.thiyagi.com/nt.png">
 
 <div class="min-h-screen bg-gradient-to-br from-blue-50 via-cyan-50 to-teal-50 py-12">

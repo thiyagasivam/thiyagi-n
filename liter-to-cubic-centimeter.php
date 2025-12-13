@@ -1,19 +1,19 @@
 <?php include 'header.php'; ?>
 
 <!-- SEO Meta Tags -->
-<title>Liter to Cubic Centimeter Converter 2025 - Volume Calculator | Thiyagi</title>
-<meta name="description" content="Free online liter to cubic centimeter converter 2025. Convert L to cm³ instantly with accurate volume conversion for laboratory and engineering use.">
-<meta name="keywords" content="liter to cubic centimeter converter 2025, L to cm3, volume converter, laboratory calculator, engineering converter">
+<title>Liter to Cubic Centimeter Converter 2026 - Volume Calculator | Thiyagi</title>
+<meta name="description" content="Free online liter to cubic centimeter converter 2026. Convert L to cm³ instantly with accurate volume conversion for laboratory and engineering use.">
+<meta name="keywords" content="liter to cubic centimeter converter 2026, L to cm3, volume converter, laboratory calculator, engineering converter">
 <meta name="author" content="Thiyagi">
-<meta property="og:title" content="Liter to Cubic Centimeter Converter 2025 - Volume Calculator">
-<meta property="og:description" content="Free online liter to cubic centimeter converter 2025. Convert L to cm³ instantly with accurate volume conversion.">
+<meta property="og:title" content="Liter to Cubic Centimeter Converter 2026 - Volume Calculator">
+<meta property="og:description" content="Free online liter to cubic centimeter converter 2026. Convert L to cm³ instantly with accurate volume conversion.">
 <meta property="og:type" content="website">
 <meta property="og:url" content="https://www.thiyagi.com/liter-to-cubic-centimeter.php">
 <meta property="og:image" content="https://www.thiyagi.com/nt.png">
 <meta property="og:site_name" content="Thiyagi">
 <meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:title" content="Liter to Cubic Centimeter Converter 2025 - Volume Calculator">
-<meta name="twitter:description" content="Free online liter to cubic centimeter converter 2025. Convert L to cm³ instantly.">
+<meta name="twitter:title" content="Liter to Cubic Centimeter Converter 2026 - Volume Calculator">
+<meta name="twitter:description" content="Free online liter to cubic centimeter converter 2026. Convert L to cm³ instantly.">
 <meta name="twitter:image" content="https://www.thiyagi.com/nt.png">
 
 <div class="min-h-screen bg-gradient-to-br from-blue-50 via-indigo-50 to-blue-50 py-12">

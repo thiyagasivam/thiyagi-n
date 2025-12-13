@@ -1,19 +1,19 @@
 <?php include 'header.php'; ?>
 
 <!-- SEO Meta Tags -->
-<title>Micrometer to Centimeter Converter 2025 - µm to cm Calculator | Thiyagi</title>
-<meta name="description" content="Free online Micrometer to Centimeter converter 2025. Convert µm to cm and cm to µm instantly with accurate metric length conversion.">
-<meta name="keywords" content="micrometer to centimeter converter 2025, µm to cm, micron to centimeter, metric converter, scientific measurement">
+<title>Micrometer to Centimeter Converter 2026 - µm to cm Calculator | Thiyagi</title>
+<meta name="description" content="Free online Micrometer to Centimeter converter 2026. Convert µm to cm and cm to µm instantly with accurate metric length conversion.">
+<meta name="keywords" content="micrometer to centimeter converter 2026, µm to cm, micron to centimeter, metric converter, scientific measurement">
 <meta name="author" content="Thiyagi">
-<meta property="og:title" content="Micrometer to Centimeter Converter 2025 - µm to cm Calculator">
-<meta property="og:description" content="Free online Micrometer to Centimeter converter 2025. Convert µm to cm and cm to µm instantly.">
+<meta property="og:title" content="Micrometer to Centimeter Converter 2026 - µm to cm Calculator">
+<meta property="og:description" content="Free online Micrometer to Centimeter converter 2026. Convert µm to cm and cm to µm instantly.">
 <meta property="og:type" content="website">
 <meta property="og:url" content="https://www.thiyagi.com/micrometer-to-centimeter.php">
 <meta property="og:image" content="https://www.thiyagi.com/nt.png">
 <meta property="og:site_name" content="Thiyagi">
 <meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:title" content="Micrometer to Centimeter Converter 2025 - µm to cm Calculator">
-<meta name="twitter:description" content="Free online Micrometer to Centimeter converter 2025. Convert µm to cm and cm to µm instantly.">
+<meta name="twitter:title" content="Micrometer to Centimeter Converter 2026 - µm to cm Calculator">
+<meta name="twitter:description" content="Free online Micrometer to Centimeter converter 2026. Convert µm to cm and cm to µm instantly.">
 <meta name="twitter:image" content="https://www.thiyagi.com/nt.png">
 
 <div class="min-h-screen bg-gradient-to-br from-violet-50 via-purple-50 to-indigo-50 py-12">

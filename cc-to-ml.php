@@ -1,12 +1,12 @@
 <?php include 'header.php';?>
-<title>CC to ML Converter 2025 | Cubic Centimeters to Milliliters Calculator | Free Tool</title>
-<meta name="description" content="Professional CC to ML converter 2025. Convert cubic centimeters to milliliters instantly with precision calculations. Perfect for medical, automotive, and laboratory use.">
-<meta name="keywords" content="cc to ml converter 2025, cubic centimeters to milliliters calculator, medical volume converter, automotive cc to ml, laboratory measurements">
+<title>CC to ML Converter 2026 | Cubic Centimeters to Milliliters Calculator | Free Tool</title>
+<meta name="description" content="Professional CC to ML converter 2026. Convert cubic centimeters to milliliters instantly with precision calculations. Perfect for medical, automotive, and laboratory use.">
+<meta name="keywords" content="cc to ml converter 2026, cubic centimeters to milliliters calculator, medical volume converter, automotive cc to ml, laboratory measurements">
 <link rel="canonical" href="https://www.thiyagi.com/cc-to-ml">
 
 <!-- Open Graph Meta Tags -->
-<meta property="og:title" content="CC to ML Converter 2025 | Cubic Centimeters to Milliliters Calculator | Free Tool">
-<meta property="og:description" content="Professional CC to ML converter 2025. Convert cubic centimeters to milliliters instantly with precision calculations. Perfect for medical, automotive, and laboratory use.">
+<meta property="og:title" content="CC to ML Converter 2026 | Cubic Centimeters to Milliliters Calculator | Free Tool">
+<meta property="og:description" content="Professional CC to ML converter 2026. Convert cubic centimeters to milliliters instantly with precision calculations. Perfect for medical, automotive, and laboratory use.">
 <meta property="og:url" content="https://www.thiyagi.com/cc-to-ml">
 <meta property="og:type" content="website">
 <meta property="og:image" content="https://www.thiyagi.com/nt.png">
@@ -14,8 +14,8 @@
 
 <!-- Twitter Card Meta Tags -->
 <meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:title" content="CC to ML Converter 2025 | Cubic Centimeters to Milliliters Calculator | Free Tool">
-<meta name="twitter:description" content="Professional CC to ML converter 2025. Convert cubic centimeters to milliliters instantly with precision calculations. Perfect for medical, automotive, and laboratory use.">
+<meta name="twitter:title" content="CC to ML Converter 2026 | Cubic Centimeters to Milliliters Calculator | Free Tool">
+<meta name="twitter:description" content="Professional CC to ML converter 2026. Convert cubic centimeters to milliliters instantly with precision calculations. Perfect for medical, automotive, and laboratory use.">
 <meta name="twitter:image" content="https://www.thiyagi.com/nt.png">
 
 <!-- Additional SEO Meta Tags -->
@@ -102,7 +102,7 @@
         </div>
         <h1 class="text-4xl md:text-6xl font-bold text-gray-900 mb-6">
           CC to ML Converter
-          <span class="block text-2xl md:text-3xl text-emerald-600 mt-2">Professional 2025</span>
+          <span class="block text-2xl md:text-3xl text-emerald-600 mt-2">Professional 2026</span>
         </h1>
         <p class="text-xl text-gray-600 mb-8 max-w-4xl mx-auto leading-relaxed">
           Convert cubic centimeters (cc) to milliliters (ml) with professional-grade precision. Perfect for medical dosages, 

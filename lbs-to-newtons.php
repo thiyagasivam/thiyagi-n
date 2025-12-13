@@ -1,12 +1,12 @@
 <?php include 'header.php';?>
-<title>Pounds to Newtons Converter 2025 | lbs to N | Free Force Tool</title>
-<meta name="description" content="Convert pounds to newtons instantly with our 2025 accurate converter. Perfect lbs to N conversion with real-time calculations for physics and engineering force measurements.">
-<meta name="keywords" content="pounds to newtons converter 2025, lbs to newtons converter, pound newton conversion, force converter 2025, physics calculations, engineering force, mechanics measurements, weight to force">
+<title>Pounds to Newtons Converter 2026 | lbs to N | Free Force Tool</title>
+<meta name="description" content="Convert pounds to newtons instantly with our 2026 accurate converter. Perfect lbs to N conversion with real-time calculations for physics and engineering force measurements.">
+<meta name="keywords" content="pounds to newtons converter 2026, lbs to newtons converter, pound newton conversion, force converter 2026, physics calculations, engineering force, mechanics measurements, weight to force">
 <link rel="canonical" href="https://www.thiyagi.com/lbs-to-newtons">
 
 <!-- Open Graph Meta Tags -->
-<meta property="og:title" content="Pounds to Newtons Converter 2025 | lbs to N | Free Force Tool">
-<meta property="og:description" content="Convert pounds to newtons instantly with our 2025 accurate converter. Perfect lbs to N conversion with real-time calculations for physics and engineering force measurements.">
+<meta property="og:title" content="Pounds to Newtons Converter 2026 | lbs to N | Free Force Tool">
+<meta property="og:description" content="Convert pounds to newtons instantly with our 2026 accurate converter. Perfect lbs to N conversion with real-time calculations for physics and engineering force measurements.">
 <meta property="og:url" content="https://www.thiyagi.com/lbs-to-newtons">
 <meta property="og:type" content="website">
 <meta property="og:image" content="https://www.thiyagi.com/nt.png">
@@ -14,8 +14,8 @@
 
 <!-- Twitter Card Meta Tags -->
 <meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:title" content="Pounds to Newtons Converter 2025 | lbs to N | Free Force Tool">
-<meta name="twitter:description" content="Convert pounds to newtons instantly with our 2025 accurate converter. Perfect lbs to N conversion with real-time calculations for physics and engineering force measurements.">
+<meta name="twitter:title" content="Pounds to Newtons Converter 2026 | lbs to N | Free Force Tool">
+<meta name="twitter:description" content="Convert pounds to newtons instantly with our 2026 accurate converter. Perfect lbs to N conversion with real-time calculations for physics and engineering force measurements.">
 <meta name="twitter:image" content="https://www.thiyagi.com/nt.png">
 
 <!-- Additional SEO Meta Tags -->
@@ -47,7 +47,7 @@
   "@context": "https://schema.org",
   "@type": "WebApplication",
   "name": "Pounds to Newtons Converter",
-  "description": "Convert pounds to newtons instantly with our accurate 2025 calculator. Perfect lbs to N conversion with real-time calculations for physics and engineering force measurements.",
+  "description": "Convert pounds to newtons instantly with our accurate 2026 calculator. Perfect lbs to N conversion with real-time calculations for physics and engineering force measurements.",
   "url": "https://www.thiyagi.com/lbs-to-newtons",
   "applicationCategory": "UtilityApplication",
   "operatingSystem": "Web Browser",
@@ -187,7 +187,7 @@
           Pounds to Newtons Converter
         </h1>
         <p class="text-xl text-gray-600 mb-8 max-w-3xl mx-auto">
-          Convert pounds to newtons instantly with our accurate 2025 calculator. 
+          Convert pounds to newtons instantly with our accurate 2026 calculator. 
           Perfect for physics calculations, engineering force analysis, and scientific measurements.
         </p>
       </div>

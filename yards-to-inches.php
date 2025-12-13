@@ -5,9 +5,9 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Yards to Inches Converter 2025 - Length Conversion Calculator</title>
-    <meta name="description" content="Convert yards to inches with our free 2025 online calculator. Accurate length conversion between yards and inches for measurements.">
-    <meta name="keywords" content="yards to inches converter 2025, yd to in, length converter, inch calculator 2025">
+    <title>Yards to Inches Converter 2026 - Length Conversion Calculator</title>
+    <meta name="description" content="Convert yards to inches with our free 2026 online calculator. Accurate length conversion between yards and inches for measurements.">
+    <meta name="keywords" content="yards to inches converter 2026, yd to in, length converter, inch calculator 2026">
     <script src="https://cdn.tailwindcss.com"></script>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
 </head>

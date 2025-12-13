@@ -48,8 +48,8 @@ try {
 
     // Add static/default content for other fields
     $center['email'] = 'export.crompton@crompton.co.in';
-    $center['page_title'] = $center['shop_name'] . ' | Crompton Service Center Near Me 2025';
-    $center['about'] = $center['shop_name'] .' is an authorized Crompton service center Near Me 2025 providing expert repairs and maintenance for all Crompton fans, appliances, and electrical products.';
+    $center['page_title'] = $center['shop_name'] . ' | Crompton Service Center Near Me 2026';
+    $center['about'] = $center['shop_name'] .' is an authorized Crompton service center Near Me 2026 providing expert repairs and maintenance for all Crompton fans, appliances, and electrical products.';
     
     $center['services'] = [
         'Fan Repair and Servicing',

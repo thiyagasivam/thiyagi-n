@@ -1,12 +1,12 @@
 <?php include 'header.php';?>
-<title>Yard to Meter Converter 2025 | Yard to Metre | Free Tool</title>
-<meta name="description" content="Convert yard to meter instantly with our 2025 accurate converter. Perfect yard to metre conversion with real-time calculations for international use.">
-<meta name="keywords" content="yard to meter 2025, yard metre converter, imperial metric conversion 2025, international measurement calculator, sports conversion">
+<title>Yard to Meter Converter 2026 | Yard to Metre | Free Tool</title>
+<meta name="description" content="Convert yard to meter instantly with our 2026 accurate converter. Perfect yard to metre conversion with real-time calculations for international use.">
+<meta name="keywords" content="yard to meter 2026, yard metre converter, imperial metric conversion 2026, international measurement calculator, sports conversion">
 <link rel="canonical" href="https://www.thiyagi.com/yard-to-meter">
 
 <!-- Open Graph Meta Tags -->
-<meta property="og:title" content="Yard to Meter Converter 2025 | Yard to Metre | Free Tool">
-<meta property="og:description" content="Convert yard to meter instantly with our 2025 accurate converter. Perfect yard to metre conversion with real-time calculations for international use.">
+<meta property="og:title" content="Yard to Meter Converter 2026 | Yard to Metre | Free Tool">
+<meta property="og:description" content="Convert yard to meter instantly with our 2026 accurate converter. Perfect yard to metre conversion with real-time calculations for international use.">
 <meta property="og:url" content="https://www.thiyagi.com/yard-to-meter">
 <meta property="og:type" content="website">
 <meta property="og:image" content="https://www.thiyagi.com/nt.png">
@@ -14,8 +14,8 @@
 
 <!-- Twitter Card Meta Tags -->
 <meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:title" content="Yard to Meter Converter 2025 | Yard to Metre | Free Tool">
-<meta name="twitter:description" content="Convert yard to meter instantly with our 2025 accurate converter. Perfect yard to metre conversion with real-time calculations for international use.">
+<meta name="twitter:title" content="Yard to Meter Converter 2026 | Yard to Metre | Free Tool">
+<meta name="twitter:description" content="Convert yard to meter instantly with our 2026 accurate converter. Perfect yard to metre conversion with real-time calculations for international use.">
 <meta name="twitter:image" content="https://www.thiyagi.com/nt.png">
 
 <!-- Additional SEO Meta Tags -->
@@ -39,7 +39,7 @@
           Yard to Meter Converter
         </h1>
         <p class="text-xl text-gray-600 mb-8 max-w-3xl mx-auto">
-          Convert yards to meters instantly with our accurate 2025 calculator. 
+          Convert yards to meters instantly with our accurate 2026 calculator. 
           Perfect for international sports, construction, and measurement conversions.
         </p>
       </div>
@@ -157,16 +157,16 @@
     <article class="bg-white rounded-xl shadow-lg p-8">
       <h2 class="text-2xl font-bold text-gray-800 mb-6 flex items-center gap-3">
         <i class="fas fa-info-circle text-purple-600" aria-hidden="true"></i>
-        Yard to Meter Conversion 2025
+        Yard to Meter Conversion 2026
       </h2>
       <div class="prose max-w-none text-gray-600">
         <p class="mb-4">
-          Converting yards to meters is essential for international sports, construction, and measurement applications in 2025. 
+          Converting yards to meters is essential for international sports, construction, and measurement applications in 2026. 
           This imperial to metric conversion enables accurate communication between professionals working with both measurement systems 
           across different countries and international projects.
         </p>
         <p class="mb-6">
-          Our 2025 converter provides instant and accurate conversions from yards to meters, essential for international athletes, 
+          Our 2026 converter provides instant and accurate conversions from yards to meters, essential for international athletes, 
           global construction projects, and professionals working with international specifications. 
           One yard equals approximately 0.9144 meters.
         </p>

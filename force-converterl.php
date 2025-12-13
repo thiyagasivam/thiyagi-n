@@ -1,19 +1,19 @@
 <?php include 'header.php'; ?>
 
 <!-- SEO Meta Tags -->
-<title>Force Converter 2025 - Universal Force Calculator | Thiyagi</title>
-<meta name="description" content="Free online force converter 2025. Convert between Newton, Pound-force, Kilogram-force, and Dyne instantly with accurate force conversion.">
-<meta name="keywords" content="force converter 2025, newton pound-force, kilogram-force dyne, universal force calculator, physics converter">
+<title>Force Converter 2026 - Universal Force Calculator | Thiyagi</title>
+<meta name="description" content="Free online force converter 2026. Convert between Newton, Pound-force, Kilogram-force, and Dyne instantly with accurate force conversion.">
+<meta name="keywords" content="force converter 2026, newton pound-force, kilogram-force dyne, universal force calculator, physics converter">
 <meta name="author" content="Thiyagi">
-<meta property="og:title" content="Force Converter 2025 - Universal Force Calculator">
-<meta property="og:description" content="Free online force converter 2025. Convert between all force units instantly.">
+<meta property="og:title" content="Force Converter 2026 - Universal Force Calculator">
+<meta property="og:description" content="Free online force converter 2026. Convert between all force units instantly.">
 <meta property="og:type" content="website">
 <meta property="og:url" content="https://www.thiyagi.com/force-converterl.php">
 <meta property="og:image" content="https://www.thiyagi.com/nt.png">
 <meta property="og:site_name" content="Thiyagi">
 <meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:title" content="Force Converter 2025 - Universal Force Calculator">
-<meta name="twitter:description" content="Free online force converter 2025. Convert between all force units instantly.">
+<meta name="twitter:title" content="Force Converter 2026 - Universal Force Calculator">
+<meta name="twitter:description" content="Free online force converter 2026. Convert between all force units instantly.">
 <meta name="twitter:image" content="https://www.thiyagi.com/nt.png">
 
 <div class="min-h-screen bg-gradient-to-br from-red-50 via-orange-50 to-yellow-50 py-12">

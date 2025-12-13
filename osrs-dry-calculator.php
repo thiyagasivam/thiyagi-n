@@ -3,14 +3,14 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>OSRS Dry Calculator 2025 - Old School RuneScape Drop Rate Calculator | Thiyagi.com</title>
-    <meta name="description" content="Calculate OSRS drop rates and dry streak probabilities. Free Old School RuneScape dry calculator 2025 with boss drops, rare items, and probability statistics for all OSRS content.">
-    <meta name="keywords" content="OSRS dry calculator 2025, Old School RuneScape drop calculator, OSRS drop rates, RuneScape probability calculator, OSRS boss drops, dry streak calculator, OSRS RNG calculator">
+    <title>OSRS Dry Calculator 2026 - Old School RuneScape Drop Rate Calculator | Thiyagi.com</title>
+    <meta name="description" content="Calculate OSRS drop rates and dry streak probabilities. Free Old School RuneScape dry calculator 2026 with boss drops, rare items, and probability statistics for all OSRS content.">
+    <meta name="keywords" content="OSRS dry calculator 2026, Old School RuneScape drop calculator, OSRS drop rates, RuneScape probability calculator, OSRS boss drops, dry streak calculator, OSRS RNG calculator">
     <meta name="author" content="Thiyagi">
     <meta name="robots" content="index, follow">
     
     <!-- Open Graph Meta Tags -->
-    <meta property="og:title" content="OSRS Dry Calculator 2025 - Old School RuneScape Drop Rate Calculator">
+    <meta property="og:title" content="OSRS Dry Calculator 2026 - Old School RuneScape Drop Rate Calculator">
     <meta property="og:description" content="Calculate OSRS drop rates and dry streak probabilities. Free Old School RuneScape dry calculator with boss drops and rare item statistics.">
     <meta property="og:url" content="https://www.thiyagi.com/osrs-dry-calculator">
     <meta property="og:type" content="website">
@@ -18,7 +18,7 @@
     
     <!-- Twitter Card Meta Tags -->
     <meta name="twitter:card" content="summary_large_image">
-    <meta name="twitter:title" content="OSRS Dry Calculator 2025 - Old School RuneScape Drop Rate Calculator">
+    <meta name="twitter:title" content="OSRS Dry Calculator 2026 - Old School RuneScape Drop Rate Calculator">
     <meta name="twitter:description" content="Calculate OSRS drop rates and dry streak probabilities. Free Old School RuneScape dry calculator with boss drops and rare item statistics.">
     <meta name="twitter:image" content="https://www.thiyagi.com/nt.png">
     
@@ -83,7 +83,7 @@
 {
   "@context": "https://schema.org",
   "@type": "WebApplication",
-  "name": "OSRS Dry Calculator 2025",
+  "name": "OSRS Dry Calculator 2026",
   "description": "Calculate Old School RuneScape drop rates, dry streak probabilities, and RNG statistics for bosses, raids, and rare items with comprehensive OSRS drop rate data.",
   "url": "https://www.thiyagi.com/osrs-dry-calculator",
   "applicationCategory": "GameApplication",

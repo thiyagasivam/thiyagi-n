@@ -1,19 +1,19 @@
 <?php include 'header.php'; ?>
 
 <!-- SEO Meta Tags -->
-<title>Newton Meter to Kilogram Force Meter Converter 2025 - N·m to kgf·m Calculator | Thiyagi</title>
-<meta name="description" content="Free online Newton Meter to Kilogram Force Meter converter 2025. Convert N·m to kgf·m and kgf·m to N·m instantly with accurate torque conversion.">
-<meta name="keywords" content="newton meter to kilogram force meter converter 2025, N·m to kgf·m, torque conversion, mechanical engineering, force units">
+<title>Newton Meter to Kilogram Force Meter Converter 2026 - N·m to kgf·m Calculator | Thiyagi</title>
+<meta name="description" content="Free online Newton Meter to Kilogram Force Meter converter 2026. Convert N·m to kgf·m and kgf·m to N·m instantly with accurate torque conversion.">
+<meta name="keywords" content="newton meter to kilogram force meter converter 2026, N·m to kgf·m, torque conversion, mechanical engineering, force units">
 <meta name="author" content="Thiyagi">
-<meta property="og:title" content="Newton Meter to Kilogram Force Meter Converter 2025 - N·m to kgf·m Calculator">
-<meta property="og:description" content="Free online Newton Meter to Kilogram Force Meter converter 2025. Convert N·m to kgf·m and kgf·m to N·m instantly.">
+<meta property="og:title" content="Newton Meter to Kilogram Force Meter Converter 2026 - N·m to kgf·m Calculator">
+<meta property="og:description" content="Free online Newton Meter to Kilogram Force Meter converter 2026. Convert N·m to kgf·m and kgf·m to N·m instantly.">
 <meta property="og:type" content="website">
 <meta property="og:url" content="https://www.thiyagi.com/newton-meter-to-kilogram-force-meter.php">
 <meta property="og:image" content="https://www.thiyagi.com/nt.png">
 <meta property="og:site_name" content="Thiyagi">
 <meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:title" content="Newton Meter to Kilogram Force Meter Converter 2025 - N·m to kgf·m Calculator">
-<meta property="twitter:description" content="Free online Newton Meter to Kilogram Force Meter converter 2025. Convert N·m to kgf·m and kgf·m to N·m instantly.">
+<meta name="twitter:title" content="Newton Meter to Kilogram Force Meter Converter 2026 - N·m to kgf·m Calculator">
+<meta property="twitter:description" content="Free online Newton Meter to Kilogram Force Meter converter 2026. Convert N·m to kgf·m and kgf·m to N·m instantly.">
 <meta name="twitter:image" content="https://www.thiyagi.com/nt.png">
 
 <div class="min-h-screen bg-gradient-to-br from-orange-50 via-amber-50 to-yellow-50 py-12">

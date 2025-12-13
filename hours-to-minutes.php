@@ -1,7 +1,7 @@
 <?php include 'header.php'; ?>
-<title>Hours to Minutes Converter 2025 | Time Conversion Tool | Free Calculator</title>
-<meta name="description" content="Convert hours to minutes instantly with our 2025 accurate time converter. Perfect for scheduling, time management, and duration calculations.">
-<meta name="keywords" content="hours to minutes converter 2025, time conversion calculator, hour minute converter, scheduling tool, time management">
+<title>Hours to Minutes Converter 2026 | Time Conversion Tool | Free Calculator</title>
+<meta name="description" content="Convert hours to minutes instantly with our 2026 accurate time converter. Perfect for scheduling, time management, and duration calculations.">
+<meta name="keywords" content="hours to minutes converter 2026, time conversion calculator, hour minute converter, scheduling tool, time management">
 <link rel="canonical" href="https://www.thiyagi.com/hours-to-minutes">
 
 <div class="min-h-screen bg-gradient-to-br from-emerald-50 to-emerald-100 py-12 px-4 sm:px-6 lg:px-8">

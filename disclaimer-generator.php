@@ -57,8 +57,8 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Free Disclaimer Generator 2025 – Create Custom Legal Disclaimers in Minutes</title>
-    <meta name="description" content="Generate professional, legally compliant disclaimers for your website, app, or business with our free 2025 tool. No legal fees—customize and download instantly!">
+    <title>Free Disclaimer Generator 2026 – Create Custom Legal Disclaimers in Minutes</title>
+    <meta name="description" content="Generate professional, legally compliant disclaimers for your website, app, or business with our free 2026 tool. No legal fees—customize and download instantly!">
     <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" rel="stylesheet">
     <style>
         /* Custom styles */

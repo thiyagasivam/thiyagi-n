@@ -3,14 +3,14 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>PayPal Fee Calculator 2025 - Calculate Transaction Fees | Thiyagi.com</title>
-    <meta name="description" content="PayPal fee calculator 2025 - calculate payment processing fees for domestic, international, and business transactions with accurate pricing breakdown.">
-    <meta name="keywords" content="paypal calculator 2025, payment fees calculator, paypal processing costs, transaction fee calculator, online payment fees">
+    <title>PayPal Fee Calculator 2026 - Calculate Transaction Fees | Thiyagi.com</title>
+    <meta name="description" content="PayPal fee calculator 2026 - calculate payment processing fees for domestic, international, and business transactions with accurate pricing breakdown.">
+    <meta name="keywords" content="paypal calculator 2026, payment fees calculator, paypal processing costs, transaction fee calculator, online payment fees">
     <meta name="author" content="Thiyagi">
     <meta name="robots" content="index, follow">
     
     <!-- Open Graph Meta Tags -->
-    <meta property="og:title" content="PayPal Fee Calculator 2025 - Calculate Transaction Fees">
+    <meta property="og:title" content="PayPal Fee Calculator 2026 - Calculate Transaction Fees">
     <meta property="og:description" content="Calculate accurate PayPal payment processing fees for all transaction types.">
     <meta property="og:url" content="https://www.thiyagi.com/paypal-fee-calculator">
     <meta property="og:type" content="website">
@@ -18,7 +18,7 @@
     
     <!-- Twitter Card Meta Tags -->
     <meta name="twitter:card" content="summary_large_image">
-    <meta name="twitter:title" content="PayPal Fee Calculator 2025 - Calculate Transaction Fees">
+    <meta name="twitter:title" content="PayPal Fee Calculator 2026 - Calculate Transaction Fees">
     <meta name="twitter:description" content="Calculate PayPal payment processing fees with our comprehensive calculator.">
     <meta name="twitter:image" content="https://www.thiyagi.com/nt.png">
     
@@ -78,7 +78,7 @@
 {
   "@context": "https://schema.org",
   "@type": "WebApplication",
-  "name": "PayPal Fee Calculator 2025",
+  "name": "PayPal Fee Calculator 2026",
   "description": "Calculate PayPal payment processing fees for domestic, international, and business transactions with accurate pricing breakdown.",
   "url": "https://www.thiyagi.com/paypal-fee-calculator",
   "applicationCategory": "FinanceApplication",

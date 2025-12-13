@@ -5,9 +5,9 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Ton Register to Cubic Yard Converter 2025 - Volume Conversion Calculator</title>
-    <meta name="description" content="Convert ton register to cubic yards with our free 2025 online calculator. Accurate volume conversion for shipping and maritime calculations.">
-    <meta name="keywords" content="ton register to cubic yard converter 2025, register ton to yd³, shipping volume converter, maritime calculator 2025">
+    <title>Ton Register to Cubic Yard Converter 2026 - Volume Conversion Calculator</title>
+    <meta name="description" content="Convert ton register to cubic yards with our free 2026 online calculator. Accurate volume conversion for shipping and maritime calculations.">
+    <meta name="keywords" content="ton register to cubic yard converter 2026, register ton to yd³, shipping volume converter, maritime calculator 2026">
     <script src="https://cdn.tailwindcss.com"></script>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
 </head>

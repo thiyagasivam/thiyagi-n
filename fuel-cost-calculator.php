@@ -25,30 +25,30 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Fuel Cost Calculator 2025 - Calculate Your Travel Fuel Expenses</title>
-    <meta name="description" content="2025 Fuel Cost Calculator: Instantly estimate your travel fuel expenses for any trip, commute, or journey. Modern, SEO-friendly, mobile-ready tool for India and worldwide.">
-    <meta name="keywords" content="fuel cost calculator 2025, travel fuel cost, mileage calculator, petrol calculator, trip cost, india, online tool">
+    <title>Fuel Cost Calculator 2026 - Calculate Your Travel Fuel Expenses</title>
+    <meta name="description" content="2026 Fuel Cost Calculator: Instantly estimate your travel fuel expenses for any trip, commute, or journey. Modern, SEO-friendly, mobile-ready tool for India and worldwide.">
+    <meta name="keywords" content="fuel cost calculator 2026, travel fuel cost, mileage calculator, petrol calculator, trip cost, india, online tool">
     <meta name="robots" content="index, follow">
     <link rel="canonical" href="https://www.thiyagi.com/fuel-cost-calculator">
     <!-- Open Graph / Facebook -->
     <meta property="og:type" content="website">
     <meta property="og:url" content="https://www.thiyagi.com/fuel-cost-calculator">
-    <meta property="og:title" content="Fuel Cost Calculator 2025 - Calculate Your Travel Fuel Expenses">
-    <meta property="og:description" content="2025 Fuel Cost Calculator: Instantly estimate your travel fuel expenses for any trip, commute, or journey. Modern, SEO-friendly, mobile-ready tool.">
+    <meta property="og:title" content="Fuel Cost Calculator 2026 - Calculate Your Travel Fuel Expenses">
+    <meta property="og:description" content="2026 Fuel Cost Calculator: Instantly estimate your travel fuel expenses for any trip, commute, or journey. Modern, SEO-friendly, mobile-ready tool.">
     <meta property="og:image" content="https://www.thiyagi.com/nt.png">
     <!-- Twitter -->
     <meta property="twitter:card" content="summary_large_image">
     <meta property="twitter:url" content="https://www.thiyagi.com/fuel-cost-calculator">
-    <meta property="twitter:title" content="Fuel Cost Calculator 2025 - Calculate Your Travel Fuel Expenses">
-    <meta property="twitter:description" content="2025 Fuel Cost Calculator: Instantly estimate your travel fuel expenses for any trip, commute, or journey. Modern, SEO-friendly, mobile-ready tool.">
+    <meta property="twitter:title" content="Fuel Cost Calculator 2026 - Calculate Your Travel Fuel Expenses">
+    <meta property="twitter:description" content="2026 Fuel Cost Calculator: Instantly estimate your travel fuel expenses for any trip, commute, or journey. Modern, SEO-friendly, mobile-ready tool.">
     <meta property="twitter:image" content="https://www.thiyagi.com/nt.png">
     <!-- JSON-LD Structured Data -->
     <script type="application/ld+json">
     {
         "@context": "https://schema.org",
         "@type": "WebApplication",
-        "name": "Fuel Cost Calculator 2025",
-        "description": "2025 Fuel Cost Calculator: Instantly estimate your travel fuel expenses for any trip, commute, or journey. Modern, SEO-friendly, mobile-ready tool.",
+        "name": "Fuel Cost Calculator 2026",
+        "description": "2026 Fuel Cost Calculator: Instantly estimate your travel fuel expenses for any trip, commute, or journey. Modern, SEO-friendly, mobile-ready tool.",
         "url": "https://www.thiyagi.com/fuel-cost-calculator",
         "applicationCategory": "FinanceApplication",
         "operatingSystem": "Any",
@@ -68,7 +68,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
             "Mileage calculation",
             "Trip planning",
             "SEO optimized",
-            "2025 updated"
+            "2026 updated"
         ]
     }
     </script>
@@ -78,17 +78,17 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
         "@type": "FAQPage",
         "mainEntity": [{
             "@type": "Question",
-            "name": "How do I calculate fuel cost for a trip in 2025?",
+            "name": "How do I calculate fuel cost for a trip in 2026?",
             "acceptedAnswer": {
                 "@type": "Answer",
-                "text": "Enter your trip distance, vehicle mileage, and current fuel price. The 2025 calculator gives instant results."
+                "text": "Enter your trip distance, vehicle mileage, and current fuel price. The 2026 calculator gives instant results."
             }
         },{
             "@type": "Question",
-            "name": "Is this fuel cost calculator updated for 2025?",
+            "name": "Is this fuel cost calculator updated for 2026?",
             "acceptedAnswer": {
                 "@type": "Answer",
-                "text": "Yes, this tool is updated for 2025 and works for all vehicles and fuel types."
+                "text": "Yes, this tool is updated for 2026 and works for all vehicles and fuel types."
             }
         },{
             "@type": "Question",
@@ -137,11 +137,11 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
                     <div class="p-6">
                         <div class="grid md:grid-cols-2 gap-4">
                             <a href="/distance-calculator" class="block p-4 bg-blue-50 rounded-lg hover:bg-blue-100 transition duration-200">
-                                <h4 class="font-semibold text-blue-800">Distance Calculator 2025</h4>
+                                <h4 class="font-semibold text-blue-800">Distance Calculator 2026</h4>
                                 <p class="text-blue-700 text-sm">Find distance between cities or locations</p>
                             </a>
                             <a href="/railway-bike-parcel-charges-calculator" class="block p-4 bg-green-50 rounded-lg hover:bg-green-100 transition duration-200">
-                                <h4 class="font-semibold text-green-800">Railway Bike Parcel Charges 2025</h4>
+                                <h4 class="font-semibold text-green-800">Railway Bike Parcel Charges 2026</h4>
                                 <p class="text-green-700 text-sm">Calculate Indian Railways bike parcel cost</p>
                             </a>
                         </div>
@@ -176,7 +176,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
                     <p class="text-black text-lg">Calculate your travel fuel expenses easily</p>
                 </div>
             </div>
-            <h2 class="text-xl font-semibold text-yellow-700 mb-4 text-center">Fuel Cost Calculator Form 2025</h2>
+            <h2 class="text-xl font-semibold text-yellow-700 mb-4 text-center">Fuel Cost Calculator Form 2026</h2>
             <div class="bg-white rounded-xl shadow-2xl overflow-hidden">
                 <?php if ($error): ?>
                 <div class="bg-red-50 border-l-4 border-red-500 p-4">

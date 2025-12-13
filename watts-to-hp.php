@@ -1,19 +1,19 @@
 <?php include 'header.php'; ?>
 
 <!-- SEO Meta Tags -->
-<title>Watts to HP Converter 2025 - Power Calculator | Thiyagi</title>
-<meta name="description" content="Free online watts to horsepower converter 2025. Convert watts to HP instantly with accurate power conversion. Perfect for motor and engine power ratings.">
-<meta name="keywords" content="watts to hp converter 2025, watts to horsepower, power converter, motor calculator, engine power, electrical conversion">
+<title>Watts to HP Converter 2026 - Power Calculator | Thiyagi</title>
+<meta name="description" content="Free online watts to horsepower converter 2026. Convert watts to HP instantly with accurate power conversion. Perfect for motor and engine power ratings.">
+<meta name="keywords" content="watts to hp converter 2026, watts to horsepower, power converter, motor calculator, engine power, electrical conversion">
 <meta name="author" content="Thiyagi">
-<meta property="og:title" content="Watts to HP Converter 2025 - Power Calculator">
-<meta property="og:description" content="Free online watts to horsepower converter 2025. Convert watts to HP instantly with accurate power conversion.">
+<meta property="og:title" content="Watts to HP Converter 2026 - Power Calculator">
+<meta property="og:description" content="Free online watts to horsepower converter 2026. Convert watts to HP instantly with accurate power conversion.">
 <meta property="og:type" content="website">
 <meta property="og:url" content="https://www.thiyagi.com/watts-to-hp.php">
 <meta property="og:image" content="https://www.thiyagi.com/nt.png">
 <meta property="og:site_name" content="Thiyagi">
 <meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:title" content="Watts to HP Converter 2025 - Power Calculator">
-<meta name="twitter:description" content="Free online watts to horsepower converter 2025. Convert watts to HP instantly with accurate power conversion.">
+<meta name="twitter:title" content="Watts to HP Converter 2026 - Power Calculator">
+<meta name="twitter:description" content="Free online watts to horsepower converter 2026. Convert watts to HP instantly with accurate power conversion.">
 <meta name="twitter:image" content="https://www.thiyagi.com/nt.png">
 
 <div class="min-h-screen bg-gradient-to-br from-yellow-50 via-amber-50 to-orange-50 py-12">

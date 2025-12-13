@@ -7,7 +7,7 @@ class AdvancedSitemapGenerator {
     private $maxUrls = 50000; // Maximum URLs to process
     private $maxDepth = 5; // Maximum crawl depth
     private $timeout = 30; // Timeout for HTTP requests
-    private $userAgent = 'Mozilla/5.0 (compatible; Advanced Sitemap Generator 2025)';
+    private $userAgent = 'Mozilla/5.0 (compatible; Advanced Sitemap Generator 2026)';
     private $excludePatterns = [];
     private $includePatterns = [];
     

@@ -64,19 +64,19 @@ $breadcrumbSchema = [
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="Find authorized Honor service centers near me 2025. Expert smartphone repair services, genuine parts, warranty support. Get professional service for Honor Magic, X, and View series devices.">
-    <meta name="keywords" content="Honor service center near me 2025, Honor authorized service center, smartphone repair, mobile repair, Honor Magic series, Honor X series, Honor View series, screen replacement, battery replacement">
+    <meta name="description" content="Find authorized Honor service centers near me 2026. Expert smartphone repair services, genuine parts, warranty support. Get professional service for Honor Magic, X, and View series devices.">
+    <meta name="keywords" content="Honor service center near me 2026, Honor authorized service center, smartphone repair, mobile repair, Honor Magic series, Honor X series, Honor View series, screen replacement, battery replacement">
     <meta name="author" content="Honor Device">
     <meta name="robots" content="index, follow">
-    <meta property="og:title" content="Honor Authorized Service Centers Near Me 2025">
+    <meta property="og:title" content="Honor Authorized Service Centers Near Me 2026">
     <meta property="og:description" content="Find authorized Honor service centers near you. Expert smartphone repair services with genuine parts and warranty support for all Honor devices.">
     <meta property="og:type" content="website">
     <meta property="og:url" content="<?= htmlspecialchars($_SERVER['REQUEST_URI'], ENT_QUOTES, 'UTF-8') ?>">
     <meta property="og:image" content="/assets/images/honor-service-centers.jpg">
     <meta name="twitter:card" content="summary_large_image">
-    <meta name="twitter:title" content="Honor Authorized Service Centers Near Me 2025">
+    <meta name="twitter:title" content="Honor Authorized Service Centers Near Me 2026">
     <meta name="twitter:description" content="Find authorized Honor service centers near you. Expert smartphone repair services with genuine parts and warranty support.">
-    <title>Honor Authorized Service Centers Near Me 2025</title>
+    <title>Honor Authorized Service Centers Near Me 2026</title>
     <script src="https://cdn.tailwindcss.com"></script>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
     <style>
@@ -108,7 +108,7 @@ $breadcrumbSchema = [
     {
         "@context": "https://schema.org",
         "@type": "CollectionPage",
-        "name": "Honor Authorized Service Centers Near Me 2025",
+        "name": "Honor Authorized Service Centers Near Me 2026",
         "description": "Find authorized Honor service centers near you. Expert smartphone repair services with genuine parts and warranty support for all Honor devices.",
         "url": "<?= htmlspecialchars($_SERVER['REQUEST_URI'], ENT_QUOTES, 'UTF-8') ?>",
         "mainEntity": {
@@ -198,7 +198,7 @@ $breadcrumbSchema = [
             <div class="flex items-center justify-between">
                 <div class="flex items-center space-x-3">
                     <i class="fas fa-mobile-alt honor-primary text-2xl"></i>
-                    <h1 class="text-xl font-bold text-gray-800">Honor Service Centers Near Me 2025</h1>
+                    <h1 class="text-xl font-bold text-gray-800">Honor Service Centers Near Me 2026</h1>
                 </div>
                 <span class="bg-gray-100 text-gray-800 px-3 py-1 rounded-full text-sm">
                     <i class="fas fa-store mr-1"></i>
@@ -212,7 +212,7 @@ $breadcrumbSchema = [
     <div class="honor-gradient">
         <div class="container mx-auto px-4 py-8">
             <div class="max-w-3xl mx-auto text-center">
-                <h2 class="text-2xl font-bold text-gray-800 mb-2">Find an Authorized Honor Service Center Near Me 2025</h2>
+                <h2 class="text-2xl font-bold text-gray-800 mb-2">Find an Authorized Honor Service Center Near Me 2026</h2>
                 <p class="text-gray-600 mb-6">Get professional service for your Honor smartphones by certified technicians</p>
                 
                 <!-- Search Form -->

@@ -1,19 +1,19 @@
 <?php include 'header.php'; ?>
 
 <!-- SEO Meta Tags -->
-<title>Kilogram to Tonne Converter 2025 - kg to tonne Calculator | Thiyagi</title>
-<meta name="description" content="Free online Kilogram to Tonne converter 2025. Convert kg to tonne and tonne to kg instantly with accurate metric weight conversion.">
-<meta name="keywords" content="kilogram to tonne converter 2025, kg to tonne, metric weight converter, mass converter, industrial weighing">
+<title>Kilogram to Tonne Converter 2026 - kg to tonne Calculator | Thiyagi</title>
+<meta name="description" content="Free online Kilogram to Tonne converter 2026. Convert kg to tonne and tonne to kg instantly with accurate metric weight conversion.">
+<meta name="keywords" content="kilogram to tonne converter 2026, kg to tonne, metric weight converter, mass converter, industrial weighing">
 <meta name="author" content="Thiyagi">
-<meta property="og:title" content="Kilogram to Tonne Converter 2025 - kg to tonne Calculator">
-<meta property="og:description" content="Free online Kilogram to Tonne converter 2025. Convert kg to tonne and tonne to kg instantly.">
+<meta property="og:title" content="Kilogram to Tonne Converter 2026 - kg to tonne Calculator">
+<meta property="og:description" content="Free online Kilogram to Tonne converter 2026. Convert kg to tonne and tonne to kg instantly.">
 <meta property="og:type" content="website">
 <meta property="og:url" content="https://www.thiyagi.com/kilogram-to-tonne.php">
 <meta property="og:image" content="https://www.thiyagi.com/nt.png">
 <meta property="og:site_name" content="Thiyagi">
 <meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:title" content="Kilogram to Tonne Converter 2025 - kg to tonne Calculator">
-<meta name="twitter:description" content="Free online Kilogram to Tonne converter 2025. Convert kg to tonne and tonne to kg instantly.">
+<meta name="twitter:title" content="Kilogram to Tonne Converter 2026 - kg to tonne Calculator">
+<meta name="twitter:description" content="Free online Kilogram to Tonne converter 2026. Convert kg to tonne and tonne to kg instantly.">
 <meta name="twitter:image" content="https://www.thiyagi.com/nt.png">
 
 <div class="min-h-screen bg-gradient-to-br from-slate-50 via-zinc-50 to-gray-50 py-12">

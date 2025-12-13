@@ -41,8 +41,8 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>2025 RD Calculator – Free Recurring Deposit Interest & Maturity Tool</title>
-    <meta name="description" content="Calculate your RD returns in 2025 for free! Estimate interest earnings, maturity value, and compare recurring deposit schemes easily with our online tool.">
+    <title>2026 RD Calculator – Free Recurring Deposit Interest & Maturity Tool</title>
+    <meta name="description" content="Calculate your RD returns in 2026 for free! Estimate interest earnings, maturity value, and compare recurring deposit schemes easily with our online tool.">
     <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" rel="stylesheet">
     <style>
         /* Custom styles */

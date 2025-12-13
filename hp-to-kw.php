@@ -5,9 +5,9 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Horsepower to Kilowatt Converter 2025 - Power Conversion Calculator</title>
-    <meta name="description" content="Convert horsepower (HP) to kilowatts (kW) with our free 2025 online calculator. Accurate power conversion for automotive and industrial applications.">
-    <meta name="keywords" content="horsepower to kilowatt converter 2025, HP to kW, power converter, automotive calculator 2025">
+    <title>Horsepower to Kilowatt Converter 2026 - Power Conversion Calculator</title>
+    <meta name="description" content="Convert horsepower (HP) to kilowatts (kW) with our free 2026 online calculator. Accurate power conversion for automotive and industrial applications.">
+    <meta name="keywords" content="horsepower to kilowatt converter 2026, HP to kW, power converter, automotive calculator 2026">
     <script src="https://cdn.tailwindcss.com"></script>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
 </head>

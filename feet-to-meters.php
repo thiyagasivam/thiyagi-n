@@ -1,12 +1,12 @@
 <?php include 'header.php';?>
-<title>Feet to Meters Converter 2025 | ft to m | Free Length Tool</title>
-<meta name="description" content="Convert feet to meters instantly with our 2025 accurate converter. Perfect ft to m conversion with real-time calculations for construction and engineering.">
-<meta name="keywords" content="feet to meters converter 2025, ft to m converter, feet meters conversion, length converter 2025, construction calculator, engineering tools, imperial to metric conversion, meter calculator online, building measurements, architectural converter">
+<title>Feet to Meters Converter 2026 | ft to m | Free Length Tool</title>
+<meta name="description" content="Convert feet to meters instantly with our 2026 accurate converter. Perfect ft to m conversion with real-time calculations for construction and engineering.">
+<meta name="keywords" content="feet to meters converter 2026, ft to m converter, feet meters conversion, length converter 2026, construction calculator, engineering tools, imperial to metric conversion, meter calculator online, building measurements, architectural converter">
 <link rel="canonical" href="https://www.thiyagi.com/feet-to-meters">
 
 <!-- Open Graph Meta Tags -->
-<meta property="og:title" content="Feet to Meters Converter 2025 | ft to m | Free Length Tool">
-<meta property="og:description" content="Convert feet to meters instantly with our 2025 accurate converter. Perfect ft to m conversion with real-time calculations for construction and engineering.">
+<meta property="og:title" content="Feet to Meters Converter 2026 | ft to m | Free Length Tool">
+<meta property="og:description" content="Convert feet to meters instantly with our 2026 accurate converter. Perfect ft to m conversion with real-time calculations for construction and engineering.">
 <meta property="og:url" content="https://www.thiyagi.com/feet-to-meters">
 <meta property="og:type" content="website">
 <meta property="og:image" content="https://www.thiyagi.com/nt.png">
@@ -14,8 +14,8 @@
 
 <!-- Twitter Card Meta Tags -->
 <meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:title" content="Feet to Meters Converter 2025 | ft to m | Free Length Tool">
-<meta name="twitter:description" content="Convert feet to meters instantly with our 2025 accurate converter. Perfect ft to m conversion with real-time calculations for construction and engineering.">
+<meta name="twitter:title" content="Feet to Meters Converter 2026 | ft to m | Free Length Tool">
+<meta name="twitter:description" content="Convert feet to meters instantly with our 2026 accurate converter. Perfect ft to m conversion with real-time calculations for construction and engineering.">
 <meta name="twitter:image" content="https://www.thiyagi.com/nt.png">
 
 <!-- Additional SEO Meta Tags -->
@@ -47,7 +47,7 @@
   "@context": "https://schema.org",
   "@type": "WebApplication",
   "name": "Feet to Meters Converter",
-  "description": "Convert feet to meters instantly with our accurate 2025 calculator. Perfect ft to m conversion with real-time calculations for construction and engineering.",
+  "description": "Convert feet to meters instantly with our accurate 2026 calculator. Perfect ft to m conversion with real-time calculations for construction and engineering.",
   "url": "https://www.thiyagi.com/feet-to-meters",
   "applicationCategory": "UtilityApplication",
   "operatingSystem": "Web Browser",
@@ -191,7 +191,7 @@
           Feet to Meters Converter
         </h1>
         <p class="text-xl text-gray-600 mb-8 max-w-3xl mx-auto">
-          Convert feet to meters instantly with our accurate 2025 calculator. 
+          Convert feet to meters instantly with our accurate 2026 calculator. 
           Perfect for construction projects, engineering specifications, and international building measurements.
         </p>
       </div>

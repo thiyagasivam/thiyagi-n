@@ -1,12 +1,12 @@
 <?php include 'header.php';?>
-<title>L to ML Converter 2025 | Liters to Milliliters Calculator | Free Tool</title>
-<meta name="description" content="Professional L to ML converter 2025. Convert liters to milliliters instantly with precision calculations. Perfect for cooking, scientific, and measurement purposes.">
-<meta name="keywords" content="l to ml converter 2025, liters to milliliters calculator, volume converter, metric conversion, liquid measurement">
+<title>L to ML Converter 2026 | Liters to Milliliters Calculator | Free Tool</title>
+<meta name="description" content="Professional L to ML converter 2026. Convert liters to milliliters instantly with precision calculations. Perfect for cooking, scientific, and measurement purposes.">
+<meta name="keywords" content="l to ml converter 2026, liters to milliliters calculator, volume converter, metric conversion, liquid measurement">
 <link rel="canonical" href="https://www.thiyagi.com/l-to-ml">
 
 <!-- Open Graph Meta Tags -->
-<meta property="og:title" content="L to ML Converter 2025 | Liters to Milliliters Calculator | Free Tool">
-<meta property="og:description" content="Professional L to ML converter 2025. Convert liters to milliliters instantly with precision calculations. Perfect for cooking, scientific, and measurement purposes.">
+<meta property="og:title" content="L to ML Converter 2026 | Liters to Milliliters Calculator | Free Tool">
+<meta property="og:description" content="Professional L to ML converter 2026. Convert liters to milliliters instantly with precision calculations. Perfect for cooking, scientific, and measurement purposes.">
 <meta property="og:url" content="https://www.thiyagi.com/l-to-ml">
 <meta property="og:type" content="website">
 <meta property="og:image" content="https://www.thiyagi.com/nt.png">
@@ -83,7 +83,7 @@
         </div>
         <h1 class="text-4xl md:text-6xl font-bold text-gray-900 mb-6">
           L to ML Converter
-          <span class="block text-2xl md:text-3xl text-blue-600 mt-2">Professional 2025</span>
+          <span class="block text-2xl md:text-3xl text-blue-600 mt-2">Professional 2026</span>
         </h1>
         <p class="text-xl text-gray-600 mb-8 max-w-4xl mx-auto leading-relaxed">
           Convert liters to milliliters with professional-grade precision. Perfect for scientific 

@@ -1,12 +1,12 @@
 <?php include 'header.php';?>
-<title>Celsius to Rankine Converter 2025 | Convert °C to °R | Free Tool</title>
-<meta name="description" content="Convert Celsius to Rankine instantly with our 2025 accurate temperature converter. Perfect °C to °R conversion with real-time calculations for engineering needs.">
-<meta name="keywords" content="celsius to rankine 2025, temperature converter, thermal conversion 2025, °C to °R calculator, engineering tool">
+<title>Celsius to Rankine Converter 2026 | Convert °C to °R | Free Tool</title>
+<meta name="description" content="Convert Celsius to Rankine instantly with our 2026 accurate temperature converter. Perfect °C to °R conversion with real-time calculations for engineering needs.">
+<meta name="keywords" content="celsius to rankine 2026, temperature converter, thermal conversion 2026, °C to °R calculator, engineering tool">
 <link rel="canonical" href="https://www.thiyagi.com/celsius-to-rankine">
 
 <!-- Open Graph Meta Tags -->
-<meta property="og:title" content="Celsius to Rankine Converter 2025 | Convert °C to °R | Free Tool">
-<meta property="og:description" content="Convert Celsius to Rankine instantly with our 2025 accurate temperature converter. Perfect °C to °R conversion with real-time calculations for engineering needs.">
+<meta property="og:title" content="Celsius to Rankine Converter 2026 | Convert °C to °R | Free Tool">
+<meta property="og:description" content="Convert Celsius to Rankine instantly with our 2026 accurate temperature converter. Perfect °C to °R conversion with real-time calculations for engineering needs.">
 <meta property="og:url" content="https://www.thiyagi.com/celsius-to-rankine">
 <meta property="og:type" content="website">
 <meta property="og:image" content="https://www.thiyagi.com/nt.png">
@@ -14,8 +14,8 @@
 
 <!-- Twitter Card Meta Tags -->
 <meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:title" content="Celsius to Rankine Converter 2025 | Convert °C to °R | Free Tool">
-<meta name="twitter:description" content="Convert Celsius to Rankine instantly with our 2025 accurate temperature converter. Perfect °C to °R conversion with real-time calculations for engineering needs.">
+<meta name="twitter:title" content="Celsius to Rankine Converter 2026 | Convert °C to °R | Free Tool">
+<meta name="twitter:description" content="Convert Celsius to Rankine instantly with our 2026 accurate temperature converter. Perfect °C to °R conversion with real-time calculations for engineering needs.">
 <meta name="twitter:image" content="https://www.thiyagi.com/nt.png">
 
 <!-- Additional SEO Meta Tags -->
@@ -39,7 +39,7 @@
           Celsius to Rankine Converter
         </h1>
         <p class="text-xl text-gray-600 mb-8 max-w-3xl mx-auto">
-          Convert Celsius to Rankine instantly with our accurate 2025 temperature calculator. 
+          Convert Celsius to Rankine instantly with our accurate 2026 temperature calculator. 
           Perfect for engineering, thermodynamics, and scientific applications.
         </p>
       </div>
@@ -155,17 +155,17 @@
     <article class="bg-white rounded-xl shadow-lg p-8">
       <h2 class="text-2xl font-bold text-gray-800 mb-6 flex items-center gap-3">
         <i class="fas fa-info-circle text-purple-600" aria-hidden="true"></i>
-        Celsius to Rankine Conversion 2025
+        Celsius to Rankine Conversion 2026
       </h2>
       <div class="prose max-w-none text-gray-600">
         <p class="mb-4">
-          Converting Celsius to Rankine is essential for engineering, thermodynamics, and scientific applications in 2025. 
+          Converting Celsius to Rankine is essential for engineering, thermodynamics, and scientific applications in 2026. 
           The Rankine scale is an absolute temperature scale used primarily in engineering calculations, particularly 
           in thermodynamic cycles and heat engine analysis. This conversion enables accurate communication between 
           metric and imperial engineering systems.
         </p>
         <p class="mb-6">
-          Our 2025 converter provides instant and precise conversions from Celsius to Rankine, essential for engineers, 
+          Our 2026 converter provides instant and precise conversions from Celsius to Rankine, essential for engineers, 
           physicists, thermodynamics specialists, and researchers. The Rankine scale uses Fahrenheit-sized degrees 
           but starts at absolute zero, making it valuable for engineering calculations requiring absolute temperature.
         </p>

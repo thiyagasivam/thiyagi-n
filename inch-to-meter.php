@@ -1,12 +1,12 @@
 <?php include 'header.php';?>
-<title>Inch to Meter Converter 2025 | IN to M | Free Tool</title>
-<meta name="description" content="Convert inch to meter instantly with our 2025 accurate converter. Perfect in to m conversion with real-time calculations for precision measurements.">
-<meta name="keywords" content="inch to meter 2025, inch meter converter, length unit conversion 2025, precision measurement calculator, in m conversion">
+<title>Inch to Meter Converter 2026 | IN to M | Free Tool</title>
+<meta name="description" content="Convert inch to meter instantly with our 2026 accurate converter. Perfect in to m conversion with real-time calculations for precision measurements.">
+<meta name="keywords" content="inch to meter 2026, inch meter converter, length unit conversion 2026, precision measurement calculator, in m conversion">
 <link rel="canonical" href="https://www.thiyagi.com/inch-to-meter">
 
 <!-- Open Graph Meta Tags -->
-<meta property="og:title" content="Inch to Meter Converter 2025 | IN to M | Free Tool">
-<meta property="og:description" content="Convert inch to meter instantly with our 2025 accurate converter. Perfect in to m conversion with real-time calculations for precision measurements.">
+<meta property="og:title" content="Inch to Meter Converter 2026 | IN to M | Free Tool">
+<meta property="og:description" content="Convert inch to meter instantly with our 2026 accurate converter. Perfect in to m conversion with real-time calculations for precision measurements.">
 <meta property="og:url" content="https://www.thiyagi.com/inch-to-meter">
 <meta property="og:type" content="website">
 <meta property="og:image" content="https://www.thiyagi.com/nt.png">
@@ -14,8 +14,8 @@
 
 <!-- Twitter Card Meta Tags -->
 <meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:title" content="Inch to Meter Converter 2025 | IN to M | Free Tool">
-<meta name="twitter:description" content="Convert inch to meter instantly with our 2025 accurate converter. Perfect in to m conversion with real-time calculations for precision measurements.">
+<meta name="twitter:title" content="Inch to Meter Converter 2026 | IN to M | Free Tool">
+<meta name="twitter:description" content="Convert inch to meter instantly with our 2026 accurate converter. Perfect in to m conversion with real-time calculations for precision measurements.">
 <meta name="twitter:image" content="https://www.thiyagi.com/nt.png">
 
 <!-- Additional SEO Meta Tags -->
@@ -39,7 +39,7 @@
           Inch to Meter Converter
         </h1>
         <p class="text-xl text-gray-600 mb-8 max-w-3xl mx-auto">
-          Convert inches to meters instantly with our accurate 2025 calculator. 
+          Convert inches to meters instantly with our accurate 2026 calculator. 
           Perfect for precision measurements, manufacturing, and imperial to metric conversions.
         </p>
       </div>
@@ -157,16 +157,16 @@
     <article class="bg-white rounded-xl shadow-lg p-8">
       <h2 class="text-2xl font-bold text-gray-800 mb-6 flex items-center gap-3">
         <i class="fas fa-info-circle text-cyan-600" aria-hidden="true"></i>
-        Inch to Meter Conversion 2025
+        Inch to Meter Conversion 2026
       </h2>
       <div class="prose max-w-none text-gray-600">
         <p class="mb-4">
-          Converting inches to meters is essential for precision measurements, manufacturing, and imperial to metric conversions in 2025. 
+          Converting inches to meters is essential for precision measurements, manufacturing, and imperial to metric conversions in 2026. 
           This length unit conversion enables accurate calculations for engineers, 
           manufacturers, and technicians working with international specifications and metric standards.
         </p>
         <p class="mb-6">
-          Our 2025 converter provides instant and accurate conversions from inches to meters, essential for manufacturing professionals, 
+          Our 2026 converter provides instant and accurate conversions from inches to meters, essential for manufacturing professionals, 
           engineers, machinists, and technicians working with metric specifications. 
           One inch equals approximately 0.0254 meters.
         </p>

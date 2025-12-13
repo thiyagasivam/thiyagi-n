@@ -1,12 +1,12 @@
 <?php include '../header.php';?>
 
-<title>RTO Details India 2025 - Complete RTO Code Directory | 25+ Years Experience</title>
-<meta name="description" content="Complete directory of RTO details, codes, and office information across India. Find RTO offices, vehicle registration details, and contact information. Built with 25+ years of automotive expertise for 2025.">
-<meta name="keywords" content="RTO details India, RTO codes, vehicle registration, RTO office directory, India RTO information 2025">
+<title>RTO Details India 2026 - Complete RTO Code Directory | 25+ Years Experience</title>
+<meta name="description" content="Complete directory of RTO details, codes, and office information across India. Find RTO offices, vehicle registration details, and contact information. Built with 25+ years of automotive expertise for 2026.">
+<meta name="keywords" content="RTO details India, RTO codes, vehicle registration, RTO office directory, India RTO information 2026">
 
 <div class="min-h-screen bg-gradient-to-br from-blue-50 to-indigo-100 py-12 px-4 sm:px-6 lg:px-8">
   <div class="max-w-7xl mx-auto">
-    <h1 class="text-4xl font-bold text-center text-gray-900 mb-8">RTO Details India 2025</h1>
+    <h1 class="text-4xl font-bold text-center text-gray-900 mb-8">RTO Details India 2026</h1>
     <p class="text-xl text-gray-600 text-center mb-12">Complete RTO directory and vehicle registration information - Professional automotive guide with 25+ years of experience</p>
   </div>
 </div>

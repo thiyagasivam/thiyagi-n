@@ -1,12 +1,12 @@
 <?php include 'header.php';?>
-<title>Ton to LBS Converter 2025 | ton to pounds | Free Weight Tool</title>
-<meta name="description" content="Convert tons to pounds instantly with our 2025 accurate converter. Perfect ton to lbs conversion with real-time calculations for shipping and industrial weights.">
-<meta name="keywords" content="ton to lbs converter 2025, ton to pounds converter, tons pounds conversion, weight converter 2025, shipping calculator, industrial weight tools, freight conversion, heavy weight calculator, cargo measurements, tonnage converter">
+<title>Ton to LBS Converter 2026 | ton to pounds | Free Weight Tool</title>
+<meta name="description" content="Convert tons to pounds instantly with our 2026 accurate converter. Perfect ton to lbs conversion with real-time calculations for shipping and industrial weights.">
+<meta name="keywords" content="ton to lbs converter 2026, ton to pounds converter, tons pounds conversion, weight converter 2026, shipping calculator, industrial weight tools, freight conversion, heavy weight calculator, cargo measurements, tonnage converter">
 <link rel="canonical" href="https://www.thiyagi.com/ton-to-lbs">
 
 <!-- Open Graph Meta Tags -->
-<meta property="og:title" content="Ton to LBS Converter 2025 | ton to pounds | Free Weight Tool">
-<meta property="og:description" content="Convert tons to pounds instantly with our 2025 accurate converter. Perfect ton to lbs conversion with real-time calculations for shipping and industrial weights.">
+<meta property="og:title" content="Ton to LBS Converter 2026 | ton to pounds | Free Weight Tool">
+<meta property="og:description" content="Convert tons to pounds instantly with our 2026 accurate converter. Perfect ton to lbs conversion with real-time calculations for shipping and industrial weights.">
 <meta property="og:url" content="https://www.thiyagi.com/ton-to-lbs">
 <meta property="og:type" content="website">
 <meta property="og:image" content="https://www.thiyagi.com/nt.png">
@@ -14,8 +14,8 @@
 
 <!-- Twitter Card Meta Tags -->
 <meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:title" content="Ton to LBS Converter 2025 | ton to pounds | Free Weight Tool">
-<meta name="twitter:description" content="Convert tons to pounds instantly with our 2025 accurate converter. Perfect ton to lbs conversion with real-time calculations for shipping and industrial weights.">
+<meta name="twitter:title" content="Ton to LBS Converter 2026 | ton to pounds | Free Weight Tool">
+<meta name="twitter:description" content="Convert tons to pounds instantly with our 2026 accurate converter. Perfect ton to lbs conversion with real-time calculations for shipping and industrial weights.">
 <meta name="twitter:image" content="https://www.thiyagi.com/nt.png">
 
 <!-- Additional SEO Meta Tags -->
@@ -47,7 +47,7 @@
   "@context": "https://schema.org",
   "@type": "WebApplication",
   "name": "Ton to Pounds Converter",
-  "description": "Convert tons to pounds instantly with our accurate 2025 calculator. Perfect ton to lbs conversion with real-time calculations for shipping and industrial weights.",
+  "description": "Convert tons to pounds instantly with our accurate 2026 calculator. Perfect ton to lbs conversion with real-time calculations for shipping and industrial weights.",
   "url": "https://www.thiyagi.com/ton-to-lbs",
   "applicationCategory": "UtilityApplication",
   "operatingSystem": "Web Browser",
@@ -188,7 +188,7 @@
           Ton to Pounds Converter
         </h1>
         <p class="text-xl text-gray-600 mb-8 max-w-3xl mx-auto">
-          Convert tons to pounds instantly with our accurate 2025 calculator. 
+          Convert tons to pounds instantly with our accurate 2026 calculator. 
           Perfect for shipping calculations, freight pricing, and industrial weight measurements.
         </p>
       </div>

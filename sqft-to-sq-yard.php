@@ -1,12 +1,12 @@
 <?php include 'header.php';?>
-<title>Square Feet to Square Yard Converter 2025 | Sqft to Sq Yard | Free Tool</title>
-<meta name="description" content="Convert square feet to square yards instantly with our 2025 accurate converter. Perfect sqft to sq yard conversion with real-time calculations for construction, flooring, and landscaping.">
-<meta name="keywords" content="square feet to square yard 2025, sqft to sq yard converter, feet to yard conversion, area conversion 2025, construction calculator, flooring measurement">
+<title>Square Feet to Square Yard Converter 2026 | Sqft to Sq Yard | Free Tool</title>
+<meta name="description" content="Convert square feet to square yards instantly with our 2026 accurate converter. Perfect sqft to sq yard conversion with real-time calculations for construction, flooring, and landscaping.">
+<meta name="keywords" content="square feet to square yard 2026, sqft to sq yard converter, feet to yard conversion, area conversion 2026, construction calculator, flooring measurement">
 <link rel="canonical" href="https://www.thiyagi.com/sqft-to-sq-yard">
 
 <!-- Open Graph Meta Tags -->
-<meta property="og:title" content="Square Feet to Square Yard Converter 2025 | Sqft to Sq Yard | Free Tool">
-<meta property="og:description" content="Convert square feet to square yards instantly with our 2025 accurate converter. Perfect sqft to sq yard conversion with real-time calculations for construction, flooring, and landscaping.">
+<meta property="og:title" content="Square Feet to Square Yard Converter 2026 | Sqft to Sq Yard | Free Tool">
+<meta property="og:description" content="Convert square feet to square yards instantly with our 2026 accurate converter. Perfect sqft to sq yard conversion with real-time calculations for construction, flooring, and landscaping.">
 <meta property="og:url" content="https://www.thiyagi.com/sqft-to-sq-yard">
 <meta property="og:type" content="website">
 <meta property="og:image" content="https://www.thiyagi.com/nt.png">
@@ -14,8 +14,8 @@
 
 <!-- Twitter Card Meta Tags -->
 <meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:title" content="Square Feet to Square Yard Converter 2025 | Sqft to Sq Yard | Free Tool">
-<meta name="twitter:description" content="Convert square feet to square yards instantly with our 2025 accurate converter. Perfect sqft to sq yard conversion with real-time calculations for construction, flooring, and landscaping.">
+<meta name="twitter:title" content="Square Feet to Square Yard Converter 2026 | Sqft to Sq Yard | Free Tool">
+<meta name="twitter:description" content="Convert square feet to square yards instantly with our 2026 accurate converter. Perfect sqft to sq yard conversion with real-time calculations for construction, flooring, and landscaping.">
 <meta name="twitter:image" content="https://www.thiyagi.com/nt.png">
 
 <!-- Additional SEO Meta Tags -->
@@ -44,10 +44,10 @@
     "@type": "Organization",
     "name": "Thiyagi Tools",
     "url": "https://www.thiyagi.com",
-    "foundingDate": "2025"
+    "foundingDate": "2026"
   },
-  "datePublished": "2025-08-23",
-  "dateModified": "2025-08-23",
+  "datePublished": "2026-08-23",
+  "dateModified": "2026-08-23",
   "featureList": [
     "Convert square feet to square yards",
     "Real-time conversion calculations",
@@ -247,15 +247,15 @@
     <article class="bg-white rounded-xl shadow-lg p-8">
       <h2 id="about-heading" class="text-2xl font-bold text-gray-800 mb-6 flex items-center gap-3">
         <i class="fas fa-info-circle text-purple-600" aria-hidden="true"></i>
-        Square Feet to Square Yard Conversion 2025
+        Square Feet to Square Yard Conversion 2026
       </h2>
       <div class="prose max-w-none text-gray-600">
         <p class="mb-4">
-          Converting square feet to square yards is essential for construction, interior design, and landscaping projects in 2025. 
+          Converting square feet to square yards is essential for construction, interior design, and landscaping projects in 2026. 
           Square yards are commonly used for measuring areas that are larger than what's practical in square feet but smaller than what requires acres.
         </p>
         <p class="mb-6">
-          Our 2025 converter uses the exact conversion factor: 1 square yard = 9 square feet. This conversion is particularly useful 
+          Our 2026 converter uses the exact conversion factor: 1 square yard = 9 square feet. This conversion is particularly useful 
           for calculating carpet requirements, fabric needs, landscaping materials, and construction projects.
         </p>
       </div>

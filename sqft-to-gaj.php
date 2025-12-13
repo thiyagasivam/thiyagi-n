@@ -1,12 +1,12 @@
 <?php include 'header.php';?>
-<title>Square Feet to Gaj Converter 2025 | Sqft to Gaj | Free Tool</title>
-<meta name="description" content="Convert square feet to gaj instantly with our 2025 accurate converter. Perfect sqft to gaj conversion with real-time calculations for Indian real estate and property measurements.">
-<meta name="keywords" content="square feet to gaj 2025, sqft to gaj converter, feet to gaj conversion, area conversion 2025, Indian property measurement, real estate calculator">
+<title>Square Feet to Gaj Converter 2026 | Sqft to Gaj | Free Tool</title>
+<meta name="description" content="Convert square feet to gaj instantly with our 2026 accurate converter. Perfect sqft to gaj conversion with real-time calculations for Indian real estate and property measurements.">
+<meta name="keywords" content="square feet to gaj 2026, sqft to gaj converter, feet to gaj conversion, area conversion 2026, Indian property measurement, real estate calculator">
 <link rel="canonical" href="https://www.thiyagi.com/sqft-to-gaj">
 
 <!-- Open Graph Meta Tags -->
-<meta property="og:title" content="Square Feet to Gaj Converter 2025 | Sqft to Gaj | Free Tool">
-<meta property="og:description" content="Convert square feet to gaj instantly with our 2025 accurate converter. Perfect sqft to gaj conversion with real-time calculations for Indian real estate and property measurements.">
+<meta property="og:title" content="Square Feet to Gaj Converter 2026 | Sqft to Gaj | Free Tool">
+<meta property="og:description" content="Convert square feet to gaj instantly with our 2026 accurate converter. Perfect sqft to gaj conversion with real-time calculations for Indian real estate and property measurements.">
 <meta property="og:url" content="https://www.thiyagi.com/sqft-to-gaj">
 <meta property="og:type" content="website">
 <meta property="og:image" content="https://www.thiyagi.com/nt.png">
@@ -14,8 +14,8 @@
 
 <!-- Twitter Card Meta Tags -->
 <meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:title" content="Square Feet to Gaj Converter 2025 | Sqft to Gaj | Free Tool">
-<meta name="twitter:description" content="Convert square feet to gaj instantly with our 2025 accurate converter. Perfect sqft to gaj conversion with real-time calculations for Indian real estate and property measurements.">
+<meta name="twitter:title" content="Square Feet to Gaj Converter 2026 | Sqft to Gaj | Free Tool">
+<meta name="twitter:description" content="Convert square feet to gaj instantly with our 2026 accurate converter. Perfect sqft to gaj conversion with real-time calculations for Indian real estate and property measurements.">
 <meta name="twitter:image" content="https://www.thiyagi.com/nt.png">
 
 <!-- Additional SEO Meta Tags -->
@@ -44,10 +44,10 @@
     "@type": "Organization",
     "name": "Thiyagi Tools",
     "url": "https://www.thiyagi.com",
-    "foundingDate": "2025"
+    "foundingDate": "2026"
   },
-  "datePublished": "2025-08-23",
-  "dateModified": "2025-08-23",
+  "datePublished": "2026-08-23",
+  "dateModified": "2026-08-23",
   "featureList": [
     "Convert square feet to gaj",
     "Real-time conversion calculations",
@@ -247,15 +247,15 @@
     <article class="bg-white rounded-xl shadow-lg p-8">
       <h2 id="about-heading" class="text-2xl font-bold text-gray-800 mb-6 flex items-center gap-3">
         <i class="fas fa-info-circle text-orange-600" aria-hidden="true"></i>
-        Square Feet to Gaj Conversion 2025
+        Square Feet to Gaj Conversion 2026
       </h2>
       <div class="prose max-w-none text-gray-600">
         <p class="mb-4">
-          Converting square feet to gaj is essential for Indian real estate transactions in 2025. Gaj is a traditional Indian unit 
+          Converting square feet to gaj is essential for Indian real estate transactions in 2026. Gaj is a traditional Indian unit 
           of area measurement widely used in property dealings. One gaj equals 9 square feet or 1 square yard.
         </p>
         <p class="mb-6">
-          Our 2025 converter provides instant and accurate conversions from square feet to gaj, essential for property buyers, 
+          Our 2026 converter provides instant and accurate conversions from square feet to gaj, essential for property buyers, 
           real estate agents, and anyone dealing with Indian property measurements and land records.
         </p>
       </div>

@@ -88,8 +88,8 @@ try {
 
     // Add static/default content for other fields
     $center['email'] = 'customercare.india@alcatel-mobile.com';
-    $center['page_title'] = $center['shop_name'] . ' | 2025 Authorized Alcatel Service Center Near Me';
-    $center['about'] = $center['shop_name'] .' is an authorized 2025 Alcatel service center Near Me providing expert repairs and support for all Alcatel smartphones, tablets and feature phones.';
+    $center['page_title'] = $center['shop_name'] . ' | 2026 Authorized Alcatel Service Center Near Me';
+    $center['about'] = $center['shop_name'] .' is an authorized 2026 Alcatel service center Near Me providing expert repairs and support for all Alcatel smartphones, tablets and feature phones.';
     
     $center['services'] = [
         'Smartphone Repair',

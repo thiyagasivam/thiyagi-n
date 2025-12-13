@@ -4,21 +4,21 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="Find Poco Service Centers in New Delhi for 2025. Get authorized service for Poco devices with updated addresses and contact details.">
+    <meta name="description" content="Find Poco Service Centers in New Delhi for 2026. Get authorized service for Poco devices with updated addresses and contact details.">
     <meta name="keywords" content="Poco Service Center, New Delhi, Poco Authorized Service, Poco Repairs">
     <meta name="author" content="thiyagi.com">
-    <title>Poco Service Center in New Delhi 2025 | thiyagi.com</title>
+    <title>Poco Service Center in New Delhi 2026 | thiyagi.com</title>
     <script src="https://cdn.tailwindcss.com"></script>
     <script src="https://kit.fontawesome.com/a076d05399.js" crossorigin="anonymous"></script>
     <meta name="robots" content="index, follow">
-    <meta property="og:title" content="Poco Service Center in New Delhi 2025 | thiyagi.com">
-    <meta property="og:description" content="Find Poco Service Centers in New Delhi for 2025. Get authorized service for Poco devices with updated addresses and contact details.">
+    <meta property="og:title" content="Poco Service Center in New Delhi 2026 | thiyagi.com">
+    <meta property="og:description" content="Find Poco Service Centers in New Delhi for 2026. Get authorized service for Poco devices with updated addresses and contact details.">
     <meta property="og:url" content="https://www.thiyagi.com/service-center/poco/new-delhi">
     <meta property="og:type" content="website">
     <meta property="og:image" content="https://www.thiyagi.com/nt.png">
     <meta name="twitter:card" content="summary_large_image">
-    <meta name="twitter:title" content="Poco Service Center in New Delhi 2025 | thiyagi.com">
-    <meta name="twitter:description" content="Find Poco Service Centers in New Delhi for 2025. Get authorized service for Poco devices with updated addresses and contact details.">
+    <meta name="twitter:title" content="Poco Service Center in New Delhi 2026 | thiyagi.com">
+    <meta name="twitter:description" content="Find Poco Service Centers in New Delhi for 2026. Get authorized service for Poco devices with updated addresses and contact details.">
     <meta name="twitter:image" content="https://www.thiyagi.com/nt.png">
 </head>
 <body class="bg-gray-100 text-gray-800">
@@ -78,7 +78,7 @@
 
     <footer class="bg-gray-800 text-white py-4">
         <div class="container mx-auto px-4 text-center">
-            <p>&copy; 2025 thiyagi.com. All rights reserved.</p>
+            <p>&copy; 2026 thiyagi.com. All rights reserved.</p>
         </div>
     </footer>
 </body>

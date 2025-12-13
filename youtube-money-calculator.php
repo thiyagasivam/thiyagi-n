@@ -32,7 +32,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>YouTube Money Calculator 2025 - Estimate Earnings by Views, CPM & RPM</title>
+    <title>YouTube Money Calculator 2026 - Estimate Earnings by Views, CPM & RPM</title>
     <meta name="description" content="Free YouTube Money Calculator to estimate your video earnings using Views, CPM, and RPM. Quick, accurate, and mobile-friendly.">
     <meta name="keywords" content="YouTube Money Calculator, YouTube earnings, CPM, RPM, YouTube revenue estimator, YouTube income calculator">
     <link rel="canonical" href="https://<?php echo $_SERVER['HTTP_HOST'] . strtok($_SERVER['REQUEST_URI'], '?'); ?>">

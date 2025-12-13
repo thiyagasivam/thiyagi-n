@@ -1,19 +1,19 @@
 <?php include 'header.php'; ?>
 
 <!-- SEO Meta Tags -->
-<title>Hectare to Square Hectometer Converter 2025 - ha to hm² Calculator | Thiyagi</title>
-<meta name="description" content="Free online Hectare to Square Hectometer converter 2025. Convert ha to hm² and hm² to ha instantly with accurate area conversion for land measurement.">
-<meta name="keywords" content="hectare to square hectometer converter 2025, ha to hm², area converter, land measurement, agricultural area, metric area units">
+<title>Hectare to Square Hectometer Converter 2026 - ha to hm² Calculator | Thiyagi</title>
+<meta name="description" content="Free online Hectare to Square Hectometer converter 2026. Convert ha to hm² and hm² to ha instantly with accurate area conversion for land measurement.">
+<meta name="keywords" content="hectare to square hectometer converter 2026, ha to hm², area converter, land measurement, agricultural area, metric area units">
 <meta name="author" content="Thiyagi">
-<meta property="og:title" content="Hectare to Square Hectometer Converter 2025 - ha to hm² Calculator">
-<meta property="og:description" content="Free online Hectare to Square Hectometer converter 2025. Convert ha to hm² and hm² to ha instantly.">
+<meta property="og:title" content="Hectare to Square Hectometer Converter 2026 - ha to hm² Calculator">
+<meta property="og:description" content="Free online Hectare to Square Hectometer converter 2026. Convert ha to hm² and hm² to ha instantly.">
 <meta property="og:type" content="website">
 <meta property="og:url" content="https://www.thiyagi.com/hectare-to-square-hectometer.php">
 <meta property="og:image" content="https://www.thiyagi.com/nt.png">
 <meta property="og:site_name" content="Thiyagi">
 <meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:title" content="Hectare to Square Hectometer Converter 2025 - ha to hm² Calculator">
-<meta name="twitter:description" content="Free online Hectare to Square Hectometer converter 2025. Convert ha to hm² and hm² to ha instantly.">
+<meta name="twitter:title" content="Hectare to Square Hectometer Converter 2026 - ha to hm² Calculator">
+<meta name="twitter:description" content="Free online Hectare to Square Hectometer converter 2026. Convert ha to hm² and hm² to ha instantly.">
 <meta name="twitter:image" content="https://www.thiyagi.com/nt.png">
 
 <div class="min-h-screen bg-gradient-to-br from-green-50 via-lime-50 to-emerald-50 py-12">

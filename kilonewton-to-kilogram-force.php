@@ -1,19 +1,19 @@
 <?php include 'header.php'; ?>
 
 <!-- SEO Meta Tags -->
-<title>Kilonewton to Kilogram-Force Converter 2025 - Force Calculator | Thiyagi</title>
-<meta name="description" content="Free online kilonewton to kilogram-force converter 2025. Convert kN to kgf instantly with accurate force conversion for engineering calculations.">
-<meta name="keywords" content="kilonewton to kilogram-force converter 2025, kN to kgf, force converter, engineering calculator, structural calculator">
+<title>Kilonewton to Kilogram-Force Converter 2026 - Force Calculator | Thiyagi</title>
+<meta name="description" content="Free online kilonewton to kilogram-force converter 2026. Convert kN to kgf instantly with accurate force conversion for engineering calculations.">
+<meta name="keywords" content="kilonewton to kilogram-force converter 2026, kN to kgf, force converter, engineering calculator, structural calculator">
 <meta name="author" content="Thiyagi">
-<meta property="og:title" content="Kilonewton to Kilogram-Force Converter 2025 - Force Calculator">
-<meta property="og:description" content="Free online kilonewton to kilogram-force converter 2025. Convert kN to kgf instantly with accurate force conversion.">
+<meta property="og:title" content="Kilonewton to Kilogram-Force Converter 2026 - Force Calculator">
+<meta property="og:description" content="Free online kilonewton to kilogram-force converter 2026. Convert kN to kgf instantly with accurate force conversion.">
 <meta property="og:type" content="website">
 <meta property="og:url" content="https://www.thiyagi.com/kilonewton-to-kilogram-force.php">
 <meta property="og:image" content="https://www.thiyagi.com/nt.png">
 <meta property="og:site_name" content="Thiyagi">
 <meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:title" content="Kilonewton to Kilogram-Force Converter 2025 - Force Calculator">
-<meta name="twitter:description" content="Free online kilonewton to kilogram-force converter 2025. Convert kN to kgf instantly.">
+<meta name="twitter:title" content="Kilonewton to Kilogram-Force Converter 2026 - Force Calculator">
+<meta name="twitter:description" content="Free online kilonewton to kilogram-force converter 2026. Convert kN to kgf instantly.">
 <meta name="twitter:image" content="https://www.thiyagi.com/nt.png">
 
 <div class="min-h-screen bg-gradient-to-br from-red-50 via-pink-50 to-rose-50 py-12">

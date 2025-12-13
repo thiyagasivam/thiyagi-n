@@ -7,9 +7,9 @@
 
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title><?php echo "All Banks Car Loan EMI Calculator 2025 - Compare Interest Rates | Thiyagi.com"; ?></title>
-  <meta name="description" content="<?php echo "Compare car loan EMI calculators from all major banks, NBFCs, and auto finance companies. Get current 2025 car loan interest rates, eligibility criteria, and calculate EMI for 50+ lenders."; ?>">
-  <meta name="keywords" content="<?php echo "car loan calculator all banks, bank comparison, car loan interest rates 2025, EMI calculator banks, auto finance companies, vehicle loan rates"; ?>">
+  <title><?php echo "All Banks Car Loan EMI Calculator 2026 - Compare Interest Rates | Thiyagi.com"; ?></title>
+  <meta name="description" content="<?php echo "Compare car loan EMI calculators from all major banks, NBFCs, and auto finance companies. Get current 2026 car loan interest rates, eligibility criteria, and calculate EMI for 50+ lenders."; ?>">
+  <meta name="keywords" content="<?php echo "car loan calculator all banks, bank comparison, car loan interest rates 2026, EMI calculator banks, auto finance companies, vehicle loan rates"; ?>">
   <link rel="canonical" href="<?php echo "https://www.thiyagi.com/calculators/all-banks-car-loan-calculators"; ?>">
   <link href="https://www.thiyagi.com/nt.png" rel="icon">
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
@@ -304,7 +304,7 @@ $categoryColors = [
                 <h1 class="text-5xl md:text-6xl font-bold mb-6">All Banks Car Loan Calculators</h1>
                 <p class="text-xl text-white/90 max-w-4xl mx-auto leading-relaxed">
                     Compare car loan EMI calculators from 201+ major banks, NBFCs, auto finance companies, development financial institutions, regional rural banks, cooperative banks, and foreign banks.
-                    Get current 2025 interest rates and calculate your loan EMI instantly.
+                    Get current 2026 interest rates and calculate your loan EMI instantly.
                 </p>
                 
                 <!-- Quick Stats -->
@@ -458,7 +458,7 @@ $categoryColors = [
         <!-- Comparison Section -->
         <div class="mt-16 bg-white rounded-2xl shadow-xl p-8">
             <div class="text-center mb-8">
-                <h2 class="text-3xl font-bold text-gray-800 mb-4">Interest Rate Comparison 2025</h2>
+                <h2 class="text-3xl font-bold text-gray-800 mb-4">Interest Rate Comparison 2026</h2>
                 <p class="text-gray-600 max-w-2xl mx-auto">Quick comparison of interest rate ranges across different lender categories</p>
             </div>
             
@@ -570,8 +570,8 @@ document.addEventListener('DOMContentLoaded', function() {
 {
   "@context": "https://schema.org",
   "@type": "WebApplication",
-  "name": "All Banks Car Loan EMI Calculator 2025",
-  "description": "Compare car loan EMI calculators from all major banks, NBFCs, and auto finance companies in India. Current 2025 car loan interest rates and instant EMI calculation.",
+  "name": "All Banks Car Loan EMI Calculator 2026",
+  "description": "Compare car loan EMI calculators from all major banks, NBFCs, and auto finance companies in India. Current 2026 car loan interest rates and instant EMI calculation.",
   "url": "https://www.thiyagi.com/calculators/all-banks-car-loan-calculators",
   "applicationCategory": "FinanceApplication",
   "operatingSystem": "Any",
@@ -591,7 +591,7 @@ document.addEventListener('DOMContentLoaded', function() {
     "Real-time interest rate comparison",
     "Category-wise lender filtering",
     "Search functionality",
-    "Current 2025 market rates",
+    "Current 2026 market rates",
     "Instant EMI calculations"
   ]
 }
@@ -646,7 +646,7 @@ document.addEventListener('DOMContentLoaded', function() {
     </div>
     
     <div class="border-t border-gray-800 mt-8 pt-8 text-center">
-      <p class="text-gray-400 text-sm">&copy; 2025 Thiyagi.com. All rights reserved.</p>
+      <p class="text-gray-400 text-sm">&copy; 2026 Thiyagi.com. All rights reserved.</p>
     </div>
   </div>
 </footer>

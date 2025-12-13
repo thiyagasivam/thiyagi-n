@@ -31,8 +31,8 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Free Compound Interest Calculator 2025 - Grow Your Savings</title>
-    <meta name="description" content="Calculate how your money grows with compound interest in 2025! Free online tool shows yearly/monthly projections. Perfect for investments & savings planning.">
+    <title>Free Compound Interest Calculator 2026 - Grow Your Savings</title>
+    <meta name="description" content="Calculate how your money grows with compound interest in 2026! Free online tool shows yearly/monthly projections. Perfect for investments & savings planning.">
     <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" rel="stylesheet">
     <style>
         /* Custom styles */

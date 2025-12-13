@@ -1,19 +1,19 @@
 <?php include 'header.php'; ?>
 
 <!-- SEO Meta Tags -->
-<title>Gallon to Cups Converter 2025 - gal to cups Calculator | Thiyagi</title>
-<meta name="description" content="Free online Gallon to Cups converter 2025. Convert gallons to cups and cups to gallons instantly with accurate volume conversion.">
-<meta name="keywords" content="gallon to cups converter 2025, gal to cups, volume converter, cooking conversion, liquid measurement">
+<title>Gallon to Cups Converter 2026 - gal to cups Calculator | Thiyagi</title>
+<meta name="description" content="Free online Gallon to Cups converter 2026. Convert gallons to cups and cups to gallons instantly with accurate volume conversion.">
+<meta name="keywords" content="gallon to cups converter 2026, gal to cups, volume converter, cooking conversion, liquid measurement">
 <meta name="author" content="Thiyagi">
-<meta property="og:title" content="Gallon to Cups Converter 2025 - gal to cups Calculator">
-<meta property="og:description" content="Free online Gallon to Cups converter 2025. Convert gallons to cups and cups to gallons instantly.">
+<meta property="og:title" content="Gallon to Cups Converter 2026 - gal to cups Calculator">
+<meta property="og:description" content="Free online Gallon to Cups converter 2026. Convert gallons to cups and cups to gallons instantly.">
 <meta property="og:type" content="website">
 <meta property="og:url" content="https://www.thiyagi.com/gallon-to-cups.php">
 <meta property="og:image" content="https://www.thiyagi.com/nt.png">
 <meta property="og:site_name" content="Thiyagi">
 <meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:title" content="Gallon to Cups Converter 2025 - gal to cups Calculator">
-<meta property="twitter:description" content="Free online Gallon to Cups converter 2025. Convert gallons to cups and cups to gallons instantly.">
+<meta name="twitter:title" content="Gallon to Cups Converter 2026 - gal to cups Calculator">
+<meta property="twitter:description" content="Free online Gallon to Cups converter 2026. Convert gallons to cups and cups to gallons instantly.">
 <meta name="twitter:image" content="https://www.thiyagi.com/nt.png">
 
 <div class="min-h-screen bg-gradient-to-br from-blue-50 via-cyan-50 to-teal-50 py-12">

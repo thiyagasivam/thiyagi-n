@@ -1,12 +1,12 @@
 <?php include 'header.php';?>
-<title>Cups to Tablespoons Converter 2025 | Cup to Tbsp Calculator | Free Tool</title>
-<meta name="description" content="Professional cups to tablespoons converter 2025. Convert cups to tbsp instantly with precision calculations. Perfect for cooking, baking, and recipe measurements.">
-<meta name="keywords" content="cups to tablespoons converter 2025, cup to tbsp calculator, cooking converter, recipe calculator, baking measurements">
+<title>Cups to Tablespoons Converter 2026 | Cup to Tbsp Calculator | Free Tool</title>
+<meta name="description" content="Professional cups to tablespoons converter 2026. Convert cups to tbsp instantly with precision calculations. Perfect for cooking, baking, and recipe measurements.">
+<meta name="keywords" content="cups to tablespoons converter 2026, cup to tbsp calculator, cooking converter, recipe calculator, baking measurements">
 <link rel="canonical" href="https://www.thiyagi.com/cups-to-tablespoons">
 
 <!-- Open Graph Meta Tags -->
-<meta property="og:title" content="Cups to Tablespoons Converter 2025 | Cup to Tbsp Calculator | Free Tool">
-<meta property="og:description" content="Professional cups to tablespoons converter 2025. Convert cups to tbsp instantly with precision calculations. Perfect for cooking, baking, and recipe measurements.">
+<meta property="og:title" content="Cups to Tablespoons Converter 2026 | Cup to Tbsp Calculator | Free Tool">
+<meta property="og:description" content="Professional cups to tablespoons converter 2026. Convert cups to tbsp instantly with precision calculations. Perfect for cooking, baking, and recipe measurements.">
 <meta property="og:url" content="https://www.thiyagi.com/cups-to-tablespoons">
 <meta property="og:type" content="website">
 <meta property="og:image" content="https://www.thiyagi.com/nt.png">
@@ -83,7 +83,7 @@
         </div>
         <h1 class="text-4xl md:text-6xl font-bold text-gray-900 mb-6">
           Cups to Tablespoons Converter
-          <span class="block text-2xl md:text-3xl text-sky-600 mt-2">Professional 2025</span>
+          <span class="block text-2xl md:text-3xl text-sky-600 mt-2">Professional 2026</span>
         </h1>
         <p class="text-xl text-gray-600 mb-8 max-w-4xl mx-auto leading-relaxed">
           Convert US cups to tablespoons with precision accuracy. Essential for cooking, baking, recipe scaling, 

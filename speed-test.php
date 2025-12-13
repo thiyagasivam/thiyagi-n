@@ -1,7 +1,7 @@
 <?php include 'header.php'; ?>
-<title>Internet Speed Test 2025 | Check Download Upload Speed | Free Network Tester</title>
-<meta name="description" content="Test your internet speed instantly with our 2025 free speed test tool. Check download, upload speeds and ping for accurate network performance measurement.">
-<meta name="keywords" content="internet speed test 2025, network speed checker, download upload speed test, ping test, bandwidth test, internet performance">
+<title>Internet Speed Test 2026 | Check Download Upload Speed | Free Network Tester</title>
+<meta name="description" content="Test your internet speed instantly with our 2026 free speed test tool. Check download, upload speeds and ping for accurate network performance measurement.">
+<meta name="keywords" content="internet speed test 2026, network speed checker, download upload speed test, ping test, bandwidth test, internet performance">
 <link rel="canonical" href="https://www.thiyagi.com/speed-test">
 
 <?php

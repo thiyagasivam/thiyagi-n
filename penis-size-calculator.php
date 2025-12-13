@@ -3,14 +3,14 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Penis Size Calculator 2025 - Medical Reference & Statistics | Thiyagi.com</title>
-    <meta name="description" content="Professional penis size calculator 2025 with medical references, average statistics, and health information. Compare measurements with medical studies and get accurate percentile rankings.">
-    <meta name="keywords" content="penis size calculator 2025, medical penis measurements, average penis size statistics, male health, urological measurements, medical reference calculator">
+    <title>Penis Size Calculator 2026 - Medical Reference & Statistics | Thiyagi.com</title>
+    <meta name="description" content="Professional penis size calculator 2026 with medical references, average statistics, and health information. Compare measurements with medical studies and get accurate percentile rankings.">
+    <meta name="keywords" content="penis size calculator 2026, medical penis measurements, average penis size statistics, male health, urological measurements, medical reference calculator">
     <meta name="author" content="Thiyagi">
     <meta name="robots" content="index, follow">
     
     <!-- Open Graph Meta Tags -->
-    <meta property="og:title" content="Penis Size Calculator 2025 - Medical Reference & Statistics">
+    <meta property="og:title" content="Penis Size Calculator 2026 - Medical Reference & Statistics">
     <meta property="og:description" content="Professional penis size calculator with medical references, average statistics, and health information based on scientific studies.">
     <meta property="og:url" content="https://www.thiyagi.com/penis-size-calculator">
     <meta property="og:type" content="website">
@@ -18,7 +18,7 @@
     
     <!-- Twitter Card Meta Tags -->
     <meta name="twitter:card" content="summary_large_image">
-    <meta name="twitter:title" content="Penis Size Calculator 2025 - Medical Reference & Statistics">
+    <meta name="twitter:title" content="Penis Size Calculator 2026 - Medical Reference & Statistics">
     <meta name="twitter:description" content="Professional penis size calculator with medical references, average statistics, and health information based on scientific studies.">
     <meta name="twitter:image" content="https://www.thiyagi.com/nt.png">
     
@@ -65,7 +65,7 @@
 {
   "@context": "https://schema.org",
   "@type": "WebApplication",
-  "name": "Penis Size Calculator 2025",
+  "name": "Penis Size Calculator 2026",
   "description": "Medical reference calculator for penis size measurements with scientific data, statistics, and health information based on urological studies.",
   "url": "https://www.thiyagi.com/penis-size-calculator",
   "applicationCategory": "MedicalApplication",

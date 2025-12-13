@@ -1,12 +1,12 @@
 <?php include 'header.php';?>
-<title>Feet to Yard Converter 2025 | Feet to Yard | Free Tool</title>
-<meta name="description" content="Convert feet to yard instantly with our 2025 accurate converter. Perfect feet to yard conversion with real-time calculations for landscaping.">
-<meta name="keywords" content="feet to yard 2025, feet yard converter, imperial unit conversion 2025, landscaping measurement calculator, construction conversion">
+<title>Feet to Yard Converter 2026 | Feet to Yard | Free Tool</title>
+<meta name="description" content="Convert feet to yard instantly with our 2026 accurate converter. Perfect feet to yard conversion with real-time calculations for landscaping.">
+<meta name="keywords" content="feet to yard 2026, feet yard converter, imperial unit conversion 2026, landscaping measurement calculator, construction conversion">
 <link rel="canonical" href="https://www.thiyagi.com/feet-to-yard">
 
 <!-- Open Graph Meta Tags -->
-<meta property="og:title" content="Feet to Yard Converter 2025 | Feet to Yard | Free Tool">
-<meta property="og:description" content="Convert feet to yard instantly with our 2025 accurate converter. Perfect feet to yard conversion with real-time calculations for landscaping.">
+<meta property="og:title" content="Feet to Yard Converter 2026 | Feet to Yard | Free Tool">
+<meta property="og:description" content="Convert feet to yard instantly with our 2026 accurate converter. Perfect feet to yard conversion with real-time calculations for landscaping.">
 <meta property="og:url" content="https://www.thiyagi.com/feet-to-yard">
 <meta property="og:type" content="website">
 <meta property="og:image" content="https://www.thiyagi.com/nt.png">
@@ -14,8 +14,8 @@
 
 <!-- Twitter Card Meta Tags -->
 <meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:title" content="Feet to Yard Converter 2025 | Feet to Yard | Free Tool">
-<meta name="twitter:description" content="Convert feet to yard instantly with our 2025 accurate converter. Perfect feet to yard conversion with real-time calculations for landscaping.">
+<meta name="twitter:title" content="Feet to Yard Converter 2026 | Feet to Yard | Free Tool">
+<meta name="twitter:description" content="Convert feet to yard instantly with our 2026 accurate converter. Perfect feet to yard conversion with real-time calculations for landscaping.">
 <meta name="twitter:image" content="https://www.thiyagi.com/nt.png">
 
 <!-- Additional SEO Meta Tags -->
@@ -39,7 +39,7 @@
           Feet to Yard Converter
         </h1>
         <p class="text-xl text-gray-600 mb-8 max-w-3xl mx-auto">
-          Convert feet to yards instantly with our accurate 2025 calculator. 
+          Convert feet to yards instantly with our accurate 2026 calculator. 
           Perfect for landscaping, sports fields, and construction measurements.
         </p>
       </div>
@@ -157,16 +157,16 @@
     <article class="bg-white rounded-xl shadow-lg p-8">
       <h2 class="text-2xl font-bold text-gray-800 mb-6 flex items-center gap-3">
         <i class="fas fa-info-circle text-green-600" aria-hidden="true"></i>
-        Feet to Yard Conversion 2025
+        Feet to Yard Conversion 2026
       </h2>
       <div class="prose max-w-none text-gray-600">
         <p class="mb-4">
-          Converting feet to yards is essential for landscaping, sports field measurements, and construction work in 2025. 
+          Converting feet to yards is essential for landscaping, sports field measurements, and construction work in 2026. 
           This imperial system conversion enables simplified measurements for outdoor projects, athletic facilities, 
           and property planning across the United States and other regions using imperial measurements.
         </p>
         <p class="mb-6">
-          Our 2025 converter provides instant and accurate conversions from feet to yards, essential for landscapers, 
+          Our 2026 converter provides instant and accurate conversions from feet to yards, essential for landscapers, 
           contractors, sports field managers, and property planners working with outdoor measurements. 
           Three feet equal exactly one yard, so feet are divided by 3 to get yards.
         </p>

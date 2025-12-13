@@ -1,19 +1,19 @@
 <?php include 'header.php'; ?>
 
 <!-- SEO Meta Tags -->
-<title>Pound to Kip Converter 2025 - lb to kip Calculator | Thiyagi</title>
-<meta name="description" content="Free online Pound to Kip converter 2025. Convert lb to kip and kip to lb instantly with accurate force conversion for structural engineering and construction.">
-<meta name="keywords" content="pound to kip converter 2025, lb to kip, force converter, structural engineering, construction loads, engineering calculations">
+<title>Pound to Kip Converter 2026 - lb to kip Calculator | Thiyagi</title>
+<meta name="description" content="Free online Pound to Kip converter 2026. Convert lb to kip and kip to lb instantly with accurate force conversion for structural engineering and construction.">
+<meta name="keywords" content="pound to kip converter 2026, lb to kip, force converter, structural engineering, construction loads, engineering calculations">
 <meta name="author" content="Thiyagi">
-<meta property="og:title" content="Pound to Kip Converter 2025 - lb to kip Calculator">
-<meta property="og:description" content="Free online Pound to Kip converter 2025. Convert lb to kip and kip to lb instantly.">
+<meta property="og:title" content="Pound to Kip Converter 2026 - lb to kip Calculator">
+<meta property="og:description" content="Free online Pound to Kip converter 2026. Convert lb to kip and kip to lb instantly.">
 <meta property="og:type" content="website">
 <meta property="og:url" content="https://www.thiyagi.com/pound-to-kip.php">
 <meta property="og:image" content="https://www.thiyagi.com/nt.png">
 <meta property="og:site_name" content="Thiyagi">
 <meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:title" content="Pound to Kip Converter 2025 - lb to kip Calculator">
-<meta name="twitter:description" content="Free online Pound to Kip converter 2025. Convert lb to kip and kip to lb instantly.">
+<meta name="twitter:title" content="Pound to Kip Converter 2026 - lb to kip Calculator">
+<meta name="twitter:description" content="Free online Pound to Kip converter 2026. Convert lb to kip and kip to lb instantly.">
 <meta name="twitter:image" content="https://www.thiyagi.com/nt.png">
 
 <div class="min-h-screen bg-gradient-to-br from-indigo-50 via-blue-50 to-purple-50 py-12">

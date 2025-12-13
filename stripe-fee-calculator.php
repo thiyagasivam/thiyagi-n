@@ -3,14 +3,14 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Stripe Fee Calculator 2025 - Calculate Payment Processing Fees | Thiyagi.com</title>
-    <meta name="description" content="Stripe fee calculator 2025 - calculate payment processing fees for domestic, international, and business transactions with accurate pricing breakdown.">
-    <meta name="keywords" content="stripe calculator 2025, payment fees calculator, stripe processing costs, transaction fee calculator, online payment fees">
+    <title>Stripe Fee Calculator 2026 - Calculate Payment Processing Fees | Thiyagi.com</title>
+    <meta name="description" content="Stripe fee calculator 2026 - calculate payment processing fees for domestic, international, and business transactions with accurate pricing breakdown.">
+    <meta name="keywords" content="stripe calculator 2026, payment fees calculator, stripe processing costs, transaction fee calculator, online payment fees">
     <meta name="author" content="Thiyagi">
     <meta name="robots" content="index, follow">
     
     <!-- Open Graph Meta Tags -->
-    <meta property="og:title" content="Stripe Fee Calculator 2025 - Calculate Payment Processing Fees">
+    <meta property="og:title" content="Stripe Fee Calculator 2026 - Calculate Payment Processing Fees">
     <meta property="og:description" content="Calculate accurate Stripe payment processing fees for all transaction types.">
     <meta property="og:url" content="https://www.thiyagi.com/stripe-fee-calculator">
     <meta property="og:type" content="website">
@@ -18,7 +18,7 @@
     
     <!-- Twitter Card Meta Tags -->
     <meta name="twitter:card" content="summary_large_image">
-    <meta name="twitter:title" content="Stripe Fee Calculator 2025 - Calculate Payment Processing Fees">
+    <meta name="twitter:title" content="Stripe Fee Calculator 2026 - Calculate Payment Processing Fees">
     <meta name="twitter:description" content="Calculate Stripe payment processing fees with our comprehensive calculator.">
     <meta name="twitter:image" content="https://www.thiyagi.com/nt.png">
     
@@ -74,7 +74,7 @@
 {
   "@context": "https://schema.org",
   "@type": "WebApplication",
-  "name": "Stripe Fee Calculator 2025",
+  "name": "Stripe Fee Calculator 2026",
   "description": "Calculate Stripe payment processing fees for domestic, international, and business transactions with accurate pricing breakdown.",
   "url": "https://www.thiyagi.com/stripe-fee-calculator",
   "applicationCategory": "FinanceApplication",

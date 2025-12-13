@@ -1,19 +1,19 @@
 <?php include 'header.php'; ?>
 
 <!-- SEO Meta Tags -->
-<title>Megawatt to Kilowatt Converter 2025 - Power Calculator | Thiyagi</title>
-<meta name="description" content="Free online megawatt to kilowatt converter 2025. Convert MW to kW instantly with accurate power conversion for electrical engineering applications.">
-<meta name="keywords" content="megawatt to kilowatt converter 2025, MW to kW, power converter, electrical calculator, energy converter">
+<title>Megawatt to Kilowatt Converter 2026 - Power Calculator | Thiyagi</title>
+<meta name="description" content="Free online megawatt to kilowatt converter 2026. Convert MW to kW instantly with accurate power conversion for electrical engineering applications.">
+<meta name="keywords" content="megawatt to kilowatt converter 2026, MW to kW, power converter, electrical calculator, energy converter">
 <meta name="author" content="Thiyagi">
-<meta property="og:title" content="Megawatt to Kilowatt Converter 2025 - Power Calculator">
-<meta property="og:description" content="Free online megawatt to kilowatt converter 2025. Convert MW to kW instantly with accurate power conversion.">
+<meta property="og:title" content="Megawatt to Kilowatt Converter 2026 - Power Calculator">
+<meta property="og:description" content="Free online megawatt to kilowatt converter 2026. Convert MW to kW instantly with accurate power conversion.">
 <meta property="og:type" content="website">
 <meta property="og:url" content="https://www.thiyagi.com/megawatt-to-kilowatt.php">
 <meta property="og:image" content="https://www.thiyagi.com/nt.png">
 <meta property="og:site_name" content="Thiyagi">
 <meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:title" content="Megawatt to Kilowatt Converter 2025 - Power Calculator">
-<meta name="twitter:description" content="Free online megawatt to kilowatt converter 2025. Convert MW to kW instantly.">
+<meta name="twitter:title" content="Megawatt to Kilowatt Converter 2026 - Power Calculator">
+<meta name="twitter:description" content="Free online megawatt to kilowatt converter 2026. Convert MW to kW instantly.">
 <meta name="twitter:image" content="https://www.thiyagi.com/nt.png">
 
 <div class="min-h-screen bg-gradient-to-br from-amber-50 via-yellow-50 to-orange-50 py-12">

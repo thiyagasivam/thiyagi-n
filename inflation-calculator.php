@@ -19,8 +19,8 @@ $futureValue = calculateInflation($currentAmount, $inflationRate, $years);
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Free Inflation Calculator 2025 - Adjust Prices for Purchasing Power</title>
-<meta name="description" content="Calculate how inflation affects money's value over time (2025). Compare historical and projected rates for 100+ countries - With CPI/RPI adjustment tools!">
+    <title>Free Inflation Calculator 2026 - Adjust Prices for Purchasing Power</title>
+<meta name="description" content="Calculate how inflation affects money's value over time (2026). Compare historical and projected rates for 100+ countries - With CPI/RPI adjustment tools!">
     <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" rel="stylesheet">
     <style>
         /* Custom styles */

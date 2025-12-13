@@ -34,8 +34,8 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Free Hex to Decimal Converter 2025 - Hexadecimal Calculator Online</title>
-<meta name="description" content="Instantly convert hexadecimal numbers to decimal values (2025). Perfect for programmers, students, and engineers - Fast, accurate, and no installation required!">
+    <title>Free Hex to Decimal Converter 2026 - Hexadecimal Calculator Online</title>
+<meta name="description" content="Instantly convert hexadecimal numbers to decimal values (2026). Perfect for programmers, students, and engineers - Fast, accurate, and no installation required!">
     <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" rel="stylesheet">
     <style>
         /* Custom styles */

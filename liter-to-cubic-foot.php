@@ -5,9 +5,9 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Liter to Cubic Foot Converter 2025 - Volume Conversion Calculator</title>
-    <meta name="description" content="Convert liters to cubic feet with our free 2025 online calculator. Accurate volume conversion for storage and liquid measurements.">
-    <meta name="keywords" content="liter to cubic foot converter 2025, L to ft³, volume converter, liquid measurement calculator 2025">
+    <title>Liter to Cubic Foot Converter 2026 - Volume Conversion Calculator</title>
+    <meta name="description" content="Convert liters to cubic feet with our free 2026 online calculator. Accurate volume conversion for storage and liquid measurements.">
+    <meta name="keywords" content="liter to cubic foot converter 2026, L to ft³, volume converter, liquid measurement calculator 2026">
     <script src="https://cdn.tailwindcss.com"></script>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
 </head>

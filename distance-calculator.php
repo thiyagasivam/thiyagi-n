@@ -21,30 +21,30 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Distance Calculator 2025 - Find Distance Between Two Locations</title>
-    <meta name="description" content="2025 Distance Calculator: Instantly find the distance between two locations, cities, or towns. Modern, SEO-friendly, mobile-ready tool for India and worldwide.">
-    <meta name="keywords" content="distance calculator 2025, city distance, km calculator, road distance, map distance, travel distance, india, online tool">
+    <title>Distance Calculator 2026 - Find Distance Between Two Locations</title>
+    <meta name="description" content="2026 Distance Calculator: Instantly find the distance between two locations, cities, or towns. Modern, SEO-friendly, mobile-ready tool for India and worldwide.">
+    <meta name="keywords" content="distance calculator 2026, city distance, km calculator, road distance, map distance, travel distance, india, online tool">
     <meta name="robots" content="index, follow">
     <link rel="canonical" href="https://www.thiyagi.com/distance-calculator">
     <!-- Open Graph / Facebook -->
     <meta property="og:type" content="website">
     <meta property="og:url" content="https://www.thiyagi.com/distance-calculator">
-    <meta property="og:title" content="Distance Calculator 2025 - Find Distance Between Two Locations">
-    <meta property="og:description" content="2025 Distance Calculator: Instantly find the distance between two locations, cities, or towns. Modern, SEO-friendly, mobile-ready tool.">
+    <meta property="og:title" content="Distance Calculator 2026 - Find Distance Between Two Locations">
+    <meta property="og:description" content="2026 Distance Calculator: Instantly find the distance between two locations, cities, or towns. Modern, SEO-friendly, mobile-ready tool.">
     <meta property="og:image" content="https://www.thiyagi.com/nt.png">
     <!-- Twitter -->
     <meta property="twitter:card" content="summary_large_image">
     <meta property="twitter:url" content="https://www.thiyagi.com/distance-calculator">
-    <meta property="twitter:title" content="Distance Calculator 2025 - Find Distance Between Two Locations">
-    <meta property="twitter:description" content="2025 Distance Calculator: Instantly find the distance between two locations, cities, or towns. Modern, SEO-friendly, mobile-ready tool.">
+    <meta property="twitter:title" content="Distance Calculator 2026 - Find Distance Between Two Locations">
+    <meta property="twitter:description" content="2026 Distance Calculator: Instantly find the distance between two locations, cities, or towns. Modern, SEO-friendly, mobile-ready tool.">
     <meta property="twitter:image" content="https://www.thiyagi.com/nt.png">
     <!-- JSON-LD Structured Data -->
     <script type="application/ld+json">
     {
         "@context": "https://schema.org",
         "@type": "WebApplication",
-        "name": "Distance Calculator 2025",
-        "description": "2025 Distance Calculator: Instantly find the distance between two locations, cities, or towns. Modern, SEO-friendly, mobile-ready tool.",
+        "name": "Distance Calculator 2026",
+        "description": "2026 Distance Calculator: Instantly find the distance between two locations, cities, or towns. Modern, SEO-friendly, mobile-ready tool.",
         "url": "https://www.thiyagi.com/distance-calculator",
         "applicationCategory": "TravelApplication",
         "operatingSystem": "Any",
@@ -64,7 +64,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
             "City-to-city distance",
             "Travel planning",
             "SEO optimized",
-            "2025 updated"
+            "2026 updated"
         ]
     }
     </script>
@@ -74,17 +74,17 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
         "@type": "FAQPage",
         "mainEntity": [{
             "@type": "Question",
-            "name": "How do I calculate the distance between two cities in 2025?",
+            "name": "How do I calculate the distance between two cities in 2026?",
             "acceptedAnswer": {
                 "@type": "Answer",
-                "text": "Enter your start and end locations, then input the known distance or use a map tool. Our 2025 calculator gives instant results."
+                "text": "Enter your start and end locations, then input the known distance or use a map tool. Our 2026 calculator gives instant results."
             }
         },{
             "@type": "Question",
-            "name": "Is this distance calculator updated for 2025?",
+            "name": "Is this distance calculator updated for 2026?",
             "acceptedAnswer": {
                 "@type": "Answer",
-                "text": "Yes, this tool is updated for 2025 and works for all cities, towns, and custom points."
+                "text": "Yes, this tool is updated for 2026 and works for all cities, towns, and custom points."
             }
         },{
             "@type": "Question",
@@ -155,11 +155,11 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
                             <div class="p-6">
                                 <div class="grid md:grid-cols-2 gap-4">
                                     <a href="/fuel-cost-calculator" class="block p-4 bg-yellow-50 rounded-lg hover:bg-yellow-100 transition duration-200">
-                                        <h4 class="font-semibold text-yellow-800">Fuel Cost Calculator 2025</h4>
+                                        <h4 class="font-semibold text-yellow-800">Fuel Cost Calculator 2026</h4>
                                         <p class="text-yellow-700 text-sm">Estimate your travel fuel expenses</p>
                                     </a>
                                     <a href="/railway-bike-parcel-charges-calculator" class="block p-4 bg-green-50 rounded-lg hover:bg-green-100 transition duration-200">
-                                        <h4 class="font-semibold text-green-800">Railway Bike Parcel Charges 2025</h4>
+                                        <h4 class="font-semibold text-green-800">Railway Bike Parcel Charges 2026</h4>
                                         <p class="text-green-700 text-sm">Calculate Indian Railways bike parcel cost</p>
                                     </a>
                                 </div>
@@ -172,7 +172,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
                     <p class="text-black text-lg">Find the distance between two locations easily</p>
                 </div>
             </div>
-            <h2 class="text-xl font-semibold text-blue-800 mb-4 text-center">Distance Calculator Form 2025</h2>
+            <h2 class="text-xl font-semibold text-blue-800 mb-4 text-center">Distance Calculator Form 2026</h2>
             <div class="bg-white rounded-xl shadow-2xl overflow-hidden">
                 <?php if ($error): ?>
                 <div class="bg-red-50 border-l-4 border-red-500 p-4">

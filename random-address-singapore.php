@@ -3,14 +3,14 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Random Singapore Address Generator 2025 - Fake Singapore Addresses | Thiyagi.com</title>
-    <meta name="description" content="Random Singapore address generator 2025 - generate realistic fake Singapore addresses with postal codes, districts, HDB blocks, and condominiums for testing purposes.">
-    <meta name="keywords" content="random singapore address generator 2025, fake singapore address, singapore postal code generator, singapore address for testing">
+    <title>Random Singapore Address Generator 2026 - Fake Singapore Addresses | Thiyagi.com</title>
+    <meta name="description" content="Random Singapore address generator 2026 - generate realistic fake Singapore addresses with postal codes, districts, HDB blocks, and condominiums for testing purposes.">
+    <meta name="keywords" content="random singapore address generator 2026, fake singapore address, singapore postal code generator, singapore address for testing">
     <meta name="author" content="Thiyagi">
     <meta name="robots" content="index, follow">
     
     <!-- Open Graph Meta Tags -->
-    <meta property="og:title" content="Random Singapore Address Generator 2025 - Fake Singapore Addresses">
+    <meta property="og:title" content="Random Singapore Address Generator 2026 - Fake Singapore Addresses">
     <meta property="og:description" content="Generate realistic fake Singapore addresses with postal codes and districts for testing and development purposes.">
     <meta property="og:url" content="https://www.thiyagi.com/random-address-singapore">
     <meta property="og:type" content="website">
@@ -18,7 +18,7 @@
     
     <!-- Twitter Card Meta Tags -->
     <meta name="twitter:card" content="summary_large_image">
-    <meta name="twitter:title" content="Random Singapore Address Generator 2025 - Fake Singapore Addresses">
+    <meta name="twitter:title" content="Random Singapore Address Generator 2026 - Fake Singapore Addresses">
     <meta name="twitter:description" content="Generate realistic fake Singapore addresses for testing and development.">
     <meta name="twitter:image" content="https://www.thiyagi.com/nt.png">
     
@@ -71,7 +71,7 @@
 {
   "@context": "https://schema.org",
   "@type": "WebApplication",
-  "name": "Random Singapore Address Generator 2025",
+  "name": "Random Singapore Address Generator 2026",
   "description": "Generate realistic fake Singapore addresses with postal codes, districts, HDB blocks, and condominiums for testing and development purposes.",
   "url": "https://www.thiyagi.com/random-address-singapore",
   "applicationCategory": "UtilityApplication",

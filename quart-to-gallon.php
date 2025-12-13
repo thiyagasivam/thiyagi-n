@@ -1,12 +1,12 @@
 <?php include 'header.php';?>
-<title>Quart to Gallon Converter 2025 | Qt to Gal Calculator | Free Tool</title>
-<meta name="description" content="Professional quart to gallon converter 2025. Convert quarts to gallons instantly with precision calculations. Perfect for cooking, fuel, and volume measurements.">
-<meta name="keywords" content="quart to gallon converter 2025, qt to gal calculator, cooking converter, fuel converter, volume measurements">
+<title>Quart to Gallon Converter 2026 | Qt to Gal Calculator | Free Tool</title>
+<meta name="description" content="Professional quart to gallon converter 2026. Convert quarts to gallons instantly with precision calculations. Perfect for cooking, fuel, and volume measurements.">
+<meta name="keywords" content="quart to gallon converter 2026, qt to gal calculator, cooking converter, fuel converter, volume measurements">
 <link rel="canonical" href="https://www.thiyagi.com/quart-to-gallon">
 
 <!-- Open Graph Meta Tags -->
-<meta property="og:title" content="Quart to Gallon Converter 2025 | Qt to Gal Calculator | Free Tool">
-<meta property="og:description" content="Professional quart to gallon converter 2025. Convert quarts to gallons instantly with precision calculations. Perfect for cooking, fuel, and volume measurements.">
+<meta property="og:title" content="Quart to Gallon Converter 2026 | Qt to Gal Calculator | Free Tool">
+<meta property="og:description" content="Professional quart to gallon converter 2026. Convert quarts to gallons instantly with precision calculations. Perfect for cooking, fuel, and volume measurements.">
 <meta property="og:url" content="https://www.thiyagi.com/quart-to-gallon">
 <meta property="og:type" content="website">
 <meta property="og:image" content="https://www.thiyagi.com/nt.png">
@@ -83,7 +83,7 @@
         </div>
         <h1 class="text-4xl md:text-6xl font-bold text-gray-900 mb-6">
           Quart to Gallon Converter
-          <span class="block text-2xl md:text-3xl text-blue-600 mt-2">Professional 2025</span>
+          <span class="block text-2xl md:text-3xl text-blue-600 mt-2">Professional 2026</span>
         </h1>
         <p class="text-xl text-gray-600 mb-8 max-w-4xl mx-auto leading-relaxed">
           Convert quarts to gallons with precision accuracy. Essential for fuel calculations, 

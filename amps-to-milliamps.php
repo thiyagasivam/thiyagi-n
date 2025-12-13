@@ -5,9 +5,9 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Amperes to Milliamperes Converter 2025 - Current Conversion Calculator</title>
-    <meta name="description" content="Convert amperes to milliamperes with our free 2025 online calculator. Perfect for electrical engineering and electronics calculations.">
-    <meta name="keywords" content="amperes to milliamperes converter 2025, amp to mA, electrical current calculator, electronics converter 2025">
+    <title>Amperes to Milliamperes Converter 2026 - Current Conversion Calculator</title>
+    <meta name="description" content="Convert amperes to milliamperes with our free 2026 online calculator. Perfect for electrical engineering and electronics calculations.">
+    <meta name="keywords" content="amperes to milliamperes converter 2026, amp to mA, electrical current calculator, electronics converter 2026">
     <script src="https://cdn.tailwindcss.com"></script>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
 </head>

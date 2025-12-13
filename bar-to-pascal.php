@@ -1,19 +1,19 @@
 <?php include 'header.php'; ?>
 
 <!-- SEO Meta Tags -->
-<title>Bar to Pascal Converter 2025 - bar to Pa Calculator | Thiyagi</title>
-<meta name="description" content="Free online Bar to Pascal converter 2025. Convert bar to Pa and Pa to bar instantly with accurate pressure conversion for scientific and engineering use.">
-<meta name="keywords" content="bar to pascal converter 2025, bar to Pa, pressure converter, scientific pressure, metric pressure units">
+<title>Bar to Pascal Converter 2026 - bar to Pa Calculator | Thiyagi</title>
+<meta name="description" content="Free online Bar to Pascal converter 2026. Convert bar to Pa and Pa to bar instantly with accurate pressure conversion for scientific and engineering use.">
+<meta name="keywords" content="bar to pascal converter 2026, bar to Pa, pressure converter, scientific pressure, metric pressure units">
 <meta name="author" content="Thiyagi">
-<meta property="og:title" content="Bar to Pascal Converter 2025 - bar to Pa Calculator">
-<meta property="og:description" content="Free online Bar to Pascal converter 2025. Convert bar to Pa and Pa to bar instantly.">
+<meta property="og:title" content="Bar to Pascal Converter 2026 - bar to Pa Calculator">
+<meta property="og:description" content="Free online Bar to Pascal converter 2026. Convert bar to Pa and Pa to bar instantly.">
 <meta property="og:type" content="website">
 <meta property="og:url" content="https://www.thiyagi.com/bar-to-pascal.php">
 <meta property="og:image" content="https://www.thiyagi.com/nt.png">
 <meta property="og:site_name" content="Thiyagi">
 <meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:title" content="Bar to Pascal Converter 2025 - bar to Pa Calculator">
-<meta name="twitter:description" content="Free online Bar to Pascal converter 2025. Convert bar to Pa and Pa to bar instantly.">
+<meta name="twitter:title" content="Bar to Pascal Converter 2026 - bar to Pa Calculator">
+<meta name="twitter:description" content="Free online Bar to Pascal converter 2026. Convert bar to Pa and Pa to bar instantly.">
 <meta name="twitter:image" content="https://www.thiyagi.com/nt.png">
 
 <div class="min-h-screen bg-gradient-to-br from-blue-50 via-indigo-50 to-purple-50 py-12">

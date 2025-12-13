@@ -1,19 +1,19 @@
 <?php include 'header.php'; ?>
 
 <!-- SEO Meta Tags -->
-<title>Gram to Grain Converter 2025 - Weight Calculator | Thiyagi</title>
-<meta name="description" content="Free online gram to grain converter 2025. Convert g to gr instantly with accurate weight conversion for pharmaceuticals and precious metals.">
-<meta name="keywords" content="gram to grain converter 2025, g to gr, weight converter, pharmaceutical calculator, precious metals">
+<title>Gram to Grain Converter 2026 - Weight Calculator | Thiyagi</title>
+<meta name="description" content="Free online gram to grain converter 2026. Convert g to gr instantly with accurate weight conversion for pharmaceuticals and precious metals.">
+<meta name="keywords" content="gram to grain converter 2026, g to gr, weight converter, pharmaceutical calculator, precious metals">
 <meta name="author" content="Thiyagi">
-<meta property="og:title" content="Gram to Grain Converter 2025 - Weight Calculator">
-<meta property="og:description" content="Free online gram to grain converter 2025. Convert g to gr instantly with accurate weight conversion.">
+<meta property="og:title" content="Gram to Grain Converter 2026 - Weight Calculator">
+<meta property="og:description" content="Free online gram to grain converter 2026. Convert g to gr instantly with accurate weight conversion.">
 <meta property="og:type" content="website">
 <meta property="og:url" content="https://www.thiyagi.com/gram-to-grain.php">
 <meta property="og:image" content="https://www.thiyagi.com/nt.png">
 <meta property="og:site_name" content="Thiyagi">
 <meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:title" content="Gram to Grain Converter 2025 - Weight Calculator">
-<meta name="twitter:description" content="Free online gram to grain converter 2025. Convert g to gr instantly.">
+<meta name="twitter:title" content="Gram to Grain Converter 2026 - Weight Calculator">
+<meta name="twitter:description" content="Free online gram to grain converter 2026. Convert g to gr instantly.">
 <meta name="twitter:image" content="https://www.thiyagi.com/nt.png">
 
 <div class="min-h-screen bg-gradient-to-br from-emerald-50 via-green-50 to-teal-50 py-12">

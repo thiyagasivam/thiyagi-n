@@ -70,7 +70,7 @@ $breadcrumbSchema = [
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Poco Authorized Service Centers Near Me 2025</title>
+    <title>Poco Authorized Service Centers Near Me 2026</title>
     <script src="https://cdn.tailwindcss.com"></script>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
     <style>
@@ -99,7 +99,7 @@ $breadcrumbSchema = [
             <div class="flex items-center justify-between">
                 <div class="flex items-center space-x-3">
                     <i class="fas fa-mobile-alt poco-primary text-2xl"></i>
-                    <h1 class="text-xl font-bold text-gray-800">Poco Service Centers Near Me 2025</h1>
+                    <h1 class="text-xl font-bold text-gray-800">Poco Service Centers Near Me 2026</h1>
                 </div>
                 <span class="bg-gray-100 text-gray-800 px-3 py-1 rounded-full text-sm">
                     <i class="fas fa-store mr-1"></i>

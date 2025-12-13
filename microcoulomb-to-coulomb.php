@@ -1,19 +1,19 @@
 <?php include 'header.php'; ?>
 
 <!-- SEO Meta Tags -->
-<title>Microcoulomb to Coulomb Converter 2025 - μC to C Calculator | Thiyagi</title>
-<meta name="description" content="Free online Microcoulomb to Coulomb converter 2025. Convert μC to C and C to μC instantly with accurate electric charge conversion.">
-<meta name="keywords" content="microcoulomb to coulomb converter 2025, μC to C, electric charge conversion, electrical units, electronics calculator">
+<title>Microcoulomb to Coulomb Converter 2026 - μC to C Calculator | Thiyagi</title>
+<meta name="description" content="Free online Microcoulomb to Coulomb converter 2026. Convert μC to C and C to μC instantly with accurate electric charge conversion.">
+<meta name="keywords" content="microcoulomb to coulomb converter 2026, μC to C, electric charge conversion, electrical units, electronics calculator">
 <meta name="author" content="Thiyagi">
-<meta property="og:title" content="Microcoulomb to Coulomb Converter 2025 - μC to C Calculator">
-<meta property="og:description" content="Free online Microcoulomb to Coulomb converter 2025. Convert μC to C and C to μC instantly.">
+<meta property="og:title" content="Microcoulomb to Coulomb Converter 2026 - μC to C Calculator">
+<meta property="og:description" content="Free online Microcoulomb to Coulomb converter 2026. Convert μC to C and C to μC instantly.">
 <meta property="og:type" content="website">
 <meta property="og:url" content="https://www.thiyagi.com/microcoulomb-to-coulomb.php">
 <meta property="og:image" content="https://www.thiyagi.com/nt.png">
 <meta property="og:site_name" content="Thiyagi">
 <meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:title" content="Microcoulomb to Coulomb Converter 2025 - μC to C Calculator">
-<meta property="twitter:description" content="Free online Microcoulomb to Coulomb converter 2025. Convert μC to C and C to μC instantly.">
+<meta name="twitter:title" content="Microcoulomb to Coulomb Converter 2026 - μC to C Calculator">
+<meta property="twitter:description" content="Free online Microcoulomb to Coulomb converter 2026. Convert μC to C and C to μC instantly.">
 <meta name="twitter:image" content="https://www.thiyagi.com/nt.png">
 
 <div class="min-h-screen bg-gradient-to-br from-blue-50 via-cyan-50 to-teal-50 py-12">

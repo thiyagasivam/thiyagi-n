@@ -1,12 +1,12 @@
 <?php include 'header.php';?>
-<title>Feet to Yards Converter 2025 | Professional Length Calculator | Free Tool</title>
-<meta name="description" content="Professional feet to yards converter 2025. Convert feet to yards instantly with precision calculations. Perfect for construction, sports, and measurement applications.">
-<meta name="keywords" content="feet to yards converter 2025, ft to yd calculator, length converter, construction tools, sports measurements">
+<title>Feet to Yards Converter 2026 | Professional Length Calculator | Free Tool</title>
+<meta name="description" content="Professional feet to yards converter 2026. Convert feet to yards instantly with precision calculations. Perfect for construction, sports, and measurement applications.">
+<meta name="keywords" content="feet to yards converter 2026, ft to yd calculator, length converter, construction tools, sports measurements">
 <link rel="canonical" href="https://www.thiyagi.com/feet-to-yards">
 
 <!-- Open Graph Meta Tags -->
-<meta property="og:title" content="Feet to Yards Converter 2025 | Professional Length Calculator | Free Tool">
-<meta property="og:description" content="Professional feet to yards converter 2025. Convert feet to yards instantly with precision calculations. Perfect for construction, sports, and measurement applications.">
+<meta property="og:title" content="Feet to Yards Converter 2026 | Professional Length Calculator | Free Tool">
+<meta property="og:description" content="Professional feet to yards converter 2026. Convert feet to yards instantly with precision calculations. Perfect for construction, sports, and measurement applications.">
 <meta property="og:url" content="https://www.thiyagi.com/feet-to-yards">
 <meta property="og:type" content="website">
 <meta property="og:image" content="https://www.thiyagi.com/nt.png">
@@ -83,7 +83,7 @@
         </div>
         <h1 class="text-4xl md:text-6xl font-bold text-gray-900 mb-6">
           Feet to Yards Converter
-          <span class="block text-2xl md:text-3xl text-red-600 mt-2">Professional 2025</span>
+          <span class="block text-2xl md:text-3xl text-red-600 mt-2">Professional 2026</span>
         </h1>
         <p class="text-xl text-gray-600 mb-8 max-w-4xl mx-auto leading-relaxed">
           Convert feet to yards with professional-grade precision. Perfect for construction projects, 

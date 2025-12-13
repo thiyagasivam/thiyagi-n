@@ -2,19 +2,19 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Bank Holidays in India 2025 | RBI Calendar | NEFT/RTGS Holidays</title>
-    <meta name="description" content="Complete list of Bank Holidays in India 2025. Find RBI calendar, NEFT/RTGS holidays, national holidays, and state-specific bank closures. Plan your finances accordingly.">
-    <meta name="keywords" content="Bank Holidays India 2025, RBI holidays 2025, NEFT holidays 2025, RTGS holidays 2025, banking holidays India, financial calendar 2025, bank closure dates 2025">
+    <title>Bank Holidays in India 2026 | RBI Calendar | NEFT/RTGS Holidays</title>
+    <meta name="description" content="Complete list of Bank Holidays in India 2026. Find RBI calendar, NEFT/RTGS holidays, national holidays, and state-specific bank closures. Plan your finances accordingly.">
+    <meta name="keywords" content="Bank Holidays India 2026, RBI holidays 2026, NEFT holidays 2026, RTGS holidays 2026, banking holidays India, financial calendar 2026, bank closure dates 2026">
     <meta name="author" content="Indian Bank Holidays Calendar">
     <meta name="robots" content="index, follow">
-    <meta property="og:title" content="Bank Holidays in India 2025 - Complete Financial Calendar">
-    <meta property="og:description" content="Complete list of Bank Holidays in India 2025 including RBI calendar, NEFT/RTGS holidays, national holidays, and state-specific bank closures.">
+    <meta property="og:title" content="Bank Holidays in India 2026 - Complete Financial Calendar">
+    <meta property="og:description" content="Complete list of Bank Holidays in India 2026 including RBI calendar, NEFT/RTGS holidays, national holidays, and state-specific bank closures.">
     <meta property="og:type" content="website">
     <meta property="og:url" content="<?php echo 'https://' . $_SERVER['HTTP_HOST'] . $_SERVER['REQUEST_URI']; ?>">
-    <meta property="og:image" content="https://via.placeholder.com/1200x630/000080/FFFFFF?text=Bank+Holidays+India+2025">
+    <meta property="og:image" content="https://via.placeholder.com/1200x630/000080/FFFFFF?text=Bank+Holidays+India+2026">
     <meta name="twitter:card" content="summary_large_image">
-    <meta name="twitter:title" content="Bank Holidays in India 2025">
-    <meta name="twitter:description" content="Complete list of Bank Holidays in India 2025 including RBI calendar, NEFT/RTGS holidays, and state-specific closures.">
+    <meta name="twitter:title" content="Bank Holidays in India 2026">
+    <meta name="twitter:description" content="Complete list of Bank Holidays in India 2026 including RBI calendar, NEFT/RTGS holidays, and state-specific closures.">
     <link rel="canonical" href="<?php echo 'https://' . $_SERVER['HTTP_HOST'] . $_SERVER['REQUEST_URI']; ?>">
     <meta name="language" content="English">
     <meta name="geo.region" content="IN">
@@ -24,15 +24,15 @@
     {
         "@context": "https://schema.org",
         "@type": "WebPage",
-        "name": "Bank Holidays in India 2025",
-        "description": "Complete list of Bank Holidays in India 2025 including RBI calendar, NEFT/RTGS holidays, national holidays, and state-specific bank closures.",
+        "name": "Bank Holidays in India 2026",
+        "description": "Complete list of Bank Holidays in India 2026 including RBI calendar, NEFT/RTGS holidays, national holidays, and state-specific bank closures.",
         "url": "<?php echo 'https://' . $_SERVER['HTTP_HOST'] . $_SERVER['REQUEST_URI']; ?>",
         "mainEntity": {
             "@type": "FAQPage",
             "mainEntity": [
                 {
                     "@type": "Question",
-                    "name": "How many bank holidays are there in India in 2025?",
+                    "name": "How many bank holidays are there in India in 2026?",
                     "acceptedAnswer": {
                         "@type": "Answer",
                         "text": "The number of bank holidays in India varies by state and bank. Typically, there are around 10-15 mandatory bank holidays per year declared by the Central Government, plus additional state-specific holidays. Banks also observe all Saturdays as weekly holidays, with the 2nd and 4th Saturdays often being full holidays."
@@ -48,7 +48,7 @@
                 },
                 {
                     "@type": "Question",
-                    "name": "What are the mandatory bank holidays in India 2025?",
+                    "name": "What are the mandatory bank holidays in India 2026?",
                     "acceptedAnswer": {
                         "@type": "Answer",
                         "text": "Mandatory bank holidays in India are typically aligned with national holidays like Republic Day (Jan 26), Independence Day (Aug 15), and Gandhi Jayanti (Oct 2). The exact list is declared by the Central Government and applies to all banks. Additional holidays are declared by the State Governments for banks within their jurisdiction."
@@ -76,7 +76,7 @@
             "@type": "Organization",
             "name": "Indian Bank Holidays Calendar"
         },
-        "datePublished": "2025-01-01",
+        "datePublished": "2026-01-01",
         "dateModified": "<?php echo date('Y-m-d'); ?>"
     }
     </script>
@@ -117,198 +117,198 @@
 </head>
 <body class="bg-gradient-to-br from-blue-50 to-indigo-100 min-h-screen">
     <?php
-    // Bank Holidays in India 2025 Data
-    $bank_holidays_2025 = [
-        '2025-01-01' => [
+    // Bank Holidays in India 2026 Data
+    $bank_holidays_2026 = [
+        '2026-01-01' => [
             'name' => 'New Year\'s Day',
             'type' => 'National Holiday',
             'description' => 'Celebration of the new year',
             'icon' => 'fa-calendar-day',
             'category' => 'National'
         ],
-        '2025-01-14' => [
+        '2026-01-14' => [
             'name' => 'Pongal Eve',
             'type' => 'Bank Holiday',
             'description' => 'Day before Pongal - Banks closed',
             'icon' => 'fa-university',
             'category' => 'Regional'
         ],
-        '2025-01-15' => [
+        '2026-01-15' => [
             'name' => 'Pongal',
             'type' => 'Tamil Festival',
             'description' => 'Harvest festival celebrated in Tamil Nadu',
             'icon' => 'fa-sun',
             'category' => 'Regional'
         ],
-        '2025-01-16' => [
+        '2026-01-16' => [
             'name' => 'Thiruvalluvar Day',
             'type' => 'Tamil Cultural',
             'description' => 'Birth anniversary of Tamil poet Thiruvalluvar',
             'icon' => 'fa-book-open',
             'category' => 'Regional'
         ],
-        '2025-01-17' => [
+        '2026-01-17' => [
             'name' => 'Pongal Holiday',
             'type' => 'Bank Holiday',
             'description' => 'Extended Pongal holiday - Banks closed',
             'icon' => 'fa-university',
             'category' => 'Regional'
         ],
-        '2025-01-26' => [
+        '2026-01-26' => [
             'name' => 'Republic Day',
             'type' => 'National Holiday',
             'description' => 'Celebration of Indian Republic',
             'icon' => 'fa-flag',
             'category' => 'National'
         ],
-        '2025-02-19' => [
+        '2026-02-19' => [
             'name' => 'Chatrapati Shivaji Maharaj Jayanti',
             'type' => 'Bank Holiday',
             'description' => 'Birth anniversary of Chatrapati Shivaji Maharaj',
             'icon' => 'fa-university',
             'category' => 'Regional'
         ],
-        '2025-03-04' => [
+        '2026-03-04' => [
             'name' => 'Mahashivratri',
             'type' => 'Religious Holiday',
             'description' => 'Hindu festival dedicated to Lord Shiva',
             'icon' => 'fa-university',
             'category' => 'Religious'
         ],
-        '2025-03-25' => [
+        '2026-03-25' => [
             'name' => 'Holi',
             'type' => 'Bank Holiday',
             'description' => 'Festival of colors - Banks closed',
             'icon' => 'fa-university',
             'category' => 'Religious'
         ],
-        '2025-04-02' => [
+        '2026-04-02' => [
             'name' => 'Good Friday',
             'type' => 'Bank Holiday',
             'description' => 'Christian religious holiday - Banks closed',
             'icon' => 'fa-university',
             'category' => 'Religious'
         ],
-        '2025-04-04' => [
+        '2026-04-04' => [
             'name' => 'Easter Sunday',
             'type' => 'Bank Holiday',
             'description' => 'Christian religious holiday - Banks closed',
             'icon' => 'fa-university',
             'category' => 'Religious'
         ],
-        '2025-04-14' => [
+        '2026-04-14' => [
             'name' => 'Ambedkar Jayanti',
             'type' => 'Bank Holiday',
             'description' => 'Birth anniversary of Dr. B.R. Ambedkar',
             'icon' => 'fa-university',
             'category' => 'National'
         ],
-        '2025-04-14' => [
+        '2026-04-14' => [
             'name' => 'Tamil New Year (Chithirai)',
             'type' => 'Tamil Festival',
             'description' => 'Chithirai month new year celebration',
             'icon' => 'fa-calendar-check',
             'category' => 'Regional'
         ],
-        '2025-05-01' => [
+        '2026-05-01' => [
             'name' => 'Labour Day / May Day',
             'type' => 'International',
             'description' => 'International Workers\' Day',
             'icon' => 'fa-hard-hat',
             'category' => 'National'
         ],
-        '2025-05-09' => [
+        '2026-05-09' => [
             'name' => 'Buddha Purnima',
             'type' => 'Bank Holiday',
             'description' => 'Birth anniversary of Lord Buddha',
             'icon' => 'fa-university',
             'category' => 'Religious'
         ],
-        '2025-06-17' => [
+        '2026-06-17' => [
             'name' => 'Bakrid/Eid al-Adha',
             'type' => 'Bank Holiday',
             'description' => 'Islamic festival - Banks closed',
             'icon' => 'fa-university',
             'category' => 'Religious'
         ],
-        '2025-07-17' => [
+        '2026-07-17' => [
             'name' => 'Muharram',
             'type' => 'Bank Holiday',
             'description' => 'Islamic New Year - Banks closed',
             'icon' => 'fa-university',
             'category' => 'Religious'
         ],
-        '2025-08-15' => [
+        '2026-08-15' => [
             'name' => 'Independence Day',
             'type' => 'National Holiday',
             'description' => 'Indian Independence Day',
             'icon' => 'fa-dove',
             'category' => 'National'
         ],
-        '2025-08-26' => [
+        '2026-08-26' => [
             'name' => 'Janmashtami',
             'type' => 'Bank Holiday',
             'description' => 'Birth anniversary of Lord Krishna',
             'icon' => 'fa-university',
             'category' => 'Religious'
         ],
-        '2025-09-07' => [
+        '2026-09-07' => [
             'name' => 'Ganesh Chaturthi',
             'type' => 'Bank Holiday',
             'description' => 'Birth anniversary of Lord Ganesha',
             'icon' => 'fa-university',
             'category' => 'Religious'
         ],
-        '2025-09-23' => [
+        '2026-09-23' => [
             'name' => 'Maha Navami',
             'type' => 'Bank Holiday',
             'description' => 'Ninth day of Navratri - Banks closed',
             'icon' => 'fa-university',
             'category' => 'Religious'
         ],
-        '2025-09-24' => [
+        '2026-09-24' => [
             'name' => 'Vijaya Dashami/Dussehra',
             'type' => 'Bank Holiday',
             'description' => 'Tenth day of Navratri - Banks closed',
             'icon' => 'fa-university',
             'category' => 'Religious'
         ],
-        '2025-10-02' => [
+        '2026-10-02' => [
             'name' => 'Gandhi Jayanti',
             'type' => 'National Holiday',
             'description' => 'Birth anniversary of Mahatma Gandhi',
             'icon' => 'fa-peace',
             'category' => 'National'
         ],
-        '2025-10-31' => [
+        '2026-10-31' => [
             'name' => 'Diwali',
             'type' => 'Bank Holiday',
             'description' => 'Festival of lights - Banks closed',
             'icon' => 'fa-university',
             'category' => 'Religious'
         ],
-        '2025-11-01' => [
+        '2026-11-01' => [
             'name' => 'Diwali Holiday',
             'type' => 'Bank Holiday',
             'description' => 'Day after Diwali - Banks closed',
             'icon' => 'fa-university',
             'category' => 'Religious'
         ],
-        '2025-11-15' => [
+        '2026-11-15' => [
             'name' => 'Guru Nanak Jayanti',
             'type' => 'Bank Holiday',
             'description' => 'Birth anniversary of Guru Nanak Dev Ji',
             'icon' => 'fa-university',
             'category' => 'Religious'
         ],
-        '2025-12-24' => [
+        '2026-12-24' => [
             'name' => 'Christmas Eve',
             'type' => 'Bank Holiday',
             'description' => 'Day before Christmas - Banks closed',
             'icon' => 'fa-university',
             'category' => 'Religious'
         ],
-        '2025-12-25' => [
+        '2026-12-25' => [
             'name' => 'Christmas',
             'type' => 'Religious',
             'description' => 'Celebration of Jesus Christ\'s birth',
@@ -317,20 +317,20 @@
         ]
     ];
 
-    // Saturdays in 2025 (2nd and 4th of each month)
-    $saturday_holidays_2025 = [];
+    // Saturdays in 2026 (2nd and 4th of each month)
+    $saturday_holidays_2026 = [];
     for ($month = 1; $month <= 12; $month++) {
-        $first_day = mktime(0, 0, 0, $month, 1, 2025);
+        $first_day = mktime(0, 0, 0, $month, 1, 2026);
         $days_in_month = date('t', $first_day);
         $saturdays = [];
         for ($day = 1; $day <= $days_in_month; $day++) {
-            $timestamp = mktime(0, 0, 0, $month, $day, 2025);
+            $timestamp = mktime(0, 0, 0, $month, $day, 2026);
             if (date('w', $timestamp) == 6) { // 6 = Saturday
                 $saturdays[] = date('Y-m-d', $timestamp);
             }
         }
         if (isset($saturdays[1])) { // 2nd Saturday
-            $saturday_holidays_2025[$saturdays[1]] = [
+            $saturday_holidays_2026[$saturdays[1]] = [
                 'name' => 'Second Saturday',
                 'type' => 'Weekly Holiday',
                 'description' => 'Second Saturday of the month - Banks closed',
@@ -339,7 +339,7 @@
             ];
         }
         if (isset($saturdays[3])) { // 4th Saturday
-            $saturday_holidays_2025[$saturdays[3]] = [
+            $saturday_holidays_2026[$saturdays[3]] = [
                 'name' => 'Fourth Saturday',
                 'type' => 'Weekly Holiday',
                 'description' => 'Fourth Saturday of the month - Banks closed',
@@ -350,14 +350,14 @@
     }
 
     // Merge all holidays
-    $all_bank_holidays_2025 = array_merge($bank_holidays_2025, $saturday_holidays_2025);
-    ksort($all_bank_holidays_2025); // Sort by date
+    $all_bank_holidays_2026 = array_merge($bank_holidays_2026, $saturday_holidays_2026);
+    ksort($all_bank_holidays_2026); // Sort by date
 
     // Categorize holidays
-    $national_holidays = array_filter($all_bank_holidays_2025, function($h) { return $h['category'] === 'National'; });
-    $religious_holidays = array_filter($all_bank_holidays_2025, function($h) { return $h['category'] === 'Religious'; });
-    $regional_holidays = array_filter($all_bank_holidays_2025, function($h) { return $h['category'] === 'Regional'; });
-    $weekly_holidays = array_filter($all_bank_holidays_2025, function($h) { return $h['category'] === 'Weekly'; });
+    $national_holidays = array_filter($all_bank_holidays_2026, function($h) { return $h['category'] === 'National'; });
+    $religious_holidays = array_filter($all_bank_holidays_2026, function($h) { return $h['category'] === 'Religious'; });
+    $regional_holidays = array_filter($all_bank_holidays_2026, function($h) { return $h['category'] === 'Regional'; });
+    $weekly_holidays = array_filter($all_bank_holidays_2026, function($h) { return $h['category'] === 'Weekly'; });
     ?>
     <!-- Header -->
     <header class="bg-gradient-to-r from-bank-blue to-blue-900 text-white shadow-lg relative overflow-hidden">
@@ -376,7 +376,7 @@
                     </div>
                     <div>
                         <h1 class="text-4xl font-bold flex items-center space-x-3">
-                            <span>Bank Holidays in India 2025</span>
+                            <span>Bank Holidays in India 2026</span>
                             <i class="fas fa-rupee-sign text-2xl animate-bounce"></i>
                         </h1>
                         <p class="text-lg opacity-90 flex items-center space-x-2">
@@ -396,7 +396,7 @@
                     </p>
                     <div class="mt-2 flex items-center space-x-2">
                         <i class="fas fa-gift text-yellow-200"></i>
-                        <span class="text-sm opacity-75"><?php echo count($all_bank_holidays_2025); ?> Total Bank Holidays</span>
+                        <span class="text-sm opacity-75"><?php echo count($all_bank_holidays_2026); ?> Total Bank Holidays</span>
                     </div>
                 </div>
             </div>
@@ -420,7 +420,7 @@
                 <li><i class="fas fa-chevron-right text-xs"></i></li>
                 <li><a href="#" class="hover:text-blue-600 transition-colors">India</a></li>
                 <li><i class="fas fa-chevron-right text-xs"></i></li>
-                <li class="text-gray-800 font-medium">Bank Holidays 2025</li>
+                <li class="text-gray-800 font-medium">Bank Holidays 2026</li>
             </ol>
         </nav>
         <!-- SEO Introduction Section -->
@@ -428,11 +428,11 @@
             <div class="max-w-4xl mx-auto text-center">
                 <h2 class="text-3xl font-bold text-gray-800 mb-4 flex items-center justify-center space-x-3">
                     <i class="fas fa-university text-bank-blue"></i>
-                    <span>Complete Bank Holidays Calendar for India 2025</span>
+                    <span>Complete Bank Holidays Calendar for India 2026</span>
                     <i class="fas fa-star text-yellow-500"></i>
                 </h2>
                 <p class="text-lg text-gray-700 mb-4 leading-relaxed">
-                    Welcome to the comprehensive Bank Holidays Calendar for India 2025! This detailed guide provides you with all the important dates when banks across India will remain closed. Whether you're planning financial transactions, organizing payments, or simply want to stay informed about the Reserve Bank of India's financial calendar, our list covers everything from mandatory national holidays to regional celebrations and weekly closures.
+                    Welcome to the comprehensive Bank Holidays Calendar for India 2026! This detailed guide provides you with all the important dates when banks across India will remain closed. Whether you're planning financial transactions, organizing payments, or simply want to stay informed about the Reserve Bank of India's financial calendar, our list covers everything from mandatory national holidays to regional celebrations and weekly closures.
                 </p>
                 <div class="grid md:grid-cols-3 gap-4 mt-6">
                     <div class="bg-white p-4 rounded-lg shadow-sm border border-blue-200">
@@ -454,14 +454,14 @@
             </div>
         </section>
 
-        <!-- H1: Bank Holidays in India 2025 -->
-        <h1 class="text-3xl md:text-4xl font-bold text-gray-900 mb-6 text-center">Bank Holidays in India 2025</h1>
+        <!-- H1: Bank Holidays in India 2026 -->
+        <h1 class="text-3xl md:text-4xl font-bold text-gray-900 mb-6 text-center">Bank Holidays in India 2026</h1>
 
-        <!-- H2: List of Bank Holidays in India 2025 -->
+        <!-- H2: List of Bank Holidays in India 2026 -->
         <section class="mb-12 bg-white rounded-lg shadow-md p-6">
             <h2 class="text-2xl font-bold text-gray-800 mb-4 flex items-center">
                 <i class="fas fa-list text-bank-blue mr-3"></i>
-                List of Bank Holidays in India 2025
+                List of Bank Holidays in India 2026
             </h2>
             <div class="overflow-x-auto">
                 <table class="holiday-table min-w-full bg-white border border-gray-300 rounded-lg">
@@ -475,7 +475,7 @@
                         </tr>
                     </thead>
                     <tbody>
-                        <?php foreach ($all_bank_holidays_2025 as $date => $holiday): ?>
+                        <?php foreach ($all_bank_holidays_2026 as $date => $holiday): ?>
                         <tr>
                             <td class="py-3 px-4 border-b"><?php echo date('M d, Y', strtotime($date)); ?></td>
                             <td class="py-3 px-4 border-b"><?php echo date('l', strtotime($date)); ?></td>
@@ -505,11 +505,11 @@
             </div>
         </section>
 
-        <!-- H2: Types of Bank Holidays in 2025 -->
+        <!-- H2: Types of Bank Holidays in 2026 -->
         <section class="mb-12 bg-white rounded-lg shadow-md p-6">
             <h2 class="text-2xl font-bold text-gray-800 mb-4 flex items-center">
                 <i class="fas fa-tags text-bank-blue mr-3"></i>
-                Types of Bank Holidays in 2025
+                Types of Bank Holidays in 2026
             </h2>
             <div class="grid md:grid-cols-2 gap-6">
                 <div class="border-l-4 border-red-500 pl-4 py-2">
@@ -535,7 +535,7 @@
         <section class="mb-12 bg-white rounded-lg shadow-md p-6">
             <h2 class="text-2xl font-bold text-gray-800 mb-4 flex items-center">
                 <i class="fas fa-flag text-red-500 mr-3"></i>
-                National Holidays in 2025
+                National Holidays in 2026
             </h2>
             <p class="text-gray-600 mb-4">These are mandatory holidays declared by the Central Government for all of India. Banks must remain closed on these dates nationwide.</p>
             <div class="grid md:grid-cols-3 gap-4">
@@ -556,7 +556,7 @@
         <section class="mb-12 bg-white rounded-lg shadow-md p-6">
             <h2 class="text-2xl font-bold text-gray-800 mb-4 flex items-center">
                 <i class="fas fa-building text-gray-700 mr-3"></i>
-                Government Holidays in 2025
+                Government Holidays in 2026
             </h2>
             <p class="text-gray-600 mb-4">Government holidays in India include both Central and State Government declared holidays. For banks, these often overlap with national and regional bank holidays.</p>
             <div class="prose max-w-none text-gray-700">
@@ -582,7 +582,7 @@
         <section class="mb-12 bg-white rounded-lg shadow-md p-6">
             <h2 class="text-2xl font-bold text-gray-800 mb-4 flex items-center">
                 <i class="fas fa-landmark text-purple-600 mr-3"></i>
-                Central Government Holidays in 2025
+                Central Government Holidays in 2026
             </h2>
             <p class="text-gray-600 mb-4">These are holidays declared by the Central Government of India for its offices and public institutions. Banks across India are required to remain closed on these dates.</p>
             
@@ -605,12 +605,12 @@
                         <?php endforeach; ?>
                         <!-- Adding a few more potential central holidays -->
                         <tr>
-                            <td class="py-3 px-4 border-b">Mar 04, 2025</td>
+                            <td class="py-3 px-4 border-b">Mar 04, 2026</td>
                             <td class="py-3 px-4 border-b font-medium">Mahashivratri</td>
                             <td class="py-3 px-4 border-b">Hindu festival dedicated to Lord Shiva</td>
                         </tr>
                         <tr>
-                            <td class="py-3 px-4 border-b">Apr 14, 2025</td>
+                            <td class="py-3 px-4 border-b">Apr 14, 2026</td>
                             <td class="py-3 px-4 border-b font-medium">Ambedkar Jayanti</td>
                             <td class="py-3 px-4 border-b">Birth anniversary of Dr. B.R. Ambedkar</td>
                         </tr>
@@ -633,7 +633,7 @@
         <section class="mb-12 bg-white rounded-lg shadow-md p-6">
             <h2 class="text-2xl font-bold text-gray-800 mb-4 flex items-center">
                 <i class="fas fa-map text-green-600 mr-3"></i>
-                State Government Holidays in 2025
+                State Government Holidays in 2026
             </h2>
             <p class="text-gray-600 mb-4">These are holidays declared by individual State Governments for their offices and public institutions. Banks in those states must observe these holidays as declared by the respective state governments.</p>
             
@@ -665,11 +665,11 @@
             </div>
         </section>
 
-        <!-- H2: RTGS and NEFT Holidays in 2025 -->
+        <!-- H2: RTGS and NEFT Holidays in 2026 -->
         <section class="mb-12 bg-white rounded-lg shadow-md p-6">
             <h2 class="text-2xl font-bold text-gray-800 mb-4 flex items-center">
                 <i class="fas fa-exchange-alt text-blue-600 mr-3"></i>
-                RTGS and NEFT Holidays in 2025
+                RTGS and NEFT Holidays in 2026
             </h2>
             <p class="text-gray-600 mb-4">RTGS (Real Time Gross Settlement) and NEFT (National Electronic Funds Transfer) services are not available on bank holidays declared by the Reserve Bank of India. Transactions initiated on a holiday will be processed on the next working day.</p>
             
@@ -716,7 +716,7 @@
         <section class="mb-12 bg-white rounded-lg shadow-md p-6">
             <h2 class="text-2xl font-bold text-gray-800 mb-4 flex items-center">
                 <i class="fas fa-calendar-week text-orange-600 mr-3"></i>
-                Bank Holidays on Second and Fourth Saturdays in 2025
+                Bank Holidays on Second and Fourth Saturdays in 2026
             </h2>
             <p class="text-gray-600 mb-4">In India, all Saturdays are weekly holidays for banks. Additionally, the 2nd and 4th Saturdays of every month are typically observed as full bank holidays, meaning banks remain closed for all operations including NEFT/RTGS.</p>
             
@@ -740,7 +740,7 @@
                         foreach ($months as $month_num => $month_name) {
                             $second_sat = '';
                             $fourth_sat = '';
-                            foreach ($saturday_holidays_2025 as $date => $holiday) {
+                            foreach ($saturday_holidays_2026 as $date => $holiday) {
                                 $date_month = date('n', strtotime($date));
                                 if ($date_month == $month_num) {
                                     if ($holiday['name'] == 'Second Saturday') {
@@ -784,13 +784,13 @@
             </div>
         </section>
 
-        <!-- H2: Brief Description of Bank Holidays in 2025 -->
+        <!-- H2: Brief Description of Bank Holidays in 2026 -->
         <section class="mb-12 bg-white rounded-lg shadow-md p-6">
             <h2 class="text-2xl font-bold text-gray-800 mb-4 flex items-center">
                 <i class="fas fa-book text-gray-700 mr-3"></i>
-                Brief Description of Bank Holidays in 2025
+                Brief Description of Bank Holidays in 2026
             </h2>
-            <p class="text-gray-600 mb-6">Bank holidays in India 2025 encompass a diverse range of national, religious, and regional celebrations that impact financial operations across the country. Understanding these holidays is crucial for effective financial planning and transaction scheduling.</p>
+            <p class="text-gray-600 mb-6">Bank holidays in India 2026 encompass a diverse range of national, religious, and regional celebrations that impact financial operations across the country. Understanding these holidays is crucial for effective financial planning and transaction scheduling.</p>
             
             <div class="prose max-w-none text-gray-700">
                 <h3 class="text-xl font-semibold text-gray-800 mt-4">National Significance</h3>
@@ -820,18 +820,18 @@
             </div>
         </section>
 
-        <!-- H2: FAQs on Bank Holidays in 2025 -->
+        <!-- H2: FAQs on Bank Holidays in 2026 -->
         <section class="mb-12 bg-white rounded-lg shadow-md p-6">
             <h2 class="text-2xl font-bold text-gray-800 mb-6 flex items-center">
                 <i class="fas fa-question-circle text-purple-600 mr-3"></i>
-                FAQs on Bank Holidays in 2025
+                FAQs on Bank Holidays in 2026
             </h2>
             <div class="space-y-6">
                 <!-- FAQ Item 1 -->
                 <div class="bg-gray-50 rounded-lg p-6 hover:shadow-md transition-all">
                     <h3 class="text-xl font-semibold text-gray-800 mb-3 flex items-center space-x-2">
                         <i class="fas fa-university text-blue-500"></i>
-                        <span>How many bank holidays are there in India in 2025?</span>
+                        <span>How many bank holidays are there in India in 2026?</span>
                     </h3>
                     <p class="text-gray-700 leading-relaxed">
                         The number of bank holidays in India varies by state and bank. Typically, there are around 10-15 mandatory bank holidays per year declared by the Central Government, plus additional state-specific holidays. Banks also observe all Saturdays as weekly holidays, with the 2nd and 4th Saturdays often being full holidays. In total, this can amount to approximately 40-50 days per year when banks are closed for full or partial operations.
@@ -853,7 +853,7 @@
                 <div class="bg-gray-50 rounded-lg p-6 hover:shadow-md transition-all">
                     <h3 class="text-xl font-semibold text-gray-800 mb-3 flex items-center space-x-2">
                         <i class="fas fa-gavel text-red-500"></i>
-                        <span>What are the mandatory bank holidays in India 2025?</span>
+                        <span>What are the mandatory bank holidays in India 2026?</span>
                     </h3>
                     <p class="text-gray-700 leading-relaxed">
                         Mandatory bank holidays in India are typically aligned with national holidays like Republic Day (Jan 26), Independence Day (Aug 15), and Gandhi Jayanti (Oct 2). The exact list is declared by the Central Government and applies to all banks. Additional holidays may be declared by the State Governments for banks within their jurisdiction. Banks must remain closed on all declared mandatory holidays.
@@ -927,32 +927,32 @@
             
             <div class="space-y-6">
                 <div class="border-l-4 border-blue-500 pl-4 py-2">
-                    <h3 class="text-xl font-semibold text-gray-800 mb-1">RBI Announces 2025 Financial Calendar</h3>
-                    <p class="text-sm text-gray-600 mb-2"><i class="far fa-calendar-alt mr-2"></i>January 15, 2025</p>
-                    <p class="text-gray-700">The Reserve Bank of India has released the official financial calendar for 2025, listing all the bank holidays for the year. The calendar includes national holidays, religious festivals, and regional celebrations that will affect banking operations across the country.</p>
+                    <h3 class="text-xl font-semibold text-gray-800 mb-1">RBI Announces 2026 Financial Calendar</h3>
+                    <p class="text-sm text-gray-600 mb-2"><i class="far fa-calendar-alt mr-2"></i>January 15, 2026</p>
+                    <p class="text-gray-700">The Reserve Bank of India has released the official financial calendar for 2026, listing all the bank holidays for the year. The calendar includes national holidays, religious festivals, and regional celebrations that will affect banking operations across the country.</p>
                 </div>
                 
                 <div class="border-l-4 border-green-500 pl-4 py-2">
                     <h3 class="text-xl font-semibold text-gray-800 mb-1">Government Declares Additional Holidays for Southern States</h3>
-                    <p class="text-sm text-gray-600 mb-2"><i class="far fa-calendar-alt mr-2"></i>February 10, 2025</p>
+                    <p class="text-sm text-gray-600 mb-2"><i class="far fa-calendar-alt mr-2"></i>February 10, 2026</p>
                     <p class="text-gray-700">The Central Government, in consultation with state authorities, has declared additional optional holidays for banks in southern states to coincide with regional festivals. This move aims to promote cultural celebrations and provide employees with opportunities to participate in local events.</p>
                 </div>
                 
                 <div class="border-l-4 border-yellow-500 pl-4 py-2">
                     <h3 class="text-xl font-semibold text-gray-800 mb-1">Digital Payments Surge on Bank Holidays</h3>
-                    <p class="text-sm text-gray-600 mb-2"><i class="far fa-calendar-alt mr-2"></i>March 22, 2025</p>
+                    <p class="text-sm text-gray-600 mb-2"><i class="far fa-calendar-alt mr-2"></i>March 22, 2026</p>
                     <p class="text-gray-700">A recent report indicates a significant increase in digital payment transactions through UPI and other platforms on bank holidays. With traditional banking services unavailable, consumers are increasingly turning to mobile wallets and digital payment solutions for their financial needs.</p>
                 </div>
                 
                 <div class="border-l-4 border-purple-500 pl-4 py-2">
                     <h3 class="text-xl font-semibold text-gray-800 mb-1">Banks Implement Flexible Holiday Policies</h3>
-                    <p class="text-sm text-gray-600 mb-2"><i class="far fa-calendar-alt mr-2"></i>April 5, 2025</p>
+                    <p class="text-sm text-gray-600 mb-2"><i class="far fa-calendar-alt mr-2"></i>April 5, 2026</p>
                     <p class="text-gray-700">Several major banks have announced flexible holiday policies allowing employees to swap certain holidays based on personal or regional preferences. This initiative aims to improve work-life balance while ensuring adequate staffing during peak periods.</p>
                 </div>
                 
                 <div class="border-l-4 border-red-500 pl-4 py-2">
                     <h3 class="text-xl font-semibold text-gray-800 mb-1">RBI Reviews Weekend Banking Operations</h3>
-                    <p class="text-sm text-gray-600 mb-2"><i class="far fa-calendar-alt mr-2"></i>May 18, 2025</p>
+                    <p class="text-sm text-gray-600 mb-2"><i class="far fa-calendar-alt mr-2"></i>May 18, 2026</p>
                     <p class="text-gray-700">The Reserve Bank of India is conducting a review of weekend banking operations, considering options to extend limited services on Saturdays. The review focuses on customer convenience and aligning with global banking practices while maintaining the traditional holiday structure.</p>
                 </div>
             </div>
@@ -997,10 +997,10 @@
     <script>
         function downloadCalendar() {
             // Create a simple text version for download
-            const content = `Bank Holidays in India 2025
+            const content = `Bank Holidays in India 2026
 Generated on: <?php echo date('F j, Y'); ?>
 
-<?php foreach ($all_bank_holidays_2025 as $date => $holiday): ?>
+<?php foreach ($all_bank_holidays_2026 as $date => $holiday): ?>
 <?php echo date('M d, Y', strtotime($date)); ?> - <?php echo $holiday['name']; ?> (<?php echo $holiday['type']; ?>)
 <?php endforeach; ?>
 
@@ -1010,7 +1010,7 @@ Note: This list includes major bank holidays observed across India. Specific hol
             const url = window.URL.createObjectURL(blob);
             const a = document.createElement('a');
             a.href = url;
-            a.download = 'bank-holidays-india-2025.txt';
+            a.download = 'bank-holidays-india-2026.txt';
             a.click();
             window.URL.revokeObjectURL(url);
         }
@@ -1018,8 +1018,8 @@ Note: This list includes major bank holidays observed across India. Specific hol
         function shareCalendar() {
             if (navigator.share) {
                 navigator.share({
-                    title: 'Bank Holidays in India 2025',
-                    text: 'Check out the complete list of Bank Holidays in India for 2025!',
+                    title: 'Bank Holidays in India 2026',
+                    text: 'Check out the complete list of Bank Holidays in India for 2026!',
                     url: window.location.href
                 });
             } else {

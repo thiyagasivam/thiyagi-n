@@ -1,19 +1,19 @@
 <?php include 'header.php'; ?>
 
 <!-- SEO Meta Tags -->
-<title>Ounce to Quarter US Converter 2025 - oz to qr US Calculator | Thiyagi</title>
-<meta name="description" content="Free online Ounce to Quarter US converter 2025. Convert oz to qr US and qr US to oz instantly with accurate weight conversion for trading and commerce.">
-<meta name="keywords" content="ounce to quarter us converter 2025, oz to qr us, weight converter, imperial weight, us measurements, trading weights">
+<title>Ounce to Quarter US Converter 2026 - oz to qr US Calculator | Thiyagi</title>
+<meta name="description" content="Free online Ounce to Quarter US converter 2026. Convert oz to qr US and qr US to oz instantly with accurate weight conversion for trading and commerce.">
+<meta name="keywords" content="ounce to quarter us converter 2026, oz to qr us, weight converter, imperial weight, us measurements, trading weights">
 <meta name="author" content="Thiyagi">
-<meta property="og:title" content="Ounce to Quarter US Converter 2025 - oz to qr US Calculator">
-<meta property="og:description" content="Free online Ounce to Quarter US converter 2025. Convert oz to qr US and qr US to oz instantly.">
+<meta property="og:title" content="Ounce to Quarter US Converter 2026 - oz to qr US Calculator">
+<meta property="og:description" content="Free online Ounce to Quarter US converter 2026. Convert oz to qr US and qr US to oz instantly.">
 <meta property="og:type" content="website">
 <meta property="og:url" content="https://www.thiyagi.com/ounce-to-quarter-us.php">
 <meta property="og:image" content="https://www.thiyagi.com/nt.png">
 <meta property="og:site_name" content="Thiyagi">
 <meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:title" content="Ounce to Quarter US Converter 2025 - oz to qr US Calculator">
-<meta name="twitter:description" content="Free online Ounce to Quarter US converter 2025. Convert oz to qr US and qr US to oz instantly.">
+<meta name="twitter:title" content="Ounce to Quarter US Converter 2026 - oz to qr US Calculator">
+<meta name="twitter:description" content="Free online Ounce to Quarter US converter 2026. Convert oz to qr US and qr US to oz instantly.">
 <meta name="twitter:image" content="https://www.thiyagi.com/nt.png">
 
 <div class="min-h-screen bg-gradient-to-br from-amber-50 via-yellow-50 to-orange-50 py-12">

@@ -1,7 +1,7 @@
 <?php include 'header.php'; ?>
-<title>MB to GB Converter 2025 | Data Storage Conversion Tool | Free Calculator</title>
-<meta name="description" content="Convert megabytes to gigabytes instantly with our 2025 accurate data storage converter. Perfect for file size calculations and storage planning.">
-<meta name="keywords" content="mb to gb converter 2025, data storage conversion calculator, megabyte gigabyte converter, file size calculator, storage calculator">
+<title>MB to GB Converter 2026 | Data Storage Conversion Tool | Free Calculator</title>
+<meta name="description" content="Convert megabytes to gigabytes instantly with our 2026 accurate data storage converter. Perfect for file size calculations and storage planning.">
+<meta name="keywords" content="mb to gb converter 2026, data storage conversion calculator, megabyte gigabyte converter, file size calculator, storage calculator">
 <link rel="canonical" href="https://www.thiyagi.com/mb-to-gb">
 
 <div class="min-h-screen bg-gradient-to-br from-blue-50 to-indigo-100 py-8">

@@ -104,8 +104,8 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Free Credit Card Generator 2025 – Valid Test Numbers (Safe & No Fees)</title>
-    <meta name="description" content="Generate 100% free & safe dummy credit card numbers for testing (2025). No real money, no scams—use our tool for development, e-commerce trials, and fraud checks.">
+    <title>Free Credit Card Generator 2026 – Valid Test Numbers (Safe & No Fees)</title>
+    <meta name="description" content="Generate 100% free & safe dummy credit card numbers for testing (2026). No real money, no scams—use our tool for development, e-commerce trials, and fraud checks.">
     <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" rel="stylesheet">
     <style>
         .card-visa { background: linear-gradient(135deg, #1a1f71 0%, #f79a1e 100%); }

@@ -1,19 +1,19 @@
 <?php include 'header.php'; ?>
 
 <!-- SEO Meta Tags -->
-<title>Decigram to Gram Converter 2025 - dg to g Calculator | Thiyagi</title>
-<meta name="description" content="Free online Decigram to Gram converter 2025. Convert dg to g and g to dg instantly with accurate weight conversion for laboratory and precision measurements.">
-<meta name="keywords" content="decigram to gram converter 2025, dg to g, weight converter, metric weight, laboratory measurements, precision scale">
+<title>Decigram to Gram Converter 2026 - dg to g Calculator | Thiyagi</title>
+<meta name="description" content="Free online Decigram to Gram converter 2026. Convert dg to g and g to dg instantly with accurate weight conversion for laboratory and precision measurements.">
+<meta name="keywords" content="decigram to gram converter 2026, dg to g, weight converter, metric weight, laboratory measurements, precision scale">
 <meta name="author" content="Thiyagi">
-<meta property="og:title" content="Decigram to Gram Converter 2025 - dg to g Calculator">
-<meta property="og:description" content="Free online Decigram to Gram converter 2025. Convert dg to g and g to dg instantly.">
+<meta property="og:title" content="Decigram to Gram Converter 2026 - dg to g Calculator">
+<meta property="og:description" content="Free online Decigram to Gram converter 2026. Convert dg to g and g to dg instantly.">
 <meta property="og:type" content="website">
 <meta property="og:url" content="https://www.thiyagi.com/decigram-to-gram.php">
 <meta property="og:image" content="https://www.thiyagi.com/nt.png">
 <meta property="og:site_name" content="Thiyagi">
 <meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:title" content="Decigram to Gram Converter 2025 - dg to g Calculator">
-<meta name="twitter:description" content="Free online Decigram to Gram converter 2025. Convert dg to g and g to dg instantly.">
+<meta name="twitter:title" content="Decigram to Gram Converter 2026 - dg to g Calculator">
+<meta name="twitter:description" content="Free online Decigram to Gram converter 2026. Convert dg to g and g to dg instantly.">
 <meta name="twitter:image" content="https://www.thiyagi.com/nt.png">
 
 <div class="min-h-screen bg-gradient-to-br from-emerald-50 via-green-50 to-teal-50 py-12">

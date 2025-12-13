@@ -1,19 +1,19 @@
 <?php include 'header.php'; ?>
 
 <!-- SEO Meta Tags -->
-<title>Temperature Converter 2025 - Universal Temperature Calculator | Thiyagi</title>
-<meta name="description" content="Free online temperature converter 2025. Convert Celsius, Fahrenheit, Kelvin, and Rankine instantly with accurate temperature conversion.">
-<meta name="keywords" content="temperature converter 2025, celsius fahrenheit, kelvin rankine, universal temperature calculator, temperature conversion">
+<title>Temperature Converter 2026 - Universal Temperature Calculator | Thiyagi</title>
+<meta name="description" content="Free online temperature converter 2026. Convert Celsius, Fahrenheit, Kelvin, and Rankine instantly with accurate temperature conversion.">
+<meta name="keywords" content="temperature converter 2026, celsius fahrenheit, kelvin rankine, universal temperature calculator, temperature conversion">
 <meta name="author" content="Thiyagi">
-<meta property="og:title" content="Temperature Converter 2025 - Universal Temperature Calculator">
-<meta property="og:description" content="Free online temperature converter 2025. Convert between all temperature scales instantly.">
+<meta property="og:title" content="Temperature Converter 2026 - Universal Temperature Calculator">
+<meta property="og:description" content="Free online temperature converter 2026. Convert between all temperature scales instantly.">
 <meta property="og:type" content="website">
 <meta property="og:url" content="https://www.thiyagi.com/temperature-converterl.php">
 <meta property="og:image" content="https://www.thiyagi.com/nt.png">
 <meta property="og:site_name" content="Thiyagi">
 <meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:title" content="Temperature Converter 2025 - Universal Temperature Calculator">
-<meta name="twitter:description" content="Free online temperature converter 2025. Convert between all temperature scales instantly.">
+<meta name="twitter:title" content="Temperature Converter 2026 - Universal Temperature Calculator">
+<meta name="twitter:description" content="Free online temperature converter 2026. Convert between all temperature scales instantly.">
 <meta name="twitter:image" content="https://www.thiyagi.com/nt.png">
 
 <div class="min-h-screen bg-gradient-to-br from-red-50 via-orange-50 to-yellow-50 py-12">

@@ -1,12 +1,12 @@
 <?php include '../../header.php'; ?>
 
-<title>South Australia Holidays 2025 | SA Public Holiday Calendar | Adelaide Holidays</title>
-<meta name="description" content="Complete South Australia Holiday Calendar 2025. Find all SA public holidays, Adelaide Cup Day, Proclamation Day, and state-specific observances for Adelaide and South Australia.">
-<meta name="keywords" content="South Australia holidays 2025, SA public holidays, Adelaide holidays, Adelaide Cup Day, Proclamation Day, South Australia">
+<title>South Australia Holidays 2026 | SA Public Holiday Calendar | Adelaide Holidays</title>
+<meta name="description" content="Complete South Australia Holiday Calendar 2026. Find all SA public holidays, Adelaide Cup Day, Proclamation Day, and state-specific observances for Adelaide and South Australia.">
+<meta name="keywords" content="South Australia holidays 2026, SA public holidays, Adelaide holidays, Adelaide Cup Day, Proclamation Day, South Australia">
 <meta name="author" content="South Australia Holiday Calendar">
 <meta name="robots" content="index, follow">
-<meta property="og:title" content="South Australia Holidays 2025 - Complete Calendar">
-<meta property="og:description" content="Complete South Australia Holiday Calendar 2025 with Adelaide Cup Day, Proclamation Day, and all public holidays.">
+<meta property="og:title" content="South Australia Holidays 2026 - Complete Calendar">
+<meta property="og:description" content="Complete South Australia Holiday Calendar 2026 with Adelaide Cup Day, Proclamation Day, and all public holidays.">
 <meta property="og:type" content="website">
 <meta property="og:url" content="https://<?= $_SERVER['HTTP_HOST'] . strtok($_SERVER['REQUEST_URI'], '?') ?>">
 <link rel="canonical" href="https://<?= $_SERVER['HTTP_HOST'] . strtok($_SERVER['REQUEST_URI'], '?') ?>">
@@ -48,93 +48,93 @@
 </head>
 <body class="bg-gradient-to-br from-blue-50 to-indigo-100 min-h-screen">
     <?php
-    // South Australia Holidays 2025 Data
-    $holidays_2025 = [
-        '2025-01-01' => [
+    // South Australia Holidays 2026 Data
+    $holidays_2026 = [
+        '2026-01-01' => [
             'name' => 'New Year\'s Day',
             'type' => 'National Holiday',
             'description' => 'First day of the year celebration',
             'icon' => 'fa-calendar-day',
             'bank_holiday' => true
         ],
-        '2025-01-26' => [
+        '2026-01-26' => [
             'name' => 'Australia Day',
             'type' => 'National Holiday',
             'description' => 'National day of Australia',
             'icon' => 'fa-flag',
             'bank_holiday' => true
         ],
-        '2025-01-27' => [
+        '2026-01-27' => [
             'name' => 'Australia Day (observed)',
             'type' => 'National Holiday',
             'description' => 'Observed on Monday as Australia Day falls on Sunday',
             'icon' => 'fa-flag',
             'bank_holiday' => true
         ],
-        '2025-03-10' => [
+        '2026-03-10' => [
             'name' => 'Adelaide Cup Day',
             'type' => 'SA State Holiday',
             'description' => 'Second Monday in March - Adelaide horse racing carnival',
             'icon' => 'fa-horse',
             'bank_holiday' => true
         ],
-        '2025-03-10' => [
+        '2026-03-10' => [
             'name' => 'Labour Day',
             'type' => 'SA State Holiday',
             'description' => 'First Monday in March - South Australia workers\' rights',
             'icon' => 'fa-hammer',
             'bank_holiday' => true
         ],
-        '2025-04-18' => [
+        '2026-04-18' => [
             'name' => 'Good Friday',
             'type' => 'National Holiday',
             'description' => 'Christian holy day commemorating crucifixion',
             'icon' => 'fa-cross',
             'bank_holiday' => true
         ],
-        '2025-04-19' => [
+        '2026-04-19' => [
             'name' => 'Easter Saturday',
             'type' => 'National Holiday',
             'description' => 'Day before Easter Sunday',
             'icon' => 'fa-egg',
             'bank_holiday' => true
         ],
-        '2025-04-21' => [
+        '2026-04-21' => [
             'name' => 'Easter Monday',
             'type' => 'National Holiday',
             'description' => 'Day after Easter Sunday',
             'icon' => 'fa-dove',
             'bank_holiday' => true
         ],
-        '2025-04-25' => [
+        '2026-04-25' => [
             'name' => 'ANZAC Day',
             'type' => 'National Holiday',
             'description' => 'Australian and New Zealand Army Corps Day',
             'icon' => 'fa-medal',
             'bank_holiday' => true
         ],
-        '2025-06-09' => [
+        '2026-06-09' => [
             'name' => 'Queen\'s Birthday',
             'type' => 'SA State Holiday',
             'description' => 'Second Monday in June in South Australia',
             'icon' => 'fa-crown',
             'bank_holiday' => true
         ],
-        '2025-12-25' => [
+        '2026-12-25' => [
             'name' => 'Christmas Day',
             'type' => 'National Holiday',
             'description' => 'Celebration of Jesus Christ\'s birth',
             'icon' => 'fa-tree',
             'bank_holiday' => true
         ],
-        '2025-12-26' => [
+        '2026-12-26' => [
             'name' => 'Boxing Day',
             'type' => 'National Holiday',
             'description' => 'Day after Christmas',
             'icon' => 'fa-gift',
             'bank_holiday' => true
         ],
-        '2025-12-26' => [
+        '2026-12-26' => [
             'name' => 'Proclamation Day',
             'type' => 'SA State Holiday',
             'description' => 'SA\'s foundation day - replaced Boxing Day as public holiday in SA',
@@ -144,7 +144,7 @@
     ];
 
     $current_month = isset($_GET['month']) ? (int)$_GET['month'] : (int)date('n');
-    $current_year = isset($_GET['year']) ? (int)$_GET['year'] : 2025;
+    $current_year = isset($_GET['year']) ? (int)$_GET['year'] : 2026;
 
     $month_names = [
         1 => 'January', 2 => 'February', 3 => 'March', 4 => 'April',
@@ -187,7 +187,7 @@
                     </div>
                     <div>
                         <h1 class="text-4xl font-bold flex items-center space-x-3">
-                            <span>South Australia Holidays 2025</span>
+                            <span>South Australia Holidays 2026</span>
                             <i class="fas fa-wine-glass text-2xl text-sa-gold animate-pulse"></i>
                         </h1>
                         <p class="text-lg opacity-90 flex items-center space-x-2">
@@ -203,7 +203,7 @@
                     </div>
                     <div class="mt-2 flex items-center space-x-2">
                         <i class="fas fa-gift text-sa-gold"></i>
-                        <span class="text-sm opacity-75"><?php echo count($holidays_2025); ?> Total Holidays</span>
+                        <span class="text-sm opacity-75"><?php echo count($holidays_2026); ?> Total Holidays</span>
                     </div>
                 </div>
             </div>
@@ -219,7 +219,7 @@
                 <li><i class="fas fa-chevron-right text-xs"></i></li>
                 <li><a href="/holiday/australia-holidays/" class="hover:text-blue-600">Australia</a></li>
                 <li><i class="fas fa-chevron-right text-xs"></i></li>
-                <li class="text-gray-800 font-medium">South Australia Holidays 2025</li>
+                <li class="text-gray-800 font-medium">South Australia Holidays 2026</li>
             </ol>
         </nav>
 
@@ -227,11 +227,11 @@
             <div class="max-w-4xl mx-auto text-center">
                 <h2 class="text-3xl font-bold text-gray-800 mb-4 flex items-center justify-center space-x-3">
                     <i class="fas fa-calendar-alt text-sa-red"></i>
-                    <span>Complete South Australia Holiday Calendar 2025</span>
+                    <span>Complete South Australia Holiday Calendar 2026</span>
                     <i class="fas fa-star text-sa-gold"></i>
                 </h2>
                 <p class="text-lg text-gray-700 mb-4 leading-relaxed">
-                    Welcome to the comprehensive South Australia Holiday Calendar 2025! Featuring Adelaide Cup Day,
+                    Welcome to the comprehensive South Australia Holiday Calendar 2026! Featuring Adelaide Cup Day,
                     Proclamation Day (replaces Boxing Day), Labour Day (first Monday in March), and all public holidays for Adelaide and South Australia.
                 </p>
                 <div class="grid md:grid-cols-3 gap-4 mt-6">
@@ -322,7 +322,7 @@
                 }
                 for ($day = 1; $day <= $days_in_month; $day++) {
                     $date = sprintf('%04d-%02d-%02d', $current_year, $current_month, $day);
-                    $is_holiday = isset($holidays_2025[$date]);
+                    $is_holiday = isset($holidays_2026[$date]);
                     $is_today = ($day == date('j') && $current_month == date('n') && $current_year == date('Y'));
                     
                     $cell_classes = 'p-4 border-r border-b min-h-[100px] relative';
@@ -333,7 +333,7 @@
                     echo '<div class="text-lg font-semibold text-gray-800 mb-2">' . $day . '</div>';
                     
                     if ($is_holiday) {
-                        $holiday = $holidays_2025[$date];
+                        $holiday = $holidays_2026[$date];
                         $is_state = ($holiday['type'] === 'SA State Holiday');
                         echo '<div class="' . ($is_state ? 'bg-gradient-to-r from-sa-red to-red-800 text-white' : 'bg-red-100 border-red-500 border-l-4') . ' p-2 rounded shadow-sm">';
                         echo '<div class="flex items-center space-x-2 mb-1">';
@@ -367,7 +367,7 @@
                     <?php
                     $today = date('Y-m-d');
                     $count = 0;
-                    foreach ($holidays_2025 as $date => $holiday) {
+                    foreach ($holidays_2026 as $date => $holiday) {
                         if ($date >= $today && $count < 5) {
                             $days = ceil((strtotime($date) - strtotime($today)) / 86400);
                             $is_sa = ($holiday['type'] === 'SA State Holiday');
@@ -388,19 +388,19 @@
                 <h3 class="text-2xl font-bold mb-4"><i class="fas fa-chart-pie text-green-500 mr-3"></i>Statistics</h3>
                 <div class="grid grid-cols-2 gap-4">
                     <div class="text-center p-4 bg-blue-50 rounded-lg">
-                        <div class="text-3xl font-bold text-blue-600"><?php echo count($holidays_2025); ?></div>
+                        <div class="text-3xl font-bold text-blue-600"><?php echo count($holidays_2026); ?></div>
                         <div class="text-sm">Total Holidays</div>
                     </div>
                     <div class="text-center p-4 bg-red-50 rounded-lg">
-                        <div class="text-3xl font-bold text-red-600"><?php echo count(array_filter($holidays_2025, fn($h) => $h['type'] === 'National Holiday')); ?></div>
+                        <div class="text-3xl font-bold text-red-600"><?php echo count(array_filter($holidays_2026, fn($h) => $h['type'] === 'National Holiday')); ?></div>
                         <div class="text-sm">National</div>
                     </div>
                     <div class="text-center p-4 bg-gradient-to-br from-sa-red to-red-800 text-white rounded-lg">
-                        <div class="text-3xl font-bold text-sa-gold"><?php echo count(array_filter($holidays_2025, fn($h) => $h['type'] === 'SA State Holiday')); ?></div>
+                        <div class="text-3xl font-bold text-sa-gold"><?php echo count(array_filter($holidays_2026, fn($h) => $h['type'] === 'SA State Holiday')); ?></div>
                         <div class="text-sm">SA State</div>
                     </div>
                     <div class="text-center p-4 bg-green-50 rounded-lg">
-                        <div class="text-3xl font-bold text-green-600"><?php echo count($holidays_2025); ?></div>
+                        <div class="text-3xl font-bold text-green-600"><?php echo count($holidays_2026); ?></div>
                         <div class="text-sm">Bank Holidays</div>
                     </div>
                 </div>
@@ -434,19 +434,19 @@
             <div class="space-y-6 max-w-4xl mx-auto">
                 <div class="bg-gray-50 rounded-lg p-6">
                     <h3 class="text-xl font-semibold mb-3"><i class="fas fa-horse text-sa-gold mr-2"></i>What is Adelaide Cup Day?</h3>
-                    <p class="text-gray-700">Adelaide Cup Day is held on the second Monday in March (March 10, 2025) and celebrates South Australia's premier horse racing event, the Adelaide Cup carnival.</p>
+                    <p class="text-gray-700">Adelaide Cup Day is held on the second Monday in March (March 10, 2026) and celebrates South Australia's premier horse racing event, the Adelaide Cup carnival.</p>
                 </div>
                 <div class="bg-gray-50 rounded-lg p-6">
                     <h3 class="text-xl font-semibold mb-3"><i class="fas fa-scroll text-blue-500 mr-2"></i>What is Proclamation Day?</h3>
-                    <p class="text-gray-700">Proclamation Day (December 26, 2025) commemorates the founding of South Australia and replaces Boxing Day as a public holiday in SA, making it unique among Australian states.</p>
+                    <p class="text-gray-700">Proclamation Day (December 26, 2026) commemorates the founding of South Australia and replaces Boxing Day as a public holiday in SA, making it unique among Australian states.</p>
                 </div>
                 <div class="bg-gray-50 rounded-lg p-6">
                     <h3 class="text-xl font-semibold mb-3"><i class="fas fa-hammer text-green-500 mr-2"></i>When is Labour Day in South Australia?</h3>
-                    <p class="text-gray-700">South Australia observes Labour Day on the first Monday in March (March 3, 2025), celebrating workers' rights and the eight-hour working day.</p>
+                    <p class="text-gray-700">South Australia observes Labour Day on the first Monday in March (March 3, 2026), celebrating workers' rights and the eight-hour working day.</p>
                 </div>
                 <div class="bg-gray-50 rounded-lg p-6">
                     <h3 class="text-xl font-semibold mb-3"><i class="fas fa-crown text-yellow-500 mr-2"></i>When is Queen's Birthday in South Australia?</h3>
-                    <p class="text-gray-700">South Australia celebrates Queen's Birthday on the second Monday in June (June 9, 2025), which is different from some other states.</p>
+                    <p class="text-gray-700">South Australia celebrates Queen's Birthday on the second Monday in June (June 9, 2026), which is different from some other states.</p>
                 </div>
                 <div class="bg-gray-50 rounded-lg p-6">
                     <h3 class="text-xl font-semibold mb-3"><i class="fas fa-building text-purple-500 mr-2"></i>Are banks closed on SA public holidays?</h3>
@@ -457,7 +457,7 @@
     </main>
 
     <script>
-        const holidaysData = <?php echo json_encode($holidays_2025); ?>;
+        const holidaysData = <?php echo json_encode($holidays_2026); ?>;
         function searchHolidays() {
             const term = document.getElementById('searchInput').value.toLowerCase();
             const filter = document.getElementById('filterType').value;
@@ -486,14 +486,14 @@
         function printCalendar() { window.print(); }
         function downloadCalendar() {
             const content = Object.entries(holidaysData).map(([d, h]) => new Date(d).toDateString() + ': ' + h.name).join('\n');
-            const blob = new Blob(['South Australia Holidays 2025\n\n' + content], {type: 'text/plain'});
+            const blob = new Blob(['South Australia Holidays 2026\n\n' + content], {type: 'text/plain'});
             const a = document.createElement('a');
             a.href = URL.createObjectURL(blob);
-            a.download = 'sa-holidays-2025.txt';
+            a.download = 'sa-holidays-2026.txt';
             a.click();
         }
         function shareCalendar() {
-            if (navigator.share) navigator.share({title: 'SA Holidays 2025', url: location.href});
+            if (navigator.share) navigator.share({title: 'SA Holidays 2026', url: location.href});
             else navigator.clipboard.writeText(location.href).then(() => alert('URL copied!'));
         }
         function resetToCurrent() { location.href = location.pathname; }

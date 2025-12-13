@@ -1,12 +1,12 @@
 <?php include 'header.php';?>
-<title>Cent to Acre Converter 2025 | Cent to Acre | Free Tool</title>
-<meta name="description" content="Convert cent to acre instantly with our 2025 accurate converter. Perfect cent to acre conversion with real-time calculations for land measurement.">
-<meta name="keywords" content="cent to acre 2025, cent acre converter, Indian land measurement 2025, property conversion calculator, agricultural land measurement">
+<title>Cent to Acre Converter 2026 | Cent to Acre | Free Tool</title>
+<meta name="description" content="Convert cent to acre instantly with our 2026 accurate converter. Perfect cent to acre conversion with real-time calculations for land measurement.">
+<meta name="keywords" content="cent to acre 2026, cent acre converter, Indian land measurement 2026, property conversion calculator, agricultural land measurement">
 <link rel="canonical" href="https://www.thiyagi.com/cent-to-acre">
 
 <!-- Open Graph Meta Tags -->
-<meta property="og:title" content="Cent to Acre Converter 2025 | Cent to Acre | Free Tool">
-<meta property="og:description" content="Convert cent to acre instantly with our 2025 accurate converter. Perfect cent to acre conversion with real-time calculations for land measurement.">
+<meta property="og:title" content="Cent to Acre Converter 2026 | Cent to Acre | Free Tool">
+<meta property="og:description" content="Convert cent to acre instantly with our 2026 accurate converter. Perfect cent to acre conversion with real-time calculations for land measurement.">
 <meta property="og:url" content="https://www.thiyagi.com/cent-to-acre">
 <meta property="og:type" content="website">
 <meta property="og:image" content="https://www.thiyagi.com/nt.png">
@@ -14,8 +14,8 @@
 
 <!-- Twitter Card Meta Tags -->
 <meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:title" content="Cent to Acre Converter 2025 | Cent to Acre | Free Tool">
-<meta name="twitter:description" content="Convert cent to acre instantly with our 2025 accurate converter. Perfect cent to acre conversion with real-time calculations for land measurement.">
+<meta name="twitter:title" content="Cent to Acre Converter 2026 | Cent to Acre | Free Tool">
+<meta name="twitter:description" content="Convert cent to acre instantly with our 2026 accurate converter. Perfect cent to acre conversion with real-time calculations for land measurement.">
 <meta name="twitter:image" content="https://www.thiyagi.com/nt.png">
 
 <!-- Additional SEO Meta Tags -->
@@ -39,7 +39,7 @@
           Cent to Acre Converter
         </h1>
         <p class="text-xl text-gray-600 mb-8 max-w-3xl mx-auto">
-          Convert cents to acres instantly with our accurate 2025 calculator. 
+          Convert cents to acres instantly with our accurate 2026 calculator. 
           Perfect for agricultural land measurements, property documentation, and land transactions.
         </p>
       </div>
@@ -157,16 +157,16 @@
     <article class="bg-white rounded-xl shadow-lg p-8">
       <h2 class="text-2xl font-bold text-gray-800 mb-6 flex items-components gap-3">
         <i class="fas fa-info-circle text-amber-600" aria-hidden="true"></i>
-        Cent to Acre Conversion 2025
+        Cent to Acre Conversion 2026
       </h2>
       <div class="prose max-w-none text-gray-600">
         <p class="mb-4">
-          Converting cents to acres is fundamental for agricultural land transactions, large property documentation, and farming operations in 2025. 
+          Converting cents to acres is fundamental for agricultural land transactions, large property documentation, and farming operations in 2026. 
           The cent is a traditional measurement unit widely used in Southern India, while acres provide international standardization 
           for agricultural land area calculations and large property valuations.
         </p>
         <p class="mb-6">
-          Our 2025 converter provides instant and accurate conversions from cents to acres, essential for farmers, 
+          Our 2026 converter provides instant and accurate conversions from cents to acres, essential for farmers, 
           agricultural consultants, land developers, and large property investors across India. 
           One hundred cents equals exactly one acre.
         </p>

@@ -2,18 +2,18 @@
 
 <head>
     
-    <title>Assam Holidays 2025 | Complete Calendar | State Festivals | National Holidays</title>
-    <meta name="description" content="Complete Assam Holiday Calendar 2025. Find all state festivals, national holidays, cultural events, and religious celebrations. Plan your year with our comprehensive holiday guide.">
-    <meta name="keywords" content="Assam holidays 2025, Assam festivals, Bihu, Magh Bihu, national holidays India, Assam calendar, holidays Assam, festival dates 2025">
+    <title>Assam Holidays 2026 | Complete Calendar | State Festivals | National Holidays</title>
+    <meta name="description" content="Complete Assam Holiday Calendar 2026. Find all state festivals, national holidays, cultural events, and religious celebrations. Plan your year with our comprehensive holiday guide.">
+    <meta name="keywords" content="Assam holidays 2026, Assam festivals, Bihu, Magh Bihu, national holidays India, Assam calendar, holidays Assam, festival dates 2026">
     <meta name="author" content="Assam Holiday Calendar">
-    <meta property="og:title" content="Assam Holidays 2025 - Complete Calendar">
-    <meta property="og:description" content="Complete Assam Holiday Calendar 2025 with all festivals, national holidays, and cultural events. Plan your year with our comprehensive guide.">
+    <meta property="og:title" content="Assam Holidays 2026 - Complete Calendar">
+    <meta property="og:description" content="Complete Assam Holiday Calendar 2026 with all festivals, national holidays, and cultural events. Plan your year with our comprehensive guide.">
     <meta property="og:type" content="website">
     <meta property="og:url" content="<?php echo 'https://' . $_SERVER['HTTP_HOST'] . $_SERVER['REQUEST_URI']; ?>">
-    <meta property="og:image" content="https://via.placeholder.com/1200x630/228B22/FFFFFF?text=Assam+Holidays+2025">
+    <meta property="og:image" content="https://via.placeholder.com/1200x630/228B22/FFFFFF?text=Assam+Holidays+2026">
     <meta name="twitter:card" content="summary_large_image">
-    <meta name="twitter:title" content="Assam Holidays 2025">
-    <meta name="twitter:description" content="Complete Assam Holiday Calendar 2025 with all festivals and holidays.">
+    <meta name="twitter:title" content="Assam Holidays 2026">
+    <meta name="twitter:description" content="Complete Assam Holiday Calendar 2026 with all festivals and holidays.">
     <link rel="canonical" href="<?php echo 'https://' . $_SERVER['HTTP_HOST'] . $_SERVER['REQUEST_URI']; ?>">
     <meta name="language" content="English, Assamese">
     <meta name="geo.region" content="IN-AS">
@@ -23,26 +23,26 @@
     {
         "@context": "https://schema.org",
         "@type": "WebPage",
-        "name": "Assam Holidays 2025",
-        "description": "Complete Assam Holiday Calendar 2025 with all festivals, national holidays, and cultural events",
+        "name": "Assam Holidays 2026",
+        "description": "Complete Assam Holiday Calendar 2026 with all festivals, national holidays, and cultural events",
         "url": "<?php echo 'https://' . $_SERVER['HTTP_HOST'] . $_SERVER['REQUEST_URI']; ?>",
         "mainEntity": {
             "@type": "FAQPage",
             "mainEntity": [
                 {
                     "@type": "Question",
-                    "name": "What are the main Assam festivals in 2025?",
+                    "name": "What are the main Assam festivals in 2026?",
                     "acceptedAnswer": {
                         "@type": "Answer",
-                        "text": "The main Assam festivals in 2025 include Bohag Bihu (April 14-16), Magh Bihu (January 14), and Kati Bihu."
+                        "text": "The main Assam festivals in 2026 include Bohag Bihu (April 14-16), Magh Bihu (January 14), and Kati Bihu."
                     }
                 },
                 {
                     "@type": "Question",
-                    "name": "How many national holidays are there in Assam 2025?",
+                    "name": "How many national holidays are there in Assam 2026?",
                     "acceptedAnswer": {
                         "@type": "Answer",
-                        "text": "There are several national holidays in Assam 2025 including Republic Day (January 26), Independence Day (August 15), and Gandhi Jayanti (October 2)."
+                        "text": "There are several national holidays in Assam 2026 including Republic Day (January 26), Independence Day (August 15), and Gandhi Jayanti (October 2)."
                     }
                 },
                 {
@@ -55,7 +55,7 @@
                 },
                 {
                     "@type": "Question",
-                    "name": "Are there any special holidays specific to Assam in 2025?",
+                    "name": "Are there any special holidays specific to Assam in 2026?",
                     "acceptedAnswer": {
                         "@type": "Answer",
                         "text": "Yes, Assam has several state-specific holidays and festivals such as Magh Bihu, Bohag Bihu, and Me-Dam-Me-Phi."
@@ -67,7 +67,7 @@
             "@type": "Organization",
             "name": "Assam Holiday Calendar"
         },
-        "datePublished": "2025-01-01",
+        "datePublished": "2026-01-01",
         "dateModified": "<?php echo date('Y-m-d'); ?>"
     }
     </script>
@@ -91,149 +91,149 @@
 </head>
 <body class="bg-gradient-to-br from-green-50 to-indigo-100 min-h-screen">
     <?php
-    // Assam Holidays 2025 Data
-    $holidays_2025 = [
-        '2025-01-14' => [
+    // Assam Holidays 2026 Data
+    $holidays_2026 = [
+        '2026-01-14' => [
             'name' => 'Magh Bihu',
             'type' => 'State Festival',
             'description' => 'Harvest festival of Assam',
             'icon' => 'fa-leaf',
             'bank_holiday' => true
         ],
-        '2025-01-15' => [
+        '2026-01-15' => [
             'name' => 'Tusu Puja',
             'type' => 'Religious',
             'description' => 'Adivasi festival dedicated to Goddess Tusu',
             'icon' => 'fa-goddess',
             'bank_holiday' => true
         ],
-        '2025-01-23' => [
+        '2026-01-23' => [
             'name' => 'Netaji Subhas Chandra Bose Jayanti',
             'type' => 'National',
             'description' => 'Birth anniversary of Netaji Subhas Chandra Bose',
             'icon' => 'fa-user-tie',
             'bank_holiday' => true
         ],
-        '2025-01-26' => [
+        '2026-01-26' => [
             'name' => 'Republic Day',
             'type' => 'National Holiday',
             'description' => 'Celebration of Indian Republic',
             'icon' => 'fa-flag',
             'bank_holiday' => true
         ],
-        '2025-01-28' => [
+        '2026-01-28' => [
             'name' => 'Gwthar Bathou San',
             'type' => 'Religious',
             'description' => 'Bodo community festival',
             'icon' => 'fa-praying-hands',
             'bank_holiday' => true
         ],
-        '2025-01-31' => [
+        '2026-01-31' => [
             'name' => 'Me-Dam-Me-Phi',
             'type' => 'State Festival',
             'description' => 'Ahom community festival to worship ancestors',
             'icon' => 'fa-users',
             'bank_holiday' => true
         ],
-        '2025-02-12' => [
+        '2026-02-12' => [
             'name' => 'Bir Chilaray Divas',
             'type' => 'State',
             'description' => 'Birth anniversary of the great Koch general Bir Chilaray',
             'icon' => 'fa-shield-alt',
             'bank_holiday' => true
         ],
-        '2025-03-14' => [
+        '2026-03-14' => [
             'name' => 'Dol Jatra',
             'type' => 'Religious',
             'description' => 'Holi festival in Assam',
             'icon' => 'fa-palette',
             'bank_holiday' => true
         ],
-        '2025-03-31' => [
+        '2026-03-31' => [
             'name' => 'Id-Ul-Fitre',
             'type' => 'Religious',
             'description' => 'Celebration at the end of Ramadan',
             'icon' => 'fa-moon',
             'bank_holiday' => true
         ],
-        '2025-04-14' => [
+        '2026-04-14' => [
             'name' => 'Bohag Bihu',
             'type' => 'State Festival',
             'description' => 'Assamese New Year',
             'icon' => 'fa-drum',
             'bank_holiday' => true
         ],
-        '2025-04-15' => [
+        '2026-04-15' => [
             'name' => 'Bohag Bihu',
             'type' => 'State Festival',
             'description' => 'Assamese New Year',
             'icon' => 'fa-drum',
             'bank_holiday' => true
         ],
-        '2025-04-16' => [
+        '2026-04-16' => [
             'name' => 'Bohag Bihu',
             'type' => 'State Festival',
             'description' => 'Assamese New Year',
             'icon' => 'fa-drum',
             'bank_holiday' => true
         ],
-        '2025-04-18' => [
+        '2026-04-18' => [
             'name' => 'Good Friday',
             'type' => 'Religious',
             'description' => 'Christian religious holiday',
             'icon' => 'fa-cross',
             'bank_holiday' => true
         ],
-        '2025-04-21' => [
+        '2026-04-21' => [
             'name' => 'Sati Sadhini Divas',
             'type' => 'State',
             'description' => 'Commemoration of the Chutia queen Sati Sadhani',
             'icon' => 'fa-female',
             'bank_holiday' => true
         ],
-        '2025-05-01' => [
+        '2026-05-01' => [
             'name' => 'May Day',
             'type' => 'National',
             'description' => 'International Workers\' Day',
             'icon' => 'fa-hard-hat',
             'bank_holiday' => true
         ],
-        '2025-05-12' => [
+        '2026-05-12' => [
             'name' => 'Buddha Purnima',
             'type' => 'Religious',
             'description' => 'Birth anniversary of Gautam Buddha',
             'icon' => 'fa-buddha',
             'bank_holiday' => true
         ],
-        '2025-06-07' => [
+        '2026-06-07' => [
             'name' => 'Bakrid / Eid al Adha',
             'type' => 'Religious',
             'description' => 'Feast of the Sacrifice',
             'icon' => 'fa-mosque',
             'bank_holiday' => true
         ],
-        '2025-08-15' => [
+        '2026-08-15' => [
             'name' => 'Independence Day',
             'type' => 'National Holiday',
             'description' => 'Indian Independence Day',
             'icon' => 'fa-dove',
             'bank_holiday' => true
         ],
-        '2025-09-29' => [
+        '2026-09-29' => [
             'name' => 'Maha Saptami',
             'type' => 'Religious',
             'description' => 'Seventh day of Durga Puja',
             'icon' => 'fa-goddess',
             'bank_holiday' => true
         ],
-        '2025-10-02' => [
+        '2026-10-02' => [
             'name' => 'Vijoya Dashomi/Janmotsav of Sri Sri Sankardeva/Birthday of Mahatma Gandhi',
             'type' => 'National Holiday',
             'description' => 'Multiple celebrations on the same day',
             'icon' => 'fa-calendar-check',
             'bank_holiday' => true
         ],
-        '2025-12-25' => [
+        '2026-12-25' => [
             'name' => 'Christmas Day',
             'type' => 'Religious',
             'description' => 'Celebration of Jesus Christ\'s birth',
@@ -242,15 +242,15 @@
         ]
     ];
 
-    // Bank Holidays 2025 - Additional holidays specific to banks
-    $bank_holidays_2025 = [];
+    // Bank Holidays 2026 - Additional holidays specific to banks
+    $bank_holidays_2026 = [];
 
     // Merge all holidays
-    $all_holidays_2025 = array_merge($holidays_2025, $bank_holidays_2025);
+    $all_holidays_2026 = array_merge($holidays_2026, $bank_holidays_2026);
 
     // Get current month and year
     $current_month = isset($_GET['month']) ? (int)$_GET['month'] : (int)date('n');
-    $current_year = isset($_GET['year']) ? (int)$_GET['year'] : 2025;
+    $current_year = isset($_GET['year']) ? (int)$_GET['year'] : 2026;
     
     // Month names
     $month_names = [
@@ -301,7 +301,7 @@
                     </div>
                     <div>
                         <h1 class="text-4xl font-bold flex items-center space-x-3">
-                            <span>Assam Holidays 2025</span>
+                            <span>Assam Holidays 2026</span>
                             <i class="fas fa-flag text-2xl animate-bounce"></i>
                         </h1>
                     </div>
@@ -317,7 +317,7 @@
                     </p>
                     <div class="mt-2 flex items-center space-x-2">
                         <i class="fas fa-gift text-yellow-200"></i>
-                        <span class="text-sm opacity-75"><?php echo count($all_holidays_2025); ?> Total Holidays</span>
+                        <span class="text-sm opacity-75"><?php echo count($all_holidays_2026); ?> Total Holidays</span>
                     </div>
                 </div>
             </div>
@@ -345,7 +345,7 @@
                 <li><i class="fas fa-chevron-right text-xs"></i></li>
                 <li><a href="#" class="hover:text-blue-600 transition-colors">Assam</a></li>
                 <li><i class="fas fa-chevron-right text-xs"></i></li>
-                <li class="text-gray-800 font-medium">Holidays 2025</li>
+                <li class="text-gray-800 font-medium">Holidays 2026</li>
             </ol>
         </nav>
 
@@ -354,11 +354,11 @@
             <div class="max-w-4xl mx-auto text-center">
                 <h2 class="text-3xl font-bold text-gray-800 mb-4 flex items-center justify-center space-x-3">
                     <i class="fas fa-calendar-alt text-blue-600"></i>
-                    <span>Complete Assam Holiday Calendar 2025</span>
+                    <span>Complete Assam Holiday Calendar 2026</span>
                     <i class="fas fa-star text-yellow-500"></i>
                 </h2>
                 <p class="text-lg text-gray-700 mb-4 leading-relaxed">
-                    Welcome to the comprehensive Assam Holiday Calendar 2025! This detailed guide provides you with all the important dates, 
+                    Welcome to the comprehensive Assam Holiday Calendar 2026! This detailed guide provides you with all the important dates, 
                     festivals, and celebrations throughout the year. Whether you're planning a trip to Assam, organizing events, 
                     or simply want to stay informed about cultural celebrations, our calendar covers everything from traditional Assam festivals 
                     to national holidays and international observances.
@@ -540,8 +540,8 @@
                 // Days of the month
                 for ($day = 1; $day <= $days_in_month; $day++) {
                     $date = sprintf('%04d-%02d-%02d', $current_year, $current_month, $day);
-                    $is_holiday = isset($all_holidays_2025[$date]);
-                    $is_bank_holiday = isset($all_holidays_2025[$date]) && $all_holidays_2025[$date]['bank_holiday'] === true;
+                    $is_holiday = isset($all_holidays_2026[$date]);
+                    $is_bank_holiday = isset($all_holidays_2026[$date]) && $all_holidays_2026[$date]['bank_holiday'] === true;
                     $is_today = ($day == date('j') && $current_month == date('n') && $current_year == date('Y'));
                     
                     $cell_classes = 'p-4 border-r border-b min-h-[100px] relative';
@@ -556,7 +556,7 @@
                     echo '<div class="text-lg font-semibold text-gray-800 mb-2">' . $day . '</div>';
                     
                     if ($is_holiday) {
-                        $holiday = $all_holidays_2025[$date];
+                        $holiday = $all_holidays_2026[$date];
                         $border_color = $is_bank_holiday ? 'border-blue-500' : 'border-red-500';
                         $bg_color = $is_bank_holiday ? 'bg-blue-100' : 'bg-red-100';
                         $text_color = $is_bank_holiday ? 'text-blue-800' : 'text-red-800';
@@ -615,7 +615,7 @@
                     $today = date('Y-m-d');
                     $upcoming_count = 0;
                     
-                    foreach ($all_holidays_2025 as $date => $holiday) {
+                    foreach ($all_holidays_2026 as $date => $holiday) {
                         if ($date >= $today && $upcoming_count < 5) {
                             $days_until = (strtotime($date) - strtotime($today)) / (60 * 60 * 24);
                             echo '<div class="flex items-center justify-between p-4 bg-gradient-to-r from-blue-50 to-indigo-50 rounded-lg border border-blue-200 hover:shadow-md transition-all transform hover:scale-105">';
@@ -658,16 +658,16 @@
                     <div class="text-center p-4 bg-gradient-to-br from-green-50 to-green-100 rounded-lg border border-green-200 hover:shadow-md transition-all">
                         <div class="flex items-center justify-center space-x-2 mb-2">
                             <i class="fas fa-gift text-green-600 text-xl"></i>
-                            <div class="text-3xl font-bold text-green-600"><?php echo count($holidays_2025); ?></div>
+                            <div class="text-3xl font-bold text-green-600"><?php echo count($holidays_2026); ?></div>
                         </div>
                         <div class="text-sm text-green-700 font-medium">Total Holidays</div>
-                        <div class="text-xs text-green-600 mt-1"><?php echo count(array_filter($all_holidays_2025, function($h) { return $h['bank_holiday'] === true; })); ?> Bank Holidays</div>
+                        <div class="text-xs text-green-600 mt-1"><?php echo count(array_filter($all_holidays_2026, function($h) { return $h['bank_holiday'] === true; })); ?> Bank Holidays</div>
                         <div class="text-xs text-green-600 mt-1">🎉 Celebrations</div>
                     </div>
                     <div class="text-center p-4 bg-gradient-to-br from-blue-50 to-blue-100 rounded-lg border border-blue-200 hover:shadow-md transition-all">
                         <div class="flex items-center justify-center space-x-2 mb-2">
                             <i class="fas fa-flag text-blue-600 text-xl"></i>
-                            <div class="text-3xl font-bold text-blue-600"><?php echo count(array_filter($holidays_2025, function($h) { return $h['type'] === 'State Festival'; })); ?></div>
+                            <div class="text-3xl font-bold text-blue-600"><?php echo count(array_filter($holidays_2026, function($h) { return $h['type'] === 'State Festival'; })); ?></div>
                         </div>
                         <div class="text-sm text-blue-700 font-medium">State Festivals</div>
                         <div class="text-xs text-blue-600 mt-1">🌾 Cultural</div>
@@ -675,7 +675,7 @@
                     <div class="text-center p-4 bg-gradient-to-br from-yellow-50 to-yellow-100 rounded-lg border border-yellow-200 hover:shadow-md transition-all">
                         <div class="flex items-center justify-center space-x-2 mb-2">
                             <i class="fas fa-star text-yellow-600 text-xl"></i>
-                            <div class="text-3xl font-bold text-yellow-600"><?php echo count(array_filter($holidays_2025, function($h) { return $h['type'] === 'National Holiday'; })); ?></div>
+                            <div class="text-3xl font-bold text-yellow-600"><?php echo count(array_filter($holidays_2026, function($h) { return $h['type'] === 'National Holiday'; })); ?></div>
                         </div>
                         <div class="text-sm text-yellow-700 font-medium">National Holidays</div>
                         <div class="text-xs text-yellow-600 mt-1">🇮🇳 Patriotic</div>
@@ -683,7 +683,7 @@
                     <div class="text-center p-4 bg-gradient-to-br from-purple-50 to-purple-100 rounded-lg border border-purple-200 hover:shadow-md transition-all">
                         <div class="flex items-center justify-center space-x-2 mb-2">
                             <i class="fas fa-pray text-purple-600 text-xl"></i>
-                            <div class="text-3xl font-bold text-purple-600"><?php echo count(array_filter($all_holidays_2025, function($h) { return $h['type'] === 'Religious'; })); ?></div>
+                            <div class="text-3xl font-bold text-purple-600"><?php echo count(array_filter($all_holidays_2026, function($h) { return $h['type'] === 'Religious'; })); ?></div>
                         </div>
                         <div class="text-sm text-purple-700 font-medium">Religious</div>
                         <div class="text-xs text-purple-600 mt-1">⛪ Spiritual</div>
@@ -692,7 +692,7 @@
                     <div class="text-center p-4 bg-gradient-to-br from-blue-50 to-blue-100 rounded-lg border border-blue-200 hover:shadow-md transition-all">
                         <div class="flex items-center justify-center space-x-2 mb-2">
                             <i class="fas fa-university text-blue-600 text-xl"></i>
-                            <div class="text-3xl font-bold text-blue-600"><?php echo count(array_filter($all_holidays_2025, function($h) { return $h['bank_holiday'] === true; })); ?></div>
+                            <div class="text-3xl font-bold text-blue-600"><?php echo count(array_filter($all_holidays_2026, function($h) { return $h['bank_holiday'] === true; })); ?></div>
                         </div>
                         <div class="text-sm text-blue-700 font-medium">Bank Holidays</div>
                         <div class="text-xs text-blue-600 mt-1">🏦 Financial</div>
@@ -705,7 +705,7 @@
         <div class="mt-8 bg-white rounded-lg shadow-lg p-6 border-l-4 border-blue-500">
             <h3 class="text-2xl font-bold text-gray-800 mb-4 flex items-center">
                 <i class="fas fa-university text-blue-500 mr-3 text-2xl"></i>
-                <span>Bank Holidays 2025</span>
+                <span>Bank Holidays 2026</span>
                 <i class="fas fa-building-columns text-blue-400 ml-2"></i>
             </h3>
             <p class="text-gray-600 mb-6">All major banks in Assam will be closed on these dates. Plan your banking activities accordingly.</p>
@@ -713,7 +713,7 @@
             <div class="grid md:grid-cols-2 lg:grid-cols-3 gap-4">
                 <?php
                 $bank_holidays_displayed = 0;
-                foreach ($all_holidays_2025 as $date => $holiday) {
+                foreach ($all_holidays_2026 as $date => $holiday) {
                     if ($holiday['bank_holiday'] === true && $bank_holidays_displayed < 12) {
                         $formatted_date = date('M d, Y', strtotime($date));
                         $day_name = date('l', strtotime($date));
@@ -843,10 +843,10 @@
                     <div class="bg-gray-50 rounded-lg p-6 hover:shadow-md transition-all">
                         <h3 class="text-xl font-semibold text-gray-800 mb-3 flex items-center space-x-2">
                             <i class="fas fa-calendar-day text-blue-500"></i>
-                            <span>What are the main Assam festivals in 2025?</span>
+                            <span>What are the main Assam festivals in 2026?</span>
                         </h3>
                         <p class="text-gray-700 leading-relaxed">
-                            The main Assam festivals in 2025 include <strong>Bohag Bihu</strong> (April 14-16) - the Assamese New Year, 
+                            The main Assam festivals in 2026 include <strong>Bohag Bihu</strong> (April 14-16) - the Assamese New Year, 
                             <strong>Magh Bihu</strong> (January 14) - the harvest festival, and <strong>Durga Puja</strong> (September 29 - October 2).
                         </p>
                     </div>
@@ -855,10 +855,10 @@
                     <div class="bg-gray-50 rounded-lg p-6 hover:shadow-md transition-all">
                         <h3 class="text-xl font-semibold text-gray-800 mb-3 flex items-center space-x-2">
                             <i class="fas fa-flag text-red-500"></i>
-                            <span>How many national holidays are there in Assam 2025?</span>
+                            <span>How many national holidays are there in Assam 2026?</span>
                         </h3>
                         <p class="text-gray-700 leading-relaxed">
-                            Assam observes several national holidays in 2025 including <strong>Republic Day</strong> (January 26), 
+                            Assam observes several national holidays in 2026 including <strong>Republic Day</strong> (January 26), 
                             <strong>Independence Day</strong> (August 15), and <strong>Gandhi Jayanti</strong> (October 2). 
                             These are official government holidays when banks, schools, and government offices remain closed.
                         </p>
@@ -896,7 +896,7 @@
         // JavaScript functionality
         
         // Holiday data for search functionality
-        const holidaysData = <?php echo json_encode($all_holidays_2025); ?>;
+        const holidaysData = <?php echo json_encode($all_holidays_2026); ?>;
         
         function searchHolidays() {
             const searchTerm = document.getElementById('searchInput').value.toLowerCase();
@@ -1018,12 +1018,12 @@
 
         function downloadCalendar() {
             // Create a simple text version for download
-            const content = `Assam Holidays 2025\n\n`;
+            const content = `Assam Holidays 2026\n\n`;
             const blob = new Blob([content], { type: 'text/plain' });
             const url = window.URL.createObjectURL(blob);
             const a = document.createElement('a');
             a.href = url;
-            a.download = 'assam-holidays-2025.txt';
+            a.download = 'assam-holidays-2026.txt';
             a.click();
             window.URL.revokeObjectURL(url);
         }
@@ -1031,8 +1031,8 @@
         function shareCalendar() {
             if (navigator.share) {
                 navigator.share({
-                    title: 'Assam Holidays 2025',
-                    text: 'Check out the Assam holiday calendar for 2025!',
+                    title: 'Assam Holidays 2026',
+                    text: 'Check out the Assam holiday calendar for 2026!',
                     url: window.location.href
                 });
             } else {

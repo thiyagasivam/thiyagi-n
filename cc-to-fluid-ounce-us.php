@@ -1,19 +1,19 @@
 <?php include 'header.php'; ?>
 
 <!-- SEO Meta Tags -->
-<title>CC to Fluid Ounce US Converter 2025 - cc to fl oz Calculator | Thiyagi</title>
-<meta name="description" content="Free online CC to Fluid Ounce US converter 2025. Convert cc to fl oz and fl oz to cc instantly with accurate volume conversion for medical and cooking use.">
-<meta name="keywords" content="cc to fluid ounce US converter 2025, cc to fl oz, cubic centimeter to fluid ounce, medical volume, cooking measurement">
+<title>CC to Fluid Ounce US Converter 2026 - cc to fl oz Calculator | Thiyagi</title>
+<meta name="description" content="Free online CC to Fluid Ounce US converter 2026. Convert cc to fl oz and fl oz to cc instantly with accurate volume conversion for medical and cooking use.">
+<meta name="keywords" content="cc to fluid ounce US converter 2026, cc to fl oz, cubic centimeter to fluid ounce, medical volume, cooking measurement">
 <meta name="author" content="Thiyagi">
-<meta property="og:title" content="CC to Fluid Ounce US Converter 2025 - cc to fl oz Calculator">
-<meta property="og:description" content="Free online CC to Fluid Ounce US converter 2025. Convert cc to fl oz and fl oz to cc instantly.">
+<meta property="og:title" content="CC to Fluid Ounce US Converter 2026 - cc to fl oz Calculator">
+<meta property="og:description" content="Free online CC to Fluid Ounce US converter 2026. Convert cc to fl oz and fl oz to cc instantly.">
 <meta property="og:type" content="website">
 <meta property="og:url" content="https://www.thiyagi.com/cc-to-fluid-ounce-us.php">
 <meta property="og:image" content="https://www.thiyagi.com/nt.png">
 <meta property="og:site_name" content="Thiyagi">
 <meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:title" content="CC to Fluid Ounce US Converter 2025 - cc to fl oz Calculator">
-<meta name="twitter:description" content="Free online CC to Fluid Ounce US converter 2025. Convert cc to fl oz and fl oz to cc instantly.">
+<meta name="twitter:title" content="CC to Fluid Ounce US Converter 2026 - cc to fl oz Calculator">
+<meta name="twitter:description" content="Free online CC to Fluid Ounce US converter 2026. Convert cc to fl oz and fl oz to cc instantly.">
 <meta name="twitter:image" content="https://www.thiyagi.com/nt.png">
 
 <div class="min-h-screen bg-gradient-to-br from-emerald-50 via-green-50 to-teal-50 py-12">

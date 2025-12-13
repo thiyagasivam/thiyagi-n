@@ -1,19 +1,19 @@
 <?php include 'header.php'; ?>
 
 <!-- SEO Meta Tags -->
-<title>Micro to Milli Converter 2025 - Unit Prefix Calculator | Thiyagi</title>
-<meta name="description" content="Free online micro to milli converter 2025. Convert µ to m instantly with accurate prefix conversion for scientific measurements.">
-<meta name="keywords" content="micro to milli converter 2025, µ to m, unit prefix converter, scientific calculator, measurement converter">
+<title>Micro to Milli Converter 2026 - Unit Prefix Calculator | Thiyagi</title>
+<meta name="description" content="Free online micro to milli converter 2026. Convert µ to m instantly with accurate prefix conversion for scientific measurements.">
+<meta name="keywords" content="micro to milli converter 2026, µ to m, unit prefix converter, scientific calculator, measurement converter">
 <meta name="author" content="Thiyagi">
-<meta property="og:title" content="Micro to Milli Converter 2025 - Unit Prefix Calculator">
-<meta property="og:description" content="Free online micro to milli converter 2025. Convert µ to m instantly with accurate prefix conversion.">
+<meta property="og:title" content="Micro to Milli Converter 2026 - Unit Prefix Calculator">
+<meta property="og:description" content="Free online micro to milli converter 2026. Convert µ to m instantly with accurate prefix conversion.">
 <meta property="og:type" content="website">
 <meta property="og:url" content="https://www.thiyagi.com/micro-to-milli.php">
 <meta property="og:image" content="https://www.thiyagi.com/nt.png">
 <meta property="og:site_name" content="Thiyagi">
 <meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:title" content="Micro to Milli Converter 2025 - Unit Prefix Calculator">
-<meta name="twitter:description" content="Free online micro to milli converter 2025. Convert µ to m instantly.">
+<meta name="twitter:title" content="Micro to Milli Converter 2026 - Unit Prefix Calculator">
+<meta name="twitter:description" content="Free online micro to milli converter 2026. Convert µ to m instantly.">
 <meta name="twitter:image" content="https://www.thiyagi.com/nt.png">
 
 <div class="min-h-screen bg-gradient-to-br from-indigo-50 via-blue-50 to-purple-50 py-12">

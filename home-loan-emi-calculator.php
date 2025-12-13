@@ -40,8 +40,8 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Free Home Loan EMI Calculator 2025 - Calculate Monthly Payments & Interest</title>
-<meta name="description" content="Estimate your home loan EMIs with principal, interest rate, and tenure (2025). Compare SBI, HDFC, LIC rates and get amortization schedule instantly.">
+    <title>Free Home Loan EMI Calculator 2026 - Calculate Monthly Payments & Interest</title>
+<meta name="description" content="Estimate your home loan EMIs with principal, interest rate, and tenure (2026). Compare SBI, HDFC, LIC rates and get amortization schedule instantly.">
     <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" rel="stylesheet">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
     <style>

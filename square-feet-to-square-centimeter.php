@@ -1,12 +1,12 @@
 <?php include 'header.php';?>
-<title>Square Feet to Square Centimeter Converter 2025 | Convert sq ft to sq cm | Free Tool</title>
-<meta name="description" content="Convert square feet to square centimeter instantly with our 2025 accurate converter. Perfect sq ft to sq cm conversion with real-time calculations for area measurement.">
-<meta name="keywords" content="square feet to square centimeter 2025, sq ft sq cm converter, imperial metric conversion 2025, area measurement calculator, precision conversion tool">
+<title>Square Feet to Square Centimeter Converter 2026 | Convert sq ft to sq cm | Free Tool</title>
+<meta name="description" content="Convert square feet to square centimeter instantly with our 2026 accurate converter. Perfect sq ft to sq cm conversion with real-time calculations for area measurement.">
+<meta name="keywords" content="square feet to square centimeter 2026, sq ft sq cm converter, imperial metric conversion 2026, area measurement calculator, precision conversion tool">
 <link rel="canonical" href="https://www.thiyagi.com/square-feet-to-square-centimeter">
 
 <!-- Open Graph Meta Tags -->
-<meta property="og:title" content="Square Feet to Square Centimeter Converter 2025 | Convert sq ft to sq cm | Free Tool">
-<meta property="og:description" content="Convert square feet to square centimeter instantly with our 2025 accurate converter. Perfect sq ft to sq cm conversion with real-time calculations for area measurement.">
+<meta property="og:title" content="Square Feet to Square Centimeter Converter 2026 | Convert sq ft to sq cm | Free Tool">
+<meta property="og:description" content="Convert square feet to square centimeter instantly with our 2026 accurate converter. Perfect sq ft to sq cm conversion with real-time calculations for area measurement.">
 <meta property="og:url" content="https://www.thiyagi.com/square-feet-to-square-centimeter">
 <meta property="og:type" content="website">
 <meta property="og:image" content="https://www.thiyagi.com/nt.png">
@@ -14,8 +14,8 @@
 
 <!-- Twitter Card Meta Tags -->
 <meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:title" content="Square Feet to Square Centimeter Converter 2025 | Convert sq ft to sq cm | Free Tool">
-<meta name="twitter:description" content="Convert square feet to square centimeter instantly with our 2025 accurate converter. Perfect sq ft to sq cm conversion with real-time calculations for area measurement.">
+<meta name="twitter:title" content="Square Feet to Square Centimeter Converter 2026 | Convert sq ft to sq cm | Free Tool">
+<meta name="twitter:description" content="Convert square feet to square centimeter instantly with our 2026 accurate converter. Perfect sq ft to sq cm conversion with real-time calculations for area measurement.">
 <meta name="twitter:image" content="https://www.thiyagi.com/nt.png">
 
 <!-- Additional SEO Meta Tags -->
@@ -39,7 +39,7 @@
           Square Feet to Square Centimeter Converter
         </h1>
         <p class="text-xl text-gray-600 mb-8 max-w-3xl mx-auto">
-          Convert square feet to square centimeters instantly with our accurate 2025 calculator. 
+          Convert square feet to square centimeters instantly with our accurate 2026 calculator. 
           Perfect for engineering, design, and international area measurement conversions.
         </p>
       </div>
@@ -156,16 +156,16 @@
     <article class="bg-white rounded-xl shadow-lg p-8">
       <h2 class="text-2xl font-bold text-gray-800 mb-6 flex items-center gap-3">
         <i class="fas fa-info-circle text-indigo-600" aria-hidden="true"></i>
-        Square Feet to Square Centimeter Conversion 2025
+        Square Feet to Square Centimeter Conversion 2026
       </h2>
       <div class="prose max-w-none text-gray-600">
         <p class="mb-4">
-          Converting square feet to square centimeters is essential for international engineering, design, and construction projects in 2025. 
+          Converting square feet to square centimeters is essential for international engineering, design, and construction projects in 2026. 
           This conversion between imperial and metric units enables accurate communication between professionals 
           working across different measurement systems, from architectural plans to detailed engineering drawings.
         </p>
         <p class="mb-6">
-          Our 2025 converter provides instant and precise conversions from square feet to square centimeters, essential for architects, 
+          Our 2026 converter provides instant and precise conversions from square feet to square centimeters, essential for architects, 
           engineers, designers, and international professionals working with area measurements. 
           One square foot equals exactly 929.0304 square centimeters.
         </p>

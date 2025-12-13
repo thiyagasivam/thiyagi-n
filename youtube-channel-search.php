@@ -147,8 +147,8 @@ $trendingCategories = getTrendingCategories();
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Free YouTube Channel Search 2025 - Discover Channels by Keywords</title>
-    <meta name="description" content="Search and discover YouTube channels by keywords and topics. Find channels with detailed statistics including subscribers, views, and video counts (2025).">
+    <title>Free YouTube Channel Search 2026 - Discover Channels by Keywords</title>
+    <meta name="description" content="Search and discover YouTube channels by keywords and topics. Find channels with detailed statistics including subscribers, views, and video counts (2026).">
     <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" rel="stylesheet">
 
     <!-- JSON-LD Structured Data -->

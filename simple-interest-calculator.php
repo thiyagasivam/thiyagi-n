@@ -34,7 +34,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Simple Interest Calculator (2025) - Free Online Tool | Fast & Accurate</title>
+    <title>Simple Interest Calculator (2026) - Free Online Tool | Fast & Accurate</title>
 <meta name="description" content="Calculate simple interest on loans or investments instantly. Free online calculator for principal, rate, and time period computations with clear results breakdown.">
     <!-- Add Tailwind CSS CDN -->
     <script src="https://cdn.tailwindcss.com"></script>

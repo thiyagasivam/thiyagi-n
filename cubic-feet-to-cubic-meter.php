@@ -1,12 +1,12 @@
 <?php include 'header.php';?>
-<title>Cubic Feet to Cubic Meter Converter 2025 | Cu Ft to Cu M | Free Tool</title>
-<meta name="description" content="Convert cubic feet to cubic meter instantly with our 2025 accurate converter. Perfect cu ft to cu m conversion with real-time calculations for volume measurement.">
-<meta name="keywords" content="cubic feet to cubic meter 2025, cu ft cu m converter, volume conversion 2025, space measurement calculator, capacity conversion">
+<title>Cubic Feet to Cubic Meter Converter 2026 | Cu Ft to Cu M | Free Tool</title>
+<meta name="description" content="Convert cubic feet to cubic meter instantly with our 2026 accurate converter. Perfect cu ft to cu m conversion with real-time calculations for volume measurement.">
+<meta name="keywords" content="cubic feet to cubic meter 2026, cu ft cu m converter, volume conversion 2026, space measurement calculator, capacity conversion">
 <link rel="canonical" href="https://www.thiyagi.com/cubic-feet-to-cubic-meter">
 
 <!-- Open Graph Meta Tags -->
-<meta property="og:title" content="Cubic Feet to Cubic Meter Converter 2025 | Cu Ft to Cu M | Free Tool">
-<meta property="og:description" content="Convert cubic feet to cubic meter instantly with our 2025 accurate converter. Perfect cu ft to cu m conversion with real-time calculations for volume measurement.">
+<meta property="og:title" content="Cubic Feet to Cubic Meter Converter 2026 | Cu Ft to Cu M | Free Tool">
+<meta property="og:description" content="Convert cubic feet to cubic meter instantly with our 2026 accurate converter. Perfect cu ft to cu m conversion with real-time calculations for volume measurement.">
 <meta property="og:url" content="https://www.thiyagi.com/cubic-feet-to-cubic-meter">
 <meta property="og:type" content="website">
 <meta property="og:image" content="https://www.thiyagi.com/nt.png">
@@ -14,8 +14,8 @@
 
 <!-- Twitter Card Meta Tags -->
 <meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:title" content="Cubic Feet to Cubic Meter Converter 2025 | Cu Ft to Cu M | Free Tool">
-<meta name="twitter:description" content="Convert cubic feet to cubic meter instantly with our 2025 accurate converter. Perfect cu ft to cu m conversion with real-time calculations for volume measurement.">
+<meta name="twitter:title" content="Cubic Feet to Cubic Meter Converter 2026 | Cu Ft to Cu M | Free Tool">
+<meta name="twitter:description" content="Convert cubic feet to cubic meter instantly with our 2026 accurate converter. Perfect cu ft to cu m conversion with real-time calculations for volume measurement.">
 <meta name="twitter:image" content="https://www.thiyagi.com/nt.png">
 
 <!-- Additional SEO Meta Tags -->
@@ -39,7 +39,7 @@
           Cubic Feet to Cubic Meter Converter
         </h1>
         <p class="text-xl text-gray-600 mb-8 max-w-3xl mx-auto">
-          Convert cubic feet to cubic meters instantly with our accurate 2025 calculator. 
+          Convert cubic feet to cubic meters instantly with our accurate 2026 calculator. 
           Perfect for construction, engineering, and volume measurement applications.
         </p>
       </div>
@@ -156,16 +156,16 @@
     <article class="bg-white rounded-xl shadow-lg p-8">
       <h2 class="text-2xl font-bold text-gray-800 mb-6 flex items-center gap-3">
         <i class="fas fa-info-circle text-indigo-600" aria-hidden="true"></i>
-        Cubic Feet to Cubic Meter Conversion 2025
+        Cubic Feet to Cubic Meter Conversion 2026
       </h2>
       <div class="prose max-w-none text-gray-600">
         <p class="mb-4">
-          Converting cubic feet to cubic meters is essential for construction, engineering, and volume measurement applications in 2025. 
+          Converting cubic feet to cubic meters is essential for construction, engineering, and volume measurement applications in 2026. 
           This conversion bridges imperial and metric volume systems, enabling accurate communication between professionals 
           working with space calculations, material quantities, and capacity specifications.
         </p>
         <p class="mb-6">
-          Our 2025 converter provides instant and precise conversions from cubic feet to cubic meters, essential for architects, 
+          Our 2026 converter provides instant and precise conversions from cubic feet to cubic meters, essential for architects, 
           engineers, contractors, and technical professionals working with volume specifications. 
           One cubic foot equals approximately 0.0283168 cubic meters.
         </p>

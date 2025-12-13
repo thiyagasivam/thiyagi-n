@@ -1,12 +1,12 @@
 <?php include 'header.php';?>
-<title>Square Meter to Hectare Converter 2025 | Sqm to Hectare | Free Tool</title>
-<meta name="description" content="Convert square meters to hectares instantly with our 2025 accurate converter. Perfect sqm to hectare conversion with real-time calculations for agriculture and land measurement.">
-<meta name="keywords" content="square meter to hectare 2025, sqm to hectare converter, meter to hectare conversion, area conversion 2025, agriculture measurement, land calculator">
+<title>Square Meter to Hectare Converter 2026 | Sqm to Hectare | Free Tool</title>
+<meta name="description" content="Convert square meters to hectares instantly with our 2026 accurate converter. Perfect sqm to hectare conversion with real-time calculations for agriculture and land measurement.">
+<meta name="keywords" content="square meter to hectare 2026, sqm to hectare converter, meter to hectare conversion, area conversion 2026, agriculture measurement, land calculator">
 <link rel="canonical" href="https://www.thiyagi.com/sqm-to-hectare">
 
 <!-- Open Graph Meta Tags -->
-<meta property="og:title" content="Square Meter to Hectare Converter 2025 | Sqm to Hectare | Free Tool">
-<meta property="og:description" content="Convert square meters to hectares instantly with our 2025 accurate converter. Perfect sqm to hectare conversion with real-time calculations for agriculture and land measurement.">
+<meta property="og:title" content="Square Meter to Hectare Converter 2026 | Sqm to Hectare | Free Tool">
+<meta property="og:description" content="Convert square meters to hectares instantly with our 2026 accurate converter. Perfect sqm to hectare conversion with real-time calculations for agriculture and land measurement.">
 <meta property="og:url" content="https://www.thiyagi.com/sqm-to-hectare">
 <meta property="og:type" content="website">
 <meta property="og:image" content="https://www.thiyagi.com/nt.png">
@@ -14,8 +14,8 @@
 
 <!-- Twitter Card Meta Tags -->
 <meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:title" content="Square Meter to Hectare Converter 2025 | Sqm to Hectare | Free Tool">
-<meta name="twitter:description" content="Convert square meters to hectares instantly with our 2025 accurate converter. Perfect sqm to hectare conversion with real-time calculations for agriculture and land measurement.">
+<meta name="twitter:title" content="Square Meter to Hectare Converter 2026 | Sqm to Hectare | Free Tool">
+<meta name="twitter:description" content="Convert square meters to hectares instantly with our 2026 accurate converter. Perfect sqm to hectare conversion with real-time calculations for agriculture and land measurement.">
 <meta name="twitter:image" content="https://www.thiyagi.com/nt.png">
 
 <!-- Additional SEO Meta Tags -->
@@ -39,7 +39,7 @@
           Square Meter to Hectare Converter
         </h1>
         <p class="text-xl text-gray-600 mb-8 max-w-3xl mx-auto">
-          Convert square meters to hectares instantly with our accurate 2025 calculator. 
+          Convert square meters to hectares instantly with our accurate 2026 calculator. 
           Perfect for agriculture, forestry, and large land area measurements.
         </p>
       </div>
@@ -157,15 +157,15 @@
     <article class="bg-white rounded-xl shadow-lg p-8">
       <h2 class="text-2xl font-bold text-gray-800 mb-6 flex items-center gap-3">
         <i class="fas fa-info-circle text-emerald-600" aria-hidden="true"></i>
-        Square Meter to Hectare Conversion 2025
+        Square Meter to Hectare Conversion 2026
       </h2>
       <div class="prose max-w-none text-gray-600">
         <p class="mb-4">
-          Converting square meters to hectares is essential for agriculture, forestry, and large land measurements in 2025. 
+          Converting square meters to hectares is essential for agriculture, forestry, and large land measurements in 2026. 
           A hectare is a metric unit of area measurement commonly used worldwide for measuring large areas like farms and forests.
         </p>
         <p class="mb-6">
-          Our 2025 converter uses the exact conversion factor: 1 hectare = 10,000 square meters. This simple conversion makes it 
+          Our 2026 converter uses the exact conversion factor: 1 hectare = 10,000 square meters. This simple conversion makes it 
           easy to calculate farm sizes, forest areas, and other large land measurements in the metric system.
         </p>
       </div>

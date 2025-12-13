@@ -1,19 +1,19 @@
 <?php include 'header.php'; ?>
 
 <!-- SEO Meta Tags -->
-<title>Newton to Kilonewton Converter 2025 - N to kN Calculator | Thiyagi</title>
-<meta name="description" content="Free online Newton to Kilonewton converter 2025. Convert N to kN and kN to N instantly with accurate force conversion for engineering calculations.">
-<meta name="keywords" content="newton to kilonewton converter 2025, N to kN, force converter, mechanical engineering, structural engineering, physics force units">
+<title>Newton to Kilonewton Converter 2026 - N to kN Calculator | Thiyagi</title>
+<meta name="description" content="Free online Newton to Kilonewton converter 2026. Convert N to kN and kN to N instantly with accurate force conversion for engineering calculations.">
+<meta name="keywords" content="newton to kilonewton converter 2026, N to kN, force converter, mechanical engineering, structural engineering, physics force units">
 <meta name="author" content="Thiyagi">
-<meta property="og:title" content="Newton to Kilonewton Converter 2025 - N to kN Calculator">
-<meta property="og:description" content="Free online Newton to Kilonewton converter 2025. Convert N to kN and kN to N instantly.">
+<meta property="og:title" content="Newton to Kilonewton Converter 2026 - N to kN Calculator">
+<meta property="og:description" content="Free online Newton to Kilonewton converter 2026. Convert N to kN and kN to N instantly.">
 <meta property="og:type" content="website">
 <meta property="og:url" content="https://www.thiyagi.com/newton-to-kilonewton.php">
 <meta property="og:image" content="https://www.thiyagi.com/nt.png">
 <meta property="og:site_name" content="Thiyagi">
 <meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:title" content="Newton to Kilonewton Converter 2025 - N to kN Calculator">
-<meta name="twitter:description" content="Free online Newton to Kilonewton converter 2025. Convert N to kN and kN to N instantly.">
+<meta name="twitter:title" content="Newton to Kilonewton Converter 2026 - N to kN Calculator">
+<meta name="twitter:description" content="Free online Newton to Kilonewton converter 2026. Convert N to kN and kN to N instantly.">
 <meta name="twitter:image" content="https://www.thiyagi.com/nt.png">
 
 <div class="min-h-screen bg-gradient-to-br from-blue-50 via-indigo-50 to-purple-50 py-12">

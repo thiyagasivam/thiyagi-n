@@ -46,8 +46,8 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Free Hours Calculator 2025 - Track Work Time & Calculate Payroll</title>
-<meta name="description" content="Calculate total hours, overtime, and breaks instantly (2025). Perfect for employees, freelancers, and payroll managers - Convert minutes to decimal hours easily!">
+    <title>Free Hours Calculator 2026 - Track Work Time & Calculate Payroll</title>
+<meta name="description" content="Calculate total hours, overtime, and breaks instantly (2026). Perfect for employees, freelancers, and payroll managers - Convert minutes to decimal hours easily!">
     <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" rel="stylesheet">
     <style>
         .time-input {

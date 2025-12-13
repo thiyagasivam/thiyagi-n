@@ -1,19 +1,19 @@
 <?php include 'header.php'; ?>
 
 <!-- SEO Meta Tags -->
-<title>Mil to Inch Converter 2025 - Length Calculator | Thiyagi</title>
-<meta name="description" content="Free online mil to inch converter 2025. Convert mils to inches instantly with accurate length conversion. Perfect for precision engineering and manufacturing.">
-<meta name="keywords" content="mil to inch converter 2025, mil to inches, precision converter, engineering calculator, manufacturing converter">
+<title>Mil to Inch Converter 2026 - Length Calculator | Thiyagi</title>
+<meta name="description" content="Free online mil to inch converter 2026. Convert mils to inches instantly with accurate length conversion. Perfect for precision engineering and manufacturing.">
+<meta name="keywords" content="mil to inch converter 2026, mil to inches, precision converter, engineering calculator, manufacturing converter">
 <meta name="author" content="Thiyagi">
-<meta property="og:title" content="Mil to Inch Converter 2025 - Length Calculator">
-<meta property="og:description" content="Free online mil to inch converter 2025. Convert mils to inches instantly with accurate length conversion.">
+<meta property="og:title" content="Mil to Inch Converter 2026 - Length Calculator">
+<meta property="og:description" content="Free online mil to inch converter 2026. Convert mils to inches instantly with accurate length conversion.">
 <meta property="og:type" content="website">
 <meta property="og:url" content="https://www.thiyagi.com/mil-to-inch.php">
 <meta property="og:image" content="https://www.thiyagi.com/nt.png">
 <meta property="og:site_name" content="Thiyagi">
 <meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:title" content="Mil to Inch Converter 2025 - Length Calculator">
-<meta name="twitter:description" content="Free online mil to inch converter 2025. Convert mils to inches instantly with accurate length conversion.">
+<meta name="twitter:title" content="Mil to Inch Converter 2026 - Length Calculator">
+<meta name="twitter:description" content="Free online mil to inch converter 2026. Convert mils to inches instantly with accurate length conversion.">
 <meta name="twitter:image" content="https://www.thiyagi.com/nt.png">
 
 <div class="min-h-screen bg-gradient-to-br from-slate-50 via-gray-50 to-zinc-50 py-12">

@@ -1,5 +1,5 @@
 <?php 
-// Define current tariff slabs (2025)
+// Define current tariff slabs (2026)
 $slabs = [
     ['min' => 0, 'max' => 100, 'rate' => 3.35],
     ['min' => 101, 'max' => 150, 'rate' => 5.50],
@@ -44,8 +44,8 @@ include '../header.php';
 ?>
 
 <!-- Page-specific meta tags -->
-<title>UPPCL Bill Calculator - Uttar Pradesh Electricity Cost Estimator 2025</title>
-<meta name="description" content="Calculate your UPPCL electricity bill online using the latest slab rates for domestic users in Uttar Pradesh. Updated for 2025.">
+<title>UPPCL Bill Calculator - Uttar Pradesh Electricity Cost Estimator 2026</title>
+<meta name="description" content="Calculate your UPPCL electricity bill online using the latest slab rates for domestic users in Uttar Pradesh. Updated for 2026.">
 
 <!-- Additional styles for this page -->
 <style>
@@ -143,7 +143,7 @@ function printBill() {
 function shareBill() {
     const units = <?= $units ?? 0 ?>;
     const total = <?= $total ?? 0 ?>;
-    const text = `My UPPCL Bill Calculation: ${units} units = ₹${total.toFixed(2)} (2025 rates)`;
+    const text = `My UPPCL Bill Calculation: ${units} units = ₹${total.toFixed(2)} (2026 rates)`;
     const url = window.location.href;
     
     if (navigator.share) {
@@ -179,7 +179,7 @@ function fallbackShare(text, url) {
 <div class="bg-gray-50 min-h-screen">
     <div class="container mx-auto px-4 py-8">
         <header class="text-center mb-8">
-            <h1 class="text-3xl font-bold text-green-800 mb-2">UPPCL Bill Calculator 2025</h1>
+            <h1 class="text-3xl font-bold text-green-800 mb-2">UPPCL Bill Calculator 2026</h1>
             <p class="text-gray-600">Uttar Pradesh Electricity Bill Calculator (Domestic Consumers)</p>
         </header>
         
@@ -222,7 +222,7 @@ function fallbackShare(text, url) {
                             <div class="flex justify-between items-center">
                                 <div>
                                     <p class="text-gray-600">For <span class="font-medium"><?= $units ?></span> units</p>
-                                    <p class="text-sm text-gray-500">UPPCL Bill (2025 Rates)</p>
+                                    <p class="text-sm text-gray-500">UPPCL Bill (2026 Rates)</p>
                                 </div>
                                 <div class="text-3xl font-bold text-green-700">₹<?= number_format($total, 2) ?></div>
                             </div>
@@ -280,7 +280,7 @@ function fallbackShare(text, url) {
         
         <div class="max-w-2xl mx-auto mt-8 bg-white rounded-lg shadow-md overflow-hidden">
             <div class="p-6">
-                <h2 class="text-xl font-semibold text-gray-800 mb-4">Current UPPCL Tariff Slabs (2025)</h2>
+                <h2 class="text-xl font-semibold text-gray-800 mb-4">Current UPPCL Tariff Slabs (2026)</h2>
                 <div class="overflow-x-auto">
                     <table class="min-w-full bg-white border border-gray-200">
                         <thead class="bg-gray-50">

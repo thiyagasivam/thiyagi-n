@@ -3,14 +3,14 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Towing Estimate Calculator 2025 - Calculate Towing Service Costs | Thiyagi.com</title>
-    <meta name="description" content="Towing estimate calculator 2025 - calculate towing service costs based on distance, vehicle type, time of service, and additional factors for accurate pricing.">
-    <meta name="keywords" content="towing calculator 2025, towing cost estimator, tow truck price calculator, auto towing estimate, roadside assistance calculator">
+    <title>Towing Estimate Calculator 2026 - Calculate Towing Service Costs | Thiyagi.com</title>
+    <meta name="description" content="Towing estimate calculator 2026 - calculate towing service costs based on distance, vehicle type, time of service, and additional factors for accurate pricing.">
+    <meta name="keywords" content="towing calculator 2026, towing cost estimator, tow truck price calculator, auto towing estimate, roadside assistance calculator">
     <meta name="author" content="Thiyagi">
     <meta name="robots" content="index, follow">
     
     <!-- Open Graph Meta Tags -->
-    <meta property="og:title" content="Towing Estimate Calculator 2025 - Calculate Towing Service Costs">
+    <meta property="og:title" content="Towing Estimate Calculator 2026 - Calculate Towing Service Costs">
     <meta property="og:description" content="Calculate accurate towing service costs based on distance, vehicle type, and service requirements.">
     <meta property="og:url" content="https://www.thiyagi.com/towing-estimate-calculator">
     <meta property="og:type" content="website">
@@ -18,7 +18,7 @@
     
     <!-- Twitter Card Meta Tags -->
     <meta name="twitter:card" content="summary_large_image">
-    <meta name="twitter:title" content="Towing Estimate Calculator 2025 - Calculate Towing Service Costs">
+    <meta name="twitter:title" content="Towing Estimate Calculator 2026 - Calculate Towing Service Costs">
     <meta name="twitter:description" content="Calculate towing service costs accurately with our comprehensive calculator.">
     <meta name="twitter:image" content="https://www.thiyagi.com/nt.png">
     
@@ -70,7 +70,7 @@
 {
   "@context": "https://schema.org",
   "@type": "WebApplication",
-  "name": "Towing Estimate Calculator 2025",
+  "name": "Towing Estimate Calculator 2026",
   "description": "Calculate towing service costs based on distance, vehicle type, time of service, and additional factors for accurate pricing.",
   "url": "https://www.thiyagi.com/towing-estimate-calculator",
   "applicationCategory": "UtilityApplication",

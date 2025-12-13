@@ -43,8 +43,8 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>2025 Salary Calculator - Free Gross to Net Pay Estimator</title>
-<meta name="description" content="Calculate your take-home pay after taxes, deductions & bonuses. Free salary calculator for 2025 with breakdowns for hourly, monthly & annual earnings.">
+    <title>2026 Salary Calculator - Free Gross to Net Pay Estimator</title>
+<meta name="description" content="Calculate your take-home pay after taxes, deductions & bonuses. Free salary calculator for 2026 with breakdowns for hourly, monthly & annual earnings.">
     <!-- Add Tailwind CSS CDN -->
     <script src="https://cdn.tailwindcss.com"></script>
     <style>

@@ -3,14 +3,14 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>RogerHub Final Grade Calculator 2025 - Grade Calculator Tool | Thiyagi.com</title>
-    <meta name="description" content="Calculate your final grade with RogerHub-style final grade calculator 2025. Determine what score you need on your final exam to achieve your desired course grade.">
-    <meta name="keywords" content="rogerhub final grade calculator 2025, grade calculator, final exam calculator, student grade tool, academic calculator, course grade calculator">
+    <title>RogerHub Final Grade Calculator 2026 - Grade Calculator Tool | Thiyagi.com</title>
+    <meta name="description" content="Calculate your final grade with RogerHub-style final grade calculator 2026. Determine what score you need on your final exam to achieve your desired course grade.">
+    <meta name="keywords" content="rogerhub final grade calculator 2026, grade calculator, final exam calculator, student grade tool, academic calculator, course grade calculator">
     <meta name="author" content="Thiyagi">
     <meta name="robots" content="index, follow">
     
     <!-- Open Graph Meta Tags -->
-    <meta property="og:title" content="RogerHub Final Grade Calculator 2025 - Grade Calculator Tool">
+    <meta property="og:title" content="RogerHub Final Grade Calculator 2026 - Grade Calculator Tool">
     <meta property="og:description" content="Calculate your final grade with RogerHub-style calculator. Determine what score you need on your final exam to achieve your desired course grade.">
     <meta property="og:url" content="https://www.thiyagi.com/rogerhub-final-grade-calculator">
     <meta property="og:type" content="website">
@@ -18,7 +18,7 @@
     
     <!-- Twitter Card Meta Tags -->
     <meta name="twitter:card" content="summary_large_image">
-    <meta name="twitter:title" content="RogerHub Final Grade Calculator 2025 - Grade Calculator Tool">
+    <meta name="twitter:title" content="RogerHub Final Grade Calculator 2026 - Grade Calculator Tool">
     <meta name="twitter:description" content="Calculate your final grade with RogerHub-style calculator. Determine what score you need on your final exam to achieve your desired course grade.">
     <meta name="twitter:image" content="https://www.thiyagi.com/nt.png">
     
@@ -59,7 +59,7 @@
 {
   "@context": "https://schema.org",
   "@type": "WebApplication",
-  "name": "RogerHub Final Grade Calculator 2025",
+  "name": "RogerHub Final Grade Calculator 2026",
   "description": "Calculate your final course grade and determine what score you need on your final exam to achieve your desired grade using this comprehensive grade calculator.",
   "url": "https://www.thiyagi.com/rogerhub-final-grade-calculator",
   "applicationCategory": "EducationalApplication",

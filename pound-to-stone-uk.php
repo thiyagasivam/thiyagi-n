@@ -1,19 +1,19 @@
 <?php include 'header.php'; ?>
 
 <!-- SEO Meta Tags -->
-<title>Pound to Stone UK Converter 2025 - lb to st Calculator | Thiyagi</title>
-<meta name="description" content="Free online Pound to Stone UK converter 2025. Convert lb to st and st to lb instantly with accurate weight conversion.">
-<meta name="keywords" content="pound to stone converter 2025, lb to st, weight converter, UK weight measurement, imperial system">
+<title>Pound to Stone UK Converter 2026 - lb to st Calculator | Thiyagi</title>
+<meta name="description" content="Free online Pound to Stone UK converter 2026. Convert lb to st and st to lb instantly with accurate weight conversion.">
+<meta name="keywords" content="pound to stone converter 2026, lb to st, weight converter, UK weight measurement, imperial system">
 <meta name="author" content="Thiyagi">
-<meta property="og:title" content="Pound to Stone UK Converter 2025 - lb to st Calculator">
-<meta property="og:description" content="Free online Pound to Stone UK converter 2025. Convert lb to st and st to lb instantly.">
+<meta property="og:title" content="Pound to Stone UK Converter 2026 - lb to st Calculator">
+<meta property="og:description" content="Free online Pound to Stone UK converter 2026. Convert lb to st and st to lb instantly.">
 <meta property="og:type" content="website">
 <meta property="og:url" content="https://www.thiyagi.com/pound-to-stone-uk.php">
 <meta property="og:image" content="https://www.thiyagi.com/nt.png">
 <meta property="og:site_name" content="Thiyagi">
 <meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:title" content="Pound to Stone UK Converter 2025 - lb to st Calculator">
-<meta property="twitter:description" content="Free online Pound to Stone UK converter 2025. Convert lb to st and st to lb instantly.">
+<meta name="twitter:title" content="Pound to Stone UK Converter 2026 - lb to st Calculator">
+<meta property="twitter:description" content="Free online Pound to Stone UK converter 2026. Convert lb to st and st to lb instantly.">
 <meta name="twitter:image" content="https://www.thiyagi.com/nt.png">
 
 <div class="min-h-screen bg-gradient-to-br from-amber-50 via-yellow-50 to-orange-50 py-12">

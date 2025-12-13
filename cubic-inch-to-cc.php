@@ -5,9 +5,9 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Cubic Inch to CC Converter 2025 - Volume Conversion Calculator</title>
-    <meta name="description" content="Convert cubic inches to cubic centimeters (cc) with our free 2025 online calculator. Accurate volume conversion for engine displacement and measurements.">
-    <meta name="keywords" content="cubic inch to cc converter 2025, in³ to cc, volume converter, engine displacement calculator 2025">
+    <title>Cubic Inch to CC Converter 2026 - Volume Conversion Calculator</title>
+    <meta name="description" content="Convert cubic inches to cubic centimeters (cc) with our free 2026 online calculator. Accurate volume conversion for engine displacement and measurements.">
+    <meta name="keywords" content="cubic inch to cc converter 2026, in³ to cc, volume converter, engine displacement calculator 2026">
     <script src="https://cdn.tailwindcss.com"></script>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
 </head>

@@ -1,7 +1,7 @@
 <?php include 'header.php';?>
 <?php
 /**
- * Advanced Word Counter Tool 2025
+ * Advanced Word Counter Tool 2026
  */
 
 // Enhanced text analysis function
@@ -109,22 +109,22 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Word Counter 2025 - Count Words, Characters & Text Analysis Tool</title>
-    <meta name="description" content="Advanced word counter tool to count words, characters, sentences, paragraphs with reading time estimates. Professional text analysis for writers, students, and content creators in 2025.">
-    <meta name="keywords" content="word counter, character counter, text analyzer, word count tool, writing tool 2025, sentence counter, paragraph counter, reading time calculator">
+    <title>Word Counter 2026 - Count Words, Characters & Text Analysis Tool</title>
+    <meta name="description" content="Advanced word counter tool to count words, characters, sentences, paragraphs with reading time estimates. Professional text analysis for writers, students, and content creators in 2026.">
+    <meta name="keywords" content="word counter, character counter, text analyzer, word count tool, writing tool 2026, sentence counter, paragraph counter, reading time calculator">
     <link rel="canonical" href="https://www.thiyagi.com/word_counter">
     
     <!-- Open Graph / Facebook -->
     <meta property="og:type" content="website">
     <meta property="og:url" content="https://www.thiyagi.com/word_counter">
-    <meta property="og:title" content="Word Counter 2025 - Advanced Text Analysis Tool">
+    <meta property="og:title" content="Word Counter 2026 - Advanced Text Analysis Tool">
     <meta property="og:description" content="Count words, characters, sentences, and paragraphs instantly. Professional text analysis with reading time estimates for writers and content creators.">
     <meta property="og:image" content="https://www.thiyagi.com/nt.png">
     
     <!-- Twitter -->
     <meta property="twitter:card" content="summary_large_image">
     <meta property="twitter:url" content="https://www.thiyagi.com/word_counter">
-    <meta property="twitter:title" content="Word Counter 2025 - Advanced Text Analysis Tool">
+    <meta property="twitter:title" content="Word Counter 2026 - Advanced Text Analysis Tool">
     <meta property="twitter:description" content="Count words, characters, sentences instantly. Professional text analysis tool for writers.">
     <meta property="twitter:image" content="https://www.thiyagi.com/nt.png">
     
@@ -135,7 +135,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
     {
         "@context": "https://schema.org",
         "@type": "WebApplication",
-        "name": "Word Counter 2025",
+        "name": "Word Counter 2026",
         "description": "Advanced word counter and text analysis tool for writers, students, and content creators",
         "url": "https://www.thiyagi.com/word_counter",
         "applicationCategory": "ProductivityApplication",
@@ -190,7 +190,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
 
     <div class="container mx-auto px-4 py-8 max-w-6xl">
         <header class="text-center mb-12">
-            <h1 class="text-4xl font-bold text-gray-900 mb-4">📝 Word Counter 2025</h1>
+            <h1 class="text-4xl font-bold text-gray-900 mb-4">📝 Word Counter 2026</h1>
             <p class="text-xl text-gray-600 max-w-3xl mx-auto">Advanced text analysis tool to count words, characters, sentences, and paragraphs with reading time estimates. Perfect for writers, students, and content creators.</p>
         </header>
 
@@ -555,7 +555,7 @@ Sentences: ${sentences}
 Paragraphs: ${paragraphs}
 Reading Time: ${readingTime} minutes
 
-Analyzed by Word Counter 2025 - ${window.location.href}`;
+Analyzed by Word Counter 2026 - ${window.location.href}`;
 
             if (navigator.clipboard) {
                 navigator.clipboard.writeText(resultText);

@@ -1,12 +1,12 @@
 <?php include 'header.php';?>
-<title>Grams to Pounds Converter 2025 | g to lbs | Free Weight Tool</title>
-<meta name="description" content="Convert grams to pounds instantly with our 2025 accurate converter. Perfect g to lbs conversion with real-time calculations for cooking and weight measurements.">
-<meta name="keywords" content="grams to pounds converter 2025, g to lbs converter, grams pounds conversion, weight converter 2025, cooking calculator, food measurement tools, metric to imperial conversion, pound calculator online, kitchen measurements, baking converter">
+<title>Grams to Pounds Converter 2026 | g to lbs | Free Weight Tool</title>
+<meta name="description" content="Convert grams to pounds instantly with our 2026 accurate converter. Perfect g to lbs conversion with real-time calculations for cooking and weight measurements.">
+<meta name="keywords" content="grams to pounds converter 2026, g to lbs converter, grams pounds conversion, weight converter 2026, cooking calculator, food measurement tools, metric to imperial conversion, pound calculator online, kitchen measurements, baking converter">
 <link rel="canonical" href="https://www.thiyagi.com/grams-to-pounds">
 
 <!-- Open Graph Meta Tags -->
-<meta property="og:title" content="Grams to Pounds Converter 2025 | g to lbs | Free Weight Tool">
-<meta property="og:description" content="Convert grams to pounds instantly with our 2025 accurate converter. Perfect g to lbs conversion with real-time calculations for cooking and weight measurements.">
+<meta property="og:title" content="Grams to Pounds Converter 2026 | g to lbs | Free Weight Tool">
+<meta property="og:description" content="Convert grams to pounds instantly with our 2026 accurate converter. Perfect g to lbs conversion with real-time calculations for cooking and weight measurements.">
 <meta property="og:url" content="https://www.thiyagi.com/grams-to-pounds">
 <meta property="og:type" content="website">
 <meta property="og:image" content="https://www.thiyagi.com/nt.png">
@@ -14,8 +14,8 @@
 
 <!-- Twitter Card Meta Tags -->
 <meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:title" content="Grams to Pounds Converter 2025 | g to lbs | Free Weight Tool">
-<meta name="twitter:description" content="Convert grams to pounds instantly with our 2025 accurate converter. Perfect g to lbs conversion with real-time calculations for cooking and weight measurements.">
+<meta name="twitter:title" content="Grams to Pounds Converter 2026 | g to lbs | Free Weight Tool">
+<meta name="twitter:description" content="Convert grams to pounds instantly with our 2026 accurate converter. Perfect g to lbs conversion with real-time calculations for cooking and weight measurements.">
 <meta name="twitter:image" content="https://www.thiyagi.com/nt.png">
 
 <!-- Additional SEO Meta Tags -->
@@ -47,7 +47,7 @@
   "@context": "https://schema.org",
   "@type": "WebApplication",
   "name": "Grams to Pounds Converter",
-  "description": "Convert grams to pounds instantly with our accurate 2025 calculator. Perfect g to lbs conversion with real-time calculations for cooking and weight measurements.",
+  "description": "Convert grams to pounds instantly with our accurate 2026 calculator. Perfect g to lbs conversion with real-time calculations for cooking and weight measurements.",
   "url": "https://www.thiyagi.com/grams-to-pounds",
   "applicationCategory": "UtilityApplication",
   "operatingSystem": "Web Browser",
@@ -188,7 +188,7 @@
           Grams to Pounds Converter
         </h1>
         <p class="text-xl text-gray-600 mb-8 max-w-3xl mx-auto">
-          Convert grams to pounds instantly with our accurate 2025 calculator. 
+          Convert grams to pounds instantly with our accurate 2026 calculator. 
           Perfect for cooking recipes, nutrition tracking, and weight measurements.
         </p>
       </div>

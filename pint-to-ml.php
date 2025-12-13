@@ -4,9 +4,9 @@ include 'header.php';
 $header_content = ob_get_clean();
 
 // Insert title and meta tags into the head section
-$title = 'Pint to ML Converter 2025 | Volume Conversion Tool | Free Calculator';
-$description = 'Convert pints to milliliters instantly with our 2025 accurate volume converter. Perfect for cooking, brewing, and liquid measurements.';
-$keywords = 'pint to ml converter 2025, volume conversion calculator, pint milliliter converter, cooking measurements, brewing calculator';
+$title = 'Pint to ML Converter 2026 | Volume Conversion Tool | Free Calculator';
+$description = 'Convert pints to milliliters instantly with our 2026 accurate volume converter. Perfect for cooking, brewing, and liquid measurements.';
+$keywords = 'pint to ml converter 2026, volume conversion calculator, pint milliliter converter, cooking measurements, brewing calculator';
 $canonical = 'https://www.thiyagi.com/pint-to-ml';
 
 $meta_tags = '<title>' . htmlspecialchars($title) . '</title>' . "\n";

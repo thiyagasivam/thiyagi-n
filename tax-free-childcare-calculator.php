@@ -3,14 +3,14 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Tax-Free Childcare Calculator 2025 - Government Savings Calculator | Thiyagi.com</title>
-    <meta name="description" content="Tax-free childcare calculator 2025 - calculate government savings, eligibility, and benefits for tax-free childcare schemes in UK, US, and other countries.">
-    <meta name="keywords" content="tax-free childcare calculator 2025, childcare vouchers, government childcare savings, tax credits, dependent care FSA">
+    <title>Tax-Free Childcare Calculator 2026 - Government Savings Calculator | Thiyagi.com</title>
+    <meta name="description" content="Tax-free childcare calculator 2026 - calculate government savings, eligibility, and benefits for tax-free childcare schemes in UK, US, and other countries.">
+    <meta name="keywords" content="tax-free childcare calculator 2026, childcare vouchers, government childcare savings, tax credits, dependent care FSA">
     <meta name="author" content="Thiyagi">
     <meta name="robots" content="index, follow">
     
     <!-- Open Graph Meta Tags -->
-    <meta property="og:title" content="Tax-Free Childcare Calculator 2025 - Government Savings Calculator">
+    <meta property="og:title" content="Tax-Free Childcare Calculator 2026 - Government Savings Calculator">
     <meta property="og:description" content="Calculate tax-free childcare savings and government benefits for working families.">
     <meta property="og:url" content="https://www.thiyagi.com/tax-free-childcare-calculator">
     <meta property="og:type" content="website">
@@ -18,7 +18,7 @@
     
     <!-- Twitter Card Meta Tags -->
     <meta name="twitter:card" content="summary_large_image">
-    <meta name="twitter:title" content="Tax-Free Childcare Calculator 2025 - Government Savings Calculator">
+    <meta name="twitter:title" content="Tax-Free Childcare Calculator 2026 - Government Savings Calculator">
     <meta name="twitter:description" content="Calculate childcare savings and government benefits for families.">
     <meta name="twitter:image" content="https://www.thiyagi.com/nt.png">
     
@@ -101,7 +101,7 @@
 {
   "@context": "https://schema.org",
   "@type": "WebApplication",
-  "name": "Tax-Free Childcare Calculator 2025",
+  "name": "Tax-Free Childcare Calculator 2026",
   "description": "Financial calculator for tax-free childcare savings and eligibility in various countries.",
   "url": "https://www.thiyagi.com/tax-free-childcare-calculator",
   "applicationCategory": "FinanceApplication",

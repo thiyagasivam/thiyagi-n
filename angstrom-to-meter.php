@@ -1,19 +1,19 @@
 <?php include 'header.php'; ?>
 
 <!-- SEO Meta Tags -->
-<title>Angstrom to Meter Converter 2025 - Å to m Calculator | Thiyagi</title>
-<meta name="description" content="Free online Angstrom to Meter converter 2025. Convert Å to m and m to Å instantly with accurate atomic scale length measurement conversion.">
-<meta name="keywords" content="angstrom to meter converter 2025, Å to m, atomic length, scientific measurement, crystallography converter">
+<title>Angstrom to Meter Converter 2026 - Å to m Calculator | Thiyagi</title>
+<meta name="description" content="Free online Angstrom to Meter converter 2026. Convert Å to m and m to Å instantly with accurate atomic scale length measurement conversion.">
+<meta name="keywords" content="angstrom to meter converter 2026, Å to m, atomic length, scientific measurement, crystallography converter">
 <meta name="author" content="Thiyagi">
-<meta property="og:title" content="Angstrom to Meter Converter 2025 - Å to m Calculator">
-<meta property="og:description" content="Free online Angstrom to Meter converter 2025. Convert Å to m and m to Å instantly.">
+<meta property="og:title" content="Angstrom to Meter Converter 2026 - Å to m Calculator">
+<meta property="og:description" content="Free online Angstrom to Meter converter 2026. Convert Å to m and m to Å instantly.">
 <meta property="og:type" content="website">
 <meta property="og:url" content="https://www.thiyagi.com/angstrom-to-meter.php">
 <meta property="og:image" content="https://www.thiyagi.com/nt.png">
 <meta property="og:site_name" content="Thiyagi">
 <meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:title" content="Angstrom to Meter Converter 2025 - Å to m Calculator">
-<meta property="twitter:description" content="Free online Angstrom to Meter converter 2025. Convert Å to m and m to Å instantly.">
+<meta name="twitter:title" content="Angstrom to Meter Converter 2026 - Å to m Calculator">
+<meta property="twitter:description" content="Free online Angstrom to Meter converter 2026. Convert Å to m and m to Å instantly.">
 <meta name="twitter:image" content="https://www.thiyagi.com/nt.png">
 
 <div class="min-h-screen bg-gradient-to-br from-blue-50 via-indigo-50 to-purple-50 py-12">

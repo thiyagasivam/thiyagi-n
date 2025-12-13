@@ -1,19 +1,19 @@
 <?php include 'header.php'; ?>
 
 <!-- SEO Meta Tags -->
-<title>Microgram to Nanogram Converter 2025 - μg to ng Calculator | Thiyagi</title>
-<meta name="description" content="Free online Microgram to Nanogram converter 2025. Convert μg to ng and ng to μg instantly with accurate mass conversion.">
-<meta name="keywords" content="microgram to nanogram converter 2025, μg to ng, mass conversion, micro measurements calculator">
+<title>Microgram to Nanogram Converter 2026 - μg to ng Calculator | Thiyagi</title>
+<meta name="description" content="Free online Microgram to Nanogram converter 2026. Convert μg to ng and ng to μg instantly with accurate mass conversion.">
+<meta name="keywords" content="microgram to nanogram converter 2026, μg to ng, mass conversion, micro measurements calculator">
 <meta name="author" content="Thiyagi">
-<meta property="og:title" content="Microgram to Nanogram Converter 2025 - μg to ng Calculator">
-<meta property="og:description" content="Free online Microgram to Nanogram converter 2025. Convert μg to ng and ng to μg instantly.">
+<meta property="og:title" content="Microgram to Nanogram Converter 2026 - μg to ng Calculator">
+<meta property="og:description" content="Free online Microgram to Nanogram converter 2026. Convert μg to ng and ng to μg instantly.">
 <meta property="og:type" content="website">
 <meta property="og:url" content="https://www.thiyagi.com/microgram-to-nanogram.php">
 <meta property="og:image" content="https://www.thiyagi.com/nt.png">
 <meta property="og:site_name" content="Thiyagi">
 <meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:title" content="Microgram to Nanogram Converter 2025 - μg to ng Calculator">
-<meta property="twitter:description" content="Free online Microgram to Nanogram converter 2025. Convert μg to ng and ng to μg instantly.">
+<meta name="twitter:title" content="Microgram to Nanogram Converter 2026 - μg to ng Calculator">
+<meta property="twitter:description" content="Free online Microgram to Nanogram converter 2026. Convert μg to ng and ng to μg instantly.">
 <meta name="twitter:image" content="https://www.thiyagi.com/nt.png">
 
 <div class="min-h-screen bg-gradient-to-br from-emerald-50 via-teal-50 to-cyan-50 py-12">

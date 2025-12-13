@@ -1,12 +1,12 @@
 <?php include 'header.php';?>
-<title>Mile to Meter Converter 2025 | Mile to M | Free Tool</title>
-<meta name="description" content="Convert mile to meter instantly with our 2025 accurate converter. Perfect mile to m conversion with real-time calculations for athletics and measurements.">
-<meta name="keywords" content="mile to meter 2025, mile m converter, imperial metric conversion 2025, athletics measurement calculator, distance conversion">
+<title>Mile to Meter Converter 2026 | Mile to M | Free Tool</title>
+<meta name="description" content="Convert mile to meter instantly with our 2026 accurate converter. Perfect mile to m conversion with real-time calculations for athletics and measurements.">
+<meta name="keywords" content="mile to meter 2026, mile m converter, imperial metric conversion 2026, athletics measurement calculator, distance conversion">
 <link rel="canonical" href="https://www.thiyagi.com/mile-to-meter">
 
 <!-- Open Graph Meta Tags -->
-<meta property="og:title" content="Mile to Meter Converter 2025 | Mile to M | Free Tool">
-<meta property="og:description" content="Convert mile to meter instantly with our 2025 accurate converter. Perfect mile to m conversion with real-time calculations for athletics and measurements.">
+<meta property="og:title" content="Mile to Meter Converter 2026 | Mile to M | Free Tool">
+<meta property="og:description" content="Convert mile to meter instantly with our 2026 accurate converter. Perfect mile to m conversion with real-time calculations for athletics and measurements.">
 <meta property="og:url" content="https://www.thiyagi.com/mile-to-meter">
 <meta property="og:type" content="website">
 <meta property="og:image" content="https://www.thiyagi.com/nt.png">
@@ -14,8 +14,8 @@
 
 <!-- Twitter Card Meta Tags -->
 <meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:title" content="Mile to Meter Converter 2025 | Mile to M | Free Tool">
-<meta name="twitter:description" content="Convert mile to meter instantly with our 2025 accurate converter. Perfect mile to m conversion with real-time calculations for athletics and measurements.">
+<meta name="twitter:title" content="Mile to Meter Converter 2026 | Mile to M | Free Tool">
+<meta name="twitter:description" content="Convert mile to meter instantly with our 2026 accurate converter. Perfect mile to m conversion with real-time calculations for athletics and measurements.">
 <meta name="twitter:image" content="https://www.thiyagi.com/nt.png">
 
 <!-- Additional SEO Meta Tags -->
@@ -39,7 +39,7 @@
           Mile to Meter Converter
         </h1>
         <p class="text-xl text-gray-600 mb-8 max-w-3xl mx-auto">
-          Convert miles to meters instantly with our accurate 2025 calculator. 
+          Convert miles to meters instantly with our accurate 2026 calculator. 
           Perfect for athletics, track and field, and precise distance measurements.
         </p>
       </div>
@@ -157,16 +157,16 @@
     <article class="bg-white rounded-xl shadow-lg p-8">
       <h2 class="text-2xl font-bold text-gray-800 mb-6 flex items-center gap-3">
         <i class="fas fa-info-circle text-purple-600" aria-hidden="true"></i>
-        Mile to Meter Conversion 2025
+        Mile to Meter Conversion 2026
       </h2>
       <div class="prose max-w-none text-gray-600">
         <p class="mb-4">
-          Converting miles to meters is crucial for athletics, track and field events, and precise distance measurements in 2025. 
+          Converting miles to meters is crucial for athletics, track and field events, and precise distance measurements in 2026. 
           This imperial to metric conversion enables accurate performance tracking for runners, coaches, 
           and sports scientists working with international athletics standards and training programs.
         </p>
         <p class="mb-6">
-          Our 2025 converter provides instant and accurate conversions from miles to meters, essential for athletes, 
+          Our 2026 converter provides instant and accurate conversions from miles to meters, essential for athletes, 
           coaches, sports scientists, and fitness professionals working with precise distance measurements. 
           One mile equals exactly 1609.344 meters.
         </p>

@@ -3,14 +3,14 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Super Juice Calculator 2025 - Nutrition & Antioxidant Calculator | Thiyagi.com</title>
-    <meta name="description" content="Super juice calculator 2025 - calculate nutrition values, antioxidant levels, vitamin content, and health benefits for custom juice recipes and combinations.">
-    <meta name="keywords" content="super juice calculator 2025, nutrition calculator, antioxidant calculator, juice recipe calculator, vitamin content calculator">
+    <title>Super Juice Calculator 2026 - Nutrition & Antioxidant Calculator | Thiyagi.com</title>
+    <meta name="description" content="Super juice calculator 2026 - calculate nutrition values, antioxidant levels, vitamin content, and health benefits for custom juice recipes and combinations.">
+    <meta name="keywords" content="super juice calculator 2026, nutrition calculator, antioxidant calculator, juice recipe calculator, vitamin content calculator">
     <meta name="author" content="Thiyagi">
     <meta name="robots" content="index, follow">
     
     <!-- Open Graph Meta Tags -->
-    <meta property="og:title" content="Super Juice Calculator 2025 - Nutrition & Antioxidant Calculator">
+    <meta property="og:title" content="Super Juice Calculator 2026 - Nutrition & Antioxidant Calculator">
     <meta property="og:description" content="Calculate nutrition values and health benefits for custom super juice recipes.">
     <meta property="og:url" content="https://www.thiyagi.com/super-juice-calculator">
     <meta property="og:type" content="website">
@@ -18,7 +18,7 @@
     
     <!-- Twitter Card Meta Tags -->
     <meta name="twitter:card" content="summary_large_image">
-    <meta name="twitter:title" content="Super Juice Calculator 2025 - Nutrition & Antioxidant Calculator">
+    <meta name="twitter:title" content="Super Juice Calculator 2026 - Nutrition & Antioxidant Calculator">
     <meta name="twitter:description" content="Calculate nutrition and antioxidant values for super juice recipes.">
     <meta name="twitter:image" content="https://www.thiyagi.com/nt.png">
     
@@ -80,7 +80,7 @@
 {
   "@context": "https://schema.org",
   "@type": "WebApplication",
-  "name": "Super Juice Calculator 2025",
+  "name": "Super Juice Calculator 2026",
   "description": "Nutrition calculator for super juice recipes with antioxidant values, vitamin content, and health benefits calculation.",
   "url": "https://www.thiyagi.com/super-juice-calculator",
   "applicationCategory": "HealthApplication",

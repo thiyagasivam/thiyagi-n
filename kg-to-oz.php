@@ -1,12 +1,12 @@
 <?php include 'header.php';?>
-<title>Kilograms to Ounces Converter 2025 | Kg to Oz Calculator | Free Tool</title>
-<meta name="description" content="Professional kilograms to ounces converter 2025. Convert kg to oz instantly with precision calculations. Perfect for weight, cooking, and international measurements.">
-<meta name="keywords" content="kilograms to ounces converter 2025, kg to oz calculator, weight converter, cooking measurements, metric to imperial">
+<title>Kilograms to Ounces Converter 2026 | Kg to Oz Calculator | Free Tool</title>
+<meta name="description" content="Professional kilograms to ounces converter 2026. Convert kg to oz instantly with precision calculations. Perfect for weight, cooking, and international measurements.">
+<meta name="keywords" content="kilograms to ounces converter 2026, kg to oz calculator, weight converter, cooking measurements, metric to imperial">
 <link rel="canonical" href="https://www.thiyagi.com/kg-to-oz">
 
 <!-- Open Graph Meta Tags -->
-<meta property="og:title" content="Kilograms to Ounces Converter 2025 | Kg to Oz Calculator | Free Tool">
-<meta property="og:description" content="Professional kilograms to ounces converter 2025. Convert kg to oz instantly with precision calculations. Perfect for weight, cooking, and international measurements.">
+<meta property="og:title" content="Kilograms to Ounces Converter 2026 | Kg to Oz Calculator | Free Tool">
+<meta property="og:description" content="Professional kilograms to ounces converter 2026. Convert kg to oz instantly with precision calculations. Perfect for weight, cooking, and international measurements.">
 <meta property="og:url" content="https://www.thiyagi.com/kg-to-oz">
 <meta property="og:type" content="website">
 <meta property="og:image" content="https://www.thiyagi.com/nt.png">
@@ -83,7 +83,7 @@
         </div>
         <h1 class="text-4xl md:text-6xl font-bold text-gray-900 mb-6">
           Kilograms to Ounces Converter
-          <span class="block text-2xl md:text-3xl text-emerald-600 mt-2">Professional 2025</span>
+          <span class="block text-2xl md:text-3xl text-emerald-600 mt-2">Professional 2026</span>
         </h1>
         <p class="text-xl text-gray-600 mb-8 max-w-4xl mx-auto leading-relaxed">
           Convert kilograms to ounces with precision accuracy. Essential for cooking recipes, 

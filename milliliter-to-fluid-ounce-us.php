@@ -1,12 +1,12 @@
 <?php include 'header.php';?>
-<title>Milliliter to Fluid Ounce US Converter 2025 | ML to FL OZ Calculator | Free Tool</title>
-<meta name="description" content="Professional milliliter to fluid ounce US converter 2025. Convert ML to FL OZ instantly with precision calculations. Perfect for cooking, recipes, and volume measurements.">
-<meta name="keywords" content="milliliter to fluid ounce us converter 2025, ml to fl oz calculator, cooking converter, recipe measurements, volume conversion">
+<title>Milliliter to Fluid Ounce US Converter 2026 | ML to FL OZ Calculator | Free Tool</title>
+<meta name="description" content="Professional milliliter to fluid ounce US converter 2026. Convert ML to FL OZ instantly with precision calculations. Perfect for cooking, recipes, and volume measurements.">
+<meta name="keywords" content="milliliter to fluid ounce us converter 2026, ml to fl oz calculator, cooking converter, recipe measurements, volume conversion">
 <link rel="canonical" href="https://www.thiyagi.com/milliliter-to-fluid-ounce-us">
 
 <!-- Open Graph Meta Tags -->
-<meta property="og:title" content="Milliliter to Fluid Ounce US Converter 2025 | ML to FL OZ Calculator | Free Tool">
-<meta property="og:description" content="Professional milliliter to fluid ounce US converter 2025. Convert ML to FL OZ instantly with precision calculations. Perfect for cooking, recipes, and volume measurements.">
+<meta property="og:title" content="Milliliter to Fluid Ounce US Converter 2026 | ML to FL OZ Calculator | Free Tool">
+<meta property="og:description" content="Professional milliliter to fluid ounce US converter 2026. Convert ML to FL OZ instantly with precision calculations. Perfect for cooking, recipes, and volume measurements.">
 <meta property="og:url" content="https://www.thiyagi.com/milliliter-to-fluid-ounce-us">
 <meta property="og:type" content="website">
 <meta property="og:image" content="https://www.thiyagi.com/nt.png">
@@ -83,7 +83,7 @@
         </div>
         <h1 class="text-4xl md:text-6xl font-bold text-gray-900 mb-6">
           ML to Fluid Ounce US Converter
-          <span class="block text-2xl md:text-3xl text-blue-600 mt-2">Professional 2025</span>
+          <span class="block text-2xl md:text-3xl text-blue-600 mt-2">Professional 2026</span>
         </h1>
         <p class="text-xl text-gray-600 mb-8 max-w-4xl mx-auto leading-relaxed">
           Convert milliliters to US fluid ounces with precision accuracy. Essential for cooking, 

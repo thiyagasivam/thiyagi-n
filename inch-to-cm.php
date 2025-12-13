@@ -1,12 +1,12 @@
 <?php include 'header.php';?>
-<title>Inch to Centimeter Converter 2025 | Inch to CM | Free Tool</title>
-<meta name="description" content="Convert inch to centimeter instantly with our 2025 accurate converter. Perfect inch to cm conversion with real-time calculations for design and crafts.">
-<meta name="keywords" content="inch to centimeter 2025, inch cm converter, imperial metric conversion 2025, design measurement calculator, inch cm conversion">
+<title>Inch to Centimeter Converter 2026 | Inch to CM | Free Tool</title>
+<meta name="description" content="Convert inch to centimeter instantly with our 2026 accurate converter. Perfect inch to cm conversion with real-time calculations for design and crafts.">
+<meta name="keywords" content="inch to centimeter 2026, inch cm converter, imperial metric conversion 2026, design measurement calculator, inch cm conversion">
 <link rel="canonical" href="https://www.thiyagi.com/inch-to-cm">
 
 <!-- Open Graph Meta Tags -->
-<meta property="og:title" content="Inch to Centimeter Converter 2025 | Inch to CM | Free Tool">
-<meta property="og:description" content="Convert inch to centimeter instantly with our 2025 accurate converter. Perfect inch to cm conversion with real-time calculations for design and crafts.">
+<meta property="og:title" content="Inch to Centimeter Converter 2026 | Inch to CM | Free Tool">
+<meta property="og:description" content="Convert inch to centimeter instantly with our 2026 accurate converter. Perfect inch to cm conversion with real-time calculations for design and crafts.">
 <meta property="og:url" content="https://www.thiyagi.com/inch-to-cm">
 <meta property="og:type" content="website">
 <meta property="og:image" content="https://www.thiyagi.com/nt.png">
@@ -14,8 +14,8 @@
 
 <!-- Twitter Card Meta Tags -->
 <meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:title" content="Inch to Centimeter Converter 2025 | Inch to CM | Free Tool">
-<meta name="twitter:description" content="Convert inch to centimeter instantly with our 2025 accurate converter. Perfect inch to cm conversion with real-time calculations for design and crafts.">
+<meta name="twitter:title" content="Inch to Centimeter Converter 2026 | Inch to CM | Free Tool">
+<meta name="twitter:description" content="Convert inch to centimeter instantly with our 2026 accurate converter. Perfect inch to cm conversion with real-time calculations for design and crafts.">
 <meta name="twitter:image" content="https://www.thiyagi.com/nt.png">
 
 <!-- Additional SEO Meta Tags -->
@@ -39,7 +39,7 @@
           Inch to Centimeter Converter
         </h1>
         <p class="text-xl text-gray-600 mb-8 max-w-3xl mx-auto">
-          Convert inches to centimeters instantly with our accurate 2025 calculator. 
+          Convert inches to centimeters instantly with our accurate 2026 calculator. 
           Perfect for crafts, fashion, design, and imperial to metric conversions.
         </p>
       </div>
@@ -157,16 +157,16 @@
     <article class="bg-white rounded-xl shadow-lg p-8">
       <h2 class="text-2xl font-bold text-gray-800 mb-6 flex items-center gap-3">
         <i class="fas fa-info-circle text-pink-600" aria-hidden="true"></i>
-        Inch to Centimeter Conversion 2025
+        Inch to Centimeter Conversion 2026
       </h2>
       <div class="prose max-w-none text-gray-600">
         <p class="mb-4">
-          Converting inches to centimeters is essential for crafts, fashion, design, and international measurements in 2025. 
+          Converting inches to centimeters is essential for crafts, fashion, design, and international measurements in 2026. 
           This imperial to metric conversion enables accurate communication for crafters, fashion designers, 
           and DIY enthusiasts working with international patterns, specifications, and global measurement standards.
         </p>
         <p class="mb-6">
-          Our 2025 converter provides instant and accurate conversions from inches to centimeters, essential for crafters, 
+          Our 2026 converter provides instant and accurate conversions from inches to centimeters, essential for crafters, 
           fashion designers, DIY enthusiasts, and international professionals working with precise measurements. 
           One inch equals exactly 2.54 centimeters.
         </p>

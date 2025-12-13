@@ -1,19 +1,19 @@
 <?php include 'header.php'; ?>
 
 <!-- SEO Meta Tags -->
-<title>Cubic Centimeter to Liter Converter 2025 - Volume Calculator | Thiyagi</title>
-<meta name="description" content="Free online cubic centimeter to liter converter 2025. Convert cc to liters instantly with accurate volume conversion. Perfect for automotive and medical applications.">
-<meta name="keywords" content="cubic centimeter to liter converter 2025, cc to liter, volume converter, automotive calculator, medical converter, engine displacement">
+<title>Cubic Centimeter to Liter Converter 2026 - Volume Calculator | Thiyagi</title>
+<meta name="description" content="Free online cubic centimeter to liter converter 2026. Convert cc to liters instantly with accurate volume conversion. Perfect for automotive and medical applications.">
+<meta name="keywords" content="cubic centimeter to liter converter 2026, cc to liter, volume converter, automotive calculator, medical converter, engine displacement">
 <meta name="author" content="Thiyagi">
-<meta property="og:title" content="Cubic Centimeter to Liter Converter 2025 - Volume Calculator">
-<meta property="og:description" content="Free online cubic centimeter to liter converter 2025. Convert cc to liters instantly with accurate volume conversion.">
+<meta property="og:title" content="Cubic Centimeter to Liter Converter 2026 - Volume Calculator">
+<meta property="og:description" content="Free online cubic centimeter to liter converter 2026. Convert cc to liters instantly with accurate volume conversion.">
 <meta property="og:type" content="website">
 <meta property="og:url" content="https://www.thiyagi.com/cubic-centimeter-to-liter.php">
 <meta property="og:image" content="https://www.thiyagi.com/nt.png">
 <meta property="og:site_name" content="Thiyagi">
 <meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:title" content="Cubic Centimeter to Liter Converter 2025 - Volume Calculator">
-<meta name="twitter:description" content="Free online cubic centimeter to liter converter 2025. Convert cc to liters instantly with accurate volume conversion.">
+<meta name="twitter:title" content="Cubic Centimeter to Liter Converter 2026 - Volume Calculator">
+<meta name="twitter:description" content="Free online cubic centimeter to liter converter 2026. Convert cc to liters instantly with accurate volume conversion.">
 <meta name="twitter:image" content="https://www.thiyagi.com/nt.png">
 
 <div class="min-h-screen bg-gradient-to-br from-amber-50 via-orange-50 to-red-50 py-12">hp include 'header.php'; ?>

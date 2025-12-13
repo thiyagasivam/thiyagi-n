@@ -5,9 +5,9 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Micrometer to Meter Converter 2025 - Length Conversion Calculator</title>
-    <meta name="description" content="Convert micrometers to meters with our free 2025 online calculator. Perfect for scientific, engineering, and microscopy measurements.">
-    <meta name="keywords" content="micrometer to meter converter 2025, micron converter, scientific calculator, microscopy measurements 2025">
+    <title>Micrometer to Meter Converter 2026 - Length Conversion Calculator</title>
+    <meta name="description" content="Convert micrometers to meters with our free 2026 online calculator. Perfect for scientific, engineering, and microscopy measurements.">
+    <meta name="keywords" content="micrometer to meter converter 2026, micron converter, scientific calculator, microscopy measurements 2026">
     <script src="https://cdn.tailwindcss.com"></script>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
 </head>

@@ -1,19 +1,19 @@
 <?php include 'header.php'; ?>
 
 <!-- SEO Meta Tags -->
-<title>Gallon US per Minute to Liter per Minute Converter 2025 - Flow Rate Calculator | Thiyagi</title>
-<meta name="description" content="Free online gallon US per minute to liter per minute converter 2025. Convert gal/min to L/min instantly with accurate flow rate conversion.">
-<meta name="keywords" content="gallon per minute to liter per minute converter 2025, gal/min to L/min, flow rate converter, pump calculator, fluid flow">
+<title>Gallon US per Minute to Liter per Minute Converter 2026 - Flow Rate Calculator | Thiyagi</title>
+<meta name="description" content="Free online gallon US per minute to liter per minute converter 2026. Convert gal/min to L/min instantly with accurate flow rate conversion.">
+<meta name="keywords" content="gallon per minute to liter per minute converter 2026, gal/min to L/min, flow rate converter, pump calculator, fluid flow">
 <meta name="author" content="Thiyagi">
-<meta property="og:title" content="Gallon US per Minute to Liter per Minute Converter 2025 - Flow Rate Calculator">
-<meta property="og:description" content="Free online gallon US per minute to liter per minute converter 2025. Convert gal/min to L/min instantly.">
+<meta property="og:title" content="Gallon US per Minute to Liter per Minute Converter 2026 - Flow Rate Calculator">
+<meta property="og:description" content="Free online gallon US per minute to liter per minute converter 2026. Convert gal/min to L/min instantly.">
 <meta property="og:type" content="website">
 <meta property="og:url" content="https://www.thiyagi.com/gallon-us-minute-to-liter-minute.php">
 <meta property="og:image" content="https://www.thiyagi.com/nt.png">
 <meta property="og:site_name" content="Thiyagi">
 <meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:title" content="Gallon US per Minute to Liter per Minute Converter 2025 - Flow Rate Calculator">
-<meta name="twitter:description" content="Free online gallon US per minute to liter per minute converter 2025. Convert gal/min to L/min instantly.">
+<meta name="twitter:title" content="Gallon US per Minute to Liter per Minute Converter 2026 - Flow Rate Calculator">
+<meta name="twitter:description" content="Free online gallon US per minute to liter per minute converter 2026. Convert gal/min to L/min instantly.">
 <meta name="twitter:image" content="https://www.thiyagi.com/nt.png">
 
 <div class="min-h-screen bg-gradient-to-br from-teal-50 via-cyan-50 to-blue-50 py-12">

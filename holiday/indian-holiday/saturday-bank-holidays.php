@@ -2,19 +2,19 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Saturday Bank Holidays in Tamil Nadu 2025 | Complete List</title>
-    <meta name="description" content="Complete list of Saturday Bank Holidays in Tamil Nadu for 2025. Find all second and fourth Saturdays when banks will be closed. Plan your finances accordingly.">
-    <meta name="keywords" content="Saturday Bank Holidays Tamil Nadu 2025, Second Saturday Holiday, Fourth Saturday Holiday, Tamil Nadu Bank Calendar, Bank Holidays India">
+    <title>Saturday Bank Holidays in Tamil Nadu 2026 | Complete List</title>
+    <meta name="description" content="Complete list of Saturday Bank Holidays in Tamil Nadu for 2026. Find all second and fourth Saturdays when banks will be closed. Plan your finances accordingly.">
+    <meta name="keywords" content="Saturday Bank Holidays Tamil Nadu 2026, Second Saturday Holiday, Fourth Saturday Holiday, Tamil Nadu Bank Calendar, Bank Holidays India">
     <meta name="author" content="Tamil Nadu Holiday Calendar">
     <meta name="robots" content="index, follow">
-    <meta property="og:title" content="Saturday Bank Holidays in Tamil Nadu 2025 - Complete List">
-    <meta property="og:description" content="Complete list of Saturday Bank Holidays in Tamil Nadu for 2025. Find all second and fourth Saturdays when banks will be closed.">
+    <meta property="og:title" content="Saturday Bank Holidays in Tamil Nadu 2026 - Complete List">
+    <meta property="og:description" content="Complete list of Saturday Bank Holidays in Tamil Nadu for 2026. Find all second and fourth Saturdays when banks will be closed.">
     <meta property="og:type" content="website">
     <meta property="og:url" content="<?php echo 'https://' . $_SERVER['HTTP_HOST'] . $_SERVER['REQUEST_URI']; ?>">
-    <meta property="og:image" content="https://via.placeholder.com/1200x630/0000CD/FFFFFF?text=Saturday+Bank+Holidays+2025">
+    <meta property="og:image" content="https://via.placeholder.com/1200x630/0000CD/FFFFFF?text=Saturday+Bank+Holidays+2026">
     <meta name="twitter:card" content="summary_large_image">
-    <meta name="twitter:title" content="Saturday Bank Holidays in Tamil Nadu 2025">
-    <meta name="twitter:description" content="Complete list of Saturday Bank Holidays in Tamil Nadu for 2025. Find all second and fourth Saturdays when banks will be closed.">
+    <meta name="twitter:title" content="Saturday Bank Holidays in Tamil Nadu 2026">
+    <meta name="twitter:description" content="Complete list of Saturday Bank Holidays in Tamil Nadu for 2026. Find all second and fourth Saturdays when banks will be closed.">
     <link rel="canonical" href="<?php echo 'https://' . $_SERVER['HTTP_HOST'] . $_SERVER['REQUEST_URI']; ?>">
     <meta name="language" content="English">
     <meta name="geo.region" content="IN-TN">
@@ -24,26 +24,26 @@
     {
         "@context": "https://schema.org",
         "@type": "WebPage",
-        "name": "Saturday Bank Holidays in Tamil Nadu 2025",
-        "description": "Complete list of Saturday Bank Holidays in Tamil Nadu for 2025. Find all second and fourth Saturdays when banks will be closed.",
+        "name": "Saturday Bank Holidays in Tamil Nadu 2026",
+        "description": "Complete list of Saturday Bank Holidays in Tamil Nadu for 2026. Find all second and fourth Saturdays when banks will be closed.",
         "url": "<?php echo 'https://' . $_SERVER['HTTP_HOST'] . $_SERVER['REQUEST_URI']; ?>",
         "mainEntity": {
             "@type": "FAQPage",
             "mainEntity": [
                 {
                     "@type": "Question",
-                    "name": "Which Saturdays are bank holidays in Tamil Nadu in 2025?",
+                    "name": "Which Saturdays are bank holidays in Tamil Nadu in 2026?",
                     "acceptedAnswer": {
                         "@type": "Answer",
-                        "text": "In Tamil Nadu, the second and fourth Saturdays of every month are typically observed as bank holidays in 2025."
+                        "text": "In Tamil Nadu, the second and fourth Saturdays of every month are typically observed as bank holidays in 2026."
                     }
                 },
                 {
                     "@type": "Question",
-                    "name": "How many Saturday bank holidays are there in 2025?",
+                    "name": "How many Saturday bank holidays are there in 2026?",
                     "acceptedAnswer": {
                         "@type": "Answer",
-                        "text": "There are 24 Saturday bank holidays in 2025, as there are 12 months and typically 2 Saturdays (2nd and 4th) per month designated as holidays."
+                        "text": "There are 24 Saturday bank holidays in 2026, as there are 12 months and typically 2 Saturdays (2nd and 4th) per month designated as holidays."
                     }
                 },
                 {
@@ -56,10 +56,10 @@
                 },
                 {
                     "@type": "Question",
-                    "name": "Is January 11, 2025 a bank holiday?",
+                    "name": "Is January 11, 2026 a bank holiday?",
                     "acceptedAnswer": {
                         "@type": "Answer",
-                        "text": "Yes, January 11, 2025 is a Saturday and falls on the second Saturday of the month, making it a bank holiday in Tamil Nadu."
+                        "text": "Yes, January 11, 2026 is a Saturday and falls on the second Saturday of the month, making it a bank holiday in Tamil Nadu."
                     }
                 }
             ]
@@ -68,7 +68,7 @@
             "@type": "Organization",
             "name": "Tamil Nadu Holiday Calendar"
         },
-        "datePublished": "2025-01-01",
+        "datePublished": "2026-01-01",
         "dateModified": "<?php echo date('Y-m-d'); ?>"
     }
     </script>
@@ -108,7 +108,7 @@
                     </div>
                     <div>
                         <h1 class="text-4xl font-bold flex items-center space-x-3">
-                            <span>Saturday Bank Holidays 2025</span>
+                            <span>Saturday Bank Holidays 2026</span>
                             <i class="fas fa-calendar-week text-2xl animate-bounce"></i>
                         </h1>
                         <p class="text-lg opacity-90 flex items-center space-x-2">
@@ -153,7 +153,7 @@
                 <li><i class="fas fa-chevron-right text-xs"></i></li>
                 <li><a href="#" class="hover:text-blue-600 transition-colors">Tamil Nadu</a></li>
                 <li><i class="fas fa-chevron-right text-xs"></i></li>
-                <li class="text-gray-800 font-medium">Saturday Bank Holidays 2025</li>
+                <li class="text-gray-800 font-medium">Saturday Bank Holidays 2026</li>
             </ol>
         </nav>
 
@@ -166,7 +166,7 @@
                     <i class="fas fa-calendar-check text-green-500"></i>
                 </h2>
                 <p class="text-lg text-gray-700 mb-4 leading-relaxed">
-                    Welcome to the definitive guide for Saturday Bank Holidays in Tamil Nadu for the year 2025. This page provides a complete list of all Saturdays designated as official bank holidays, including the regular Second and Fourth Saturdays of each month. Planning your banking activities around these dates is essential for smooth financial management.
+                    Welcome to the definitive guide for Saturday Bank Holidays in Tamil Nadu for the year 2026. This page provides a complete list of all Saturdays designated as official bank holidays, including the regular Second and Fourth Saturdays of each month. Planning your banking activities around these dates is essential for smooth financial management.
                 </p>
             </div>
         </section>
@@ -175,13 +175,13 @@
         <section class="mb-8 bg-white rounded-lg shadow-lg p-6 border-l-4 border-blue-500">
             <h2 class="text-2xl font-bold text-gray-800 mb-4 flex items-center">
                 <i class="fas fa-info-circle text-blue-500 mr-3"></i>
-                <span>About Saturday Bank Holidays 2025</span>
+                <span>About Saturday Bank Holidays 2026</span>
             </h2>
             <p class="text-gray-700 mb-4">
                 In Tamil Nadu, as per standard banking practice in India, banks observe specific Saturdays as holidays to allow for periodic closure and administrative tasks. Typically, the <strong>Second Saturday</strong> and the <strong>Fourth Saturday</strong> of every month are designated as bank holidays. This practice helps ensure the smooth functioning of banking operations and provides bank staff with regular intervals for maintenance and reconciliation.
             </p>
             <p class="text-gray-700 mb-4">
-                This list details all such Saturday bank holidays for the year 2025, helping you plan your visits to the bank and manage your finances effectively.
+                This list details all such Saturday bank holidays for the year 2026, helping you plan your visits to the bank and manage your finances effectively.
             </p>
             <div class="mt-4 p-4 bg-blue-50 rounded-lg border border-blue-200">
                 <h3 class="font-semibold text-blue-800 mb-2 flex items-center">
@@ -198,10 +198,10 @@
         <section class="mb-8 bg-white rounded-lg shadow-lg p-6 border-l-4 border-green-500">
             <h2 class="text-2xl font-bold text-gray-800 mb-4 flex items-center">
                 <i class="fas fa-star text-green-500 mr-3"></i>
-                <span>Major Saturday Bank Holidays 2025</span>
+                <span>Major Saturday Bank Holidays 2026</span>
             </h2>
             <p class="text-gray-700 mb-4">
-                Here is a list of the key Saturday bank holidays in Tamil Nadu for 2025, based on the common Second and Fourth Saturday pattern.
+                Here is a list of the key Saturday bank holidays in Tamil Nadu for 2026, based on the common Second and Fourth Saturday pattern.
             </p>
 
             <div class="overflow-x-auto">
@@ -217,156 +217,156 @@
                     <tbody class="text-gray-600">
                         <!-- January -->
                         <tr class="hover:bg-gray-50">
-                            <td class="py-3 px-4 border-b">January 11, 2025</td>
+                            <td class="py-3 px-4 border-b">January 11, 2026</td>
                             <td class="py-3 px-4 border-b">Saturday</td>
                             <td class="py-3 px-4 border-b">Second Saturday</td>
                             <td class="py-3 px-4 border-b">January</td>
                         </tr>
                         <tr class="hover:bg-gray-50">
-                            <td class="py-3 px-4 border-b">January 25, 2025</td>
+                            <td class="py-3 px-4 border-b">January 25, 2026</td>
                             <td class="py-3 px-4 border-b">Saturday</td>
                             <td class="py-3 px-4 border-b">Fourth Saturday</td>
                             <td class="py-3 px-4 border-b">January</td>
                         </tr>
                         <!-- February -->
                         <tr class="hover:bg-gray-50">
-                            <td class="py-3 px-4 border-b">February 8, 2025</td>
+                            <td class="py-3 px-4 border-b">February 8, 2026</td>
                             <td class="py-3 px-4 border-b">Saturday</td>
                             <td class="py-3 px-4 border-b">Second Saturday</td>
                             <td class="py-3 px-4 border-b">February</td>
                         </tr>
                         <tr class="hover:bg-gray-50">
-                            <td class="py-3 px-4 border-b">February 22, 2025</td>
+                            <td class="py-3 px-4 border-b">February 22, 2026</td>
                             <td class="py-3 px-4 border-b">Saturday</td>
                             <td class="py-3 px-4 border-b">Fourth Saturday</td>
                             <td class="py-3 px-4 border-b">February</td>
                         </tr>
                          <!-- March -->
                          <tr class="hover:bg-gray-50">
-                            <td class="py-3 px-4 border-b">March 8, 2025</td>
+                            <td class="py-3 px-4 border-b">March 8, 2026</td>
                             <td class="py-3 px-4 border-b">Saturday</td>
                             <td class="py-3 px-4 border-b">Second Saturday</td>
                             <td class="py-3 px-4 border-b">March</td>
                         </tr>
                         <tr class="hover:bg-gray-50">
-                            <td class="py-3 px-4 border-b">March 22, 2025</td>
+                            <td class="py-3 px-4 border-b">March 22, 2026</td>
                             <td class="py-3 px-4 border-b">Saturday</td>
                             <td class="py-3 px-4 border-b">Fourth Saturday</td>
                             <td class="py-3 px-4 border-b">March</td>
                         </tr>
                          <!-- April -->
                          <tr class="hover:bg-gray-50">
-                            <td class="py-3 px-4 border-b">April 12, 2025</td>
+                            <td class="py-3 px-4 border-b">April 12, 2026</td>
                             <td class="py-3 px-4 border-b">Saturday</td>
                             <td class="py-3 px-4 border-b">Second Saturday</td>
                             <td class="py-3 px-4 border-b">April</td>
                         </tr>
                         <tr class="hover:bg-gray-50">
-                            <td class="py-3 px-4 border-b">April 26, 2025</td>
+                            <td class="py-3 px-4 border-b">April 26, 2026</td>
                             <td class="py-3 px-4 border-b">Saturday</td>
                             <td class="py-3 px-4 border-b">Fourth Saturday</td>
                             <td class="py-3 px-4 border-b">April</td>
                         </tr>
                          <!-- May -->
                          <tr class="hover:bg-gray-50">
-                            <td class="py-3 px-4 border-b">May 10, 2025</td>
+                            <td class="py-3 px-4 border-b">May 10, 2026</td>
                             <td class="py-3 px-4 border-b">Saturday</td>
                             <td class="py-3 px-4 border-b">Second Saturday</td>
                             <td class="py-3 px-4 border-b">May</td>
                         </tr>
                         <tr class="hover:bg-gray-50">
-                            <td class="py-3 px-4 border-b">May 24, 2025</td>
+                            <td class="py-3 px-4 border-b">May 24, 2026</td>
                             <td class="py-3 px-4 border-b">Saturday</td>
                             <td class="py-3 px-4 border-b">Fourth Saturday</td>
                             <td class="py-3 px-4 border-b">May</td>
                         </tr>
                          <!-- June -->
                          <tr class="hover:bg-gray-50">
-                            <td class="py-3 px-4 border-b">June 14, 2025</td>
+                            <td class="py-3 px-4 border-b">June 14, 2026</td>
                             <td class="py-3 px-4 border-b">Saturday</td>
                             <td class="py-3 px-4 border-b">Second Saturday</td>
                             <td class="py-3 px-4 border-b">June</td>
                         </tr>
                         <tr class="hover:bg-gray-50">
-                            <td class="py-3 px-4 border-b">June 28, 2025</td>
+                            <td class="py-3 px-4 border-b">June 28, 2026</td>
                             <td class="py-3 px-4 border-b">Saturday</td>
                             <td class="py-3 px-4 border-b">Fourth Saturday</td>
                             <td class="py-3 px-4 border-b">June</td>
                         </tr>
                          <!-- July -->
                          <tr class="hover:bg-gray-50">
-                            <td class="py-3 px-4 border-b">July 12, 2025</td>
+                            <td class="py-3 px-4 border-b">July 12, 2026</td>
                             <td class="py-3 px-4 border-b">Saturday</td>
                             <td class="py-3 px-4 border-b">Second Saturday</td>
                             <td class="py-3 px-4 border-b">July</td>
                         </tr>
                         <tr class="hover:bg-gray-50">
-                            <td class="py-3 px-4 border-b">July 26, 2025</td>
+                            <td class="py-3 px-4 border-b">July 26, 2026</td>
                             <td class="py-3 px-4 border-b">Saturday</td>
                             <td class="py-3 px-4 border-b">Fourth Saturday</td>
                             <td class="py-3 px-4 border-b">July</td>
                         </tr>
                          <!-- August -->
                          <tr class="hover:bg-gray-50">
-                            <td class="py-3 px-4 border-b">August 9, 2025</td>
+                            <td class="py-3 px-4 border-b">August 9, 2026</td>
                             <td class="py-3 px-4 border-b">Saturday</td>
                             <td class="py-3 px-4 border-b">Second Saturday</td>
                             <td class="py-3 px-4 border-b">August</td>
                         </tr>
                         <tr class="hover:bg-gray-50">
-                            <td class="py-3 px-4 border-b">August 23, 2025</td>
+                            <td class="py-3 px-4 border-b">August 23, 2026</td>
                             <td class="py-3 px-4 border-b">Saturday</td>
                             <td class="py-3 px-4 border-b">Fourth Saturday</td>
                             <td class="py-3 px-4 border-b">August</td>
                         </tr>
                          <!-- September -->
                          <tr class="hover:bg-gray-50">
-                            <td class="py-3 px-4 border-b">September 13, 2025</td>
+                            <td class="py-3 px-4 border-b">September 13, 2026</td>
                             <td class="py-3 px-4 border-b">Saturday</td>
                             <td class="py-3 px-4 border-b">Second Saturday</td>
                             <td class="py-3 px-4 border-b">September</td>
                         </tr>
                         <tr class="hover:bg-gray-50">
-                            <td class="py-3 px-4 border-b">September 27, 2025</td>
+                            <td class="py-3 px-4 border-b">September 27, 2026</td>
                             <td class="py-3 px-4 border-b">Saturday</td>
                             <td class="py-3 px-4 border-b">Fourth Saturday</td>
                             <td class="py-3 px-4 border-b">September</td>
                         </tr>
                          <!-- October -->
                          <tr class="hover:bg-gray-50">
-                            <td class="py-3 px-4 border-b">October 11, 2025</td>
+                            <td class="py-3 px-4 border-b">October 11, 2026</td>
                             <td class="py-3 px-4 border-b">Saturday</td>
                             <td class="py-3 px-4 border-b">Second Saturday</td>
                             <td class="py-3 px-4 border-b">October</td>
                         </tr>
                         <tr class="hover:bg-gray-50">
-                            <td class="py-3 px-4 border-b">October 25, 2025</td>
+                            <td class="py-3 px-4 border-b">October 25, 2026</td>
                             <td class="py-3 px-4 border-b">Saturday</td>
                             <td class="py-3 px-4 border-b">Fourth Saturday</td>
                             <td class="py-3 px-4 border-b">October</td>
                         </tr>
                          <!-- November -->
                          <tr class="hover:bg-gray-50">
-                            <td class="py-3 px-4 border-b">November 8, 2025</td>
+                            <td class="py-3 px-4 border-b">November 8, 2026</td>
                             <td class="py-3 px-4 border-b">Saturday</td>
                             <td class="py-3 px-4 border-b">Second Saturday</td>
                             <td class="py-3 px-4 border-b">November</td>
                         </tr>
                         <tr class="hover:bg-gray-50">
-                            <td class="py-3 px-4 border-b">November 22, 2025</td>
+                            <td class="py-3 px-4 border-b">November 22, 2026</td>
                             <td class="py-3 px-4 border-b">Saturday</td>
                             <td class="py-3 px-4 border-b">Fourth Saturday</td>
                             <td class="py-3 px-4 border-b">November</td>
                         </tr>
                          <!-- December -->
                          <tr class="hover:bg-gray-50">
-                            <td class="py-3 px-4 border-b">December 13, 2025</td>
+                            <td class="py-3 px-4 border-b">December 13, 2026</td>
                             <td class="py-3 px-4 border-b">Saturday</td>
                             <td class="py-3 px-4 border-b">Second Saturday</td>
                             <td class="py-3 px-4 border-b">December</td>
                         </tr>
                         <tr class="hover:bg-gray-50">
-                            <td class="py-3 px-4 border-b">December 27, 2025</td>
+                            <td class="py-3 px-4 border-b">December 27, 2026</td>
                             <td class="py-3 px-4 border-b">Saturday</td>
                             <td class="py-3 px-4 border-b">Fourth Saturday</td>
                             <td class="py-3 px-4 border-b">December</td>
@@ -386,10 +386,10 @@
                 <div class="p-4 bg-yellow-50 rounded-lg border border-yellow-200">
                     <h3 class="font-semibold text-yellow-800 mb-2 flex items-center">
                         <i class="fas fa-calendar-day text-yellow-600 mr-2"></i>
-                        Bank Holiday: 11 January 2025 for Second Saturday
+                        Bank Holiday: 11 January 2026 for Second Saturday
                     </h3>
                     <p class="text-sm text-yellow-700">
-                        <strong>January 11, 2025</strong> is officially recognized as a bank holiday in Tamil Nadu as it falls on the <strong>Second Saturday</strong> of the month. All banks across the state will remain closed on this day. This is part of the standard banking calendar practice of observing the 2nd and 4th Saturdays of each month as holidays. Plan your banking activities accordingly.
+                        <strong>January 11, 2026</strong> is officially recognized as a bank holiday in Tamil Nadu as it falls on the <strong>Second Saturday</strong> of the month. All banks across the state will remain closed on this day. This is part of the standard banking calendar practice of observing the 2nd and 4th Saturdays of each month as holidays. Plan your banking activities accordingly.
                     </p>
                 </div>
                 <!-- You can add more news items here if needed -->
@@ -407,7 +407,7 @@
             <div class="max-w-4xl mx-auto">
                 <h2 class="text-3xl font-bold text-gray-800 mb-8 text-center flex items-center justify-center space-x-3">
                     <i class="fas fa-question-circle text-purple-600"></i>
-                    <span>FAQs on Saturday Bank Holidays in 2025</span>
+                    <span>FAQs on Saturday Bank Holidays in 2026</span>
                     <i class="fas fa-lightbulb text-yellow-500"></i>
                 </h2>
                 <div class="space-y-6">
@@ -415,20 +415,20 @@
                     <div class="bg-gray-50 rounded-lg p-6 hover:shadow-md transition-all">
                         <h3 class="text-xl font-semibold text-gray-800 mb-3 flex items-center space-x-2">
                             <i class="fas fa-calendar-day text-blue-500"></i>
-                            <span>Which Saturdays are bank holidays in Tamil Nadu in 2025?</span>
+                            <span>Which Saturdays are bank holidays in Tamil Nadu in 2026?</span>
                         </h3>
                         <p class="text-gray-700 leading-relaxed">
-                            In Tamil Nadu, the standard practice is to observe the <strong>Second Saturday</strong> and the <strong>Fourth Saturday</strong> of every month as bank holidays in 2025. This applies to all public and private sector banks regulated under the Reserve Bank of India guidelines.
+                            In Tamil Nadu, the standard practice is to observe the <strong>Second Saturday</strong> and the <strong>Fourth Saturday</strong> of every month as bank holidays in 2026. This applies to all public and private sector banks regulated under the Reserve Bank of India guidelines.
                         </p>
                     </div>
                     <!-- FAQ Item 2 -->
                     <div class="bg-gray-50 rounded-lg p-6 hover:shadow-md transition-all">
                         <h3 class="text-xl font-semibold text-gray-800 mb-3 flex items-center space-x-2">
                             <i class="fas fa-calculator text-green-500"></i>
-                            <span>How many Saturday bank holidays are there in 2025?</span>
+                            <span>How many Saturday bank holidays are there in 2026?</span>
                         </h3>
                         <p class="text-gray-700 leading-relaxed">
-                            Based on the standard pattern of 2 Saturdays per month (2nd and 4th), there will be <strong>24 Saturday bank holidays</strong> in Tamil Nadu throughout the year 2025.
+                            Based on the standard pattern of 2 Saturdays per month (2nd and 4th), there will be <strong>24 Saturday bank holidays</strong> in Tamil Nadu throughout the year 2026.
                         </p>
                     </div>
                     <!-- FAQ Item 3 -->
@@ -445,10 +445,10 @@
                     <div class="bg-gray-50 rounded-lg p-6 hover:shadow-md transition-all">
                         <h3 class="text-xl font-semibold text-gray-800 mb-3 flex items-center space-x-2">
                             <i class="fas fa-calendar-check text-yellow-500"></i>
-                            <span>Is January 11, 2025 a bank holiday?</span>
+                            <span>Is January 11, 2026 a bank holiday?</span>
                         </h3>
                         <p class="text-gray-700 leading-relaxed">
-                            Yes, <strong>January 11, 2025</strong> is a Saturday and it falls on the <strong>Second Saturday</strong> of January. Therefore, it is officially recognized as a bank holiday in Tamil Nadu.
+                            Yes, <strong>January 11, 2026</strong> is a Saturday and it falls on the <strong>Second Saturday</strong> of January. Therefore, it is officially recognized as a bank holiday in Tamil Nadu.
                         </p>
                     </div>
                     <!-- FAQ Item 5 -->

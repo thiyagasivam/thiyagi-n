@@ -1,19 +1,19 @@
 <?php include 'header.php'; ?>
 
 <!-- SEO Meta Tags -->
-<title>CC to Oz Converter 2025 - Volume Calculator | Thiyagi</title>
-<meta name="description" content="Free online cubic centimeter to fluid ounce converter 2025. Convert cc to fl oz instantly with accurate volume conversion. Perfect for cooking and medical applications.">
-<meta name="keywords" content="cc to oz converter 2025, cubic centimeter to ounce, volume converter, cooking calculator, medical converter">
+<title>CC to Oz Converter 2026 - Volume Calculator | Thiyagi</title>
+<meta name="description" content="Free online cubic centimeter to fluid ounce converter 2026. Convert cc to fl oz instantly with accurate volume conversion. Perfect for cooking and medical applications.">
+<meta name="keywords" content="cc to oz converter 2026, cubic centimeter to ounce, volume converter, cooking calculator, medical converter">
 <meta name="author" content="Thiyagi">
-<meta property="og:title" content="CC to Oz Converter 2025 - Volume Calculator">
-<meta property="og:description" content="Free online cubic centimeter to fluid ounce converter 2025. Convert cc to fl oz instantly with accurate volume conversion.">
+<meta property="og:title" content="CC to Oz Converter 2026 - Volume Calculator">
+<meta property="og:description" content="Free online cubic centimeter to fluid ounce converter 2026. Convert cc to fl oz instantly with accurate volume conversion.">
 <meta property="og:type" content="website">
 <meta property="og:url" content="https://www.thiyagi.com/cc-to-oz.php">
 <meta property="og:image" content="https://www.thiyagi.com/nt.png">
 <meta property="og:site_name" content="Thiyagi">
 <meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:title" content="CC to Oz Converter 2025 - Volume Calculator">
-<meta name="twitter:description" content="Free online cubic centimeter to fluid ounce converter 2025. Convert cc to fl oz instantly with accurate volume conversion.">
+<meta name="twitter:title" content="CC to Oz Converter 2026 - Volume Calculator">
+<meta name="twitter:description" content="Free online cubic centimeter to fluid ounce converter 2026. Convert cc to fl oz instantly with accurate volume conversion.">
 <meta name="twitter:image" content="https://www.thiyagi.com/nt.png">
 
 <div class="min-h-screen bg-gradient-to-br from-orange-50 via-amber-50 to-yellow-50 py-12">

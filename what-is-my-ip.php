@@ -1,7 +1,7 @@
 <?php include 'header.php';?>
 <?php
 /**
- * Advanced What Is My IP Tool 2025
+ * Advanced What Is My IP Tool 2026
  */
 
 // Enhanced function to get user's IP address with multiple sources
@@ -66,7 +66,7 @@ function getIPDetails($ip) {
         $context = stream_context_create([
             'http' => [
                 'timeout' => 5,
-                'user_agent' => 'What-Is-My-IP-Tool-2025'
+                'user_agent' => 'What-Is-My-IP-Tool-2026'
             ]
         ]);
         
@@ -147,22 +147,22 @@ $serverTime = date('Y-m-d H:i:s T');
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>What Is My IP Address 2025 - Check IP Location & Network Information</title>
-    <meta name="description" content="Check your public IP address, location, ISP, and network information instantly. Professional IP lookup tool with geolocation, security analysis, and comprehensive network diagnostics for 2025.">
-    <meta name="keywords" content="what is my IP, IP address checker, IP location, public IP, IP lookup tool 2025, geolocation, network diagnostics, ISP information">
+    <title>What Is My IP Address 2026 - Check IP Location & Network Information</title>
+    <meta name="description" content="Check your public IP address, location, ISP, and network information instantly. Professional IP lookup tool with geolocation, security analysis, and comprehensive network diagnostics for 2026.">
+    <meta name="keywords" content="what is my IP, IP address checker, IP location, public IP, IP lookup tool 2026, geolocation, network diagnostics, ISP information">
     <link rel="canonical" href="https://www.thiyagi.com/what-is-my-ip">
     
     <!-- Open Graph / Facebook -->
     <meta property="og:type" content="website">
     <meta property="og:url" content="https://www.thiyagi.com/what-is-my-ip">
-    <meta property="og:title" content="What Is My IP Address 2025 - IP Location Checker">
-    <meta property="og:description" content="Check your public IP address, location, ISP, and network information instantly. Professional IP lookup and geolocation tool for 2025.">
+    <meta property="og:title" content="What Is My IP Address 2026 - IP Location Checker">
+    <meta property="og:description" content="Check your public IP address, location, ISP, and network information instantly. Professional IP lookup and geolocation tool for 2026.">
     <meta property="og:image" content="https://www.thiyagi.com/nt.png">
     
     <!-- Twitter -->
     <meta property="twitter:card" content="summary_large_image">
     <meta property="twitter:url" content="https://www.thiyagi.com/what-is-my-ip">
-    <meta property="twitter:title" content="What Is My IP Address 2025 - IP Location Checker">
+    <meta property="twitter:title" content="What Is My IP Address 2026 - IP Location Checker">
     <meta property="twitter:description" content="Check your public IP address and location instantly. Professional IP lookup tool.">
     <meta property="twitter:image" content="https://www.thiyagi.com/nt.png">
     
@@ -173,7 +173,7 @@ $serverTime = date('Y-m-d H:i:s T');
     {
         "@context": "https://schema.org",
         "@type": "WebApplication",
-        "name": "What Is My IP Address 2025",
+        "name": "What Is My IP Address 2026",
         "description": "Professional IP address checker and geolocation tool with comprehensive network diagnostics",
         "url": "https://www.thiyagi.com/what-is-my-ip",
         "applicationCategory": "UtilityApplication",
@@ -235,7 +235,7 @@ $serverTime = date('Y-m-d H:i:s T');
 
     <div class="container mx-auto px-4 py-8 max-w-6xl">
         <header class="text-center mb-12">
-            <h1 class="text-4xl font-bold text-gray-900 mb-4">🌐 What Is My IP Address 2025</h1>
+            <h1 class="text-4xl font-bold text-gray-900 mb-4">🌐 What Is My IP Address 2026</h1>
             <p class="text-xl text-gray-600 max-w-3xl mx-auto">Instantly discover your public IP address, geolocation, ISP information, and comprehensive network details with our advanced IP lookup tool.</p>
         </header>
 

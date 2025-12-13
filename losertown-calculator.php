@@ -3,14 +3,14 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Losertown Weight Loss Calculator 2025 - Metabolic Adaptation Predictor | Thiyagi.com</title>
-    <meta name="description" content="Losertown weight loss calculator 2025 - predict weight loss timeline with metabolic adaptation, plateau effects, and realistic projections based on scientific research.">
-    <meta name="keywords" content="losertown calculator 2025, weight loss prediction, metabolic adaptation, weight loss timeline, plateau calculator, diet prediction">
+    <title>Losertown Weight Loss Calculator 2026 - Metabolic Adaptation Predictor | Thiyagi.com</title>
+    <meta name="description" content="Losertown weight loss calculator 2026 - predict weight loss timeline with metabolic adaptation, plateau effects, and realistic projections based on scientific research.">
+    <meta name="keywords" content="losertown calculator 2026, weight loss prediction, metabolic adaptation, weight loss timeline, plateau calculator, diet prediction">
     <meta name="author" content="Thiyagi">
     <meta name="robots" content="index, follow">
     
     <!-- Open Graph Meta Tags -->
-    <meta property="og:title" content="Losertown Weight Loss Calculator 2025 - Metabolic Adaptation Predictor">
+    <meta property="og:title" content="Losertown Weight Loss Calculator 2026 - Metabolic Adaptation Predictor">
     <meta property="og:description" content="Predict realistic weight loss timeline with metabolic adaptation and plateau effects.">
     <meta property="og:url" content="https://www.thiyagi.com/losertown-calculator">
     <meta property="og:type" content="website">
@@ -18,7 +18,7 @@
     
     <!-- Twitter Card Meta Tags -->
     <meta name="twitter:card" content="summary_large_image">
-    <meta name="twitter:title" content="Losertown Weight Loss Calculator 2025 - Metabolic Adaptation Predictor">
+    <meta name="twitter:title" content="Losertown Weight Loss Calculator 2026 - Metabolic Adaptation Predictor">
     <meta name="twitter:description" content="Get realistic weight loss predictions with metabolic adaptation.">
     <meta name="twitter:image" content="https://www.thiyagi.com/nt.png">
     
@@ -110,7 +110,7 @@
 {
   "@context": "https://schema.org",
   "@type": "WebApplication",
-  "name": "Losertown Weight Loss Calculator 2025",
+  "name": "Losertown Weight Loss Calculator 2026",
   "description": "Weight loss prediction calculator with metabolic adaptation and timeline projections.",
   "url": "https://www.thiyagi.com/losertown-calculator",
   "applicationCategory": "HealthApplication",

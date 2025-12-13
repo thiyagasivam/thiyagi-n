@@ -4,9 +4,9 @@ include 'header.php';
 $header_content = ob_get_clean();
 
 // Insert title and meta tags into the head section
-$title = 'Acre to Square Meter Converter 2025 | Area Conversion Tool | Free Calculator';
-$description = 'Convert acres to square meters instantly with our 2025 accurate area converter. Perfect for land measurement, real estate, and agricultural calculations.';
-$keywords = 'acre to square meter converter 2025, area conversion calculator, acre sqm converter, land measurement, real estate calculator';
+$title = 'Acre to Square Meter Converter 2026 | Area Conversion Tool | Free Calculator';
+$description = 'Convert acres to square meters instantly with our 2026 accurate area converter. Perfect for land measurement, real estate, and agricultural calculations.';
+$keywords = 'acre to square meter converter 2026, area conversion calculator, acre sqm converter, land measurement, real estate calculator';
 $canonical = 'https://www.thiyagi.com/acre-to-square-meter';
 
 $meta_tags = '<title>' . htmlspecialchars($title) . '</title>' . "\n";

@@ -58,8 +58,8 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Free Education Loan EMI Calculator 2025 - Calculate Monthly Payments Instantly</title>
-<meta name="description" content="Calculate your education loan EMIs with our free 2025 calculator. Get accurate monthly payment estimates, interest breakdowns, and repayment schedules in seconds.">
+    <title>Free Education Loan EMI Calculator 2026 - Calculate Monthly Payments Instantly</title>
+<meta name="description" content="Calculate your education loan EMIs with our free 2026 calculator. Get accurate monthly payment estimates, interest breakdowns, and repayment schedules in seconds.">
 <link rel="canonical" href="https://www.thiyagi.com/education-loan-emi-calculator" />
     <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" rel="stylesheet">
     <style>

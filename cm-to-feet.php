@@ -1,12 +1,12 @@
 <?php include 'header.php';?>
-<title>Centimeter to Feet Converter 2025 | CM to Feet | Free Tool</title>
-<meta name="description" content="Convert centimeter to feet instantly with our 2025 accurate converter. Perfect cm to feet conversion with real-time calculations for length measurement.">
-<meta name="keywords" content="centimeter to feet 2025, cm feet converter, metric to imperial 2025, length conversion calculator, construction measurement">
+<title>Centimeter to Feet Converter 2026 | CM to Feet | Free Tool</title>
+<meta name="description" content="Convert centimeter to feet instantly with our 2026 accurate converter. Perfect cm to feet conversion with real-time calculations for length measurement.">
+<meta name="keywords" content="centimeter to feet 2026, cm feet converter, metric to imperial 2026, length conversion calculator, construction measurement">
 <link rel="canonical" href="https://www.thiyagi.com/cm-to-feet">
 
 <!-- Open Graph Meta Tags -->
-<meta property="og:title" content="Centimeter to Feet Converter 2025 | CM to Feet | Free Tool">
-<meta property="og:description" content="Convert centimeter to feet instantly with our 2025 accurate converter. Perfect cm to feet conversion with real-time calculations for length measurement.">
+<meta property="og:title" content="Centimeter to Feet Converter 2026 | CM to Feet | Free Tool">
+<meta property="og:description" content="Convert centimeter to feet instantly with our 2026 accurate converter. Perfect cm to feet conversion with real-time calculations for length measurement.">
 <meta property="og:url" content="https://www.thiyagi.com/cm-to-feet">
 <meta property="og:type" content="website">
 <meta property="og:image" content="https://www.thiyagi.com/nt.png">
@@ -14,8 +14,8 @@
 
 <!-- Twitter Card Meta Tags -->
 <meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:title" content="Centimeter to Feet Converter 2025 | CM to Feet | Free Tool">
-<meta name="twitter:description" content="Convert centimeter to feet instantly with our 2025 accurate converter. Perfect cm to feet conversion with real-time calculations for length measurement.">
+<meta name="twitter:title" content="Centimeter to Feet Converter 2026 | CM to Feet | Free Tool">
+<meta name="twitter:description" content="Convert centimeter to feet instantly with our 2026 accurate converter. Perfect cm to feet conversion with real-time calculations for length measurement.">
 <meta name="twitter:image" content="https://www.thiyagi.com/nt.png">
 
 <!-- Additional SEO Meta Tags -->
@@ -39,7 +39,7 @@
           Centimeter to Feet Converter
         </h1>
         <p class="text-xl text-gray-600 mb-8 max-w-3xl mx-auto">
-          Convert centimeters to feet instantly with our accurate 2025 calculator. 
+          Convert centimeters to feet instantly with our accurate 2026 calculator. 
           Perfect for construction, interior design, and international measurements.
         </p>
       </div>
@@ -157,16 +157,16 @@
     <article class="bg-white rounded-xl shadow-lg p-8">
       <h2 class="text-2xl font-bold text-gray-800 mb-6 flex items-center gap-3">
         <i class="fas fa-info-circle text-emerald-600" aria-hidden="true"></i>
-        Centimeter to Feet Conversion 2025
+        Centimeter to Feet Conversion 2026
       </h2>
       <div class="prose max-w-none text-gray-600">
         <p class="mb-4">
-          Converting centimeters to feet is essential for construction, interior design, and international building projects in 2025. 
+          Converting centimeters to feet is essential for construction, interior design, and international building projects in 2026. 
           This conversion bridges metric and imperial measurement systems, enabling effective communication between architects, 
           contractors, and designers working across different regions and measurement standards.
         </p>
         <p class="mb-6">
-          Our 2025 converter provides instant and accurate conversions from centimeters to feet, essential for construction 
+          Our 2026 converter provides instant and accurate conversions from centimeters to feet, essential for construction 
           professionals, interior designers, architects, and property developers working in international markets. 
           One foot equals exactly 30.48 centimeters, so to convert centimeters to feet, divide by 30.48.
         </p>

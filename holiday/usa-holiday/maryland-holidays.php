@@ -1,8 +1,8 @@
 <?php include '../../header.php'; ?>
 
-<title>Maryland Holidays 2025 | Complete Calendar | State & Federal Holidays | Festivals</title>
-<meta name="description" content="Complete Maryland Holiday Calendar 2025. Find all state holidays, federal holidays, cultural events, and observances. Plan your year with our comprehensive holiday guide.">
-<meta name="keywords" content="Maryland holidays 2025, Maryland state holidays, US federal holidays, Maryland festivals, Maryland calendar, holidays Maryland, festival dates 2025">
+<title>Maryland Holidays 2026 | Complete Calendar | State & Federal Holidays | Festivals</title>
+<meta name="description" content="Complete Maryland Holiday Calendar 2026. Find all state holidays, federal holidays, cultural events, and observances. Plan your year with our comprehensive holiday guide.">
+<meta name="keywords" content="Maryland holidays 2026, Maryland state holidays, US federal holidays, Maryland festivals, Maryland calendar, holidays Maryland, festival dates 2026">
 <link rel="canonical" href="https://<?= $_SERVER['HTTP_HOST'] . strtok($_SERVER['REQUEST_URI'], '?') ?>">
 
 <style>
@@ -30,141 +30,141 @@
                     USA Holidays
                 </a>
                 <i class="fas fa-chevron-right text-gray-400"></i>
-                <span class="text-gray-600 font-medium">Maryland Holidays 2025</span>
+                <span class="text-gray-600 font-medium">Maryland Holidays 2026</span>
             </div>
         </div>
     </nav>
 
 <?php
-// Maryland Holidays 2025 Data
-$holidays_2025 = array (
-  '2025-01-01' => 
+// Maryland Holidays 2026 Data
+$holidays_2026 = array (
+  '2026-01-01' => 
   array (
     'name' => 'New Year\'s Day',
     'type' => 'Federal Holiday',
     'icon' => 'fa-solid fa-champagne-glasses',
     'bank_holiday' => true,
   ),
-  '2025-01-20' => 
+  '2026-01-20' => 
   array (
     'name' => 'Martin Luther King Jr. Day',
     'type' => 'Federal Holiday',
     'icon' => 'fa-solid fa-hands',
     'bank_holiday' => true,
   ),
-  '2025-02-14' => 
+  '2026-02-14' => 
   array (
     'name' => 'Valentine\'s Day',
     'type' => 'Cultural Holiday',
     'icon' => 'fa-solid fa-heart',
     'bank_holiday' => false,
   ),
-  '2025-02-17' => 
+  '2026-02-17' => 
   array (
     'name' => 'Presidents\' Day',
     'type' => 'Federal Holiday',
     'icon' => 'fa-solid fa-landmark',
     'bank_holiday' => true,
   ),
-  '2025-03-17' => 
+  '2026-03-17' => 
   array (
     'name' => 'St. Patrick\'s Day',
     'type' => 'Cultural Holiday',
     'icon' => 'fa-solid fa-clover',
     'bank_holiday' => false,
   ),
-  '2025-04-13' => 
+  '2026-04-13' => 
   array (
     'name' => 'Easter Sunday',
     'type' => 'Religious Holiday',
     'icon' => 'fa-solid fa-cross',
     'bank_holiday' => false,
   ),
-  '2025-05-11' => 
+  '2026-05-11' => 
   array (
     'name' => 'Mother\'s Day',
     'type' => 'Cultural Holiday',
     'icon' => 'fa-solid fa-heart',
     'bank_holiday' => false,
   ),
-  '2025-05-26' => 
+  '2026-05-26' => 
   array (
     'name' => 'Memorial Day',
     'type' => 'Federal Holiday',
     'icon' => 'fa-solid fa-flag-usa',
     'bank_holiday' => true,
   ),
-  '2025-06-15' => 
+  '2026-06-15' => 
   array (
     'name' => 'Father\'s Day',
     'type' => 'Cultural Holiday',
     'icon' => 'fa-solid fa-user',
     'bank_holiday' => false,
   ),
-  '2025-06-19' => 
+  '2026-06-19' => 
   array (
     'name' => 'Juneteenth',
     'type' => 'Federal Holiday',
     'icon' => 'fa-solid fa-freedom',
     'bank_holiday' => true,
   ),
-  '2025-07-04' => 
+  '2026-07-04' => 
   array (
     'name' => 'Independence Day',
     'type' => 'Federal Holiday',
     'icon' => 'fa-solid fa-fireworks',
     'bank_holiday' => true,
   ),
-  '2025-09-01' => 
+  '2026-09-01' => 
   array (
     'name' => 'Labor Day',
     'type' => 'Federal Holiday',
     'icon' => 'fa-solid fa-hammer',
     'bank_holiday' => true,
   ),
-  '2025-10-13' => 
+  '2026-10-13' => 
   array (
     'name' => 'Columbus Day',
     'type' => 'Federal Holiday',
     'icon' => 'fa-solid fa-ship',
     'bank_holiday' => true,
   ),
-  '2025-10-31' => 
+  '2026-10-31' => 
   array (
     'name' => 'Halloween',
     'type' => 'Cultural Holiday',
     'icon' => 'fa-solid fa-ghost',
     'bank_holiday' => false,
   ),
-  '2025-11-11' => 
+  '2026-11-11' => 
   array (
     'name' => 'Veterans Day',
     'type' => 'Federal Holiday',
     'icon' => 'fa-solid fa-medal',
     'bank_holiday' => true,
   ),
-  '2025-11-27' => 
+  '2026-11-27' => 
   array (
     'name' => 'Thanksgiving Day',
     'type' => 'Federal Holiday',
     'icon' => 'fa-solid fa-turkey',
     'bank_holiday' => true,
   ),
-  '2025-12-24' => 
+  '2026-12-24' => 
   array (
     'name' => 'Christmas Eve',
     'type' => 'Cultural Holiday',
     'icon' => 'fa-solid fa-star',
     'bank_holiday' => false,
   ),
-  '2025-12-25' => 
+  '2026-12-25' => 
   array (
     'name' => 'Christmas Day',
     'type' => 'Federal Holiday',
     'icon' => 'fa-solid fa-tree',
     'bank_holiday' => true,
   ),
-  '2025-12-31' => 
+  '2026-12-31' => 
   array (
     'name' => 'New Year\'s Eve',
     'type' => 'Cultural Holiday',
@@ -175,7 +175,7 @@ $holidays_2025 = array (
 
 // Month and navigation logic
 $current_month = isset($_GET['month']) ? (int)$_GET['month'] : (int)date('n');
-$current_year = isset($_GET['year']) ? (int)$_GET['year'] : 2025;
+$current_year = isset($_GET['year']) ? (int)$_GET['year'] : 2026;
 $month_names = [
     1 => 'January', 2 => 'February', 3 => 'March', 4 => 'April',
     5 => 'May', 6 => 'June', 7 => 'July', 8 => 'August',
@@ -215,7 +215,7 @@ $next_month = get_next_month($current_month, $current_year);
                 <div>
                     <h1 class="text-4xl font-bold"><div class="flex items-center space-x-3">
                         <img src="https://upload.wikimedia.org/wikipedia/commons/a/a0/Flag_of_Maryland.svg" alt="Maryland Flag" class="w-12 h-8 object-cover rounded border-2 border-white/20 shadow-lg">
-                        <span>Maryland Holidays 2025</span>
+                        <span>Maryland Holidays 2026</span>
                     </div></h1>
                     <p class="text-lg opacity-90">State & Federal Holidays, Festivals, Observances</p>
                 </div>
@@ -227,7 +227,7 @@ $next_month = get_next_month($current_month, $current_year);
                 </div>
                 <div class="mt-2 flex items-center space-x-2">
                     <i class="fas fa-gift text-yellow-200"></i>
-                    <span class="text-sm opacity-75"><?php echo count($holidays_2025); ?> Total Holidays</span>
+                    <span class="text-sm opacity-75"><?php echo count($holidays_2026); ?> Total Holidays</span>
                 </div>
             </div>
         </div>
@@ -238,9 +238,9 @@ $next_month = get_next_month($current_month, $current_year);
     <!-- SEO Introduction Section -->
     <section class="mb-8 bg-white rounded-lg p-6 border-l-4 border-state-primary shadow-lg">
         <div class="max-w-4xl mx-auto text-center">
-            <h2 class="text-3xl font-bold text-gray-800 mb-4">Complete Maryland Holiday Calendar 2025</h2>
+            <h2 class="text-3xl font-bold text-gray-800 mb-4">Complete Maryland Holiday Calendar 2026</h2>
             <p class="text-lg text-gray-700 mb-4 leading-relaxed">
-                Welcome to the comprehensive Maryland Holiday Calendar 2025! Plan your year with our up-to-date calendar including all federal holidays, state-specific celebrations, and cultural observances.
+                Welcome to the comprehensive Maryland Holiday Calendar 2026! Plan your year with our up-to-date calendar including all federal holidays, state-specific celebrations, and cultural observances.
             </p>
         </div>
     </section>
@@ -283,7 +283,7 @@ $next_month = get_next_month($current_month, $current_year);
             }
             for ($day = 1; $day <= $days_in_month; $day++) {
                 $date = sprintf('%04d-%02d-%02d', $current_year, $current_month, $day);
-                $is_holiday = isset($holidays_2025[$date]);
+                $is_holiday = isset($holidays_2026[$date]);
                 $is_today = ($day == date('j') && $current_month == date('n') && $current_year == date('Y'));
                 $cell_classes = 'p-4 border-r border-b min-h-[100px] relative';
                 if ($is_today) $cell_classes .= ' bg-yellow-100';
@@ -293,7 +293,7 @@ $next_month = get_next_month($current_month, $current_year);
                 echo '<div class="text-lg font-semibold text-gray-800 mb-2">' . $day . '</div>';
                 
                 if ($is_holiday) {
-                    $holiday = $holidays_2025[$date];
+                    $holiday = $holidays_2026[$date];
                     echo '<div class="bg-blue-100 border-l-4 border-state-primary p-2 rounded">';
                     echo '<div class="flex items-center space-x-2 mb-1">';
                     echo '<i class="fas ' . $holiday['icon'] . ' text-state-primary"></i>';
@@ -326,7 +326,7 @@ $next_month = get_next_month($current_month, $current_year);
                 <?php
                 $today = date('Y-m-d');
                 $upcoming_count = 0;
-                foreach ($holidays_2025 as $date => $holiday) {
+                foreach ($holidays_2026 as $date => $holiday) {
                     if ($date >= $today && $upcoming_count < 5) {
                         $formatted_date = date('M d, Y', strtotime($date));
                         $day_name = date('l', strtotime($date));
@@ -352,7 +352,7 @@ $next_month = get_next_month($current_month, $current_year);
             <div class="grid grid-cols-2 gap-4">
                 <div class="text-center p-4 bg-gradient-to-br from-green-50 to-green-100 rounded-lg border border-green-200 hover:shadow-md transition-all">
                     <div class="text-sm text-green-700 font-medium">Total Holidays</div>
-                    <div class="text-xs text-green-600 mt-1"><?php echo count($holidays_2025); ?> Holidays</div>
+                    <div class="text-xs text-green-600 mt-1"><?php echo count($holidays_2026); ?> Holidays</div>
                 </div>
                 <div class="text-center p-4 bg-gradient-to-br from-blue-50 to-blue-100 rounded-lg border border-blue-200 hover:shadow-md transition-all">
                     <div class="text-sm text-blue-700 font-medium">Federal Holidays</div>
@@ -394,7 +394,7 @@ $next_month = get_next_month($current_month, $current_year);
         <div class="max-w-6xl mx-auto">
             <h2 class="text-3xl font-bold text-gray-800 mb-8 text-center flex items-center justify-center space-x-3">
                 <i class="fas fa-university text-green-600"></i>
-                <span>Bank Holidays 2025</span>
+                <span>Bank Holidays 2026</span>
                 <i class="fas fa-credit-card text-green-500"></i>
             </h2>
             
@@ -419,7 +419,7 @@ $next_month = get_next_month($current_month, $current_year);
                     <div class="space-y-4">
                         <?php
                         $federal_bank_holidays = [];
-                        foreach ($holidays_2025 as $date => $holiday) {
+                        foreach ($holidays_2026 as $date => $holiday) {
                             if (isset($holiday['bank_holiday']) && $holiday['bank_holiday'] && ($holiday['type'] == 'Federal Holiday')) {
                                 $federal_bank_holidays[$date] = $holiday;
                             }
@@ -457,7 +457,7 @@ $next_month = get_next_month($current_month, $current_year);
                     <div class="space-y-4">
                         <?php
                         $other_bank_holidays = [];
-                        foreach ($holidays_2025 as $date => $holiday) {
+                        foreach ($holidays_2026 as $date => $holiday) {
                             if (isset($holiday['bank_holiday']) && $holiday['bank_holiday'] && ($holiday['type'] != 'Federal Holiday')) {
                                 $other_bank_holidays[$date] = $holiday;
                             }
@@ -571,7 +571,7 @@ $next_month = get_next_month($current_month, $current_year);
             </h2>
             <div class="space-y-6">
                 <div class="bg-gray-50 rounded-lg p-6 hover:shadow-md transition-all">
-                    <h3 class="text-xl font-semibold text-gray-800 mb-3">What are the main state holidays in Maryland 2025?</h3>
+                    <h3 class="text-xl font-semibold text-gray-800 mb-3">What are the main state holidays in Maryland 2026?</h3>
                     <p class="text-gray-700 leading-relaxed">Maryland observes all federal holidays plus any state-specific celebrations and observances.</p>
                 </div>
                 <div class="bg-gray-50 rounded-lg p-6 hover:shadow-md transition-all">

@@ -104,7 +104,7 @@ $breadcrumbSchema = [
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Boat Service Centers Near Me 2025</title>
+    <title>Boat Service Centers Near Me 2026</title>
     <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" rel="stylesheet">
     <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css" rel="stylesheet">
     <style>
@@ -126,7 +126,7 @@ $breadcrumbSchema = [
             <div class="flex items-center justify-between">
                 <div class="flex items-center">
                     <i class="fas fa-anchor text-blue-600 text-2xl mr-3"></i>
-                    <h1 class="text-2xl font-bold text-gray-900">Boat Service Centers Near Me 2025</h1>
+                    <h1 class="text-2xl font-bold text-gray-900">Boat Service Centers Near Me 2026</h1>
                 </div>
                 <div class="hidden md:block">
                     <span class="inline-flex items-center px-3 py-1 rounded-full text-sm font-medium bg-blue-100 text-blue-800">

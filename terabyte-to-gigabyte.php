@@ -1,19 +1,19 @@
 <?php include 'header.php'; ?>
 
 <!-- SEO Meta Tags -->
-<title>Terabyte to Gigabyte Converter 2025 - Data Storage Calculator | Thiyagi</title>
-<meta name="description" content="Free online terabyte to gigabyte converter 2025. Convert TB to GB instantly with accurate data storage conversion for computing applications.">
-<meta name="keywords" content="terabyte to gigabyte converter 2025, TB to GB, data converter, storage calculator, computing converter">
+<title>Terabyte to Gigabyte Converter 2026 - Data Storage Calculator | Thiyagi</title>
+<meta name="description" content="Free online terabyte to gigabyte converter 2026. Convert TB to GB instantly with accurate data storage conversion for computing applications.">
+<meta name="keywords" content="terabyte to gigabyte converter 2026, TB to GB, data converter, storage calculator, computing converter">
 <meta name="author" content="Thiyagi">
-<meta property="og:title" content="Terabyte to Gigabyte Converter 2025 - Data Storage Calculator">
-<meta property="og:description" content="Free online terabyte to gigabyte converter 2025. Convert TB to GB instantly with accurate data storage conversion.">
+<meta property="og:title" content="Terabyte to Gigabyte Converter 2026 - Data Storage Calculator">
+<meta property="og:description" content="Free online terabyte to gigabyte converter 2026. Convert TB to GB instantly with accurate data storage conversion.">
 <meta property="og:type" content="website">
 <meta property="og:url" content="https://www.thiyagi.com/terabyte-to-gigabyte.php">
 <meta property="og:image" content="https://www.thiyagi.com/nt.png">
 <meta property="og:site_name" content="Thiyagi">
 <meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:title" content="Terabyte to Gigabyte Converter 2025 - Data Storage Calculator">
-<meta name="twitter:description" content="Free online terabyte to gigabyte converter 2025. Convert TB to GB instantly.">
+<meta name="twitter:title" content="Terabyte to Gigabyte Converter 2026 - Data Storage Calculator">
+<meta name="twitter:description" content="Free online terabyte to gigabyte converter 2026. Convert TB to GB instantly.">
 <meta name="twitter:image" content="https://www.thiyagi.com/nt.png">
 
 <div class="min-h-screen bg-gradient-to-br from-cyan-50 via-blue-50 to-indigo-50 py-12">

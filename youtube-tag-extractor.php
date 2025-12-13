@@ -64,7 +64,7 @@ include 'header.php';
         "name": "Thiyagi.com",
         "url": "https://www.thiyagi.com"
     },
-    "dateModified": "2025-08-22",
+    "dateModified": "2026-08-22",
     "offers": {
         "@type": "Offer",
         "price": "0",

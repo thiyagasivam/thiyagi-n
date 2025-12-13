@@ -40,8 +40,8 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST' && $units > 0) {
 <html lang="en">
 <head>
   <meta charset="UTF-8" />
-  <title>Bihar Electricity Bill Calculator 2025 – NBPDCL & SBPDCL</title>
-  <meta name="description" content="Instantly calculate your electricity bill for Bihar with the 2025 NBPDCL/SBPDCL tariff.">
+  <title>Bihar Electricity Bill Calculator 2026 – NBPDCL & SBPDCL</title>
+  <meta name="description" content="Instantly calculate your electricity bill for Bihar with the 2026 NBPDCL/SBPDCL tariff.">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   
   <script src="https://cdn.tailwindcss.com"></script>
@@ -58,8 +58,8 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST' && $units > 0) {
 </head>
 <body class="bg-gray-100">
   <div class="container mx-auto py-10 px-4 max-w-4xl">
-    <h1 class="text-3xl font-bold text-center mb-2 text-blue-600">Bihar Electricity Bill Calculator 2025</h1>
-    <p class="text-center text-gray-600 mb-8">Calculate your NBPDCL & SBPDCL electricity bill using the latest 2025 tariff rates</p>
+    <h1 class="text-3xl font-bold text-center mb-2 text-blue-600">Bihar Electricity Bill Calculator 2026</h1>
+    <p class="text-center text-gray-600 mb-8">Calculate your NBPDCL & SBPDCL electricity bill using the latest 2026 tariff rates</p>
     <div class="bg-white shadow-md rounded-lg mb-8 overflow-hidden">
       <div class="px-6 py-4">
         <form id="calculator-form" method="POST" class="space-y-4">

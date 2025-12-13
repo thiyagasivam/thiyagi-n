@@ -1,12 +1,12 @@
 <?php include 'header.php';?>
-<title>KB to GB Converter 2025 | Kilobytes to Gigabytes Calculator | Free Tool</title>
-<meta name="description" content="Professional KB to GB converter 2025. Convert kilobytes to gigabytes instantly with precision calculations. Perfect for file sizes, storage planning, and data management.">
-<meta name="keywords" content="kb to gb converter 2025, kilobytes to gigabytes calculator, data converter, file size converter, storage calculator, digital storage conversion">
+<title>KB to GB Converter 2026 | Kilobytes to Gigabytes Calculator | Free Tool</title>
+<meta name="description" content="Professional KB to GB converter 2026. Convert kilobytes to gigabytes instantly with precision calculations. Perfect for file sizes, storage planning, and data management.">
+<meta name="keywords" content="kb to gb converter 2026, kilobytes to gigabytes calculator, data converter, file size converter, storage calculator, digital storage conversion">
 <link rel="canonical" href="https://www.thiyagi.com/kb-to-gb">
 
 <!-- Open Graph Meta Tags -->
-<meta property="og:title" content="KB to GB Converter 2025 | Kilobytes to Gigabytes Calculator | Free Tool">
-<meta property="og:description" content="Professional KB to GB converter 2025. Convert kilobytes to gigabytes instantly with precision calculations. Perfect for file sizes, storage planning, and data management.">
+<meta property="og:title" content="KB to GB Converter 2026 | Kilobytes to Gigabytes Calculator | Free Tool">
+<meta property="og:description" content="Professional KB to GB converter 2026. Convert kilobytes to gigabytes instantly with precision calculations. Perfect for file sizes, storage planning, and data management.">
 <meta property="og:url" content="https://www.thiyagi.com/kb-to-gb">
 <meta property="og:type" content="website">
 <meta property="og:image" content="https://www.thiyagi.com/nt.png">
@@ -83,7 +83,7 @@
         </div>
         <h1 class="text-4xl md:text-6xl font-bold text-gray-900 mb-6">
           KB to GB Converter
-          <span class="block text-2xl md:text-3xl text-amber-600 mt-2">Professional 2025</span>
+          <span class="block text-2xl md:text-3xl text-amber-600 mt-2">Professional 2026</span>
         </h1>
         <p class="text-xl text-gray-600 mb-8 max-w-4xl mx-auto leading-relaxed">
           Convert kilobytes to gigabytes with professional-grade precision. Perfect for storage planning, 

@@ -1,12 +1,12 @@
 <?php include 'header.php';?>
-<title>PSI to Bar Converter 2025 | Professional Pressure Calculator | Free Tool</title>
-<meta name="description" content="Professional PSI to bar converter 2025. Convert PSI to bar instantly with precision calculations. Perfect for automotive, industrial, and engineering applications.">
-<meta name="keywords" content="psi to bar converter 2025, pressure calculator, psi conversion, automotive tools, engineering calculator">
+<title>PSI to Bar Converter 2026 | Professional Pressure Calculator | Free Tool</title>
+<meta name="description" content="Professional PSI to bar converter 2026. Convert PSI to bar instantly with precision calculations. Perfect for automotive, industrial, and engineering applications.">
+<meta name="keywords" content="psi to bar converter 2026, pressure calculator, psi conversion, automotive tools, engineering calculator">
 <link rel="canonical" href="https://www.thiyagi.com/psi-to-bar">
 
 <!-- Open Graph Meta Tags -->
-<meta property="og:title" content="PSI to Bar Converter 2025 | Professional Pressure Calculator | Free Tool">
-<meta property="og:description" content="Professional PSI to bar converter 2025. Convert PSI to bar instantly with precision calculations. Perfect for automotive, industrial, and engineering applications.">
+<meta property="og:title" content="PSI to Bar Converter 2026 | Professional Pressure Calculator | Free Tool">
+<meta property="og:description" content="Professional PSI to bar converter 2026. Convert PSI to bar instantly with precision calculations. Perfect for automotive, industrial, and engineering applications.">
 <meta property="og:url" content="https://www.thiyagi.com/psi-to-bar">
 <meta property="og:type" content="website">
 <meta property="og:image" content="https://www.thiyagi.com/nt.png">
@@ -83,7 +83,7 @@
         </div>
         <h1 class="text-4xl md:text-6xl font-bold text-gray-900 mb-6">
           PSI to Bar Converter
-          <span class="block text-2xl md:text-3xl text-indigo-600 mt-2">Professional 2025</span>
+          <span class="block text-2xl md:text-3xl text-indigo-600 mt-2">Professional 2026</span>
         </h1>
         <p class="text-xl text-gray-600 mb-8 max-w-4xl mx-auto leading-relaxed">
           Convert PSI to bar with professional-grade precision. Perfect for automotive applications, 

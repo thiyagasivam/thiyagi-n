@@ -1,12 +1,12 @@
 <?php include 'header.php';?>
-<title>Gallon to Cubic Feet Converter 2025 | Gal to Ft³ Calculator | Free Tool</title>
-<meta name="description" content="Professional gallon to cubic feet converter 2025. Convert gallons to ft³ instantly with precision calculations. Perfect for volume, storage, and capacity measurements.">
-<meta name="keywords" content="gallon to cubic feet converter 2025, gal to ft3 calculator, volume converter, storage capacity, liquid measurements">
+<title>Gallon to Cubic Feet Converter 2026 | Gal to Ft³ Calculator | Free Tool</title>
+<meta name="description" content="Professional gallon to cubic feet converter 2026. Convert gallons to ft³ instantly with precision calculations. Perfect for volume, storage, and capacity measurements.">
+<meta name="keywords" content="gallon to cubic feet converter 2026, gal to ft3 calculator, volume converter, storage capacity, liquid measurements">
 <link rel="canonical" href="https://www.thiyagi.com/gallon-to-cubic-feet">
 
 <!-- Open Graph Meta Tags -->
-<meta property="og:title" content="Gallon to Cubic Feet Converter 2025 | Gal to Ft³ Calculator | Free Tool">
-<meta property="og:description" content="Professional gallon to cubic feet converter 2025. Convert gallons to ft³ instantly with precision calculations. Perfect for volume, storage, and capacity measurements.">
+<meta property="og:title" content="Gallon to Cubic Feet Converter 2026 | Gal to Ft³ Calculator | Free Tool">
+<meta property="og:description" content="Professional gallon to cubic feet converter 2026. Convert gallons to ft³ instantly with precision calculations. Perfect for volume, storage, and capacity measurements.">
 <meta property="og:url" content="https://www.thiyagi.com/gallon-to-cubic-feet">
 <meta property="og:type" content="website">
 <meta property="og:image" content="https://www.thiyagi.com/nt.png">
@@ -83,7 +83,7 @@
         </div>
         <h1 class="text-4xl md:text-6xl font-bold text-gray-900 mb-6">
           Gallon to Cubic Feet Converter
-          <span class="block text-2xl md:text-3xl text-violet-600 mt-2">Professional 2025</span>
+          <span class="block text-2xl md:text-3xl text-violet-600 mt-2">Professional 2026</span>
         </h1>
         <p class="text-xl text-gray-600 mb-8 max-w-4xl mx-auto leading-relaxed">
           Convert gallons to cubic feet with precision accuracy. Essential for storage planning, 

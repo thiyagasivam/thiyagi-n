@@ -48,8 +48,8 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Free Hosting Checker 2025 - Find Web Server & DNS Provider</title>
-<meta name="description" content="Detect any website's hosting company, server location, and DNS details in seconds (2025). Perfect for competitors analysis and migration planning - No technical skills needed!">
+    <title>Free Hosting Checker 2026 - Find Web Server & DNS Provider</title>
+<meta name="description" content="Detect any website's hosting company, server location, and DNS details in seconds (2026). Perfect for competitors analysis and migration planning - No technical skills needed!">
     <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" rel="stylesheet">
 
 </head>

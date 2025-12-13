@@ -1,19 +1,19 @@
 <?php include 'header.php'; ?>
 
 <!-- SEO Meta Tags -->
-<title>Calories to Joules Converter 2025 - Energy Calculator | Thiyagi</title>
-<meta name="description" content="Free online calories to joules converter 2025. Convert cal to J instantly with accurate energy conversion for nutrition and physics calculations.">
-<meta name="keywords" content="calories to joules converter 2025, cal to J, energy converter, nutrition calculator, physics converter">
+<title>Calories to Joules Converter 2026 - Energy Calculator | Thiyagi</title>
+<meta name="description" content="Free online calories to joules converter 2026. Convert cal to J instantly with accurate energy conversion for nutrition and physics calculations.">
+<meta name="keywords" content="calories to joules converter 2026, cal to J, energy converter, nutrition calculator, physics converter">
 <meta name="author" content="Thiyagi">
-<meta property="og:title" content="Calories to Joules Converter 2025 - Energy Calculator">
-<meta property="og:description" content="Free online calories to joules converter 2025. Convert cal to J instantly with accurate energy conversion.">
+<meta property="og:title" content="Calories to Joules Converter 2026 - Energy Calculator">
+<meta property="og:description" content="Free online calories to joules converter 2026. Convert cal to J instantly with accurate energy conversion.">
 <meta property="og:type" content="website">
 <meta property="og:url" content="https://www.thiyagi.com/cal-to-j.php">
 <meta property="og:image" content="https://www.thiyagi.com/nt.png">
 <meta property="og:site_name" content="Thiyagi">
 <meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:title" content="Calories to Joules Converter 2025 - Energy Calculator">
-<meta name="twitter:description" content="Free online calories to joules converter 2025. Convert cal to J instantly.">
+<meta name="twitter:title" content="Calories to Joules Converter 2026 - Energy Calculator">
+<meta name="twitter:description" content="Free online calories to joules converter 2026. Convert cal to J instantly.">
 <meta name="twitter:image" content="https://www.thiyagi.com/nt.png">
 
 <div class="min-h-screen bg-gradient-to-br from-red-50 via-orange-50 to-yellow-50 py-12">

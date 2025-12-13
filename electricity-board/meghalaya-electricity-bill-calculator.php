@@ -1,7 +1,7 @@
 <?php include '../header.php';?>
 <?php include 'breadcrumb-schema.php';?>
 <?php
-// Define tariff slabs and rates for 2025 (hypothetical - replace with actual 2025 rates)
+// Define tariff slabs and rates for 2026 (hypothetical - replace with actual 2026 rates)
 $tariff_slabs = [
     ['from' => 0, 'to' => 100, 'rate' => 3.50, 'fixed' => 50],
     ['from' => 101, 'to' => 200, 'rate' => 4.50, 'fixed' => 75],
@@ -58,13 +58,13 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST' && $units > 0) {
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="Calculate your Meghalaya (MePDCL) electricity bill for 2025 using the latest domestic tariff rates. Mobile-friendly, accurate, and easy-to-use calculator.">
-    <meta name="keywords" content="Meghalaya electricity bill, MePDCL calculator, 2025 tariff, power bill calculator, electricity cost calculator">
+    <meta name="description" content="Calculate your Meghalaya (MePDCL) electricity bill for 2026 using the latest domestic tariff rates. Mobile-friendly, accurate, and easy-to-use calculator.">
+    <meta name="keywords" content="Meghalaya electricity bill, MePDCL calculator, 2026 tariff, power bill calculator, electricity cost calculator">
     <meta name="author" content="Meghalaya Power Distribution Corporation Ltd">
-    <meta property="og:title" content="Meghalaya Electricity Bill Calculator 2025 | MePDCL">
-    <meta property="og:description" content="Calculate your MePDCL electricity bill with the latest 2025 tariff rates.">
+    <meta property="og:title" content="Meghalaya Electricity Bill Calculator 2026 | MePDCL">
+    <meta property="og:description" content="Calculate your MePDCL electricity bill with the latest 2026 tariff rates.">
     <meta property="og:type" content="website">
-    <title>Meghalaya Electricity Bill Calculator 2025 | MePDCL</title>
+    <title>Meghalaya Electricity Bill Calculator 2026 | MePDCL</title>
     <script src="https://cdn.tailwindcss.com"></script>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
     <style>
@@ -96,10 +96,10 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST' && $units > 0) {
     <div class="container mx-auto px-4 py-8 max-w-3xl">
         <header class="mb-8 text-center">
             <h1 class="text-3xl md:text-4xl font-bold text-blue-800 mb-2">Meghalaya Electricity Bill Calculator</h1>
-            <p class="text-lg text-gray-600">MePDCL Domestic Tariff Calculator for 2025</p>
+            <p class="text-lg text-gray-600">MePDCL Domestic Tariff Calculator for 2026</p>
             <div class="mt-4 bg-blue-100 border-l-4 border-blue-500 text-blue-700 p-4">
                 <p class="font-semibold">Note:</p>
-                <p>This calculator uses the latest 2025 domestic tariff rates for Meghalaya Power Distribution Corporation Ltd (MePDCL).</p>
+                <p>This calculator uses the latest 2026 domestic tariff rates for Meghalaya Power Distribution Corporation Ltd (MePDCL).</p>
             </div>
         </header>
 
@@ -207,7 +207,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST' && $units > 0) {
 
                 <div class="bg-yellow-50 border-l-4 border-yellow-400 p-4 text-sm text-gray-700 no-print">
                     <p class="font-semibold"><i class="fas fa-info-circle mr-1"></i> Disclaimer:</p>
-                    <p>This calculation is based on the latest available MePDCL domestic tariff rates for 2025. The actual bill may vary based on additional charges, taxes, or regulatory changes. Please verify with your official bill.</p>
+                    <p>This calculation is based on the latest available MePDCL domestic tariff rates for 2026. The actual bill may vary based on additional charges, taxes, or regulatory changes. Please verify with your official bill.</p>
                 </div>
             </div>
             <?php endif; ?>

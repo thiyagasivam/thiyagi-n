@@ -4,9 +4,9 @@ include 'header.php';
 $header_content = ob_get_clean();
 
 // Insert title and meta tags into the head section
-$title = 'Fluid Ounce (US) to Milliliter Converter 2025 | Volume Conversion Tool | Free Calculator';
-$description = 'Convert US fluid ounces to milliliters instantly with our 2025 accurate volume converter. Perfect for cooking, medicine, and liquid measurements.';
-$keywords = 'fluid ounce us to milliliter converter 2025, volume conversion calculator, fl oz ml converter, cooking measurements, medicine dosage';
+$title = 'Fluid Ounce (US) to Milliliter Converter 2026 | Volume Conversion Tool | Free Calculator';
+$description = 'Convert US fluid ounces to milliliters instantly with our 2026 accurate volume converter. Perfect for cooking, medicine, and liquid measurements.';
+$keywords = 'fluid ounce us to milliliter converter 2026, volume conversion calculator, fl oz ml converter, cooking measurements, medicine dosage';
 $canonical = 'https://www.thiyagi.com/fluid-ounce-us-to-milliliter';
 
 $meta_tags = '<title>' . htmlspecialchars($title) . '</title>' . "\n";

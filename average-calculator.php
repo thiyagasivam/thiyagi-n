@@ -101,19 +101,19 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Advanced Statistics Calculator 2025 - Mean, Median, Mode & Standard Deviation</title>
-    <meta name="description" content="Complete statistical calculator with mean, median, mode, range, standard deviation in 2025. Mobile-responsive design with instant calculations. Free online statistics tool for students & professionals!">
-    <meta name="keywords" content="statistics calculator, mean calculator, median calculator, mode calculator, standard deviation, range calculator, average calculator, math tools 2025">
+    <title>Advanced Statistics Calculator 2026 - Mean, Median, Mode & Standard Deviation</title>
+    <meta name="description" content="Complete statistical calculator with mean, median, mode, range, standard deviation in 2026. Mobile-responsive design with instant calculations. Free online statistics tool for students & professionals!">
+    <meta name="keywords" content="statistics calculator, mean calculator, median calculator, mode calculator, standard deviation, range calculator, average calculator, math tools 2026">
     
     <!-- Open Graph Meta Tags -->
-    <meta property="og:title" content="Advanced Statistics Calculator 2025 - Complete Math Tool">
+    <meta property="og:title" content="Advanced Statistics Calculator 2026 - Complete Math Tool">
     <meta property="og:description" content="Calculate mean, median, mode, range & standard deviation instantly. Mobile-responsive statistical calculator.">
     <meta property="og:type" content="website">
     <meta property="og:url" content="https://thiyagi.com/average-calculator.php">
     
     <!-- Twitter Card Meta Tags -->
     <meta name="twitter:card" content="summary_large_image">
-    <meta name="twitter:title" content="Advanced Statistics Calculator 2025">
+    <meta name="twitter:title" content="Advanced Statistics Calculator 2026">
     <meta name="twitter:description" content="Complete statistical calculator with instant results and mobile-responsive design.">
     
     <!-- Structured Data -->

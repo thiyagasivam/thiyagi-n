@@ -1,19 +1,19 @@
 <?php include 'header.php'; ?>
 
 <!-- SEO Meta Tags -->
-<title>Foot to Kilometer Converter 2025 - Distance Calculator | Thiyagi</title>
-<meta name="description" content="Free online foot to kilometer converter 2025. Convert feet to kilometers instantly with accurate distance conversion. Perfect for aviation, mapping, and international measurements.">
-<meta name="keywords" content="foot to kilometer converter 2025, feet to km, distance converter, aviation calculator, mapping tool, international conversion">
+<title>Foot to Kilometer Converter 2026 - Distance Calculator | Thiyagi</title>
+<meta name="description" content="Free online foot to kilometer converter 2026. Convert feet to kilometers instantly with accurate distance conversion. Perfect for aviation, mapping, and international measurements.">
+<meta name="keywords" content="foot to kilometer converter 2026, feet to km, distance converter, aviation calculator, mapping tool, international conversion">
 <meta name="author" content="Thiyagi">
-<meta property="og:title" content="Foot to Kilometer Converter 2025 - Distance Calculator">
-<meta property="og:description" content="Free online foot to kilometer converter 2025. Convert feet to kilometers instantly with accurate distance conversion.">
+<meta property="og:title" content="Foot to Kilometer Converter 2026 - Distance Calculator">
+<meta property="og:description" content="Free online foot to kilometer converter 2026. Convert feet to kilometers instantly with accurate distance conversion.">
 <meta property="og:type" content="website">
 <meta property="og:url" content="https://www.thiyagi.com/foot-to-kilometer.php">
 <meta property="og:image" content="https://www.thiyagi.com/nt.png">
 <meta property="og:site_name" content="Thiyagi">
 <meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:title" content="Foot to Kilometer Converter 2025 - Distance Calculator">
-<meta name="twitter:description" content="Free online foot to kilometer converter 2025. Convert feet to kilometers instantly with accurate distance conversion.">
+<meta name="twitter:title" content="Foot to Kilometer Converter 2026 - Distance Calculator">
+<meta name="twitter:description" content="Free online foot to kilometer converter 2026. Convert feet to kilometers instantly with accurate distance conversion.">
 <meta name="twitter:image" content="https://www.thiyagi.com/nt.png">
 
 <div class="min-h-screen bg-gradient-to-br from-teal-50 via-cyan-50 to-blue-50 py-12">

@@ -1,12 +1,12 @@
 <?php include 'header.php';?>
-<title>Liter to Gallon Converter 2025 | Convert liter to gallon | Free Tool</title>
-<meta name="description" content="Convert liter to gallon instantly with our 2025 accurate converter. Perfect liter to gallon conversion with real-time calculations for volume measurement.">
-<meta name="keywords" content="liter to gallon 2025, liter gallon converter, volume conversion 2025, fuel measurement calculator, liquid conversion tool">
+<title>Liter to Gallon Converter 2026 | Convert liter to gallon | Free Tool</title>
+<meta name="description" content="Convert liter to gallon instantly with our 2026 accurate converter. Perfect liter to gallon conversion with real-time calculations for volume measurement.">
+<meta name="keywords" content="liter to gallon 2026, liter gallon converter, volume conversion 2026, fuel measurement calculator, liquid conversion tool">
 <link rel="canonical" href="https://www.thiyagi.com/liter-to-gallon">
 
 <!-- Open Graph Meta Tags -->
-<meta property="og:title" content="Liter to Gallon Converter 2025 | Convert liter to gallon | Free Tool">
-<meta property="og:description" content="Convert liter to gallon instantly with our 2025 accurate converter. Perfect liter to gallon conversion with real-time calculations for volume measurement.">
+<meta property="og:title" content="Liter to Gallon Converter 2026 | Convert liter to gallon | Free Tool">
+<meta property="og:description" content="Convert liter to gallon instantly with our 2026 accurate converter. Perfect liter to gallon conversion with real-time calculations for volume measurement.">
 <meta property="og:url" content="https://www.thiyagi.com/liter-to-gallon">
 <meta property="og:type" content="website">
 <meta property="og:image" content="https://www.thiyagi.com/nt.png">
@@ -14,8 +14,8 @@
 
 <!-- Twitter Card Meta Tags -->
 <meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:title" content="Liter to Gallon Converter 2025 | Convert liter to gallon | Free Tool">
-<meta name="twitter:description" content="Convert liter to gallon instantly with our 2025 accurate converter. Perfect liter to gallon conversion with real-time calculations for volume measurement.">
+<meta name="twitter:title" content="Liter to Gallon Converter 2026 | Convert liter to gallon | Free Tool">
+<meta name="twitter:description" content="Convert liter to gallon instantly with our 2026 accurate converter. Perfect liter to gallon conversion with real-time calculations for volume measurement.">
 <meta name="twitter:image" content="https://www.thiyagi.com/nt.png">
 
 <!-- Additional SEO Meta Tags -->
@@ -39,7 +39,7 @@
           Liter to Gallon Converter
         </h1>
         <p class="text-xl text-gray-600 mb-8 max-w-3xl mx-auto">
-          Convert liters to gallons instantly with our accurate 2025 calculator. 
+          Convert liters to gallons instantly with our accurate 2026 calculator. 
           Perfect for fuel calculations, cooking, and liquid volume measurements.
         </p>
       </div>
@@ -176,16 +176,16 @@
     <article class="bg-white rounded-xl shadow-lg p-8">
       <h2 class="text-2xl font-bold text-gray-800 mb-6 flex items-center gap-3">
         <i class="fas fa-info-circle text-indigo-600" aria-hidden="true"></i>
-        Liter to Gallon Conversion 2025
+        Liter to Gallon Conversion 2026
       </h2>
       <div class="prose max-w-none text-gray-600">
         <p class="mb-4">
-          Converting liters to gallons is essential for fuel calculations, cooking, and international trade in 2025. 
+          Converting liters to gallons is essential for fuel calculations, cooking, and international trade in 2026. 
           This conversion between metric and imperial liquid measurements enables accurate communication between professionals 
           working in different measurement systems, from fuel efficiency calculations to international recipe conversions.
         </p>
         <p class="mb-6">
-          Our 2025 converter provides instant and precise conversions from liters to gallons, essential for automotive professionals, 
+          Our 2026 converter provides instant and precise conversions from liters to gallons, essential for automotive professionals, 
           chefs, travelers, and anyone working with liquid volume specifications. 
           1 liter equals approximately 0.264172 US gallons or 0.219969 UK gallons.
         </p>

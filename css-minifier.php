@@ -38,8 +38,8 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Free CSS Minifier Tool 2025 – Compress & Optimize Stylesheets Instantly</title>
-    <meta name="description" content="educe CSS file size and boost page speed with our free online CSS minifier (2025). Remove comments, whitespace, and optimize styles in seconds—no downloads needed!">
+    <title>Free CSS Minifier Tool 2026 – Compress & Optimize Stylesheets Instantly</title>
+    <meta name="description" content="educe CSS file size and boost page speed with our free online CSS minifier (2026). Remove comments, whitespace, and optimize styles in seconds—no downloads needed!">
     <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" rel="stylesheet">
     <style>
         /* Custom styles */

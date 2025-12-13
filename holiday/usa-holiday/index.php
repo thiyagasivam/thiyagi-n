@@ -1,8 +1,8 @@
 <?php include '../../header.php'; ?>
 
-<title>USA Holidays 2025 | State-wise Calendar & Federal Holidays</title>
-<meta name="description" content="Comprehensive USA Holidays 2025 calendar. View federal and state holidays, observances, and tips for all 50 states. Plan your year with our modern, easy-to-use guide.">
-<meta name="keywords" content="USA holidays 2025, American holidays, federal holidays, state holidays, US calendar">
+<title>USA Holidays 2026 | State-wise Calendar & Federal Holidays</title>
+<meta name="description" content="Comprehensive USA Holidays 2026 calendar. View federal and state holidays, observances, and tips for all 50 states. Plan your year with our modern, easy-to-use guide.">
+<meta name="keywords" content="USA holidays 2026, American holidays, federal holidays, state holidays, US calendar">
 <link rel="canonical" href="https://<?= $_SERVER['HTTP_HOST'] . strtok($_SERVER['REQUEST_URI'], '?') ?>">
 
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/remixicon/3.5.0/remixicon.css">
@@ -11,7 +11,7 @@
 	<header class="mb-8">
 		<h1 class="text-4xl font-bold text-center text-blue-800 flex items-center justify-center gap-3">
 			<i class="fa-solid fa-flag-usa text-red-500"></i>
-			USA Holidays 2025
+			USA Holidays 2026
 			<i class="fa-solid fa-calendar-days text-blue-500"></i>
 		</h1>
 		<p class="text-center text-lg text-gray-700 mt-2">Federal and State-wise Holiday Calendar for the United States</p>
@@ -21,7 +21,7 @@
 		<div class="bg-white rounded-lg shadow-lg p-6 border-l-4 border-blue-500">
 			<h2 class="text-2xl font-bold text-blue-800 mb-4 flex items-center gap-2">
 				<i class="fa-solid fa-calendar-check text-green-500"></i>
-				Federal Holidays 2025
+				Federal Holidays 2026
 			</h2>
 			<div class="overflow-x-auto">
 				<table class="min-w-full divide-y divide-gray-200">
@@ -54,7 +54,7 @@
 		<div class="bg-white rounded-lg shadow-lg p-6 border-l-4 border-green-500">
 			<h2 class="text-2xl font-bold text-green-800 mb-6 flex items-center gap-2">
 				<i class="fa-solid fa-map-location-dot text-green-500"></i>
-				All US State Holiday Calendars 2025
+				All US State Holiday Calendars 2026
 			</h2>
 			<div class="grid md:grid-cols-3 lg:grid-cols-4 gap-4">
 				<a href="alabama-holidays.php" class="flex items-center gap-3 p-4 bg-red-50 rounded-lg border border-red-200 hover:bg-red-100 transition-all hover:shadow-md">
@@ -285,7 +285,7 @@
         <div class="max-w-6xl mx-auto">
             <h2 class="text-3xl font-bold text-gray-800 mb-8 text-center flex items-center justify-center space-x-3">
                 <i class="fas fa-university text-green-600"></i>
-                <span>Bank Holidays 2025</span>
+                <span>Bank Holidays 2026</span>
                 <i class="fas fa-credit-card text-green-500"></i>
             </h2>
             
@@ -315,7 +315,7 @@
                                 </div>
                                 <div>
                                     <div class="font-semibold text-gray-800">New Year's Day</div>
-                                    <div class="text-sm text-gray-600">Wednesday, Jan 1, 2025</div>
+                                    <div class="text-sm text-gray-600">Wednesday, Jan 1, 2026</div>
                                 </div>
                             </div>
                             <span class="bg-red-100 text-red-700 px-3 py-1 rounded-full text-sm font-medium">
@@ -329,7 +329,7 @@
                                 </div>
                                 <div>
                                     <div class="font-semibold text-gray-800">Martin Luther King Jr. Day</div>
-                                    <div class="text-sm text-gray-600">Monday, Jan 20, 2025</div>
+                                    <div class="text-sm text-gray-600">Monday, Jan 20, 2026</div>
                                 </div>
                             </div>
                             <span class="bg-red-100 text-red-700 px-3 py-1 rounded-full text-sm font-medium">
@@ -343,7 +343,7 @@
                                 </div>
                                 <div>
                                     <div class="font-semibold text-gray-800">Presidents' Day</div>
-                                    <div class="text-sm text-gray-600">Monday, Feb 17, 2025</div>
+                                    <div class="text-sm text-gray-600">Monday, Feb 17, 2026</div>
                                 </div>
                             </div>
                             <span class="bg-red-100 text-red-700 px-3 py-1 rounded-full text-sm font-medium">
@@ -357,7 +357,7 @@
                                 </div>
                                 <div>
                                     <div class="font-semibold text-gray-800">Memorial Day</div>
-                                    <div class="text-sm text-gray-600">Monday, May 26, 2025</div>
+                                    <div class="text-sm text-gray-600">Monday, May 26, 2026</div>
                                 </div>
                             </div>
                             <span class="bg-red-100 text-red-700 px-3 py-1 rounded-full text-sm font-medium">
@@ -371,7 +371,7 @@
                                 </div>
                                 <div>
                                     <div class="font-semibold text-gray-800">Juneteenth</div>
-                                    <div class="text-sm text-gray-600">Thursday, Jun 19, 2025</div>
+                                    <div class="text-sm text-gray-600">Thursday, Jun 19, 2026</div>
                                 </div>
                             </div>
                             <span class="bg-red-100 text-red-700 px-3 py-1 rounded-full text-sm font-medium">
@@ -385,7 +385,7 @@
                                 </div>
                                 <div>
                                     <div class="font-semibold text-gray-800">Independence Day</div>
-                                    <div class="text-sm text-gray-600">Friday, Jul 4, 2025</div>
+                                    <div class="text-sm text-gray-600">Friday, Jul 4, 2026</div>
                                 </div>
                             </div>
                             <span class="bg-red-100 text-red-700 px-3 py-1 rounded-full text-sm font-medium">
@@ -399,7 +399,7 @@
                                 </div>
                                 <div>
                                     <div class="font-semibold text-gray-800">Labor Day</div>
-                                    <div class="text-sm text-gray-600">Monday, Sep 1, 2025</div>
+                                    <div class="text-sm text-gray-600">Monday, Sep 1, 2026</div>
                                 </div>
                             </div>
                             <span class="bg-red-100 text-red-700 px-3 py-1 rounded-full text-sm font-medium">
@@ -413,7 +413,7 @@
                                 </div>
                                 <div>
                                     <div class="font-semibold text-gray-800">Columbus Day</div>
-                                    <div class="text-sm text-gray-600">Monday, Oct 13, 2025</div>
+                                    <div class="text-sm text-gray-600">Monday, Oct 13, 2026</div>
                                 </div>
                             </div>
                             <span class="bg-red-100 text-red-700 px-3 py-1 rounded-full text-sm font-medium">
@@ -427,7 +427,7 @@
                                 </div>
                                 <div>
                                     <div class="font-semibold text-gray-800">Veterans Day</div>
-                                    <div class="text-sm text-gray-600">Tuesday, Nov 11, 2025</div>
+                                    <div class="text-sm text-gray-600">Tuesday, Nov 11, 2026</div>
                                 </div>
                             </div>
                             <span class="bg-red-100 text-red-700 px-3 py-1 rounded-full text-sm font-medium">
@@ -441,7 +441,7 @@
                                 </div>
                                 <div>
                                     <div class="font-semibold text-gray-800">Thanksgiving Day</div>
-                                    <div class="text-sm text-gray-600">Thursday, Nov 27, 2025</div>
+                                    <div class="text-sm text-gray-600">Thursday, Nov 27, 2026</div>
                                 </div>
                             </div>
                             <span class="bg-red-100 text-red-700 px-3 py-1 rounded-full text-sm font-medium">
@@ -455,7 +455,7 @@
                                 </div>
                                 <div>
                                     <div class="font-semibold text-gray-800">Christmas Day</div>
-                                    <div class="text-sm text-gray-600">Thursday, Dec 25, 2025</div>
+                                    <div class="text-sm text-gray-600">Thursday, Dec 25, 2026</div>
                                 </div>
                             </div>
                             <span class="bg-red-100 text-red-700 px-3 py-1 rounded-full text-sm font-medium">
@@ -494,7 +494,7 @@
             </h2>
             <div class="space-y-6">
                 <div class="bg-gray-50 rounded-lg p-6 hover:shadow-md transition-all">
-                    <h3 class="text-xl font-semibold text-gray-800 mb-3">What are the federal holidays in the United States 2025?</h3>
+                    <h3 class="text-xl font-semibold text-gray-800 mb-3">What are the federal holidays in the United States 2026?</h3>
                     <p class="text-gray-700 leading-relaxed">The United States observes 11 federal holidays: New Year's Day, Martin Luther King Jr. Day, Presidents' Day, Memorial Day, Juneteenth, Independence Day, Labor Day, Columbus Day, Veterans Day, Thanksgiving, and Christmas Day.</p>
                 </div>
                 <div class="bg-gray-50 rounded-lg p-6 hover:shadow-md transition-all">

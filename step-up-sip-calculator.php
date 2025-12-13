@@ -3,14 +3,14 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Step-up SIP Calculator 2025 - Calculate SIP Returns with Annual Increment | Thiyagi.com</title>
-    <meta name="description" content="Step-up SIP calculator 2025 - calculate systematic investment plan returns with annual increments. Plan your mutual fund investments with step-up strategy.">
-    <meta name="keywords" content="step up sip calculator 2025, systematic investment plan calculator, sip return calculator, mutual fund calculator, sip with increment calculator">
+    <title>Step-up SIP Calculator 2026 - Calculate SIP Returns with Annual Increment | Thiyagi.com</title>
+    <meta name="description" content="Step-up SIP calculator 2026 - calculate systematic investment plan returns with annual increments. Plan your mutual fund investments with step-up strategy.">
+    <meta name="keywords" content="step up sip calculator 2026, systematic investment plan calculator, sip return calculator, mutual fund calculator, sip with increment calculator">
     <meta name="author" content="Thiyagi">
     <meta name="robots" content="index, follow">
     
     <!-- Open Graph Meta Tags -->
-    <meta property="og:title" content="Step-up SIP Calculator 2025 - Calculate SIP Returns with Annual Increment">
+    <meta property="og:title" content="Step-up SIP Calculator 2026 - Calculate SIP Returns with Annual Increment">
     <meta property="og:description" content="Calculate step-up SIP returns with annual increments and plan your systematic investment strategy.">
     <meta property="og:url" content="https://www.thiyagi.com/step-up-sip-calculator">
     <meta property="og:type" content="website">
@@ -18,7 +18,7 @@
     
     <!-- Twitter Card Meta Tags -->
     <meta name="twitter:card" content="summary_large_image">
-    <meta name="twitter:title" content="Step-up SIP Calculator 2025 - Calculate SIP Returns with Annual Increment">
+    <meta name="twitter:title" content="Step-up SIP Calculator 2026 - Calculate SIP Returns with Annual Increment">
     <meta name="twitter:description" content="Calculate your step-up SIP investment returns with annual increments.">
     <meta name="twitter:image" content="https://www.thiyagi.com/nt.png">
     
@@ -63,7 +63,7 @@
 {
   "@context": "https://schema.org",
   "@type": "WebApplication",
-  "name": "Step-up SIP Calculator 2025",
+  "name": "Step-up SIP Calculator 2026",
   "description": "Calculate step-up SIP returns with annual increments for systematic investment planning in mutual funds.",
   "url": "https://www.thiyagi.com/step-up-sip-calculator",
   "applicationCategory": "FinanceApplication",

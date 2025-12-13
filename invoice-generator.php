@@ -197,19 +197,19 @@ $total = $subtotal_after_discount + $total_tax + $shipping;
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Professional Invoice Generator 2025 - Multi-Currency, Tax & Discount Support</title>
-    <meta name="description" content="Advanced invoice generator with multiple currencies, automatic calculations, discount support, professional templates & PDF export. Free online invoicing tool for businesses in 2025.">
-    <meta name="keywords" content="invoice generator, bill creator, professional invoices, tax calculator, discount invoices, PDF invoices, business billing, invoice templates 2025">
+    <title>Professional Invoice Generator 2026 - Multi-Currency, Tax & Discount Support</title>
+    <meta name="description" content="Advanced invoice generator with multiple currencies, automatic calculations, discount support, professional templates & PDF export. Free online invoicing tool for businesses in 2026.">
+    <meta name="keywords" content="invoice generator, bill creator, professional invoices, tax calculator, discount invoices, PDF invoices, business billing, invoice templates 2026">
     
     <!-- Open Graph Meta Tags -->
-    <meta property="og:title" content="Professional Invoice Generator 2025 - Advanced Business Tool">
+    <meta property="og:title" content="Professional Invoice Generator 2026 - Advanced Business Tool">
     <meta property="og:description" content="Create professional invoices with multiple currencies, automatic tax calculations, and customizable templates.">
     <meta property="og:type" content="website">
     <meta property="og:url" content="https://thiyagi.com/invoice-generator.php">
     
     <!-- Twitter Card Meta Tags -->
     <meta name="twitter:card" content="summary_large_image">
-    <meta name="twitter:title" content="Professional Invoice Generator 2025">
+    <meta name="twitter:title" content="Professional Invoice Generator 2026">
     <meta name="twitter:description" content="Advanced invoice generator with multi-currency support and professional templates.">
     
     <!-- Structured Data -->

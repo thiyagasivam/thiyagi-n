@@ -1,8 +1,8 @@
 <?php include '../../../header.php'; ?>
 
-<title>Quebec Holidays 2025 | Jours Fériés Québec | Provincial & Federal Calendar</title>
-<meta name="description" content="Complete Quebec Holiday Calendar 2025. Jours fériés du Québec including provincial holidays, federal holidays, and Quebec-specific observances.">
-<meta name="keywords" content="Quebec holidays 2025, Quebec provincial holidays, Jours fériés Québec, Fête nationale Quebec, Saint-Jean-Baptiste, statutory holidays Quebec">
+<title>Quebec Holidays 2026 | Jours Fériés Québec | Provincial & Federal Calendar</title>
+<meta name="description" content="Complete Quebec Holiday Calendar 2026. Jours fériés du Québec including provincial holidays, federal holidays, and Quebec-specific observances.">
+<meta name="keywords" content="Quebec holidays 2026, Quebec provincial holidays, Jours fériés Québec, Fête nationale Quebec, Saint-Jean-Baptiste, statutory holidays Quebec">
 <link rel="canonical" href="https://<?= $_SERVER['HTTP_HOST'] . strtok($_SERVER['REQUEST_URI'], '?') ?>">
 
 <style>
@@ -28,7 +28,7 @@
             <span class="text-gray-500">/</span>
             <a href="../" class="text-blue-600 hover:text-blue-800">Canada</a>
             <span class="text-gray-500">/</span>
-            <span class="text-gray-900 font-medium">Quebec Holidays 2025</span>
+            <span class="text-gray-900 font-medium">Quebec Holidays 2026</span>
         </div>
     </div>
 </nav>
@@ -37,7 +37,7 @@
     <header class="mb-8">
         <h1 class="text-4xl font-bold text-center text-quebec-blue flex items-center justify-center gap-3">
             <i class="fas fa-maple-leaf text-quebec-blue"></i>
-            Quebec Holidays 2025
+            Quebec Holidays 2026
             <span class="text-2xl">/ Jours Fériés Québec</span>
             <i class="fas fa-calendar-days text-blue-500"></i>
         </h1>
@@ -48,57 +48,57 @@
         <div class="bg-white rounded-lg shadow-lg p-6 border-l-4 border-quebec-blue">
             <h2 class="text-2xl font-bold text-quebec-blue mb-4 flex items-center gap-2">
                 <i class="fas fa-flag"></i>
-                Quebec Provincial Holidays 2025 / Jours Fériés du Québec
+                Quebec Provincial Holidays 2026 / Jours Fériés du Québec
             </h2>
             <div class="grid md:grid-cols-2 gap-4">
                 <div class="bg-gray-50 p-4 rounded-lg">
                     <h3 class="font-semibold text-lg mb-2">New Year's Day / Jour de l'An</h3>
-                    <p class="text-gray-600">January 1, 2025 (Wednesday)</p>
+                    <p class="text-gray-600">January 1, 2026 (Wednesday)</p>
                     <p class="text-sm text-gray-500 mt-1">Federal statutory holiday</p>
                 </div>
                 <div class="bg-gray-50 p-4 rounded-lg">
                     <h3 class="font-semibold text-lg mb-2">Good Friday / Vendredi Saint</h3>
-                    <p class="text-gray-600">April 18, 2025 (Friday)</p>
+                    <p class="text-gray-600">April 18, 2026 (Friday)</p>
                     <p class="text-sm text-gray-500 mt-1">Federal statutory holiday</p>
                 </div>
                 <div class="bg-gray-50 p-4 rounded-lg">
                     <h3 class="font-semibold text-lg mb-2">Easter Monday / Lundi de Pâques</h3>
-                    <p class="text-gray-600">April 21, 2025 (Monday)</p>
+                    <p class="text-gray-600">April 21, 2026 (Monday)</p>
                     <p class="text-sm text-gray-500 mt-1">Quebec provincial holiday</p>
                 </div>
                 <div class="bg-gray-50 p-4 rounded-lg">
                     <h3 class="font-semibold text-lg mb-2">Patriots' Day / Journée nationale des patriotes</h3>
-                    <p class="text-gray-600">May 19, 2025 (Monday)</p>
+                    <p class="text-gray-600">May 19, 2026 (Monday)</p>
                     <p class="text-sm text-gray-500 mt-1">Quebec replaces Victoria Day</p>
                 </div>
                 <div class="bg-gray-50 p-4 rounded-lg">
                     <h3 class="font-semibold text-lg mb-2">Saint-Jean-Baptiste Day</h3>
-                    <p class="text-gray-600">June 24, 2025 (Tuesday)</p>
+                    <p class="text-gray-600">June 24, 2026 (Tuesday)</p>
                     <p class="text-sm text-gray-500 mt-1">Quebec National Holiday</p>
                 </div>
                 <div class="bg-gray-50 p-4 rounded-lg">
                     <h3 class="font-semibold text-lg mb-2">Canada Day / Fête du Canada</h3>
-                    <p class="text-gray-600">July 1, 2025 (Tuesday)</p>
+                    <p class="text-gray-600">July 1, 2026 (Tuesday)</p>
                     <p class="text-sm text-gray-500 mt-1">Federal statutory holiday</p>
                 </div>
                 <div class="bg-gray-50 p-4 rounded-lg">
                     <h3 class="font-semibold text-lg mb-2">Labour Day / Fête du Travail</h3>
-                    <p class="text-gray-600">September 1, 2025 (Monday)</p>
+                    <p class="text-gray-600">September 1, 2026 (Monday)</p>
                     <p class="text-sm text-gray-500 mt-1">Federal statutory holiday</p>
                 </div>
                 <div class="bg-gray-50 p-4 rounded-lg">
                     <h3 class="font-semibold text-lg mb-2">Thanksgiving / Action de grâce</h3>
-                    <p class="text-gray-600">October 13, 2025 (Monday)</p>
+                    <p class="text-gray-600">October 13, 2026 (Monday)</p>
                     <p class="text-sm text-gray-500 mt-1">Federal statutory holiday</p>
                 </div>
                 <div class="bg-gray-50 p-4 rounded-lg">
                     <h3 class="font-semibold text-lg mb-2">Christmas Day / Noël</h3>
-                    <p class="text-gray-600">December 25, 2025 (Thursday)</p>
+                    <p class="text-gray-600">December 25, 2026 (Thursday)</p>
                     <p class="text-sm text-gray-500 mt-1">Federal statutory holiday</p>
                 </div>
                 <div class="bg-gray-50 p-4 rounded-lg">
                     <h3 class="font-semibold text-lg mb-2">Boxing Day / Lendemain de Noël</h3>
-                    <p class="text-gray-600">December 26, 2025 (Friday)</p>
+                    <p class="text-gray-600">December 26, 2026 (Friday)</p>
                     <p class="text-sm text-gray-500 mt-1">Federal statutory holiday</p>
                 </div>
             </div>
@@ -136,7 +136,7 @@
         <div class="max-w-6xl mx-auto">
             <h2 class="text-3xl font-bold text-gray-800 mb-8 text-center flex items-center justify-center space-x-3">
                 <i class="fas fa-university text-green-600"></i>
-                <span>Bank Holidays 2025</span>
+                <span>Bank Holidays 2026</span>
                 <i class="fas fa-credit-card text-green-500"></i>
             </h2>
             
@@ -166,7 +166,7 @@
                                 </div>
                                 <div>
                                     <div class="font-semibold text-gray-800">New Year's Day</div>
-                                    <div class="text-sm text-gray-600">Wednesday, Jan 1, 2025</div>
+                                    <div class="text-sm text-gray-600">Wednesday, Jan 1, 2026</div>
                                 </div>
                             </div>
                             <span class="bg-red-100 text-red-700 px-3 py-1 rounded-full text-sm font-medium">
@@ -180,7 +180,7 @@
                                 </div>
                                 <div>
                                     <div class="font-semibold text-gray-800">Easter Monday</div>
-                                    <div class="text-sm text-gray-600">Monday, Apr 21, 2025</div>
+                                    <div class="text-sm text-gray-600">Monday, Apr 21, 2026</div>
                                 </div>
                             </div>
                             <span class="bg-red-100 text-red-700 px-3 py-1 rounded-full text-sm font-medium">
@@ -194,7 +194,7 @@
                                 </div>
                                 <div>
                                     <div class="font-semibold text-gray-800">Canada Day</div>
-                                    <div class="text-sm text-gray-600">Tuesday, Jul 1, 2025</div>
+                                    <div class="text-sm text-gray-600">Tuesday, Jul 1, 2026</div>
                                 </div>
                             </div>
                             <span class="bg-red-100 text-red-700 px-3 py-1 rounded-full text-sm font-medium">
@@ -208,7 +208,7 @@
                                 </div>
                                 <div>
                                     <div class="font-semibold text-gray-800">Labour Day</div>
-                                    <div class="text-sm text-gray-600">Monday, Sep 1, 2025</div>
+                                    <div class="text-sm text-gray-600">Monday, Sep 1, 2026</div>
                                 </div>
                             </div>
                             <span class="bg-red-100 text-red-700 px-3 py-1 rounded-full text-sm font-medium">
@@ -222,7 +222,7 @@
                                 </div>
                                 <div>
                                     <div class="font-semibold text-gray-800">Truth and Reconciliation Day</div>
-                                    <div class="text-sm text-gray-600">Tuesday, Sep 30, 2025</div>
+                                    <div class="text-sm text-gray-600">Tuesday, Sep 30, 2026</div>
                                 </div>
                             </div>
                             <span class="bg-red-100 text-red-700 px-3 py-1 rounded-full text-sm font-medium">
@@ -236,7 +236,7 @@
                                 </div>
                                 <div>
                                     <div class="font-semibold text-gray-800">Thanksgiving</div>
-                                    <div class="text-sm text-gray-600">Monday, Oct 13, 2025</div>
+                                    <div class="text-sm text-gray-600">Monday, Oct 13, 2026</div>
                                 </div>
                             </div>
                             <span class="bg-red-100 text-red-700 px-3 py-1 rounded-full text-sm font-medium">
@@ -250,7 +250,7 @@
                                 </div>
                                 <div>
                                     <div class="font-semibold text-gray-800">Christmas Day</div>
-                                    <div class="text-sm text-gray-600">Thursday, Dec 25, 2025</div>
+                                    <div class="text-sm text-gray-600">Thursday, Dec 25, 2026</div>
                                 </div>
                             </div>
                             <span class="bg-red-100 text-red-700 px-3 py-1 rounded-full text-sm font-medium">
@@ -264,7 +264,7 @@
                                 </div>
                                 <div>
                                     <div class="font-semibold text-gray-800">Boxing Day</div>
-                                    <div class="text-sm text-gray-600">Friday, Dec 26, 2025</div>
+                                    <div class="text-sm text-gray-600">Friday, Dec 26, 2026</div>
                                 </div>
                             </div>
                             <span class="bg-red-100 text-red-700 px-3 py-1 rounded-full text-sm font-medium">
@@ -288,7 +288,7 @@
                                 </div>
                                 <div>
                                     <div class="font-semibold text-gray-800">Patriots' Day</div>
-                                    <div class="text-sm text-gray-600">Monday, May 19, 2025</div>
+                                    <div class="text-sm text-gray-600">Monday, May 19, 2026</div>
                                 </div>
                             </div>
                             <span class="bg-red-100 text-red-700 px-3 py-1 rounded-full text-sm font-medium">
@@ -302,7 +302,7 @@
                                 </div>
                                 <div>
                                     <div class="font-semibold text-gray-800">Saint-Jean-Baptiste Day</div>
-                                    <div class="text-sm text-gray-600">Tuesday, Jun 24, 2025</div>
+                                    <div class="text-sm text-gray-600">Tuesday, Jun 24, 2026</div>
                                 </div>
                             </div>
                             <span class="bg-red-100 text-red-700 px-3 py-1 rounded-full text-sm font-medium">
@@ -341,7 +341,7 @@
             </h2>
             <div class="space-y-6">
                 <div class="bg-gray-50 rounded-lg p-6 hover:shadow-md transition-all">
-                    <h3 class="text-xl font-semibold text-gray-800 mb-3">What are the main statutory holidays in Quebec 2025?</h3>
+                    <h3 class="text-xl font-semibold text-gray-800 mb-3">What are the main statutory holidays in Quebec 2026?</h3>
                     <p class="text-gray-700 leading-relaxed">Quebec observes modified federal holidays plus unique provincial holidays: Patriots' Day (instead of Victoria Day) and Saint-Jean-Baptiste Day, plus Easter Monday instead of Good Friday in some cases.</p>
                 </div>
                 <div class="bg-gray-50 rounded-lg p-6 hover:shadow-md transition-all">

@@ -57,8 +57,8 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Free Google Cache Checker 2025 - View Cached Pages & Last Crawl Date</title>
-<meta name="description" content="Check if your webpage is cached by Google in 2025. Instantly view cached versions, last crawl date, and troubleshoot indexing issues - No login required!">
+    <title>Free Google Cache Checker 2026 - View Cached Pages & Last Crawl Date</title>
+<meta name="description" content="Check if your webpage is cached by Google in 2026. Instantly view cached versions, last crawl date, and troubleshoot indexing issues - No login required!">
     <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" rel="stylesheet">
 
 </head>

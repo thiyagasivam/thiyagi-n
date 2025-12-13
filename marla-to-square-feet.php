@@ -1,12 +1,12 @@
 <?php include 'header.php';?>
-<title>Marla to Square Feet Converter 2025 | Convert marla to sq ft | Free Tool</title>
-<meta name="description" content="Convert marla to square feet instantly with our 2025 accurate converter. Perfect marla to sq ft conversion with real-time calculations for Pakistani land measurement.">
-<meta name="keywords" content="marla to square feet 2025, marla sq ft converter, Pakistani land measurement 2025, property area calculator, land surveying tool Pakistan">
+<title>Marla to Square Feet Converter 2026 | Convert marla to sq ft | Free Tool</title>
+<meta name="description" content="Convert marla to square feet instantly with our 2026 accurate converter. Perfect marla to sq ft conversion with real-time calculations for Pakistani land measurement.">
+<meta name="keywords" content="marla to square feet 2026, marla sq ft converter, Pakistani land measurement 2026, property area calculator, land surveying tool Pakistan">
 <link rel="canonical" href="https://www.thiyagi.com/marla-to-square-feet">
 
 <!-- Open Graph Meta Tags -->
-<meta property="og:title" content="Marla to Square Feet Converter 2025 | Convert marla to sq ft | Free Tool">
-<meta property="og:description" content="Convert marla to square feet instantly with our 2025 accurate converter. Perfect marla to sq ft conversion with real-time calculations for Pakistani land measurement.">
+<meta property="og:title" content="Marla to Square Feet Converter 2026 | Convert marla to sq ft | Free Tool">
+<meta property="og:description" content="Convert marla to square feet instantly with our 2026 accurate converter. Perfect marla to sq ft conversion with real-time calculations for Pakistani land measurement.">
 <meta property="og:url" content="https://www.thiyagi.com/marla-to-square-feet">
 <meta property="og:type" content="website">
 <meta property="og:image" content="https://www.thiyagi.com/nt.png">
@@ -14,8 +14,8 @@
 
 <!-- Twitter Card Meta Tags -->
 <meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:title" content="Marla to Square Feet Converter 2025 | Convert marla to sq ft | Free Tool">
-<meta name="twitter:description" content="Convert marla to square feet instantly with our 2025 accurate converter. Perfect marla to sq ft conversion with real-time calculations for Pakistani land measurement.">
+<meta name="twitter:title" content="Marla to Square Feet Converter 2026 | Convert marla to sq ft | Free Tool">
+<meta name="twitter:description" content="Convert marla to square feet instantly with our 2026 accurate converter. Perfect marla to sq ft conversion with real-time calculations for Pakistani land measurement.">
 <meta name="twitter:image" content="https://www.thiyagi.com/nt.png">
 
 <!-- Additional SEO Meta Tags -->
@@ -39,7 +39,7 @@
           Marla to Square Feet Converter
         </h1>
         <p class="text-xl text-gray-600 mb-8 max-w-3xl mx-auto">
-          Convert marla to square feet instantly with our accurate 2025 calculator. 
+          Convert marla to square feet instantly with our accurate 2026 calculator. 
           Perfect for Pakistani land measurement, real estate, and property applications.
         </p>
       </div>
@@ -156,16 +156,16 @@
     <article class="bg-white rounded-xl shadow-lg p-8">
       <h2 class="text-2xl font-bold text-gray-800 mb-6 flex items-center gap-3">
         <i class="fas fa-info-circle text-indigo-600" aria-hidden="true"></i>
-        Marla to Square Feet Conversion 2025
+        Marla to Square Feet Conversion 2026
       </h2>
       <div class="prose max-w-none text-gray-600">
         <p class="mb-4">
-          Converting marla to square feet is essential for Pakistani land measurement, real estate, and property applications in 2025. 
+          Converting marla to square feet is essential for Pakistani land measurement, real estate, and property applications in 2026. 
           This conversion between traditional Pakistani land units and international units enables accurate communication 
           between local property dealers, international investors, and construction professionals.
         </p>
         <p class="mb-6">
-          Our 2025 converter provides instant and precise conversions from marla to square feet, essential for property dealers, 
+          Our 2026 converter provides instant and precise conversions from marla to square feet, essential for property dealers, 
           real estate agents, builders, and construction professionals working with Pakistani land measurements. 
           One marla equals exactly 272.25 square feet.
         </p>

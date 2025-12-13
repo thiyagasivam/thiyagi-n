@@ -1,19 +1,19 @@
 <?php include 'header.php'; ?>
 
 <!-- SEO Meta Tags -->
-<title>Gigapascal to PSI Converter 2025 - GPa to psi Calculator | Thiyagi</title>
-<meta name="description" content="Free online Gigapascal to PSI converter 2025. Convert GPa to psi and psi to GPa instantly with accurate pressure unit conversion.">
-<meta name="keywords" content="gigapascal to psi converter 2025, GPa to psi, pressure conversion, materials science, engineering pressure">
+<title>Gigapascal to PSI Converter 2026 - GPa to psi Calculator | Thiyagi</title>
+<meta name="description" content="Free online Gigapascal to PSI converter 2026. Convert GPa to psi and psi to GPa instantly with accurate pressure unit conversion.">
+<meta name="keywords" content="gigapascal to psi converter 2026, GPa to psi, pressure conversion, materials science, engineering pressure">
 <meta name="author" content="Thiyagi">
-<meta property="og:title" content="Gigapascal to PSI Converter 2025 - GPa to psi Calculator">
-<meta property="og:description" content="Free online Gigapascal to PSI converter 2025. Convert GPa to psi and psi to GPa instantly.">
+<meta property="og:title" content="Gigapascal to PSI Converter 2026 - GPa to psi Calculator">
+<meta property="og:description" content="Free online Gigapascal to PSI converter 2026. Convert GPa to psi and psi to GPa instantly.">
 <meta property="og:type" content="website">
 <meta property="og:url" content="https://www.thiyagi.com/gigapascal-to-psi.php">
 <meta property="og:image" content="https://www.thiyagi.com/nt.png">
 <meta property="og:site_name" content="Thiyagi">
 <meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:title" content="Gigapascal to PSI Converter 2025 - GPa to psi Calculator">
-<meta property="twitter:description" content="Free online Gigapascal to PSI converter 2025. Convert GPa to psi and psi to GPa instantly.">
+<meta name="twitter:title" content="Gigapascal to PSI Converter 2026 - GPa to psi Calculator">
+<meta property="twitter:description" content="Free online Gigapascal to PSI converter 2026. Convert GPa to psi and psi to GPa instantly.">
 <meta name="twitter:image" content="https://www.thiyagi.com/nt.png">
 
 <div class="min-h-screen bg-gradient-to-br from-purple-50 via-indigo-50 to-blue-50 py-12">

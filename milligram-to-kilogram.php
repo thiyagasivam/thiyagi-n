@@ -1,19 +1,19 @@
 <?php include 'header.php'; ?>
 
 <!-- SEO Meta Tags -->
-<title>Milligram to Kilogram Converter 2025 - Weight Calculator | Thiyagi</title>
-<meta name="description" content="Free online milligram to kilogram converter 2025. Convert mg to kg instantly with accurate weight conversion for scientific and medical calculations.">
-<meta name="keywords" content="milligram to kilogram converter 2025, mg to kg, weight converter, scientific calculator, medical calculator">
+<title>Milligram to Kilogram Converter 2026 - Weight Calculator | Thiyagi</title>
+<meta name="description" content="Free online milligram to kilogram converter 2026. Convert mg to kg instantly with accurate weight conversion for scientific and medical calculations.">
+<meta name="keywords" content="milligram to kilogram converter 2026, mg to kg, weight converter, scientific calculator, medical calculator">
 <meta name="author" content="Thiyagi">
-<meta property="og:title" content="Milligram to Kilogram Converter 2025 - Weight Calculator">
-<meta property="og:description" content="Free online milligram to kilogram converter 2025. Convert mg to kg instantly with accurate weight conversion.">
+<meta property="og:title" content="Milligram to Kilogram Converter 2026 - Weight Calculator">
+<meta property="og:description" content="Free online milligram to kilogram converter 2026. Convert mg to kg instantly with accurate weight conversion.">
 <meta property="og:type" content="website">
 <meta property="og:url" content="https://www.thiyagi.com/milligram-to-kilogram.php">
 <meta property="og:image" content="https://www.thiyagi.com/nt.png">
 <meta property="og:site_name" content="Thiyagi">
 <meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:title" content="Milligram to Kilogram Converter 2025 - Weight Calculator">
-<meta name="twitter:description" content="Free online milligram to kilogram converter 2025. Convert mg to kg instantly.">
+<meta name="twitter:title" content="Milligram to Kilogram Converter 2026 - Weight Calculator">
+<meta name="twitter:description" content="Free online milligram to kilogram converter 2026. Convert mg to kg instantly.">
 <meta name="twitter:image" content="https://www.thiyagi.com/nt.png">
 
 <div class="min-h-screen bg-gradient-to-br from-orange-50 via-red-50 to-pink-50 py-12">

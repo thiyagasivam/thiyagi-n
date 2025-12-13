@@ -196,21 +196,21 @@ $canonicalUrl = $protocol . "://" . $host . $uri;
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Advanced Age Calculator 2025 - Age, Zodiac, Birth Year & Date Difference Tool</title>
-    <meta name="description" content="Complete age calculator with zodiac signs, Chinese zodiac, next birthday countdown, birth year finder & date difference calculator. Advanced features with instant results in 2025.">
+    <title>Advanced Age Calculator 2026 - Age, Zodiac, Birth Year & Date Difference Tool</title>
+    <meta name="description" content="Complete age calculator with zodiac signs, Chinese zodiac, next birthday countdown, birth year finder & date difference calculator. Advanced features with instant results in 2026.">
     <meta name="keywords" content="age calculator, birth year calculator, zodiac sign calculator, Chinese zodiac, date difference calculator, birthday countdown, age in days hours minutes">
     
     <link rel="canonical" href="<?php echo htmlspecialchars($canonicalUrl); ?>" />
     
     <!-- Open Graph Meta Tags -->
-    <meta property="og:title" content="Advanced Age Calculator 2025 - Complete Age Analysis Tool">
+    <meta property="og:title" content="Advanced Age Calculator 2026 - Complete Age Analysis Tool">
     <meta property="og:description" content="Calculate age, find zodiac signs, birth year, and date differences with advanced features.">
     <meta property="og:type" content="website">
     <meta property="og:url" content="https://thiyagi.com/age-calculator.php">
     
     <!-- Twitter Card Meta Tags -->
     <meta name="twitter:card" content="summary_large_image">
-    <meta name="twitter:title" content="Advanced Age Calculator 2025">
+    <meta name="twitter:title" content="Advanced Age Calculator 2026">
     <meta name="twitter:description" content="Complete age calculator with zodiac signs and advanced date calculations.">
     
     <!-- Enhanced Structured Data -->

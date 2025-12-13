@@ -1,19 +1,19 @@
 <?php include 'header.php'; ?>
 
 <!-- SEO Meta Tags -->
-<title>US Gallon to Cubic Meter Converter 2025 - Volume Calculator | Thiyagi</title>
-<meta name="description" content="Free online US gallon to cubic meter converter 2025. Convert gal to m³ instantly with accurate volume conversion for engineering and industrial applications.">
-<meta name="keywords" content="us gallon to cubic meter converter 2025, gal to m³, volume converter, engineering calculator, industrial calculator">
+<title>US Gallon to Cubic Meter Converter 2026 - Volume Calculator | Thiyagi</title>
+<meta name="description" content="Free online US gallon to cubic meter converter 2026. Convert gal to m³ instantly with accurate volume conversion for engineering and industrial applications.">
+<meta name="keywords" content="us gallon to cubic meter converter 2026, gal to m³, volume converter, engineering calculator, industrial calculator">
 <meta name="author" content="Thiyagi">
-<meta property="og:title" content="US Gallon to Cubic Meter Converter 2025 - Volume Calculator">
-<meta property="og:description" content="Free online US gallon to cubic meter converter 2025. Convert gal to m³ instantly with accurate volume conversion.">
+<meta property="og:title" content="US Gallon to Cubic Meter Converter 2026 - Volume Calculator">
+<meta property="og:description" content="Free online US gallon to cubic meter converter 2026. Convert gal to m³ instantly with accurate volume conversion.">
 <meta property="og:type" content="website">
 <meta property="og:url" content="https://www.thiyagi.com/gallon-us-to-cubic-meter.php">
 <meta property="og:image" content="https://www.thiyagi.com/nt.png">
 <meta property="og:site_name" content="Thiyagi">
 <meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:title" content="US Gallon to Cubic Meter Converter 2025 - Volume Calculator">
-<meta name="twitter:description" content="Free online US gallon to cubic meter converter 2025. Convert gal to m³ instantly.">
+<meta name="twitter:title" content="US Gallon to Cubic Meter Converter 2026 - Volume Calculator">
+<meta name="twitter:description" content="Free online US gallon to cubic meter converter 2026. Convert gal to m³ instantly.">
 <meta name="twitter:image" content="https://www.thiyagi.com/nt.png">
 
 <div class="min-h-screen bg-gradient-to-br from-sky-50 via-blue-50 to-indigo-50 py-12">

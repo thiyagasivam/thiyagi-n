@@ -1,12 +1,12 @@
 <?php include 'header.php';?>
-<title>Foot to Meter Converter 2025 | FT to M | Free Tool</title>
-<meta name="description" content="Convert foot to meter instantly with our 2025 accurate converter. Perfect ft to m conversion with real-time calculations for construction and architecture.">
-<meta name="keywords" content="foot to meter 2025, foot meter converter, length unit conversion 2025, construction calculator, ft m conversion">
+<title>Foot to Meter Converter 2026 | FT to M | Free Tool</title>
+<meta name="description" content="Convert foot to meter instantly with our 2026 accurate converter. Perfect ft to m conversion with real-time calculations for construction and architecture.">
+<meta name="keywords" content="foot to meter 2026, foot meter converter, length unit conversion 2026, construction calculator, ft m conversion">
 <link rel="canonical" href="https://www.thiyagi.com/foot-to-meter">
 
 <!-- Open Graph Meta Tags -->
-<meta property="og:title" content="Foot to Meter Converter 2025 | FT to M | Free Tool">
-<meta property="og:description" content="Convert foot to meter instantly with our 2025 accurate converter. Perfect ft to m conversion with real-time calculations for construction and architecture.">
+<meta property="og:title" content="Foot to Meter Converter 2026 | FT to M | Free Tool">
+<meta property="og:description" content="Convert foot to meter instantly with our 2026 accurate converter. Perfect ft to m conversion with real-time calculations for construction and architecture.">
 <meta property="og:url" content="https://www.thiyagi.com/foot-to-meter">
 <meta property="og:type" content="website">
 <meta property="og:image" content="https://www.thiyagi.com/nt.png">
@@ -14,8 +14,8 @@
 
 <!-- Twitter Card Meta Tags -->
 <meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:title" content="Foot to Meter Converter 2025 | FT to M | Free Tool">
-<meta name="twitter:description" content="Convert foot to meter instantly with our 2025 accurate converter. Perfect ft to m conversion with real-time calculations for construction and architecture.">
+<meta name="twitter:title" content="Foot to Meter Converter 2026 | FT to M | Free Tool">
+<meta name="twitter:description" content="Convert foot to meter instantly with our 2026 accurate converter. Perfect ft to m conversion with real-time calculations for construction and architecture.">
 <meta name="twitter:image" content="https://www.thiyagi.com/nt.png">
 
 <!-- Additional SEO Meta Tags -->
@@ -39,7 +39,7 @@
           Foot to Meter Converter
         </h1>
         <p class="text-xl text-gray-600 mb-8 max-w-3xl mx-auto">
-          Convert feet to meters instantly with our accurate 2025 calculator. 
+          Convert feet to meters instantly with our accurate 2026 calculator. 
           Perfect for construction projects, architectural measurements, and imperial to metric conversions.
         </p>
       </div>
@@ -157,16 +157,16 @@
     <article class="bg-white rounded-xl shadow-lg p-8">
       <h2 class="text-2xl font-bold text-gray-800 mb-6 flex items-center gap-3">
         <i class="fas fa-info-circle text-gray-600" aria-hidden="true"></i>
-        Foot to Meter Conversion 2025
+        Foot to Meter Conversion 2026
       </h2>
       <div class="prose max-w-none text-gray-600">
         <p class="mb-4">
-          Converting feet to meters is essential for construction projects, architectural measurements, and imperial to metric conversions in 2025. 
+          Converting feet to meters is essential for construction projects, architectural measurements, and imperial to metric conversions in 2026. 
           This length unit conversion enables accurate calculations for contractors, 
           architects, and engineers working with international building standards and measurements.
         </p>
         <p class="mb-6">
-          Our 2025 converter provides instant and accurate conversions from feet to meters, essential for construction professionals, 
+          Our 2026 converter provides instant and accurate conversions from feet to meters, essential for construction professionals, 
           architects, engineers, and builders working with metric system requirements. 
           One foot equals approximately 0.3048 meters.
         </p>

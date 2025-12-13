@@ -1,19 +1,19 @@
 <?php include 'header.php'; ?>
 
 <!-- SEO Meta Tags -->
-<title>Mile to Foot US Survey Converter 2025 - mi to ft US Calculator | Thiyagi</title>
-<meta name="description" content="Free online Mile to Foot US Survey converter 2025. Convert mi to ft US and ft US to mi instantly with accurate surveying measurements.">
-<meta name="keywords" content="mile to foot us survey converter 2025, mi to ft US, surveying measurements, land survey, geodetic measurements">
+<title>Mile to Foot US Survey Converter 2026 - mi to ft US Calculator | Thiyagi</title>
+<meta name="description" content="Free online Mile to Foot US Survey converter 2026. Convert mi to ft US and ft US to mi instantly with accurate surveying measurements.">
+<meta name="keywords" content="mile to foot us survey converter 2026, mi to ft US, surveying measurements, land survey, geodetic measurements">
 <meta name="author" content="Thiyagi">
-<meta property="og:title" content="Mile to Foot US Survey Converter 2025 - mi to ft US Calculator">
-<meta property="og:description" content="Free online Mile to Foot US Survey converter 2025. Convert mi to ft US and ft US to mi instantly.">
+<meta property="og:title" content="Mile to Foot US Survey Converter 2026 - mi to ft US Calculator">
+<meta property="og:description" content="Free online Mile to Foot US Survey converter 2026. Convert mi to ft US and ft US to mi instantly.">
 <meta property="og:type" content="website">
 <meta property="og:url" content="https://www.thiyagi.com/mile-to-foot-us-survey.php">
 <meta property="og:image" content="https://www.thiyagi.com/nt.png">
 <meta property="og:site_name" content="Thiyagi">
 <meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:title" content="Mile to Foot US Survey Converter 2025 - mi to ft US Calculator">
-<meta name="twitter:description" content="Free online Mile to Foot US Survey converter 2025. Convert mi to ft US and ft US to mi instantly.">
+<meta name="twitter:title" content="Mile to Foot US Survey Converter 2026 - mi to ft US Calculator">
+<meta name="twitter:description" content="Free online Mile to Foot US Survey converter 2026. Convert mi to ft US and ft US to mi instantly.">
 <meta name="twitter:image" content="https://www.thiyagi.com/nt.png">
 
 <div class="min-h-screen bg-gradient-to-br from-green-50 via-emerald-50 to-teal-50 py-12">

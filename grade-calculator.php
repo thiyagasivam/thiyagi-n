@@ -26,8 +26,8 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Free Grade Calculator 2025 - Calculate GPA, Final Scores & Letter Grades</title>
-<meta name="description" content="Determine your current grade, required final exam score, and GPA instantly (2025). Perfect for students, teachers, and academic planning - No signup needed!">
+    <title>Free Grade Calculator 2026 - Calculate GPA, Final Scores & Letter Grades</title>
+<meta name="description" content="Determine your current grade, required final exam score, and GPA instantly (2026). Perfect for students, teachers, and academic planning - No signup needed!">
     <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" rel="stylesheet">
     <style>
         /* Additional custom styles */

@@ -1,12 +1,12 @@
 <?php include 'header.php';?>
-<title>Square Feet to Square Inch Converter 2025 | Sq Feet to Sq Inch | Free Tool</title>
-<meta name="description" content="Convert square feet to square inch instantly with our 2025 accurate converter. Perfect sq feet to sq inch conversion with real-time calculations for area measurement.">
-<meta name="keywords" content="square feet to square inch 2025, sq feet sq inch converter, area conversion 2025, precision area measurement calculator, engineering conversion">
+<title>Square Feet to Square Inch Converter 2026 | Sq Feet to Sq Inch | Free Tool</title>
+<meta name="description" content="Convert square feet to square inch instantly with our 2026 accurate converter. Perfect sq feet to sq inch conversion with real-time calculations for area measurement.">
+<meta name="keywords" content="square feet to square inch 2026, sq feet sq inch converter, area conversion 2026, precision area measurement calculator, engineering conversion">
 <link rel="canonical" href="https://www.thiyagi.com/square-feet-to-square-inch">
 
 <!-- Open Graph Meta Tags -->
-<meta property="og:title" content="Square Feet to Square Inch Converter 2025 | Sq Feet to Sq Inch | Free Tool">
-<meta property="og:description" content="Convert square feet to square inch instantly with our 2025 accurate converter. Perfect sq feet to sq inch conversion with real-time calculations for area measurement.">
+<meta property="og:title" content="Square Feet to Square Inch Converter 2026 | Sq Feet to Sq Inch | Free Tool">
+<meta property="og:description" content="Convert square feet to square inch instantly with our 2026 accurate converter. Perfect sq feet to sq inch conversion with real-time calculations for area measurement.">
 <meta property="og:url" content="https://www.thiyagi.com/square-feet-to-square-inch">
 <meta property="og:type" content="website">
 <meta property="og:image" content="https://www.thiyagi.com/nt.png">
@@ -14,8 +14,8 @@
 
 <!-- Twitter Card Meta Tags -->
 <meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:title" content="Square Feet to Square Inch Converter 2025 | Sq Feet to Sq Inch | Free Tool">
-<meta name="twitter:description" content="Convert square feet to square inch instantly with our 2025 accurate converter. Perfect sq feet to sq inch conversion with real-time calculations for area measurement.">
+<meta name="twitter:title" content="Square Feet to Square Inch Converter 2026 | Sq Feet to Sq Inch | Free Tool">
+<meta name="twitter:description" content="Convert square feet to square inch instantly with our 2026 accurate converter. Perfect sq feet to sq inch conversion with real-time calculations for area measurement.">
 <meta name="twitter:image" content="https://www.thiyagi.com/nt.png">
 
 <!-- Additional SEO Meta Tags -->
@@ -39,7 +39,7 @@
           Square Feet to Square Inch Converter
         </h1>
         <p class="text-xl text-gray-600 mb-8 max-w-3xl mx-auto">
-          Convert square feet to square inches instantly with our accurate 2025 calculator. 
+          Convert square feet to square inches instantly with our accurate 2026 calculator. 
           Perfect for engineering, manufacturing, and precision area measurement applications.
         </p>
       </div>
@@ -156,16 +156,16 @@
     <article class="bg-white rounded-xl shadow-lg p-8">
       <h2 class="text-2xl font-bold text-gray-800 mb-6 flex items-center gap-3">
         <i class="fas fa-info-circle text-indigo-600" aria-hidden="true"></i>
-        Square Feet to Square Inch Conversion 2025
+        Square Feet to Square Inch Conversion 2026
       </h2>
       <div class="prose max-w-none text-gray-600">
         <p class="mb-4">
-          Converting square feet to square inches is essential for engineering, manufacturing, and precision measurement applications in 2025. 
+          Converting square feet to square inches is essential for engineering, manufacturing, and precision measurement applications in 2026. 
           This conversion helps engineers, designers, and manufacturers work with area measurements 
           from larger scale to smaller precision imperial units for accurate calculations and specifications.
         </p>
         <p class="mb-6">
-          Our 2025 converter provides instant and precise conversions from square feet to square inches, essential for engineers, 
+          Our 2026 converter provides instant and precise conversions from square feet to square inches, essential for engineers, 
           manufacturers, designers, and technical professionals working with detailed area specifications. 
           One square foot equals exactly 144 square inches.
         </p>

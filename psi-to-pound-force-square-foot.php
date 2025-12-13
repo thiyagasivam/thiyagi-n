@@ -1,19 +1,19 @@
 <?php include 'header.php'; ?>
 
 <!-- SEO Meta Tags -->
-<title>PSI to Pound Force per Square Foot Converter 2025 - psi to lbf/ft² Calculator | Thiyagi</title>
-<meta name="description" content="Free online PSI to pound force per square foot converter 2025. Convert psi to lbf/ft² and lbf/ft² to psi instantly with accurate pressure conversion.">
-<meta name="keywords" content="psi to lbf/ft² converter 2025, psi to pound force square foot, pressure converter, imperial pressure units">
+<title>PSI to Pound Force per Square Foot Converter 2026 - psi to lbf/ft² Calculator | Thiyagi</title>
+<meta name="description" content="Free online PSI to pound force per square foot converter 2026. Convert psi to lbf/ft² and lbf/ft² to psi instantly with accurate pressure conversion.">
+<meta name="keywords" content="psi to lbf/ft² converter 2026, psi to pound force square foot, pressure converter, imperial pressure units">
 <meta name="author" content="Thiyagi">
-<meta property="og:title" content="PSI to Pound Force per Square Foot Converter 2025 - psi to lbf/ft² Calculator">
-<meta property="og:description" content="Free online PSI to pound force per square foot converter 2025. Convert psi to lbf/ft² and lbf/ft² to psi instantly.">
+<meta property="og:title" content="PSI to Pound Force per Square Foot Converter 2026 - psi to lbf/ft² Calculator">
+<meta property="og:description" content="Free online PSI to pound force per square foot converter 2026. Convert psi to lbf/ft² and lbf/ft² to psi instantly.">
 <meta property="og:type" content="website">
 <meta property="og:url" content="https://www.thiyagi.com/psi-to-pound-force-square-foot.php">
 <meta property="og:image" content="https://www.thiyagi.com/nt.png">
 <meta property="og:site_name" content="Thiyagi">
 <meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:title" content="PSI to Pound Force per Square Foot Converter 2025 - psi to lbf/ft² Calculator">
-<meta name="twitter:description" content="Free online PSI to pound force per square foot converter 2025. Convert psi to lbf/ft² and lbf/ft² to psi instantly.">
+<meta name="twitter:title" content="PSI to Pound Force per Square Foot Converter 2026 - psi to lbf/ft² Calculator">
+<meta name="twitter:description" content="Free online PSI to pound force per square foot converter 2026. Convert psi to lbf/ft² and lbf/ft² to psi instantly.">
 <meta name="twitter:image" content="https://www.thiyagi.com/nt.png">
 
 <div class="min-h-screen bg-gradient-to-br from-green-50 via-emerald-50 to-teal-50 py-12">

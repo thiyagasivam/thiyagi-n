@@ -1,19 +1,19 @@
 <?php include 'header.php'; ?>
 
 <!-- SEO Meta Tags -->
-<title>Centipoise to Pascal Second Converter 2025 - cP to Pa·s Calculator | Thiyagi</title>
-<meta name="description" content="Free online Centipoise to Pascal Second converter 2025. Convert cP to Pa·s and Pa·s to cP instantly with accurate viscosity conversion for fluids.">
-<meta name="keywords" content="centipoise to pascal second converter 2025, cP to Pa·s, viscosity converter, fluid dynamics, oil viscosity, chemical engineering">
+<title>Centipoise to Pascal Second Converter 2026 - cP to Pa·s Calculator | Thiyagi</title>
+<meta name="description" content="Free online Centipoise to Pascal Second converter 2026. Convert cP to Pa·s and Pa·s to cP instantly with accurate viscosity conversion for fluids.">
+<meta name="keywords" content="centipoise to pascal second converter 2026, cP to Pa·s, viscosity converter, fluid dynamics, oil viscosity, chemical engineering">
 <meta name="author" content="Thiyagi">
-<meta property="og:title" content="Centipoise to Pascal Second Converter 2025 - cP to Pa·s Calculator">
-<meta property="og:description" content="Free online Centipoise to Pascal Second converter 2025. Convert cP to Pa·s and Pa·s to cP instantly.">
+<meta property="og:title" content="Centipoise to Pascal Second Converter 2026 - cP to Pa·s Calculator">
+<meta property="og:description" content="Free online Centipoise to Pascal Second converter 2026. Convert cP to Pa·s and Pa·s to cP instantly.">
 <meta property="og:type" content="website">
 <meta property="og:url" content="https://www.thiyagi.com/centipoise-to-pascal-second.php">
 <meta property="og:image" content="https://www.thiyagi.com/nt.png">
 <meta property="og:site_name" content="Thiyagi">
 <meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:title" content="Centipoise to Pascal Second Converter 2025 - cP to Pa·s Calculator">
-<meta name="twitter:description" content="Free online Centipoise to Pascal Second converter 2025. Convert cP to Pa·s and Pa·s to cP instantly.">
+<meta name="twitter:title" content="Centipoise to Pascal Second Converter 2026 - cP to Pa·s Calculator">
+<meta name="twitter:description" content="Free online Centipoise to Pascal Second converter 2026. Convert cP to Pa·s and Pa·s to cP instantly.">
 <meta name="twitter:image" content="https://www.thiyagi.com/nt.png">
 
 <div class="min-h-screen bg-gradient-to-br from-amber-50 via-orange-50 to-red-50 py-12">

@@ -1,19 +1,19 @@
 <?php include 'header.php'; ?>
 
 <!-- SEO Meta Tags -->
-<title>Megawatt to Watt Converter 2025 - MW to W Calculator | Thiyagi</title>
-<meta name="description" content="Free online Megawatt to Watt converter 2025. Convert MW to W and W to MW instantly with accurate power conversion for electrical systems.">
-<meta name="keywords" content="megawatt to watt converter 2025, MW to W, power converter, electrical power, energy conversion, power plant capacity">
+<title>Megawatt to Watt Converter 2026 - MW to W Calculator | Thiyagi</title>
+<meta name="description" content="Free online Megawatt to Watt converter 2026. Convert MW to W and W to MW instantly with accurate power conversion for electrical systems.">
+<meta name="keywords" content="megawatt to watt converter 2026, MW to W, power converter, electrical power, energy conversion, power plant capacity">
 <meta name="author" content="Thiyagi">
-<meta property="og:title" content="Megawatt to Watt Converter 2025 - MW to W Calculator">
-<meta property="og:description" content="Free online Megawatt to Watt converter 2025. Convert MW to W and W to MW instantly.">
+<meta property="og:title" content="Megawatt to Watt Converter 2026 - MW to W Calculator">
+<meta property="og:description" content="Free online Megawatt to Watt converter 2026. Convert MW to W and W to MW instantly.">
 <meta property="og:type" content="website">
 <meta property="og:url" content="https://www.thiyagi.com/megawatt-to-watt.php">
 <meta property="og:image" content="https://www.thiyagi.com/nt.png">
 <meta property="og:site_name" content="Thiyagi">
 <meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:title" content="Megawatt to Watt Converter 2025 - MW to W Calculator">
-<meta name="twitter:description" content="Free online Megawatt to Watt converter 2025. Convert MW to W and W to MW instantly.">
+<meta name="twitter:title" content="Megawatt to Watt Converter 2026 - MW to W Calculator">
+<meta name="twitter:description" content="Free online Megawatt to Watt converter 2026. Convert MW to W and W to MW instantly.">
 <meta name="twitter:image" content="https://www.thiyagi.com/nt.png">
 
 <div class="min-h-screen bg-gradient-to-br from-yellow-50 via-orange-50 to-red-50 py-12">

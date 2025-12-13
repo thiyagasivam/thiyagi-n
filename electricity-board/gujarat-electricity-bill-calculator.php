@@ -10,7 +10,7 @@ $discos = [
     'TORRENT' => 'Torrent Power Limited'
 ];
 
-// Tariff slabs (2025 rates)
+// Tariff slabs (2026 rates)
 $slabs = [
     ['min' => 0, 'max' => 100, 'rate' => 0.00],
     ['min' => 101, 'max' => 200, 'rate' => 2.35],
@@ -58,8 +58,8 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Gujarat Electricity Bill Calculator 2025 – Torrent, UGVCL, DGVCL, MGVCL, PGVCL</title>
-    <meta name="description" content="Calculate your 2025 electricity bill for Torrent Power, UGVCL, DGVCL, and other Gujarat DISCOMs with our accurate online calculator.">
+    <title>Gujarat Electricity Bill Calculator 2026 – Torrent, UGVCL, DGVCL, MGVCL, PGVCL</title>
+    <meta name="description" content="Calculate your 2026 electricity bill for Torrent Power, UGVCL, DGVCL, and other Gujarat DISCOMs with our accurate online calculator.">
     <link rel="canonical" href="https://www.thiyagi.com/electricity-board/gujarat-electricity-bill-calculator" />
     
     <!-- Tailwind CSS -->
@@ -246,7 +246,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
             const discomText = discomSelect.options[discomSelect.selectedIndex].text;
             const total = document.getElementById('live-result').textContent;
             
-            const text = `My ${discomText} Electricity Bill Calculation: ${units} units = ${total} (2025 rates)`;
+            const text = `My ${discomText} Electricity Bill Calculation: ${units} units = ${total} (2026 rates)`;
             const url = window.location.href;
             
             if (navigator.share) {
@@ -288,7 +288,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
 <body class="bg-gray-50 dark:bg-gray-900 min-h-screen">
     <div class="container mx-auto px-4 py-8">
         <header class="text-center mb-8">
-            <h1 class="text-3xl font-bold text-primary-600 dark:text-primary-400 mb-2">Gujarat Electricity Bill Calculator 2025</h1>
+            <h1 class="text-3xl font-bold text-primary-600 dark:text-primary-400 mb-2">Gujarat Electricity Bill Calculator 2026</h1>
             <p class="text-gray-600 dark:text-gray-300">Calculate your bill for UGVCL, DGVCL, MGVCL, PGVCL & Torrent Power</p>
             
             <div class="flex justify-center mt-4 no-print">
@@ -417,7 +417,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
         
         <div class="max-w-2xl mx-auto mt-8 bg-white dark:bg-gray-800 rounded-lg shadow-md overflow-hidden">
             <div class="p-6">
-                <h2 class="text-xl font-semibold text-gray-800 dark:text-gray-200 mb-4">Current Gujarat Electricity Tariff Slabs (2025)</h2>
+                <h2 class="text-xl font-semibold text-gray-800 dark:text-gray-200 mb-4">Current Gujarat Electricity Tariff Slabs (2026)</h2>
                 <div class="overflow-x-auto">
                     <table class="min-w-full bg-white dark:bg-gray-700 border border-gray-200 dark:border-gray-600">
                         <thead class="bg-gray-50 dark:bg-gray-600">

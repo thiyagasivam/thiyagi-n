@@ -1,12 +1,12 @@
 <?php include 'header.php';?>
-<title>Meter to Inch Converter 2025 | M to IN | Free Tool</title>
-<meta name="description" content="Convert meter to inch instantly with our 2025 accurate converter. Perfect m to in conversion with real-time calculations for precision measurements.">
-<meta name="keywords" content="meter to inch 2025, meter inch converter, length unit conversion 2025, precision measurement calculator, m in conversion">
+<title>Meter to Inch Converter 2026 | M to IN | Free Tool</title>
+<meta name="description" content="Convert meter to inch instantly with our 2026 accurate converter. Perfect m to in conversion with real-time calculations for precision measurements.">
+<meta name="keywords" content="meter to inch 2026, meter inch converter, length unit conversion 2026, precision measurement calculator, m in conversion">
 <link rel="canonical" href="https://www.thiyagi.com/meter-to-inch">
 
 <!-- Open Graph Meta Tags -->
-<meta property="og:title" content="Meter to Inch Converter 2025 | M to IN | Free Tool">
-<meta property="og:description" content="Convert meter to inch instantly with our 2025 accurate converter. Perfect m to in conversion with real-time calculations for precision measurements.">
+<meta property="og:title" content="Meter to Inch Converter 2026 | M to IN | Free Tool">
+<meta property="og:description" content="Convert meter to inch instantly with our 2026 accurate converter. Perfect m to in conversion with real-time calculations for precision measurements.">
 <meta property="og:url" content="https://www.thiyagi.com/meter-to-inch">
 <meta property="og:type" content="website">
 <meta property="og:image" content="https://www.thiyagi.com/nt.png">
@@ -14,8 +14,8 @@
 
 <!-- Twitter Card Meta Tags -->
 <meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:title" content="Meter to Inch Converter 2025 | M to IN | Free Tool">
-<meta name="twitter:description" content="Convert meter to inch instantly with our 2025 accurate converter. Perfect m to in conversion with real-time calculations for precision measurements.">
+<meta name="twitter:title" content="Meter to Inch Converter 2026 | M to IN | Free Tool">
+<meta name="twitter:description" content="Convert meter to inch instantly with our 2026 accurate converter. Perfect m to in conversion with real-time calculations for precision measurements.">
 <meta name="twitter:image" content="https://www.thiyagi.com/nt.png">
 
 <!-- Additional SEO Meta Tags -->
@@ -39,7 +39,7 @@
           Meter to Inch Converter
         </h1>
         <p class="text-xl text-gray-600 mb-8 max-w-3xl mx-auto">
-          Convert meters to inches instantly with our accurate 2025 calculator. 
+          Convert meters to inches instantly with our accurate 2026 calculator. 
           Perfect for technical drawings, manufacturing specifications, and metric to imperial conversions.
         </p>
       </div>
@@ -157,16 +157,16 @@
     <article class="bg-white rounded-xl shadow-lg p-8">
       <h2 class="text-2xl font-bold text-gray-800 mb-6 flex items-center gap-3">
         <i class="fas fa-info-circle text-amber-600" aria-hidden="true"></i>
-        Meter to Inch Conversion 2025
+        Meter to Inch Conversion 2026
       </h2>
       <div class="prose max-w-none text-gray-600">
         <p class="mb-4">
-          Converting meters to inches is essential for technical drawings, manufacturing specifications, and metric to imperial conversions in 2025. 
+          Converting meters to inches is essential for technical drawings, manufacturing specifications, and metric to imperial conversions in 2026. 
           This length unit conversion enables accurate calculations for engineers, 
           designers, and technicians working with US manufacturing standards and imperial measurements.
         </p>
         <p class="mb-6">
-          Our 2025 converter provides instant and accurate conversions from meters to inches, essential for technical professionals, 
+          Our 2026 converter provides instant and accurate conversions from meters to inches, essential for technical professionals, 
           CAD designers, machinists, and engineers working with imperial specifications. 
           One meter equals approximately 39.3701 inches.
         </p>

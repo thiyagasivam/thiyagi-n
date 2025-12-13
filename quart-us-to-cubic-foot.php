@@ -1,19 +1,19 @@
 <?php include 'header.php'; ?>
 
 <!-- SEO Meta Tags -->
-<title>Quart US to Cubic Foot Converter 2025 - qt US to ft³ Calculator | Thiyagi</title>
-<meta name="description" content="Free online Quart US to Cubic Foot converter 2025. Convert qt US to ft³ and ft³ to qt US instantly with accurate volume conversion for cooking and construction.">
-<meta name="keywords" content="quart us to cubic foot converter 2025, qt US to ft³, volume converter, cooking measurements, construction volume, liquid measurements">
+<title>Quart US to Cubic Foot Converter 2026 - qt US to ft³ Calculator | Thiyagi</title>
+<meta name="description" content="Free online Quart US to Cubic Foot converter 2026. Convert qt US to ft³ and ft³ to qt US instantly with accurate volume conversion for cooking and construction.">
+<meta name="keywords" content="quart us to cubic foot converter 2026, qt US to ft³, volume converter, cooking measurements, construction volume, liquid measurements">
 <meta name="author" content="Thiyagi">
-<meta property="og:title" content="Quart US to Cubic Foot Converter 2025 - qt US to ft³ Calculator">
-<meta property="og:description" content="Free online Quart US to Cubic Foot converter 2025. Convert qt US to ft³ and ft³ to qt US instantly.">
+<meta property="og:title" content="Quart US to Cubic Foot Converter 2026 - qt US to ft³ Calculator">
+<meta property="og:description" content="Free online Quart US to Cubic Foot converter 2026. Convert qt US to ft³ and ft³ to qt US instantly.">
 <meta property="og:type" content="website">
 <meta property="og:url" content="https://www.thiyagi.com/quart-us-to-cubic-foot.php">
 <meta property="og:image" content="https://www.thiyagi.com/nt.png">
 <meta property="og:site_name" content="Thiyagi">
 <meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:title" content="Quart US to Cubic Foot Converter 2025 - qt US to ft³ Calculator">
-<meta name="twitter:description" content="Free online Quart US to Cubic Foot converter 2025. Convert qt US to ft³ and ft³ to qt US instantly.">
+<meta name="twitter:title" content="Quart US to Cubic Foot Converter 2026 - qt US to ft³ Calculator">
+<meta name="twitter:description" content="Free online Quart US to Cubic Foot converter 2026. Convert qt US to ft³ and ft³ to qt US instantly.">
 <meta name="twitter:image" content="https://www.thiyagi.com/nt.png">
 
 <div class="min-h-screen bg-gradient-to-br from-teal-50 via-cyan-50 to-blue-50 py-12">

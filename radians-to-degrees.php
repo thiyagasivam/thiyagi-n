@@ -1,19 +1,19 @@
 <?php include 'header.php'; ?>
 
 <!-- SEO Meta Tags -->
-<title>Radians to Degrees Converter 2025 - rad to deg Calculator | Thiyagi</title>
-<meta name="description" content="Free online Radians to Degrees converter 2025. Convert rad to deg and deg to rad instantly with accurate angle conversion.">
-<meta name="keywords" content="radians to degrees converter 2025, rad to deg, angle converter, trigonometry, mathematics conversion">
+<title>Radians to Degrees Converter 2026 - rad to deg Calculator | Thiyagi</title>
+<meta name="description" content="Free online Radians to Degrees converter 2026. Convert rad to deg and deg to rad instantly with accurate angle conversion.">
+<meta name="keywords" content="radians to degrees converter 2026, rad to deg, angle converter, trigonometry, mathematics conversion">
 <meta name="author" content="Thiyagi">
-<meta property="og:title" content="Radians to Degrees Converter 2025 - rad to deg Calculator">
-<meta property="og:description" content="Free online Radians to Degrees converter 2025. Convert rad to deg and deg to rad instantly.">
+<meta property="og:title" content="Radians to Degrees Converter 2026 - rad to deg Calculator">
+<meta property="og:description" content="Free online Radians to Degrees converter 2026. Convert rad to deg and deg to rad instantly.">
 <meta property="og:type" content="website">
 <meta property="og:url" content="https://www.thiyagi.com/radians-to-degrees.php">
 <meta property="og:image" content="https://www.thiyagi.com/nt.png">
 <meta property="og:site_name" content="Thiyagi">
 <meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:title" content="Radians to Degrees Converter 2025 - rad to deg Calculator">
-<meta property="twitter:description" content="Free online Radians to Degrees converter 2025. Convert rad to deg and deg to rad instantly.">
+<meta name="twitter:title" content="Radians to Degrees Converter 2026 - rad to deg Calculator">
+<meta property="twitter:description" content="Free online Radians to Degrees converter 2026. Convert rad to deg and deg to rad instantly.">
 <meta name="twitter:image" content="https://www.thiyagi.com/nt.png">
 
 <div class="min-h-screen bg-gradient-to-br from-purple-50 via-violet-50 to-indigo-50 py-12">

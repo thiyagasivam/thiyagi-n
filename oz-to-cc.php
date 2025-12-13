@@ -1,19 +1,19 @@
 <?php include 'header.php'; ?>
 
 <!-- SEO Meta Tags -->
-<title>Ounce to CC Converter 2025 - oz to cc Calculator | Thiyagi</title>
-<meta name="description" content="Free online Ounce to CC converter 2025. Convert fluid oz to cc and cc to fl oz instantly with accurate volume conversion for medical and cooking use.">
-<meta name="keywords" content="ounce to cc converter 2025, oz to cc, fluid ounce to cubic centimeter, medical dosage, volume converter">
+<title>Ounce to CC Converter 2026 - oz to cc Calculator | Thiyagi</title>
+<meta name="description" content="Free online Ounce to CC converter 2026. Convert fluid oz to cc and cc to fl oz instantly with accurate volume conversion for medical and cooking use.">
+<meta name="keywords" content="ounce to cc converter 2026, oz to cc, fluid ounce to cubic centimeter, medical dosage, volume converter">
 <meta name="author" content="Thiyagi">
-<meta property="og:title" content="Ounce to CC Converter 2025 - oz to cc Calculator">
-<meta property="og:description" content="Free online Ounce to CC converter 2025. Convert fluid oz to cc and cc to fl oz instantly.">
+<meta property="og:title" content="Ounce to CC Converter 2026 - oz to cc Calculator">
+<meta property="og:description" content="Free online Ounce to CC converter 2026. Convert fluid oz to cc and cc to fl oz instantly.">
 <meta property="og:type" content="website">
 <meta property="og:url" content="https://www.thiyagi.com/oz-to-cc.php">
 <meta property="og:image" content="https://www.thiyagi.com/nt.png">
 <meta property="og:site_name" content="Thiyagi">
 <meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:title" content="Ounce to CC Converter 2025 - oz to cc Calculator">
-<meta name="twitter:description" content="Free online Ounce to CC converter 2025. Convert fluid oz to cc and cc to fl oz instantly.">
+<meta name="twitter:title" content="Ounce to CC Converter 2026 - oz to cc Calculator">
+<meta name="twitter:description" content="Free online Ounce to CC converter 2026. Convert fluid oz to cc and cc to fl oz instantly.">
 <meta name="twitter:image" content="https://www.thiyagi.com/nt.png">
 
 <div class="min-h-screen bg-gradient-to-br from-teal-50 via-cyan-50 to-blue-50 py-12">

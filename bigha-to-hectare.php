@@ -1,12 +1,12 @@
 <?php include 'header.php';?>
-<title>Bigha to Hectare Converter 2025 | Bigha to Ha | Free Tool</title>
-<meta name="description" content="Convert bigha to hectare instantly with our 2025 accurate converter. Perfect bigha to hectare conversion with real-time calculations for Indian land measurement.">
-<meta name="keywords" content="bigha to hectare 2025, bigha hectare converter, Indian land conversion 2025, bigha hectare calculation, traditional to metric land">
+<title>Bigha to Hectare Converter 2026 | Bigha to Ha | Free Tool</title>
+<meta name="description" content="Convert bigha to hectare instantly with our 2026 accurate converter. Perfect bigha to hectare conversion with real-time calculations for Indian land measurement.">
+<meta name="keywords" content="bigha to hectare 2026, bigha hectare converter, Indian land conversion 2026, bigha hectare calculation, traditional to metric land">
 <link rel="canonical" href="https://www.thiyagi.com/bigha-to-hectare">
 
 <!-- Open Graph Meta Tags -->
-<meta property="og:title" content="Bigha to Hectare Converter 2025 | Bigha to Ha | Free Tool">
-<meta property="og:description" content="Convert bigha to hectare instantly with our 2025 accurate converter. Perfect bigha to hectare conversion with real-time calculations for Indian land measurement.">
+<meta property="og:title" content="Bigha to Hectare Converter 2026 | Bigha to Ha | Free Tool">
+<meta property="og:description" content="Convert bigha to hectare instantly with our 2026 accurate converter. Perfect bigha to hectare conversion with real-time calculations for Indian land measurement.">
 <meta property="og:url" content="https://www.thiyagi.com/bigha-to-hectare">
 <meta property="og:type" content="website">
 <meta property="og:image" content="https://www.thiyagi.com/nt.png">
@@ -14,8 +14,8 @@
 
 <!-- Twitter Card Meta Tags -->
 <meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:title" content="Bigha to Hectare Converter 2025 | Bigha to Ha | Free Tool">
-<meta name="twitter:description" content="Convert bigha to hectare instantly with our 2025 accurate converter. Perfect bigha to hectare conversion with real-time calculations for Indian land measurement.">
+<meta name="twitter:title" content="Bigha to Hectare Converter 2026 | Bigha to Ha | Free Tool">
+<meta name="twitter:description" content="Convert bigha to hectare instantly with our 2026 accurate converter. Perfect bigha to hectare conversion with real-time calculations for Indian land measurement.">
 <meta name="twitter:image" content="https://www.thiyagi.com/nt.png">
 
 <!-- Additional SEO Meta Tags -->
@@ -39,7 +39,7 @@
           Bigha to Hectare Converter
         </h1>
         <p class="text-xl text-gray-600 mb-8 max-w-3xl mx-auto">
-          Convert bigha to hectares instantly with our accurate 2025 calculator. 
+          Convert bigha to hectares instantly with our accurate 2026 calculator. 
           Perfect for Indian agricultural land measurement and documentation.
         </p>
       </div>
@@ -157,16 +157,16 @@
     <article class="bg-white rounded-xl shadow-lg p-8">
       <h2 class="text-2xl font-bold text-gray-800 mb-6 flex items-center gap-3">
         <i class="fas fa-info-circle text-violet-600" aria-hidden="true"></i>
-        Bigha to Hectare Conversion 2025
+        Bigha to Hectare Conversion 2026
       </h2>
       <div class="prose max-w-none text-gray-600">
         <p class="mb-4">
-          Converting bigha to hectares is essential for modernizing Indian agricultural documentation and land management in 2025. 
+          Converting bigha to hectares is essential for modernizing Indian agricultural documentation and land management in 2026. 
           This conversion facilitates integration between traditional Indian land measurement systems and international 
           metric standards, crucial for agricultural exports, land documentation, and modern farming techniques.
         </p>
         <p class="mb-6">
-          Our 2025 converter provides instant and accurate conversions from bigha to hectares, essential for farmers, 
+          Our 2026 converter provides instant and accurate conversions from bigha to hectares, essential for farmers, 
           agricultural businesses, land revenue officials, and agricultural consultants working with both traditional 
           and modern measurement systems. One bigha equals approximately 0.2529 hectares (varies by region).
         </p>

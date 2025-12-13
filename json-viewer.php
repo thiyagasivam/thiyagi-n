@@ -29,8 +29,8 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>JSON Viewer Tool 2025 - Free Online Visualizer & Formatter</title>
-<meta name="description" content="Free online JSON viewer for 2025. Visualize, format, and explore JSON data with our interactive tree viewer. Beautify and analyze complex JSON structures instantly.">
+    <title>JSON Viewer Tool 2026 - Free Online Visualizer & Formatter</title>
+<meta name="description" content="Free online JSON viewer for 2026. Visualize, format, and explore JSON data with our interactive tree viewer. Beautify and analyze complex JSON structures instantly.">
     <!-- Add Tailwind CSS CDN -->
     <script src="https://cdn.tailwindcss.com"></script>
     <style>

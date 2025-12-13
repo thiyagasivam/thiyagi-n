@@ -1,19 +1,19 @@
 <?php include 'header.php'; ?>
 
 <!-- SEO Meta Tags -->
-<title>Megabyte to Byte Converter 2025 - Data Storage Calculator | Thiyagi</title>
-<meta name="description" content="Free online megabyte to byte converter 2025. Convert MB to bytes instantly with accurate data conversion. Perfect for IT and storage calculations.">
-<meta name="keywords" content="megabyte to byte converter 2025, MB to bytes, data converter, storage calculator, IT converter">
+<title>Megabyte to Byte Converter 2026 - Data Storage Calculator | Thiyagi</title>
+<meta name="description" content="Free online megabyte to byte converter 2026. Convert MB to bytes instantly with accurate data conversion. Perfect for IT and storage calculations.">
+<meta name="keywords" content="megabyte to byte converter 2026, MB to bytes, data converter, storage calculator, IT converter">
 <meta name="author" content="Thiyagi">
-<meta property="og:title" content="Megabyte to Byte Converter 2025 - Data Storage Calculator">
-<meta property="og:description" content="Free online megabyte to byte converter 2025. Convert MB to bytes instantly with accurate data conversion.">
+<meta property="og:title" content="Megabyte to Byte Converter 2026 - Data Storage Calculator">
+<meta property="og:description" content="Free online megabyte to byte converter 2026. Convert MB to bytes instantly with accurate data conversion.">
 <meta property="og:type" content="website">
 <meta property="og:url" content="https://www.thiyagi.com/megabyte-to-byte.php">
 <meta property="og:image" content="https://www.thiyagi.com/nt.png">
 <meta property="og:site_name" content="Thiyagi">
 <meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:title" content="Megabyte to Byte Converter 2025 - Data Storage Calculator">
-<meta name="twitter:description" content="Free online megabyte to byte converter 2025. Convert MB to bytes instantly with accurate data conversion.">
+<meta name="twitter:title" content="Megabyte to Byte Converter 2026 - Data Storage Calculator">
+<meta name="twitter:description" content="Free online megabyte to byte converter 2026. Convert MB to bytes instantly with accurate data conversion.">
 <meta name="twitter:image" content="https://www.thiyagi.com/nt.png">
 
 <div class="min-h-screen bg-gradient-to-br from-cyan-50 via-blue-50 to-indigo-50 py-12">

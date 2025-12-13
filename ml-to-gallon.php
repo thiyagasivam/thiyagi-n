@@ -1,19 +1,19 @@
 <?php include 'header.php'; ?>
 
 <!-- SEO Meta Tags -->
-<title>ML to Gallon Converter 2025 - Milliliters to Gallons Calculator | Thiyagi</title>
-<meta name="description" content="Free online ML to gallon converter 2025. Convert milliliters to gallons instantly with accurate volume conversion. Perfect for cooking, chemistry, and liquid measurements.">
-<meta name="keywords" content="ml to gallon converter 2025, milliliters to gallons, volume converter, cooking converter, liquid measurement, chemistry calculator">
+<title>ML to Gallon Converter 2026 - Milliliters to Gallons Calculator | Thiyagi</title>
+<meta name="description" content="Free online ML to gallon converter 2026. Convert milliliters to gallons instantly with accurate volume conversion. Perfect for cooking, chemistry, and liquid measurements.">
+<meta name="keywords" content="ml to gallon converter 2026, milliliters to gallons, volume converter, cooking converter, liquid measurement, chemistry calculator">
 <meta name="author" content="Thiyagi">
-<meta property="og:title" content="ML to Gallon Converter 2025 - Milliliters to Gallons Calculator">
-<meta property="og:description" content="Free online ML to gallon converter 2025. Convert milliliters to gallons instantly with accurate volume conversion.">
+<meta property="og:title" content="ML to Gallon Converter 2026 - Milliliters to Gallons Calculator">
+<meta property="og:description" content="Free online ML to gallon converter 2026. Convert milliliters to gallons instantly with accurate volume conversion.">
 <meta property="og:type" content="website">
 <meta property="og:url" content="https://www.thiyagi.com/ml-to-gallon.php">
 <meta property="og:image" content="https://www.thiyagi.com/nt.png">
 <meta property="og:site_name" content="Thiyagi">
 <meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:title" content="ML to Gallon Converter 2025 - Milliliters to Gallons Calculator">
-<meta name="twitter:description" content="Free online ML to gallon converter 2025. Convert milliliters to gallons instantly with accurate volume conversion.">
+<meta name="twitter:title" content="ML to Gallon Converter 2026 - Milliliters to Gallons Calculator">
+<meta name="twitter:description" content="Free online ML to gallon converter 2026. Convert milliliters to gallons instantly with accurate volume conversion.">
 <meta name="twitter:image" content="https://www.thiyagi.com/nt.png">
 
 <div class="min-h-screen bg-gradient-to-br from-pink-50 via-rose-50 to-red-50 py-12">

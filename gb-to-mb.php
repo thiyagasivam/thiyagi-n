@@ -1,12 +1,12 @@
 <?php include 'header.php';?>
-<title>GB to MB Converter 2025 | Gigabytes to Megabytes Calculator | Free Tool</title>
-<meta name="description" content="Professional GB to MB converter 2025. Convert gigabytes to megabytes instantly with precision calculations. Perfect for file sizes, storage, and data management.">
-<meta name="keywords" content="gb to mb converter 2025, gigabytes to megabytes calculator, data converter, file size converter, storage calculator, digital storage conversion">
+<title>GB to MB Converter 2026 | Gigabytes to Megabytes Calculator | Free Tool</title>
+<meta name="description" content="Professional GB to MB converter 2026. Convert gigabytes to megabytes instantly with precision calculations. Perfect for file sizes, storage, and data management.">
+<meta name="keywords" content="gb to mb converter 2026, gigabytes to megabytes calculator, data converter, file size converter, storage calculator, digital storage conversion">
 <link rel="canonical" href="https://www.thiyagi.com/gb-to-mb">
 
 <!-- Open Graph Meta Tags -->
-<meta property="og:title" content="GB to MB Converter 2025 | Gigabytes to Megabytes Calculator | Free Tool">
-<meta property="og:description" content="Professional GB to MB converter 2025. Convert gigabytes to megabytes instantly with precision calculations. Perfect for file sizes, storage, and data management.">
+<meta property="og:title" content="GB to MB Converter 2026 | Gigabytes to Megabytes Calculator | Free Tool">
+<meta property="og:description" content="Professional GB to MB converter 2026. Convert gigabytes to megabytes instantly with precision calculations. Perfect for file sizes, storage, and data management.">
 <meta property="og:url" content="https://www.thiyagi.com/gb-to-mb">
 <meta property="og:type" content="website">
 <meta property="og:image" content="https://www.thiyagi.com/nt.png">
@@ -14,8 +14,8 @@
 
 <!-- Twitter Card Meta Tags -->
 <meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:title" content="GB to MB Converter 2025 | Gigabytes to Megabytes Calculator | Free Tool">
-<meta name="twitter:description" content="Professional GB to MB converter 2025. Convert gigabytes to megabytes instantly with precision calculations. Perfect for file sizes, storage, and data management.">
+<meta name="twitter:title" content="GB to MB Converter 2026 | Gigabytes to Megabytes Calculator | Free Tool">
+<meta name="twitter:description" content="Professional GB to MB converter 2026. Convert gigabytes to megabytes instantly with precision calculations. Perfect for file sizes, storage, and data management.">
 <meta name="twitter:image" content="https://www.thiyagi.com/nt.png">
 
 <!-- Additional SEO Meta Tags -->
@@ -102,7 +102,7 @@
         </div>
         <h1 class="text-4xl md:text-6xl font-bold text-gray-900 mb-6">
           GB to MB Converter
-          <span class="block text-2xl md:text-3xl text-purple-600 mt-2">Professional 2025</span>
+          <span class="block text-2xl md:text-3xl text-purple-600 mt-2">Professional 2026</span>
         </h1>
         <p class="text-xl text-gray-600 mb-8 max-w-4xl mx-auto leading-relaxed">
           Convert gigabytes to megabytes with professional-grade precision. Perfect for file management, 

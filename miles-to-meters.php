@@ -1,12 +1,12 @@
 <?php include 'header.php';?>
-<title>Miles to Meters Converter 2025 | Miles to Meters Calculator | Free Tool</title>
-<meta name="description" content="Professional Miles to Meters converter 2025. Convert miles to meters instantly with precision calculations. Perfect for athletics, navigation, and distance measurements.">
-<meta name="keywords" content="miles to meters converter 2025, miles meters calculator, distance converter, athletic measurements, navigation calculator, metric distance conversion">
+<title>Miles to Meters Converter 2026 | Miles to Meters Calculator | Free Tool</title>
+<meta name="description" content="Professional Miles to Meters converter 2026. Convert miles to meters instantly with precision calculations. Perfect for athletics, navigation, and distance measurements.">
+<meta name="keywords" content="miles to meters converter 2026, miles meters calculator, distance converter, athletic measurements, navigation calculator, metric distance conversion">
 <link rel="canonical" href="https://www.thiyagi.com/miles-to-meters">
 
 <!-- Open Graph Meta Tags -->
-<meta property="og:title" content="Miles to Meters Converter 2025 | Miles to Meters Calculator | Free Tool">
-<meta property="og:description" content="Professional Miles to Meters converter 2025. Convert miles to meters instantly with precision calculations. Perfect for athletics, navigation, and distance measurements.">
+<meta property="og:title" content="Miles to Meters Converter 2026 | Miles to Meters Calculator | Free Tool">
+<meta property="og:description" content="Professional Miles to Meters converter 2026. Convert miles to meters instantly with precision calculations. Perfect for athletics, navigation, and distance measurements.">
 <meta property="og:url" content="https://www.thiyagi.com/miles-to-meters">
 <meta property="og:type" content="website">
 <meta property="og:image" content="https://www.thiyagi.com/nt.png">
@@ -83,7 +83,7 @@
         </div>
         <h1 class="text-4xl md:text-6xl font-bold text-gray-900 mb-6">
           Miles to Meters Converter
-          <span class="block text-2xl md:text-3xl text-gray-600 mt-2">Professional 2025</span>
+          <span class="block text-2xl md:text-3xl text-gray-600 mt-2">Professional 2026</span>
         </h1>
         <p class="text-xl text-gray-600 mb-8 max-w-4xl mx-auto leading-relaxed">
           Convert miles to meters with professional-grade precision. Perfect for athletics, navigation, 

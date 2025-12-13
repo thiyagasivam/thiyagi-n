@@ -3,14 +3,14 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>TDEE Calculator 2025 - Total Daily Energy Expenditure Calculator | Thiyagi.com</title>
-    <meta name="description" content="TDEE calculator 2025 - calculate your Total Daily Energy Expenditure based on age, gender, weight, height, and activity level for weight loss and fitness goals.">
-    <meta name="keywords" content="tdee calculator 2025, total daily energy expenditure, bmr calculator, calorie calculator, weight loss calculator, fitness calculator">
+    <title>TDEE Calculator 2026 - Total Daily Energy Expenditure Calculator | Thiyagi.com</title>
+    <meta name="description" content="TDEE calculator 2026 - calculate your Total Daily Energy Expenditure based on age, gender, weight, height, and activity level for weight loss and fitness goals.">
+    <meta name="keywords" content="tdee calculator 2026, total daily energy expenditure, bmr calculator, calorie calculator, weight loss calculator, fitness calculator">
     <meta name="author" content="Thiyagi">
     <meta name="robots" content="index, follow">
     
     <!-- Open Graph Meta Tags -->
-    <meta property="og:title" content="TDEE Calculator 2025 - Total Daily Energy Expenditure Calculator">
+    <meta property="og:title" content="TDEE Calculator 2026 - Total Daily Energy Expenditure Calculator">
     <meta property="og:description" content="Calculate your Total Daily Energy Expenditure and daily calorie needs for weight loss, maintenance, or weight gain.">
     <meta property="og:url" content="https://www.thiyagi.com/tdee-calculator">
     <meta property="og:type" content="website">
@@ -18,7 +18,7 @@
     
     <!-- Twitter Card Meta Tags -->
     <meta name="twitter:card" content="summary_large_image">
-    <meta name="twitter:title" content="TDEE Calculator 2025 - Total Daily Energy Expenditure Calculator">
+    <meta name="twitter:title" content="TDEE Calculator 2026 - Total Daily Energy Expenditure Calculator">
     <meta name="twitter:description" content="Calculate your daily calorie needs based on your metabolism and activity level.">
     <meta name="twitter:image" content="https://www.thiyagi.com/nt.png">
     
@@ -70,7 +70,7 @@
 {
   "@context": "https://schema.org",
   "@type": "WebApplication",
-  "name": "TDEE Calculator 2025",
+  "name": "TDEE Calculator 2026",
   "description": "Calculate your Total Daily Energy Expenditure based on age, gender, weight, height, and activity level for fitness goals.",
   "url": "https://www.thiyagi.com/tdee-calculator",
   "applicationCategory": "HealthApplication",

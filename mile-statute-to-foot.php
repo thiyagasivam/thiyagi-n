@@ -1,19 +1,19 @@
 <?php include 'header.php'; ?>
 
 <!-- SEO Meta Tags -->
-<title>Mile (Statute) to Foot Converter 2025 - Length Calculator | Thiyagi</title>
-<meta name="description" content="Free online statute mile to foot converter 2025. Convert mi to ft instantly with accurate length conversion for surveying and construction.">
-<meta name="keywords" content="statute mile to foot converter 2025, mi to ft, length converter, surveying calculator, distance converter">
+<title>Mile (Statute) to Foot Converter 2026 - Length Calculator | Thiyagi</title>
+<meta name="description" content="Free online statute mile to foot converter 2026. Convert mi to ft instantly with accurate length conversion for surveying and construction.">
+<meta name="keywords" content="statute mile to foot converter 2026, mi to ft, length converter, surveying calculator, distance converter">
 <meta name="author" content="Thiyagi">
-<meta property="og:title" content="Mile (Statute) to Foot Converter 2025 - Length Calculator">
-<meta property="og:description" content="Free online statute mile to foot converter 2025. Convert mi to ft instantly with accurate length conversion.">
+<meta property="og:title" content="Mile (Statute) to Foot Converter 2026 - Length Calculator">
+<meta property="og:description" content="Free online statute mile to foot converter 2026. Convert mi to ft instantly with accurate length conversion.">
 <meta property="og:type" content="website">
 <meta property="og:url" content="https://www.thiyagi.com/mile-statute-to-foot.php">
 <meta property="og:image" content="https://www.thiyagi.com/nt.png">
 <meta property="og:site_name" content="Thiyagi">
 <meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:title" content="Mile (Statute) to Foot Converter 2025 - Length Calculator">
-<meta name="twitter:description" content="Free online statute mile to foot converter 2025. Convert mi to ft instantly.">
+<meta name="twitter:title" content="Mile (Statute) to Foot Converter 2026 - Length Calculator">
+<meta name="twitter:description" content="Free online statute mile to foot converter 2026. Convert mi to ft instantly.">
 <meta name="twitter:image" content="https://www.thiyagi.com/nt.png">
 
 <div class="min-h-screen bg-gradient-to-br from-blue-50 via-sky-50 to-cyan-50 py-12">

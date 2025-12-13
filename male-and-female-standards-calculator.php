@@ -3,23 +3,23 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Male and Female Standards Calculator 2025 - Health & Fitness Standards | Thiyagi.com</title>
-    <meta name="description" content="Calculate health and fitness standards for men and women in 2025. Get BMI, body fat percentage, ideal weight, and fitness standards with gender-specific guidelines and recommendations.">
-    <meta name="keywords" content="male female standards calculator 2025, health standards, fitness calculator, BMI calculator, body fat percentage, ideal weight calculator, gender-specific health, fitness standards">
+    <title>Male and Female Standards Calculator 2026 - Health & Fitness Standards | Thiyagi.com</title>
+    <meta name="description" content="Calculate health and fitness standards for men and women in 2026. Get BMI, body fat percentage, ideal weight, and fitness standards with gender-specific guidelines and recommendations.">
+    <meta name="keywords" content="male female standards calculator 2026, health standards, fitness calculator, BMI calculator, body fat percentage, ideal weight calculator, gender-specific health, fitness standards">
     <meta name="author" content="Thiyagi">
     <meta name="robots" content="index, follow">
     
     <!-- Open Graph Meta Tags -->
-    <meta property="og:title" content="Male and Female Standards Calculator 2025 - Health & Fitness Standards">
-    <meta property="og:description" content="Calculate health and fitness standards for men and women in 2025. Get BMI, body fat percentage, ideal weight, and fitness standards with gender-specific guidelines.">
+    <meta property="og:title" content="Male and Female Standards Calculator 2026 - Health & Fitness Standards">
+    <meta property="og:description" content="Calculate health and fitness standards for men and women in 2026. Get BMI, body fat percentage, ideal weight, and fitness standards with gender-specific guidelines.">
     <meta property="og:url" content="https://www.thiyagi.com/male-and-female-standards-calculator">
     <meta property="og:type" content="website">
     <meta property="og:image" content="https://www.thiyagi.com/nt.png">
     
     <!-- Twitter Card Meta Tags -->
     <meta name="twitter:card" content="summary_large_image">
-    <meta name="twitter:title" content="Male and Female Standards Calculator 2025 - Health & Fitness Standards">
-    <meta name="twitter:description" content="Calculate health and fitness standards for men and women in 2025. Get BMI, body fat percentage, ideal weight, and fitness standards with gender-specific guidelines.">
+    <meta name="twitter:title" content="Male and Female Standards Calculator 2026 - Health & Fitness Standards">
+    <meta name="twitter:description" content="Calculate health and fitness standards for men and women in 2026. Get BMI, body fat percentage, ideal weight, and fitness standards with gender-specific guidelines.">
     <meta name="twitter:image" content="https://www.thiyagi.com/nt.png">
     
     <!-- Canonical URL -->
@@ -65,7 +65,7 @@
 {
   "@context": "https://schema.org",
   "@type": "WebApplication",
-  "name": "Male and Female Standards Calculator 2025",
+  "name": "Male and Female Standards Calculator 2026",
   "description": "Calculate health and fitness standards for men and women including BMI, body fat percentage, muscle mass, and physical performance metrics with gender-specific guidelines.",
   "url": "https://www.thiyagi.com/male-and-female-standards-calculator",
   "applicationCategory": "HealthApplication",
@@ -856,7 +856,7 @@ Daily Calories: ${calories}
 
 Generated on ${date} by Thiyagi.com Male & Female Standards Calculator
 
-© 2025 Thiyagi.com - Keep track of your health journey!
+© 2026 Thiyagi.com - Keep track of your health journey!
 
 Disclaimer: These calculations are for informational purposes only. 
 Consult with healthcare professionals for personalized medical advice.`;
@@ -865,7 +865,7 @@ Consult with healthcare professionals for personalized medical advice.`;
                 const url = URL.createObjectURL(blob);
                 const a = document.createElement('a');
                 a.href = url;
-                a.download = `health-standards-${this.currentGender}-2025-${Date.now()}.txt`;
+                a.download = `health-standards-${this.currentGender}-2026-${Date.now()}.txt`;
                 a.click();
                 URL.revokeObjectURL(url);
             }

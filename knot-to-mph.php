@@ -4,9 +4,9 @@ include 'header.php';
 $header_content = ob_get_clean();
 
 // Insert title and meta tags into the head section
-$title = 'Knot to MPH Converter 2025 | Speed Conversion Tool | Free Calculator';
-$description = 'Convert knots to miles per hour instantly with our 2025 accurate speed converter. Perfect for aviation, marine navigation, and speed calculations.';
-$keywords = 'knot to mph converter 2025, speed conversion calculator, knots mph converter, aviation calculator, marine navigation';
+$title = 'Knot to MPH Converter 2026 | Speed Conversion Tool | Free Calculator';
+$description = 'Convert knots to miles per hour instantly with our 2026 accurate speed converter. Perfect for aviation, marine navigation, and speed calculations.';
+$keywords = 'knot to mph converter 2026, speed conversion calculator, knots mph converter, aviation calculator, marine navigation';
 $canonical = 'https://www.thiyagi.com/knot-to-mph';
 
 $meta_tags = '<title>' . htmlspecialchars($title) . '</title>' . "\n";

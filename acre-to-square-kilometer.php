@@ -1,19 +1,19 @@
 <?php include 'header.php'; ?>
 
 <!-- SEO Meta Tags -->
-<title>Acre to Square Kilometer Converter 2025 - ac to km² Calculator | Thiyagi</title>
-<meta name="description" content="Free online Acre to Square Kilometer converter 2025. Convert ac to km² and km² to ac instantly with accurate land area conversion for real estate.">
-<meta name="keywords" content="acre to square kilometer converter 2025, ac to km2, land area converter, real estate conversion, agricultural land, property measurement">
+<title>Acre to Square Kilometer Converter 2026 - ac to km² Calculator | Thiyagi</title>
+<meta name="description" content="Free online Acre to Square Kilometer converter 2026. Convert ac to km² and km² to ac instantly with accurate land area conversion for real estate.">
+<meta name="keywords" content="acre to square kilometer converter 2026, ac to km2, land area converter, real estate conversion, agricultural land, property measurement">
 <meta name="author" content="Thiyagi">
-<meta property="og:title" content="Acre to Square Kilometer Converter 2025 - ac to km² Calculator">
-<meta property="og:description" content="Free online Acre to Square Kilometer converter 2025. Convert ac to km² and km² to ac instantly.">
+<meta property="og:title" content="Acre to Square Kilometer Converter 2026 - ac to km² Calculator">
+<meta property="og:description" content="Free online Acre to Square Kilometer converter 2026. Convert ac to km² and km² to ac instantly.">
 <meta property="og:type" content="website">
 <meta property="og:url" content="https://www.thiyagi.com/acre-to-square-kilometer.php">
 <meta property="og:image" content="https://www.thiyagi.com/nt.png">
 <meta property="og:site_name" content="Thiyagi">
 <meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:title" content="Acre to Square Kilometer Converter 2025 - ac to km² Calculator">
-<meta name="twitter:description" content="Free online Acre to Square Kilometer converter 2025. Convert ac to km² and km² to ac instantly.">
+<meta name="twitter:title" content="Acre to Square Kilometer Converter 2026 - ac to km² Calculator">
+<meta name="twitter:description" content="Free online Acre to Square Kilometer converter 2026. Convert ac to km² and km² to ac instantly.">
 <meta name="twitter:image" content="https://www.thiyagi.com/nt.png">
 
 <div class="min-h-screen bg-gradient-to-br from-green-50 via-emerald-50 to-teal-50 py-12">

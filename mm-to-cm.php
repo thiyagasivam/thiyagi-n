@@ -1,12 +1,12 @@
 <?php include 'header.php';?>
-<title>Millimeter to Centimeter Converter 2025 | MM to CM | Free Tool</title>
-<meta name="description" content="Convert millimeter to centimeter instantly with our 2025 accurate converter. Perfect mm to cm conversion with real-time calculations for metric measurement.">
-<meta name="keywords" content="millimeter to centimeter 2025, mm cm converter, metric unit conversion 2025, precision measurement calculator, scientific conversion">
+<title>Millimeter to Centimeter Converter 2026 | MM to CM | Free Tool</title>
+<meta name="description" content="Convert millimeter to centimeter instantly with our 2026 accurate converter. Perfect mm to cm conversion with real-time calculations for metric measurement.">
+<meta name="keywords" content="millimeter to centimeter 2026, mm cm converter, metric unit conversion 2026, precision measurement calculator, scientific conversion">
 <link rel="canonical" href="https://www.thiyagi.com/mm-to-cm">
 
 <!-- Open Graph Meta Tags -->
-<meta property="og:title" content="Millimeter to Centimeter Converter 2025 | MM to CM | Free Tool">
-<meta property="og:description" content="Convert millimeter to centimeter instantly with our 2025 accurate converter. Perfect mm to cm conversion with real-time calculations for metric measurement.">
+<meta property="og:title" content="Millimeter to Centimeter Converter 2026 | MM to CM | Free Tool">
+<meta property="og:description" content="Convert millimeter to centimeter instantly with our 2026 accurate converter. Perfect mm to cm conversion with real-time calculations for metric measurement.">
 <meta property="og:url" content="https://www.thiyagi.com/mm-to-cm">
 <meta property="og:type" content="website">
 <meta property="og:image" content="https://www.thiyagi.com/nt.png">
@@ -14,8 +14,8 @@
 
 <!-- Twitter Card Meta Tags -->
 <meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:title" content="Millimeter to Centimeter Converter 2025 | MM to CM | Free Tool">
-<meta name="twitter:description" content="Convert millimeter to centimeter instantly with our 2025 accurate converter. Perfect mm to cm conversion with real-time calculations for metric measurement.">
+<meta name="twitter:title" content="Millimeter to Centimeter Converter 2026 | MM to CM | Free Tool">
+<meta name="twitter:description" content="Convert millimeter to centimeter instantly with our 2026 accurate converter. Perfect mm to cm conversion with real-time calculations for metric measurement.">
 <meta name="twitter:image" content="https://www.thiyagi.com/nt.png">
 
 <!-- Additional SEO Meta Tags -->
@@ -39,7 +39,7 @@
           Millimeter to Centimeter Converter
         </h1>
         <p class="text-xl text-gray-600 mb-8 max-w-3xl mx-auto">
-          Convert millimeters to centimeters instantly with our accurate 2025 calculator. 
+          Convert millimeters to centimeters instantly with our accurate 2026 calculator. 
           Perfect for scientific measurements, lab work, and metric calculations.
         </p>
       </div>
@@ -157,16 +157,16 @@
     <article class="bg-white rounded-xl shadow-lg p-8">
       <h2 class="text-2xl font-bold text-gray-800 mb-6 flex items-center gap-3">
         <i class="fas fa-info-circle text-emerald-600" aria-hidden="true"></i>
-        Millimeter to Centimeter Conversion 2025
+        Millimeter to Centimeter Conversion 2026
       </h2>
       <div class="prose max-w-none text-gray-600">
         <p class="mb-4">
-          Converting millimeters to centimeters is fundamental for scientific measurements, laboratory work, and metric calculations in 2025. 
+          Converting millimeters to centimeters is fundamental for scientific measurements, laboratory work, and metric calculations in 2026. 
           This conversion within the metric system enables precise communication between scientists, researchers, 
           and professionals working with accurate measurements and scientific documentation.
         </p>
         <p class="mb-6">
-          Our 2025 converter provides instant and accurate conversions from millimeters to centimeters, essential for laboratory technicians, 
+          Our 2026 converter provides instant and accurate conversions from millimeters to centimeters, essential for laboratory technicians, 
           scientists, researchers, and students working with metric measurements. 
           Ten millimeters equals exactly one centimeter.
         </p>

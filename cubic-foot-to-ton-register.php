@@ -1,19 +1,19 @@
 <?php include 'header.php'; ?>
 
 <!-- SEO Meta Tags -->
-<title>Cubic Foot to Ton Register Converter 2025 - ft³ to ton reg Calculator | Thiyagi</title>
-<meta name="description" content="Free online Cubic Foot to Ton Register converter 2025. Convert ft³ to ton reg and ton reg to ft³ instantly with accurate volume conversion.">
-<meta name="keywords" content="cubic foot to ton register converter 2025, ft³ to ton reg, volume converter, shipping measurement, cargo capacity">
+<title>Cubic Foot to Ton Register Converter 2026 - ft³ to ton reg Calculator | Thiyagi</title>
+<meta name="description" content="Free online Cubic Foot to Ton Register converter 2026. Convert ft³ to ton reg and ton reg to ft³ instantly with accurate volume conversion.">
+<meta name="keywords" content="cubic foot to ton register converter 2026, ft³ to ton reg, volume converter, shipping measurement, cargo capacity">
 <meta name="author" content="Thiyagi">
-<meta property="og:title" content="Cubic Foot to Ton Register Converter 2025 - ft³ to ton reg Calculator">
-<meta property="og:description" content="Free online Cubic Foot to Ton Register converter 2025. Convert ft³ to ton reg and ton reg to ft³ instantly.">
+<meta property="og:title" content="Cubic Foot to Ton Register Converter 2026 - ft³ to ton reg Calculator">
+<meta property="og:description" content="Free online Cubic Foot to Ton Register converter 2026. Convert ft³ to ton reg and ton reg to ft³ instantly.">
 <meta property="og:type" content="website">
 <meta property="og:url" content="https://www.thiyagi.com/cubic-foot-to-ton-register.php">
 <meta property="og:image" content="https://www.thiyagi.com/nt.png">
 <meta property="og:site_name" content="Thiyagi">
 <meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:title" content="Cubic Foot to Ton Register Converter 2025 - ft³ to ton reg Calculator">
-<meta property="twitter:description" content="Free online Cubic Foot to Ton Register converter 2025. Convert ft³ to ton reg and ton reg to ft³ instantly.">
+<meta name="twitter:title" content="Cubic Foot to Ton Register Converter 2026 - ft³ to ton reg Calculator">
+<meta property="twitter:description" content="Free online Cubic Foot to Ton Register converter 2026. Convert ft³ to ton reg and ton reg to ft³ instantly.">
 <meta name="twitter:image" content="https://www.thiyagi.com/nt.png">
 
 <div class="min-h-screen bg-gradient-to-br from-slate-50 via-gray-50 to-zinc-50 py-12">

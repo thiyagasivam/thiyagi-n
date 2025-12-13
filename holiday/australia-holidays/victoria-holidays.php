@@ -1,18 +1,18 @@
 <?php include '../../header.php'; ?>
 
-<title>Victoria Holidays 2025 | VIC Public Holiday Calendar | Melbourne Holidays</title>
-<meta name="description" content="Complete Victoria Holiday Calendar 2025. Find all VIC public holidays, Melbourne Cup Day, AFL Grand Final Friday, Labour Day, and state-specific observances for Melbourne and Victoria.">
-<meta name="keywords" content="Victoria holidays 2025, VIC public holidays, Melbourne holidays, Melbourne Cup Day, AFL Grand Final Friday, Labour Day Victoria">
+<title>Victoria Holidays 2026 | VIC Public Holiday Calendar | Melbourne Holidays</title>
+<meta name="description" content="Complete Victoria Holiday Calendar 2026. Find all VIC public holidays, Melbourne Cup Day, AFL Grand Final Friday, Labour Day, and state-specific observances for Melbourne and Victoria.">
+<meta name="keywords" content="Victoria holidays 2026, VIC public holidays, Melbourne holidays, Melbourne Cup Day, AFL Grand Final Friday, Labour Day Victoria">
 <meta name="author" content="Victoria Holiday Calendar">
 <meta name="robots" content="index, follow">
-<meta property="og:title" content="Victoria Holidays 2025 - Complete Calendar">
-<meta property="og:description" content="Complete Victoria Holiday Calendar 2025 with Melbourne Cup Day, AFL Grand Final Friday, and all public holidays.">
+<meta property="og:title" content="Victoria Holidays 2026 - Complete Calendar">
+<meta property="og:description" content="Complete Victoria Holiday Calendar 2026 with Melbourne Cup Day, AFL Grand Final Friday, and all public holidays.">
 <meta property="og:type" content="website">
 <meta property="og:url" content="https://<?= $_SERVER['HTTP_HOST'] . strtok($_SERVER['REQUEST_URI'], '?') ?>">
-<meta property="og:image" content="https://via.placeholder.com/1200x630/002654/FFFFFF?text=VIC+Holidays+2025">
+<meta property="og:image" content="https://via.placeholder.com/1200x630/002654/FFFFFF?text=VIC+Holidays+2026">
 <meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:title" content="Victoria Holidays 2025">
-<meta name="twitter:description" content="Complete Victoria Holiday Calendar 2025 with all public holidays and bank holidays.">
+<meta name="twitter:title" content="Victoria Holidays 2026">
+<meta name="twitter:description" content="Complete Victoria Holiday Calendar 2026 with all public holidays and bank holidays.">
 <link rel="canonical" href="https://<?= $_SERVER['HTTP_HOST'] . strtok($_SERVER['REQUEST_URI'], '?') ?>">
 <meta name="language" content="English">
 <meta name="geo.region" content="AU-VIC">
@@ -23,20 +23,20 @@
 {
   "@context": "https://schema.org",
   "@type": "WebPage",
-  "name": "Victoria Holidays 2025",
-  "description": "Complete Victoria Holiday Calendar 2025 with all public holidays, Melbourne Cup Day, AFL Grand Final Friday, and state-specific observances.",
+  "name": "Victoria Holidays 2026",
+  "description": "Complete Victoria Holiday Calendar 2026 with all public holidays, Melbourne Cup Day, AFL Grand Final Friday, and state-specific observances.",
   "url": "<?php echo 'https://' . $_SERVER['HTTP_HOST'] . $_SERVER['REQUEST_URI']; ?>",
   "mainEntity": {
     "@type": "Event",
-    "@id": "#vic-holidays-2025",
-    "name": "Victoria Public Holidays 2025",
-    "description": "Complete list of Victoria public holidays and bank holidays for 2025 including Melbourne Cup Day, AFL Grand Final Friday, Labour Day, and all state-specific observances for Melbourne and Victoria.",
-    "startDate": "2025-01-01",
-    "endDate": "2025-12-31",
+    "@id": "#vic-holidays-2026",
+    "name": "Victoria Public Holidays 2026",
+    "description": "Complete list of Victoria public holidays and bank holidays for 2026 including Melbourne Cup Day, AFL Grand Final Friday, Labour Day, and all state-specific observances for Melbourne and Victoria.",
+    "startDate": "2026-01-01",
+    "endDate": "2026-12-31",
     "eventStatus": "https://schema.org/EventScheduled",
     "image": {
       "@type": "ImageObject",
-      "url": "https://via.placeholder.com/1200x630/002654/FFFFFF?text=VIC+Holidays+2025",
+      "url": "https://via.placeholder.com/1200x630/002654/FFFFFF?text=VIC+Holidays+2026",
       "width": 1200,
       "height": 630
     },
@@ -95,7 +95,7 @@
       {
         "@type": "ListItem",
         "position": 4,
-        "name": "Victoria Holidays 2025",
+        "name": "Victoria Holidays 2026",
         "item": "https://<?= $_SERVER['HTTP_HOST'] . strtok($_SERVER['REQUEST_URI'], '?') ?>"
       }
     ]
@@ -104,7 +104,7 @@
     "@type": "Organization",
     "name": "Victoria Holiday Calendar"
   },
-  "datePublished": "2025-01-01",
+  "datePublished": "2026-01-01",
   "dateModified": "<?php echo date('Y-m-d'); ?>"
 }
 </script>
@@ -143,93 +143,93 @@
 </head>
 <body class="bg-gradient-to-br from-blue-50 to-indigo-100 min-h-screen">
     <?php
-    // Victoria Holidays 2025 Data
-    $holidays_2025 = [
-        '2025-01-01' => [
+    // Victoria Holidays 2026 Data
+    $holidays_2026 = [
+        '2026-01-01' => [
             'name' => 'New Year\'s Day',
             'type' => 'National Holiday',
             'description' => 'First day of the year',
             'icon' => 'fa-calendar-day',
             'bank_holiday' => true
         ],
-        '2025-01-26' => [
+        '2026-01-26' => [
             'name' => 'Australia Day',
             'type' => 'National Holiday',
             'description' => 'National day of Australia',
             'icon' => 'fa-flag',
             'bank_holiday' => true
         ],
-        '2025-01-27' => [
+        '2026-01-27' => [
             'name' => 'Australia Day (observed)',
             'type' => 'National Holiday',
             'description' => 'Observed on Monday',
             'icon' => 'fa-flag',
             'bank_holiday' => true
         ],
-        '2025-03-10' => [
+        '2026-03-10' => [
             'name' => 'Labour Day',
             'type' => 'VIC State Holiday',
             'description' => 'Second Monday in March - Victoria specific',
             'icon' => 'fa-hammer',
             'bank_holiday' => true
         ],
-        '2025-04-18' => [
+        '2026-04-18' => [
             'name' => 'Good Friday',
             'type' => 'National Holiday',
             'description' => 'Christian holy day',
             'icon' => 'fa-cross',
             'bank_holiday' => true
         ],
-        '2025-04-19' => [
+        '2026-04-19' => [
             'name' => 'Easter Saturday',
             'type' => 'VIC State Holiday',
             'description' => 'Day before Easter Sunday',
             'icon' => 'fa-egg',
             'bank_holiday' => true
         ],
-        '2025-04-21' => [
+        '2026-04-21' => [
             'name' => 'Easter Monday',
             'type' => 'National Holiday',
             'description' => 'Day after Easter Sunday',
             'icon' => 'fa-dove',
             'bank_holiday' => true
         ],
-        '2025-04-25' => [
+        '2026-04-25' => [
             'name' => 'ANZAC Day',
             'type' => 'National Holiday',
             'description' => 'Australian and New Zealand Army Corps Day',
             'icon' => 'fa-medal',
             'bank_holiday' => true
         ],
-        '2025-06-09' => [
+        '2026-06-09' => [
             'name' => 'Queen\'s Birthday',
             'type' => 'VIC State Holiday',
             'description' => 'Second Monday in June',
             'icon' => 'fa-crown',
             'bank_holiday' => true
         ],
-        '2025-09-26' => [
+        '2026-09-26' => [
             'name' => 'AFL Grand Final Friday',
             'type' => 'VIC State Holiday',
             'description' => 'Day before AFL Grand Final - VIC specific',
             'icon' => 'fa-football',
             'bank_holiday' => true
         ],
-        '2025-11-04' => [
+        '2026-11-04' => [
             'name' => 'Melbourne Cup Day',
             'type' => 'VIC State Holiday',
             'description' => 'First Tuesday in November - The race that stops a nation',
             'icon' => 'fa-horse',
             'bank_holiday' => true
         ],
-        '2025-12-25' => [
+        '2026-12-25' => [
             'name' => 'Christmas Day',
             'type' => 'National Holiday',
             'description' => 'Celebration of Jesus Christ\'s birth',
             'icon' => 'fa-tree',
             'bank_holiday' => true
         ],
-        '2025-12-26' => [
+        '2026-12-26' => [
             'name' => 'Boxing Day',
             'type' => 'National Holiday',
             'description' => 'Day after Christmas',
@@ -240,7 +240,7 @@
 
     // Get current month and year
     $current_month = isset($_GET['month']) ? (int)$_GET['month'] : (int)date('n');
-    $current_year = isset($_GET['year']) ? (int)$_GET['year'] : 2025;
+    $current_year = isset($_GET['year']) ? (int)$_GET['year'] : 2026;
 
     // Month names
     $month_names = [
@@ -287,7 +287,7 @@
                     </div>
                     <div>
                         <h1 class="text-4xl font-bold flex items-center space-x-3">
-                            <span>Victoria Holidays 2025</span>
+                            <span>Victoria Holidays 2026</span>
                             <i class="fas fa-horse text-2xl text-vic-gold animate-bounce"></i>
                         </h1>
                         <p class="text-lg opacity-90 flex items-center space-x-2">
@@ -307,7 +307,7 @@
                     </p>
                     <div class="mt-2 flex items-center space-x-2">
                         <i class="fas fa-gift text-vic-gold"></i>
-                        <span class="text-sm opacity-75"><?php echo count($holidays_2025); ?> Total Holidays</span>
+                        <span class="text-sm opacity-75"><?php echo count($holidays_2026); ?> Total Holidays</span>
                     </div>
                 </div>
             </div>
@@ -334,7 +334,7 @@
                 <li><i class="fas fa-chevron-right text-xs"></i></li>
                 <li><a href="/holiday/australia-holidays/" class="hover:text-blue-600 transition-colors">Australia</a></li>
                 <li><i class="fas fa-chevron-right text-xs"></i></li>
-                <li class="text-gray-800 font-medium">Victoria Holidays 2025</li>
+                <li class="text-gray-800 font-medium">Victoria Holidays 2026</li>
             </ol>
         </nav>
 
@@ -343,11 +343,11 @@
             <div class="max-w-4xl mx-auto text-center">
                 <h2 class="text-3xl font-bold text-gray-800 mb-4 flex items-center justify-center space-x-3">
                     <i class="fas fa-calendar-alt text-vic-navy"></i>
-                    <span>Complete Victoria Holiday Calendar 2025</span>
+                    <span>Complete Victoria Holiday Calendar 2026</span>
                     <i class="fas fa-star text-vic-gold"></i>
                 </h2>
                 <p class="text-lg text-gray-700 mb-4 leading-relaxed">
-                    Welcome to the comprehensive Victoria Holiday Calendar 2025! This detailed guide provides you with
+                    Welcome to the comprehensive Victoria Holiday Calendar 2026! This detailed guide provides you with
                     all public holidays, bank holidays, and VIC-specific observances including Melbourne Cup Day (the race that stops a nation),
                     AFL Grand Final Friday, and Labour Day (second Monday in March). Perfect for planning your year in Melbourne and across Victoria.
                 </p>
@@ -470,7 +470,7 @@
                 }
                 for ($day = 1; $day <= $days_in_month; $day++) {
                     $date = sprintf('%04d-%02d-%02d', $current_year, $current_month, $day);
-                    $is_holiday = isset($holidays_2025[$date]);
+                    $is_holiday = isset($holidays_2026[$date]);
                     $is_today = ($day == date('j') && $current_month == date('n') && $current_year == date('Y'));
                     
                     $cell_classes = 'p-4 border-r border-b min-h-[100px] relative';
@@ -484,7 +484,7 @@
                     echo '<div class="text-lg font-semibold text-gray-800 mb-2">' . $day . '</div>';
                     
                     if ($is_holiday) {
-                        $holiday = $holidays_2025[$date];
+                        $holiday = $holidays_2026[$date];
                         $is_state_holiday = ($holiday['type'] === 'VIC State Holiday');
                         $border_color = $is_state_holiday ? 'border-vic-navy' : 'border-red-500';
                         $bg_color = $is_state_holiday ? 'bg-blue-100' : 'bg-red-100';
@@ -536,7 +536,7 @@
                     <?php
                     $today = date('Y-m-d');
                     $upcoming_count = 0;
-                    foreach ($holidays_2025 as $date => $holiday) {
+                    foreach ($holidays_2026 as $date => $holiday) {
                         if ($date >= $today && $upcoming_count < 5) {
                             $days_until = (strtotime($date) - strtotime($today)) / (60 * 60 * 24);
                             echo '<div class="flex items-center justify-between p-4 bg-gradient-to-r from-blue-50 to-indigo-50 rounded-lg border border-blue-200 hover:shadow-md transition-all">';
@@ -564,19 +564,19 @@
                 </h3>
                 <div class="grid grid-cols-2 gap-4">
                     <div class="text-center p-4 bg-gradient-to-br from-blue-50 to-blue-100 rounded-lg border border-blue-200">
-                        <div class="text-3xl font-bold text-blue-600"><?php echo count($holidays_2025); ?></div>
+                        <div class="text-3xl font-bold text-blue-600"><?php echo count($holidays_2026); ?></div>
                         <div class="text-sm text-blue-700 font-medium">Total Holidays</div>
                     </div>
                     <div class="text-center p-4 bg-gradient-to-br from-red-50 to-red-100 rounded-lg border border-red-200">
-                        <div class="text-3xl font-bold text-red-600"><?php echo count(array_filter($holidays_2025, function($h) { return $h['type'] === 'National Holiday'; })); ?></div>
+                        <div class="text-3xl font-bold text-red-600"><?php echo count(array_filter($holidays_2026, function($h) { return $h['type'] === 'National Holiday'; })); ?></div>
                         <div class="text-sm text-red-700 font-medium">National Holidays</div>
                     </div>
                     <div class="text-center p-4 bg-gradient-to-br from-vic-navy/20 to-vic-navy/30 rounded-lg border border-vic-navy">
-                        <div class="text-3xl font-bold text-vic-navy"><?php echo count(array_filter($holidays_2025, function($h) { return $h['type'] === 'VIC State Holiday'; })); ?></div>
+                        <div class="text-3xl font-bold text-vic-navy"><?php echo count(array_filter($holidays_2026, function($h) { return $h['type'] === 'VIC State Holiday'; })); ?></div>
                         <div class="text-sm text-vic-navy font-medium">VIC State Holidays</div>
                     </div>
                     <div class="text-center p-4 bg-gradient-to-br from-green-50 to-green-100 rounded-lg border border-green-200">
-                        <div class="text-3xl font-bold text-green-600"><?php echo count(array_filter($holidays_2025, function($h) { return $h['bank_holiday'] === true; })); ?></div>
+                        <div class="text-3xl font-bold text-green-600"><?php echo count(array_filter($holidays_2026, function($h) { return $h['bank_holiday'] === true; })); ?></div>
                         <div class="text-sm text-green-700 font-medium">Bank Holidays</div>
                     </div>
                 </div>
@@ -614,7 +614,7 @@
             <div class="max-w-6xl mx-auto">
                 <h2 class="text-3xl font-bold text-gray-800 mb-8 text-center flex items-center justify-center space-x-3">
                     <i class="fas fa-university text-green-600"></i>
-                    <span>Bank Holidays 2025</span>
+                    <span>Bank Holidays 2026</span>
                     <i class="fas fa-credit-card text-green-500"></i>
                 </h2>
                 
@@ -638,7 +638,7 @@
                         </h3>
                         <div class="space-y-4">
                             <?php
-                            foreach ($holidays_2025 as $date => $holiday) {
+                            foreach ($holidays_2026 as $date => $holiday) {
                                 if ($holiday['type'] === 'National Holiday') {
                                     $formatted_date = date('l, M d, Y', strtotime($date));
                                     echo '<div class="flex items-center justify-between p-4 bg-blue-50 rounded-lg border border-blue-100 hover:shadow-md transition-all">';
@@ -667,7 +667,7 @@
                         </h3>
                         <div class="space-y-4">
                             <?php
-                            foreach ($holidays_2025 as $date => $holiday) {
+                            foreach ($holidays_2026 as $date => $holiday) {
                                 if ($holiday['type'] === 'VIC State Holiday') {
                                     $formatted_date = date('l, M d, Y', strtotime($date));
                                     echo '<div class="flex items-center justify-between p-4 bg-orange-50 rounded-lg border border-orange-100 hover:shadow-md transition-all">';
@@ -695,15 +695,15 @@
                 <!-- Bank Holiday Summary Stats -->
                 <div class="mt-8 grid grid-cols-1 md:grid-cols-3 gap-6">
                     <div class="bg-white rounded-lg p-6 text-center shadow-md border border-gray-200">
-                        <div class="text-3xl font-bold text-blue-600"><?php echo count($holidays_2025); ?></div>
+                        <div class="text-3xl font-bold text-blue-600"><?php echo count($holidays_2026); ?></div>
                         <div class="text-sm text-gray-600">Total Bank Holidays</div>
                     </div>
                     <div class="bg-white rounded-lg p-6 text-center shadow-md border border-gray-200">
-                        <div class="text-3xl font-bold text-green-600"><?php echo count(array_filter($holidays_2025, function($h) { return $h['type'] === 'National Holiday'; })); ?></div>
+                        <div class="text-3xl font-bold text-green-600"><?php echo count(array_filter($holidays_2026, function($h) { return $h['type'] === 'National Holiday'; })); ?></div>
                         <div class="text-sm text-gray-600">National Bank Holidays</div>
                     </div>
                     <div class="bg-white rounded-lg p-6 text-center shadow-md border border-gray-200">
-                        <div class="text-3xl font-bold text-orange-600"><?php echo count(array_filter($holidays_2025, function($h) { return $h['type'] === 'VIC State Holiday'; })); ?></div>
+                        <div class="text-3xl font-bold text-orange-600"><?php echo count(array_filter($holidays_2026, function($h) { return $h['type'] === 'VIC State Holiday'; })); ?></div>
                         <div class="text-sm text-gray-600">VIC State Bank Holidays</div>
                     </div>
                 </div>
@@ -725,7 +725,7 @@
                             <span>What is Melbourne Cup Day?</span>
                         </h3>
                         <p class="text-gray-700 leading-relaxed">
-                            Melbourne Cup Day (November 4, 2025) is a public holiday in Victoria for the famous horse race known as "the race that stops a nation." It's held on the first Tuesday in November and is unique to Victoria.
+                            Melbourne Cup Day (November 4, 2026) is a public holiday in Victoria for the famous horse race known as "the race that stops a nation." It's held on the first Tuesday in November and is unique to Victoria.
                         </p>
                     </div>
                     <div class="bg-gray-50 rounded-lg p-6 hover:shadow-md transition-all">
@@ -734,7 +734,7 @@
                             <span>What is AFL Grand Final Friday?</span>
                         </h3>
                         <p class="text-gray-700 leading-relaxed">
-                            AFL Grand Final Friday (September 26, 2025) is a public holiday in Victoria held on the day before the AFL Grand Final. It was introduced to create a long weekend and celebrate Victoria's sporting culture.
+                            AFL Grand Final Friday (September 26, 2026) is a public holiday in Victoria held on the day before the AFL Grand Final. It was introduced to create a long weekend and celebrate Victoria's sporting culture.
                         </p>
                     </div>
                     <div class="bg-gray-50 rounded-lg p-6 hover:shadow-md transition-all">
@@ -743,7 +743,7 @@
                             <span>When is Labour Day in Victoria?</span>
                         </h3>
                         <p class="text-gray-700 leading-relaxed">
-                            Victoria observes Labour Day on the second Monday in March (March 10, 2025), which is earlier than most other Australian states that observe it in October or May.
+                            Victoria observes Labour Day on the second Monday in March (March 10, 2026), which is earlier than most other Australian states that observe it in October or May.
                         </p>
                     </div>
                     <div class="bg-gray-50 rounded-lg p-6 hover:shadow-md transition-all">
@@ -788,7 +788,7 @@
                             <span>Does Victoria observe Easter Saturday?</span>
                         </h3>
                         <p class="text-gray-700 leading-relaxed">
-                            Yes, Easter Saturday (April 19, 2025) is a public holiday in Victoria, giving residents a four-day Easter long weekend from Friday to Monday inclusive.
+                            Yes, Easter Saturday (April 19, 2026) is a public holiday in Victoria, giving residents a four-day Easter long weekend from Friday to Monday inclusive.
                         </p>
                     </div>
                     <div class="bg-gray-50 rounded-lg p-6 hover:shadow-md transition-all">
@@ -815,7 +815,7 @@
     </main>
 
     <script>
-        const holidaysData = <?php echo json_encode($holidays_2025); ?>;
+        const holidaysData = <?php echo json_encode($holidays_2026); ?>;
 
         function searchHolidays() {
             const searchTerm = document.getElementById('searchInput').value.toLowerCase();
@@ -909,7 +909,7 @@
         }
 
         function downloadCalendar() {
-            const content = `Victoria Holidays 2025\n\n` +
+            const content = `Victoria Holidays 2026\n\n` +
                 Object.entries(holidaysData).map(([date, holiday]) => 
                     `${new Date(date).toDateString()}: ${holiday.name} - ${holiday.type}`
                 ).join('\n');
@@ -918,7 +918,7 @@
             const url = window.URL.createObjectURL(blob);
             const a = document.createElement('a');
             a.href = url;
-            a.download = 'victoria-holidays-2025.txt';
+            a.download = 'victoria-holidays-2026.txt';
             a.click();
             window.URL.revokeObjectURL(url);
         }
@@ -926,8 +926,8 @@
         function shareCalendar() {
             if (navigator.share) {
                 navigator.share({
-                    title: 'Victoria Holidays 2025',
-                    text: 'Check out the Victoria holiday calendar for 2025!',
+                    title: 'Victoria Holidays 2026',
+                    text: 'Check out the Victoria holiday calendar for 2026!',
                     url: window.location.href
                 });
             } else {

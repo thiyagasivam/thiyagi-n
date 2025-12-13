@@ -1,12 +1,12 @@
 <?php include 'header.php';?>
-<title>Square Meter to Acre Converter 2025 | Sqm to Acre | Free Tool</title>
-<meta name="description" content="Convert square meters to acres instantly with our 2025 accurate converter. Perfect sqm to acre conversion with real-time calculations for land measurement and agriculture.">
-<meta name="keywords" content="square meter to acre 2025, sqm to acre converter, meter to acre conversion, area conversion 2025, land measurement, agriculture calculator">
+<title>Square Meter to Acre Converter 2026 | Sqm to Acre | Free Tool</title>
+<meta name="description" content="Convert square meters to acres instantly with our 2026 accurate converter. Perfect sqm to acre conversion with real-time calculations for land measurement and agriculture.">
+<meta name="keywords" content="square meter to acre 2026, sqm to acre converter, meter to acre conversion, area conversion 2026, land measurement, agriculture calculator">
 <link rel="canonical" href="https://www.thiyagi.com/sqm-to-acre">
 
 <!-- Open Graph Meta Tags -->
-<meta property="og:title" content="Square Meter to Acre Converter 2025 | Sqm to Acre | Free Tool">
-<meta property="og:description" content="Convert square meters to acres instantly with our 2025 accurate converter. Perfect sqm to acre conversion with real-time calculations for land measurement and agriculture.">
+<meta property="og:title" content="Square Meter to Acre Converter 2026 | Sqm to Acre | Free Tool">
+<meta property="og:description" content="Convert square meters to acres instantly with our 2026 accurate converter. Perfect sqm to acre conversion with real-time calculations for land measurement and agriculture.">
 <meta property="og:url" content="https://www.thiyagi.com/sqm-to-acre">
 <meta property="og:type" content="website">
 <meta property="og:image" content="https://www.thiyagi.com/nt.png">
@@ -14,8 +14,8 @@
 
 <!-- Twitter Card Meta Tags -->
 <meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:title" content="Square Meter to Acre Converter 2025 | Sqm to Acre | Free Tool">
-<meta name="twitter:description" content="Convert square meters to acres instantly with our 2025 accurate converter. Perfect sqm to acre conversion with real-time calculations for land measurement and agriculture.">
+<meta name="twitter:title" content="Square Meter to Acre Converter 2026 | Sqm to Acre | Free Tool">
+<meta name="twitter:description" content="Convert square meters to acres instantly with our 2026 accurate converter. Perfect sqm to acre conversion with real-time calculations for land measurement and agriculture.">
 <meta name="twitter:image" content="https://www.thiyagi.com/nt.png">
 
 <!-- Additional SEO Meta Tags -->
@@ -39,7 +39,7 @@
           Square Meter to Acre Converter
         </h1>
         <p class="text-xl text-gray-600 mb-8 max-w-3xl mx-auto">
-          Convert square meters to acres instantly with our accurate 2025 calculator. 
+          Convert square meters to acres instantly with our accurate 2026 calculator. 
           Perfect for land measurement, agriculture, and large property calculations.
         </p>
       </div>
@@ -157,15 +157,15 @@
     <article class="bg-white rounded-xl shadow-lg p-8">
       <h2 class="text-2xl font-bold text-gray-800 mb-6 flex items-center gap-3">
         <i class="fas fa-info-circle text-green-600" aria-hidden="true"></i>
-        Square Meter to Acre Conversion 2025
+        Square Meter to Acre Conversion 2026
       </h2>
       <div class="prose max-w-none text-gray-600">
         <p class="mb-4">
-          Converting square meters to acres is essential for large land measurements, agriculture, and real estate in 2025. 
+          Converting square meters to acres is essential for large land measurements, agriculture, and real estate in 2026. 
           An acre is a unit commonly used in the United States and other countries for measuring large properties and farmland.
         </p>
         <p class="mb-6">
-          Our 2025 converter uses the exact conversion factor: 1 acre = 4,046.8564224 square meters. This ensures accurate conversions 
+          Our 2026 converter uses the exact conversion factor: 1 acre = 4,046.8564224 square meters. This ensures accurate conversions 
           for land developers, farmers, real estate professionals, and anyone dealing with large property measurements.
         </p>
       </div>

@@ -1,12 +1,12 @@
 <?php include 'header.php';?>
-<title>Liters to Gallons Converter 2025 | L to gal | Free Volume Tool</title>
-<meta name="description" content="Convert liters to gallons instantly with our 2025 accurate converter. Perfect L to gal conversion with real-time calculations for fuel and liquid measurements.">
-<meta name="keywords" content="liters to gallons converter 2025, L to gal converter, liters gallons conversion, volume converter 2025, fuel calculator, liquid measurement tools, metric to imperial conversion, gallon calculator online, automotive fuel converter, cooking measurements">
+<title>Liters to Gallons Converter 2026 | L to gal | Free Volume Tool</title>
+<meta name="description" content="Convert liters to gallons instantly with our 2026 accurate converter. Perfect L to gal conversion with real-time calculations for fuel and liquid measurements.">
+<meta name="keywords" content="liters to gallons converter 2026, L to gal converter, liters gallons conversion, volume converter 2026, fuel calculator, liquid measurement tools, metric to imperial conversion, gallon calculator online, automotive fuel converter, cooking measurements">
 <link rel="canonical" href="https://www.thiyagi.com/liters-to-gallons">
 
 <!-- Open Graph Meta Tags -->
-<meta property="og:title" content="Liters to Gallons Converter 2025 | L to gal | Free Volume Tool">
-<meta property="og:description" content="Convert liters to gallons instantly with our 2025 accurate converter. Perfect L to gal conversion with real-time calculations for fuel and liquid measurements.">
+<meta property="og:title" content="Liters to Gallons Converter 2026 | L to gal | Free Volume Tool">
+<meta property="og:description" content="Convert liters to gallons instantly with our 2026 accurate converter. Perfect L to gal conversion with real-time calculations for fuel and liquid measurements.">
 <meta property="og:url" content="https://www.thiyagi.com/liters-to-gallons">
 <meta property="og:type" content="website">
 <meta property="og:image" content="https://www.thiyagi.com/nt.png">
@@ -14,8 +14,8 @@
 
 <!-- Twitter Card Meta Tags -->
 <meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:title" content="Liters to Gallons Converter 2025 | L to gal | Free Volume Tool">
-<meta name="twitter:description" content="Convert liters to gallons instantly with our 2025 accurate converter. Perfect L to gal conversion with real-time calculations for fuel and liquid measurements.">
+<meta name="twitter:title" content="Liters to Gallons Converter 2026 | L to gal | Free Volume Tool">
+<meta name="twitter:description" content="Convert liters to gallons instantly with our 2026 accurate converter. Perfect L to gal conversion with real-time calculations for fuel and liquid measurements.">
 <meta name="twitter:image" content="https://www.thiyagi.com/nt.png">
 
 <!-- Additional SEO Meta Tags -->
@@ -47,7 +47,7 @@
   "@context": "https://schema.org",
   "@type": "WebApplication",
   "name": "Liters to Gallons Converter",
-  "description": "Convert liters to gallons instantly with our accurate 2025 calculator. Perfect L to gal conversion with real-time calculations for fuel and liquid measurements.",
+  "description": "Convert liters to gallons instantly with our accurate 2026 calculator. Perfect L to gal conversion with real-time calculations for fuel and liquid measurements.",
   "url": "https://www.thiyagi.com/liters-to-gallons",
   "applicationCategory": "UtilityApplication",
   "operatingSystem": "Web Browser",
@@ -188,7 +188,7 @@
           Liters to Gallons Converter
         </h1>
         <p class="text-xl text-gray-600 mb-8 max-w-3xl mx-auto">
-          Convert liters to gallons instantly with our accurate 2025 calculator. 
+          Convert liters to gallons instantly with our accurate 2026 calculator. 
           Perfect for fuel calculations, cooking measurements, and automotive applications.
         </p>
       </div>

@@ -1,7 +1,7 @@
 <?php include 'header.php'; ?>
-<title>Millimeters to Meters Converter 2025 | Length Conversion Tool | Free Calculator</title>
-<meta name="description" content="Convert millimeters to meters instantly with our 2025 accurate length converter. Perfect for engineering, construction, and precise measurements.">
-<meta name="keywords" content="millimeters to meters converter 2025, length conversion calculator, mm m converter, engineering measurements, construction calculator">
+<title>Millimeters to Meters Converter 2026 | Length Conversion Tool | Free Calculator</title>
+<meta name="description" content="Convert millimeters to meters instantly with our 2026 accurate length converter. Perfect for engineering, construction, and precise measurements.">
+<meta name="keywords" content="millimeters to meters converter 2026, length conversion calculator, mm m converter, engineering measurements, construction calculator">
 <link rel="canonical" href="https://www.thiyagi.com/mm-to-m">
 
 <div class="min-h-screen bg-gradient-to-br from-slate-50 to-gray-100 py-8">

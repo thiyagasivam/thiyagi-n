@@ -47,8 +47,8 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Free Domain Age Checker 2025 - Find Out How Old Any Website Is"</title>
-    <meta name="description" content="Instantly check the age and registration details of any domain with our free 2025 tool. Perfect for SEO analysis, competitor research, and domain investments!">
+    <title>Free Domain Age Checker 2026 - Find Out How Old Any Website Is"</title>
+    <meta name="description" content="Instantly check the age and registration details of any domain with our free 2026 tool. Perfect for SEO analysis, competitor research, and domain investments!">
     <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" rel="stylesheet">
 
 </head>

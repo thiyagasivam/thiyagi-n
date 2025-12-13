@@ -1,12 +1,12 @@
 <?php include 'header.php';?>
-<title>Mile to Feet Converter 2025 | Mile to Ft | Free Tool</title>
-<meta name="description" content="Convert mile to feet instantly with our 2025 accurate converter. Perfect mile to ft conversion with real-time calculations for surveying and measurements.">
-<meta name="keywords" content="mile to feet 2025, mile ft converter, imperial distance conversion 2025, surveying measurement calculator, mile feet conversion">
+<title>Mile to Feet Converter 2026 | Mile to Ft | Free Tool</title>
+<meta name="description" content="Convert mile to feet instantly with our 2026 accurate converter. Perfect mile to ft conversion with real-time calculations for surveying and measurements.">
+<meta name="keywords" content="mile to feet 2026, mile ft converter, imperial distance conversion 2026, surveying measurement calculator, mile feet conversion">
 <link rel="canonical" href="https://www.thiyagi.com/mile-to-feet">
 
 <!-- Open Graph Meta Tags -->
-<meta property="og:title" content="Mile to Feet Converter 2025 | Mile to Ft | Free Tool">
-<meta property="og:description" content="Convert mile to feet instantly with our 2025 accurate converter. Perfect mile to ft conversion with real-time calculations for surveying and measurements.">
+<meta property="og:title" content="Mile to Feet Converter 2026 | Mile to Ft | Free Tool">
+<meta property="og:description" content="Convert mile to feet instantly with our 2026 accurate converter. Perfect mile to ft conversion with real-time calculations for surveying and measurements.">
 <meta property="og:url" content="https://www.thiyagi.com/mile-to-feet">
 <meta property="og:type" content="website">
 <meta property="og:image" content="https://www.thiyagi.com/nt.png">
@@ -14,8 +14,8 @@
 
 <!-- Twitter Card Meta Tags -->
 <meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:title" content="Mile to Feet Converter 2025 | Mile to Ft | Free Tool">
-<meta name="twitter:description" content="Convert mile to feet instantly with our 2025 accurate converter. Perfect mile to ft conversion with real-time calculations for surveying and measurements.">
+<meta name="twitter:title" content="Mile to Feet Converter 2026 | Mile to Ft | Free Tool">
+<meta name="twitter:description" content="Convert mile to feet instantly with our 2026 accurate converter. Perfect mile to ft conversion with real-time calculations for surveying and measurements.">
 <meta name="twitter:image" content="https://www.thiyagi.com/nt.png">
 
 <!-- Additional SEO Meta Tags -->
@@ -39,7 +39,7 @@
           Mile to Feet Converter
         </h1>
         <p class="text-xl text-gray-600 mb-8 max-w-3xl mx-auto">
-          Convert miles to feet instantly with our accurate 2025 calculator. 
+          Convert miles to feet instantly with our accurate 2026 calculator. 
           Perfect for surveying, engineering, and imperial distance measurements.
         </p>
       </div>
@@ -157,16 +157,16 @@
     <article class="bg-white rounded-xl shadow-lg p-8">
       <h2 class="text-2xl font-bold text-gray-800 mb-6 flex items-center gap-3">
         <i class="fas fa-info-circle text-emerald-600" aria-hidden="true"></i>
-        Mile to Feet Conversion 2025
+        Mile to Feet Conversion 2026
       </h2>
       <div class="prose max-w-none text-gray-600">
         <p class="mb-4">
-          Converting miles to feet is essential for surveying, engineering, and detailed imperial distance measurements in 2025. 
+          Converting miles to feet is essential for surveying, engineering, and detailed imperial distance measurements in 2026. 
           This imperial unit conversion enables accurate calculations for surveyors, engineers, 
           and construction professionals working with large-scale measurements and property boundaries.
         </p>
         <p class="mb-6">
-          Our 2025 converter provides instant and accurate conversions from miles to feet, essential for surveyors, 
+          Our 2026 converter provides instant and accurate conversions from miles to feet, essential for surveyors, 
           engineers, construction professionals, and land measurement specialists working with imperial distances. 
           One mile equals exactly 5,280 feet.
         </p>

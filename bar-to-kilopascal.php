@@ -1,19 +1,19 @@
 <?php include 'header.php'; ?>
 
 <!-- SEO Meta Tags -->
-<title>Bar to Kilopascal Converter 2025 - bar to kPa Calculator | Thiyagi</title>
-<meta name="description" content="Free online Bar to Kilopascal converter 2025. Convert bar to kPa and kPa to bar instantly with accurate pressure conversion.">
-<meta name="keywords" content="bar to kilopascal converter 2025, bar to kPa, pressure converter, engineering units, metric pressure">
+<title>Bar to Kilopascal Converter 2026 - bar to kPa Calculator | Thiyagi</title>
+<meta name="description" content="Free online Bar to Kilopascal converter 2026. Convert bar to kPa and kPa to bar instantly with accurate pressure conversion.">
+<meta name="keywords" content="bar to kilopascal converter 2026, bar to kPa, pressure converter, engineering units, metric pressure">
 <meta name="author" content="Thiyagi">
-<meta property="og:title" content="Bar to Kilopascal Converter 2025 - bar to kPa Calculator">
-<meta property="og:description" content="Free online Bar to Kilopascal converter 2025. Convert bar to kPa and kPa to bar instantly.">
+<meta property="og:title" content="Bar to Kilopascal Converter 2026 - bar to kPa Calculator">
+<meta property="og:description" content="Free online Bar to Kilopascal converter 2026. Convert bar to kPa and kPa to bar instantly.">
 <meta property="og:type" content="website">
 <meta property="og:url" content="https://www.thiyagi.com/bar-to-kilopascal.php">
 <meta property="og:image" content="https://www.thiyagi.com/nt.png">
 <meta property="og:site_name" content="Thiyagi">
 <meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:title" content="Bar to Kilopascal Converter 2025 - bar to kPa Calculator">
-<meta property="twitter:description" content="Free online Bar to Kilopascal converter 2025. Convert bar to kPa and kPa to bar instantly.">
+<meta name="twitter:title" content="Bar to Kilopascal Converter 2026 - bar to kPa Calculator">
+<meta property="twitter:description" content="Free online Bar to Kilopascal converter 2026. Convert bar to kPa and kPa to bar instantly.">
 <meta name="twitter:image" content="https://www.thiyagi.com/nt.png">
 
 <div class="min-h-screen bg-gradient-to-br from-red-50 via-orange-50 to-yellow-50 py-12">

@@ -1,19 +1,19 @@
 <?php include 'header.php'; ?>
 
 <!-- SEO Meta Tags -->
-<title>Square Yards to Square Feet Converter 2025 - Area Calculator | Thiyagi</title>
-<meta name="description" content="Free online square yards to square feet converter 2025. Convert sq yd to sq ft instantly with accurate area conversion. Perfect for construction and real estate.">
-<meta name="keywords" content="square yards to square feet converter 2025, sq yd to sq ft, area converter, construction calculator, real estate converter">
+<title>Square Yards to Square Feet Converter 2026 - Area Calculator | Thiyagi</title>
+<meta name="description" content="Free online square yards to square feet converter 2026. Convert sq yd to sq ft instantly with accurate area conversion. Perfect for construction and real estate.">
+<meta name="keywords" content="square yards to square feet converter 2026, sq yd to sq ft, area converter, construction calculator, real estate converter">
 <meta name="author" content="Thiyagi">
-<meta property="og:title" content="Square Yards to Square Feet Converter 2025 - Area Calculator">
-<meta property="og:description" content="Free online square yards to square feet converter 2025. Convert sq yd to sq ft instantly with accurate area conversion.">
+<meta property="og:title" content="Square Yards to Square Feet Converter 2026 - Area Calculator">
+<meta property="og:description" content="Free online square yards to square feet converter 2026. Convert sq yd to sq ft instantly with accurate area conversion.">
 <meta property="og:type" content="website">
 <meta property="og:url" content="https://www.thiyagi.com/square-yards-to-square-feet.php">
 <meta property="og:image" content="https://www.thiyagi.com/nt.png">
 <meta property="og:site_name" content="Thiyagi">
 <meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:title" content="Square Yards to Square Feet Converter 2025 - Area Calculator">
-<meta name="twitter:description" content="Free online square yards to square feet converter 2025. Convert sq yd to sq ft instantly with accurate area conversion.">
+<meta name="twitter:title" content="Square Yards to Square Feet Converter 2026 - Area Calculator">
+<meta name="twitter:description" content="Free online square yards to square feet converter 2026. Convert sq yd to sq ft instantly with accurate area conversion.">
 <meta name="twitter:image" content="https://www.thiyagi.com/nt.png">
 
 <div class="min-h-screen bg-gradient-to-br from-amber-50 via-yellow-50 to-orange-50 py-12">

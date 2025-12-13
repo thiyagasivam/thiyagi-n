@@ -39,8 +39,8 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Free Domain to IP Converter 2025 - Find IP Address of Any Website</title>
-<meta name="description" content="Instantly convert any domain to its IP address with our free 2025 tool. Perfect for networking, troubleshooting, and website analysis—fast and accurate results!">
+    <title>Free Domain to IP Converter 2026 - Find IP Address of Any Website</title>
+<meta name="description" content="Instantly convert any domain to its IP address with our free 2026 tool. Perfect for networking, troubleshooting, and website analysis—fast and accurate results!">
 <link rel="canonical" href="https://www.thiyagi.com/domain-to-ip" />
     <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" rel="stylesheet">
 

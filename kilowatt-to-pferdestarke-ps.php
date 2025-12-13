@@ -1,19 +1,19 @@
 <?php include 'header.php'; ?>
 
 <!-- SEO Meta Tags -->
-<title>Kilowatt to Pferdestarke (PS) Converter 2025 - kW to PS Power Calculator | Thiyagi</title>
-<meta name="description" content="Free online Kilowatt to Pferdestarke converter 2025. Convert kW to PS and PS to kW instantly with accurate power conversion.">
-<meta name="keywords" content="kilowatt to pferdestarke converter 2025, kW to PS, power conversion, horsepower calculator">
+<title>Kilowatt to Pferdestarke (PS) Converter 2026 - kW to PS Power Calculator | Thiyagi</title>
+<meta name="description" content="Free online Kilowatt to Pferdestarke converter 2026. Convert kW to PS and PS to kW instantly with accurate power conversion.">
+<meta name="keywords" content="kilowatt to pferdestarke converter 2026, kW to PS, power conversion, horsepower calculator">
 <meta name="author" content="Thiyagi">
-<meta property="og:title" content="Kilowatt to Pferdestarke Converter 2025 - kW to PS Power Calculator">
-<meta property="og:description" content="Free online Kilowatt to Pferdestarke converter 2025. Convert kW to PS and PS to kW instantly.">
+<meta property="og:title" content="Kilowatt to Pferdestarke Converter 2026 - kW to PS Power Calculator">
+<meta property="og:description" content="Free online Kilowatt to Pferdestarke converter 2026. Convert kW to PS and PS to kW instantly.">
 <meta property="og:type" content="website">
 <meta property="og:url" content="https://www.thiyagi.com/kilowatt-to-pferdestarke-ps.php">
 <meta property="og:image" content="https://www.thiyagi.com/nt.png">
 <meta property="og:site_name" content="Thiyagi">
 <meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:title" content="Kilowatt to Pferdestarke Converter 2025 - kW to PS Power Calculator">
-<meta property="twitter:description" content="Free online Kilowatt to Pferdestarke converter 2025. Convert kW to PS and PS to kW instantly.">
+<meta name="twitter:title" content="Kilowatt to Pferdestarke Converter 2026 - kW to PS Power Calculator">
+<meta property="twitter:description" content="Free online Kilowatt to Pferdestarke converter 2026. Convert kW to PS and PS to kW instantly.">
 <meta name="twitter:image" content="https://www.thiyagi.com/nt.png">
 
 <div class="min-h-screen bg-gradient-to-br from-red-50 via-orange-50 to-yellow-50 py-12">

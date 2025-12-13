@@ -3,10 +3,10 @@
 <?php include 'breadcrumb-schema.php';?>
 <?php
 /**
- * Odisha Electricity Bill Calculator (2025)
+ * Odisha Electricity Bill Calculator (2026)
  * Single-file PHP solution with Tailwind CSS UI
  */
-// Define tariff slabs (2025 rates)
+// Define tariff slabs (2026 rates)
 $tariff_slabs = [
     ['min' => 1, 'max' => 100, 'rate' => 0.00],
     ['min' => 101, 'max' => 200, 'rate' => 2.35],
@@ -51,8 +51,8 @@ if ($units > 0) {
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Odisha Electricity Bill Calculator 2025 - Odisha Power Distribution</title>
-    <meta name="description" content="Calculate your Odisha electricity bill with the latest 2025 tariff rates for TPCODL, NESCO, and WESCO DISCOMs.">
+    <title>Odisha Electricity Bill Calculator 2026 - Odisha Power Distribution</title>
+    <meta name="description" content="Calculate your Odisha electricity bill with the latest 2026 tariff rates for TPCODL, NESCO, and WESCO DISCOMs.">
     <link rel="canonical" href="https://www.thiyagi.com/electricity-board/odisha-electricity-bill-calculator" />
 
     <script src="https://cdn.tailwindcss.com"></script>
@@ -187,7 +187,7 @@ if ($units > 0) {
 <body class="bg-gray-100">
     <div class="max-w-4xl mx-auto px-4 py-8">
         <header class="text-center mb-10">
-            <h1 class="text-3xl font-bold text-green-800 mb-2">Odisha Electricity Bill Calculator 2025</h1>
+            <h1 class="text-3xl font-bold text-green-800 mb-2">Odisha Electricity Bill Calculator 2026</h1>
             <p class="text-gray-600">Calculate your Odisha power bill with latest tariff rates</p>
         </header>
         

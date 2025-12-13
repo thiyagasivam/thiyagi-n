@@ -3,14 +3,14 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Hair Growth Calculator 2025 - Estimate Hair Length & Growth Timeline | Thiyagi.com</title>
-    <meta name="description" content="Hair growth calculator 2025 - estimate how long it takes to grow hair to desired length. Calculate hair growth timeline with personalized factors and styling tips.">
-    <meta name="keywords" content="hair growth calculator 2025, hair length calculator, how fast does hair grow, hair growth timeline, hair length estimator">
+    <title>Hair Growth Calculator 2026 - Estimate Hair Length & Growth Timeline | Thiyagi.com</title>
+    <meta name="description" content="Hair growth calculator 2026 - estimate how long it takes to grow hair to desired length. Calculate hair growth timeline with personalized factors and styling tips.">
+    <meta name="keywords" content="hair growth calculator 2026, hair length calculator, how fast does hair grow, hair growth timeline, hair length estimator">
     <meta name="author" content="Thiyagi">
     <meta name="robots" content="index, follow">
     
     <!-- Open Graph Meta Tags -->
-    <meta property="og:title" content="Hair Growth Calculator 2025 - Estimate Hair Length & Growth Timeline">
+    <meta property="og:title" content="Hair Growth Calculator 2026 - Estimate Hair Length & Growth Timeline">
     <meta property="og:description" content="Calculate how long it takes to grow hair to your desired length with personalized growth factors and timeline.">
     <meta property="og:url" content="https://www.thiyagi.com/hair-growth-calculator">
     <meta property="og:type" content="website">
@@ -18,7 +18,7 @@
     
     <!-- Twitter Card Meta Tags -->
     <meta name="twitter:card" content="summary_large_image">
-    <meta name="twitter:title" content="Hair Growth Calculator 2025 - Estimate Hair Length & Growth Timeline">
+    <meta name="twitter:title" content="Hair Growth Calculator 2026 - Estimate Hair Length & Growth Timeline">
     <meta name="twitter:description" content="Calculate your hair growth timeline and estimate length progression.">
     <meta name="twitter:image" content="https://www.thiyagi.com/nt.png">
     
@@ -85,7 +85,7 @@
 {
   "@context": "https://schema.org",
   "@type": "WebApplication",
-  "name": "Hair Growth Calculator 2025",
+  "name": "Hair Growth Calculator 2026",
   "description": "Calculate hair growth timeline and estimate how long it takes to grow hair to desired length based on personal factors, hair type, and growth rate.",
   "url": "https://www.thiyagi.com/hair-growth-calculator",
   "applicationCategory": "HealthApplication",

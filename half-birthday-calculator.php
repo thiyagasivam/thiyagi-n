@@ -3,14 +3,14 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Half Birthday Calculator 2025 - Find Your Half Birthday Date | Thiyagi.com</title>
-    <meta name="description" content="Half birthday calculator 2025 - find your exact half birthday date, age in half years, and celebrate your special half day. Fun birthday calculator tool.">
-    <meta name="keywords" content="half birthday calculator 2025, half birthday finder, birthday calculator, age calculator, half birthday date, birthday fun calculator">
+    <title>Half Birthday Calculator 2026 - Find Your Half Birthday Date | Thiyagi.com</title>
+    <meta name="description" content="Half birthday calculator 2026 - find your exact half birthday date, age in half years, and celebrate your special half day. Fun birthday calculator tool.">
+    <meta name="keywords" content="half birthday calculator 2026, half birthday finder, birthday calculator, age calculator, half birthday date, birthday fun calculator">
     <meta name="author" content="Thiyagi">
     <meta name="robots" content="index, follow">
     
     <!-- Open Graph Meta Tags -->
-    <meta property="og:title" content="Half Birthday Calculator 2025 - Find Your Half Birthday Date">
+    <meta property="og:title" content="Half Birthday Calculator 2026 - Find Your Half Birthday Date">
     <meta property="og:description" content="Find your exact half birthday date and age in half years. Fun calculator to discover your special half day celebration date.">
     <meta property="og:url" content="https://www.thiyagi.com/half-birthday-calculator">
     <meta property="og:type" content="website">
@@ -18,7 +18,7 @@
     
     <!-- Twitter Card Meta Tags -->
     <meta name="twitter:card" content="summary_large_image">
-    <meta name="twitter:title" content="Half Birthday Calculator 2025 - Find Your Half Birthday Date">
+    <meta name="twitter:title" content="Half Birthday Calculator 2026 - Find Your Half Birthday Date">
     <meta name="twitter:description" content="Find your exact half birthday date and celebrate your special half day with our fun calculator.">
     <meta name="twitter:image" content="https://www.thiyagi.com/nt.png">
     
@@ -91,7 +91,7 @@
 {
   "@context": "https://schema.org",
   "@type": "WebApplication",
-  "name": "Half Birthday Calculator 2025",
+  "name": "Half Birthday Calculator 2026",
   "description": "Find your exact half birthday date and age in half years. Fun calculator to discover when to celebrate your special half day with friends and family.",
   "url": "https://www.thiyagi.com/half-birthday-calculator",
   "applicationCategory": "UtilityApplication",

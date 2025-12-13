@@ -1,19 +1,19 @@
 <?php include 'header.php'; ?>
 
 <!-- SEO Meta Tags -->
-<title>Kilonewton to Newton Converter 2025 - kN to N Calculator | Thiyagi</title>
-<meta name="description" content="Free online kilonewton to newton converter 2025. Convert kN to N and N to kN instantly with accurate force conversion.">
-<meta name="keywords" content="kilonewton to newton converter 2025, kN to N, force converter, engineering units, SI units">
+<title>Kilonewton to Newton Converter 2026 - kN to N Calculator | Thiyagi</title>
+<meta name="description" content="Free online kilonewton to newton converter 2026. Convert kN to N and N to kN instantly with accurate force conversion.">
+<meta name="keywords" content="kilonewton to newton converter 2026, kN to N, force converter, engineering units, SI units">
 <meta name="author" content="Thiyagi">
-<meta property="og:title" content="Kilonewton to Newton Converter 2025 - kN to N Calculator">
-<meta property="og:description" content="Free online kilonewton to newton converter 2025. Convert kN to N and N to kN instantly.">
+<meta property="og:title" content="Kilonewton to Newton Converter 2026 - kN to N Calculator">
+<meta property="og:description" content="Free online kilonewton to newton converter 2026. Convert kN to N and N to kN instantly.">
 <meta property="og:type" content="website">
 <meta property="og:url" content="https://www.thiyagi.com/kilonewton-to-newton.php">
 <meta property="og:image" content="https://www.thiyagi.com/nt.png">
 <meta property="og:site_name" content="Thiyagi">
 <meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:title" content="Kilonewton to Newton Converter 2025 - kN to N Calculator">
-<meta name="twitter:description" content="Free online kilonewton to newton converter 2025. Convert kN to N and N to kN instantly.">
+<meta name="twitter:title" content="Kilonewton to Newton Converter 2026 - kN to N Calculator">
+<meta name="twitter:description" content="Free online kilonewton to newton converter 2026. Convert kN to N and N to kN instantly.">
 <meta name="twitter:image" content="https://www.thiyagi.com/nt.png">
 
 <div class="min-h-screen bg-gradient-to-br from-green-50 via-emerald-50 to-teal-50 py-12">

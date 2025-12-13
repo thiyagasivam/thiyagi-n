@@ -1,19 +1,19 @@
 <?php include 'header.php'; ?>
 
 <!-- SEO Meta Tags -->
-<title>Millisecond to Hour Converter 2025 - ms to h Time Calculator | Thiyagi</title>
-<meta name="description" content="Free online Millisecond to Hour converter 2025. Convert ms to h and h to ms instantly with accurate time conversion.">
-<meta name="keywords" content="millisecond to hour converter 2025, ms to h, time conversion, duration calculator">
+<title>Millisecond to Hour Converter 2026 - ms to h Time Calculator | Thiyagi</title>
+<meta name="description" content="Free online Millisecond to Hour converter 2026. Convert ms to h and h to ms instantly with accurate time conversion.">
+<meta name="keywords" content="millisecond to hour converter 2026, ms to h, time conversion, duration calculator">
 <meta name="author" content="Thiyagi">
-<meta property="og:title" content="Millisecond to Hour Converter 2025 - ms to h Time Calculator">
-<meta property="og:description" content="Free online Millisecond to Hour converter 2025. Convert ms to h and h to ms instantly.">
+<meta property="og:title" content="Millisecond to Hour Converter 2026 - ms to h Time Calculator">
+<meta property="og:description" content="Free online Millisecond to Hour converter 2026. Convert ms to h and h to ms instantly.">
 <meta property="og:type" content="website">
 <meta property="og:url" content="https://www.thiyagi.com/millisecond-to-hour.php">
 <meta property="og:image" content="https://www.thiyagi.com/nt.png">
 <meta property="og:site_name" content="Thiyagi">
 <meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:title" content="Millisecond to Hour Converter 2025 - ms to h Time Calculator">
-<meta property="twitter:description" content="Free online Millisecond to Hour converter 2025. Convert ms to h and h to ms instantly.">
+<meta name="twitter:title" content="Millisecond to Hour Converter 2026 - ms to h Time Calculator">
+<meta property="twitter:description" content="Free online Millisecond to Hour converter 2026. Convert ms to h and h to ms instantly.">
 <meta name="twitter:image" content="https://www.thiyagi.com/nt.png">
 
 <div class="min-h-screen bg-gradient-to-br from-blue-50 via-cyan-50 to-sky-50 py-12">

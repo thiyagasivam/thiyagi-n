@@ -2,19 +2,19 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>BSE Holidays 2025 | Bombay Stock Exchange Calendar | Trading Holidays</title>
-    <meta name="description" content="Complete BSE Holiday List 2025. Find all Bombay Stock Exchange trading holidays, clearing holidays, and special trading sessions like Muhurat Trading.">
-    <meta name="keywords" content="BSE holidays 2025, Bombay Stock Exchange holidays, stock market holidays India, BSE calendar, trading holidays, Muhurat Trading 2025, BSE trading hours">
+    <title>BSE Holidays 2026 | Bombay Stock Exchange Calendar | Trading Holidays</title>
+    <meta name="description" content="Complete BSE Holiday List 2026. Find all Bombay Stock Exchange trading holidays, clearing holidays, and special trading sessions like Muhurat Trading.">
+    <meta name="keywords" content="BSE holidays 2026, Bombay Stock Exchange holidays, stock market holidays India, BSE calendar, trading holidays, Muhurat Trading 2026, BSE trading hours">
     <meta name="author" content="BSE Holiday Calendar">
     <meta name="robots" content="index, follow">
-    <meta property="og:title" content="BSE Holidays 2025 - Complete Calendar">
-    <meta property="og:description" content="Complete BSE Holiday Calendar 2025 with trading holidays, clearing holidays, and special sessions. Plan your investments accordingly.">
+    <meta property="og:title" content="BSE Holidays 2026 - Complete Calendar">
+    <meta property="og:description" content="Complete BSE Holiday Calendar 2026 with trading holidays, clearing holidays, and special sessions. Plan your investments accordingly.">
     <meta property="og:type" content="website">
     <meta property="og:url" content="<?php echo 'https://' . $_SERVER['HTTP_HOST'] . $_SERVER['REQUEST_URI']; ?>">
-    <meta property="og:image" content="https://via.placeholder.com/1200x630/000080/FFFFFF?text=BSE+Holidays+2025">
+    <meta property="og:image" content="https://via.placeholder.com/1200x630/000080/FFFFFF?text=BSE+Holidays+2026">
     <meta name="twitter:card" content="summary_large_image">
-    <meta name="twitter:title" content="BSE Holidays 2025">
-    <meta name="twitter:description" content="Complete BSE Holiday Calendar 2025 with all trading holidays and special sessions.">
+    <meta name="twitter:title" content="BSE Holidays 2026">
+    <meta name="twitter:description" content="Complete BSE Holiday Calendar 2026 with all trading holidays and special sessions.">
     <link rel="canonical" href="<?php echo 'https://' . $_SERVER['HTTP_HOST'] . $_SERVER['REQUEST_URI']; ?>">
     <meta name="language" content="English">
     <meta name="geo.region" content="IN-MH">
@@ -24,26 +24,26 @@
     {
         "@context": "https://schema.org",
         "@type": "WebPage",
-        "name": "BSE Holidays 2025",
-        "description": "Complete BSE Holiday Calendar 2025 with trading holidays, clearing holidays, and special sessions like Muhurat Trading.",
+        "name": "BSE Holidays 2026",
+        "description": "Complete BSE Holiday Calendar 2026 with trading holidays, clearing holidays, and special sessions like Muhurat Trading.",
         "url": "<?php echo 'https://' . $_SERVER['HTTP_HOST'] . $_SERVER['REQUEST_URI']; ?>",
         "mainEntity": {
             "@type": "FAQPage",
             "mainEntity": [
                 {
                     "@type": "Question",
-                    "name": "How many holidays does BSE have in 2025?",
+                    "name": "How many holidays does BSE have in 2026?",
                     "acceptedAnswer": {
                         "@type": "Answer",
-                        "text": "The BSE typically observes around 15-20 holidays in a year, including weekends, national holidays, and clearing holidays. The exact number for 2025 will be confirmed in the official calendar."
+                        "text": "The BSE typically observes around 15-20 holidays in a year, including weekends, national holidays, and clearing holidays. The exact number for 2026 will be confirmed in the official calendar."
                     }
                 },
                 {
                     "@type": "Question",
-                    "name": "What is Muhurat Trading and when is it in 2025?",
+                    "name": "What is Muhurat Trading and when is it in 2026?",
                     "acceptedAnswer": {
                         "@type": "Answer",
-                        "text": "Muhurat Trading is a special, auspicious trading session held by the BSE and NSE on the occasion of Diwali. It usually takes place in the evening on the day of Diwali or the day before. The exact date and time for 2025 will be announced closer to Diwali."
+                        "text": "Muhurat Trading is a special, auspicious trading session held by the BSE and NSE on the occasion of Diwali. It usually takes place in the evening on the day of Diwali or the day before. The exact date and time for 2026 will be announced closer to Diwali."
                     }
                 },
                 {
@@ -64,10 +64,10 @@
                 },
                 {
                     "@type": "Question",
-                    "name": "Where can I find the official BSE holiday list for 2025?",
+                    "name": "Where can I find the official BSE holiday list for 2026?",
                     "acceptedAnswer": {
                         "@type": "Answer",
-                        "text": "The official BSE holiday calendar for 2025 will be published on the Bombay Stock Exchange's official website (bseindia.com). This calendar is the most reliable source for trading and clearing holidays."
+                        "text": "The official BSE holiday calendar for 2026 will be published on the Bombay Stock Exchange's official website (bseindia.com). This calendar is the most reliable source for trading and clearing holidays."
                     }
                 }
             ]
@@ -76,7 +76,7 @@
             "@type": "Organization",
             "name": "BSE Holiday Calendar"
         },
-        "datePublished": "2025-01-01",
+        "datePublished": "2026-01-01",
         "dateModified": "<?php echo date('Y-m-d'); ?>"
     }
     </script>
@@ -98,79 +98,79 @@
 </head>
 <body class="bg-gradient-to-br from-blue-50 to-indigo-100 min-h-screen">
     <?php
-    // BSE Holidays 2025 Data (Placeholder - Update with actual dates when available)
-    $bse_holidays_2025 = [
-        '2025-01-26' => [ // Republic Day - Sunday (Example)
+    // BSE Holidays 2026 Data (Placeholder - Update with actual dates when available)
+    $bse_holidays_2026 = [
+        '2026-01-26' => [ // Republic Day - Sunday (Example)
             'name' => 'Republic Day',
             'type' => 'National Holiday',
             'description' => 'Celebration of Indian Republic',
             'icon' => 'fa-flag',
             'category' => 'Trading & Clearing'
         ],
-        '2025-03-04' => [ // Example Date
+        '2026-03-04' => [ // Example Date
             'name' => 'Maha Shivratri',
             'type' => 'Religious Holiday',
             'description' => 'Hindu festival dedicated to Lord Shiva',
             'icon' => 'fa-spa',
             'category' => 'Trading & Clearing'
         ],
-        '2025-04-14' => [ // Tamil New Year / Ambedkar Jayanti - Monday
+        '2026-04-14' => [ // Tamil New Year / Ambedkar Jayanti - Monday
             'name' => 'Tamil New Year / Ambedkar Jayanti',
             'type' => 'Regional / Observance',
             'description' => 'Tamil New Year / Birth Anniversary of Dr. B.R. Ambedkar',
             'icon' => 'fa-calendar-day',
             'category' => 'Trading & Clearing'
         ],
-        '2025-04-18' => [ // Good Friday
+        '2026-04-18' => [ // Good Friday
             'name' => 'Good Friday',
             'type' => 'Religious Holiday',
             'description' => 'Christian religious holiday',
             'icon' => 'fa-cross',
             'category' => 'Trading & Clearing'
         ],
-        '2025-05-01' => [ // Labour Day - Thursday
+        '2026-05-01' => [ // Labour Day - Thursday
             'name' => 'Labour Day',
             'type' => 'International',
             'description' => 'International Workers\' Day',
             'icon' => 'fa-hard-hat',
             'category' => 'Trading & Clearing'
         ],
-        '2025-06-16' => [ // Bakrid (Eid al-Adha) - Estimated
+        '2026-06-16' => [ // Bakrid (Eid al-Adha) - Estimated
             'name' => 'Bakrid (Eid al-Adha)',
             'type' => 'Religious Holiday',
             'description' => 'Islamic festival of sacrifice',
             'icon' => 'fa-moon',
             'category' => 'Trading & Clearing'
         ],
-        '2025-08-15' => [ // Independence Day - Friday
+        '2026-08-15' => [ // Independence Day - Friday
             'name' => 'Independence Day',
             'type' => 'National Holiday',
             'description' => 'Indian Independence Day',
             'icon' => 'fa-dove',
             'category' => 'Trading & Clearing'
         ],
-        '2025-10-02' => [ // Gandhi Jayanti - Thursday
+        '2026-10-02' => [ // Gandhi Jayanti - Thursday
             'name' => 'Gandhi Jayanti',
             'type' => 'National Holiday',
             'description' => 'Birth anniversary of Mahatma Gandhi',
             'icon' => 'fa-peace',
             'category' => 'Trading & Clearing'
         ],
-        '2025-10-31' => [ // Diwali (Lakshmi Puja) - Friday
+        '2026-10-31' => [ // Diwali (Lakshmi Puja) - Friday
             'name' => 'Diwali (Lakshmi Puja)',
             'type' => 'Religious Holiday',
             'description' => 'Festival of Lights',
             'icon' => 'fa-lightbulb',
             'category' => 'Trading & Clearing'
         ],
-        '2025-11-26' => [ // Guru Nanak Jayanti - Estimated
+        '2026-11-26' => [ // Guru Nanak Jayanti - Estimated
             'name' => 'Guru Nanak Jayanti',
             'type' => 'Religious Holiday',
             'description' => 'Birth anniversary of Guru Nanak Dev Ji',
             'icon' => 'fa-pray',
             'category' => 'Trading & Clearing'
         ],
-        '2025-12-25' => [ // Christmas - Thursday
+        '2026-12-25' => [ // Christmas - Thursday
             'name' => 'Christmas',
             'type' => 'Religious Holiday',
             'description' => 'Celebration of Jesus Christ\'s birth',
@@ -180,16 +180,16 @@
         // Add more holidays as officially announced
     ];
 
-    // BSE Clearing Holidays 2025 Data (Placeholder - Update with actual dates when available)
-    $bse_clearing_holidays_2025 = [
-        '2025-01-26' => [ // Republic Day - Sunday (Example)
+    // BSE Clearing Holidays 2026 Data (Placeholder - Update with actual dates when available)
+    $bse_clearing_holidays_2026 = [
+        '2026-01-26' => [ // Republic Day - Sunday (Example)
             'name' => 'Republic Day',
             'type' => 'National Holiday',
             'description' => 'Clearing operations closed',
             'icon' => 'fa-flag',
             'category' => 'Clearing Only'
         ],
-        '2025-08-15' => [ // Independence Day - Friday
+        '2026-08-15' => [ // Independence Day - Friday
             'name' => 'Independence Day',
             'type' => 'National Holiday',
             'description' => 'Clearing operations closed',
@@ -200,11 +200,11 @@
     ];
 
     // Merge all holidays for display
-    $all_bse_holidays_2025 = array_merge($bse_holidays_2025, $bse_clearing_holidays_2025);
+    $all_bse_holidays_2026 = array_merge($bse_holidays_2026, $bse_clearing_holidays_2026);
 
     // Get current month and year
     $current_month = isset($_GET['month']) ? (int)$_GET['month'] : (int)date('n');
-    $current_year = isset($_GET['year']) ? (int)$_GET['year'] : 2025;
+    $current_year = isset($_GET['year']) ? (int)$_GET['year'] : 2026;
 
     // Month names
     $month_names = [
@@ -251,7 +251,7 @@
                     </div>
                     <div>
                         <h1 class="text-4xl font-bold flex items-center space-x-3">
-                            <span>BSE Holidays 2025</span>
+                            <span>BSE Holidays 2026</span>
                             <i class="fas fa-building text-2xl animate-bounce"></i>
                         </h1>
                         <p class="text-lg opacity-90 flex items-center space-x-2">
@@ -271,7 +271,7 @@
                     </p>
                     <div class="mt-2 flex items-center space-x-2">
                         <i class="fas fa-gift text-yellow-200"></i>
-                        <span class="text-sm opacity-75"><?php echo count($all_bse_holidays_2025); ?> Total Holidays Listed</span>
+                        <span class="text-sm opacity-75"><?php echo count($all_bse_holidays_2026); ?> Total Holidays Listed</span>
                     </div>
                 </div>
             </div>
@@ -297,12 +297,12 @@
                 <li><i class="fas fa-chevron-right text-xs"></i></li>
                 <li><a href="#" class="hover:text-blue-600 transition-colors">Finance</a></li>
                 <li><i class="fas fa-chevron-right text-xs"></i></li>
-                <li class="text-gray-800 font-medium">BSE Holidays 2025</li>
+                <li class="text-gray-800 font-medium">BSE Holidays 2026</li>
             </ol>
         </nav>
 
         <!-- H1 Title -->
-        <h1 class="text-4xl font-bold text-center text-gray-800 mb-2">BSE Holiday List 2025</h1>
+        <h1 class="text-4xl font-bold text-center text-gray-800 mb-2">BSE Holiday List 2026</h1>
         <p class="text-center text-gray-600 mb-8">Complete Calendar of Trading and Clearing Holidays</p>
 
         <!-- SEO Introduction Section -->
@@ -310,11 +310,11 @@
             <div class="max-w-4xl mx-auto text-center">
                 <h2 class="text-3xl font-bold text-gray-800 mb-4 flex items-center justify-center space-x-3">
                     <i class="fas fa-calendar-alt text-bse-blue"></i>
-                    <span>BSE Holiday Calendar 2025</span>
+                    <span>BSE Holiday Calendar 2026</span>
                     <i class="fas fa-star text-yellow-500"></i>
                 </h2>
                 <p class="text-lg text-gray-700 mb-4 leading-relaxed">
-                    Stay informed with the comprehensive BSE Holiday Calendar for 2025. This guide lists all the important dates when the Bombay Stock Exchange (BSE) will be closed for trading or clearing operations. Plan your investment activities and ensure smooth transactions by checking this calendar regularly. Includes national holidays, religious observances, and special trading sessions like Muhurat Trading.
+                    Stay informed with the comprehensive BSE Holiday Calendar for 2026. This guide lists all the important dates when the Bombay Stock Exchange (BSE) will be closed for trading or clearing operations. Plan your investment activities and ensure smooth transactions by checking this calendar regularly. Includes national holidays, religious observances, and special trading sessions like Muhurat Trading.
                 </p>
                 <div class="grid md:grid-cols-3 gap-4 mt-6">
                     <div class="bg-white p-4 rounded-lg shadow-sm border border-blue-200">
@@ -391,12 +391,12 @@
                 Muhurat Trading is a special, auspicious trading session traditionally held by the Bombay Stock Exchange (BSE) and the National Stock Exchange (NSE) on the occasion of Diwali, the festival of lights. It is believed that participating in trading during this Muhurat (auspicious time) brings prosperity and good fortune for the upcoming year.
             </p>
             <p class="text-gray-700 mb-4">
-                This session is purely symbolic and typically lasts for about an hour in the evening. It involves the trading of a select basket of stocks, often including major indices like SENSEX and NIFTY. The exact date and time for Muhurat Trading in 2025 will be announced by the exchanges closer to Diwali.
+                This session is purely symbolic and typically lasts for about an hour in the evening. It involves the trading of a select basket of stocks, often including major indices like SENSEX and NIFTY. The exact date and time for Muhurat Trading in 2026 will be announced by the exchanges closer to Diwali.
             </p>
             <div class="bg-yellow-50 border-l-4 border-yellow-500 p-4 rounded">
                 <p class="text-yellow-700 font-medium">
                     <i class="fas fa-exclamation-circle mr-2"></i>
-                    <strong>Important:</strong> The official date and time for BSE Muhurat Trading 2025 will be confirmed by the exchange. Please check the BSE official website (bseindia.com) for updates.
+                    <strong>Important:</strong> The official date and time for BSE Muhurat Trading 2026 will be confirmed by the exchange. Please check the BSE official website (bseindia.com) for updates.
                 </p>
             </div>
         </section>
@@ -595,9 +595,9 @@
                 // Days of the month
                 for ($day = 1; $day <= $days_in_month; $day++) {
                     $date = sprintf('%04d-%02d-%02d', $current_year, $current_month, $day);
-                    $is_holiday = isset($all_bse_holidays_2025[$date]);
-                    $is_clearing_holiday = isset($bse_clearing_holidays_2025[$date]);
-                    $is_trading_holiday = isset($bse_holidays_2025[$date]);
+                    $is_holiday = isset($all_bse_holidays_2026[$date]);
+                    $is_clearing_holiday = isset($bse_clearing_holidays_2026[$date]);
+                    $is_trading_holiday = isset($bse_holidays_2026[$date]);
                     $is_today = ($day == date('j') && $current_month == date('n') && $current_year == date('Y'));
 
                     $cell_classes = 'p-4 border-r border-b min-h-[100px] relative';
@@ -618,7 +618,7 @@
                     echo '<div class="' . $cell_classes . '">';
                     echo '<div class="text-lg font-semibold text-gray-800 mb-2">' . $day . '</div>';
                     if ($is_holiday) {
-                        $holiday = $all_bse_holidays_2025[$date];
+                        $holiday = $all_bse_holidays_2026[$date];
                         $border_color = '';
                         $bg_color = '';
                         $text_color = '';
@@ -691,7 +691,7 @@
                     <?php
                     $today = date('Y-m-d');
                     $upcoming_count = 0;
-                    foreach ($all_bse_holidays_2025 as $date => $holiday) {
+                    foreach ($all_bse_holidays_2026 as $date => $holiday) {
                         if ($date >= $today && $upcoming_count < 5) {
                             $days_until = (strtotime($date) - strtotime($today)) / (60 * 60 * 24);
                             echo '<div class="flex items-center justify-between p-4 bg-gradient-to-r from-blue-50 to-indigo-50 rounded-lg border border-blue-200 hover:shadow-md transition-all transform hover:scale-105">';
@@ -736,7 +736,7 @@
                     <div class="text-center p-4 bg-gradient-to-br from-blue-50 to-blue-100 rounded-lg border border-blue-200 hover:shadow-md transition-all">
                         <div class="flex items-center justify-center space-x-2 mb-2">
                             <i class="fas fa-gift text-blue-600 text-xl"></i>
-                            <div class="text-3xl font-bold text-blue-600"><?php echo count($bse_holidays_2025); ?></div>
+                            <div class="text-3xl font-bold text-blue-600"><?php echo count($bse_holidays_2026); ?></div>
                         </div>
                         <div class="text-sm text-blue-700 font-medium">Trading Holidays</div>
                         <div class="text-xs text-blue-600 mt-1">📉 Market Closed</div>
@@ -744,7 +744,7 @@
                     <div class="text-center p-4 bg-gradient-to-br from-green-50 to-green-100 rounded-lg border border-green-200 hover:shadow-md transition-all">
                         <div class="flex items-center justify-center space-x-2 mb-2">
                             <i class="fas fa-file-invoice-dollar text-green-600 text-xl"></i>
-                            <div class="text-3xl font-bold text-green-600"><?php echo count($bse_clearing_holidays_2025); ?></div>
+                            <div class="text-3xl font-bold text-green-600"><?php echo count($bse_clearing_holidays_2026); ?></div>
                         </div>
                         <div class="text-sm text-green-700 font-medium">Clearing Holidays</div>
                         <div class="text-xs text-green-600 mt-1">🧾 Operations Closed</div>
@@ -752,7 +752,7 @@
                      <div class="text-center p-4 bg-gradient-to-br from-purple-50 to-purple-100 rounded-lg border border-purple-200 hover:shadow-md transition-all col-span-2">
                         <div class="flex items-center justify-center space-x-2 mb-2">
                             <i class="fas fa-calendar-alt text-purple-600 text-xl"></i>
-                            <div class="text-3xl font-bold text-purple-600"><?php echo count($all_bse_holidays_2025); ?></div>
+                            <div class="text-3xl font-bold text-purple-600"><?php echo count($all_bse_holidays_2026); ?></div>
                         </div>
                         <div class="text-sm text-purple-700 font-medium">Total Holidays Listed</div>
                         <div class="text-xs text-purple-600 mt-1">📅 Includes Trading & Clearing</div>
@@ -774,20 +774,20 @@
                     <div class="bg-gray-50 rounded-lg p-6 hover:shadow-md transition-all">
                         <h3 class="text-xl font-semibold text-gray-800 mb-3 flex items-center space-x-2">
                             <i class="fas fa-calendar-day text-blue-500"></i>
-                            <span>How many holidays does BSE have in 2025?</span>
+                            <span>How many holidays does BSE have in 2026?</span>
                         </h3>
                         <p class="text-gray-700 leading-relaxed">
-                            The BSE typically observes around 15-20 holidays in a year, including weekends, national holidays, and clearing holidays. The exact number for 2025 will be confirmed in the official calendar. This list includes both Trading Holidays (when the market is closed) and Clearing Holidays (when clearing operations are suspended).
+                            The BSE typically observes around 15-20 holidays in a year, including weekends, national holidays, and clearing holidays. The exact number for 2026 will be confirmed in the official calendar. This list includes both Trading Holidays (when the market is closed) and Clearing Holidays (when clearing operations are suspended).
                         </p>
                     </div>
                     <!-- FAQ Item 2 -->
                     <div class="bg-gray-50 rounded-lg p-6 hover:shadow-md transition-all">
                         <h3 class="text-xl font-semibold text-gray-800 mb-3 flex items-center space-x-2">
                             <i class="fas fa-star text-yellow-500"></i>
-                            <span>What is Muhurat Trading and when is it in 2025?</span>
+                            <span>What is Muhurat Trading and when is it in 2026?</span>
                         </h3>
                         <p class="text-gray-700 leading-relaxed">
-                            Muhurat Trading is a special, auspicious trading session held by the BSE and NSE on the occasion of Diwali. It usually takes place in the evening on the day of Diwali or the day before. The exact date and time for 2025 will be announced closer to Diwali by the respective stock exchanges. It's a symbolic session believed to bring good fortune for the financial year ahead.
+                            Muhurat Trading is a special, auspicious trading session held by the BSE and NSE on the occasion of Diwali. It usually takes place in the evening on the day of Diwali or the day before. The exact date and time for 2026 will be announced closer to Diwali by the respective stock exchanges. It's a symbolic session believed to bring good fortune for the financial year ahead.
                         </p>
                     </div>
                     <!-- FAQ Item 3 -->
@@ -814,10 +814,10 @@
                     <div class="bg-gray-50 rounded-lg p-6 hover:shadow-md transition-all">
                         <h3 class="text-xl font-semibold text-gray-800 mb-3 flex items-center space-x-2">
                             <i class="fas fa-globe text-blue-500"></i>
-                            <span>Where can I find the official BSE holiday list for 2025?</span>
+                            <span>Where can I find the official BSE holiday list for 2026?</span>
                         </h3>
                         <p class="text-gray-700 leading-relaxed">
-                            The official BSE holiday calendar for 2025 will be published on the Bombay Stock Exchange's official website (<a href="https://www.bseindia.com" class="text-blue-600 hover:underline" target="_blank" rel="noopener">bseindia.com</a>). This calendar is the most reliable and up-to-date source for trading holidays, clearing holidays, and special sessions like Muhurat Trading. Always refer to the official website for confirmed dates.
+                            The official BSE holiday calendar for 2026 will be published on the Bombay Stock Exchange's official website (<a href="https://www.bseindia.com" class="text-blue-600 hover:underline" target="_blank" rel="noopener">bseindia.com</a>). This calendar is the most reliable and up-to-date source for trading holidays, clearing holidays, and special sessions like Muhurat Trading. Always refer to the official website for confirmed dates.
                         </p>
                     </div>
                      <!-- FAQ Item 6 -->
@@ -880,7 +880,7 @@
     <script>
         // JavaScript functionality
         // Holiday data for search functionality
-        const holidaysData = <?php echo json_encode($all_bse_holidays_2025); ?>;
+        const holidaysData = <?php echo json_encode($all_bse_holidays_2026); ?>;
         function searchHolidays() {
             const searchTerm = document.getElementById('searchInput').value.toLowerCase();
             const filterType = document.getElementById('filterType').value;
@@ -982,9 +982,9 @@
         }
         function downloadCalendar() {
             // Create a simple text version for download
-            let content = `BSE Holidays 2025\n`;
+            let content = `BSE Holidays 2026\n`;
             content += `====================\n\n`;
-            <?php foreach ($all_bse_holidays_2025 as $date => $holiday): ?>
+            <?php foreach ($all_bse_holidays_2026 as $date => $holiday): ?>
             content += `Date: <?php echo $date; ?> - <?php echo $holiday['name']; ?> (<?php echo $holiday['type']; ?>)\n`;
             content += `  Description: <?php echo $holiday['description']; ?>\n\n`;
             <?php endforeach; ?>
@@ -992,15 +992,15 @@
             const url = window.URL.createObjectURL(blob);
             const a = document.createElement('a');
             a.href = url;
-            a.download = 'bse-holidays-2025.txt';
+            a.download = 'bse-holidays-2026.txt';
             a.click();
             window.URL.revokeObjectURL(url);
         }
         function shareCalendar() {
             if (navigator.share) {
                 navigator.share({
-                    title: 'BSE Holidays 2025',
-                    text: 'Check out the BSE holiday calendar for 2025!',
+                    title: 'BSE Holidays 2026',
+                    text: 'Check out the BSE holiday calendar for 2026!',
                     url: window.location.href
                 });
             } else {

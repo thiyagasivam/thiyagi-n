@@ -1,19 +1,19 @@
 <?php include 'header.php'; ?>
 
 <!-- SEO Meta Tags -->
-<title>PSI to KSI Converter 2025 - Pounds per Square Inch to Kilopounds per Square Inch Calculator | Thiyagi</title>
-<meta name="description" content="Free online PSI to KSI converter 2025. Convert psi to ksi and ksi to psi instantly with accurate pressure conversion.">
-<meta name="keywords" content="psi to ksi converter 2025, pounds per square inch to kilopounds, pressure conversion, engineering units, stress calculator">
+<title>PSI to KSI Converter 2026 - Pounds per Square Inch to Kilopounds per Square Inch Calculator | Thiyagi</title>
+<meta name="description" content="Free online PSI to KSI converter 2026. Convert psi to ksi and ksi to psi instantly with accurate pressure conversion.">
+<meta name="keywords" content="psi to ksi converter 2026, pounds per square inch to kilopounds, pressure conversion, engineering units, stress calculator">
 <meta name="author" content="Thiyagi">
-<meta property="og:title" content="PSI to KSI Converter 2025 - Pounds per Square Inch to Kilopounds per Square Inch Calculator">
-<meta property="og:description" content="Free online PSI to KSI converter 2025. Convert psi to ksi and ksi to psi instantly.">
+<meta property="og:title" content="PSI to KSI Converter 2026 - Pounds per Square Inch to Kilopounds per Square Inch Calculator">
+<meta property="og:description" content="Free online PSI to KSI converter 2026. Convert psi to ksi and ksi to psi instantly.">
 <meta property="og:type" content="website">
 <meta property="og:url" content="https://www.thiyagi.com/psi-to-ksi.php">
 <meta property="og:image" content="https://www.thiyagi.com/nt.png">
 <meta property="og:site_name" content="Thiyagi">
 <meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:title" content="PSI to KSI Converter 2025 - Pounds per Square Inch to Kilopounds per Square Inch Calculator">
-<meta property="twitter:description" content="Free online PSI to KSI converter 2025. Convert psi to ksi and ksi to psi instantly.">
+<meta name="twitter:title" content="PSI to KSI Converter 2026 - Pounds per Square Inch to Kilopounds per Square Inch Calculator">
+<meta property="twitter:description" content="Free online PSI to KSI converter 2026. Convert psi to ksi and ksi to psi instantly.">
 <meta name="twitter:image" content="https://www.thiyagi.com/nt.png">
 
 <div class="min-h-screen bg-gradient-to-br from-red-50 via-orange-50 to-yellow-50 py-12">

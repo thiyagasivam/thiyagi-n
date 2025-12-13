@@ -3408,7 +3408,7 @@ class PincodeDistrictPage {
             'sawai-madhopur' => [
                 ['area' => 'sawai-madhopur', 'pincode' => '322001'],
                 ['area' => 'gangapur-city', 'pincode' => '322201'],
-                ['area' => 'bonli', 'pincode' => '322025'],
+                ['area' => 'bonli', 'pincode' => '322026'],
                 ['area' => 'khanda', 'pincode' => '322023']
             ],
             'dausa' => [

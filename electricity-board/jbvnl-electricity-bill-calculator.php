@@ -2,9 +2,9 @@
 <?php include 'breadcrumb-schema.php';?>
 <?php
 /**
- * JBVNL Electricity Bill Calculator - 2025 Tariff Version
+ * JBVNL Electricity Bill Calculator - 2026 Tariff Version
  * 
- * This script calculates electricity bills based on JBVNL's 2025 tariff slabs
+ * This script calculates electricity bills based on JBVNL's 2026 tariff slabs
  * with options for different connection types (Domestic/Commercial/Industrial).
  */
 // ================= CONFIGURATION SECTION =================
@@ -77,8 +77,8 @@ if ($units > 0) {
     $billDetails['total'] = $billDetails['energy_charges'] + $billDetails['fixed_charges'] + $billDetails['tax_amount'];
 }
 // ================= VIEW SECTION =================
-$pageTitle = "JBVNL Electricity Bill Calculator - Jharkhand Power Tariff Estimator 2025";
-$pageDescription = "Use our free JBVNL electricity bill calculator to estimate your Jharkhand power consumption charges based on 2025 tariff slabs.";
+$pageTitle = "JBVNL Electricity Bill Calculator - Jharkhand Power Tariff Estimator 2026";
+$pageDescription = "Use our free JBVNL electricity bill calculator to estimate your Jharkhand power consumption charges based on 2026 tariff slabs.";
 ?>
 <!DOCTYPE html>
 <html lang="en">
@@ -87,7 +87,7 @@ $pageDescription = "Use our free JBVNL electricity bill calculator to estimate y
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title><?= htmlspecialchars($pageTitle) ?></title>
     <meta name="description" content="<?= htmlspecialchars($pageDescription) ?>">
-    <meta name="keywords" content="JBVNL bill calculator, Jharkhand electricity bill, JBVNL tariff 2025, power bill calculator">
+    <meta name="keywords" content="JBVNL bill calculator, Jharkhand electricity bill, JBVNL tariff 2026, power bill calculator">
     <link rel="canonical" href="https://www.thiyagi.com/electricity-board/jbvnl-electricity-bill-calculator" />
     
     <script src="https://cdn.tailwindcss.com"></script>
@@ -142,7 +142,7 @@ $pageDescription = "Use our free JBVNL electricity bill calculator to estimate y
 <body class="bg-gray-100">
     <div class="container mx-auto py-8 px-4 max-w-4xl">
         <header class="mb-10 text-center">
-            <h1 class="text-3xl font-bold text-emerald-600 mb-2">JBVNL Electricity Bill Calculator 2025</h1>
+            <h1 class="text-3xl font-bold text-emerald-600 mb-2">JBVNL Electricity Bill Calculator 2026</h1>
             <p class="text-gray-600">Estimate your Jharkhand power bill using updated tariff rates</p>
         </header>
         <div class="flex justify-center">
@@ -236,9 +236,9 @@ $pageDescription = "Use our free JBVNL electricity bill calculator to estimate y
                     <div class="px-6 py-5">
                         <h2 class="text-lg font-semibold mb-3 text-gray-800">About JBVNL Electricity Bill Calculator</h2>
                         <p class="text-gray-600 mb-4">
-                            This calculator helps residents and businesses of Jharkhand estimate their electricity bills based on the latest 2025 tariff rates from Jharkhand Bijli Vitran Nigam Ltd (JBVNL).
+                            This calculator helps residents and businesses of Jharkhand estimate their electricity bills based on the latest 2026 tariff rates from Jharkhand Bijli Vitran Nigam Ltd (JBVNL).
                         </p>
-                        <h3 class="text-md font-semibold mb-2 text-gray-800">Current Tariff Slabs (2025)</h3>
+                        <h3 class="text-md font-semibold mb-2 text-gray-800">Current Tariff Slabs (2026)</h3>
                         <ul class="list-disc pl-5 text-gray-600 mb-4">
                             <?php foreach (TARIFF_SLABS as $slab): ?>
                             <li><?= ($slab['min'] + 1) ?> - <?= $slab['max'] == PHP_INT_MAX ? 'Above' : $slab['max'] ?> units: ₹<?= number_format($slab['rate'], 2) ?> per unit</li>
@@ -309,7 +309,7 @@ $pageDescription = "Use our free JBVNL electricity bill calculator to estimate y
             if (navigator.share) {
                 navigator.share({
                     title: 'My JBVNL Electricity Bill Calculation',
-                    text: 'I calculated my JBVNL electricity bill using the 2025 tariff rates. Check it out!',
+                    text: 'I calculated my JBVNL electricity bill using the 2026 tariff rates. Check it out!',
                     url: window.location.href
                 }).catch(err => {
                     console.log('Error sharing:', err);

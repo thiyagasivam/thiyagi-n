@@ -46,8 +46,8 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST' && isset($_POST['video_url'])) {
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Free Facebook Video Downloader 2025 - Save Videos in HD (No Watermark)</title>
-<meta name="description" content="Download Facebook videos in HD quality for free (2025). Save reels, stories, and public posts without watermark - Fast & easy!">
+    <title>Free Facebook Video Downloader 2026 - Save Videos in HD (No Watermark)</title>
+<meta name="description" content="Download Facebook videos in HD quality for free (2026). Save reels, stories, and public posts without watermark - Fast & easy!">
 <link rel="canonical" href="https://www.thiyagi.com/facebook-video-downloader" />
     <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" rel="stylesheet">
     <style>

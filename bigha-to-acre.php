@@ -1,12 +1,12 @@
 <?php include 'header.php';?>
-<title>Bigha to Acre Converter 2025 | Bigha to Acre | Free Tool</title>
-<meta name="description" content="Convert bigha to acre instantly with our 2025 accurate converter. Perfect bigha to acre conversion with real-time calculations for Indian land measurement.">
-<meta name="keywords" content="bigha to acre 2025, bigha acre converter, Indian land conversion 2025, bigha acre calculation, traditional to imperial land">
+<title>Bigha to Acre Converter 2026 | Bigha to Acre | Free Tool</title>
+<meta name="description" content="Convert bigha to acre instantly with our 2026 accurate converter. Perfect bigha to acre conversion with real-time calculations for Indian land measurement.">
+<meta name="keywords" content="bigha to acre 2026, bigha acre converter, Indian land conversion 2026, bigha acre calculation, traditional to imperial land">
 <link rel="canonical" href="https://www.thiyagi.com/bigha-to-acre">
 
 <!-- Open Graph Meta Tags -->
-<meta property="og:title" content="Bigha to Acre Converter 2025 | Bigha to Acre | Free Tool">
-<meta property="og:description" content="Convert bigha to acre instantly with our 2025 accurate converter. Perfect bigha to acre conversion with real-time calculations for Indian land measurement.">
+<meta property="og:title" content="Bigha to Acre Converter 2026 | Bigha to Acre | Free Tool">
+<meta property="og:description" content="Convert bigha to acre instantly with our 2026 accurate converter. Perfect bigha to acre conversion with real-time calculations for Indian land measurement.">
 <meta property="og:url" content="https://www.thiyagi.com/bigha-to-acre">
 <meta property="og:type" content="website">
 <meta property="og:image" content="https://www.thiyagi.com/nt.png">
@@ -14,8 +14,8 @@
 
 <!-- Twitter Card Meta Tags -->
 <meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:title" content="Bigha to Acre Converter 2025 | Bigha to Acre | Free Tool">
-<meta name="twitter:description" content="Convert bigha to acre instantly with our 2025 accurate converter. Perfect bigha to acre conversion with real-time calculations for Indian land measurement.">
+<meta name="twitter:title" content="Bigha to Acre Converter 2026 | Bigha to Acre | Free Tool">
+<meta name="twitter:description" content="Convert bigha to acre instantly with our 2026 accurate converter. Perfect bigha to acre conversion with real-time calculations for Indian land measurement.">
 <meta name="twitter:image" content="https://www.thiyagi.com/nt.png">
 
 <!-- Additional SEO Meta Tags -->
@@ -39,7 +39,7 @@
           Bigha to Acre Converter
         </h1>
         <p class="text-xl text-gray-600 mb-8 max-w-3xl mx-auto">
-          Convert bigha to acres instantly with our accurate 2025 calculator. 
+          Convert bigha to acres instantly with our accurate 2026 calculator. 
           Perfect for Indian agricultural land measurement and documentation.
         </p>
       </div>

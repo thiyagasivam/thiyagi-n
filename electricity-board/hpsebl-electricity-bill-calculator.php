@@ -1,7 +1,7 @@
 <?php include '../header.php';?>
 <?php include 'breadcrumb-schema.php';?>
 <?php
-// Define tariff slabs for 2025 (Domestic category - HPSEBL)
+// Define tariff slabs for 2026 (Domestic category - HPSEBL)
 $tariff_slabs = [
     ['from' => 0, 'to' => 100, 'rate' => 1.40],
     ['from' => 101, 'to' => 200, 'rate' => 2.50],
@@ -68,8 +68,8 @@ $final_amount = max(0, $total - $subsidy);
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>HPSEBL Bill Calculator (2025) – Himachal Pradesh Electricity Estimator</title>
-    <meta name="description" content="Calculate your HPSEBL electricity bill for 2025 based on domestic tariff slabs. Includes meter rent, fixed charges, and subsidy options.">
+    <title>HPSEBL Bill Calculator (2026) – Himachal Pradesh Electricity Estimator</title>
+    <meta name="description" content="Calculate your HPSEBL electricity bill for 2026 based on domestic tariff slabs. Includes meter rent, fixed charges, and subsidy options.">
     
     <!-- Tailwind CSS via CDN -->
     <script src="https://cdn.tailwindcss.com"></script>
@@ -174,7 +174,7 @@ $final_amount = max(0, $total - $subsidy);
         // Share the calculator
         function shareCalculator(platform) {
             const url = encodeURIComponent(window.location.href);
-            const text = encodeURIComponent("Check out this HPSEBL Electricity Bill Calculator for 2025");
+            const text = encodeURIComponent("Check out this HPSEBL Electricity Bill Calculator for 2026");
             
             let shareUrl = '';
             switch(platform) {
@@ -216,7 +216,7 @@ $final_amount = max(0, $total - $subsidy);
             <div class="flex justify-between items-center">
                 <div>
                     <h1 class="text-3xl font-bold text-blue-600 dark:text-blue-400">HPSEBL Electricity Bill Calculator</h1>
-                    <p class="text-gray-600 dark:text-gray-400">2025 Domestic Tariff Calculator for Himachal Pradesh</p>
+                    <p class="text-gray-600 dark:text-gray-400">2026 Domestic Tariff Calculator for Himachal Pradesh</p>
                 </div>
                 
             </div>
@@ -342,7 +342,7 @@ $final_amount = max(0, $total - $subsidy);
         <!-- Tariff Information -->
         <div class="bg-white dark:bg-gray-800 rounded-lg shadow-lg overflow-hidden">
             <div class="p-6">
-                <h2 class="text-2xl font-semibold mb-4">2025 Domestic Tariff Slabs (HPSEBL)</h2>
+                <h2 class="text-2xl font-semibold mb-4">2026 Domestic Tariff Slabs (HPSEBL)</h2>
                 
                 <div class="overflow-x-auto">
                     <table class="w-full">
@@ -378,7 +378,7 @@ $final_amount = max(0, $total - $subsidy);
                         <li>Fixed charges: ₹<?= $fixed_charges ?> per month (included if checked).</li>
                         <li>Meter rent: ₹<?= $meter_rent ?> per month (included if checked).</li>
                         <li>Subsidy: First 100 units free for eligible consumers (max ₹140).</li>
-                        <li>Rates are based on HPSEBL's 2025 domestic tariff structure.</li>
+                        <li>Rates are based on HPSEBL's 2026 domestic tariff structure.</li>
                         <li>This is an estimate only. Your actual bill may vary.</li>
                     </ul>
                 </div>

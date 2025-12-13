@@ -1,19 +1,19 @@
 <?php include 'header.php'; ?>
 
 <!-- SEO Meta Tags -->
-<title>PSI to Pound Force Square Inch Converter 2025 - Pressure Calculator | Thiyagi</title>
-<meta name="description" content="Free online PSI to pound force per square inch converter 2025. Convert pressure units instantly with accurate calculations for engineering applications.">
-<meta name="keywords" content="psi to pound force square inch converter 2025, pressure converter, engineering calculator, hydraulic pressure">
+<title>PSI to Pound Force Square Inch Converter 2026 - Pressure Calculator | Thiyagi</title>
+<meta name="description" content="Free online PSI to pound force per square inch converter 2026. Convert pressure units instantly with accurate calculations for engineering applications.">
+<meta name="keywords" content="psi to pound force square inch converter 2026, pressure converter, engineering calculator, hydraulic pressure">
 <meta name="author" content="Thiyagi">
-<meta property="og:title" content="PSI to Pound Force Square Inch Converter 2025 - Pressure Calculator">
-<meta property="og:description" content="Free online PSI to pound force per square inch converter 2025. Convert pressure units instantly with accurate calculations.">
+<meta property="og:title" content="PSI to Pound Force Square Inch Converter 2026 - Pressure Calculator">
+<meta property="og:description" content="Free online PSI to pound force per square inch converter 2026. Convert pressure units instantly with accurate calculations.">
 <meta property="og:type" content="website">
 <meta property="og:url" content="https://www.thiyagi.com/psi-to-pound-force-square-inch.php">
 <meta property="og:image" content="https://www.thiyagi.com/nt.png">
 <meta property="og:site_name" content="Thiyagi">
 <meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:title" content="PSI to Pound Force Square Inch Converter 2025 - Pressure Calculator">
-<meta name="twitter:description" content="Free online PSI to pound force per square inch converter 2025. Convert pressure units instantly.">
+<meta name="twitter:title" content="PSI to Pound Force Square Inch Converter 2026 - Pressure Calculator">
+<meta name="twitter:description" content="Free online PSI to pound force per square inch converter 2026. Convert pressure units instantly.">
 <meta name="twitter:image" content="https://www.thiyagi.com/nt.png">
 
 <div class="min-h-screen bg-gradient-to-br from-red-50 via-orange-50 to-red-50 py-12">

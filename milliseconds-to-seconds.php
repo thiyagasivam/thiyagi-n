@@ -4,9 +4,9 @@ include 'header.php';
 $header_content = ob_get_clean();
 
 // Insert title and meta tags into the head section
-$title = 'Milliseconds to Seconds Converter 2025 | Time Conversion Tool | Free Calculator';
-$description = 'Convert milliseconds to seconds instantly with our 2025 accurate time converter. Perfect for programming, timing, and precision calculations.';
-$keywords = 'milliseconds to seconds converter 2025, time conversion calculator, ms seconds converter, programming timer, precision timing';
+$title = 'Milliseconds to Seconds Converter 2026 | Time Conversion Tool | Free Calculator';
+$description = 'Convert milliseconds to seconds instantly with our 2026 accurate time converter. Perfect for programming, timing, and precision calculations.';
+$keywords = 'milliseconds to seconds converter 2026, time conversion calculator, ms seconds converter, programming timer, precision timing';
 $canonical = 'https://www.thiyagi.com/milliseconds-to-seconds';
 
 $meta_tags = '<title>' . htmlspecialchars($title) . '</title>' . "\n";

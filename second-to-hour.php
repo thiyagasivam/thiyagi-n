@@ -1,19 +1,19 @@
 <?php include 'header.php'; ?>
 
 <!-- SEO Meta Tags -->
-<title>Second to Hour Converter 2025 - Time Calculator | Thiyagi</title>
-<meta name="description" content="Free online second to hour converter 2025. Convert seconds to hours instantly with accurate time conversion. Perfect for time calculations and duration measurements.">
-<meta name="keywords" content="second to hour converter 2025, seconds to hours, time converter, duration calculator, time measurement">
+<title>Second to Hour Converter 2026 - Time Calculator | Thiyagi</title>
+<meta name="description" content="Free online second to hour converter 2026. Convert seconds to hours instantly with accurate time conversion. Perfect for time calculations and duration measurements.">
+<meta name="keywords" content="second to hour converter 2026, seconds to hours, time converter, duration calculator, time measurement">
 <meta name="author" content="Thiyagi">
-<meta property="og:title" content="Second to Hour Converter 2025 - Time Calculator">
-<meta property="og:description" content="Free online second to hour converter 2025. Convert seconds to hours instantly with accurate time conversion.">
+<meta property="og:title" content="Second to Hour Converter 2026 - Time Calculator">
+<meta property="og:description" content="Free online second to hour converter 2026. Convert seconds to hours instantly with accurate time conversion.">
 <meta property="og:type" content="website">
 <meta property="og:url" content="https://www.thiyagi.com/second-to-hour.php">
 <meta property="og:image" content="https://www.thiyagi.com/nt.png">
 <meta property="og:site_name" content="Thiyagi">
 <meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:title" content="Second to Hour Converter 2025 - Time Calculator">
-<meta name="twitter:description" content="Free online second to hour converter 2025. Convert seconds to hours instantly with accurate time conversion.">
+<meta name="twitter:title" content="Second to Hour Converter 2026 - Time Calculator">
+<meta name="twitter:description" content="Free online second to hour converter 2026. Convert seconds to hours instantly with accurate time conversion.">
 <meta name="twitter:image" content="https://www.thiyagi.com/nt.png">
 
 <div class="min-h-screen bg-gradient-to-br from-blue-50 via-indigo-50 to-purple-50 py-12">

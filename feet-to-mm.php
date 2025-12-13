@@ -1,12 +1,12 @@
 <?php include 'header.php';?>
-<title>Feet to Millimeter Converter 2025 | Feet to MM | Free Tool</title>
-<meta name="description" content="Convert feet to millimeter instantly with our 2025 accurate converter. Perfect feet to mm conversion with real-time calculations for precision measurement.">
-<meta name="keywords" content="feet to millimeter 2025, feet mm converter, imperial to metric 2025, precision measurement calculator, construction conversion">
+<title>Feet to Millimeter Converter 2026 | Feet to MM | Free Tool</title>
+<meta name="description" content="Convert feet to millimeter instantly with our 2026 accurate converter. Perfect feet to mm conversion with real-time calculations for precision measurement.">
+<meta name="keywords" content="feet to millimeter 2026, feet mm converter, imperial to metric 2026, precision measurement calculator, construction conversion">
 <link rel="canonical" href="https://www.thiyagi.com/feet-to-mm">
 
 <!-- Open Graph Meta Tags -->
-<meta property="og:title" content="Feet to Millimeter Converter 2025 | Feet to MM | Free Tool">
-<meta property="og:description" content="Convert feet to millimeter instantly with our 2025 accurate converter. Perfect feet to mm conversion with real-time calculations for precision measurement.">
+<meta property="og:title" content="Feet to Millimeter Converter 2026 | Feet to MM | Free Tool">
+<meta property="og:description" content="Convert feet to millimeter instantly with our 2026 accurate converter. Perfect feet to mm conversion with real-time calculations for precision measurement.">
 <meta property="og:url" content="https://www.thiyagi.com/feet-to-mm">
 <meta property="og:type" content="website">
 <meta property="og:image" content="https://www.thiyagi.com/nt.png">
@@ -14,8 +14,8 @@
 
 <!-- Twitter Card Meta Tags -->
 <meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:title" content="Feet to Millimeter Converter 2025 | Feet to MM | Free Tool">
-<meta name="twitter:description" content="Convert feet to millimeter instantly with our 2025 accurate converter. Perfect feet to mm conversion with real-time calculations for precision measurement.">
+<meta name="twitter:title" content="Feet to Millimeter Converter 2026 | Feet to MM | Free Tool">
+<meta name="twitter:description" content="Convert feet to millimeter instantly with our 2026 accurate converter. Perfect feet to mm conversion with real-time calculations for precision measurement.">
 <meta name="twitter:image" content="https://www.thiyagi.com/nt.png">
 
 <!-- Additional SEO Meta Tags -->
@@ -39,7 +39,7 @@
           Feet to Millimeter Converter
         </h1>
         <p class="text-xl text-gray-600 mb-8 max-w-3xl mx-auto">
-          Convert feet to millimeters instantly with our accurate 2025 calculator. 
+          Convert feet to millimeters instantly with our accurate 2026 calculator. 
           Perfect for construction, engineering, and architectural measurement applications.
         </p>
       </div>
@@ -157,16 +157,16 @@
     <article class="bg-white rounded-xl shadow-lg p-8">
       <h2 class="text-2xl font-bold text-gray-800 mb-6 flex items-center gap-3">
         <i class="fas fa-info-circle text-indigo-600" aria-hidden="true"></i>
-        Feet to Millimeter Conversion 2025
+        Feet to Millimeter Conversion 2026
       </h2>
       <div class="prose max-w-none text-gray-600">
         <p class="mb-4">
-          Converting feet to millimeters is essential for construction, architecture, and engineering applications in 2025. 
+          Converting feet to millimeters is essential for construction, architecture, and engineering applications in 2026. 
           This conversion bridges imperial and metric measurement systems, enabling accurate communication between architects, 
           engineers, and construction professionals working with building dimensions and specifications.
         </p>
         <p class="mb-6">
-          Our 2025 converter provides instant and precise conversions from feet to millimeters, essential for architects, 
+          Our 2026 converter provides instant and precise conversions from feet to millimeters, essential for architects, 
           construction workers, engineers, and builders working with detailed specifications. 
           One foot equals exactly 304.8 millimeters.
         </p>

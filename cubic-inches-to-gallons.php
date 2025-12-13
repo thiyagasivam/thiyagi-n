@@ -5,9 +5,9 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Cubic Inches to Gallons Converter 2025 - Free Online Calculator</title>
-    <meta name="description" content="Convert cubic inches to gallons with our free 2025 online calculator. Instant conversion between cubic inches and gallons with accurate results.">
-    <meta name="keywords" content="cubic inches to gallons converter 2025, volume converter, cubic inches conversion, gallons calculator 2025">
+    <title>Cubic Inches to Gallons Converter 2026 - Free Online Calculator</title>
+    <meta name="description" content="Convert cubic inches to gallons with our free 2026 online calculator. Instant conversion between cubic inches and gallons with accurate results.">
+    <meta name="keywords" content="cubic inches to gallons converter 2026, volume converter, cubic inches conversion, gallons calculator 2026">
     <script src="https://cdn.tailwindcss.com"></script>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
 </head>

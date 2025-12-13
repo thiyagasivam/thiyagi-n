@@ -305,7 +305,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Redirect Checker Tool (2025) - Free URL Redirection Tester</title>
+    <title>Redirect Checker Tool (2026) - Free URL Redirection Tester</title>
 <meta name="description" content="Check HTTP redirects, status codes, and URL chains in real-time. Free online tool to analyze 301, 302 redirects with full path visualization - no installation needed.">
     <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" rel="stylesheet">
     <style>

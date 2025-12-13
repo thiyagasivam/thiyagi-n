@@ -1,12 +1,12 @@
 <?php include '../header.php';?>
 <?php include 'breadcrumb-schema.php';?>
 <?php
-// Sikkim Electricity Bill Calculator - 2025 Tariffs
-$page_title = "Sikkim Electricity Bill Calculator (2025) | Sikkim Power Department";
-$page_description = "Calculate your electricity bill for Sikkim using the official 2025 tariff rates. Instant estimates with subsidy options.";
-$page_keywords = "Sikkim electricity bill, power calculator, 2025 tariff, Sikkim Power Department";
+// Sikkim Electricity Bill Calculator - 2026 Tariffs
+$page_title = "Sikkim Electricity Bill Calculator (2026) | Sikkim Power Department";
+$page_description = "Calculate your electricity bill for Sikkim using the official 2026 tariff rates. Instant estimates with subsidy options.";
+$page_keywords = "Sikkim electricity bill, power calculator, 2026 tariff, Sikkim Power Department";
 
-// 2025 Electricity Tariff Slabs for Sikkim (hypothetical rates - replace with actual)
+// 2026 Electricity Tariff Slabs for Sikkim (hypothetical rates - replace with actual)
 $tariff_slabs = [
     ['limit' => 50,    'rate' => 3.50, 'subsidy_rate' => 2.50],
     ['limit' => 100,   'rate' => 4.50, 'subsidy_rate' => 3.00],
@@ -47,7 +47,7 @@ $bill_amount = $units > 0 ? calculateBill($units, $apply_subsidy, $tariff_slabs,
 
 // Generate share URL
 $share_url = (isset($_SERVER['HTTPS']) && $_SERVER['HTTPS'] === 'on' ? "https" : "http") . "://$_SERVER[HTTP_HOST]$_SERVER[REQUEST_URI]";
-$whatsapp_share_url = "https://wa.me/?text=" . urlencode("Check out the Sikkim Electricity Bill Calculator (2025): $share_url");
+$whatsapp_share_url = "https://wa.me/?text=" . urlencode("Check out the Sikkim Electricity Bill Calculator (2026): $share_url");
 ?>
 <!DOCTYPE html>
 <html lang="en">
@@ -94,7 +94,7 @@ $whatsapp_share_url = "https://wa.me/?text=" . urlencode("Check out the Sikkim E
             <div class="flex items-center justify-between">
                 <div>
                     <h1 class="text-3xl font-bold text-green-800">Sikkim Electricity Bill Calculator</h1>
-                    <p class="text-gray-600">2025 Tariff Rates | Sikkim Power Department</p>
+                    <p class="text-gray-600">2026 Tariff Rates | Sikkim Power Department</p>
                 </div>
                 <div class="w-16 h-16">
                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="currentColor" class="text-green-600">
@@ -200,7 +200,7 @@ $whatsapp_share_url = "https://wa.me/?text=" . urlencode("Check out the Sikkim E
         
         <!-- Tariff Information -->
         <section class="bg-white rounded-lg shadow-md p-6 mb-8">
-            <h2 class="text-xl font-semibold text-gray-800 mb-4">2025 Electricity Tariff Slabs</h2>
+            <h2 class="text-xl font-semibold text-gray-800 mb-4">2026 Electricity Tariff Slabs</h2>
             <div class="overflow-x-auto">
                 <table class="min-w-full divide-y divide-gray-200">
                     <thead class="bg-gray-50">

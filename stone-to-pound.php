@@ -1,12 +1,12 @@
 <?php include 'header.php';?>
-<title>Stone to Pound Converter 2025 | Convert st to lb | Free Tool</title>
-<meta name="description" content="Convert stone to pound instantly with our 2025 accurate weight converter. Perfect st to lb conversion with real-time calculations for weight measurements.">
-<meta name="keywords" content="stone to pound 2025, weight converter, mass conversion 2025, st to lb calculator, weight tool">
+<title>Stone to Pound Converter 2026 | Convert st to lb | Free Tool</title>
+<meta name="description" content="Convert stone to pound instantly with our 2026 accurate weight converter. Perfect st to lb conversion with real-time calculations for weight measurements.">
+<meta name="keywords" content="stone to pound 2026, weight converter, mass conversion 2026, st to lb calculator, weight tool">
 <link rel="canonical" href="https://www.thiyagi.com/stone-to-pound">
 
 <!-- Open Graph Meta Tags -->
-<meta property="og:title" content="Stone to Pound Converter 2025 | Convert st to lb | Free Tool">
-<meta property="og:description" content="Convert stone to pound instantly with our 2025 accurate weight converter. Perfect st to lb conversion with real-time calculations for weight measurements.">
+<meta property="og:title" content="Stone to Pound Converter 2026 | Convert st to lb | Free Tool">
+<meta property="og:description" content="Convert stone to pound instantly with our 2026 accurate weight converter. Perfect st to lb conversion with real-time calculations for weight measurements.">
 <meta property="og:url" content="https://www.thiyagi.com/stone-to-pound">
 <meta property="og:type" content="website">
 <meta property="og:image" content="https://www.thiyagi.com/nt.png">
@@ -14,8 +14,8 @@
 
 <!-- Twitter Card Meta Tags -->
 <meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:title" content="Stone to Pound Converter 2025 | Convert st to lb | Free Tool">
-<meta name="twitter:description" content="Convert stone to pound instantly with our 2025 accurate weight converter. Perfect st to lb conversion with real-time calculations for weight measurements.">
+<meta name="twitter:title" content="Stone to Pound Converter 2026 | Convert st to lb | Free Tool">
+<meta name="twitter:description" content="Convert stone to pound instantly with our 2026 accurate weight converter. Perfect st to lb conversion with real-time calculations for weight measurements.">
 <meta name="twitter:image" content="https://www.thiyagi.com/nt.png">
 
 <!-- Additional SEO Meta Tags -->
@@ -39,7 +39,7 @@
           Stone to Pound Converter
         </h1>
         <p class="text-xl text-gray-600 mb-8 max-w-3xl mx-auto">
-          Convert stones to pounds instantly with our accurate 2025 weight calculator. 
+          Convert stones to pounds instantly with our accurate 2026 weight calculator. 
           Perfect for health tracking, fitness goals, and international weight conversions.
         </p>
       </div>
@@ -156,16 +156,16 @@
     <article class="bg-white rounded-xl shadow-lg p-8">
       <h2 class="text-2xl font-bold text-gray-800 mb-6 flex items-center gap-3">
         <i class="fas fa-info-circle text-emerald-600" aria-hidden="true"></i>
-        Stone to Pound Conversion 2025
+        Stone to Pound Conversion 2026
       </h2>
       <div class="prose max-w-none text-gray-600">
         <p class="mb-4">
-          Converting stones to pounds is essential for weight management, health tracking, and international communication in 2025. 
+          Converting stones to pounds is essential for weight management, health tracking, and international communication in 2026. 
           This conversion between different weight units enables accurate communication between professionals 
           working in healthcare, fitness, and nutrition fields, from personal training to medical consultations.
         </p>
         <p class="mb-6">
-          Our 2025 converter provides instant and precise conversions from stones to pounds, essential for healthcare professionals, 
+          Our 2026 converter provides instant and precise conversions from stones to pounds, essential for healthcare professionals, 
           fitness trainers, nutritionists, and anyone working with weight measurements. 
           1 stone equals exactly 14 pounds in the imperial system.
         </p>

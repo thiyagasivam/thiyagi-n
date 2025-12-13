@@ -1,19 +1,19 @@
 <?php include 'header.php'; ?>
 
 <!-- SEO Meta Tags -->
-<title>KPH to Meters per Second Converter 2025 - Speed Calculator | Thiyagi</title>
-<meta name="description" content="Free online KPH to meters per second converter 2025. Convert km/h to m/s instantly with accurate speed conversion for physics and engineering.">
-<meta name="keywords" content="KPH to meters per second converter 2025, km/h to m/s, speed converter, velocity calculator, physics converter">
+<title>KPH to Meters per Second Converter 2026 - Speed Calculator | Thiyagi</title>
+<meta name="description" content="Free online KPH to meters per second converter 2026. Convert km/h to m/s instantly with accurate speed conversion for physics and engineering.">
+<meta name="keywords" content="KPH to meters per second converter 2026, km/h to m/s, speed converter, velocity calculator, physics converter">
 <meta name="author" content="Thiyagi">
-<meta property="og:title" content="KPH to Meters per Second Converter 2025 - Speed Calculator">
-<meta property="og:description" content="Free online KPH to meters per second converter 2025. Convert km/h to m/s instantly.">
+<meta property="og:title" content="KPH to Meters per Second Converter 2026 - Speed Calculator">
+<meta property="og:description" content="Free online KPH to meters per second converter 2026. Convert km/h to m/s instantly.">
 <meta property="og:type" content="website">
 <meta property="og:url" content="https://www.thiyagi.com/kph-to-meters-per-second.php">
 <meta property="og:image" content="https://www.thiyagi.com/nt.png">
 <meta property="og:site_name" content="Thiyagi">
 <meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:title" content="KPH to Meters per Second Converter 2025 - Speed Calculator">
-<meta name="twitter:description" content="Free online KPH to meters per second converter 2025. Convert km/h to m/s instantly.">
+<meta name="twitter:title" content="KPH to Meters per Second Converter 2026 - Speed Calculator">
+<meta name="twitter:description" content="Free online KPH to meters per second converter 2026. Convert km/h to m/s instantly.">
 <meta name="twitter:image" content="https://www.thiyagi.com/nt.png">
 
 <div class="min-h-screen bg-gradient-to-br from-blue-50 via-sky-50 to-cyan-50 py-12">

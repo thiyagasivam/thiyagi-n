@@ -5,9 +5,9 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>PSI to Pascal Converter 2025 - Pressure Conversion Calculator</title>
-    <meta name="description" content="Convert PSI to Pascal with our free 2025 online calculator. Perfect for engineering, automotive, and pressure system calculations.">
-    <meta name="keywords" content="psi to pascal converter 2025, pressure converter, engineering calculator, automotive pressure 2025">
+    <title>PSI to Pascal Converter 2026 - Pressure Conversion Calculator</title>
+    <meta name="description" content="Convert PSI to Pascal with our free 2026 online calculator. Perfect for engineering, automotive, and pressure system calculations.">
+    <meta name="keywords" content="psi to pascal converter 2026, pressure converter, engineering calculator, automotive pressure 2026">
     <script src="https://cdn.tailwindcss.com"></script>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
 </head>

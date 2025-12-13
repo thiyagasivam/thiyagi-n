@@ -5,9 +5,9 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Feet per Second to MPH Converter 2025 - Speed Conversion Calculator</title>
-    <meta name="description" content="Convert feet per second (ft/s) to miles per hour (mph) with our free 2025 online calculator. Accurate speed conversion for physics and engineering.">
-    <meta name="keywords" content="feet per second to mph converter 2025, ft/s to mph, speed converter, velocity calculator 2025">
+    <title>Feet per Second to MPH Converter 2026 - Speed Conversion Calculator</title>
+    <meta name="description" content="Convert feet per second (ft/s) to miles per hour (mph) with our free 2026 online calculator. Accurate speed conversion for physics and engineering.">
+    <meta name="keywords" content="feet per second to mph converter 2026, ft/s to mph, speed converter, velocity calculator 2026">
     <script src="https://cdn.tailwindcss.com"></script>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
 </head>

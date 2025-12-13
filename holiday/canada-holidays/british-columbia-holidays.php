@@ -1,8 +1,8 @@
 <?php include '../../../header.php'; ?>
 
-<title>British Columbia Holidays 2025 | BC Provincial Holiday Calendar</title>
-<meta name="description" content="Complete British Columbia Holiday Calendar 2025. Find all BC provincial holidays, federal holidays, and statutory holidays for British Columbia, Canada.">
-<meta name="keywords" content="British Columbia holidays 2025, BC provincial holidays, Family Day BC, Truth and Reconciliation Day, statutory holidays BC">
+<title>British Columbia Holidays 2026 | BC Provincial Holiday Calendar</title>
+<meta name="description" content="Complete British Columbia Holiday Calendar 2026. Find all BC provincial holidays, federal holidays, and statutory holidays for British Columbia, Canada.">
+<meta name="keywords" content="British Columbia holidays 2026, BC provincial holidays, Family Day BC, Truth and Reconciliation Day, statutory holidays BC">
 <link rel="canonical" href="https://<?= $_SERVER['HTTP_HOST'] . strtok($_SERVER['REQUEST_URI'], '?') ?>">
 
 <style>
@@ -29,7 +29,7 @@
             <span class="text-gray-500">/</span>
             <a href="../" class="text-blue-600 hover:text-blue-800">Canada</a>
             <span class="text-gray-500">/</span>
-            <span class="text-gray-900 font-medium">British Columbia Holidays 2025</span>
+            <span class="text-gray-900 font-medium">British Columbia Holidays 2026</span>
         </div>
     </div>
 </nav>
@@ -38,7 +38,7 @@
     <header class="mb-8">
         <h1 class="text-4xl font-bold text-center text-bc-blue flex items-center justify-center gap-3">
             <i class="fas fa-mountain text-bc-green"></i>
-            British Columbia Holidays 2025
+            British Columbia Holidays 2026
             <i class="fas fa-calendar-days text-bc-red"></i>
         </h1>
         <p class="text-center text-lg text-gray-700 mt-2">Provincial and Federal Holiday Calendar for British Columbia, Canada</p>
@@ -48,67 +48,67 @@
         <div class="bg-white rounded-lg shadow-lg p-6 border-l-4 border-bc-blue">
             <h2 class="text-2xl font-bold text-bc-blue mb-4 flex items-center gap-2">
                 <i class="fas fa-flag"></i>
-                British Columbia Provincial Holidays 2025
+                British Columbia Provincial Holidays 2026
             </h2>
             <div class="grid md:grid-cols-2 gap-4">
                 <div class="bg-gray-50 p-4 rounded-lg">
                     <h3 class="font-semibold text-lg mb-2">New Year's Day</h3>
-                    <p class="text-gray-600">January 1, 2025 (Wednesday)</p>
+                    <p class="text-gray-600">January 1, 2026 (Wednesday)</p>
                     <p class="text-sm text-gray-500 mt-1">Federal statutory holiday</p>
                 </div>
                 <div class="bg-gray-50 p-4 rounded-lg">
                     <h3 class="font-semibold text-lg mb-2">Family Day</h3>
-                    <p class="text-gray-600">February 17, 2025 (Monday)</p>
+                    <p class="text-gray-600">February 17, 2026 (Monday)</p>
                     <p class="text-sm text-gray-500 mt-1">BC provincial holiday</p>
                 </div>
                 <div class="bg-gray-50 p-4 rounded-lg">
                     <h3 class="font-semibold text-lg mb-2">Good Friday</h3>
-                    <p class="text-gray-600">April 18, 2025 (Friday)</p>
+                    <p class="text-gray-600">April 18, 2026 (Friday)</p>
                     <p class="text-sm text-gray-500 mt-1">Federal statutory holiday</p>
                 </div>
                 <div class="bg-gray-50 p-4 rounded-lg">
                     <h3 class="font-semibold text-lg mb-2">Victoria Day</h3>
-                    <p class="text-gray-600">May 19, 2025 (Monday)</p>
+                    <p class="text-gray-600">May 19, 2026 (Monday)</p>
                     <p class="text-sm text-gray-500 mt-1">Federal statutory holiday</p>
                 </div>
                 <div class="bg-gray-50 p-4 rounded-lg">
                     <h3 class="font-semibold text-lg mb-2">Canada Day</h3>
-                    <p class="text-gray-600">July 1, 2025 (Tuesday)</p>
+                    <p class="text-gray-600">July 1, 2026 (Tuesday)</p>
                     <p class="text-sm text-gray-500 mt-1">Federal statutory holiday</p>
                 </div>
                 <div class="bg-gray-50 p-4 rounded-lg">
                     <h3 class="font-semibold text-lg mb-2">BC Day</h3>
-                    <p class="text-gray-600">August 4, 2025 (Monday)</p>
+                    <p class="text-gray-600">August 4, 2026 (Monday)</p>
                     <p class="text-sm text-gray-500 mt-1">BC provincial holiday</p>
                 </div>
                 <div class="bg-gray-50 p-4 rounded-lg">
                     <h3 class="font-semibold text-lg mb-2">Labour Day</h3>
-                    <p class="text-gray-600">September 1, 2025 (Monday)</p>
+                    <p class="text-gray-600">September 1, 2026 (Monday)</p>
                     <p class="text-sm text-gray-500 mt-1">Federal statutory holiday</p>
                 </div>
                 <div class="bg-gray-50 p-4 rounded-lg">
                     <h3 class="font-semibold text-lg mb-2">Truth and Reconciliation Day</h3>
-                    <p class="text-gray-600">September 30, 2025 (Tuesday)</p>
+                    <p class="text-gray-600">September 30, 2026 (Tuesday)</p>
                     <p class="text-sm text-gray-500 mt-1">Federal statutory holiday</p>
                 </div>
                 <div class="bg-gray-50 p-4 rounded-lg">
                     <h3 class="font-semibold text-lg mb-2">Thanksgiving</h3>
-                    <p class="text-gray-600">October 13, 2025 (Monday)</p>
+                    <p class="text-gray-600">October 13, 2026 (Monday)</p>
                     <p class="text-sm text-gray-500 mt-1">Federal statutory holiday</p>
                 </div>
                 <div class="bg-gray-50 p-4 rounded-lg">
                     <h3 class="font-semibold text-lg mb-2">Remembrance Day</h3>
-                    <p class="text-gray-600">November 11, 2025 (Tuesday)</p>
+                    <p class="text-gray-600">November 11, 2026 (Tuesday)</p>
                     <p class="text-sm text-gray-500 mt-1">BC statutory holiday</p>
                 </div>
                 <div class="bg-gray-50 p-4 rounded-lg">
                     <h3 class="font-semibold text-lg mb-2">Christmas Day</h3>
-                    <p class="text-gray-600">December 25, 2025 (Thursday)</p>
+                    <p class="text-gray-600">December 25, 2026 (Thursday)</p>
                     <p class="text-sm text-gray-500 mt-1">Federal statutory holiday</p>
                 </div>
                 <div class="bg-gray-50 p-4 rounded-lg">
                     <h3 class="font-semibold text-lg mb-2">Boxing Day</h3>
-                    <p class="text-gray-600">December 26, 2025 (Friday)</p>
+                    <p class="text-gray-600">December 26, 2026 (Friday)</p>
                     <p class="text-sm text-gray-500 mt-1">Federal statutory holiday</p>
                 </div>
             </div>
@@ -146,7 +146,7 @@
         <div class="max-w-6xl mx-auto">
             <h2 class="text-3xl font-bold text-gray-800 mb-8 text-center flex items-center justify-center space-x-3">
                 <i class="fas fa-university text-green-600"></i>
-                <span>Bank Holidays 2025</span>
+                <span>Bank Holidays 2026</span>
                 <i class="fas fa-credit-card text-green-500"></i>
             </h2>
             
@@ -176,7 +176,7 @@
                                 </div>
                                 <div>
                                     <div class="font-semibold text-gray-800">New Year's Day</div>
-                                    <div class="text-sm text-gray-600">Wednesday, Jan 1, 2025</div>
+                                    <div class="text-sm text-gray-600">Wednesday, Jan 1, 2026</div>
                                 </div>
                             </div>
                             <span class="bg-red-100 text-red-700 px-3 py-1 rounded-full text-sm font-medium">
@@ -190,7 +190,7 @@
                                 </div>
                                 <div>
                                     <div class="font-semibold text-gray-800">Good Friday</div>
-                                    <div class="text-sm text-gray-600">Friday, Apr 18, 2025</div>
+                                    <div class="text-sm text-gray-600">Friday, Apr 18, 2026</div>
                                 </div>
                             </div>
                             <span class="bg-red-100 text-red-700 px-3 py-1 rounded-full text-sm font-medium">
@@ -204,7 +204,7 @@
                                 </div>
                                 <div>
                                     <div class="font-semibold text-gray-800">Victoria Day</div>
-                                    <div class="text-sm text-gray-600">Monday, May 19, 2025</div>
+                                    <div class="text-sm text-gray-600">Monday, May 19, 2026</div>
                                 </div>
                             </div>
                             <span class="bg-red-100 text-red-700 px-3 py-1 rounded-full text-sm font-medium">
@@ -218,7 +218,7 @@
                                 </div>
                                 <div>
                                     <div class="font-semibold text-gray-800">Canada Day</div>
-                                    <div class="text-sm text-gray-600">Tuesday, Jul 1, 2025</div>
+                                    <div class="text-sm text-gray-600">Tuesday, Jul 1, 2026</div>
                                 </div>
                             </div>
                             <span class="bg-red-100 text-red-700 px-3 py-1 rounded-full text-sm font-medium">
@@ -232,7 +232,7 @@
                                 </div>
                                 <div>
                                     <div class="font-semibold text-gray-800">Labour Day</div>
-                                    <div class="text-sm text-gray-600">Monday, Sep 1, 2025</div>
+                                    <div class="text-sm text-gray-600">Monday, Sep 1, 2026</div>
                                 </div>
                             </div>
                             <span class="bg-red-100 text-red-700 px-3 py-1 rounded-full text-sm font-medium">
@@ -246,7 +246,7 @@
                                 </div>
                                 <div>
                                     <div class="font-semibold text-gray-800">Truth and Reconciliation Day</div>
-                                    <div class="text-sm text-gray-600">Tuesday, Sep 30, 2025</div>
+                                    <div class="text-sm text-gray-600">Tuesday, Sep 30, 2026</div>
                                 </div>
                             </div>
                             <span class="bg-red-100 text-red-700 px-3 py-1 rounded-full text-sm font-medium">
@@ -260,7 +260,7 @@
                                 </div>
                                 <div>
                                     <div class="font-semibold text-gray-800">Thanksgiving</div>
-                                    <div class="text-sm text-gray-600">Monday, Oct 13, 2025</div>
+                                    <div class="text-sm text-gray-600">Monday, Oct 13, 2026</div>
                                 </div>
                             </div>
                             <span class="bg-red-100 text-red-700 px-3 py-1 rounded-full text-sm font-medium">
@@ -274,7 +274,7 @@
                                 </div>
                                 <div>
                                     <div class="font-semibold text-gray-800">Remembrance Day</div>
-                                    <div class="text-sm text-gray-600">Tuesday, Nov 11, 2025</div>
+                                    <div class="text-sm text-gray-600">Tuesday, Nov 11, 2026</div>
                                 </div>
                             </div>
                             <span class="bg-red-100 text-red-700 px-3 py-1 rounded-full text-sm font-medium">
@@ -288,7 +288,7 @@
                                 </div>
                                 <div>
                                     <div class="font-semibold text-gray-800">Christmas Day</div>
-                                    <div class="text-sm text-gray-600">Thursday, Dec 25, 2025</div>
+                                    <div class="text-sm text-gray-600">Thursday, Dec 25, 2026</div>
                                 </div>
                             </div>
                             <span class="bg-red-100 text-red-700 px-3 py-1 rounded-full text-sm font-medium">
@@ -302,7 +302,7 @@
                                 </div>
                                 <div>
                                     <div class="font-semibold text-gray-800">Boxing Day</div>
-                                    <div class="text-sm text-gray-600">Friday, Dec 26, 2025</div>
+                                    <div class="text-sm text-gray-600">Friday, Dec 26, 2026</div>
                                 </div>
                             </div>
                             <span class="bg-red-100 text-red-700 px-3 py-1 rounded-full text-sm font-medium">
@@ -326,7 +326,7 @@
                                 </div>
                                 <div>
                                     <div class="font-semibold text-gray-800">Family Day</div>
-                                    <div class="text-sm text-gray-600">Monday, Feb 17, 2025</div>
+                                    <div class="text-sm text-gray-600">Monday, Feb 17, 2026</div>
                                 </div>
                             </div>
                             <span class="bg-red-100 text-red-700 px-3 py-1 rounded-full text-sm font-medium">
@@ -340,7 +340,7 @@
                                 </div>
                                 <div>
                                     <div class="font-semibold text-gray-800">BC Day</div>
-                                    <div class="text-sm text-gray-600">Monday, Aug 4, 2025</div>
+                                    <div class="text-sm text-gray-600">Monday, Aug 4, 2026</div>
                                 </div>
                             </div>
                             <span class="bg-red-100 text-red-700 px-3 py-1 rounded-full text-sm font-medium">
@@ -379,7 +379,7 @@
             </h2>
             <div class="space-y-6">
                 <div class="bg-gray-50 rounded-lg p-6 hover:shadow-md transition-all">
-                    <h3 class="text-xl font-semibold text-gray-800 mb-3">What are the main statutory holidays in British Columbia 2025?</h3>
+                    <h3 class="text-xl font-semibold text-gray-800 mb-3">What are the main statutory holidays in British Columbia 2026?</h3>
                     <p class="text-gray-700 leading-relaxed">BC observes all federal statutory holidays plus two provincial holidays: Family Day and BC Day, and uniquely observes Remembrance Day as a statutory holiday.</p>
                 </div>
                 <div class="bg-gray-50 rounded-lg p-6 hover:shadow-md transition-all">

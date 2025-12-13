@@ -29,7 +29,7 @@ function generateTitles($keywords) {
     // Generate diverse title suggestions
     $titles = [
         // How-to titles
-        "How to " . ucwords($mainKeyword) . " - Complete Guide 2025",
+        "How to " . ucwords($mainKeyword) . " - Complete Guide 2026",
         "How to " . ucwords($mainKeyword) . " in 10 Minutes",
         "How to " . ucwords($mainKeyword) . " Like a Pro",
         
@@ -41,7 +41,7 @@ function generateTitles($keywords) {
         // Ultimate guides
         "Ultimate Guide to " . ucwords($mainKeyword) . " for Beginners",
         "The Complete " . ucwords($mainKeyword) . " Tutorial",
-        "Master " . ucwords($mainKeyword) . " in 2025",
+        "Master " . ucwords($mainKeyword) . " in 2026",
         
         // Explanatory titles
         ucwords($mainKeyword) . " Explained in Simple Terms",
@@ -54,13 +54,13 @@ function generateTitles($keywords) {
         "The Truth About " . ucwords($mainKeyword),
         
         // Trending/current titles
-        ucwords($mainKeyword) . " in 2025: What You Need to Know",
+        ucwords($mainKeyword) . " in 2026: What You Need to Know",
         "Latest " . ucwords($mainKeyword) . " Trends and Updates",
-        "Future of " . ucwords($mainKeyword) . " - 2025 Predictions",
+        "Future of " . ucwords($mainKeyword) . " - 2026 Predictions",
         
         // Question titles
         "What is " . ucwords($mainKeyword) . "? (Beginner's Guide)",
-        "Is " . ucwords($mainKeyword) . " Worth It in 2025?",
+        "Is " . ucwords($mainKeyword) . " Worth It in 2026?",
         "Should You Try " . ucwords($mainKeyword) . "?",
         
         // Comparison titles
@@ -99,8 +99,8 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Free YouTube Title Generator 2025 - Create Engaging Video Titles</title>
-    <meta name="description" content="Generate compelling YouTube video titles that drive views and engagement. Professional title creator tool for content creators and marketers (2025).">
+    <title>Free YouTube Title Generator 2026 - Create Engaging Video Titles</title>
+    <meta name="description" content="Generate compelling YouTube video titles that drive views and engagement. Professional title creator tool for content creators and marketers (2026).">
     <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" rel="stylesheet">
     <style>
         .title-item {

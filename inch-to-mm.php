@@ -1,12 +1,12 @@
 <?php include 'header.php';?>
-<title>Inch to Millimeter Converter 2025 | Inch to MM | Free Tool</title>
-<meta name="description" content="Convert inch to millimeter instantly with our 2025 accurate converter. Perfect inch to mm conversion with real-time calculations for precision engineering.">
-<meta name="keywords" content="inch to millimeter 2025, inch mm converter, imperial metric conversion 2025, precision measurement calculator, inch mm conversion">
+<title>Inch to Millimeter Converter 2026 | Inch to MM | Free Tool</title>
+<meta name="description" content="Convert inch to millimeter instantly with our 2026 accurate converter. Perfect inch to mm conversion with real-time calculations for precision engineering.">
+<meta name="keywords" content="inch to millimeter 2026, inch mm converter, imperial metric conversion 2026, precision measurement calculator, inch mm conversion">
 <link rel="canonical" href="https://www.thiyagi.com/inch-to-mm">
 
 <!-- Open Graph Meta Tags -->
-<meta property="og:title" content="Inch to Millimeter Converter 2025 | Inch to MM | Free Tool">
-<meta property="og:description" content="Convert inch to millimeter instantly with our 2025 accurate converter. Perfect inch to mm conversion with real-time calculations for precision engineering.">
+<meta property="og:title" content="Inch to Millimeter Converter 2026 | Inch to MM | Free Tool">
+<meta property="og:description" content="Convert inch to millimeter instantly with our 2026 accurate converter. Perfect inch to mm conversion with real-time calculations for precision engineering.">
 <meta property="og:url" content="https://www.thiyagi.com/inch-to-mm">
 <meta property="og:type" content="website">
 <meta property="og:image" content="https://www.thiyagi.com/nt.png">
@@ -14,8 +14,8 @@
 
 <!-- Twitter Card Meta Tags -->
 <meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:title" content="Inch to Millimeter Converter 2025 | Inch to MM | Free Tool">
-<meta name="twitter:description" content="Convert inch to millimeter instantly with our 2025 accurate converter. Perfect inch to mm conversion with real-time calculations for precision engineering.">
+<meta name="twitter:title" content="Inch to Millimeter Converter 2026 | Inch to MM | Free Tool">
+<meta name="twitter:description" content="Convert inch to millimeter instantly with our 2026 accurate converter. Perfect inch to mm conversion with real-time calculations for precision engineering.">
 <meta name="twitter:image" content="https://www.thiyagi.com/nt.png">
 
 <!-- Additional SEO Meta Tags -->
@@ -39,7 +39,7 @@
           Inch to Millimeter Converter
         </h1>
         <p class="text-xl text-gray-600 mb-8 max-w-3xl mx-auto">
-          Convert inches to millimeters instantly with our accurate 2025 calculator. 
+          Convert inches to millimeters instantly with our accurate 2026 calculator. 
           Perfect for precision engineering, manufacturing, and technical specifications.
         </p>
       </div>
@@ -157,16 +157,16 @@
     <article class="bg-white rounded-xl shadow-lg p-8">
       <h2 class="text-2xl font-bold text-gray-800 mb-6 flex items-center gap-3">
         <i class="fas fa-info-circle text-teal-600" aria-hidden="true"></i>
-        Inch to Millimeter Conversion 2025
+        Inch to Millimeter Conversion 2026
       </h2>
       <div class="prose max-w-none text-gray-600">
         <p class="mb-4">
-          Converting inches to millimeters is essential for precision engineering, manufacturing, and technical specifications in 2025. 
+          Converting inches to millimeters is essential for precision engineering, manufacturing, and technical specifications in 2026. 
           This imperial to metric conversion enables accurate communication for engineers, machinists, 
           and manufacturing professionals working with precision tolerances and international standards.
         </p>
         <p class="mb-6">
-          Our 2025 converter provides instant and accurate conversions from inches to millimeters, essential for engineers, 
+          Our 2026 converter provides instant and accurate conversions from inches to millimeters, essential for engineers, 
           machinists, manufacturing professionals, and precision specialists working with technical specifications. 
           One inch equals exactly 25.4 millimeters.
         </p>

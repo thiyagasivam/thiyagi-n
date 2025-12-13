@@ -47,8 +47,8 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Free Binary Translator 2025 - Convert Text/Binary Instantly</title>
-    <meta name="description" content="Instantly translate binary code to text (and vice versa) in 2025! 100% free online tool with real-time conversion. Perfect for programmers, students & hobbyists!">
+    <title>Free Binary Translator 2026 - Convert Text/Binary Instantly</title>
+    <meta name="description" content="Instantly translate binary code to text (and vice versa) in 2026! 100% free online tool with real-time conversion. Perfect for programmers, students & hobbyists!">
     <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" rel="stylesheet">
     <style>
         .textarea-bg {

@@ -42,8 +42,8 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Keyword Density Checker 2025 - Free SEO Content Analyzer Tool</title>
-<meta name="description" content="Free online keyword density analyzer for 2025. Calculate word frequency, optimize content for SEO, and improve search rankings with our real-time text analysis tool.">
+    <title>Keyword Density Checker 2026 - Free SEO Content Analyzer Tool</title>
+<meta name="description" content="Free online keyword density analyzer for 2026. Calculate word frequency, optimize content for SEO, and improve search rankings with our real-time text analysis tool.">
     <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" rel="stylesheet">
 
 </head>

@@ -1,19 +1,19 @@
 <?php include 'header.php'; ?>
 
 <!-- SEO Meta Tags -->
-<title>Fluid Ounce to Quart Converter 2025 - US Volume Calculator | Thiyagi</title>
-<meta name="description" content="Free online fluid ounce to quart converter 2025. Convert US fluid ounces to quarts instantly. Perfect for cooking and beverage measurements.">
-<meta name="keywords" content="fluid ounce to quart converter 2025, fl oz to quart, US volume converter, cooking calculator, beverage measurement">
+<title>Fluid Ounce to Quart Converter 2026 - US Volume Calculator | Thiyagi</title>
+<meta name="description" content="Free online fluid ounce to quart converter 2026. Convert US fluid ounces to quarts instantly. Perfect for cooking and beverage measurements.">
+<meta name="keywords" content="fluid ounce to quart converter 2026, fl oz to quart, US volume converter, cooking calculator, beverage measurement">
 <meta name="author" content="Thiyagi">
-<meta property="og:title" content="Fluid Ounce to Quart Converter 2025 - US Volume Calculator">
-<meta property="og:description" content="Free online fluid ounce to quart converter 2025. Convert US fluid ounces to quarts instantly.">
+<meta property="og:title" content="Fluid Ounce to Quart Converter 2026 - US Volume Calculator">
+<meta property="og:description" content="Free online fluid ounce to quart converter 2026. Convert US fluid ounces to quarts instantly.">
 <meta property="og:type" content="website">
 <meta property="og:url" content="https://www.thiyagi.com/fluid-ounce-us-to-quart-us.php">
 <meta property="og:image" content="https://www.thiyagi.com/nt.png">
 <meta property="og:site_name" content="Thiyagi">
 <meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:title" content="Fluid Ounce to Quart Converter 2025 - US Volume Calculator">
-<meta name="twitter:description" content="Free online fluid ounce to quart converter 2025. Convert US fluid ounces to quarts instantly.">
+<meta name="twitter:title" content="Fluid Ounce to Quart Converter 2026 - US Volume Calculator">
+<meta name="twitter:description" content="Free online fluid ounce to quart converter 2026. Convert US fluid ounces to quarts instantly.">
 <meta name="twitter:image" content="https://www.thiyagi.com/nt.png">
 
 <div class="min-h-screen bg-gradient-to-br from-green-50 via-emerald-50 to-teal-50 py-12">

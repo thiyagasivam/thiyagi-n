@@ -5,9 +5,9 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title><?php echo "All Banks Two Wheeler Loan EMI Calculator 2025 - Compare Interest Rates | Thiyagi.com"; ?></title>
-  <meta name="description" content="<?php echo "Compare two-wheeler loan EMI calculators from all major banks, NBFCs, and fintech companies. Get current 2025 interest rates, eligibility criteria, and calculate EMI for bikes and scooters from 50+ lenders."; ?>">
-  <meta name="keywords" content="<?php echo "two wheeler loan calculator all banks, bike loan comparison, scooter loan interest rates 2025, EMI calculator banks, NBFC vehicle loan, fintech two wheeler loans"; ?>">
+  <title><?php echo "All Banks Two Wheeler Loan EMI Calculator 2026 - Compare Interest Rates | Thiyagi.com"; ?></title>
+  <meta name="description" content="<?php echo "Compare two-wheeler loan EMI calculators from all major banks, NBFCs, and fintech companies. Get current 2026 interest rates, eligibility criteria, and calculate EMI for bikes and scooters from 50+ lenders."; ?>">
+  <meta name="keywords" content="<?php echo "two wheeler loan calculator all banks, bike loan comparison, scooter loan interest rates 2026, EMI calculator banks, NBFC vehicle loan, fintech two wheeler loans"; ?>">
   <link rel="canonical" href="<?php echo "https://www.thiyagi.com/calculators/all-banks-two-wheeler-loan-calculators"; ?>">
   <link href="https://www.thiyagi.com/nt.png" rel="icon">
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
@@ -168,8 +168,8 @@ $lenders = [
       <div class="inline-flex items-center justify-center w-16 h-16 bg-white/20 rounded-full mb-4">
         <i class="fas fa-motorcycle text-2xl"></i>
       </div>
-      <h1 class="text-4xl md:text-5xl font-bold mb-4">All Banks Two Wheeler Loan EMI Calculator 2025</h1>
-      <p class="text-xl opacity-90 max-w-3xl mx-auto">Compare two-wheeler loan EMI calculators from 189+ banks, NBFCs, and fintech companies. Find the best bike & scooter loan rates for 2025</p>
+      <h1 class="text-4xl md:text-5xl font-bold mb-4">All Banks Two Wheeler Loan EMI Calculator 2026</h1>
+      <p class="text-xl opacity-90 max-w-3xl mx-auto">Compare two-wheeler loan EMI calculators from 189+ banks, NBFCs, and fintech companies. Find the best bike & scooter loan rates for 2026</p>
     </div>
   </div>
 </div>
@@ -313,7 +313,7 @@ $lenders = [
   <!-- SEO Content Section -->
   <div class="mt-16 bg-white rounded-2xl shadow-xl p-8">
     <div class="prose max-w-none">
-      <h2 class="text-3xl font-bold text-gray-800 mb-6">Two Wheeler Loan Comparison Guide 2025</h2>
+      <h2 class="text-3xl font-bold text-gray-800 mb-6">Two Wheeler Loan Comparison Guide 2026</h2>
       
       <div class="grid md:grid-cols-3 gap-8 mb-8">
         <div class="text-center p-6 bg-gradient-to-b from-blue-50 to-blue-100 rounded-xl">
@@ -419,7 +419,7 @@ $lenders = [
       <h3 class="text-2xl font-semibold text-gray-800 mb-4">Frequently Asked Questions</h3>
       <div class="space-y-6">
         <div class="border-l-4 border-blue-400 pl-6">
-          <h4 class="font-semibold text-gray-800 mb-2">What is the best interest rate for two-wheeler loans in 2025?</h4>
+          <h4 class="font-semibold text-gray-800 mb-2">What is the best interest rate for two-wheeler loans in 2026?</h4>
           <p class="text-gray-600">The best rates start from 8.50% for government NBFCs like HUDCO, while private banks typically offer rates between 9.50% to 20%. Your credit score and income significantly impact the rate offered.</p>
         </div>
         

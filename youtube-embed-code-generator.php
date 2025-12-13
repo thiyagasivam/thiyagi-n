@@ -99,7 +99,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>YouTube Embed Code Generator 2025 - Free Online Embed Builder</title>
+    <title>YouTube Embed Code Generator 2026 - Free Online Embed Builder</title>
     <meta name="description" content="Create YouTube embed codes instantly. Supports watch, shorts, and youtu.be links with optional start time. Copy the iframe code and preview it right away.">
     <meta name="keywords" content="YouTube embed code, iframe generator, embed YouTube, YouTube shorts embed, YouTube start time, nocookie embed, video iframe">
     <meta name="robots" content="index, follow">

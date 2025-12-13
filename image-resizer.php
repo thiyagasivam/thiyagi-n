@@ -142,8 +142,8 @@ function formatBytes($bytes, $precision = 2) {
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Free Image Resizer 2025 - Resize Photos to Any Dimensions Online</title>
-<meta name="description" content="Instantly resize JPG, PNG, and WebP images to exact pixels or percentages (2025). Perfect for social media, websites, and documents - Bulk processing supported!">
+    <title>Free Image Resizer 2026 - Resize Photos to Any Dimensions Online</title>
+<meta name="description" content="Instantly resize JPG, PNG, and WebP images to exact pixels or percentages (2026). Perfect for social media, websites, and documents - Bulk processing supported!">
     <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" rel="stylesheet">
     <style>
         .file-upload {

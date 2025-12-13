@@ -1,12 +1,12 @@
 <?php include 'header.php';?>
-<title>Meters to Miles Converter 2025 | meters to miles | Free Distance Tool</title>
-<meta name="description" content="Convert meters to miles instantly with our 2025 accurate converter. Perfect meters to miles conversion with real-time calculations for distance measurements and navigation.">
-<meta name="keywords" content="meters to miles converter 2025, meters to miles converter, meter mile conversion, distance converter 2025, navigation tool, travel distance, running distance, athletics, sports measurements">
+<title>Meters to Miles Converter 2026 | meters to miles | Free Distance Tool</title>
+<meta name="description" content="Convert meters to miles instantly with our 2026 accurate converter. Perfect meters to miles conversion with real-time calculations for distance measurements and navigation.">
+<meta name="keywords" content="meters to miles converter 2026, meters to miles converter, meter mile conversion, distance converter 2026, navigation tool, travel distance, running distance, athletics, sports measurements">
 <link rel="canonical" href="https://www.thiyagi.com/meters-to-miles">
 
 <!-- Open Graph Meta Tags -->
-<meta property="og:title" content="Meters to Miles Converter 2025 | meters to miles | Free Distance Tool">
-<meta property="og:description" content="Convert meters to miles instantly with our 2025 accurate converter. Perfect meters to miles conversion with real-time calculations for distance measurements and navigation.">
+<meta property="og:title" content="Meters to Miles Converter 2026 | meters to miles | Free Distance Tool">
+<meta property="og:description" content="Convert meters to miles instantly with our 2026 accurate converter. Perfect meters to miles conversion with real-time calculations for distance measurements and navigation.">
 <meta property="og:url" content="https://www.thiyagi.com/meters-to-miles">
 <meta property="og:type" content="website">
 <meta property="og:image" content="https://www.thiyagi.com/nt.png">
@@ -14,8 +14,8 @@
 
 <!-- Twitter Card Meta Tags -->
 <meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:title" content="Meters to Miles Converter 2025 | meters to miles | Free Distance Tool">
-<meta name="twitter:description" content="Convert meters to miles instantly with our 2025 accurate converter. Perfect meters to miles conversion with real-time calculations for distance measurements and navigation.">
+<meta name="twitter:title" content="Meters to Miles Converter 2026 | meters to miles | Free Distance Tool">
+<meta name="twitter:description" content="Convert meters to miles instantly with our 2026 accurate converter. Perfect meters to miles conversion with real-time calculations for distance measurements and navigation.">
 <meta name="twitter:image" content="https://www.thiyagi.com/nt.png">
 
 <!-- Additional SEO Meta Tags -->
@@ -47,7 +47,7 @@
   "@context": "https://schema.org",
   "@type": "WebApplication",
   "name": "Meters to Miles Converter",
-  "description": "Convert meters to miles instantly with our accurate 2025 calculator. Perfect meters to miles conversion with real-time calculations for distance measurements and navigation.",
+  "description": "Convert meters to miles instantly with our accurate 2026 calculator. Perfect meters to miles conversion with real-time calculations for distance measurements and navigation.",
   "url": "https://www.thiyagi.com/meters-to-miles",
   "applicationCategory": "UtilityApplication",
   "operatingSystem": "Web Browser",
@@ -187,7 +187,7 @@
           Meters to Miles Converter
         </h1>
         <p class="text-xl text-gray-600 mb-8 max-w-3xl mx-auto">
-          Convert meters to miles instantly with our accurate 2025 calculator. 
+          Convert meters to miles instantly with our accurate 2026 calculator. 
           Perfect for travel planning, running distances, and navigation measurements.
         </p>
       </div>

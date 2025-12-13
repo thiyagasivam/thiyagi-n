@@ -44,10 +44,10 @@
     "@type": "Organization",
     "name": "Thiyagi Tools",
     "url": "https://www.thiyagi.com",
-    "foundingDate": "2025"
+    "foundingDate": "2026"
   },
-  "datePublished": "2025-08-23",
-  "dateModified": "2025-08-23",
+  "datePublished": "2026-08-23",
+  "dateModified": "2026-08-23",
   "featureList": [
     "Convert between multiple area units",
     "Real-time conversion calculations",

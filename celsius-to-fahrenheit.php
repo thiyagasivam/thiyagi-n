@@ -1,12 +1,12 @@
 <?php include 'header.php';?>
-<title>Celsius to Fahrenheit Converter 2025 | °C to °F | Free Tool</title>
-<meta name="description" content="Convert Celsius to Fahrenheit instantly with our 2025 accurate converter. Perfect °C to °F conversion with real-time calculations for temperature measurements.">
-<meta name="keywords" content="celsius to fahrenheit 2025, celsius fahrenheit converter, temperature unit conversion 2025, weather temperature calculator, c f conversion">
+<title>Celsius to Fahrenheit Converter 2026 | °C to °F | Free Tool</title>
+<meta name="description" content="Convert Celsius to Fahrenheit instantly with our 2026 accurate converter. Perfect °C to °F conversion with real-time calculations for temperature measurements.">
+<meta name="keywords" content="celsius to fahrenheit 2026, celsius fahrenheit converter, temperature unit conversion 2026, weather temperature calculator, c f conversion">
 <link rel="canonical" href="https://www.thiyagi.com/celsius-to-fahrenheit">
 
 <!-- Open Graph Meta Tags -->
-<meta property="og:title" content="Celsius to Fahrenheit Converter 2025 | °C to °F | Free Tool">
-<meta property="og:description" content="Convert Celsius to Fahrenheit instantly with our 2025 accurate converter. Perfect °C to °F conversion with real-time calculations for temperature measurements.">
+<meta property="og:title" content="Celsius to Fahrenheit Converter 2026 | °C to °F | Free Tool">
+<meta property="og:description" content="Convert Celsius to Fahrenheit instantly with our 2026 accurate converter. Perfect °C to °F conversion with real-time calculations for temperature measurements.">
 <meta property="og:url" content="https://www.thiyagi.com/celsius-to-fahrenheit">
 <meta property="og:type" content="website">
 <meta property="og:image" content="https://www.thiyagi.com/nt.png">
@@ -14,8 +14,8 @@
 
 <!-- Twitter Card Meta Tags -->
 <meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:title" content="Celsius to Fahrenheit Converter 2025 | °C to °F | Free Tool">
-<meta name="twitter:description" content="Convert Celsius to Fahrenheit instantly with our 2025 accurate converter. Perfect °C to °F conversion with real-time calculations for temperature measurements.">
+<meta name="twitter:title" content="Celsius to Fahrenheit Converter 2026 | °C to °F | Free Tool">
+<meta name="twitter:description" content="Convert Celsius to Fahrenheit instantly with our 2026 accurate converter. Perfect °C to °F conversion with real-time calculations for temperature measurements.">
 <meta name="twitter:image" content="https://www.thiyagi.com/nt.png">
 
 <!-- Additional SEO Meta Tags -->
@@ -39,7 +39,7 @@
           Celsius to Fahrenheit Converter
         </h1>
         <p class="text-xl text-gray-600 mb-8 max-w-3xl mx-auto">
-          Convert Celsius to Fahrenheit instantly with our accurate 2025 calculator. 
+          Convert Celsius to Fahrenheit instantly with our accurate 2026 calculator. 
           Perfect for weather forecasting, cooking recipes, and international temperature conversions.
         </p>
       </div>
@@ -156,16 +156,16 @@
     <article class="bg-white rounded-xl shadow-lg p-8">
       <h2 class="text-2xl font-bold text-gray-800 mb-6 flex items-center gap-3">
         <i class="fas fa-info-circle text-amber-600" aria-hidden="true"></i>
-        Celsius to Fahrenheit Conversion 2025
+        Celsius to Fahrenheit Conversion 2026
       </h2>
       <div class="prose max-w-none text-gray-600">
         <p class="mb-4">
-          Converting Celsius to Fahrenheit is essential for weather forecasting, cooking recipes, and international temperature conversions in 2025. 
+          Converting Celsius to Fahrenheit is essential for weather forecasting, cooking recipes, and international temperature conversions in 2026. 
           This temperature unit conversion enables accurate calculations for meteorologists, 
           chefs, travelers, and scientists working with international temperature standards.
         </p>
         <p class="mb-6">
-          Our 2025 converter provides instant and accurate conversions from Celsius to Fahrenheit, essential for weather professionals, 
+          Our 2026 converter provides instant and accurate conversions from Celsius to Fahrenheit, essential for weather professionals, 
           cooking enthusiasts, travelers, and scientists working with temperature measurements. 
           The conversion formula is (°C × 9/5) + 32 = °F.
         </p>

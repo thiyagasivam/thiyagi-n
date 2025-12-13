@@ -3,14 +3,14 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Extended Warranty Refund Calculator 2025 - Calculate Prorated Refund Amount | Thiyagi.com</title>
-    <meta name="description" content="Calculate your extended warranty refund amount for 2025. Get prorated refund estimates for unused warranty periods with detailed breakdown and cancellation guide.">
-    <meta name="keywords" content="extended warranty refund calculator 2025, warranty cancellation refund, prorated warranty refund, warranty refund amount calculator">
+    <title>Extended Warranty Refund Calculator 2026 - Calculate Prorated Refund Amount | Thiyagi.com</title>
+    <meta name="description" content="Calculate your extended warranty refund amount for 2026. Get prorated refund estimates for unused warranty periods with detailed breakdown and cancellation guide.">
+    <meta name="keywords" content="extended warranty refund calculator 2026, warranty cancellation refund, prorated warranty refund, warranty refund amount calculator">
     <meta name="author" content="Thiyagi">
     <meta name="robots" content="index, follow">
     
     <!-- Open Graph Meta Tags -->
-    <meta property="og:title" content="Extended Warranty Refund Calculator 2025 - Calculate Prorated Refund Amount">
+    <meta property="og:title" content="Extended Warranty Refund Calculator 2026 - Calculate Prorated Refund Amount">
     <meta property="og:description" content="Calculate your extended warranty refund amount with detailed breakdown and cancellation guidance.">
     <meta property="og:url" content="https://www.thiyagi.com/how-to-calculate-extended-warranty-refund">
     <meta property="og:type" content="website">
@@ -18,7 +18,7 @@
     
     <!-- Twitter Card Meta Tags -->
     <meta name="twitter:card" content="summary_large_image">
-    <meta name="twitter:title" content="Extended Warranty Refund Calculator 2025 - Calculate Prorated Refund Amount">
+    <meta name="twitter:title" content="Extended Warranty Refund Calculator 2026 - Calculate Prorated Refund Amount">
     <meta name="twitter:description" content="Calculate your extended warranty refund with detailed breakdown.">
     <meta name="twitter:image" content="https://www.thiyagi.com/nt.png">
     
@@ -88,7 +88,7 @@
 {
   "@context": "https://schema.org",
   "@type": "WebApplication",
-  "name": "Extended Warranty Refund Calculator 2025",
+  "name": "Extended Warranty Refund Calculator 2026",
   "description": "Calculate prorated extended warranty refund amounts based on unused warranty periods, cancellation fees, and terms.",
   "url": "https://www.thiyagi.com/how-to-calculate-extended-warranty-refund",
   "applicationCategory": "FinanceApplication",

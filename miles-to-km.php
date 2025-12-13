@@ -1,13 +1,13 @@
 <?php include 'header.php';?>
 
-<title>Miles to KM Converter 2025 | miles to kilometers | Free Distance Tool</title>
-<meta name="description" content="Convert miles to kilometers instantly with our 2025 accurate converter. Perfect miles to km conversion with real-time calculations for travel and navigation.">
-<meta name="keywords" content="miles to km converter 2025, miles to kilometers converter, miles kilometers conversion, distance converter 2025, travel calculator, navigation tools, imperial to metric conversion, kilometers calculator online, road trip converter, automotive distance">
+<title>Miles to KM Converter 2026 | miles to kilometers | Free Distance Tool</title>
+<meta name="description" content="Convert miles to kilometers instantly with our 2026 accurate converter. Perfect miles to km conversion with real-time calculations for travel and navigation.">
+<meta name="keywords" content="miles to km converter 2026, miles to kilometers converter, miles kilometers conversion, distance converter 2026, travel calculator, navigation tools, imperial to metric conversion, kilometers calculator online, road trip converter, automotive distance">
 <link rel="canonical" href="https://www.thiyagi.com/miles-to-km">
 
 <!-- Open Graph Meta Tags -->
-<meta property="og:title" content="Miles to KM Converter 2025 | miles to kilometers | Free Distance Tool">
-<meta property="og:description" content="Convert miles to kilometers instantly with our 2025 accurate converter. Perfect miles to km conversion with real-time calculations for travel and navigation.">
+<meta property="og:title" content="Miles to KM Converter 2026 | miles to kilometers | Free Distance Tool">
+<meta property="og:description" content="Convert miles to kilometers instantly with our 2026 accurate converter. Perfect miles to km conversion with real-time calculations for travel and navigation.">
 <meta property="og:url" content="https://www.thiyagi.com/miles-to-km">
 <meta property="og:type" content="website">
 <meta property="og:image" content="https://www.thiyagi.com/nt.png">
@@ -15,8 +15,8 @@
 
 <!-- Twitter Card Meta Tags -->
 <meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:title" content="Miles to KM Converter 2025 | miles to kilometers | Free Distance Tool">
-<meta name="twitter:description" content="Convert miles to kilometers instantly with our 2025 accurate converter. Perfect miles to km conversion with real-time calculations for travel and navigation.">
+<meta name="twitter:title" content="Miles to KM Converter 2026 | miles to kilometers | Free Distance Tool">
+<meta name="twitter:description" content="Convert miles to kilometers instantly with our 2026 accurate converter. Perfect miles to km conversion with real-time calculations for travel and navigation.">
 <meta name="twitter:image" content="https://www.thiyagi.com/nt.png">
 
 <!-- Additional SEO Meta Tags -->
@@ -48,7 +48,7 @@
   "@context": "https://schema.org",
   "@type": "WebApplication",
   "name": "Miles to Kilometers Converter",
-  "description": "Convert miles to kilometers instantly with our accurate 2025 calculator. Perfect miles to km conversion with real-time calculations for travel and navigation.",
+  "description": "Convert miles to kilometers instantly with our accurate 2026 calculator. Perfect miles to km conversion with real-time calculations for travel and navigation.",
   "url": "https://www.thiyagi.com/miles-to-km",
   "applicationCategory": "UtilityApplication",
   "operatingSystem": "Web Browser",
@@ -188,7 +188,7 @@
           Miles to Kilometers Converter
         </h1>
         <p class="text-xl text-gray-600 mb-8 max-w-3xl mx-auto">
-          Convert miles to kilometers instantly with our accurate 2025 calculator. 
+          Convert miles to kilometers instantly with our accurate 2026 calculator. 
           Perfect for travel planning, GPS navigation, automotive, and international distance measurements.
         </p>
       </div>

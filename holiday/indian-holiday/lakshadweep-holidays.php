@@ -2,19 +2,19 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Lakshadweep Holidays 2025 | Complete Calendar | Festivals | National Holidays</title>
-    <meta name="description" content="Complete Lakshadweep Holiday Calendar 2025. Find all major festivals, national holidays, cultural events, and religious celebrations in Lakshadweep. Plan your year with our comprehensive guide.">
-    <meta name="keywords" content="Lakshadweep holidays 2025, Lakshadweep festivals, Eid, national holidays India, cultural events Lakshadweep, Lakshadweep calendar, holidays Lakshadweep, festival dates 2025">
+    <title>Lakshadweep Holidays 2026 | Complete Calendar | Festivals | National Holidays</title>
+    <meta name="description" content="Complete Lakshadweep Holiday Calendar 2026. Find all major festivals, national holidays, cultural events, and religious celebrations in Lakshadweep. Plan your year with our comprehensive guide.">
+    <meta name="keywords" content="Lakshadweep holidays 2026, Lakshadweep festivals, Eid, national holidays India, cultural events Lakshadweep, Lakshadweep calendar, holidays Lakshadweep, festival dates 2026">
     <meta name="author" content="Lakshadweep Holiday Calendar">
     <meta name="robots" content="index, follow">
-    <meta property="og:title" content="Lakshadweep Holidays 2025 - Complete Calendar">
-    <meta property="og:description" content="Complete Lakshadweep Holiday Calendar 2025 with all festivals, national holidays, and cultural events. Plan your year with our comprehensive guide.">
+    <meta property="og:title" content="Lakshadweep Holidays 2026 - Complete Calendar">
+    <meta property="og:description" content="Complete Lakshadweep Holiday Calendar 2026 with all festivals, national holidays, and cultural events. Plan your year with our comprehensive guide.">
     <meta property="og:type" content="website">
     <meta property="og:url" content="<?php echo 'https://' . $_SERVER['HTTP_HOST'] . $_SERVER['REQUEST_URI']; ?>">
-    <meta property="og:image" content="https://via.placeholder.com/1200x630/006400/FFFFFF?text=Lakshadweep+Holidays+2025">
+    <meta property="og:image" content="https://via.placeholder.com/1200x630/006400/FFFFFF?text=Lakshadweep+Holidays+2026">
     <meta name="twitter:card" content="summary_large_image">
-    <meta name="twitter:title" content="Lakshadweep Holidays 2025">
-    <meta name="twitter:description" content="Complete Lakshadweep Holiday Calendar 2025 with all festivals and holidays.">
+    <meta name="twitter:title" content="Lakshadweep Holidays 2026">
+    <meta name="twitter:description" content="Complete Lakshadweep Holiday Calendar 2026 with all festivals and holidays.">
     <link rel="canonical" href="<?php echo 'https://' . $_SERVER['HTTP_HOST'] . $_SERVER['REQUEST_URI']; ?>">
     <meta name="language" content="English">
     <meta name="geo.region" content="IN-LD">
@@ -24,26 +24,26 @@
     {
         "@context": "https://schema.org",
         "@type": "WebPage",
-        "name": "Lakshadweep Holidays 2025",
-        "description": "Complete Lakshadweep Holiday Calendar 2025 with all festivals, national holidays, and cultural events",
+        "name": "Lakshadweep Holidays 2026",
+        "description": "Complete Lakshadweep Holiday Calendar 2026 with all festivals, national holidays, and cultural events",
         "url": "<?php echo 'https://' . $_SERVER['HTTP_HOST'] . $_SERVER['REQUEST_URI']; ?>",
         "mainEntity": {
             "@type": "FAQPage",
             "mainEntity": [
                 {
                     "@type": "Question",
-                    "name": "What are the main festivals in Lakshadweep in 2025?",
+                    "name": "What are the main festivals in Lakshadweep in 2026?",
                     "acceptedAnswer": {
                         "@type": "Answer",
-                        "text": "The main festivals in Lakshadweep in 2025 include Eid al-Fitr, Eid al-Adha, and various Hindu festivals like Onam and Vishu, reflecting the diverse cultural heritage of the islands."
+                        "text": "The main festivals in Lakshadweep in 2026 include Eid al-Fitr, Eid al-Adha, and various Hindu festivals like Onam and Vishu, reflecting the diverse cultural heritage of the islands."
                     }
                 },
                 {
                     "@type": "Question",
-                    "name": "How many national holidays are there in Lakshadweep 2025?",
+                    "name": "How many national holidays are there in Lakshadweep 2026?",
                     "acceptedAnswer": {
                         "@type": "Answer",
-                        "text": "Lakshadweep observes all national holidays declared by the Government of India in 2025, including Republic Day (January 26), Independence Day (August 15), and Gandhi Jayanti (October 2)."
+                        "text": "Lakshadweep observes all national holidays declared by the Government of India in 2026, including Republic Day (January 26), Independence Day (August 15), and Gandhi Jayanti (October 2)."
                     }
                 },
                 {
@@ -59,12 +59,12 @@
                     "name": "How is Independence Day celebrated in Lakshadweep?",
                     "acceptedAnswer": {
                         "@type": "Answer",
-                        "text": "Independence Day (August 15, 2025) is celebrated with great patriotic fervor in Lakshadweep. The day typically begins with flag hoisting ceremonies at schools, government offices, and public places, often accompanied by cultural programs."
+                        "text": "Independence Day (August 15, 2026) is celebrated with great patriotic fervor in Lakshadweep. The day typically begins with flag hoisting ceremonies at schools, government offices, and public places, often accompanied by cultural programs."
                     }
                 },
                 {
                     "@type": "Question",
-                    "name": "Are there any special holidays specific to Lakshadweep in 2025?",
+                    "name": "Are there any special holidays specific to Lakshadweep in 2026?",
                     "acceptedAnswer": {
                         "@type": "Answer",
                         "text": "While Lakshadweep primarily observes national holidays and major religious festivals, local celebrations and regional holidays declared by the Administrator may also occur. The unique cultural events and island-specific observances add to the local character."
@@ -76,7 +76,7 @@
             "@type": "Organization",
             "name": "Lakshadweep Holiday Calendar"
         },
-        "datePublished": "2025-01-01",
+        "datePublished": "2026-01-01",
         "dateModified": "<?php echo date('Y-m-d'); ?>"
     }
     </script>
@@ -100,108 +100,108 @@
 </head>
 <body class="bg-gradient-to-br from-blue-50 to-green-100 min-h-screen">
     <?php
-    // Lakshadweep Holidays 2025 Data
-    // Note: Dates for Islamic holidays are estimates for 2025. Exact dates depend on moon sighting.
-    $holidays_2025 = [
-        '2025-01-01' => [
+    // Lakshadweep Holidays 2026 Data
+    // Note: Dates for Islamic holidays are estimates for 2026. Exact dates depend on moon sighting.
+    $holidays_2026 = [
+        '2026-01-01' => [
             'name' => 'New Year\'s Day',
             'type' => 'National Holiday',
             'description' => 'Celebration of the new year',
             'icon' => 'fa-calendar-day',
             'bank_holiday' => true
         ],
-        '2025-01-26' => [
+        '2026-01-26' => [
             'name' => 'Republic Day',
             'type' => 'National Holiday',
             'description' => 'Celebration of Indian Republic',
             'icon' => 'fa-flag',
             'bank_holiday' => true
         ],
-        '2025-02-14' => [
+        '2026-02-14' => [
             'name' => 'Valentine\'s Day',
             'type' => 'International',
             'description' => 'Day of love and affection',
             'icon' => 'fa-heart',
             'bank_holiday' => false
         ],
-        '2025-03-08' => [
+        '2026-03-08' => [
             'name' => 'International Women\'s Day',
             'type' => 'International',
             'description' => 'Celebration of women\'s achievements',
             'icon' => 'fa-venus',
             'bank_holiday' => false
         ],
-        '2025-03-29' => [ // Holi - Approximate date
+        '2026-03-29' => [ // Holi - Approximate date
             'name' => 'Holi',
             'type' => 'Religious',
             'description' => 'Festival of colors',
             'icon' => 'fa-spray-can-sparkles',
             'bank_holiday' => false
         ],
-        '2025-04-14' => [
+        '2026-04-14' => [
             'name' => 'Ambedkar Jayanti',
             'type' => 'National Holiday',
             'description' => 'Birth anniversary of Dr. B.R. Ambedkar',
             'icon' => 'fa-graduation-cap',
             'bank_holiday' => true
         ],
-        '2025-04-14' => [ // Vishu - Approximate date (Malayalam New Year)
+        '2026-04-14' => [ // Vishu - Approximate date (Malayalam New Year)
             'name' => 'Vishu',
             'type' => 'Regional Festival',
             'description' => 'Malayalam New Year and harvest festival',
             'icon' => 'fa-seedling',
             'bank_holiday' => true
         ],
-        '2025-05-01' => [
+        '2026-05-01' => [
             'name' => 'Labour Day / May Day',
             'type' => 'International',
             'description' => 'International Workers\' Day',
             'icon' => 'fa-hard-hat',
             'bank_holiday' => true
         ],
-        '2025-06-04' => [ // Eid al-Fitr - Approximate date (Shawwal 1)
+        '2026-06-04' => [ // Eid al-Fitr - Approximate date (Shawwal 1)
             'name' => 'Eid al-Fitr',
             'type' => 'Religious',
             'description' => 'End of Ramadan',
             'icon' => 'fa-moon',
             'bank_holiday' => true
         ],
-        '2025-08-15' => [
+        '2026-08-15' => [
             'name' => 'Independence Day',
             'type' => 'National Holiday',
             'description' => 'Indian Independence Day',
             'icon' => 'fa-dove',
             'bank_holiday' => true
         ],
-        '2025-08-26' => [ // Onam - Approximate date (Chingam 1)
+        '2026-08-26' => [ // Onam - Approximate date (Chingam 1)
             'name' => 'Onam',
             'type' => 'Regional Festival',
             'description' => 'Harvest festival of Kerala/Lakshadweep',
             'icon' => 'fa-drum',
             'bank_holiday' => true
         ],
-        '2025-10-02' => [
+        '2026-10-02' => [
             'name' => 'Gandhi Jayanti',
             'type' => 'National Holiday',
             'description' => 'Birth anniversary of Mahatma Gandhi',
             'icon' => 'fa-peace',
             'bank_holiday' => true
         ],
-        '2025-10-28' => [ // Diwali - Approximate date
+        '2026-10-28' => [ // Diwali - Approximate date
             'name' => 'Diwali',
             'type' => 'Religious',
             'description' => 'Festival of lights',
             'icon' => 'fa-lightbulb',
             'bank_holiday' => true
         ],
-        '2025-11-14' => [
+        '2026-11-14' => [
             'name' => 'Children\'s Day',
             'type' => 'National',
             'description' => 'Birth anniversary of Jawaharlal Nehru',
             'icon' => 'fa-child',
             'bank_holiday' => false
         ],
-        '2025-12-25' => [
+        '2026-12-25' => [
             'name' => 'Christmas',
             'type' => 'Religious',
             'description' => 'Celebration of Jesus Christ\'s birth',
@@ -210,93 +210,93 @@
         ]
     ];
 
-    // Bank Holidays 2025 - Additional holidays specific to banks or common closures
-    $bank_holidays_2025 = [
-        '2025-01-25' => [
+    // Bank Holidays 2026 - Additional holidays specific to banks or common closures
+    $bank_holidays_2026 = [
+        '2026-01-25' => [
             'name' => 'Republic Day Eve',
             'type' => 'Bank Holiday',
             'description' => 'Day before Republic Day - Banks may close early',
             'icon' => 'fa-university',
             'bank_holiday' => true
         ],
-        '2025-04-05' => [ // Good Friday - Approximate date
+        '2026-04-05' => [ // Good Friday - Approximate date
             'name' => 'Good Friday',
             'type' => 'Bank Holiday',
             'description' => 'Christian religious holiday - Banks closed',
             'icon' => 'fa-university',
             'bank_holiday' => true
         ],
-        '2025-04-07' => [ // Easter Monday - Approximate date
+        '2026-04-07' => [ // Easter Monday - Approximate date
             'name' => 'Easter Monday',
             'type' => 'Bank Holiday',
             'description' => 'Christian religious holiday - Banks closed',
             'icon' => 'fa-university',
             'bank_holiday' => true
         ],
-        '2025-06-05' => [ // Eid al-Fitr Holiday - Approximate date
+        '2026-06-05' => [ // Eid al-Fitr Holiday - Approximate date
             'name' => 'Eid al-Fitr Holiday',
             'type' => 'Bank Holiday',
             'description' => 'Extended celebration of Eid al-Fitr',
             'icon' => 'fa-university',
             'bank_holiday' => true
         ],
-        '2025-06-17' => [ // Bakrid/Eid al-Adha - Approximate date (Dhu al-Hijjah 10)
+        '2026-06-17' => [ // Bakrid/Eid al-Adha - Approximate date (Dhu al-Hijjah 10)
             'name' => 'Bakrid/Eid al-Adha',
             'type' => 'Bank Holiday',
             'description' => 'Islamic festival of sacrifice - Banks closed',
             'icon' => 'fa-university',
             'bank_holiday' => true
         ],
-        '2025-07-17' => [ // Muharram - Approximate date (Muharram 1)
+        '2026-07-17' => [ // Muharram - Approximate date (Muharram 1)
             'name' => 'Muharram',
             'type' => 'Bank Holiday',
             'description' => 'Islamic New Year - Banks closed',
             'icon' => 'fa-university',
             'bank_holiday' => true
         ],
-        '2025-08-25' => [ // Onam Eve - Approximate date
+        '2026-08-25' => [ // Onam Eve - Approximate date
             'name' => 'Onam Eve',
             'type' => 'Bank Holiday',
             'description' => 'Day before Onam - Banks may close early',
             'icon' => 'fa-university',
             'bank_holiday' => true
         ],
-        '2025-09-07' => [ // Ganesh Chaturthi - Approximate date
+        '2026-09-07' => [ // Ganesh Chaturthi - Approximate date
             'name' => 'Ganesh Chaturthi',
             'type' => 'Bank Holiday',
             'description' => 'Birth anniversary of Lord Ganesha',
             'icon' => 'fa-university',
             'bank_holiday' => true
         ],
-        '2025-09-24' => [ // Vijaya Dashami/Dussehra - Approximate date
+        '2026-09-24' => [ // Vijaya Dashami/Dussehra - Approximate date
             'name' => 'Vijaya Dashami/Dussehra',
             'type' => 'Bank Holiday',
             'description' => 'Tenth day of Navratri - Banks closed',
             'icon' => 'fa-university',
             'bank_holiday' => true
         ],
-        '2025-10-29' => [ // Diwali Holiday - Approximate date
+        '2026-10-29' => [ // Diwali Holiday - Approximate date
             'name' => 'Diwali Holiday',
             'type' => 'Bank Holiday',
             'description' => 'Day after Diwali - Banks closed',
             'icon' => 'fa-university',
             'bank_holiday' => true
         ],
-        '2025-11-01' => [ // Diwali Holiday 2 - Approximate date
+        '2026-11-01' => [ // Diwali Holiday 2 - Approximate date
             'name' => 'Diwali Holiday 2',
             'type' => 'Bank Holiday',
             'description' => 'Additional Diwali holiday - Banks closed',
             'icon' => 'fa-university',
             'bank_holiday' => true
         ],
-        '2025-11-15' => [ // Guru Nanak Jayanti - Approximate date
+        '2026-11-15' => [ // Guru Nanak Jayanti - Approximate date
             'name' => 'Guru Nanak Jayanti',
             'type' => 'Bank Holiday',
             'description' => 'Birth anniversary of Guru Nanak Dev Ji',
             'icon' => 'fa-university',
             'bank_holiday' => true
         ],
-        '2025-12-24' => [
+        '2026-12-24' => [
             'name' => 'Christmas Eve',
             'type' => 'Bank Holiday',
             'description' => 'Day before Christmas - Banks closed',
@@ -306,11 +306,11 @@
     ];
 
     // Merge all holidays
-    $all_holidays_2025 = array_merge($holidays_2025, $bank_holidays_2025);
+    $all_holidays_2026 = array_merge($holidays_2026, $bank_holidays_2026);
 
     // Get current month and year
     $current_month = isset($_GET['month']) ? (int)$_GET['month'] : (int)date('n');
-    $current_year = isset($_GET['year']) ? (int)$_GET['year'] : 2025;
+    $current_year = isset($_GET['year']) ? (int)$_GET['year'] : 2026;
 
     // Month names
     $month_names = [
@@ -357,7 +357,7 @@
                     </div>
                     <div>
                         <h1 class="text-4xl font-bold flex items-center space-x-3">
-                            <span>Lakshadweep Holidays 2025</span>
+                            <span>Lakshadweep Holidays 2026</span>
                             <i class="fas fa-umbrella-beach text-2xl animate-bounce"></i>
                         </h1>
                         <p class="text-lg opacity-90 flex items-center space-x-2">
@@ -377,7 +377,7 @@
                     </p>
                     <div class="mt-2 flex items-center space-x-2">
                         <i class="fas fa-gift text-yellow-200"></i>
-                        <span class="text-sm opacity-75"><?php echo count($all_holidays_2025); ?> Total Holidays</span>
+                        <span class="text-sm opacity-75"><?php echo count($all_holidays_2026); ?> Total Holidays</span>
                     </div>
                 </div>
             </div>
@@ -403,7 +403,7 @@
                 <li><i class="fas fa-chevron-right text-xs"></i></li>
                 <li><a href="#" class="hover:text-blue-600 transition-colors">Lakshadweep</a></li>
                 <li><i class="fas fa-chevron-right text-xs"></i></li>
-                <li class="text-gray-800 font-medium">Holidays 2025</li>
+                <li class="text-gray-800 font-medium">Holidays 2026</li>
             </ol>
         </nav>
         <!-- SEO Introduction Section -->
@@ -411,11 +411,11 @@
             <div class="max-w-4xl mx-auto text-center">
                 <h2 class="text-3xl font-bold text-gray-800 mb-4 flex items-center justify-center space-x-3">
                     <i class="fas fa-calendar-alt text-blue-600"></i>
-                    <span>Complete Lakshadweep Holiday Calendar 2025</span>
+                    <span>Complete Lakshadweep Holiday Calendar 2026</span>
                     <i class="fas fa-star text-yellow-500"></i>
                 </h2>
                 <p class="text-lg text-gray-700 mb-4 leading-relaxed">
-                    Welcome to the comprehensive Lakshadweep Holiday Calendar 2025! This detailed guide provides you with all the important dates,
+                    Welcome to the comprehensive Lakshadweep Holiday Calendar 2026! This detailed guide provides you with all the important dates,
                     festivals, and celebrations throughout the year. Whether you're planning a trip to the pristine coral islands of Lakshadweep,
                     organizing events, or simply want to stay informed about cultural celebrations, our calendar covers everything from vibrant
                     local festivals like Eid and Onam to national holidays and international observances.
@@ -591,8 +591,8 @@
                 // Days of the month
                 for ($day = 1; $day <= $days_in_month; $day++) {
                     $date = sprintf('%04d-%02d-%02d', $current_year, $current_month, $day);
-                    $is_holiday = isset($all_holidays_2025[$date]);
-                    $is_bank_holiday = isset($all_holidays_2025[$date]) && $all_holidays_2025[$date]['bank_holiday'] === true;
+                    $is_holiday = isset($all_holidays_2026[$date]);
+                    $is_bank_holiday = isset($all_holidays_2026[$date]) && $all_holidays_2026[$date]['bank_holiday'] === true;
                     $is_today = ($day == date('j') && $current_month == date('n') && $current_year == date('Y'));
                     $cell_classes = 'p-4 border-r border-b min-h-[100px] relative';
                     $cell_classes .= $is_today ? ' bg-yellow-100' : '';
@@ -604,7 +604,7 @@
                     echo '<div class="' . $cell_classes . '">';
                     echo '<div class="text-lg font-semibold text-gray-800 mb-2">' . $day . '</div>';
                     if ($is_holiday) {
-                        $holiday = $all_holidays_2025[$date];
+                        $holiday = $all_holidays_2026[$date];
                         $border_color = $is_bank_holiday ? 'border-blue-500' : 'border-green-500'; // Changed color for Lakshadweep
                         $bg_color = $is_bank_holiday ? 'bg-blue-100' : 'bg-green-100'; // Changed color for Lakshadweep
                         $text_color = $is_bank_holiday ? 'text-blue-800' : 'text-green-800'; // Changed color for Lakshadweep
@@ -657,7 +657,7 @@
                     <?php
                     $today = date('Y-m-d');
                     $upcoming_count = 0;
-                    foreach ($all_holidays_2025 as $date => $holiday) {
+                    foreach ($all_holidays_2026 as $date => $holiday) {
                         if ($date >= $today && $upcoming_count < 5) {
                             $days_until = (strtotime($date) - strtotime($today)) / (60 * 60 * 24);
                             echo '<div class="flex items-center justify-between p-4 bg-gradient-to-r from-blue-50 to-green-50 rounded-lg border border-blue-200 hover:shadow-md transition-all transform hover:scale-105">';
@@ -699,16 +699,16 @@
                     <div class="text-center p-4 bg-gradient-to-br from-green-50 to-green-100 rounded-lg border border-green-200 hover:shadow-md transition-all">
                         <div class="flex items-center justify-center space-x-2 mb-2">
                             <i class="fas fa-gift text-green-600 text-xl"></i>
-                            <div class="text-3xl font-bold text-green-600"><?php echo count($holidays_2025); ?></div>
+                            <div class="text-3xl font-bold text-green-600"><?php echo count($holidays_2026); ?></div>
                         </div>
                         <div class="text-sm text-green-700 font-medium">Total Holidays</div>
-                        <div class="text-xs text-green-600 mt-1"><?php echo count(array_filter($all_holidays_2025, function($h) { return $h['bank_holiday'] === true; })); ?> Bank Holidays</div>
+                        <div class="text-xs text-green-600 mt-1"><?php echo count(array_filter($all_holidays_2026, function($h) { return $h['bank_holiday'] === true; })); ?> Bank Holidays</div>
                         <div class="text-xs text-green-600 mt-1">🎉 Celebrations</div>
                     </div>
                     <div class="text-center p-4 bg-gradient-to-br from-blue-50 to-blue-100 rounded-lg border border-blue-200 hover:shadow-md transition-all">
                         <div class="flex items-center justify-center space-x-2 mb-2">
                             <i class="fas fa-water text-blue-600 text-xl"></i> <!-- Changed icon -->
-                            <div class="text-3xl font-bold text-blue-600"><?php echo count(array_filter($holidays_2025, function($h) { return $h['type'] === 'Regional Festival'; })); ?></div>
+                            <div class="text-3xl font-bold text-blue-600"><?php echo count(array_filter($holidays_2026, function($h) { return $h['type'] === 'Regional Festival'; })); ?></div>
                         </div>
                         <div class="text-sm text-blue-700 font-medium">Regional Festivals</div> <!-- Changed text -->
                         <div class="text-xs text-blue-600 mt-1">🏝️ Cultural</div> <!-- Changed text -->
@@ -716,7 +716,7 @@
                     <div class="text-center p-4 bg-gradient-to-br from-yellow-50 to-yellow-100 rounded-lg border border-yellow-200 hover:shadow-md transition-all">
                         <div class="flex items-center justify-center space-x-2 mb-2">
                             <i class="fas fa-star text-yellow-600 text-xl"></i>
-                            <div class="text-3xl font-bold text-yellow-600"><?php echo count(array_filter($holidays_2025, function($h) { return $h['type'] === 'National Holiday'; })); ?></div>
+                            <div class="text-3xl font-bold text-yellow-600"><?php echo count(array_filter($holidays_2026, function($h) { return $h['type'] === 'National Holiday'; })); ?></div>
                         </div>
                         <div class="text-sm text-yellow-700 font-medium">National Holidays</div>
                         <div class="text-xs text-yellow-600 mt-1">🇮🇳 Patriotic</div>
@@ -724,7 +724,7 @@
                     <div class="text-center p-4 bg-gradient-to-br from-purple-50 to-purple-100 rounded-lg border border-purple-200 hover:shadow-md transition-all">
                         <div class="flex items-center justify-center space-x-2 mb-2">
                             <i class="fas fa-pray text-purple-600 text-xl"></i>
-                            <div class="text-3xl font-bold text-purple-600"><?php echo count(array_filter($all_holidays_2025, function($h) { return $h['type'] === 'Religious'; })); ?></div>
+                            <div class="text-3xl font-bold text-purple-600"><?php echo count(array_filter($all_holidays_2026, function($h) { return $h['type'] === 'Religious'; })); ?></div>
                         </div>
                         <div class="text-sm text-purple-700 font-medium">Religious</div>
                         <div class="text-xs text-purple-600 mt-1">⛪ Spiritual</div>
@@ -732,7 +732,7 @@
                     <div class="text-center p-4 bg-gradient-to-br from-blue-50 to-blue-100 rounded-lg border border-blue-200 hover:shadow-md transition-all">
                         <div class="flex items-center justify-center space-x-2 mb-2">
                             <i class="fas fa-university text-blue-600 text-xl"></i>
-                            <div class="text-3xl font-bold text-blue-600"><?php echo count(array_filter($all_holidays_2025, function($h) { return $h['bank_holiday'] === true; })); ?></div>
+                            <div class="text-3xl font-bold text-blue-600"><?php echo count(array_filter($all_holidays_2026, function($h) { return $h['bank_holiday'] === true; })); ?></div>
                         </div>
                         <div class="text-sm text-blue-700 font-medium">Bank Holidays</div>
                         <div class="text-xs text-blue-600 mt-1">🏦 Financial</div>
@@ -744,14 +744,14 @@
         <div class="mt-8 bg-white rounded-lg shadow-lg p-6 border-l-4 border-blue-500">
             <h3 class="text-2xl font-bold text-gray-800 mb-4 flex items-center">
                 <i class="fas fa-university text-blue-500 mr-3 text-2xl"></i>
-                <span>Bank Holidays 2025</span>
+                <span>Bank Holidays 2026</span>
                 <i class="fas fa-building-columns text-blue-400 ml-2"></i>
             </h3>
             <p class="text-gray-600 mb-6">All major banks in Lakshadweep will be closed on these dates. Plan your banking activities accordingly.</p>
             <div class="grid md:grid-cols-2 lg:grid-cols-3 gap-4">
                 <?php
                 $bank_holidays_displayed = 0;
-                foreach ($all_holidays_2025 as $date => $holiday) {
+                foreach ($all_holidays_2026 as $date => $holiday) {
                     if ($holiday['bank_holiday'] === true && $bank_holidays_displayed < 12) {
                         $formatted_date = date('M d, Y', strtotime($date));
                         $day_name = date('l', strtotime($date));
@@ -876,10 +876,10 @@
                     <div class="bg-gray-50 rounded-lg p-6 hover:shadow-md transition-all">
                         <h3 class="text-xl font-semibold text-gray-800 mb-3 flex items-center space-x-2">
                             <i class="fas fa-water text-blue-500"></i> <!-- Changed icon -->
-                            <span>What are the main festivals in Lakshadweep in 2025?</span>
+                            <span>What are the main festivals in Lakshadweep in 2026?</span>
                         </h3>
                         <p class="text-gray-700 leading-relaxed">
-                            The main festivals in Lakshadweep in 2025 include <strong>Eid al-Fitr</strong> (June 4) and <strong>Eid al-Adha</strong> (June 17) - significant Islamic festivals,
+                            The main festivals in Lakshadweep in 2026 include <strong>Eid al-Fitr</strong> (June 4) and <strong>Eid al-Adha</strong> (June 17) - significant Islamic festivals,
                             <strong>Onam</strong> (August 26) - the harvest festival of Kerala/Lakshadweep, and <strong>Vishu</strong> (April 14) - the Malayalam New Year.
                             These festivals reflect the diverse cultural and religious heritage of the islands.
                         </p>
@@ -888,10 +888,10 @@
                     <div class="bg-gray-50 rounded-lg p-6 hover:shadow-md transition-all">
                         <h3 class="text-xl font-semibold text-gray-800 mb-3 flex items-center space-x-2">
                             <i class="fas fa-flag text-red-500"></i>
-                            <span>How many national holidays are there in Lakshadweep 2025?</span>
+                            <span>How many national holidays are there in Lakshadweep 2026?</span>
                         </h3>
                         <p class="text-gray-700 leading-relaxed">
-                            Lakshadweep observes all national holidays declared by the Government of India in 2025 including <strong>Republic Day</strong> (January 26),
+                            Lakshadweep observes all national holidays declared by the Government of India in 2026 including <strong>Republic Day</strong> (January 26),
                             <strong>Independence Day</strong> (August 15), and <strong>Gandhi Jayanti</strong> (October 2).
                             These are official government holidays when banks, schools, and government offices remain closed.
                         </p>
@@ -903,7 +903,7 @@
                             <span>What is Eid al-Fitr and why is it important?</span>
                         </h3>
                         <p class="text-gray-700 leading-relaxed">
-                            <strong>Eid al-Fitr</strong> (June 4, 2025) is one of the most important festivals for the Muslim community in Lakshadweep,
+                            <strong>Eid al-Fitr</strong> (June 4, 2026) is one of the most important festivals for the Muslim community in Lakshadweep,
                             marking the end of the holy month of Ramadan. It's celebrated with special prayers, feasts, exchanging gifts,
                             and community gatherings, reflecting the strong Islamic traditions of the islands.
                         </p>
@@ -915,7 +915,7 @@
                             <span>What is Onam and its significance in Lakshadweep?</span>
                         </h3>
                         <p class="text-gray-700 leading-relaxed">
-                            <strong>Onam</strong> (August 26, 2025) is the harvest festival of Kerala and is widely celebrated in Lakshadweep due to cultural ties.
+                            <strong>Onam</strong> (August 26, 2026) is the harvest festival of Kerala and is widely celebrated in Lakshadweep due to cultural ties.
                             It commemorates the homecoming of the legendary King Mahabali. The festival is marked by elaborate feasts (Onasadya),
                             traditional dance performances (like Thiruvathira and Kaikottikali), boat races (though limited in Lakshadweep),
                             and the creation of beautiful floral carpets (Pookalam).
@@ -928,8 +928,8 @@
                             <span>Are international holidays like Valentine's Day celebrated in Lakshadweep?</span>
                         </h3>
                         <p class="text-gray-700 leading-relaxed">
-                            Yes, <strong>Valentine's Day</strong> (February 14, 2025) and other international holidays like
-                            <strong>International Women's Day</strong> (March 8, 2025) are observed in Lakshadweep, especially in
+                            Yes, <strong>Valentine's Day</strong> (February 14, 2026) and other international holidays like
+                            <strong>International Women's Day</strong> (March 8, 2026) are observed in Lakshadweep, especially in
                             urban areas and among the younger generation. While these are not official holidays, they are widely recognized
                             by commercial establishments and reflect the islands' connection to the global community.
                         </p>
@@ -941,7 +941,7 @@
                             <span>What is Vishu and how is it celebrated?</span>
                         </h3>
                         <p class="text-gray-700 leading-relaxed">
-                            <strong>Vishu</strong> (April 14, 2025) is the Malayalam New Year and harvest festival, significant in Lakshadweep.
+                            <strong>Vishu</strong> (April 14, 2026) is the Malayalam New Year and harvest festival, significant in Lakshadweep.
                             Celebrations include the 'Vishukkani' (auspicious sight seen first thing in the morning, often featuring fruits, flowers, and coins),
                             wearing new clothes, preparing a grand feast (Vishu Sadhya), and giving 'Vishukaineettam' (money given to children and elders).
                             Firecrackers and games are also part of the festivities.
@@ -954,7 +954,7 @@
                             <span>Is Labour Day a public holiday in Lakshadweep?</span>
                         </h3>
                         <p class="text-gray-700 leading-relaxed">
-                            <strong>Labour Day / May Day</strong> (May 1, 2025) is a public holiday in Lakshadweep. Banks, government offices,
+                            <strong>Labour Day / May Day</strong> (May 1, 2026) is a public holiday in Lakshadweep. Banks, government offices,
                             and many businesses typically remain closed. Trade unions and worker organizations often organize rallies
                             and events to celebrate workers' rights and achievements.
                         </p>
@@ -966,7 +966,7 @@
                             <span>How is Independence Day celebrated in Lakshadweep?</span>
                         </h3>
                         <p class="text-gray-700 leading-relaxed">
-                            <strong>Independence Day</strong> (August 15, 2025) is celebrated with great patriotic fervor in Lakshadweep.
+                            <strong>Independence Day</strong> (August 15, 2026) is celebrated with great patriotic fervor in Lakshadweep.
                             The day begins with flag hoisting ceremonies in schools, colleges, and government offices, often accompanied by cultural programs.
                             The main celebration usually takes place at the Administrator's office or a central public location in Kavaratti.
                         </p>
@@ -978,7 +978,7 @@
                             <span>What is the significance of Gandhi Jayanti in Lakshadweep?</span>
                         </h3>
                         <p class="text-gray-700 leading-relaxed">
-                            <strong>Gandhi Jayanti</strong> (October 2, 2025) commemorates the birth anniversary of Mahatma Gandhi,
+                            <strong>Gandhi Jayanti</strong> (October 2, 2026) commemorates the birth anniversary of Mahatma Gandhi,
                             the Father of the Nation. In Lakshadweep, this day is observed with prayer meetings, seminars on Gandhian
                             philosophy, and community service activities. Schools organize special assemblies, and government offices
                             remain closed. The day promotes Gandhian values of non-violence, truth, and simplicity.
@@ -991,7 +991,7 @@
                             <span>How is Children's Day celebrated in Lakshadweep?</span>
                         </h3>
                         <p class="text-gray-700 leading-relaxed">
-                            <strong>Children's Day</strong> (November 14, 2025) celebrates the birth anniversary of India's first
+                            <strong>Children's Day</strong> (November 14, 2026) celebrates the birth anniversary of India's first
                             Prime Minister, Jawaharlal Nehru. In Lakshadweep, schools organize special programs, cultural activities, and competitions for children.
                             Many schools also distribute sweets and gifts to students, making it a memorable day for children across the islands.
                         </p>
@@ -1003,7 +1003,7 @@
                             <span>Is Christmas celebrated in Lakshadweep?</span>
                         </h3>
                         <p class="text-gray-700 leading-relaxed">
-                            Yes, <strong>Christmas</strong> (December 25, 2025) is celebrated in Lakshadweep, especially in areas with Christian populations.
+                            Yes, <strong>Christmas</strong> (December 25, 2026) is celebrated in Lakshadweep, especially in areas with Christian populations.
                             Churches are decorated, midnight masses are held, and communities come together for celebrations.
                             The festival promotes communal harmony and is observed by people of various faiths.
                         </p>
@@ -1015,7 +1015,7 @@
                             <span>What is the significance of International Women's Day in Lakshadweep?</span>
                         </h3>
                         <p class="text-gray-700 leading-relaxed">
-                            <strong>International Women's Day</strong> (March 8, 2025) is celebrated across Lakshadweep to recognize
+                            <strong>International Women's Day</strong> (March 8, 2026) is celebrated across Lakshadweep to recognize
                             women's achievements and promote gender equality. Various organizations, educational institutions, and
                             government bodies organize seminars, workshops, and cultural programs highlighting women's contributions
                             to society. The day also focuses on women's rights, empowerment, and addressing gender-based challenges.
@@ -1050,7 +1050,7 @@
                     <div class="bg-gray-50 rounded-lg p-6 hover:shadow-md transition-all">
                         <h3 class="text-xl font-semibold text-gray-800 mb-3 flex items-center space-x-2">
                             <i class="fas fa-calendar-check text-green-500"></i>
-                            <span>Are there any special holidays specific to Lakshadweep in 2025?</span>
+                            <span>Are there any special holidays specific to Lakshadweep in 2026?</span>
                         </h3>
                         <p class="text-gray-700 leading-relaxed">
                             While Lakshadweep primarily observes national holidays and major religious festivals, local celebrations and
@@ -1132,7 +1132,7 @@
     <script>
         // JavaScript functionality
         // Holiday data for search functionality
-        const holidaysData = <?php echo json_encode($all_holidays_2025); ?>;
+        const holidaysData = <?php echo json_encode($all_holidays_2026); ?>;
         function searchHolidays() {
             const searchTerm = document.getElementById('searchInput').value.toLowerCase();
             const filterType = document.getElementById('filterType').value;
@@ -1234,21 +1234,21 @@
         }
         function downloadCalendar() {
             // Create a simple text version for download
-            const content = `Lakshadweep Holidays 2025
+            const content = `Lakshadweep Holidays 2026
 `;
             const blob = new Blob([content], { type: 'text/plain' });
             const url = window.URL.createObjectURL(blob);
             const a = document.createElement('a');
             a.href = url;
-            a.download = 'lakshadweep-holidays-2025.txt';
+            a.download = 'lakshadweep-holidays-2026.txt';
             a.click();
             window.URL.revokeObjectURL(url);
         }
         function shareCalendar() {
             if (navigator.share) {
                 navigator.share({
-                    title: 'Lakshadweep Holidays 2025',
-                    text: 'Check out the Lakshadweep holiday calendar for 2025!',
+                    title: 'Lakshadweep Holidays 2026',
+                    text: 'Check out the Lakshadweep holiday calendar for 2026!',
                     url: window.location.href
                 });
             } else {

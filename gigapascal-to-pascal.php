@@ -1,19 +1,19 @@
 <?php include 'header.php'; ?>
 
 <!-- SEO Meta Tags -->
-<title>Gigapascal to Pascal Converter 2025 - Pressure Calculator | Thiyagi</title>
-<meta name="description" content="Free online gigapascal to pascal converter 2025. Convert GPa to Pa instantly with accurate pressure conversion for engineering and materials science.">
-<meta name="keywords" content="gigapascal to pascal converter 2025, GPa to Pa, pressure converter, engineering calculator, materials science">
+<title>Gigapascal to Pascal Converter 2026 - Pressure Calculator | Thiyagi</title>
+<meta name="description" content="Free online gigapascal to pascal converter 2026. Convert GPa to Pa instantly with accurate pressure conversion for engineering and materials science.">
+<meta name="keywords" content="gigapascal to pascal converter 2026, GPa to Pa, pressure converter, engineering calculator, materials science">
 <meta name="author" content="Thiyagi">
-<meta property="og:title" content="Gigapascal to Pascal Converter 2025 - Pressure Calculator">
-<meta property="og:description" content="Free online gigapascal to pascal converter 2025. Convert GPa to Pa instantly.">
+<meta property="og:title" content="Gigapascal to Pascal Converter 2026 - Pressure Calculator">
+<meta property="og:description" content="Free online gigapascal to pascal converter 2026. Convert GPa to Pa instantly.">
 <meta property="og:type" content="website">
 <meta property="og:url" content="https://www.thiyagi.com/gigapascal-to-pascal.php">
 <meta property="og:image" content="https://www.thiyagi.com/nt.png">
 <meta property="og:site_name" content="Thiyagi">
 <meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:title" content="Gigapascal to Pascal Converter 2025 - Pressure Calculator">
-<meta name="twitter:description" content="Free online gigapascal to pascal converter 2025. Convert GPa to Pa instantly.">
+<meta name="twitter:title" content="Gigapascal to Pascal Converter 2026 - Pressure Calculator">
+<meta name="twitter:description" content="Free online gigapascal to pascal converter 2026. Convert GPa to Pa instantly.">
 <meta name="twitter:image" content="https://www.thiyagi.com/nt.png">
 
 <div class="min-h-screen bg-gradient-to-br from-red-50 via-pink-50 to-rose-50 py-12">

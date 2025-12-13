@@ -38,8 +38,8 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Free Google Index Checker 2025 - Verify If Your Site is Indexed</title>
-<meta name="description" content="Instantly check if your website or page is indexed by Google (2025). Fix indexing issues, view last crawl date, and improve SEO visibility - No registration needed!">
+    <title>Free Google Index Checker 2026 - Verify If Your Site is Indexed</title>
+<meta name="description" content="Instantly check if your website or page is indexed by Google (2026). Fix indexing issues, view last crawl date, and improve SEO visibility - No registration needed!">
     <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" rel="stylesheet">
 
 </head>

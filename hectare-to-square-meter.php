@@ -1,19 +1,19 @@
 <?php include 'header.php'; ?>
 
 <!-- SEO Meta Tags -->
-<title>Hectare to Square Meter Converter 2025 - Area Calculator | Thiyagi</title>
-<meta name="description" content="Free online hectare to square meter converter 2025. Convert hectares to m² instantly with accurate area conversion. Perfect for land measurement and agriculture calculations.">
-<meta name="keywords" content="hectare to square meter converter 2025, hectare to m2, area converter, land measurement, agriculture calculator">
+<title>Hectare to Square Meter Converter 2026 - Area Calculator | Thiyagi</title>
+<meta name="description" content="Free online hectare to square meter converter 2026. Convert hectares to m² instantly with accurate area conversion. Perfect for land measurement and agriculture calculations.">
+<meta name="keywords" content="hectare to square meter converter 2026, hectare to m2, area converter, land measurement, agriculture calculator">
 <meta name="author" content="Thiyagi">
-<meta property="og:title" content="Hectare to Square Meter Converter 2025 - Area Calculator">
-<meta property="og:description" content="Free online hectare to square meter converter 2025. Convert hectares to m² instantly with accurate area conversion.">
+<meta property="og:title" content="Hectare to Square Meter Converter 2026 - Area Calculator">
+<meta property="og:description" content="Free online hectare to square meter converter 2026. Convert hectares to m² instantly with accurate area conversion.">
 <meta property="og:type" content="website">
 <meta property="og:url" content="https://www.thiyagi.com/hectare-to-square-meter.php">
 <meta property="og:image" content="https://www.thiyagi.com/nt.png">
 <meta property="og:site_name" content="Thiyagi">
 <meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:title" content="Hectare to Square Meter Converter 2025 - Area Calculator">
-<meta name="twitter:description" content="Free online hectare to square meter converter 2025. Convert hectares to m² instantly with accurate area conversion.">
+<meta name="twitter:title" content="Hectare to Square Meter Converter 2026 - Area Calculator">
+<meta name="twitter:description" content="Free online hectare to square meter converter 2026. Convert hectares to m² instantly with accurate area conversion.">
 <meta name="twitter:image" content="https://www.thiyagi.com/nt.png">
 
 <div class="min-h-screen bg-gradient-to-br from-green-50 via-emerald-50 to-teal-50 py-12">

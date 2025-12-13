@@ -1,19 +1,19 @@
 <?php include 'header.php'; ?>
 
 <!-- SEO Meta Tags -->
-<title>CC to Liter Converter 2025 - cubic centimeter to L Calculator | Thiyagi</title>
-<meta name="description" content="Free online CC to Liter converter 2025. Convert cubic centimeter to liter and liter to cc instantly with accurate volume conversion.">
-<meta name="keywords" content="cc to liter converter 2025, cubic centimeter to liter, cc to L, volume conversion, liquid measurement">
+<title>CC to Liter Converter 2026 - cubic centimeter to L Calculator | Thiyagi</title>
+<meta name="description" content="Free online CC to Liter converter 2026. Convert cubic centimeter to liter and liter to cc instantly with accurate volume conversion.">
+<meta name="keywords" content="cc to liter converter 2026, cubic centimeter to liter, cc to L, volume conversion, liquid measurement">
 <meta name="author" content="Thiyagi">
-<meta property="og:title" content="CC to Liter Converter 2025 - cubic centimeter to L Calculator">
-<meta property="og:description" content="Free online CC to Liter converter 2025. Convert cubic centimeter to liter and liter to cc instantly.">
+<meta property="og:title" content="CC to Liter Converter 2026 - cubic centimeter to L Calculator">
+<meta property="og:description" content="Free online CC to Liter converter 2026. Convert cubic centimeter to liter and liter to cc instantly.">
 <meta property="og:type" content="website">
 <meta property="og:url" content="https://www.thiyagi.com/cc-to-liter.php">
 <meta property="og:image" content="https://www.thiyagi.com/nt.png">
 <meta property="og:site_name" content="Thiyagi">
 <meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:title" content="CC to Liter Converter 2025 - cubic centimeter to L Calculator">
-<meta property="twitter:description" content="Free online CC to Liter converter 2025. Convert cubic centimeter to liter and liter to cc instantly.">
+<meta name="twitter:title" content="CC to Liter Converter 2026 - cubic centimeter to L Calculator">
+<meta property="twitter:description" content="Free online CC to Liter converter 2026. Convert cubic centimeter to liter and liter to cc instantly.">
 <meta name="twitter:image" content="https://www.thiyagi.com/nt.png">
 
 <div class="min-h-screen bg-gradient-to-br from-emerald-50 via-teal-50 to-cyan-50 py-12">

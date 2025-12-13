@@ -1,7 +1,7 @@
 <?php include '../header.php';?>
 <?php include 'breadcrumb-schema.php';?>
 <?php
-// PSPCL 2025 Tariff Slabs (Domestic - Example)
+// PSPCL 2026 Tariff Slabs (Domestic - Example)
 $slabs = [
     ['min' => 0, 'max' => 100, 'rate' => 0.00],
     ['min' => 101, 'max' => 200, 'rate' => 2.35],
@@ -48,8 +48,8 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>PSPCL Bill Calculator 2025 - Punjab Electricity Bill Estimator</title>
-    <meta name="description" content="Calculate your Punjab electricity bill online using PSPCL slab rates for 2025. Fast, accurate, mobile-friendly.">
+    <title>PSPCL Bill Calculator 2026 - Punjab Electricity Bill Estimator</title>
+    <meta name="description" content="Calculate your Punjab electricity bill online using PSPCL slab rates for 2026. Fast, accurate, mobile-friendly.">
     <link rel="canonical" href="https://www.thiyagi.com/electricity-board/pspcl-bill-calculator" />
     
     <!-- Tailwind CSS -->
@@ -91,7 +91,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
 <body class="bg-gray-50 min-h-screen">
     <div class="container mx-auto px-4 py-8">
         <header class="text-center mb-8">
-            <h1 class="text-3xl font-bold text-punjab-600 mb-2">PSPCL Bill Calculator 2025</h1>
+            <h1 class="text-3xl font-bold text-punjab-600 mb-2">PSPCL Bill Calculator 2026</h1>
             <p class="text-gray-600">Calculate your Punjab electricity bill</p>
         </header>
         
@@ -132,7 +132,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
                             <div class="flex justify-between items-center">
                                 <div>
                                     <p class="text-gray-600">For <span class="font-medium"><?= $units ?></span> units</p>
-                                    <p class="text-sm text-gray-500">PSPCL Domestic (2025 Rates)</p>
+                                    <p class="text-sm text-gray-500">PSPCL Domestic (2026 Rates)</p>
                                 </div>
                                 <div class="text-2xl font-bold text-punjab-600">₹<?= number_format($total, 2) ?></div>
                             </div>
@@ -193,7 +193,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
         <!-- Tariff Information -->
         <div class="max-w-md mx-auto mt-8 bg-white rounded-xl shadow-md overflow-hidden">
             <div class="p-6">
-                <h2 class="text-xl font-semibold text-gray-800 mb-4">PSPCL Domestic Tariff (2025)</h2>
+                <h2 class="text-xl font-semibold text-gray-800 mb-4">PSPCL Domestic Tariff (2026)</h2>
                 <div class="overflow-x-auto">
                     <table class="min-w-full divide-y divide-gray-200">
                         <thead class="bg-gray-50">
@@ -228,7 +228,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
         function shareResult() {
             const units = <?= $units ?? 0 ?>;
             const total = <?= $total ?? 0 ?>;
-            const text = `My PSPCL Bill Calculation: ${units} units = ₹${total.toFixed(2)} (2025 rates)`;
+            const text = `My PSPCL Bill Calculation: ${units} units = ₹${total.toFixed(2)} (2026 rates)`;
             const url = window.location.href;
             
             if (navigator.share) {

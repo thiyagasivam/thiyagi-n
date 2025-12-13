@@ -1,15 +1,15 @@
-﻿<?php include 'header.php'; ?>
+<?php include 'header.php'; ?>
 
 <?php
 /**
- * Advanced Confidence Interval Calculator 2025
+ * Advanced Confidence Interval Calculator 2026
  * Professional statistical analysis tool
  */
 
 class AdvancedConfidenceIntervalCalculator {
     public $calculationTypes = [
         'mean' => [
-            'name' => 'Mean (μ)',
+            'name' => 'Mean (�)',
             'description' => 'Confidence interval for population mean',
             'fields' => ['sampleMean', 'standardDeviation', 'sampleSize']
         ],
@@ -128,7 +128,7 @@ class AdvancedConfidenceIntervalCalculator {
         
         if ($sampleSize >= 30) {
             $criticalValue = $this->getZCriticalValue($alpha);
-            $distribution = 'Normal (n ≥ 30)';
+            $distribution = 'Normal (n = 30)';
         } else {
             $df = $sampleSize - 1;
             $criticalValue = $this->getTCriticalValue($df, $alpha);
@@ -164,7 +164,7 @@ class AdvancedConfidenceIntervalCalculator {
         if ($np < 5 || $nq < 5) {
             return [
                 'success' => false, 
-                'errors' => ["Normal approximation not valid. Need np ≥ 5 and n(1-p) ≥ 5."]
+                'errors' => ["Normal approximation not valid. Need np = 5 and n(1-p) = 5."]
             ];
         }
         
@@ -268,7 +268,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
     <div class="text-center mb-8">
         <h1 class="text-4xl font-bold text-gray-800 mb-4">
             <i class="fas fa-chart-line text-blue-600 mr-3"></i>
-            Advanced Confidence Interval Calculator 2025
+            Advanced Confidence Interval Calculator 2026
         </h1>
         <p class="text-xl text-gray-600 max-w-3xl mx-auto">
             Professional statistical analysis tool for calculating confidence intervals with multiple distributions
@@ -411,7 +411,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
         constructor() {
             this.calculationTypes = {
                 'mean': {
-                    'name': 'Mean (μ)',
+                    'name': 'Mean (�)',
                     'fields': ['sampleMean', 'standardDeviation', 'sampleSize']
                 },
                 'proportion': {
@@ -425,16 +425,16 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
             };
             
             this.fieldLabels = {
-                'sampleMean': 'Sample Mean (x̄)',
+                'sampleMean': 'Sample Mean (x�)',
                 'standardDeviation': 'Standard Deviation (s)',
                 'sampleSize': 'Sample Size (n)',
-                'sampleProportion': 'Sample Proportion (p̂)',
-                'mean1': 'Sample Mean 1 (x̄₁)',
-                'mean2': 'Sample Mean 2 (x̄₂)',
-                'std1': 'Standard Deviation 1 (s₁)',
-                'std2': 'Standard Deviation 2 (s₂)',
-                'n1': 'Sample Size 1 (n₁)',
-                'n2': 'Sample Size 2 (n₂)'
+                'sampleProportion': 'Sample Proportion (p^)',
+                'mean1': 'Sample Mean 1 (x�1)',
+                'mean2': 'Sample Mean 2 (x�2)',
+                'std1': 'Standard Deviation 1 (s1)',
+                'std2': 'Standard Deviation 2 (s2)',
+                'n1': 'Sample Size 1 (n1)',
+                'n2': 'Sample Size 2 (n2)'
             };
         }
         

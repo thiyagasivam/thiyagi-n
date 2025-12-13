@@ -1,19 +1,19 @@
 <?php include 'header.php'; ?>
 
 <!-- SEO Meta Tags -->
-<title>Gigabit to Megabit Converter 2025 - Gb to Mb Calculator | Thiyagi</title>
-<meta name="description" content="Free online Gigabit to Megabit converter 2025. Convert Gb to Mb and Mb to Gb instantly with accurate data size conversion for networking and storage.">
-<meta name="keywords" content="gigabit to megabit converter 2025, Gb to Mb, data converter, network speed, bandwidth converter, digital storage">
+<title>Gigabit to Megabit Converter 2026 - Gb to Mb Calculator | Thiyagi</title>
+<meta name="description" content="Free online Gigabit to Megabit converter 2026. Convert Gb to Mb and Mb to Gb instantly with accurate data size conversion for networking and storage.">
+<meta name="keywords" content="gigabit to megabit converter 2026, Gb to Mb, data converter, network speed, bandwidth converter, digital storage">
 <meta name="author" content="Thiyagi">
-<meta property="og:title" content="Gigabit to Megabit Converter 2025 - Gb to Mb Calculator">
-<meta property="og:description" content="Free online Gigabit to Megabit converter 2025. Convert Gb to Mb and Mb to Gb instantly.">
+<meta property="og:title" content="Gigabit to Megabit Converter 2026 - Gb to Mb Calculator">
+<meta property="og:description" content="Free online Gigabit to Megabit converter 2026. Convert Gb to Mb and Mb to Gb instantly.">
 <meta property="og:type" content="website">
 <meta property="og:url" content="https://www.thiyagi.com/gigabit-to-megabit.php">
 <meta property="og:image" content="https://www.thiyagi.com/nt.png">
 <meta property="og:site_name" content="Thiyagi">
 <meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:title" content="Gigabit to Megabit Converter 2025 - Gb to Mb Calculator">
-<meta name="twitter:description" content="Free online Gigabit to Megabit converter 2025. Convert Gb to Mb and Mb to Gb instantly.">
+<meta name="twitter:title" content="Gigabit to Megabit Converter 2026 - Gb to Mb Calculator">
+<meta name="twitter:description" content="Free online Gigabit to Megabit converter 2026. Convert Gb to Mb and Mb to Gb instantly.">
 <meta name="twitter:image" content="https://www.thiyagi.com/nt.png">
 
 <div class="min-h-screen bg-gradient-to-br from-cyan-50 via-teal-50 to-blue-50 py-12">

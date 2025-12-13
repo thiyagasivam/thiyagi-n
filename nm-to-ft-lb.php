@@ -1,7 +1,7 @@
 <?php include 'header.php'; ?>
-<title>Newton-Meter to Foot-Pound Converter 2025 | Torque Conversion Tool | Free Calculator</title>
-<meta name="description" content="Convert newton-meters to foot-pounds instantly with our 2025 accurate torque converter. Perfect for automotive, engineering, and mechanical calculations.">
-<meta name="keywords" content="nm to ft lb converter 2025, torque conversion calculator, newton meter foot pound converter, automotive torque, engineering calculator">
+<title>Newton-Meter to Foot-Pound Converter 2026 | Torque Conversion Tool | Free Calculator</title>
+<meta name="description" content="Convert newton-meters to foot-pounds instantly with our 2026 accurate torque converter. Perfect for automotive, engineering, and mechanical calculations.">
+<meta name="keywords" content="nm to ft lb converter 2026, torque conversion calculator, newton meter foot pound converter, automotive torque, engineering calculator">
 <link rel="canonical" href="https://www.thiyagi.com/nm-to-ft-lb">
 
 <div class="min-h-screen bg-gradient-to-br from-red-50 to-pink-100 py-8">

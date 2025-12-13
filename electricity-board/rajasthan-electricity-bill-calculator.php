@@ -8,7 +8,7 @@ $discos = [
     'AVVNL' => 'Ajmer Vidyut Vitran Nigam Limited'
 ];
 
-// 2025 Tariff Slabs (Rajasthan Domestic - Example)
+// 2026 Tariff Slabs (Rajasthan Domestic - Example)
 $slabs = [
     ['min' => 0, 'max' => 50, 'rate' => 1.45],
     ['min' => 51, 'max' => 150, 'rate' => 2.85],
@@ -53,8 +53,8 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>JVVNL, JdVVNL, AVVNL Electricity Bill Calculator 2025</title>
-    <meta name="description" content="Calculate your JVVNL, JdVVNL, or AVVNL electricity bill using the latest 2025 slab rates. Instant and accurate estimate.">
+    <title>JVVNL, JdVVNL, AVVNL Electricity Bill Calculator 2026</title>
+    <meta name="description" content="Calculate your JVVNL, JdVVNL, or AVVNL electricity bill using the latest 2026 slab rates. Instant and accurate estimate.">
     <link rel="canonical" href="https://www.thiyagi.com/electricity-board/rajasthan-electricity-bill-calculator" />
     
     <!-- Tailwind CSS -->
@@ -127,7 +127,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
                         <!-- Input Section -->
                         <div class="p-6 md:p-8 md:w-1/2">
                             <h2 class="text-xl font-semibold text-gray-800 dark:text-gray-200 mb-2">Bill Calculator</h2>
-                            <p class="text-gray-600 dark:text-gray-400 mb-6">Estimate your 2025 electricity bill</p>
+                            <p class="text-gray-600 dark:text-gray-400 mb-6">Estimate your 2026 electricity bill</p>
                             
                             <form method="post" class="space-y-4">
                                 <div>
@@ -258,7 +258,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
                 <!-- Tariff Information -->
                 <div class="mt-8 bg-white dark:bg-gray-800 rounded-xl shadow-md overflow-hidden">
                     <div class="p-6 md:p-8">
-                        <h2 class="text-xl font-semibold text-gray-800 dark:text-gray-200 mb-4">2025 Tariff Slabs (Rajasthan DISCOMs)</h2>
+                        <h2 class="text-xl font-semibold text-gray-800 dark:text-gray-200 mb-4">2026 Tariff Slabs (Rajasthan DISCOMs)</h2>
                         <div class="overflow-x-auto">
                             <table class="min-w-full divide-y divide-gray-200 dark:divide-gray-600">
                                 <thead class="bg-gray-50 dark:bg-gray-700">
@@ -284,7 +284,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
                             </table>
                         </div>
                         <p class="text-sm text-gray-500 dark:text-gray-400 mt-4">
-                            * Rates are subject to change by JVVNL/JdVVNL/AVVNL. Last updated: June 2025.
+                            * Rates are subject to change by JVVNL/JdVVNL/AVVNL. Last updated: June 2026.
                         </p>
                     </div>
                 </div>
@@ -342,7 +342,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
             const units = <?= $units ?? 0 ?>;
             const discom = '<?= $discom ?? 'JVVNL' ?>';
             const total = <?= $total ?? 0 ?>;
-            const text = `My ${discom} Electricity Bill Calculation: ${units} units = ₹${total.toFixed(2)} (2025 rates)`;
+            const text = `My ${discom} Electricity Bill Calculation: ${units} units = ₹${total.toFixed(2)} (2026 rates)`;
             const url = window.location.href;
             
             if (navigator.share) {

@@ -1,19 +1,19 @@
 <?php include 'header.php'; ?>
 
 <!-- SEO Meta Tags -->
-<title>Cubic Meter to Liter Converter 2025 - Volume Calculator | Thiyagi</title>
-<meta name="description" content="Free online cubic meter to liter converter 2025. Convert cubic meters to liters instantly with accurate volume conversion. Perfect for engineering and fluid calculations.">
-<meta name="keywords" content="cubic meter to liter converter 2025, m3 to liter, volume converter, engineering calculator, fluid measurement">
+<title>Cubic Meter to Liter Converter 2026 - Volume Calculator | Thiyagi</title>
+<meta name="description" content="Free online cubic meter to liter converter 2026. Convert cubic meters to liters instantly with accurate volume conversion. Perfect for engineering and fluid calculations.">
+<meta name="keywords" content="cubic meter to liter converter 2026, m3 to liter, volume converter, engineering calculator, fluid measurement">
 <meta name="author" content="Thiyagi">
-<meta property="og:title" content="Cubic Meter to Liter Converter 2025 - Volume Calculator">
-<meta property="og:description" content="Free online cubic meter to liter converter 2025. Convert cubic meters to liters instantly with accurate volume conversion.">
+<meta property="og:title" content="Cubic Meter to Liter Converter 2026 - Volume Calculator">
+<meta property="og:description" content="Free online cubic meter to liter converter 2026. Convert cubic meters to liters instantly with accurate volume conversion.">
 <meta property="og:type" content="website">
 <meta property="og:url" content="https://www.thiyagi.com/cubic-meter-to-liter.php">
 <meta property="og:image" content="https://www.thiyagi.com/nt.png">
 <meta property="og:site_name" content="Thiyagi">
 <meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:title" content="Cubic Meter to Liter Converter 2025 - Volume Calculator">
-<meta name="twitter:description" content="Free online cubic meter to liter converter 2025. Convert cubic meters to liters instantly with accurate volume conversion.">
+<meta name="twitter:title" content="Cubic Meter to Liter Converter 2026 - Volume Calculator">
+<meta name="twitter:description" content="Free online cubic meter to liter converter 2026. Convert cubic meters to liters instantly with accurate volume conversion.">
 <meta name="twitter:image" content="https://www.thiyagi.com/nt.png">
 
 <div class="min-h-screen bg-gradient-to-br from-cyan-50 via-teal-50 to-blue-50 py-12">hp include 'header.php'; ?>

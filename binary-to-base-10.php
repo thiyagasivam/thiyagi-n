@@ -1,19 +1,19 @@
 <?php include 'header.php'; ?>
 
 <!-- SEO Meta Tags -->
-<title>Binary to Base 10 Converter 2025 - Binary to Decimal Calculator | Thiyagi</title>
-<meta name="description" content="Free online Binary to Base 10 converter 2025. Convert binary to decimal and decimal to binary instantly with accurate number system conversion for programming.">
-<meta name="keywords" content="binary to base 10 converter 2025, binary to decimal, number system converter, programming tools, computer science, digital systems">
+<title>Binary to Base 10 Converter 2026 - Binary to Decimal Calculator | Thiyagi</title>
+<meta name="description" content="Free online Binary to Base 10 converter 2026. Convert binary to decimal and decimal to binary instantly with accurate number system conversion for programming.">
+<meta name="keywords" content="binary to base 10 converter 2026, binary to decimal, number system converter, programming tools, computer science, digital systems">
 <meta name="author" content="Thiyagi">
-<meta property="og:title" content="Binary to Base 10 Converter 2025 - Binary to Decimal Calculator">
-<meta property="og:description" content="Free online Binary to Base 10 converter 2025. Convert binary to decimal and decimal to binary instantly.">
+<meta property="og:title" content="Binary to Base 10 Converter 2026 - Binary to Decimal Calculator">
+<meta property="og:description" content="Free online Binary to Base 10 converter 2026. Convert binary to decimal and decimal to binary instantly.">
 <meta property="og:type" content="website">
 <meta property="og:url" content="https://www.thiyagi.com/binary-to-base-10.php">
 <meta property="og:image" content="https://www.thiyagi.com/nt.png">
 <meta property="og:site_name" content="Thiyagi">
 <meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:title" content="Binary to Base 10 Converter 2025 - Binary to Decimal Calculator">
-<meta name="twitter:description" content="Free online Binary to Base 10 converter 2025. Convert binary to decimal and decimal to binary instantly.">
+<meta name="twitter:title" content="Binary to Base 10 Converter 2026 - Binary to Decimal Calculator">
+<meta name="twitter:description" content="Free online Binary to Base 10 converter 2026. Convert binary to decimal and decimal to binary instantly.">
 <meta name="twitter:image" content="https://www.thiyagi.com/nt.png">
 
 <div class="min-h-screen bg-gradient-to-br from-green-50 via-emerald-50 to-teal-50 py-12">

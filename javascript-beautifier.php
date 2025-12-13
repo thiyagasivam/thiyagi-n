@@ -63,8 +63,8 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Free JavaScript Beautifier 2025 - Format & Clean Ugly JS Code</title>
-<meta name="description" content="Fix minified JavaScript with proper indentation, syntax highlighting, and error checks (2025). Works with React/Node/Vue code - No installation needed!">
+    <title>Free JavaScript Beautifier 2026 - Format & Clean Ugly JS Code</title>
+<meta name="description" content="Fix minified JavaScript with proper indentation, syntax highlighting, and error checks (2026). Works with React/Node/Vue code - No installation needed!">
     <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" rel="stylesheet">
     <style>
         /* Additional custom styles */

@@ -1,12 +1,12 @@
 <?php include 'header.php';?>
-<title>Acceleration Converter 2025 | m/s² to ft/s² | Free Physics Tool</title>
-<meta name="description" content="Convert acceleration units instantly with our 2025 accurate converter. Perfect m/s² to ft/s², g-force conversion with real-time calculations for physics and engineering.">
-<meta name="keywords" content="acceleration converter 2025, m/s² to ft/s² converter, acceleration units conversion, physics calculator 2025, g-force converter, meters per second squared, acceleration calculator online, free physics tools, engineering calculator, automotive acceleration, aerospace calculator, galileo unit converter, centimeters per second squared, inches per second squared, kilometers per second squared, millimeters per second squared, scientific calculator, unit conversion tool, physics equations, velocity change calculator">
+<title>Acceleration Converter 2026 | m/s² to ft/s² | Free Physics Tool</title>
+<meta name="description" content="Convert acceleration units instantly with our 2026 accurate converter. Perfect m/s² to ft/s², g-force conversion with real-time calculations for physics and engineering.">
+<meta name="keywords" content="acceleration converter 2026, m/s² to ft/s² converter, acceleration units conversion, physics calculator 2026, g-force converter, meters per second squared, acceleration calculator online, free physics tools, engineering calculator, automotive acceleration, aerospace calculator, galileo unit converter, centimeters per second squared, inches per second squared, kilometers per second squared, millimeters per second squared, scientific calculator, unit conversion tool, physics equations, velocity change calculator">
 <link rel="canonical" href="https://www.thiyagi.com/acceleration-converter">
 
 <!-- Open Graph Meta Tags -->
-<meta property="og:title" content="Acceleration Converter 2025 | m/s² to ft/s² | Free Physics Tool">
-<meta property="og:description" content="Convert acceleration units instantly with our 2025 accurate converter. Perfect m/s² to ft/s², g-force conversion with real-time calculations for physics and engineering.">
+<meta property="og:title" content="Acceleration Converter 2026 | m/s² to ft/s² | Free Physics Tool">
+<meta property="og:description" content="Convert acceleration units instantly with our 2026 accurate converter. Perfect m/s² to ft/s², g-force conversion with real-time calculations for physics and engineering.">
 <meta property="og:url" content="https://www.thiyagi.com/acceleration-converter">
 <meta property="og:type" content="website">
 <meta property="og:image" content="https://www.thiyagi.com/nt.png">
@@ -14,8 +14,8 @@
 
 <!-- Twitter Card Meta Tags -->
 <meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:title" content="Acceleration Converter 2025 | m/s² to ft/s² | Free Physics Tool">
-<meta name="twitter:description" content="Convert acceleration units instantly with our 2025 accurate converter. Perfect m/s² to ft/s², g-force conversion with real-time calculations for physics and engineering.">
+<meta name="twitter:title" content="Acceleration Converter 2026 | m/s² to ft/s² | Free Physics Tool">
+<meta name="twitter:description" content="Convert acceleration units instantly with our 2026 accurate converter. Perfect m/s² to ft/s², g-force conversion with real-time calculations for physics and engineering.">
 <meta name="twitter:image" content="https://www.thiyagi.com/nt.png">
 
 <!-- Additional SEO Meta Tags -->
@@ -54,7 +54,7 @@
   "@context": "https://schema.org",
   "@type": "WebApplication",
   "name": "Acceleration Converter",
-  "description": "Convert acceleration units instantly with our accurate 2025 calculator. Perfect m/s² to ft/s², g-force conversion with real-time calculations for physics and engineering.",
+  "description": "Convert acceleration units instantly with our accurate 2026 calculator. Perfect m/s² to ft/s², g-force conversion with real-time calculations for physics and engineering.",
   "url": "https://www.thiyagi.com/acceleration-converter",
   "applicationCategory": "UtilityApplication",
   "operatingSystem": "Web Browser",
@@ -111,7 +111,7 @@
 {
   "@context": "https://schema.org",
   "@type": "Article",
-  "headline": "Acceleration Converter 2025 - Complete Guide to Acceleration Units",
+  "headline": "Acceleration Converter 2026 - Complete Guide to Acceleration Units",
   "description": "Comprehensive guide to acceleration conversion with calculator, formulas, examples, and practical applications for physics and engineering.",
   "author": {
     "@type": "Person",
@@ -125,8 +125,8 @@
       "url": "https://www.thiyagi.com/images/logo.png"
     }
   },
-  "datePublished": "2025-08-25",
-  "dateModified": "2025-08-25",
+  "datePublished": "2026-08-25",
+  "dateModified": "2026-08-25",
   "mainEntityOfPage": {
     "@type": "WebPage",
     "@id": "https://www.thiyagi.com/acceleration-converter"
@@ -288,7 +288,7 @@
           Acceleration Converter
         </h1>
         <p class="text-xl text-gray-600 mb-8 max-w-3xl mx-auto">
-          Convert acceleration units instantly with our accurate 2025 calculator. 
+          Convert acceleration units instantly with our accurate 2026 calculator. 
           Perfect for physics, engineering, automotive, and scientific calculations with real-time conversions.
         </p>
       </div>
@@ -564,17 +564,17 @@
     <article class="bg-white rounded-xl shadow-lg p-8">
       <h2 class="text-2xl font-bold text-gray-800 mb-6 flex items-center gap-3">
         <i class="fas fa-info-circle text-blue-600" aria-hidden="true"></i>
-        Understanding Acceleration Units in 2025
+        Understanding Acceleration Units in 2026
       </h2>
       <div class="prose max-w-none text-gray-600">
         <p class="mb-4">
           Acceleration is the rate of change of velocity over time, measured in units like meters per second squared (m/s²). 
-          In 2025, accurate acceleration conversion is crucial for automotive engineering, aerospace design, physics research, 
+          In 2026, accurate acceleration conversion is crucial for automotive engineering, aerospace design, physics research, 
           sports analysis, and earthquake measurements. Our converter supports all major acceleration units used worldwide.
         </p>
         <p class="mb-6">
           Whether you're calculating vehicle performance, analyzing seismic data, designing safety systems, or studying 
-          gravitational effects, our 2025 acceleration converter provides instant and precise conversions between all 
+          gravitational effects, our 2026 acceleration converter provides instant and precise conversions between all 
           standard acceleration units, ensuring accuracy in your scientific and engineering calculations.
         </p>
       </div>

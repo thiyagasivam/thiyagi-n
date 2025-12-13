@@ -1,7 +1,7 @@
 <?php 
 // Meta information for this page
-$pageTitle = "Centimeters to Meters Converter 2025 - CM to M Calculator Online";
-$pageDescription = "Convert centimeters (cm) to meters (m) instantly with our free online calculator 2025. Accurate length conversion tool for construction, tailoring, and scientific measurements.";
+$pageTitle = "Centimeters to Meters Converter 2026 - CM to M Calculator Online";
+$pageDescription = "Convert centimeters (cm) to meters (m) instantly with our free online calculator 2026. Accurate length conversion tool for construction, tailoring, and scientific measurements.";
 ?>
 <?php include 'header.php'; ?>
 
@@ -32,7 +32,7 @@ $pageDescription = "Convert centimeters (cm) to meters (m) instantly with our fr
             <div class="text-center mb-8">
                 <h1 class="text-4xl font-bold text-gray-800 mb-4">
                     <i class="fas fa-ruler text-teal-600 mr-3"></i>
-                    Centimeters to Meters Converter 2025
+                    Centimeters to Meters Converter 2026
                 </h1>
                 <p class="text-lg text-gray-600 max-w-2xl mx-auto">
                     Convert Centimeters (cm) to Meters (m) instantly with our professional length converter. 

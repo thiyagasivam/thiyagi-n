@@ -1,12 +1,12 @@
 <?php include 'header.php';?>
-<title>Ounce to ML Converter 2025 | Convert fluid ounce to milliliter | Free Tool</title>
-<meta name="description" content="Convert fluid ounce to milliliter instantly with our 2025 accurate converter. Perfect oz to ml conversion with real-time calculations for cooking and volume measurement.">
-<meta name="keywords" content="ounce to ml 2025, fluid ounce milliliter converter, cooking conversion 2025, recipe measurement calculator, liquid conversion tool">
+<title>Ounce to ML Converter 2026 | Convert fluid ounce to milliliter | Free Tool</title>
+<meta name="description" content="Convert fluid ounce to milliliter instantly with our 2026 accurate converter. Perfect oz to ml conversion with real-time calculations for cooking and volume measurement.">
+<meta name="keywords" content="ounce to ml 2026, fluid ounce milliliter converter, cooking conversion 2026, recipe measurement calculator, liquid conversion tool">
 <link rel="canonical" href="https://www.thiyagi.com/ounce-to-ml">
 
 <!-- Open Graph Meta Tags -->
-<meta property="og:title" content="Ounce to ML Converter 2025 | Convert fluid ounce to milliliter | Free Tool">
-<meta property="og:description" content="Convert fluid ounce to milliliter instantly with our 2025 accurate converter. Perfect oz to ml conversion with real-time calculations for cooking and volume measurement.">
+<meta property="og:title" content="Ounce to ML Converter 2026 | Convert fluid ounce to milliliter | Free Tool">
+<meta property="og:description" content="Convert fluid ounce to milliliter instantly with our 2026 accurate converter. Perfect oz to ml conversion with real-time calculations for cooking and volume measurement.">
 <meta property="og:url" content="https://www.thiyagi.com/ounce-to-ml">
 <meta property="og:type" content="website">
 <meta property="og:image" content="https://www.thiyagi.com/nt.png">
@@ -14,8 +14,8 @@
 
 <!-- Twitter Card Meta Tags -->
 <meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:title" content="Ounce to ML Converter 2025 | Convert fluid ounce to milliliter | Free Tool">
-<meta name="twitter:description" content="Convert fluid ounce to milliliter instantly with our 2025 accurate converter. Perfect oz to ml conversion with real-time calculations for cooking and volume measurement.">
+<meta name="twitter:title" content="Ounce to ML Converter 2026 | Convert fluid ounce to milliliter | Free Tool">
+<meta name="twitter:description" content="Convert fluid ounce to milliliter instantly with our 2026 accurate converter. Perfect oz to ml conversion with real-time calculations for cooking and volume measurement.">
 <meta name="twitter:image" content="https://www.thiyagi.com/nt.png">
 
 <!-- Additional SEO Meta Tags -->
@@ -39,7 +39,7 @@
           Fluid Ounce to Milliliter Converter
         </h1>
         <p class="text-xl text-gray-600 mb-8 max-w-3xl mx-auto">
-          Convert fluid ounces to milliliters instantly with our accurate 2025 calculator. 
+          Convert fluid ounces to milliliters instantly with our accurate 2026 calculator. 
           Perfect for cooking, baking, and precise liquid measurements.
         </p>
       </div>
@@ -176,16 +176,16 @@
     <article class="bg-white rounded-xl shadow-lg p-8">
       <h2 class="text-2xl font-bold text-gray-800 mb-6 flex items-center gap-3">
         <i class="fas fa-info-circle text-indigo-600" aria-hidden="true"></i>
-        Fluid Ounce to Milliliter Conversion 2025
+        Fluid Ounce to Milliliter Conversion 2026
       </h2>
       <div class="prose max-w-none text-gray-600">
         <p class="mb-4">
-          Converting fluid ounces to milliliters is essential for cooking, baking, and laboratory work in 2025. 
+          Converting fluid ounces to milliliters is essential for cooking, baking, and laboratory work in 2026. 
           This conversion between imperial and metric liquid measurements enables accurate communication between professionals 
           working in different measurement systems, from international recipe adaptations to scientific measurements.
         </p>
         <p class="mb-6">
-          Our 2025 converter provides instant and precise conversions from fluid ounces to milliliters, essential for chefs, 
+          Our 2026 converter provides instant and precise conversions from fluid ounces to milliliters, essential for chefs, 
           bakers, bartenders, and anyone working with liquid volume specifications. 
           1 US fluid ounce equals approximately 29.5735 milliliters, while 1 UK fluid ounce equals approximately 28.4131 milliliters.
         </p>

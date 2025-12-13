@@ -2,18 +2,18 @@
 
 <head>
     
-    <title>Arunachal Pradesh Holidays 2025 | Complete Calendar | State Festivals | National Holidays</title>
-    <meta name="description" content="Complete Arunachal Pradesh Holiday Calendar 2025. Find all state festivals, national holidays, cultural events, and religious celebrations. Plan your year with our comprehensive holiday guide.">
-    <meta name="keywords" content="Arunachal Pradesh holidays 2025, Arunachal festivals, Losar, Solung, national holidays India, Arunachal Pradesh calendar, holidays Arunachal Pradesh, festival dates 2025">
+    <title>Arunachal Pradesh Holidays 2026 | Complete Calendar | State Festivals | National Holidays</title>
+    <meta name="description" content="Complete Arunachal Pradesh Holiday Calendar 2026. Find all state festivals, national holidays, cultural events, and religious celebrations. Plan your year with our comprehensive holiday guide.">
+    <meta name="keywords" content="Arunachal Pradesh holidays 2026, Arunachal festivals, Losar, Solung, national holidays India, Arunachal Pradesh calendar, holidays Arunachal Pradesh, festival dates 2026">
     <meta name="author" content="Arunachal Pradesh Holiday Calendar">
-    <meta property="og:title" content="Arunachal Pradesh Holidays 2025 - Complete Calendar">
-    <meta property="og:description" content="Complete Arunachal Pradesh Holiday Calendar 2025 with all festivals, national holidays, and cultural events. Plan your year with our comprehensive guide.">
+    <meta property="og:title" content="Arunachal Pradesh Holidays 2026 - Complete Calendar">
+    <meta property="og:description" content="Complete Arunachal Pradesh Holiday Calendar 2026 with all festivals, national holidays, and cultural events. Plan your year with our comprehensive guide.">
     <meta property="og:type" content="website">
     <meta property="og:url" content="<?php echo 'https://' . $_SERVER['HTTP_HOST'] . $_SERVER['REQUEST_URI']; ?>">
-    <meta property="og:image" content="https://via.placeholder.com/1200x630/228B22/FFFFFF?text=Arunachal+Pradesh+Holidays+2025">
+    <meta property="og:image" content="https://via.placeholder.com/1200x630/228B22/FFFFFF?text=Arunachal+Pradesh+Holidays+2026">
     <meta name="twitter:card" content="summary_large_image">
-    <meta name="twitter:title" content="Arunachal Pradesh Holidays 2025">
-    <meta name="twitter:description" content="Complete Arunachal Pradesh Holiday Calendar 2025 with all festivals and holidays.">
+    <meta name="twitter:title" content="Arunachal Pradesh Holidays 2026">
+    <meta name="twitter:description" content="Complete Arunachal Pradesh Holiday Calendar 2026 with all festivals and holidays.">
     <link rel="canonical" href="<?php echo 'https://' . $_SERVER['HTTP_HOST'] . $_SERVER['REQUEST_URI']; ?>">
     <meta name="language" content="English, Hindi">
     <meta name="geo.region" content="IN-AR">
@@ -23,26 +23,26 @@
     {
         "@context": "https://schema.org",
         "@type": "WebPage",
-        "name": "Arunachal Pradesh Holidays 2025",
-        "description": "Complete Arunachal Pradesh Holiday Calendar 2025 with all festivals, national holidays, and cultural events",
+        "name": "Arunachal Pradesh Holidays 2026",
+        "description": "Complete Arunachal Pradesh Holiday Calendar 2026 with all festivals, national holidays, and cultural events",
         "url": "<?php echo 'https://' . $_SERVER['HTTP_HOST'] . $_SERVER['REQUEST_URI']; ?>",
         "mainEntity": {
             "@type": "FAQPage",
             "mainEntity": [
                 {
                     "@type": "Question",
-                    "name": "What are the main Arunachal Pradesh festivals in 2025?",
+                    "name": "What are the main Arunachal Pradesh festivals in 2026?",
                     "acceptedAnswer": {
                         "@type": "Answer",
-                        "text": "The main Arunachal Pradesh festivals in 2025 include Losar (March 1), Solung (September 1), and Dree Festival (July 5)."
+                        "text": "The main Arunachal Pradesh festivals in 2026 include Losar (March 1), Solung (September 1), and Dree Festival (July 5)."
                     }
                 },
                 {
                     "@type": "Question",
-                    "name": "How many national holidays are there in Arunachal Pradesh 2025?",
+                    "name": "How many national holidays are there in Arunachal Pradesh 2026?",
                     "acceptedAnswer": {
                         "@type": "Answer",
-                        "text": "There are several national holidays in Arunachal Pradesh 2025 including Republic Day (January 26), Independence Day (August 15), and Gandhi Jayanti (October 2)."
+                        "text": "There are several national holidays in Arunachal Pradesh 2026 including Republic Day (January 26), Independence Day (August 15), and Gandhi Jayanti (October 2)."
                     }
                 },
                 {
@@ -55,7 +55,7 @@
                 },
                 {
                     "@type": "Question",
-                    "name": "Are there any special holidays specific to Arunachal Pradesh in 2025?",
+                    "name": "Are there any special holidays specific to Arunachal Pradesh in 2026?",
                     "acceptedAnswer": {
                         "@type": "Answer",
                         "text": "Yes, Arunachal Pradesh has several state-specific holidays and festivals such as Solung, Dree, and Nyokum."
@@ -67,7 +67,7 @@
             "@type": "Organization",
             "name": "Arunachal Pradesh Holiday Calendar"
         },
-        "datePublished": "2025-01-01",
+        "datePublished": "2026-01-01",
         "dateModified": "<?php echo date('Y-m-d'); ?>"
     }
     </script>
@@ -91,65 +91,65 @@
 </head>
 <body class="bg-gradient-to-br from-green-50 to-indigo-100 min-h-screen">
     <?php
-    // Arunachal Pradesh Holidays 2025 Data
-    $holidays_2025 = [
-        '2025-01-01' => [
+    // Arunachal Pradesh Holidays 2026 Data
+    $holidays_2026 = [
+        '2026-01-01' => [
             'name' => 'New Year\'s Day',
             'type' => 'National Holiday',
             'description' => 'Celebration of the new year',
             'icon' => 'fa-calendar-day',
             'bank_holiday' => true
         ],
-        '2025-01-26' => [
+        '2026-01-26' => [
             'name' => 'Republic Day',
             'type' => 'National Holiday',
             'description' => 'Celebration of Indian Republic',
             'icon' => 'fa-flag',
             'bank_holiday' => true
         ],
-        '2025-03-01' => [
+        '2026-03-01' => [
             'name' => 'Losar',
             'type' => 'State Festival',
             'description' => 'Tibetan New Year celebrated by Monpa community',
             'icon' => 'fa-sun',
             'bank_holiday' => true
         ],
-        '2025-04-14' => [
+        '2026-04-14' => [
             'name' => 'Ambedkar Jayanti',
             'type' => 'National Holiday',
             'description' => 'Birth anniversary of Dr. B.R. Ambedkar',
             'icon' => 'fa-book-open',
             'bank_holiday' => true
         ],
-        '2025-07-05' => [
+        '2026-07-05' => [
             'name' => 'Dree Festival',
             'type' => 'State Festival',
             'description' => 'Agricultural festival of the Apatani tribe',
             'icon' => 'fa-leaf',
             'bank_holiday' => true
         ],
-        '2025-08-15' => [
+        '2026-08-15' => [
             'name' => 'Independence Day',
             'type' => 'National Holiday',
             'description' => 'Indian Independence Day',
             'icon' => 'fa-dove',
             'bank_holiday' => true
         ],
-        '2025-09-01' => [
+        '2026-09-01' => [
             'name' => 'Solung',
             'type' => 'State Festival',
             'description' => 'Harvest festival of the Adi community',
             'icon' => 'fa-seedling',
             'bank_holiday' => true
         ],
-        '2025-10-02' => [
+        '2026-10-02' => [
             'name' => 'Gandhi Jayanti',
             'type' => 'National Holiday',
             'description' => 'Birth anniversary of Mahatma Gandhi',
             'icon' => 'fa-peace',
             'bank_holiday' => true
         ],
-        '2025-12-25' => [
+        '2026-12-25' => [
             'name' => 'Christmas',
             'type' => 'Religious',
             'description' => 'Celebration of Jesus Christ\'s birth',
@@ -158,16 +158,16 @@
         ]
     ];
 
-    // Bank Holidays 2025 - Additional holidays specific to banks
-    $bank_holidays_2025 = [
-        '2025-04-18' => [
+    // Bank Holidays 2026 - Additional holidays specific to banks
+    $bank_holidays_2026 = [
+        '2026-04-18' => [
             'name' => 'Good Friday',
             'type' => 'Bank Holiday',
             'description' => 'Christian religious holiday - Banks closed',
             'icon' => 'fa-university',
             'bank_holiday' => true
         ],
-        '2025-11-01' => [
+        '2026-11-01' => [
             'name' => 'Statehood Day',
             'type' => 'Bank Holiday',
             'description' => 'Arunachal Pradesh Statehood Day',
@@ -177,11 +177,11 @@
     ];
 
     // Merge all holidays
-    $all_holidays_2025 = array_merge($holidays_2025, $bank_holidays_2025);
+    $all_holidays_2026 = array_merge($holidays_2026, $bank_holidays_2026);
 
     // Get current month and year
     $current_month = isset($_GET['month']) ? (int)$_GET['month'] : (int)date('n');
-    $current_year = isset($_GET['year']) ? (int)$_GET['year'] : 2025;
+    $current_year = isset($_GET['year']) ? (int)$_GET['year'] : 2026;
     
     // Month names
     $month_names = [
@@ -232,7 +232,7 @@
                     </div>
                     <div>
                         <h1 class="text-4xl font-bold flex items-center space-x-3">
-                            <span>Arunachal Pradesh Holidays 2025</span>
+                            <span>Arunachal Pradesh Holidays 2026</span>
                             <i class="fas fa-flag text-2xl animate-bounce"></i>
                         </h1>
                     </div>
@@ -248,7 +248,7 @@
                     </p>
                     <div class="mt-2 flex items-center space-x-2">
                         <i class="fas fa-gift text-yellow-200"></i>
-                        <span class="text-sm opacity-75"><?php echo count($all_holidays_2025); ?> Total Holidays</span>
+                        <span class="text-sm opacity-75"><?php echo count($all_holidays_2026); ?> Total Holidays</span>
                     </div>
                 </div>
             </div>
@@ -276,7 +276,7 @@
                 <li><i class="fas fa-chevron-right text-xs"></i></li>
                 <li><a href="#" class="hover:text-blue-600 transition-colors">Arunachal Pradesh</a></li>
                 <li><i class="fas fa-chevron-right text-xs"></i></li>
-                <li class="text-gray-800 font-medium">Holidays 2025</li>
+                <li class="text-gray-800 font-medium">Holidays 2026</li>
             </ol>
         </nav>
 
@@ -285,11 +285,11 @@
             <div class="max-w-4xl mx-auto text-center">
                 <h2 class="text-3xl font-bold text-gray-800 mb-4 flex items-center justify-center space-x-3">
                     <i class="fas fa-calendar-alt text-blue-600"></i>
-                    <span>Complete Arunachal Pradesh Holiday Calendar 2025</span>
+                    <span>Complete Arunachal Pradesh Holiday Calendar 2026</span>
                     <i class="fas fa-star text-yellow-500"></i>
                 </h2>
                 <p class="text-lg text-gray-700 mb-4 leading-relaxed">
-                    Welcome to the comprehensive Arunachal Pradesh Holiday Calendar 2025! This detailed guide provides you with all the important dates, 
+                    Welcome to the comprehensive Arunachal Pradesh Holiday Calendar 2026! This detailed guide provides you with all the important dates, 
                     festivals, and celebrations throughout the year. Whether you're planning a trip to Arunachal Pradesh, organizing events, 
                     or simply want to stay informed about cultural celebrations, our calendar covers everything from traditional Arunachal festivals 
                     to national holidays and international observances.
@@ -471,8 +471,8 @@
                 // Days of the month
                 for ($day = 1; $day <= $days_in_month; $day++) {
                     $date = sprintf('%04d-%02d-%02d', $current_year, $current_month, $day);
-                    $is_holiday = isset($all_holidays_2025[$date]);
-                    $is_bank_holiday = isset($all_holidays_2025[$date]) && $all_holidays_2025[$date]['bank_holiday'] === true;
+                    $is_holiday = isset($all_holidays_2026[$date]);
+                    $is_bank_holiday = isset($all_holidays_2026[$date]) && $all_holidays_2026[$date]['bank_holiday'] === true;
                     $is_today = ($day == date('j') && $current_month == date('n') && $current_year == date('Y'));
                     
                     $cell_classes = 'p-4 border-r border-b min-h-[100px] relative';
@@ -487,7 +487,7 @@
                     echo '<div class="text-lg font-semibold text-gray-800 mb-2">' . $day . '</div>';
                     
                     if ($is_holiday) {
-                        $holiday = $all_holidays_2025[$date];
+                        $holiday = $all_holidays_2026[$date];
                         $border_color = $is_bank_holiday ? 'border-blue-500' : 'border-red-500';
                         $bg_color = $is_bank_holiday ? 'bg-blue-100' : 'bg-red-100';
                         $text_color = $is_bank_holiday ? 'text-blue-800' : 'text-red-800';
@@ -546,7 +546,7 @@
                     $today = date('Y-m-d');
                     $upcoming_count = 0;
                     
-                    foreach ($all_holidays_2025 as $date => $holiday) {
+                    foreach ($all_holidays_2026 as $date => $holiday) {
                         if ($date >= $today && $upcoming_count < 5) {
                             $days_until = (strtotime($date) - strtotime($today)) / (60 * 60 * 24);
                             echo '<div class="flex items-center justify-between p-4 bg-gradient-to-r from-blue-50 to-indigo-50 rounded-lg border border-blue-200 hover:shadow-md transition-all transform hover:scale-105">';
@@ -589,16 +589,16 @@
                     <div class="text-center p-4 bg-gradient-to-br from-green-50 to-green-100 rounded-lg border border-green-200 hover:shadow-md transition-all">
                         <div class="flex items-center justify-center space-x-2 mb-2">
                             <i class="fas fa-gift text-green-600 text-xl"></i>
-                            <div class="text-3xl font-bold text-green-600"><?php echo count($holidays_2025); ?></div>
+                            <div class="text-3xl font-bold text-green-600"><?php echo count($holidays_2026); ?></div>
                         </div>
                         <div class="text-sm text-green-700 font-medium">Total Holidays</div>
-                        <div class="text-xs text-green-600 mt-1"><?php echo count(array_filter($all_holidays_2025, function($h) { return $h['bank_holiday'] === true; })); ?> Bank Holidays</div>
+                        <div class="text-xs text-green-600 mt-1"><?php echo count(array_filter($all_holidays_2026, function($h) { return $h['bank_holiday'] === true; })); ?> Bank Holidays</div>
                         <div class="text-xs text-green-600 mt-1">🎉 Celebrations</div>
                     </div>
                     <div class="text-center p-4 bg-gradient-to-br from-blue-50 to-blue-100 rounded-lg border border-blue-200 hover:shadow-md transition-all">
                         <div class="flex items-center justify-center space-x-2 mb-2">
                             <i class="fas fa-flag text-blue-600 text-xl"></i>
-                            <div class="text-3xl font-bold text-blue-600"><?php echo count(array_filter($holidays_2025, function($h) { return $h['type'] === 'State Festival'; })); ?></div>
+                            <div class="text-3xl font-bold text-blue-600"><?php echo count(array_filter($holidays_2026, function($h) { return $h['type'] === 'State Festival'; })); ?></div>
                         </div>
                         <div class="text-sm text-blue-700 font-medium">State Festivals</div>
                         <div class="text-xs text-blue-600 mt-1">🌾 Cultural</div>
@@ -606,7 +606,7 @@
                     <div class="text-center p-4 bg-gradient-to-br from-yellow-50 to-yellow-100 rounded-lg border border-yellow-200 hover:shadow-md transition-all">
                         <div class="flex items-center justify-center space-x-2 mb-2">
                             <i class="fas fa-star text-yellow-600 text-xl"></i>
-                            <div class="text-3xl font-bold text-yellow-600"><?php echo count(array_filter($holidays_2025, function($h) { return $h['type'] === 'National Holiday'; })); ?></div>
+                            <div class="text-3xl font-bold text-yellow-600"><?php echo count(array_filter($holidays_2026, function($h) { return $h['type'] === 'National Holiday'; })); ?></div>
                         </div>
                         <div class="text-sm text-yellow-700 font-medium">National Holidays</div>
                         <div class="text-xs text-yellow-600 mt-1">🇮🇳 Patriotic</div>
@@ -614,7 +614,7 @@
                     <div class="text-center p-4 bg-gradient-to-br from-purple-50 to-purple-100 rounded-lg border border-purple-200 hover:shadow-md transition-all">
                         <div class="flex items-center justify-center space-x-2 mb-2">
                             <i class="fas fa-pray text-purple-600 text-xl"></i>
-                            <div class="text-3xl font-bold text-purple-600"><?php echo count(array_filter($all_holidays_2025, function($h) { return $h['type'] === 'Religious'; })); ?></div>
+                            <div class="text-3xl font-bold text-purple-600"><?php echo count(array_filter($all_holidays_2026, function($h) { return $h['type'] === 'Religious'; })); ?></div>
                         </div>
                         <div class="text-sm text-purple-700 font-medium">Religious</div>
                         <div class="text-xs text-purple-600 mt-1">⛪ Spiritual</div>
@@ -623,7 +623,7 @@
                     <div class="text-center p-4 bg-gradient-to-br from-blue-50 to-blue-100 rounded-lg border border-blue-200 hover:shadow-md transition-all">
                         <div class="flex items-center justify-center space-x-2 mb-2">
                             <i class="fas fa-university text-blue-600 text-xl"></i>
-                            <div class="text-3xl font-bold text-blue-600"><?php echo count(array_filter($all_holidays_2025, function($h) { return $h['bank_holiday'] === true; })); ?></div>
+                            <div class="text-3xl font-bold text-blue-600"><?php echo count(array_filter($all_holidays_2026, function($h) { return $h['bank_holiday'] === true; })); ?></div>
                         </div>
                         <div class="text-sm text-blue-700 font-medium">Bank Holidays</div>
                         <div class="text-xs text-blue-600 mt-1">🏦 Financial</div>
@@ -636,7 +636,7 @@
         <div class="mt-8 bg-white rounded-lg shadow-lg p-6 border-l-4 border-blue-500">
             <h3 class="text-2xl font-bold text-gray-800 mb-4 flex items-center">
                 <i class="fas fa-university text-blue-500 mr-3 text-2xl"></i>
-                <span>Bank Holidays 2025</span>
+                <span>Bank Holidays 2026</span>
                 <i class="fas fa-building-columns text-blue-400 ml-2"></i>
             </h3>
             <p class="text-gray-600 mb-6">All major banks in Arunachal Pradesh will be closed on these dates. Plan your banking activities accordingly.</p>
@@ -644,7 +644,7 @@
             <div class="grid md:grid-cols-2 lg:grid-cols-3 gap-4">
                 <?php
                 $bank_holidays_displayed = 0;
-                foreach ($all_holidays_2025 as $date => $holiday) {
+                foreach ($all_holidays_2026 as $date => $holiday) {
                     if ($holiday['bank_holiday'] === true && $bank_holidays_displayed < 12) {
                         $formatted_date = date('M d, Y', strtotime($date));
                         $day_name = date('l', strtotime($date));
@@ -774,10 +774,10 @@
                     <div class="bg-gray-50 rounded-lg p-6 hover:shadow-md transition-all">
                         <h3 class="text-xl font-semibold text-gray-800 mb-3 flex items-center space-x-2">
                             <i class="fas fa-calendar-day text-blue-500"></i>
-                            <span>What are the main Arunachal Pradesh festivals in 2025?</span>
+                            <span>What are the main Arunachal Pradesh festivals in 2026?</span>
                         </h3>
                         <p class="text-gray-700 leading-relaxed">
-                            The main Arunachal Pradesh festivals in 2025 include <strong>Losar</strong> (March 1) - Tibetan New Year celebrated by the Monpa community, 
+                            The main Arunachal Pradesh festivals in 2026 include <strong>Losar</strong> (March 1) - Tibetan New Year celebrated by the Monpa community, 
                             <strong>Solung</strong> (September 1) - Harvest festival of the Adi community, and <strong>Dree Festival</strong> (July 5) - Agricultural festival of the Apatani tribe.
                         </p>
                     </div>
@@ -786,10 +786,10 @@
                     <div class="bg-gray-50 rounded-lg p-6 hover:shadow-md transition-all">
                         <h3 class="text-xl font-semibold text-gray-800 mb-3 flex items-center space-x-2">
                             <i class="fas fa-flag text-red-500"></i>
-                            <span>How many national holidays are there in Arunachal Pradesh 2025?</span>
+                            <span>How many national holidays are there in Arunachal Pradesh 2026?</span>
                         </h3>
                         <p class="text-gray-700 leading-relaxed">
-                            Arunachal Pradesh observes several national holidays in 2025 including <strong>Republic Day</strong> (January 26), 
+                            Arunachal Pradesh observes several national holidays in 2026 including <strong>Republic Day</strong> (January 26), 
                             <strong>Independence Day</strong> (August 15), and <strong>Gandhi Jayanti</strong> (October 2). 
                             These are official government holidays when banks, schools, and government offices remain closed.
                         </p>
@@ -814,7 +814,7 @@
                             <span>What is Ambedkar Jayanti and why is it observed?</span>
                         </h3>
                         <p class="text-gray-700 leading-relaxed">
-                            <strong>Ambedkar Jayanti</strong> (April 14, 2025) is observed as the birth anniversary of Dr. B.R. Ambedkar, the chief architect of the Indian Constitution and a prominent social reformer. 
+                            <strong>Ambedkar Jayanti</strong> (April 14, 2026) is observed as the birth anniversary of Dr. B.R. Ambedkar, the chief architect of the Indian Constitution and a prominent social reformer. 
                             The day is dedicated to promoting social equality, justice, and the values of Dr. Ambedkar. It is observed with prayer meetings, seminars, and cultural programs.
                         </p>
                     </div>
@@ -826,8 +826,8 @@
                             <span>Are international holidays like Valentine's Day celebrated in Arunachal Pradesh?</span>
                         </h3>
                         <p class="text-gray-700 leading-relaxed">
-                            Yes, <strong>Valentine's Day</strong> (February 14, 2025) and other international holidays like 
-                            <strong>International Women's Day</strong> (March 8, 2025) are celebrated in Arunachal Pradesh, especially in 
+                            Yes, <strong>Valentine's Day</strong> (February 14, 2026) and other international holidays like 
+                            <strong>International Women's Day</strong> (March 8, 2026) are celebrated in Arunachal Pradesh, especially in 
                             urban areas. While these are not official holidays, they are widely observed by younger generations and 
                             commercial establishments, reflecting the state's cosmopolitan culture.
                         </p>
@@ -840,7 +840,7 @@
                             <span>What is the difference between Solung and Dree Festival?</span>
                         </h3>
                         <p class="text-gray-700 leading-relaxed">
-                            <strong>Solung</strong> (September 1, 2025) is a harvest festival celebrated by the Adi community, while <strong>Dree Festival</strong> (July 5, 2025) is an agricultural festival of the Apatani tribe. 
+                            <strong>Solung</strong> (September 1, 2026) is a harvest festival celebrated by the Adi community, while <strong>Dree Festival</strong> (July 5, 2026) is an agricultural festival of the Apatani tribe. 
                             Both festivals have cultural significance and are celebrated with traditional rituals, feasting, and community gatherings.
                         </p>
                     </div>
@@ -852,7 +852,7 @@
                             <span>Is Labour Day a public holiday in Arunachal Pradesh?</span>
                         </h3>
                         <p class="text-gray-700 leading-relaxed">
-                            <strong>Labour Day</strong> (May 1, 2025) is celebrated as <strong>International Workers' Day</strong> 
+                            <strong>Labour Day</strong> (May 1, 2026) is celebrated as <strong>International Workers' Day</strong> 
                             in Arunachal Pradesh. While it's not always a complete public holiday, many government offices and educational 
                             institutions may have reduced working hours or special arrangements. Trade unions and workers' organizations 
                             organize rallies and events to celebrate workers' rights and achievements.
@@ -866,7 +866,7 @@
                             <span>How is Independence Day celebrated in Arunachal Pradesh?</span>
                         </h3>
                         <p class="text-gray-700 leading-relaxed">
-                            <strong>Independence Day</strong> (August 15, 2025) is celebrated with great patriotic fervor across Arunachal Pradesh. 
+                            <strong>Independence Day</strong> (August 15, 2026) is celebrated with great patriotic fervor across Arunachal Pradesh. 
                             The day begins with flag hoisting ceremonies in schools, colleges, and government offices. Cultural programs, 
                             patriotic songs, and speeches highlighting India's freedom struggle are organized. The main celebration takes 
                             place at the state capital Itanagar with the Chief Minister's address.
@@ -880,7 +880,7 @@
                             <span>What is the significance of Gandhi Jayanti in Arunachal Pradesh?</span>
                         </h3>
                         <p class="text-gray-700 leading-relaxed">
-                            <strong>Gandhi Jayanti</strong> (October 2, 2025) commemorates the birth anniversary of Mahatma Gandhi, 
+                            <strong>Gandhi Jayanti</strong> (October 2, 2026) commemorates the birth anniversary of Mahatma Gandhi, 
                             the Father of the Nation. In Arunachal Pradesh, this day is observed with prayer meetings, seminars on Gandhian 
                             philosophy, and community service activities. Schools organize special assemblies, and government offices 
                             remain closed. The day promotes Gandhian values of non-violence, truth, and simplicity.
@@ -894,7 +894,7 @@
                             <span>How is Children's Day celebrated in Arunachal Pradesh?</span>
                         </h3>
                         <p class="text-gray-700 leading-relaxed">
-                            <strong>Children's Day</strong> (November 14, 2025) celebrates the birth anniversary of India's first 
+                            <strong>Children's Day</strong> (November 14, 2026) celebrates the birth anniversary of India's first 
                             Prime Minister, Jawaharlal Nehru, who was fondly called "Chacha Nehru" by children. In Arunachal Pradesh, schools 
                             organize special programs, cultural activities, and competitions for children. Many schools also distribute 
                             sweets and gifts to students, making it a memorable day for children across the state.
@@ -908,7 +908,7 @@
                             <span>Is Christmas celebrated in Arunachal Pradesh?</span>
                         </h3>
                         <p class="text-gray-700 leading-relaxed">
-                            Yes, <strong>Christmas</strong> (December 25, 2025) is celebrated with great enthusiasm in Arunachal Pradesh, 
+                            Yes, <strong>Christmas</strong> (December 25, 2026) is celebrated with great enthusiasm in Arunachal Pradesh, 
                             especially in areas with significant Christian populations like Itanagar, Pasighat, and Naharlagun. Churches 
                             are beautifully decorated, midnight masses are held, and communities come together for celebrations. 
                             The festival promotes communal harmony and is celebrated by people of all faiths.
@@ -922,7 +922,7 @@
                             <span>What is the significance of International Women's Day in Arunachal Pradesh?</span>
                         </h3>
                         <p class="text-gray-700 leading-relaxed">
-                            <strong>International Women's Day</strong> (March 8, 2025) is celebrated across Arunachal Pradesh to recognize 
+                            <strong>International Women's Day</strong> (March 8, 2026) is celebrated across Arunachal Pradesh to recognize 
                             women's achievements and promote gender equality. Various organizations, educational institutions, and 
                             government bodies organize seminars, workshops, and cultural programs highlighting women's contributions 
                             to society. The day also focuses on women's rights, empowerment, and addressing gender-based challenges.
@@ -961,7 +961,7 @@
                     <div class="bg-gray-50 rounded-lg p-6 hover:shadow-md transition-all">
                         <h3 class="text-xl font-semibold text-gray-800 mb-3 flex items-center space-x-2">
                             <i class="fas fa-calendar-check text-green-500"></i>
-                            <span>Are there any special holidays specific to Arunachal Pradesh in 2025?</span>
+                            <span>Are there any special holidays specific to Arunachal Pradesh in 2026?</span>
                         </h3>
                         <p class="text-gray-700 leading-relaxed">
                             Yes, Arunachal Pradesh has several state-specific holidays and festivals. <strong>Solung</strong>, <strong>Dree</strong>, and 
@@ -1049,7 +1049,7 @@
         // JavaScript functionality
         
         // Holiday data for search functionality
-        const holidaysData = <?php echo json_encode($all_holidays_2025); ?>;
+        const holidaysData = <?php echo json_encode($all_holidays_2026); ?>;
         
         function searchHolidays() {
             const searchTerm = document.getElementById('searchInput').value.toLowerCase();
@@ -1171,12 +1171,12 @@
 
         function downloadCalendar() {
             // Create a simple text version for download
-            const content = `Arunachal Pradesh Holidays 2025\n\n`;
+            const content = `Arunachal Pradesh Holidays 2026\n\n`;
             const blob = new Blob([content], { type: 'text/plain' });
             const url = window.URL.createObjectURL(blob);
             const a = document.createElement('a');
             a.href = url;
-            a.download = 'arunachal-pradesh-holidays-2025.txt';
+            a.download = 'arunachal-pradesh-holidays-2026.txt';
             a.click();
             window.URL.revokeObjectURL(url);
         }
@@ -1184,8 +1184,8 @@
         function shareCalendar() {
             if (navigator.share) {
                 navigator.share({
-                    title: 'Arunachal Pradesh Holidays 2025',
-                    text: 'Check out the Arunachal Pradesh holiday calendar for 2025!',
+                    title: 'Arunachal Pradesh Holidays 2026',
+                    text: 'Check out the Arunachal Pradesh holiday calendar for 2026!',
                     url: window.location.href
                 });
             } else {

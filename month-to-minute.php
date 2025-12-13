@@ -1,19 +1,19 @@
 <?php include 'header.php'; ?>
 
 <!-- SEO Meta Tags -->
-<title>Month to Minute Converter 2025 - Time Duration Calculator | Thiyagi</title>
-<meta name="description" content="Free online Month to Minute converter 2025. Convert months to minutes and minutes to months instantly with accurate time conversion.">
-<meta name="keywords" content="month to minute converter 2025, time conversion, duration calculator, temporal measurements">
+<title>Month to Minute Converter 2026 - Time Duration Calculator | Thiyagi</title>
+<meta name="description" content="Free online Month to Minute converter 2026. Convert months to minutes and minutes to months instantly with accurate time conversion.">
+<meta name="keywords" content="month to minute converter 2026, time conversion, duration calculator, temporal measurements">
 <meta name="author" content="Thiyagi">
-<meta property="og:title" content="Month to Minute Converter 2025 - Time Duration Calculator">
-<meta property="og:description" content="Free online Month to Minute converter 2025. Convert months to minutes and minutes to months instantly.">
+<meta property="og:title" content="Month to Minute Converter 2026 - Time Duration Calculator">
+<meta property="og:description" content="Free online Month to Minute converter 2026. Convert months to minutes and minutes to months instantly.">
 <meta property="og:type" content="website">
 <meta property="og:url" content="https://www.thiyagi.com/month-to-minute.php">
 <meta property="og:image" content="https://www.thiyagi.com/nt.png">
 <meta property="og:site_name" content="Thiyagi">
 <meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:title" content="Month to Minute Converter 2025 - Time Duration Calculator">
-<meta property="twitter:description" content="Free online Month to Minute converter 2025. Convert months to minutes and minutes to months instantly.">
+<meta name="twitter:title" content="Month to Minute Converter 2026 - Time Duration Calculator">
+<meta property="twitter:description" content="Free online Month to Minute converter 2026. Convert months to minutes and minutes to months instantly.">
 <meta name="twitter:image" content="https://www.thiyagi.com/nt.png">
 
 <div class="min-h-screen bg-gradient-to-br from-rose-50 via-pink-50 to-red-50 py-12">

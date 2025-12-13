@@ -1,7 +1,7 @@
 <?php include '../header.php';?>
 <?php include 'breadcrumb-schema.php';?>
 <?php
-// Define tariff rates for 2025 (Domestic consumers)
+// Define tariff rates for 2026 (Domestic consumers)
 $tariff_slabs = [
     ['limit' => 50, 'rate' => 4.00],
     ['limit' => 100, 'rate' => 4.80],
@@ -55,10 +55,10 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     
     <!-- Primary Meta Tags -->
-    <title>Mizoram Electricity Bill Calculator 2025 - Calculate Your MSEB Bill Online</title>
-    <meta name="title" content="Mizoram Electricity Bill Calculator 2025 - Calculate Your MSEB Bill Online">
-    <meta name="description" content="Free Mizoram electricity bill calculator 2025. Calculate your MSEB (Mizoram State Electricity Board) bill with latest tariff rates, subsidies, and fixed charges. Instant calculation with detailed breakdown.">
-    <meta name="keywords" content="Mizoram electricity bill calculator 2025, MSEB bill calculator, electricity bill Mizoram, tariff rates Mizoram, power bill calculator, electricity charges calculator, Mizoram power bill">
+    <title>Mizoram Electricity Bill Calculator 2026 - Calculate Your MSEB Bill Online</title>
+    <meta name="title" content="Mizoram Electricity Bill Calculator 2026 - Calculate Your MSEB Bill Online">
+    <meta name="description" content="Free Mizoram electricity bill calculator 2026. Calculate your MSEB (Mizoram State Electricity Board) bill with latest tariff rates, subsidies, and fixed charges. Instant calculation with detailed breakdown.">
+    <meta name="keywords" content="Mizoram electricity bill calculator 2026, MSEB bill calculator, electricity bill Mizoram, tariff rates Mizoram, power bill calculator, electricity charges calculator, Mizoram power bill">
     <meta name="author" content="Thiyagi">
     <meta name="robots" content="index, follow">
     <meta name="language" content="English">
@@ -67,16 +67,16 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
     <!-- Open Graph / Facebook -->
     <meta property="og:type" content="website">
     <meta property="og:url" content="https://www.thiyagi.com/electricity-board/mizoram-electricity-bill-calculator">
-    <meta property="og:title" content="Mizoram Electricity Bill Calculator 2025 - Calculate Your MSEB Bill Online">
-    <meta property="og:description" content="Free Mizoram electricity bill calculator 2025. Calculate your MSEB (Mizoram State Electricity Board) bill with latest tariff rates, subsidies, and fixed charges. Instant calculation with detailed breakdown.">
+    <meta property="og:title" content="Mizoram Electricity Bill Calculator 2026 - Calculate Your MSEB Bill Online">
+    <meta property="og:description" content="Free Mizoram electricity bill calculator 2026. Calculate your MSEB (Mizoram State Electricity Board) bill with latest tariff rates, subsidies, and fixed charges. Instant calculation with detailed breakdown.">
     <meta property="og:image" content="https://www.thiyagi.com/nt.png">
     <meta property="og:site_name" content="Thiyagi.com">
     
     <!-- Twitter -->
     <meta property="twitter:card" content="summary_large_image">
     <meta property="twitter:url" content="https://www.thiyagi.com/electricity-board/mizoram-electricity-bill-calculator">
-    <meta property="twitter:title" content="Mizoram Electricity Bill Calculator 2025 - Calculate Your MSEB Bill Online">
-    <meta property="twitter:description" content="Free Mizoram electricity bill calculator 2025. Calculate your MSEB (Mizoram State Electricity Board) bill with latest tariff rates, subsidies, and fixed charges. Instant calculation with detailed breakdown.">
+    <meta property="twitter:title" content="Mizoram Electricity Bill Calculator 2026 - Calculate Your MSEB Bill Online">
+    <meta property="twitter:description" content="Free Mizoram electricity bill calculator 2026. Calculate your MSEB (Mizoram State Electricity Board) bill with latest tariff rates, subsidies, and fixed charges. Instant calculation with detailed breakdown.">
     <meta property="twitter:image" content="https://www.thiyagi.com/nt.png">
     <meta property="twitter:creator" content="@thiyagi">
     
@@ -99,8 +99,8 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
     {
         "@context": "https://schema.org",
         "@type": "WebApplication",
-        "name": "Mizoram Electricity Bill Calculator 2025",
-        "description": "Free Mizoram electricity bill calculator 2025. Calculate your MSEB (Mizoram State Electricity Board) bill with latest tariff rates, subsidies, and fixed charges. Instant calculation with detailed breakdown.",
+        "name": "Mizoram Electricity Bill Calculator 2026",
+        "description": "Free Mizoram electricity bill calculator 2026. Calculate your MSEB (Mizoram State Electricity Board) bill with latest tariff rates, subsidies, and fixed charges. Instant calculation with detailed breakdown.",
         "url": "https://www.thiyagi.com/electricity-board/mizoram-electricity-bill-calculator",
         "applicationCategory": "Utility",
         "operatingSystem": "Any",
@@ -278,7 +278,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
     <div class="container mx-auto px-4 py-8">
         <div class="max-w-md mx-auto bg-white rounded-lg shadow-md overflow-hidden">
             <div class="p-6 border-b border-gray-200">
-                <h1 class="text-2xl font-bold text-gray-800">Mizoram Electricity Bill Calculator 2025</h1>
+                <h1 class="text-2xl font-bold text-gray-800">Mizoram Electricity Bill Calculator 2026</h1>
                 <p class="text-gray-600 text-sm">Power & Electricity Department</p>
             </div>
 
@@ -418,7 +418,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
         
         <!-- Tariff Information Table -->
         <div class="max-w-4xl mx-auto mt-8 bg-white rounded-lg shadow-md p-6">
-            <h2 class="text-2xl font-bold text-gray-800 mb-4">2025 Mizoram Electricity Tariff Rates</h2>
+            <h2 class="text-2xl font-bold text-gray-800 mb-4">2026 Mizoram Electricity Tariff Rates</h2>
             <div class="overflow-x-auto">
                 <table class="min-w-full divide-y divide-gray-200">
                     <thead class="bg-gray-50">
@@ -510,15 +510,15 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
         
         <!-- Description Section -->
         <div class="max-w-4xl mx-auto mt-8 bg-white rounded-lg shadow-md p-6">
-            <h2 class="text-2xl font-bold text-gray-800 mb-4">About Mizoram Electricity Bill Calculator 2025</h2>
+            <h2 class="text-2xl font-bold text-gray-800 mb-4">About Mizoram Electricity Bill Calculator 2026</h2>
             <p class="text-gray-600 mb-4">
-                Our free Mizoram electricity bill calculator helps you estimate your monthly electricity bill based on the latest 2025 tariff rates set by the Mizoram State Electricity Board (MSEB). 
+                Our free Mizoram electricity bill calculator helps you estimate your monthly electricity bill based on the latest 2026 tariff rates set by the Mizoram State Electricity Board (MSEB). 
                 Get instant calculations with detailed breakdowns including energy charges, fixed charges, and applicable subsidies.
             </p>
             
             <div class="grid grid-cols-1 md:grid-cols-2 gap-6 mt-6">
                 <div>
-                    <h3 class="font-bold text-gray-700 mb-3">✓ 2025 Tariff Rates (per kWh):</h3>
+                    <h3 class="font-bold text-gray-700 mb-3">✓ 2026 Tariff Rates (per kWh):</h3>
                     <ul class="text-gray-600 text-sm space-y-1">
                         <li>• 0-50 units: ₹4.00</li>
                         <li>• 51-100 units: ₹4.80</li>
@@ -548,7 +548,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
             <div class="space-y-4">
                 <div>
                     <h3 class="font-bold text-gray-700">How accurate is this Mizoram electricity bill calculator?</h3>
-                    <p class="text-gray-600 text-sm mt-1">Our calculator uses the latest 2025 tariff rates set by MSEB. The estimates are highly accurate for domestic consumers, but actual bills may vary slightly due to additional taxes or surcharges.</p>
+                    <p class="text-gray-600 text-sm mt-1">Our calculator uses the latest 2026 tariff rates set by MSEB. The estimates are highly accurate for domestic consumers, but actual bills may vary slightly due to additional taxes or surcharges.</p>
                 </div>
                 <div>
                     <h3 class="font-bold text-gray-700">What is the subsidy available in Mizoram?</h3>
@@ -564,7 +564,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
                 </div>
                 <div>
                     <h3 class="font-bold text-gray-700">How often are the tariff rates updated?</h3>
-                    <p class="text-gray-600 text-sm mt-1">We update our calculator whenever MSEB announces new tariff rates. The current rates are for 2025 and are regularly reviewed.</p>
+                    <p class="text-gray-600 text-sm mt-1">We update our calculator whenever MSEB announces new tariff rates. The current rates are for 2026 and are regularly reviewed.</p>
                 </div>
             </div>
         </div>
@@ -585,7 +585,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
                 </div>
                 <div class="text-center p-4 border rounded-lg">
                     <div class="text-purple-500 text-3xl mb-2">🎯</div>
-                    <h3 class="font-bold text-gray-700">2025 Updated Rates</h3>
+                    <h3 class="font-bold text-gray-700">2026 Updated Rates</h3>
                     <p class="text-gray-600 text-sm">Latest MSEB tariff rates included</p>
                 </div>
                 <div class="text-center p-4 border rounded-lg">

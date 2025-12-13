@@ -1,19 +1,19 @@
 <?php include 'header.php'; ?>
 
 <!-- SEO Meta Tags -->
-<title>BTU IT/Hour to Kilowatt Converter 2025 - Power Calculator | Thiyagi</title>
-<meta name="description" content="Free online BTU IT/hour to kilowatt converter 2025. Convert BTU/h to kW instantly with accurate power conversion for HVAC and energy calculations.">
-<meta name="keywords" content="BTU hour to kilowatt converter 2025, BTU/h to kW, power converter, HVAC calculator, energy conversion">
+<title>BTU IT/Hour to Kilowatt Converter 2026 - Power Calculator | Thiyagi</title>
+<meta name="description" content="Free online BTU IT/hour to kilowatt converter 2026. Convert BTU/h to kW instantly with accurate power conversion for HVAC and energy calculations.">
+<meta name="keywords" content="BTU hour to kilowatt converter 2026, BTU/h to kW, power converter, HVAC calculator, energy conversion">
 <meta name="author" content="Thiyagi">
-<meta property="og:title" content="BTU IT/Hour to Kilowatt Converter 2025 - Power Calculator">
-<meta property="og:description" content="Free online BTU IT/hour to kilowatt converter 2025. Convert BTU/h to kW instantly.">
+<meta property="og:title" content="BTU IT/Hour to Kilowatt Converter 2026 - Power Calculator">
+<meta property="og:description" content="Free online BTU IT/hour to kilowatt converter 2026. Convert BTU/h to kW instantly.">
 <meta property="og:type" content="website">
 <meta property="og:url" content="https://www.thiyagi.com/btu-it-hour-to-kilowatt.php">
 <meta property="og:image" content="https://www.thiyagi.com/nt.png">
 <meta property="og:site_name" content="Thiyagi">
 <meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:title" content="BTU IT/Hour to Kilowatt Converter 2025 - Power Calculator">
-<meta name="twitter:description" content="Free online BTU IT/hour to kilowatt converter 2025. Convert BTU/h to kW instantly.">
+<meta name="twitter:title" content="BTU IT/Hour to Kilowatt Converter 2026 - Power Calculator">
+<meta name="twitter:description" content="Free online BTU IT/hour to kilowatt converter 2026. Convert BTU/h to kW instantly.">
 <meta name="twitter:image" content="https://www.thiyagi.com/nt.png">
 
 <div class="min-h-screen bg-gradient-to-br from-yellow-50 via-amber-50 to-orange-50 py-12">

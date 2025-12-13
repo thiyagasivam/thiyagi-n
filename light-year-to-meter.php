@@ -1,19 +1,19 @@
 <?php include 'header.php'; ?>
 
 <!-- SEO Meta Tags -->
-<title>Light Year to Meter Converter 2025 - ly to m Astronomical Distance Calculator | Thiyagi</title>
-<meta name="description" content="Free online Light Year to Meter converter 2025. Convert ly to m and m to ly instantly with accurate astronomical distance conversion.">
-<meta name="keywords" content="light year to meter converter 2025, ly to m, astronomical distance, space measurement calculator">
+<title>Light Year to Meter Converter 2026 - ly to m Astronomical Distance Calculator | Thiyagi</title>
+<meta name="description" content="Free online Light Year to Meter converter 2026. Convert ly to m and m to ly instantly with accurate astronomical distance conversion.">
+<meta name="keywords" content="light year to meter converter 2026, ly to m, astronomical distance, space measurement calculator">
 <meta name="author" content="Thiyagi">
-<meta property="og:title" content="Light Year to Meter Converter 2025 - ly to m Astronomical Distance Calculator">
-<meta property="og:description" content="Free online Light Year to Meter converter 2025. Convert ly to m and m to ly instantly.">
+<meta property="og:title" content="Light Year to Meter Converter 2026 - ly to m Astronomical Distance Calculator">
+<meta property="og:description" content="Free online Light Year to Meter converter 2026. Convert ly to m and m to ly instantly.">
 <meta property="og:type" content="website">
 <meta property="og:url" content="https://www.thiyagi.com/light-year-to-meter.php">
 <meta property="og:image" content="https://www.thiyagi.com/nt.png">
 <meta property="og:site_name" content="Thiyagi">
 <meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:title" content="Light Year to Meter Converter 2025 - ly to m Astronomical Distance Calculator">
-<meta property="twitter:description" content="Free online Light Year to Meter converter 2025. Convert ly to m and m to ly instantly.">
+<meta name="twitter:title" content="Light Year to Meter Converter 2026 - ly to m Astronomical Distance Calculator">
+<meta property="twitter:description" content="Free online Light Year to Meter converter 2026. Convert ly to m and m to ly instantly.">
 <meta name="twitter:image" content="https://www.thiyagi.com/nt.png">
 
 <div class="min-h-screen bg-gradient-to-br from-indigo-50 via-purple-50 to-blue-50 py-12">

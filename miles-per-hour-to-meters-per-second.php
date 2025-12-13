@@ -1,12 +1,12 @@
 <?php include 'header.php';?>
-<title>Miles Per Hour to Meters Per Second Converter 2025 | Speed Calculator | Free Tool</title>
-<meta name="description" content="Professional MPH to M/S converter 2025. Convert miles per hour to meters per second instantly with precision calculations. Perfect for physics and automotive use.">
-<meta name="keywords" content="mph to m/s converter 2025, miles per hour to meters per second calculator, speed converter, physics calculator, automotive tools">
+<title>Miles Per Hour to Meters Per Second Converter 2026 | Speed Calculator | Free Tool</title>
+<meta name="description" content="Professional MPH to M/S converter 2026. Convert miles per hour to meters per second instantly with precision calculations. Perfect for physics and automotive use.">
+<meta name="keywords" content="mph to m/s converter 2026, miles per hour to meters per second calculator, speed converter, physics calculator, automotive tools">
 <link rel="canonical" href="https://www.thiyagi.com/miles-per-hour-to-meters-per-second">
 
 <!-- Open Graph Meta Tags -->
-<meta property="og:title" content="Miles Per Hour to Meters Per Second Converter 2025 | Speed Calculator | Free Tool">
-<meta property="og:description" content="Professional MPH to M/S converter 2025. Convert miles per hour to meters per second instantly with precision calculations. Perfect for physics and automotive use.">
+<meta property="og:title" content="Miles Per Hour to Meters Per Second Converter 2026 | Speed Calculator | Free Tool">
+<meta property="og:description" content="Professional MPH to M/S converter 2026. Convert miles per hour to meters per second instantly with precision calculations. Perfect for physics and automotive use.">
 <meta property="og:url" content="https://www.thiyagi.com/miles-per-hour-to-meters-per-second">
 <meta property="og:type" content="website">
 <meta property="og:image" content="https://www.thiyagi.com/nt.png">
@@ -83,7 +83,7 @@
         </div>
         <h1 class="text-4xl md:text-6xl font-bold text-gray-900 mb-6">
           MPH to M/S Converter
-          <span class="block text-2xl md:text-3xl text-blue-600 mt-2">Professional 2025</span>
+          <span class="block text-2xl md:text-3xl text-blue-600 mt-2">Professional 2026</span>
         </h1>
         <p class="text-xl text-gray-600 mb-8 max-w-4xl mx-auto leading-relaxed">
           Convert miles per hour to meters per second with professional-grade precision. Perfect for physics calculations, 

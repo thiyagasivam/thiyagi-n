@@ -135,8 +135,8 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Free YouTube Comment Picker 2025 - Random Comment Selector for Giveaways</title>
-    <meta name="description" content="Pick random comments from YouTube videos for giveaways and contests. Professional comment picker tool for content creators and marketers (2025).">
+    <title>Free YouTube Comment Picker 2026 - Random Comment Selector for Giveaways</title>
+    <meta name="description" content="Pick random comments from YouTube videos for giveaways and contests. Professional comment picker tool for content creators and marketers (2026).">
     <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" rel="stylesheet">
 
     <!-- JSON-LD Structured Data -->

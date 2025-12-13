@@ -1,7 +1,7 @@
 <?php include 'header.php'; ?>
-<title>Square Meter to Acre Converter 2025 | Area Conversion Tool | Free Calculator</title>
-<meta name="description" content="Convert square meters to acres instantly with our 2025 accurate area converter. Perfect for land measurement, real estate, and agricultural calculations.">
-<meta name="keywords" content="square meter to acre converter 2025, area conversion calculator, sqm acre converter, land measurement, real estate calculator">
+<title>Square Meter to Acre Converter 2026 | Area Conversion Tool | Free Calculator</title>
+<meta name="description" content="Convert square meters to acres instantly with our 2026 accurate area converter. Perfect for land measurement, real estate, and agricultural calculations.">
+<meta name="keywords" content="square meter to acre converter 2026, area conversion calculator, sqm acre converter, land measurement, real estate calculator">
 <link rel="canonical" href="https://www.thiyagi.com/square-meter-to-acre">
 
 <div class="min-h-screen bg-gradient-to-br from-emerald-50 to-emerald-100 py-12 px-4 sm:px-6 lg:px-8">

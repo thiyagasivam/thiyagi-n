@@ -5,9 +5,9 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Parts Per Million (PPM) to Milligram per Liter Converter 2025 - Concentration Calculator</title>
-    <meta name="description" content="Convert parts per million (PPM) to milligram per liter with our free 2025 online calculator. Accurate concentration conversion for water quality and chemical analysis.">
-    <meta name="keywords" content="ppm to mg/l converter 2025, parts per million to milligram per liter, concentration converter, water quality calculator 2025">
+    <title>Parts Per Million (PPM) to Milligram per Liter Converter 2026 - Concentration Calculator</title>
+    <meta name="description" content="Convert parts per million (PPM) to milligram per liter with our free 2026 online calculator. Accurate concentration conversion for water quality and chemical analysis.">
+    <meta name="keywords" content="ppm to mg/l converter 2026, parts per million to milligram per liter, concentration converter, water quality calculator 2026">
     <script src="https://cdn.tailwindcss.com"></script>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
 </head>

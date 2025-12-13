@@ -1,12 +1,12 @@
 <?php include 'header.php';?>
-<title>Bigha to Gaj Converter 2025 | Bigha to Square Gaj | Free Tool</title>
-<meta name="description" content="Convert bigha to gaj instantly with our 2025 accurate converter. Perfect bigha to gaj conversion with real-time calculations for Indian land measurement.">
-<meta name="keywords" content="bigha to gaj 2025, bigha gaj converter, Indian land conversion 2025, bigha gaj calculation, traditional land measurement">
+<title>Bigha to Gaj Converter 2026 | Bigha to Square Gaj | Free Tool</title>
+<meta name="description" content="Convert bigha to gaj instantly with our 2026 accurate converter. Perfect bigha to gaj conversion with real-time calculations for Indian land measurement.">
+<meta name="keywords" content="bigha to gaj 2026, bigha gaj converter, Indian land conversion 2026, bigha gaj calculation, traditional land measurement">
 <link rel="canonical" href="https://www.thiyagi.com/bigha-to-gaj">
 
 <!-- Open Graph Meta Tags -->
-<meta property="og:title" content="Bigha to Gaj Converter 2025 | Bigha to Square Gaj | Free Tool">
-<meta property="og:description" content="Convert bigha to gaj instantly with our 2025 accurate converter. Perfect bigha to gaj conversion with real-time calculations for Indian land measurement.">
+<meta property="og:title" content="Bigha to Gaj Converter 2026 | Bigha to Square Gaj | Free Tool">
+<meta property="og:description" content="Convert bigha to gaj instantly with our 2026 accurate converter. Perfect bigha to gaj conversion with real-time calculations for Indian land measurement.">
 <meta property="og:url" content="https://www.thiyagi.com/bigha-to-gaj">
 <meta property="og:type" content="website">
 <meta property="og:image" content="https://www.thiyagi.com/nt.png">
@@ -14,8 +14,8 @@
 
 <!-- Twitter Card Meta Tags -->
 <meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:title" content="Bigha to Gaj Converter 2025 | Bigha to Square Gaj | Free Tool">
-<meta name="twitter:description" content="Convert bigha to gaj instantly with our 2025 accurate converter. Perfect bigha to gaj conversion with real-time calculations for Indian land measurement.">
+<meta name="twitter:title" content="Bigha to Gaj Converter 2026 | Bigha to Square Gaj | Free Tool">
+<meta name="twitter:description" content="Convert bigha to gaj instantly with our 2026 accurate converter. Perfect bigha to gaj conversion with real-time calculations for Indian land measurement.">
 <meta name="twitter:image" content="https://www.thiyagi.com/nt.png">
 
 <!-- Additional SEO Meta Tags -->
@@ -39,7 +39,7 @@
           Bigha to Gaj Converter
         </h1>
         <p class="text-xl text-gray-600 mb-8 max-w-3xl mx-auto">
-          Convert bigha to gaj instantly with our accurate 2025 calculator. 
+          Convert bigha to gaj instantly with our accurate 2026 calculator. 
           Perfect for Indian agricultural land measurement and documentation.
         </p>
       </div>

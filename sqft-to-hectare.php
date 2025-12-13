@@ -1,12 +1,12 @@
 <?php include 'header.php';?>
-<title>SqFt to Hectare Converter 2025 | Square Feet to Hectare | Free Tool</title>
-<meta name="description" content="Convert square feet to hectare instantly with our 2025 accurate converter. Perfect sqft to hectare conversion with real-time calculations for land measurement.">
-<meta name="keywords" content="sqft to hectare 2025, square feet hectare converter, land conversion 2025, sqft hectare calculation, area measurement">
+<title>SqFt to Hectare Converter 2026 | Square Feet to Hectare | Free Tool</title>
+<meta name="description" content="Convert square feet to hectare instantly with our 2026 accurate converter. Perfect sqft to hectare conversion with real-time calculations for land measurement.">
+<meta name="keywords" content="sqft to hectare 2026, square feet hectare converter, land conversion 2026, sqft hectare calculation, area measurement">
 <link rel="canonical" href="https://www.thiyagi.com/sqft-to-hectare">
 
 <!-- Open Graph Meta Tags -->
-<meta property="og:title" content="SqFt to Hectare Converter 2025 | Square Feet to Hectare | Free Tool">
-<meta property="og:description" content="Convert square feet to hectare instantly with our 2025 accurate converter. Perfect sqft to hectare conversion with real-time calculations for land measurement.">
+<meta property="og:title" content="SqFt to Hectare Converter 2026 | Square Feet to Hectare | Free Tool">
+<meta property="og:description" content="Convert square feet to hectare instantly with our 2026 accurate converter. Perfect sqft to hectare conversion with real-time calculations for land measurement.">
 <meta property="og:url" content="https://www.thiyagi.com/sqft-to-hectare">
 <meta property="og:type" content="website">
 <meta property="og:image" content="https://www.thiyagi.com/nt.png">
@@ -14,8 +14,8 @@
 
 <!-- Twitter Card Meta Tags -->
 <meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:title" content="SqFt to Hectare Converter 2025 | Square Feet to Hectare | Free Tool">
-<meta name="twitter:description" content="Convert square feet to hectare instantly with our 2025 accurate converter. Perfect sqft to hectare conversion with real-time calculations for land measurement.">
+<meta name="twitter:title" content="SqFt to Hectare Converter 2026 | Square Feet to Hectare | Free Tool">
+<meta name="twitter:description" content="Convert square feet to hectare instantly with our 2026 accurate converter. Perfect sqft to hectare conversion with real-time calculations for land measurement.">
 <meta name="twitter:image" content="https://www.thiyagi.com/nt.png">
 
 <!-- Additional SEO Meta Tags -->
@@ -39,7 +39,7 @@
           Square Feet to Hectare Converter
         </h1>
         <p class="text-xl text-gray-600 mb-8 max-w-3xl mx-auto">
-          Convert square feet to hectares instantly with our accurate 2025 calculator. 
+          Convert square feet to hectares instantly with our accurate 2026 calculator. 
           Perfect for land measurement and property documentation.
         </p>
       </div>

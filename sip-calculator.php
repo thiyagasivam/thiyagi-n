@@ -38,7 +38,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>SIP Calculator 2025 - Free Mutual Fund Returns Estimator</title>
+    <title>SIP Calculator 2026 - Free Mutual Fund Returns Estimator</title>
 <meta name="description" content="Calculate potential returns on your SIP investments. Free online tool to project wealth growth with monthly SIP contributions, interest rates & time period.">
     <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" rel="stylesheet">
     <style>

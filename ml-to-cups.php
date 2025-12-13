@@ -1,12 +1,12 @@
 <?php include 'header.php';?>
-<title>ML to Cups Converter 2025 | Milliliters to Cups Calculator | Free Tool</title>
-<meta name="description" content="Professional ML to cups converter 2025. Convert milliliters to cups instantly with precision calculations. Perfect for cooking, baking, and recipe conversions.">
-<meta name="keywords" content="ml to cups converter 2025, milliliters to cups calculator, cooking converter, recipe calculator, volume conversion">
+<title>ML to Cups Converter 2026 | Milliliters to Cups Calculator | Free Tool</title>
+<meta name="description" content="Professional ML to cups converter 2026. Convert milliliters to cups instantly with precision calculations. Perfect for cooking, baking, and recipe conversions.">
+<meta name="keywords" content="ml to cups converter 2026, milliliters to cups calculator, cooking converter, recipe calculator, volume conversion">
 <link rel="canonical" href="https://www.thiyagi.com/ml-to-cups">
 
 <!-- Open Graph Meta Tags -->
-<meta property="og:title" content="ML to Cups Converter 2025 | Milliliters to Cups Calculator | Free Tool">
-<meta property="og:description" content="Professional ML to cups converter 2025. Convert milliliters to cups instantly with precision calculations. Perfect for cooking, baking, and recipe conversions.">
+<meta property="og:title" content="ML to Cups Converter 2026 | Milliliters to Cups Calculator | Free Tool">
+<meta property="og:description" content="Professional ML to cups converter 2026. Convert milliliters to cups instantly with precision calculations. Perfect for cooking, baking, and recipe conversions.">
 <meta property="og:url" content="https://www.thiyagi.com/ml-to-cups">
 <meta property="og:type" content="website">
 <meta property="og:image" content="https://www.thiyagi.com/nt.png">
@@ -83,7 +83,7 @@
         </div>
         <h1 class="text-4xl md:text-6xl font-bold text-gray-900 mb-6">
           ML to Cups Converter
-          <span class="block text-2xl md:text-3xl text-blue-600 mt-2">Professional 2025</span>
+          <span class="block text-2xl md:text-3xl text-blue-600 mt-2">Professional 2026</span>
         </h1>
         <p class="text-xl text-gray-600 mb-8 max-w-4xl mx-auto leading-relaxed">
           Convert milliliters to cups with professional-grade precision. Perfect for cooking, 

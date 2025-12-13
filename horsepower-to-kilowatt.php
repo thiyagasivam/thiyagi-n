@@ -1,12 +1,12 @@
 <?php include 'header.php';?>
-<title>Horsepower to Kilowatt Converter 2025 | Convert HP to kW | Free Tool</title>
-<meta name="description" content="Convert horsepower to kilowatt instantly with our 2025 accurate power converter. Perfect HP to kW conversion with real-time calculations for mechanical power needs.">
-<meta name="keywords" content="horsepower to kilowatt 2025, power converter, mechanical conversion 2025, HP to kW calculator, power tool">
+<title>Horsepower to Kilowatt Converter 2026 | Convert HP to kW | Free Tool</title>
+<meta name="description" content="Convert horsepower to kilowatt instantly with our 2026 accurate power converter. Perfect HP to kW conversion with real-time calculations for mechanical power needs.">
+<meta name="keywords" content="horsepower to kilowatt 2026, power converter, mechanical conversion 2026, HP to kW calculator, power tool">
 <link rel="canonical" href="https://www.thiyagi.com/horsepower-to-kilowatt">
 
 <!-- Open Graph Meta Tags -->
-<meta property="og:title" content="Horsepower to Kilowatt Converter 2025 | Convert HP to kW | Free Tool">
-<meta property="og:description" content="Convert horsepower to kilowatt instantly with our 2025 accurate power converter. Perfect HP to kW conversion with real-time calculations for mechanical power needs.">
+<meta property="og:title" content="Horsepower to Kilowatt Converter 2026 | Convert HP to kW | Free Tool">
+<meta property="og:description" content="Convert horsepower to kilowatt instantly with our 2026 accurate power converter. Perfect HP to kW conversion with real-time calculations for mechanical power needs.">
 <meta property="og:url" content="https://www.thiyagi.com/horsepower-to-kilowatt">
 <meta property="og:type" content="website">
 <meta property="og:image" content="https://www.thiyagi.com/nt.png">
@@ -14,8 +14,8 @@
 
 <!-- Twitter Card Meta Tags -->
 <meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:title" content="Horsepower to Kilowatt Converter 2025 | Convert HP to kW | Free Tool">
-<meta name="twitter:description" content="Convert horsepower to kilowatt instantly with our 2025 accurate power converter. Perfect HP to kW conversion with real-time calculations for mechanical power needs.">
+<meta name="twitter:title" content="Horsepower to Kilowatt Converter 2026 | Convert HP to kW | Free Tool">
+<meta name="twitter:description" content="Convert horsepower to kilowatt instantly with our 2026 accurate power converter. Perfect HP to kW conversion with real-time calculations for mechanical power needs.">
 <meta name="twitter:image" content="https://www.thiyagi.com/nt.png">
 
 <!-- Additional SEO Meta Tags -->
@@ -39,7 +39,7 @@
           Horsepower to Kilowatt Converter
         </h1>
         <p class="text-xl text-gray-600 mb-8 max-w-3xl mx-auto">
-          Convert horsepower to kilowatts instantly with our accurate 2025 mechanical power calculator. 
+          Convert horsepower to kilowatts instantly with our accurate 2026 mechanical power calculator. 
           Perfect for automotive, industrial, and engineering power conversions.
         </p>
       </div>
@@ -156,16 +156,16 @@
     <article class="bg-white rounded-xl shadow-lg p-8">
       <h2 class="text-2xl font-bold text-gray-800 mb-6 flex items-center gap-3">
         <i class="fas fa-info-circle text-emerald-600" aria-hidden="true"></i>
-        Horsepower to Kilowatt Conversion 2025
+        Horsepower to Kilowatt Conversion 2026
       </h2>
       <div class="prose max-w-none text-gray-600">
         <p class="mb-4">
-          Converting horsepower to kilowatts is essential for automotive, industrial, and mechanical engineering applications in 2025. 
+          Converting horsepower to kilowatts is essential for automotive, industrial, and mechanical engineering applications in 2026. 
           This conversion between imperial and metric power units enables accurate communication between professionals 
           working in automotive design, industrial machinery, and mechanical systems, from engine specifications to motor ratings.
         </p>
         <p class="mb-6">
-          Our 2025 converter provides instant and precise conversions from horsepower to kilowatts, essential for mechanical engineers, 
+          Our 2026 converter provides instant and precise conversions from horsepower to kilowatts, essential for mechanical engineers, 
           automotive professionals, industrial designers, and anyone working with mechanical power measurements. 
           1 horsepower equals approximately 0.746 kilowatts in the mechanical system.
         </p>

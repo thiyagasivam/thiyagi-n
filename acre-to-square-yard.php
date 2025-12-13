@@ -1,12 +1,12 @@
 <?php include 'header.php';?>
-<title>Acre to Square Yard Converter 2025 | Acre to Sq Yard | Free Tool</title>
-<meta name="description" content="Convert acre to square yard instantly with our 2025 accurate converter. Perfect acre to sq yard conversion with real-time calculations for land measurement.">
-<meta name="keywords" content="acre to square yard 2025, acre sq yard converter, land conversion 2025, property measurement calculator, real estate conversion">
+<title>Acre to Square Yard Converter 2026 | Acre to Sq Yard | Free Tool</title>
+<meta name="description" content="Convert acre to square yard instantly with our 2026 accurate converter. Perfect acre to sq yard conversion with real-time calculations for land measurement.">
+<meta name="keywords" content="acre to square yard 2026, acre sq yard converter, land conversion 2026, property measurement calculator, real estate conversion">
 <link rel="canonical" href="https://www.thiyagi.com/acre-to-square-yard">
 
 <!-- Open Graph Meta Tags -->
-<meta property="og:title" content="Acre to Square Yard Converter 2025 | Acre to Sq Yard | Free Tool">
-<meta property="og:description" content="Convert acre to square yard instantly with our 2025 accurate converter. Perfect acre to sq yard conversion with real-time calculations for land measurement.">
+<meta property="og:title" content="Acre to Square Yard Converter 2026 | Acre to Sq Yard | Free Tool">
+<meta property="og:description" content="Convert acre to square yard instantly with our 2026 accurate converter. Perfect acre to sq yard conversion with real-time calculations for land measurement.">
 <meta property="og:url" content="https://www.thiyagi.com/acre-to-square-yard">
 <meta property="og:type" content="website">
 <meta property="og:image" content="https://www.thiyagi.com/nt.png">
@@ -14,8 +14,8 @@
 
 <!-- Twitter Card Meta Tags -->
 <meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:title" content="Acre to Square Yard Converter 2025 | Acre to Sq Yard | Free Tool">
-<meta name="twitter:description" content="Convert acre to square yard instantly with our 2025 accurate converter. Perfect acre to sq yard conversion with real-time calculations for land measurement.">
+<meta name="twitter:title" content="Acre to Square Yard Converter 2026 | Acre to Sq Yard | Free Tool">
+<meta name="twitter:description" content="Convert acre to square yard instantly with our 2026 accurate converter. Perfect acre to sq yard conversion with real-time calculations for land measurement.">
 <meta name="twitter:image" content="https://www.thiyagi.com/nt.png">
 
 <!-- Additional SEO Meta Tags -->
@@ -39,7 +39,7 @@
           Acre to Square Yard Converter
         </h1>
         <p class="text-xl text-gray-600 mb-8 max-w-3xl mx-auto">
-          Convert acres to square yards instantly with our accurate 2025 calculator. 
+          Convert acres to square yards instantly with our accurate 2026 calculator. 
           Perfect for real estate, agriculture, and large property measurement applications.
         </p>
       </div>
@@ -156,16 +156,16 @@
     <article class="bg-white rounded-xl shadow-lg p-8">
       <h2 class="text-2xl font-bold text-gray-800 mb-6 flex items-center gap-3">
         <i class="fas fa-info-circle text-indigo-600" aria-hidden="true"></i>
-        Acre to Square Yard Conversion 2025
+        Acre to Square Yard Conversion 2026
       </h2>
       <div class="prose max-w-none text-gray-600">
         <p class="mb-4">
-          Converting acres to square yards is essential for real estate, agriculture, and large property measurement applications in 2025. 
+          Converting acres to square yards is essential for real estate, agriculture, and large property measurement applications in 2026. 
           This conversion helps property professionals, farmers, and land developers work with area measurements 
           in different scales for accurate land planning and property valuations.
         </p>
         <p class="mb-6">
-          Our 2025 converter provides instant and precise conversions from acres to square yards, essential for real estate agents, 
+          Our 2026 converter provides instant and precise conversions from acres to square yards, essential for real estate agents, 
           farmers, surveyors, and property developers working with land specifications. 
           One acre equals exactly 4,840 square yards.
         </p>

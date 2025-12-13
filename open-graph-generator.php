@@ -34,8 +34,8 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Open Graph Generator 2025 - Free Meta Tags Creator for Social Media</title>
-<meta name="description" content="Create perfect Open Graph meta tags for 2025. Generate social media previews for Facebook, Twitter & LinkedIn with our free online tool. Optimize your website's share appearance instantly.">
+    <title>Open Graph Generator 2026 - Free Meta Tags Creator for Social Media</title>
+<meta name="description" content="Create perfect Open Graph meta tags for 2026. Generate social media previews for Facebook, Twitter & LinkedIn with our free online tool. Optimize your website's share appearance instantly.">
     <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" rel="stylesheet">
 
 </head>

@@ -5733,9 +5733,9 @@ if (!$bankInfo) {
 // Set dynamic page variables
 $bankName = $bankInfo['name'];
 $bankType = $bankInfo['type'];
-$pageTitle = "{$bankName} Personal Loan EMI Calculator 2025 - Calculate Monthly Payments | Thiyagi.com";
+$pageTitle = "{$bankName} Personal Loan EMI Calculator 2026 - Calculate Monthly Payments | Thiyagi.com";
 $pageDescription = "Calculate your {$bankName} personal loan EMI with our advanced calculator. Get instant results for monthly payments, total interest, and payment schedule. Current {$bankName} interest rates and eligibility.";
-$pageKeywords = "{$bankName} personal loan EMI calculator, {$bankName} loan calculator, {$bankName} EMI calculation, {$bankName} interest rates 2025, {$bankName} personal loan";
+$pageKeywords = "{$bankName} personal loan EMI calculator, {$bankName} loan calculator, {$bankName} EMI calculation, {$bankName} interest rates 2026, {$bankName} personal loan";
 $canonicalUrl = "https://www.thiyagi.com/calculators/{$bankSlug}-personal-loan-emi-calculator";
 
 // Calculate EMI function
@@ -5881,9 +5881,9 @@ $colors = $colorScheme[$bankType] ?? $colorScheme['Private Bank'];
                 <div class="inline-flex items-center justify-center w-16 h-16 bg-white/20 rounded-full mb-4">
                     <i class="fas fa-university text-2xl"></i>
                 </div>
-                <h1 class="text-4xl md:text-5xl font-bold mb-4"><?php echo $bankName; ?> Personal Loan EMI Calculator 2025</h1>
+                <h1 class="text-4xl md:text-5xl font-bold mb-4"><?php echo $bankName; ?> Personal Loan EMI Calculator 2026</h1>
                 <p class="text-xl opacity-90 max-w-3xl mx-auto">
-                    Calculate your <?php echo $bankName; ?> personal loan EMI with current 2025 interest rates. 
+                    Calculate your <?php echo $bankName; ?> personal loan EMI with current 2026 interest rates. 
                     Get instant results for monthly payments, total interest, and payment schedule.
                 </p>
                 <div class="mt-6 inline-flex items-center bg-white/20 rounded-xl px-6 py-3">
@@ -6184,7 +6184,7 @@ $colors = $colorScheme[$bankType] ?? $colorScheme['Private Bank'];
         <!-- SEO Content Section -->
         <div class="mt-12 bg-white rounded-2xl shadow-xl p-8">
             <div class="prose max-w-none">
-                <h2 class="text-3xl font-bold text-gray-800 mb-6"><?php echo $bankName; ?> Personal Loan EMI Calculator 2025 - Complete Guide</h2>
+                <h2 class="text-3xl font-bold text-gray-800 mb-6"><?php echo $bankName; ?> Personal Loan EMI Calculator 2026 - Complete Guide</h2>
                 
                 <div class="grid md:grid-cols-2 gap-8 mb-8">
                     <div>
@@ -6212,7 +6212,7 @@ $colors = $colorScheme[$bankType] ?? $colorScheme['Private Bank'];
                     </div>
                 </div>
 
-                <h3 class="text-2xl font-semibold text-gray-800 mb-4"><?php echo $bankName; ?> Personal Loan Features 2025</h3>
+                <h3 class="text-2xl font-semibold text-gray-800 mb-4"><?php echo $bankName; ?> Personal Loan Features 2026</h3>
                 <div class="bg-gradient-to-r from-<?php echo $colors['primary']; ?>-50 to-<?php echo $colors['secondary']; ?>-50 rounded-xl p-6 mb-8">
                     <div class="grid md:grid-cols-2 gap-6">
                         <div>
@@ -6484,8 +6484,8 @@ function formatCurrency(num) {
 {
   "@context": "https://schema.org",
   "@type": "WebApplication",
-  "name": "<?php echo $bankName; ?> Personal Loan EMI Calculator 2025",
-  "description": "Calculate your <?php echo $bankName; ?> personal loan EMI for 2025 with current interest rates. Get instant results for monthly payments, total interest, and payment schedule.",
+  "name": "<?php echo $bankName; ?> Personal Loan EMI Calculator 2026",
+  "description": "Calculate your <?php echo $bankName; ?> personal loan EMI for 2026 with current interest rates. Get instant results for monthly payments, total interest, and payment schedule.",
   "url": "<?php echo $canonicalUrl; ?>",
   "applicationCategory": "FinanceApplication",
   "operatingSystem": "Any",
@@ -6502,7 +6502,7 @@ function formatCurrency(num) {
   },
   "featureList": [
     "<?php echo $bankName; ?> specific EMI calculation",
-    "Current 2025 interest rates",
+    "Current 2026 interest rates",
     "Interactive loan parameter adjustment",
     "Visual loan breakdown charts",
     "Bank-specific eligibility criteria",

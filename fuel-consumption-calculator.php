@@ -49,8 +49,8 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Free Fuel Consumption Calculator 2025 - Calculate Your Vehicle's Mileage</title>
-<meta name="description" content="Check your car or bike's fuel efficiency with our 2025 calculator. Calculate km/liter, miles/gallon (MPG) and track fuel consumption by distance or trip.">
+    <title>Free Fuel Consumption Calculator 2026 - Calculate Your Vehicle's Mileage</title>
+<meta name="description" content="Check your car or bike's fuel efficiency with our 2026 calculator. Calculate km/liter, miles/gallon (MPG) and track fuel consumption by distance or trip.">
     <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" rel="stylesheet">
     <style>
         /* Custom styles */

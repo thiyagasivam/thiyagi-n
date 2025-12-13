@@ -1,19 +1,19 @@
 <?php include 'header.php'; ?>
 
 <!-- SEO Meta Tags -->
-<title>Mbps to Kbps Converter 2025 - Data Transfer Rate Calculator | Thiyagi</title>
-<meta name="description" content="Free online Mbps to Kbps converter 2025. Convert megabits per second to kilobits per second instantly. Perfect for internet speed and bandwidth calculations.">
-<meta name="keywords" content="mbps to kbps converter 2025, internet speed converter, bandwidth calculator, data transfer rate, network speed">
+<title>Mbps to Kbps Converter 2026 - Data Transfer Rate Calculator | Thiyagi</title>
+<meta name="description" content="Free online Mbps to Kbps converter 2026. Convert megabits per second to kilobits per second instantly. Perfect for internet speed and bandwidth calculations.">
+<meta name="keywords" content="mbps to kbps converter 2026, internet speed converter, bandwidth calculator, data transfer rate, network speed">
 <meta name="author" content="Thiyagi">
-<meta property="og:title" content="Mbps to Kbps Converter 2025 - Data Transfer Rate Calculator">
-<meta property="og:description" content="Free online Mbps to Kbps converter 2025. Convert megabits per second to kilobits per second instantly.">
+<meta property="og:title" content="Mbps to Kbps Converter 2026 - Data Transfer Rate Calculator">
+<meta property="og:description" content="Free online Mbps to Kbps converter 2026. Convert megabits per second to kilobits per second instantly.">
 <meta property="og:type" content="website">
 <meta property="og:url" content="https://www.thiyagi.com/mbps-to-kbps.php">
 <meta property="og:image" content="https://www.thiyagi.com/nt.png">
 <meta property="og:site_name" content="Thiyagi">
 <meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:title" content="Mbps to Kbps Converter 2025 - Data Transfer Rate Calculator">
-<meta name="twitter:description" content="Free online Mbps to Kbps converter 2025. Convert megabits per second to kilobits per second instantly.">
+<meta name="twitter:title" content="Mbps to Kbps Converter 2026 - Data Transfer Rate Calculator">
+<meta name="twitter:description" content="Free online Mbps to Kbps converter 2026. Convert megabits per second to kilobits per second instantly.">
 <meta name="twitter:image" content="https://www.thiyagi.com/nt.png">
 
 <div class="min-h-screen bg-gradient-to-br from-blue-50 via-cyan-50 to-teal-50 py-12">hp include 'header.php'; ?>

@@ -32,8 +32,8 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>2025 Sales Tax Calculator - Free Rate Lookup & Receipt Generator</title>
-<meta name="description" content="Calculate sales tax for any US address in 2025. Instantly find local tax rates, generate itemized receipts, and compute before/after-tax prices for free.">
+    <title>2026 Sales Tax Calculator - Free Rate Lookup & Receipt Generator</title>
+<meta name="description" content="Calculate sales tax for any US address in 2026. Instantly find local tax rates, generate itemized receipts, and compute before/after-tax prices for free.">
     <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" rel="stylesheet">
     <style>
         /* Additional custom styles */

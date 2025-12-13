@@ -1,19 +1,19 @@
 <?php include 'header.php'; ?>
 
 <!-- SEO Meta Tags -->
-<title>Knot to Kilometer per Hour Converter 2025 - kn to km/h Calculator | Thiyagi</title>
-<meta name="description" content="Free online Knot to Kilometer per Hour converter 2025. Convert kn to km/h and km/h to kn instantly with accurate speed conversion.">
-<meta name="keywords" content="knot to kilometer per hour converter 2025, kn to km/h, speed conversion, nautical speed, marine navigation calculator">
+<title>Knot to Kilometer per Hour Converter 2026 - kn to km/h Calculator | Thiyagi</title>
+<meta name="description" content="Free online Knot to Kilometer per Hour converter 2026. Convert kn to km/h and km/h to kn instantly with accurate speed conversion.">
+<meta name="keywords" content="knot to kilometer per hour converter 2026, kn to km/h, speed conversion, nautical speed, marine navigation calculator">
 <meta name="author" content="Thiyagi">
-<meta property="og:title" content="Knot to Kilometer per Hour Converter 2025 - kn to km/h Calculator">
-<meta property="og:description" content="Free online Knot to Kilometer per Hour converter 2025. Convert kn to km/h and km/h to kn instantly.">
+<meta property="og:title" content="Knot to Kilometer per Hour Converter 2026 - kn to km/h Calculator">
+<meta property="og:description" content="Free online Knot to Kilometer per Hour converter 2026. Convert kn to km/h and km/h to kn instantly.">
 <meta property="og:type" content="website">
 <meta property="og:url" content="https://www.thiyagi.com/knot-to-kilometer-hour.php">
 <meta property="og:image" content="https://www.thiyagi.com/nt.png">
 <meta property="og:site_name" content="Thiyagi">
 <meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:title" content="Knot to Kilometer per Hour Converter 2025 - kn to km/h Calculator">
-<meta property="twitter:description" content="Free online Knot to Kilometer per Hour converter 2025. Convert kn to km/h and km/h to kn instantly.">
+<meta name="twitter:title" content="Knot to Kilometer per Hour Converter 2026 - kn to km/h Calculator">
+<meta property="twitter:description" content="Free online Knot to Kilometer per Hour converter 2026. Convert kn to km/h and km/h to kn instantly.">
 <meta name="twitter:image" content="https://www.thiyagi.com/nt.png">
 
 <div class="min-h-screen bg-gradient-to-br from-blue-50 via-sky-50 to-cyan-50 py-12">

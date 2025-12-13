@@ -1,19 +1,19 @@
 <?php include 'header.php'; ?>
 
 <!-- SEO Meta Tags -->
-<title>Days to Years Converter 2025 - Time Calculator | Thiyagi</title>
-<meta name="description" content="Free online days to years converter 2025. Convert days to years instantly with accurate time conversion for planning and calculations.">
-<meta name="keywords" content="days to years converter 2025, days to years, time converter, duration calculator, planning calculator">
+<title>Days to Years Converter 2026 - Time Calculator | Thiyagi</title>
+<meta name="description" content="Free online days to years converter 2026. Convert days to years instantly with accurate time conversion for planning and calculations.">
+<meta name="keywords" content="days to years converter 2026, days to years, time converter, duration calculator, planning calculator">
 <meta name="author" content="Thiyagi">
-<meta property="og:title" content="Days to Years Converter 2025 - Time Calculator">
-<meta property="og:description" content="Free online days to years converter 2025. Convert days to years instantly with accurate time conversion.">
+<meta property="og:title" content="Days to Years Converter 2026 - Time Calculator">
+<meta property="og:description" content="Free online days to years converter 2026. Convert days to years instantly with accurate time conversion.">
 <meta property="og:type" content="website">
 <meta property="og:url" content="https://www.thiyagi.com/days-to-years.php">
 <meta property="og:image" content="https://www.thiyagi.com/nt.png">
 <meta property="og:site_name" content="Thiyagi">
 <meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:title" content="Days to Years Converter 2025 - Time Calculator">
-<meta name="twitter:description" content="Free online days to years converter 2025. Convert days to years instantly.">
+<meta name="twitter:title" content="Days to Years Converter 2026 - Time Calculator">
+<meta name="twitter:description" content="Free online days to years converter 2026. Convert days to years instantly.">
 <meta name="twitter:image" content="https://www.thiyagi.com/nt.png">
 
 <div class="min-h-screen bg-gradient-to-br from-emerald-50 via-green-50 to-teal-50 py-12">

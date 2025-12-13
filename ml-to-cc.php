@@ -4,9 +4,9 @@ include 'header.php';
 $header_content = ob_get_clean();
 
 // Insert title and meta tags into the head section
-$title = 'ML to CC Converter 2025 | Volume Conversion Tool | Free Calculator';
-$description = 'Convert milliliters to cubic centimeters instantly with our 2025 accurate volume converter. Perfect for medical, scientific, and laboratory calculations.';
-$keywords = 'ml to cc converter 2025, volume conversion calculator, milliliter cubic centimeter converter, medical measurements, laboratory calculator';
+$title = 'ML to CC Converter 2026 | Volume Conversion Tool | Free Calculator';
+$description = 'Convert milliliters to cubic centimeters instantly with our 2026 accurate volume converter. Perfect for medical, scientific, and laboratory calculations.';
+$keywords = 'ml to cc converter 2026, volume conversion calculator, milliliter cubic centimeter converter, medical measurements, laboratory calculator';
 $canonical = 'https://www.thiyagi.com/ml-to-cc';
 
 $meta_tags = '<title>' . htmlspecialchars($title) . '</title>' . "\n";

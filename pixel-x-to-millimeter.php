@@ -1,19 +1,19 @@
 <?php include 'header.php'; ?>
 
 <!-- SEO Meta Tags -->
-<title>Pixel X to Millimeter Converter 2025 - Display Calculator | Thiyagi</title>
-<meta name="description" content="Free online pixel X to millimeter converter 2025. Convert px to mm instantly with accurate display and print measurements.">
-<meta name="keywords" content="pixel to millimeter converter 2025, px to mm, display converter, print calculator, screen resolution">
+<title>Pixel X to Millimeter Converter 2026 - Display Calculator | Thiyagi</title>
+<meta name="description" content="Free online pixel X to millimeter converter 2026. Convert px to mm instantly with accurate display and print measurements.">
+<meta name="keywords" content="pixel to millimeter converter 2026, px to mm, display converter, print calculator, screen resolution">
 <meta name="author" content="Thiyagi">
-<meta property="og:title" content="Pixel X to Millimeter Converter 2025 - Display Calculator">
-<meta property="og:description" content="Free online pixel X to millimeter converter 2025. Convert px to mm instantly with accurate display measurements.">
+<meta property="og:title" content="Pixel X to Millimeter Converter 2026 - Display Calculator">
+<meta property="og:description" content="Free online pixel X to millimeter converter 2026. Convert px to mm instantly with accurate display measurements.">
 <meta property="og:type" content="website">
 <meta property="og:url" content="https://www.thiyagi.com/pixel-x-to-millimeter.php">
 <meta property="og:image" content="https://www.thiyagi.com/nt.png">
 <meta property="og:site_name" content="Thiyagi">
 <meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:title" content="Pixel X to Millimeter Converter 2025 - Display Calculator">
-<meta name="twitter:description" content="Free online pixel X to millimeter converter 2025. Convert px to mm instantly.">
+<meta name="twitter:title" content="Pixel X to Millimeter Converter 2026 - Display Calculator">
+<meta name="twitter:description" content="Free online pixel X to millimeter converter 2026. Convert px to mm instantly.">
 <meta name="twitter:image" content="https://www.thiyagi.com/nt.png">
 
 <div class="min-h-screen bg-gradient-to-br from-indigo-50 via-blue-50 to-cyan-50 py-12">

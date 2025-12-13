@@ -3,14 +3,14 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>GM Income Calculator 2025 - General Motors Employee Salary Calculator | Thiyagi.com</title>
-    <meta name="description" content="Calculate GM employee income, salary, benefits, and compensation packages 2025. General Motors hourly wages, overtime, bonuses, and total compensation calculator.">
-    <meta name="keywords" content="gm income calculator 2025, general motors salary calculator, gm employee wages, gm hourly pay calculator, automotive salary calculator, gm benefits calculator">
+    <title>GM Income Calculator 2026 - General Motors Employee Salary Calculator | Thiyagi.com</title>
+    <meta name="description" content="Calculate GM employee income, salary, benefits, and compensation packages 2026. General Motors hourly wages, overtime, bonuses, and total compensation calculator.">
+    <meta name="keywords" content="gm income calculator 2026, general motors salary calculator, gm employee wages, gm hourly pay calculator, automotive salary calculator, gm benefits calculator">
     <meta name="author" content="Thiyagi">
     <meta name="robots" content="index, follow">
     
     <!-- Open Graph Meta Tags -->
-    <meta property="og:title" content="GM Income Calculator 2025 - General Motors Employee Salary Calculator">
+    <meta property="og:title" content="GM Income Calculator 2026 - General Motors Employee Salary Calculator">
     <meta property="og:description" content="Calculate GM employee income, salary, benefits, and compensation packages. General Motors hourly wages, overtime, and bonuses calculator.">
     <meta property="og:url" content="https://www.thiyagi.com/gm-income-calculator">
     <meta property="og:type" content="website">
@@ -18,7 +18,7 @@
     
     <!-- Twitter Card Meta Tags -->
     <meta name="twitter:card" content="summary_large_image">
-    <meta name="twitter:title" content="GM Income Calculator 2025 - General Motors Employee Salary Calculator">
+    <meta name="twitter:title" content="GM Income Calculator 2026 - General Motors Employee Salary Calculator">
     <meta name="twitter:description" content="Calculate GM employee income, salary, benefits, and compensation packages. General Motors hourly wages and overtime calculator.">
     <meta name="twitter:image" content="https://www.thiyagi.com/nt.png">
     
@@ -66,7 +66,7 @@
 {
   "@context": "https://schema.org",
   "@type": "WebApplication",
-  "name": "GM Income Calculator 2025",
+  "name": "GM Income Calculator 2026",
   "description": "Calculate General Motors employee income, salary, benefits, and total compensation packages including hourly wages, overtime pay, bonuses, and benefits.",
   "url": "https://www.thiyagi.com/gm-income-calculator",
   "applicationCategory": "BusinessApplication",
@@ -298,7 +298,7 @@
         <section class="bg-white rounded-xl shadow-lg p-8 mb-8">
             <h2 class="text-2xl font-bold text-gray-800 mb-6 flex items-center">
                 <i class="fas fa-chart-bar mr-3 text-blue-500" aria-hidden="true"></i>
-                GM Salary Ranges 2025
+                GM Salary Ranges 2026
             </h2>
             
             <div class="space-y-4">
@@ -569,7 +569,7 @@
                 // Tax estimates (rough approximations)
                 const federalTax = annualIncome * 0.22; // Approximate federal tax
                 const stateTax = annualIncome * 0.04;   // Approximate state tax
-                const socialSecurity = Math.min(annualIncome * 0.062, 9932.40); // 2025 SS limit
+                const socialSecurity = Math.min(annualIncome * 0.062, 9932.40); // 2026 SS limit
                 const medicare = annualIncome * 0.0145;
                 const totalTaxes = federalTax + stateTax + socialSecurity + medicare;
                 const netIncome = annualIncome - totalTaxes;

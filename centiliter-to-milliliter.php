@@ -1,19 +1,19 @@
 <?php include 'header.php'; ?>
 
 <!-- SEO Meta Tags -->
-<title>Centiliter to Milliliter Converter 2025 - cL to mL Calculator | Thiyagi</title>
-<meta name="description" content="Free online Centiliter to Milliliter converter 2025. Convert cL to mL and mL to cL instantly with accurate volume conversion for cooking and lab work.">
-<meta name="keywords" content="centiliter to milliliter converter 2025, cL to mL, volume converter, cooking measurements, metric volume, laboratory measurements">
+<title>Centiliter to Milliliter Converter 2026 - cL to mL Calculator | Thiyagi</title>
+<meta name="description" content="Free online Centiliter to Milliliter converter 2026. Convert cL to mL and mL to cL instantly with accurate volume conversion for cooking and lab work.">
+<meta name="keywords" content="centiliter to milliliter converter 2026, cL to mL, volume converter, cooking measurements, metric volume, laboratory measurements">
 <meta name="author" content="Thiyagi">
-<meta property="og:title" content="Centiliter to Milliliter Converter 2025 - cL to mL Calculator">
-<meta property="og:description" content="Free online Centiliter to Milliliter converter 2025. Convert cL to mL and mL to cL instantly.">
+<meta property="og:title" content="Centiliter to Milliliter Converter 2026 - cL to mL Calculator">
+<meta property="og:description" content="Free online Centiliter to Milliliter converter 2026. Convert cL to mL and mL to cL instantly.">
 <meta property="og:type" content="website">
 <meta property="og:url" content="https://www.thiyagi.com/centiliter-to-milliliter.php">
 <meta property="og:image" content="https://www.thiyagi.com/nt.png">
 <meta property="og:site_name" content="Thiyagi">
 <meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:title" content="Centiliter to Milliliter Converter 2025 - cL to mL Calculator">
-<meta name="twitter:description" content="Free online Centiliter to Milliliter converter 2025. Convert cL to mL and mL to cL instantly.">
+<meta name="twitter:title" content="Centiliter to Milliliter Converter 2026 - cL to mL Calculator">
+<meta name="twitter:description" content="Free online Centiliter to Milliliter converter 2026. Convert cL to mL and mL to cL instantly.">
 <meta name="twitter:image" content="https://www.thiyagi.com/nt.png">
 
 <div class="min-h-screen bg-gradient-to-br from-teal-50 via-cyan-50 to-blue-50 py-12">

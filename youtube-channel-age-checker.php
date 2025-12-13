@@ -125,7 +125,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>YouTube Channel Age Checker 2025 - Find Channel Creation Date</title>
+    <title>YouTube Channel Age Checker 2026 - Find Channel Creation Date</title>
     <meta name="description" content="Check when a YouTube channel was created. Enter a channel URL, @handle, or ID to get the creation date and exact age.">
     <meta name="keywords" content="YouTube channel age checker, channel creation date, YouTube handle, channel ID, YouTube channel age">
     <link rel="canonical" href="https://<?php echo $_SERVER['HTTP_HOST'] . strtok($_SERVER['REQUEST_URI'], '?'); ?>">

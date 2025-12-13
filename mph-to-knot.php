@@ -5,9 +5,9 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>MPH to Knot Converter 2025 - Speed Conversion Calculator</title>
-    <meta name="description" content="Convert miles per hour to knots with our free 2025 online calculator. Perfect for aviation, maritime, and weather calculations.">
-    <meta name="keywords" content="mph to knot converter 2025, speed converter, aviation calculator, maritime navigation 2025">
+    <title>MPH to Knot Converter 2026 - Speed Conversion Calculator</title>
+    <meta name="description" content="Convert miles per hour to knots with our free 2026 online calculator. Perfect for aviation, maritime, and weather calculations.">
+    <meta name="keywords" content="mph to knot converter 2026, speed converter, aviation calculator, maritime navigation 2026">
     <script src="https://cdn.tailwindcss.com"></script>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
 </head>

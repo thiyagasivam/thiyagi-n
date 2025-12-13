@@ -1,19 +1,19 @@
 <?php include 'header.php'; ?>
 
 <!-- SEO Meta Tags -->
-<title>CC to Cup US Converter 2025 - cubic centimeter to cup Calculator | Thiyagi</title>
-<meta name="description" content="Free online CC to Cup US converter 2025. Convert cubic centimeter to US cup and cup to cc instantly with accurate cooking measurement conversion.">
-<meta name="keywords" content="cc to cup converter 2025, cubic centimeter to cup us, cc to cup, cooking conversion, recipe measurement">
+<title>CC to Cup US Converter 2026 - cubic centimeter to cup Calculator | Thiyagi</title>
+<meta name="description" content="Free online CC to Cup US converter 2026. Convert cubic centimeter to US cup and cup to cc instantly with accurate cooking measurement conversion.">
+<meta name="keywords" content="cc to cup converter 2026, cubic centimeter to cup us, cc to cup, cooking conversion, recipe measurement">
 <meta name="author" content="Thiyagi">
-<meta property="og:title" content="CC to Cup US Converter 2025 - cubic centimeter to cup Calculator">
-<meta property="og:description" content="Free online CC to Cup US converter 2025. Convert cubic centimeter to US cup and cup to cc instantly.">
+<meta property="og:title" content="CC to Cup US Converter 2026 - cubic centimeter to cup Calculator">
+<meta property="og:description" content="Free online CC to Cup US converter 2026. Convert cubic centimeter to US cup and cup to cc instantly.">
 <meta property="og:type" content="website">
 <meta property="og:url" content="https://www.thiyagi.com/cc-to-cup-us.php">
 <meta property="og:image" content="https://www.thiyagi.com/nt.png">
 <meta property="og:site_name" content="Thiyagi">
 <meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:title" content="CC to Cup US Converter 2025 - cubic centimeter to cup Calculator">
-<meta property="twitter:description" content="Free online CC to Cup US converter 2025. Convert cubic centimeter to US cup and cup to cc instantly.">
+<meta name="twitter:title" content="CC to Cup US Converter 2026 - cubic centimeter to cup Calculator">
+<meta property="twitter:description" content="Free online CC to Cup US converter 2026. Convert cubic centimeter to US cup and cup to cc instantly.">
 <meta name="twitter:image" content="https://www.thiyagi.com/nt.png">
 
 <div class="min-h-screen bg-gradient-to-br from-orange-50 via-amber-50 to-yellow-50 py-12">

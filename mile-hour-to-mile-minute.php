@@ -1,19 +1,19 @@
 <?php include 'header.php'; ?>
 
 <!-- SEO Meta Tags -->
-<title>Mile per Hour to Mile per Minute Converter 2025 - mph to mi/min Calculator | Thiyagi</title>
-<meta name="description" content="Free online Mile per Hour to Mile per Minute converter 2025. Convert mph to mi/min and mi/min to mph instantly with accurate speed conversion.">
-<meta name="keywords" content="mile per hour to mile per minute converter 2025, mph to mi/min, speed converter, velocity conversion, travel speed">
+<title>Mile per Hour to Mile per Minute Converter 2026 - mph to mi/min Calculator | Thiyagi</title>
+<meta name="description" content="Free online Mile per Hour to Mile per Minute converter 2026. Convert mph to mi/min and mi/min to mph instantly with accurate speed conversion.">
+<meta name="keywords" content="mile per hour to mile per minute converter 2026, mph to mi/min, speed converter, velocity conversion, travel speed">
 <meta name="author" content="Thiyagi">
-<meta property="og:title" content="Mile per Hour to Mile per Minute Converter 2025 - mph to mi/min Calculator">
-<meta property="og:description" content="Free online Mile per Hour to Mile per Minute converter 2025. Convert mph to mi/min and mi/min to mph instantly.">
+<meta property="og:title" content="Mile per Hour to Mile per Minute Converter 2026 - mph to mi/min Calculator">
+<meta property="og:description" content="Free online Mile per Hour to Mile per Minute converter 2026. Convert mph to mi/min and mi/min to mph instantly.">
 <meta property="og:type" content="website">
 <meta property="og:url" content="https://www.thiyagi.com/mile-hour-to-mile-minute.php">
 <meta property="og:image" content="https://www.thiyagi.com/nt.png">
 <meta property="og:site_name" content="Thiyagi">
 <meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:title" content="Mile per Hour to Mile per Minute Converter 2025 - mph to mi/min Calculator">
-<meta property="twitter:description" content="Free online Mile per Hour to Mile per Minute converter 2025. Convert mph to mi/min and mi/min to mph instantly.">
+<meta name="twitter:title" content="Mile per Hour to Mile per Minute Converter 2026 - mph to mi/min Calculator">
+<meta property="twitter:description" content="Free online Mile per Hour to Mile per Minute converter 2026. Convert mph to mi/min and mi/min to mph instantly.">
 <meta name="twitter:image" content="https://www.thiyagi.com/nt.png">
 
 <div class="min-h-screen bg-gradient-to-br from-orange-50 via-red-50 to-pink-50 py-12">

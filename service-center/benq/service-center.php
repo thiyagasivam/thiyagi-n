@@ -88,8 +88,8 @@ try {
 
     // Add static/default content for other fields
     $center['email'] = 'enQSupport.IND@benq.com';
-    $center['page_title'] = $center['shop_name'] . ' | Authorized BenQ Service Center Near Me 2025';
-    $center['about'] = $center['shop_name'] .' is an authorized BenQ service center Near Me 2025 providing expert repairs and support for all BenQ monitors, projectors, and displays.';
+    $center['page_title'] = $center['shop_name'] . ' | Authorized BenQ Service Center Near Me 2026';
+    $center['about'] = $center['shop_name'] .' is an authorized BenQ service center Near Me 2026 providing expert repairs and support for all BenQ monitors, projectors, and displays.';
     
     $center['services'] = [
         'Monitor Repair',
@@ -299,7 +299,7 @@ try {
         </div>
 
         <section class="bg-white rounded-lg shadow-md p-6 mb-8">
-            <h2 class="text-2xl font-semibold text-gray-900 border-b border-gray-200 pb-2 mb-4">About Our BenQ Service Center Near Me 2025</h2>
+            <h2 class="text-2xl font-semibold text-gray-900 border-b border-gray-200 pb-2 mb-4">About Our BenQ Service Center Near Me 2026</h2>
             <div class="prose max-w-none">
                 <p class="mb-4"><?= htmlspecialchars($center['about'], ENT_QUOTES, 'UTF-8') ?></p>
                 <p>As an authorized BenQ service provider, we offer:</p>
@@ -345,7 +345,7 @@ try {
 
         <section class="bg-white rounded-lg shadow-md p-6 mb-8">
             <h2 class="text-2xl font-semibold text-gray-900 border-b border-gray-200 pb-2 mb-4">Service Center Location</h2>
-            <p class="mb-4">Visit our authorized BenQ service center Near Me 2025 at:</p>
+            <p class="mb-4">Visit our authorized BenQ service center Near Me 2026 at:</p>
             <div class="flex items-start mb-4">
                 <i class="fas fa-map-marker-alt text-red-500 mt-1 mr-3 text-xl"></i>
                 <div>

@@ -2,13 +2,13 @@
 include 'header.php';
 
 ?>
-<title>YouTube Timestamp Link Generator 2025 - Create Time-Stamped URLs | 25+ Years Experience</title>
-<meta name="description" content="Generate YouTube links with specific timestamps for video sharing. Professional timestamp tool for content creators and educators. Built with 25+ years of digital expertise for 2025 video optimization.">
-<meta name="keywords" content="YouTube timestamp generator, timestamp link, video timestamp, YouTube time link, video sharing 2025">
+<title>YouTube Timestamp Link Generator 2026 - Create Time-Stamped URLs | 25+ Years Experience</title>
+<meta name="description" content="Generate YouTube links with specific timestamps for video sharing. Professional timestamp tool for content creators and educators. Built with 25+ years of digital expertise for 2026 video optimization.">
+<meta name="keywords" content="YouTube timestamp generator, timestamp link, video timestamp, YouTube time link, video sharing 2026">
 
 <div class="min-h-screen bg-gradient-to-br from-red-50 to-pink-100 py-12 px-4 sm:px-6 lg:px-8">
   <div class="max-w-4xl mx-auto">
-    <h1 class="text-4xl font-bold text-center text-gray-900 mb-8">YouTube Timestamp Link Generator 2025</h1>
+    <h1 class="text-4xl font-bold text-center text-gray-900 mb-8">YouTube Timestamp Link Generator 2026</h1>
     <p class="text-xl text-gray-600 text-center mb-12">Create time-stamped video links instantly - Professional tool with 25+ years of experience</p>
   </div>
 </div>

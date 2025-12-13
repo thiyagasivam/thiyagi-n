@@ -49,8 +49,8 @@ try {
     // Add static/default content for other fields
     $center['email'] = 'support@infinixmobility.com';
     $center['phone_number'] = '+91-11-12345678';
-    $center['page_title'] = $center['shop_name'] . ' | Infinix Authorized Service Center Near Me 2025';
-    $center['about'] = $center['shop_name'] .' is an authorized Infinix service center Near Me 2025 providing expert repairs and maintenance for all Infinix smartphones and devices.';
+    $center['page_title'] = $center['shop_name'] . ' | Infinix Authorized Service Center Near Me 2026';
+    $center['about'] = $center['shop_name'] .' is an authorized Infinix service center Near Me 2026 providing expert repairs and maintenance for all Infinix smartphones and devices.';
     
     $center['services'] = [
         'Screen Replacement',
@@ -344,7 +344,7 @@ try {
         </div>
 
         <section class="bg-white rounded-lg shadow-md p-6 mb-8">
-            <h2 class="text-2xl font-semibold text-gray-900 border-b border-gray-200 pb-2 mb-4">About Our Infinix Service Center Near Me 2025</h2>
+            <h2 class="text-2xl font-semibold text-gray-900 border-b border-gray-200 pb-2 mb-4">About Our Infinix Service Center Near Me 2026</h2>
             <div class="prose max-w-none">
                 <p class="mb-4"><?= htmlspecialchars($center['about'], ENT_QUOTES, 'UTF-8') ?></p>
                 <p>As an authorized Infinix service provider, we offer:</p>

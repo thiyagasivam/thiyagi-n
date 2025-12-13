@@ -1,19 +1,19 @@
 <?php include 'header.php'; ?>
 
 <!-- SEO Meta Tags -->
-<title>Pascal to Standard Atmosphere Converter 2025 - Pa to atm Calculator | Thiyagi</title>
-<meta name="description" content="Free online Pascal to Standard Atmosphere converter 2025. Convert Pa to atm and atm to Pa instantly with accurate pressure conversion for science.">
-<meta name="keywords" content="pascal to atmosphere converter 2025, Pa to atm, pressure converter, atmospheric pressure, meteorology, physics calculator">
+<title>Pascal to Standard Atmosphere Converter 2026 - Pa to atm Calculator | Thiyagi</title>
+<meta name="description" content="Free online Pascal to Standard Atmosphere converter 2026. Convert Pa to atm and atm to Pa instantly with accurate pressure conversion for science.">
+<meta name="keywords" content="pascal to atmosphere converter 2026, Pa to atm, pressure converter, atmospheric pressure, meteorology, physics calculator">
 <meta name="author" content="Thiyagi">
-<meta property="og:title" content="Pascal to Standard Atmosphere Converter 2025 - Pa to atm Calculator">
-<meta property="og:description" content="Free online Pascal to Standard Atmosphere converter 2025. Convert Pa to atm and atm to Pa instantly.">
+<meta property="og:title" content="Pascal to Standard Atmosphere Converter 2026 - Pa to atm Calculator">
+<meta property="og:description" content="Free online Pascal to Standard Atmosphere converter 2026. Convert Pa to atm and atm to Pa instantly.">
 <meta property="og:type" content="website">
 <meta property="og:url" content="https://www.thiyagi.com/pascal-to-standard-atmosphere.php">
 <meta property="og:image" content="https://www.thiyagi.com/nt.png">
 <meta property="og:site_name" content="Thiyagi">
 <meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:title" content="Pascal to Standard Atmosphere Converter 2025 - Pa to atm Calculator">
-<meta name="twitter:description" content="Free online Pascal to Standard Atmosphere converter 2025. Convert Pa to atm and atm to Pa instantly.">
+<meta name="twitter:title" content="Pascal to Standard Atmosphere Converter 2026 - Pa to atm Calculator">
+<meta name="twitter:description" content="Free online Pascal to Standard Atmosphere converter 2026. Convert Pa to atm and atm to Pa instantly.">
 <meta name="twitter:image" content="https://www.thiyagi.com/nt.png">
 
 <div class="min-h-screen bg-gradient-to-br from-sky-50 via-blue-50 to-indigo-50 py-12">

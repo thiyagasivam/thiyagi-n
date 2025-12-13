@@ -1,6 +1,6 @@
 <?php include 'header.php';?>
 <?php
-$year = 2025;
+$year = 2026;
 $countryCode = 'AL';
 $apiUrl = "https://date.nager.at/api/v3/PublicHolidays/{$year}/{$countryCode}";
 
@@ -8,7 +8,7 @@ $apiUrl = "https://date.nager.at/api/v3/PublicHolidays/{$year}/{$countryCode}";
 $holidays = json_decode(file_get_contents($apiUrl), true);
 
 // Set page title
-$pageTitle = "Albania Public Holidays 2025 - Complete List & Dates";
+$pageTitle = "Albania Public Holidays 2026 - Complete List & Dates";
 ?>
 <!DOCTYPE html>
 <html lang="en">
@@ -16,7 +16,7 @@ $pageTitle = "Albania Public Holidays 2025 - Complete List & Dates";
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title><?php echo $pageTitle; ?></title>
-    <meta name="description" content="Official list of Albania’s 2025 public holidays with dates. Includes bank holidays, festivals, and key dates for travel planning. Always up-to-date!">
+    <meta name="description" content="Official list of Albania’s 2026 public holidays with dates. Includes bank holidays, festivals, and key dates for travel planning. Always up-to-date!">
     <script src="https://cdn.tailwindcss.com"></script>
     <link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>🇦🇱</text></svg>">
     <style>

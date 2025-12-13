@@ -33,8 +33,8 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Free IP Lookup 2025 - Find Location, ISP & VPN Detection</title>
-<meta name="description" content="Instantly check any IP address - Get geolocation, ISP details, and VPN/proxy detection (2025). Perfect for security analysis and network troubleshooting.">
+    <title>Free IP Lookup 2026 - Find Location, ISP & VPN Detection</title>
+<meta name="description" content="Instantly check any IP address - Get geolocation, ISP details, and VPN/proxy detection (2026). Perfect for security analysis and network troubleshooting.">
     <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" rel="stylesheet">
 
 </head>

@@ -4,9 +4,9 @@ include 'header.php';
 $header_content = ob_get_clean();
 
 // Insert title and meta tags into the head section
-$title = 'Liters to Cubic Inches Converter 2025 | Volume Conversion Tool | Free Calculator';
-$description = 'Convert liters to cubic inches instantly with our 2025 accurate volume converter. Perfect for engineering, automotive, and scientific calculations.';
-$keywords = 'liters to cubic inches converter 2025, volume conversion calculator, liters cubic inches converter, engineering calculator, automotive volume';
+$title = 'Liters to Cubic Inches Converter 2026 | Volume Conversion Tool | Free Calculator';
+$description = 'Convert liters to cubic inches instantly with our 2026 accurate volume converter. Perfect for engineering, automotive, and scientific calculations.';
+$keywords = 'liters to cubic inches converter 2026, volume conversion calculator, liters cubic inches converter, engineering calculator, automotive volume';
 $canonical = 'https://www.thiyagi.com/liters-to-cubic-inches';
 
 $meta_tags = '<title>' . htmlspecialchars($title) . '</title>' . "\n";

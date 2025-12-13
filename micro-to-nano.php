@@ -1,19 +1,19 @@
 <?php include 'header.php'; ?>
 
 <!-- SEO Meta Tags -->
-<title>Micro to Nano Converter 2025 - μ to n Prefix Calculator | Thiyagi</title>
-<meta name="description" content="Free online Micro to Nano converter 2025. Convert micro (μ) to nano (n) prefix and nano to micro instantly with accurate scientific unit conversion.">
-<meta name="keywords" content="micro to nano converter 2025, μ to n, scientific prefix, unit conversion, metric prefix calculator">
+<title>Micro to Nano Converter 2026 - μ to n Prefix Calculator | Thiyagi</title>
+<meta name="description" content="Free online Micro to Nano converter 2026. Convert micro (μ) to nano (n) prefix and nano to micro instantly with accurate scientific unit conversion.">
+<meta name="keywords" content="micro to nano converter 2026, μ to n, scientific prefix, unit conversion, metric prefix calculator">
 <meta name="author" content="Thiyagi">
-<meta property="og:title" content="Micro to Nano Converter 2025 - μ to n Prefix Calculator">
-<meta property="og:description" content="Free online Micro to Nano converter 2025. Convert micro (μ) to nano (n) prefix and nano to micro instantly.">
+<meta property="og:title" content="Micro to Nano Converter 2026 - μ to n Prefix Calculator">
+<meta property="og:description" content="Free online Micro to Nano converter 2026. Convert micro (μ) to nano (n) prefix and nano to micro instantly.">
 <meta property="og:type" content="website">
 <meta property="og:url" content="https://www.thiyagi.com/micro-to-nano.php">
 <meta property="og:image" content="https://www.thiyagi.com/nt.png">
 <meta property="og:site_name" content="Thiyagi">
 <meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:title" content="Micro to Nano Converter 2025 - μ to n Prefix Calculator">
-<meta property="twitter:description" content="Free online Micro to Nano converter 2025. Convert micro (μ) to nano (n) prefix and nano to micro instantly.">
+<meta name="twitter:title" content="Micro to Nano Converter 2026 - μ to n Prefix Calculator">
+<meta property="twitter:description" content="Free online Micro to Nano converter 2026. Convert micro (μ) to nano (n) prefix and nano to micro instantly.">
 <meta name="twitter:image" content="https://www.thiyagi.com/nt.png">
 
 <div class="min-h-screen bg-gradient-to-br from-violet-50 via-purple-50 to-indigo-50 py-12">

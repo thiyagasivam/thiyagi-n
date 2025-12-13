@@ -160,8 +160,8 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Free YouTube Title Checker 2025 - Analyze Video Title Performance</title>
-    <meta name="description" content="Analyze and check YouTube video titles for SEO optimization and performance. Professional title analysis tool for content creators (2025).">
+    <title>Free YouTube Title Checker 2026 - Analyze Video Title Performance</title>
+    <meta name="description" content="Analyze and check YouTube video titles for SEO optimization and performance. Professional title analysis tool for content creators (2026).">
     <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" rel="stylesheet">
     <style>
         .score-circle {

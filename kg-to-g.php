@@ -1,12 +1,12 @@
 <?php include 'header.php';?>
-<title>KG to G Converter 2025 | Kilograms to Grams Calculator | Free Tool</title>
-<meta name="description" content="Professional KG to G converter 2025. Convert kilograms to grams instantly with precision calculations. Perfect for cooking, nutrition, science, and professional use.">
-<meta name="keywords" content="kg to g converter 2025, kilograms to grams calculator, weight converter, cooking measurements, nutrition calculator, metric weight conversion">
+<title>KG to G Converter 2026 | Kilograms to Grams Calculator | Free Tool</title>
+<meta name="description" content="Professional KG to G converter 2026. Convert kilograms to grams instantly with precision calculations. Perfect for cooking, nutrition, science, and professional use.">
+<meta name="keywords" content="kg to g converter 2026, kilograms to grams calculator, weight converter, cooking measurements, nutrition calculator, metric weight conversion">
 <link rel="canonical" href="https://www.thiyagi.com/kg-to-g">
 
 <!-- Open Graph Meta Tags -->
-<meta property="og:title" content="KG to G Converter 2025 | Kilograms to Grams Calculator | Free Tool">
-<meta property="og:description" content="Professional KG to G converter 2025. Convert kilograms to grams instantly with precision calculations. Perfect for cooking, nutrition, science, and professional use.">
+<meta property="og:title" content="KG to G Converter 2026 | Kilograms to Grams Calculator | Free Tool">
+<meta property="og:description" content="Professional KG to G converter 2026. Convert kilograms to grams instantly with precision calculations. Perfect for cooking, nutrition, science, and professional use.">
 <meta property="og:url" content="https://www.thiyagi.com/kg-to-g">
 <meta property="og:type" content="website">
 <meta property="og:image" content="https://www.thiyagi.com/nt.png">
@@ -14,8 +14,8 @@
 
 <!-- Twitter Card Meta Tags -->
 <meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:title" content="KG to G Converter 2025 | Kilograms to Grams Calculator | Free Tool">
-<meta name="twitter:description" content="Professional KG to G converter 2025. Convert kilograms to grams instantly with precision calculations. Perfect for cooking, nutrition, science, and professional use.">
+<meta name="twitter:title" content="KG to G Converter 2026 | Kilograms to Grams Calculator | Free Tool">
+<meta name="twitter:description" content="Professional KG to G converter 2026. Convert kilograms to grams instantly with precision calculations. Perfect for cooking, nutrition, science, and professional use.">
 <meta name="twitter:image" content="https://www.thiyagi.com/nt.png">
 
 <!-- Additional SEO Meta Tags -->
@@ -102,11 +102,11 @@
         </div>
         <h1 class="text-4xl md:text-6xl font-bold text-gray-900 mb-6">
           KG to G Converter
-          <span class="block text-2xl md:text-3xl text-emerald-600 mt-2">Professional 2025</span>
+          <span class="block text-2xl md:text-3xl text-emerald-600 mt-2">Professional 2026</span>
         </h1>
         <p class="text-xl text-gray-600 mb-8 max-w-4xl mx-auto leading-relaxed">
           Convert kilograms to grams with professional-grade precision. Perfect for cooking, nutrition tracking, 
-          scientific research, and professional applications. Get instant, accurate results with our advanced 2025 calculator.
+          scientific research, and professional applications. Get instant, accurate results with our advanced 2026 calculator.
         </p>
       </div>
     </div>

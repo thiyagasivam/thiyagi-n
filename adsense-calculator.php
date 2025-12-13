@@ -29,8 +29,8 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Free AdSense Revenue Calculator 2025 - Estimate Earnings Easily | Thiyagai.com</title>
-    <meta name="description" content="Calculate your Google AdSense earnings for 2025 with our free tool! Adjust traffic, CTR & RPM to maximize revenue. Try Thiyagai.com’s AdSense Revenue Calculator now!">
+    <title>Free AdSense Revenue Calculator 2026 - Estimate Earnings Easily | Thiyagai.com</title>
+    <meta name="description" content="Calculate your Google AdSense earnings for 2026 with our free tool! Adjust traffic, CTR & RPM to maximize revenue. Try Thiyagai.com’s AdSense Revenue Calculator now!">
     <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" rel="stylesheet">
     <style>
         /* Custom enhancements */

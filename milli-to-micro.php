@@ -1,19 +1,19 @@
 <?php include 'header.php'; ?>
 
 <!-- SEO Meta Tags -->
-<title>Milli to Micro Converter 2025 - m to μ Calculator | Thiyagi</title>
-<meta name="description" content="Free online Milli to Micro converter 2025. Convert m to μ and μ to m instantly with accurate metric prefix conversion for scientific measurements.">
-<meta name="keywords" content="milli to micro converter 2025, m to μ, metric prefix converter, scientific notation, SI units, metric system">
+<title>Milli to Micro Converter 2026 - m to μ Calculator | Thiyagi</title>
+<meta name="description" content="Free online Milli to Micro converter 2026. Convert m to μ and μ to m instantly with accurate metric prefix conversion for scientific measurements.">
+<meta name="keywords" content="milli to micro converter 2026, m to μ, metric prefix converter, scientific notation, SI units, metric system">
 <meta name="author" content="Thiyagi">
-<meta property="og:title" content="Milli to Micro Converter 2025 - m to μ Calculator">
-<meta property="og:description" content="Free online Milli to Micro converter 2025. Convert m to μ and μ to m instantly.">
+<meta property="og:title" content="Milli to Micro Converter 2026 - m to μ Calculator">
+<meta property="og:description" content="Free online Milli to Micro converter 2026. Convert m to μ and μ to m instantly.">
 <meta property="og:type" content="website">
 <meta property="og:url" content="https://www.thiyagi.com/milli-to-micro.php">
 <meta property="og:image" content="https://www.thiyagi.com/nt.png">
 <meta property="og:site_name" content="Thiyagi">
 <meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:title" content="Milli to Micro Converter 2025 - m to μ Calculator">
-<meta name="twitter:description" content="Free online Milli to Micro converter 2025. Convert m to μ and μ to m instantly.">
+<meta name="twitter:title" content="Milli to Micro Converter 2026 - m to μ Calculator">
+<meta name="twitter:description" content="Free online Milli to Micro converter 2026. Convert m to μ and μ to m instantly.">
 <meta name="twitter:image" content="https://www.thiyagi.com/nt.png">
 
 <div class="min-h-screen bg-gradient-to-br from-cyan-50 via-blue-50 to-teal-50 py-12">

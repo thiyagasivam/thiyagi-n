@@ -1,19 +1,19 @@
 <?php include 'header.php'; ?>
 
 <!-- SEO Meta Tags -->
-<title>Ounce to Grain Converter 2025 - oz to gr Calculator | Thiyagi</title>
-<meta name="description" content="Free online Ounce to Grain converter 2025. Convert oz to gr and gr to oz instantly with accurate weight conversion.">
-<meta name="keywords" content="ounce to grain converter 2025, oz to gr, weight conversion, imperial units, precious metals calculator">
+<title>Ounce to Grain Converter 2026 - oz to gr Calculator | Thiyagi</title>
+<meta name="description" content="Free online Ounce to Grain converter 2026. Convert oz to gr and gr to oz instantly with accurate weight conversion.">
+<meta name="keywords" content="ounce to grain converter 2026, oz to gr, weight conversion, imperial units, precious metals calculator">
 <meta name="author" content="Thiyagi">
-<meta property="og:title" content="Ounce to Grain Converter 2025 - oz to gr Calculator">
-<meta property="og:description" content="Free online Ounce to Grain converter 2025. Convert oz to gr and gr to oz instantly.">
+<meta property="og:title" content="Ounce to Grain Converter 2026 - oz to gr Calculator">
+<meta property="og:description" content="Free online Ounce to Grain converter 2026. Convert oz to gr and gr to oz instantly.">
 <meta property="og:type" content="website">
 <meta property="og:url" content="https://www.thiyagi.com/ounce-to-grain.php">
 <meta property="og:image" content="https://www.thiyagi.com/nt.png">
 <meta property="og:site_name" content="Thiyagi">
 <meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:title" content="Ounce to Grain Converter 2025 - oz to gr Calculator">
-<meta property="twitter:description" content="Free online Ounce to Grain converter 2025. Convert oz to gr and gr to oz instantly.">
+<meta name="twitter:title" content="Ounce to Grain Converter 2026 - oz to gr Calculator">
+<meta property="twitter:description" content="Free online Ounce to Grain converter 2026. Convert oz to gr and gr to oz instantly.">
 <meta name="twitter:image" content="https://www.thiyagi.com/nt.png">
 
 <div class="min-h-screen bg-gradient-to-br from-amber-50 via-yellow-50 to-orange-50 py-12">

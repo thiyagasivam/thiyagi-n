@@ -1,19 +1,19 @@
 <?php include 'header.php'; ?>
 
 <!-- SEO Meta Tags -->
-<title>Cups to Gallon Converter 2025 - Volume Calculator | Thiyagi</title>
-<meta name="description" content="Free online cups to gallon converter 2025. Convert cups to gal instantly with accurate volume conversion for cooking and recipes.">
-<meta name="keywords" content="cups to gallon converter 2025, cups to gal, volume converter, cooking calculator, recipe converter">
+<title>Cups to Gallon Converter 2026 - Volume Calculator | Thiyagi</title>
+<meta name="description" content="Free online cups to gallon converter 2026. Convert cups to gal instantly with accurate volume conversion for cooking and recipes.">
+<meta name="keywords" content="cups to gallon converter 2026, cups to gal, volume converter, cooking calculator, recipe converter">
 <meta name="author" content="Thiyagi">
-<meta property="og:title" content="Cups to Gallon Converter 2025 - Volume Calculator">
-<meta property="og:description" content="Free online cups to gallon converter 2025. Convert cups to gal instantly with accurate volume conversion.">
+<meta property="og:title" content="Cups to Gallon Converter 2026 - Volume Calculator">
+<meta property="og:description" content="Free online cups to gallon converter 2026. Convert cups to gal instantly with accurate volume conversion.">
 <meta property="og:type" content="website">
 <meta property="og:url" content="https://www.thiyagi.com/cups-to-gallon.php">
 <meta property="og:image" content="https://www.thiyagi.com/nt.png">
 <meta property="og:site_name" content="Thiyagi">
 <meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:title" content="Cups to Gallon Converter 2025 - Volume Calculator">
-<meta name="twitter:description" content="Free online cups to gallon converter 2025. Convert cups to gal instantly.">
+<meta name="twitter:title" content="Cups to Gallon Converter 2026 - Volume Calculator">
+<meta name="twitter:description" content="Free online cups to gallon converter 2026. Convert cups to gal instantly.">
 <meta name="twitter:image" content="https://www.thiyagi.com/nt.png">
 
 <div class="min-h-screen bg-gradient-to-br from-pink-50 via-rose-50 to-red-50 py-12">

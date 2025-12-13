@@ -3,14 +3,14 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Smoothie Calorie Calculator 2025 - Calculate Nutrition & Calories | Thiyagi.com</title>
-    <meta name="description" content="Smoothie calorie calculator 2025 - calculate calories, protein, carbs, and fats for your custom smoothie recipes. Plan healthy smoothies with nutrition tracking.">
-    <meta name="keywords" content="smoothie calorie calculator 2025, smoothie nutrition calculator, protein smoothie calories, healthy smoothie calculator, smoothie macros calculator">
+    <title>Smoothie Calorie Calculator 2026 - Calculate Nutrition & Calories | Thiyagi.com</title>
+    <meta name="description" content="Smoothie calorie calculator 2026 - calculate calories, protein, carbs, and fats for your custom smoothie recipes. Plan healthy smoothies with nutrition tracking.">
+    <meta name="keywords" content="smoothie calorie calculator 2026, smoothie nutrition calculator, protein smoothie calories, healthy smoothie calculator, smoothie macros calculator">
     <meta name="author" content="Thiyagi">
     <meta name="robots" content="index, follow">
     
     <!-- Open Graph Meta Tags -->
-    <meta property="og:title" content="Smoothie Calorie Calculator 2025 - Calculate Nutrition & Calories">
+    <meta property="og:title" content="Smoothie Calorie Calculator 2026 - Calculate Nutrition & Calories">
     <meta property="og:description" content="Calculate calories, protein, carbs, and fats for your custom smoothie recipes with detailed nutrition information.">
     <meta property="og:url" content="https://www.thiyagi.com/smoothie-calorie-calculator">
     <meta property="og:type" content="website">
@@ -18,7 +18,7 @@
     
     <!-- Twitter Card Meta Tags -->
     <meta name="twitter:card" content="summary_large_image">
-    <meta name="twitter:title" content="Smoothie Calorie Calculator 2025 - Calculate Nutrition & Calories">
+    <meta name="twitter:title" content="Smoothie Calorie Calculator 2026 - Calculate Nutrition & Calories">
     <meta name="twitter:description" content="Calculate calories and nutrition for your custom smoothie recipes.">
     <meta name="twitter:image" content="https://www.thiyagi.com/nt.png">
     
@@ -70,7 +70,7 @@
 {
   "@context": "https://schema.org",
   "@type": "WebApplication",
-  "name": "Smoothie Calorie Calculator 2025",
+  "name": "Smoothie Calorie Calculator 2026",
   "description": "Calculate calories, protein, carbs, and fats for your custom smoothie recipes with detailed nutrition tracking.",
   "url": "https://www.thiyagi.com/smoothie-calorie-calculator",
   "applicationCategory": "HealthApplication",

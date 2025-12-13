@@ -1,19 +1,19 @@
 <?php include 'header.php'; ?>
 
 <!-- SEO Meta Tags -->
-<title>Gallon UK to Liter Converter 2025 - gal UK to L Calculator | Thiyagi</title>
-<meta name="description" content="Free online Gallon UK to Liter converter 2025. Convert gal UK to L and L to gal UK instantly with accurate volume conversion for fuel and liquids.">
-<meta name="keywords" content="gallon uk to liter converter 2025, gal UK to L, volume converter, UK gallon, imperial gallon, fuel measurements, liquid conversion">
+<title>Gallon UK to Liter Converter 2026 - gal UK to L Calculator | Thiyagi</title>
+<meta name="description" content="Free online Gallon UK to Liter converter 2026. Convert gal UK to L and L to gal UK instantly with accurate volume conversion for fuel and liquids.">
+<meta name="keywords" content="gallon uk to liter converter 2026, gal UK to L, volume converter, UK gallon, imperial gallon, fuel measurements, liquid conversion">
 <meta name="author" content="Thiyagi">
-<meta property="og:title" content="Gallon UK to Liter Converter 2025 - gal UK to L Calculator">
-<meta property="og:description" content="Free online Gallon UK to Liter converter 2025. Convert gal UK to L and L to gal UK instantly.">
+<meta property="og:title" content="Gallon UK to Liter Converter 2026 - gal UK to L Calculator">
+<meta property="og:description" content="Free online Gallon UK to Liter converter 2026. Convert gal UK to L and L to gal UK instantly.">
 <meta property="og:type" content="website">
 <meta property="og:url" content="https://www.thiyagi.com/gallon-uk-to-liter.php">
 <meta property="og:image" content="https://www.thiyagi.com/nt.png">
 <meta property="og:site_name" content="Thiyagi">
 <meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:title" content="Gallon UK to Liter Converter 2025 - gal UK to L Calculator">
-<meta name="twitter:description" content="Free online Gallon UK to Liter converter 2025. Convert gal UK to L and L to gal UK instantly.">
+<meta name="twitter:title" content="Gallon UK to Liter Converter 2026 - gal UK to L Calculator">
+<meta name="twitter:description" content="Free online Gallon UK to Liter converter 2026. Convert gal UK to L and L to gal UK instantly.">
 <meta name="twitter:image" content="https://www.thiyagi.com/nt.png">
 
 <div class="min-h-screen bg-gradient-to-br from-emerald-50 via-teal-50 to-green-50 py-12">

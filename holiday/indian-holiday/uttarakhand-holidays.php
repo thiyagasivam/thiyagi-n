@@ -3,19 +3,19 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Uttarakhand Holidays 2025 | Complete Calendar | Uttarakhand Festivals | National Holidays</title>
-    <meta name="description" content="Complete Uttarakhand Holiday Calendar 2025. Find all Uttarakhand festivals, national holidays, cultural events, and religious celebrations. Plan your year with our comprehensive holiday guide.">
-    <meta name="keywords" content="Uttarakhand holidays 2025, Uttarakhand festivals, Basant Panchami, Uttarani, national holidays India, Uttarakhand cultural events, Uttarakhand calendar, holidays Uttarakhand, festival dates 2025">
+    <title>Uttarakhand Holidays 2026 | Complete Calendar | Uttarakhand Festivals | National Holidays</title>
+    <meta name="description" content="Complete Uttarakhand Holiday Calendar 2026. Find all Uttarakhand festivals, national holidays, cultural events, and religious celebrations. Plan your year with our comprehensive holiday guide.">
+    <meta name="keywords" content="Uttarakhand holidays 2026, Uttarakhand festivals, Basant Panchami, Uttarani, national holidays India, Uttarakhand cultural events, Uttarakhand calendar, holidays Uttarakhand, festival dates 2026">
     <meta name="author" content="Uttarakhand Holiday Calendar">
     <meta name="robots" content="index, follow">
-    <meta property="og:title" content="Uttarakhand Holidays 2025 - Complete Calendar">
-    <meta property="og:description" content="Complete Uttarakhand Holiday Calendar 2025 with all festivals, national holidays, and cultural events. Plan your year with our comprehensive guide.">
+    <meta property="og:title" content="Uttarakhand Holidays 2026 - Complete Calendar">
+    <meta property="og:description" content="Complete Uttarakhand Holiday Calendar 2026 with all festivals, national holidays, and cultural events. Plan your year with our comprehensive guide.">
     <meta property="og:type" content="website">
     <meta property="og:url" content="<?php echo 'https://' . $_SERVER['HTTP_HOST'] . $_SERVER['REQUEST_URI']; ?>">
-    <meta property="og:image" content="https://via.placeholder.com/1200x630/008000/FFFFFF?text=Uttarakhand+Holidays+2025">
+    <meta property="og:image" content="https://via.placeholder.com/1200x630/008000/FFFFFF?text=Uttarakhand+Holidays+2026">
     <meta name="twitter:card" content="summary_large_image">
-    <meta name="twitter:title" content="Uttarakhand Holidays 2025">
-    <meta name="twitter:description" content="Complete Uttarakhand Holiday Calendar 2025 with all festivals and holidays.">
+    <meta name="twitter:title" content="Uttarakhand Holidays 2026">
+    <meta name="twitter:description" content="Complete Uttarakhand Holiday Calendar 2026 with all festivals and holidays.">
     <link rel="canonical" href="<?php echo 'https://' . $_SERVER['HTTP_HOST'] . $_SERVER['REQUEST_URI']; ?>">
     <meta name="language" content="English, Hindi">
     <meta name="geo.region" content="IN-UT">
@@ -26,21 +26,21 @@
     {
         "@context": "https://schema.org",
         "@type": "WebPage",
-        "name": "Uttarakhand Holidays 2025",
-        "description": "Complete Uttarakhand Holiday Calendar 2025 with all festivals, national holidays, and cultural events",
+        "name": "Uttarakhand Holidays 2026",
+        "description": "Complete Uttarakhand Holiday Calendar 2026 with all festivals, national holidays, and cultural events",
         "url": "<?php echo 'https://' . $_SERVER['HTTP_HOST'] . $_SERVER['REQUEST_URI']; ?>",
         "publisher": {
             "@type": "Organization",
             "name": "Uttarakhand Holiday Calendar"
         },
-        "datePublished": "2025-01-01",
+        "datePublished": "2026-01-01",
         "dateModified": "<?php echo date('Y-m-d'); ?>",
         "mainEntity": {
             "@type": "FAQPage",
             "mainEntity": [
                 {
                     "@type": "Question",
-                    "name": "What are the major public holidays in Uttarakhand in 2025?",
+                    "name": "What are the major public holidays in Uttarakhand in 2026?",
                     "acceptedAnswer": {
                         "@type": "Answer",
                         "text": "Major holidays include Republic Day, Independence Day, Gandhi Jayanti, and Christmas."
@@ -56,10 +56,10 @@
                 },
                 {
                     "@type": "Question",
-                    "name": "When is Basant Panchami in 2025?",
+                    "name": "When is Basant Panchami in 2026?",
                     "acceptedAnswer": {
                         "@type": "Answer",
-                        "text": "Basant Panchami is on February 5, 2025."
+                        "text": "Basant Panchami is on February 5, 2026."
                     }
                 }
             ]
@@ -73,7 +73,7 @@
     "mainEntity": [
         {
             "@type": "Question",
-            "name": "What are the major public holidays in Uttarakhand in 2025?",
+            "name": "What are the major public holidays in Uttarakhand in 2026?",
             "acceptedAnswer": {
                 "@type": "Answer",
                 "text": "Major holidays include Republic Day, Independence Day, Gandhi Jayanti, and Christmas."
@@ -89,10 +89,10 @@
         },
         {
             "@type": "Question",
-            "name": "When is Basant Panchami in 2025?",
+            "name": "When is Basant Panchami in 2026?",
             "acceptedAnswer": {
                 "@type": "Answer",
-                "text": "Basant Panchami is on February 5, 2025."
+                "text": "Basant Panchami is on February 5, 2026."
             }
              }
     ]
@@ -118,93 +118,93 @@
 </head>
 <body class="bg-gradient-to-br from-blue-50 to-indigo-100 min-h-screen">
     <?php
-    // Uttarakhand Holidays 2025 Data
-    $holidays_2025 = [
-        '2025-01-01' => [
+    // Uttarakhand Holidays 2026 Data
+    $holidays_2026 = [
+        '2026-01-01' => [
             'name' => 'New Year\'s Day',
             'type' => 'National Holiday',
             'description' => 'Celebration of the new year',
             'icon' => 'fa-calendar-day',
             'bank_holiday' => true
         ],
-        '2025-01-14' => [
+        '2026-01-14' => [
             'name' => 'Makar Sankranti',
             'type' => 'Festival',
             'description' => 'Winter harvest festival',
             'icon' => 'fa-sun',
             'bank_holiday' => true
         ],
-        '2025-01-26' => [
+        '2026-01-26' => [
             'name' => 'Republic Day',
             'type' => 'National Holiday',
             'description' => 'Indian Republic Day',
             'icon' => 'fa-flag',
             'bank_holiday' => true
         ],
-        '2025-02-05' => [
+        '2026-02-05' => [
             'name' => 'Basant Panchami',
             'type' => 'Festival',
             'description' => 'Festival marking the start of spring',
             'icon' => 'fa-seedling',
             'bank_holiday' => false
         ],
-        '2025-03-14' => [
+        '2026-03-14' => [
             'name' => 'Shivaratri',
             'type' => 'Festival',
             'description' => 'Festival dedicated to Lord Shiva',
             'icon' => 'fa-om',
             'bank_holiday' => true
         ],
-        '2025-03-17' => [
+        '2026-03-17' => [
             'name' => 'Holi',
             'type' => 'Festival',
             'description' => 'Festival of colors',
             'icon' => 'fa-paint-brush',
             'bank_holiday' => true
         ],
-        '2025-04-14' => [
+        '2026-04-14' => [
             'name' => 'Baisakhi',
             'type' => 'Festival',
             'description' => 'Harvest festival',
             'icon' => 'fa-wheat-awn',
             'bank_holiday' => false
         ],
-         '2025-04-14' => [
+         '2026-04-14' => [
             'name' => 'Ambedkar Jayanti',
             'type' => 'National Holiday',
             'description' => 'Birth Anniversary of B. R. Ambedkar',
             'icon' => 'fa-graduation-cap',
             'bank_holiday' => true
         ],
-        '2025-08-15' => [
+        '2026-08-15' => [
             'name' => 'Independence Day',
             'type' => 'National Holiday',
             'description' => 'Indian Independence Day',
             'icon' => 'fa-flag',
             'bank_holiday' => true
         ],
-        '2025-10-02' => [
+        '2026-10-02' => [
             'name' => 'Gandhi Jayanti',
             'type' => 'National Holiday',
             'description' => 'Birth anniversary of Mahatma Gandhi',
             'icon' => 'fa-hand-peace',
             'bank_holiday' => true
         ],
-        '2025-10-03' => [
+        '2026-10-03' => [
             'name' => 'Dussehra',
             'type' => 'Festival',
             'description' => 'Celebration of the victory of good over evil',
             'icon' => 'fa-fire',
             'bank_holiday' => true
         ],
-        '2025-11-01' => [
+        '2026-11-01' => [
             'name' => 'Diwali',
             'type' => 'Festival',
             'description' => 'Festival of lights',
             'icon' => 'fa-lightbulb',
             'bank_holiday' => true
         ],
-        '2025-12-25' => [
+        '2026-12-25' => [
             'name' => 'Christmas Day',
             'type' => 'National Holiday',
             'description' => 'Celebration of the birth of Jesus Christ',
@@ -213,65 +213,65 @@
         ],
     ];
 
-    // Bank Holidays 2025 - Additional holidays specific to banks
-    $bank_holidays_2025 = [
-        '2025-03-14' => [
+    // Bank Holidays 2026 - Additional holidays specific to banks
+    $bank_holidays_2026 = [
+        '2026-03-14' => [
             'name' => 'Mahashivratri',
             'type' => 'Bank Holiday',
             'description' => 'Festival dedicated to Lord Shiva',
             'icon' => 'fa-university',
             'bank_holiday' => true
         ],
-        '2025-04-18' => [
+        '2026-04-18' => [
             'name' => 'Good Friday',
             'type' => 'Bank Holiday',
             'description' => 'Christian religious holiday - Banks closed',
             'icon' => 'fa-university',
             'bank_holiday' => true
         ],
-        '2025-07-07' => [
+        '2026-07-07' => [
             'name' => 'Bakrid/Eid al-Adha',
             'type' => 'Bank Holiday',
             'description' => 'Islamic festival - Banks closed',
             'icon' => 'fa-university',
             'bank_holiday' => true
         ],
-        '2025-08-08' => [
+        '2026-08-08' => [
             'name' => 'Varamahalakshmi Vrata',
             'type' => 'Bank Holiday',
             'description' => 'Festival for Goddess Lakshmi',
             'icon' => 'fa-university',
             'bank_holiday' => true
         ],
-        '2025-09-06' => [
+        '2026-09-06' => [
             'name' => 'Ganesh Chaturthi',
             'type' => 'Bank Holiday',
             'description' => 'Birth anniversary of Lord Ganesha',
             'icon' => 'fa-university',
             'bank_holiday' => true
         ],
-        '2025-10-02' => [
+        '2026-10-02' => [
             'name' => 'Gandhi Jayanti',
             'type' => 'Bank Holiday',
             'description' => 'Birth anniversary of Mahatma Gandhi',
             'icon' => 'fa-university',
             'bank_holiday' => true
         ],
-        '2025-10-03' => [
+        '2026-10-03' => [
             'name' => 'Maha Navami',
             'type' => 'Bank Holiday',
             'description' => 'Ninth day of Navratri - Banks closed',
             'icon' => 'fa-university',
             'bank_holiday' => true
         ],
-        '2025-10-04' => [
+        '2026-10-04' => [
             'name' => 'Vijaya Dashami/Dussehra',
             'type' => 'Bank Holiday',
             'description' => 'Tenth day of Navratri - Banks closed',
             'icon' => 'fa-university',
             'bank_holiday' => true
         ],
-        '2025-10-21' => [
+        '2026-10-21' => [
             'name' => 'Deepavali',
             'type' => 'Bank Holiday',
             'description' => 'Festival of lights - Banks closed',
@@ -281,11 +281,11 @@
     ];
 
     // Merge all holidays
-    $all_holidays_2025 = array_merge($holidays_2025, $bank_holidays_2025);
+    $all_holidays_2026 = array_merge($holidays_2026, $bank_holidays_2026);
 
     // Get current month and year
     $current_month = isset($_GET['month']) ? (int)$_GET['month'] : (int)date('n');
-    $current_year = isset($_GET['year']) ? (int)$_GET['year'] : 2025;
+    $current_year = isset($_GET['year']) ? (int)$_GET['year'] : 2026;
     
     // Month names
     $month_names = [
@@ -321,7 +321,7 @@
     <!-- Header -->
     <header class="bg-gradient-to-r from-ut-green to-ut-yellow text-white shadow-lg">
         <div class="container mx-auto px-4 py-6">
-            <h1 class="text-3xl font-bold">Uttarakhand Holidays 2025</h1>
+            <h1 class="text-3xl font-bold">Uttarakhand Holidays 2026</h1>
             <p class="text-lg mt-2">Complete Calendar of Festivals and Holidays</p>
         </div>
     </header>
@@ -331,13 +331,13 @@
         <nav class="mb-6 text-sm text-gray-600" aria-label="Breadcrumb">
             <a href="/Live Pages/thiyagi/" class="hover:underline">Home</a> /
             <a href="/Live Pages/thiyagi/holiday/indian-holiday/" class="hover:underline">Indian Holidays</a> /
-            <span class="font-semibold">Uttarakhand Holidays 2025</span>
+            <span class="font-semibold">Uttarakhand Holidays 2026</span>
         </nav>
 
          <section class="mb-8 bg-gradient-to-r from-blue-50 to-indigo-50 rounded-lg p-6 border-l-4 border-ut-green">
-            <h2 class="text-2xl font-semibold mb-2">Uttarakhand Holiday Calendar 2025</h2>
+            <h2 class="text-2xl font-semibold mb-2">Uttarakhand Holiday Calendar 2026</h2>
             <p>
-                Discover all public, bank, and festival holidays in Uttarakhand for 2025. This calendar includes major festivals like Basant Panchami, Uttarani, and national holidays. Plan your year with our comprehensive list of holidays and cultural events.
+                Discover all public, bank, and festival holidays in Uttarakhand for 2026. This calendar includes major festivals like Basant Panchami, Uttarani, and national holidays. Plan your year with our comprehensive list of holidays and cultural events.
             </p>
         </section>
 
@@ -393,11 +393,11 @@
                             if (!$started && $j == $first_day_of_week) $started = true;
                             if ($started && $day <= $days_in_month) {
                                 $date_str = sprintf('%04d-%02d-%02d', $current_year, $current_month, $day);
-                                $is_holiday = isset($all_holidays_2025[$date_str]);
+                                $is_holiday = isset($all_holidays_2026[$date_str]);
                                 echo '<td class="py-2 px-1 '.($is_holiday ? 'bg-ut-yellow font-bold text-ut-green rounded shadow' : '').'">';
                                 echo $day;
                                 if ($is_holiday) {
-                                    echo '<br><i class="fa '.$all_holidays_2025[$date_str]['icon'].'"></i>';
+                                    echo '<br><i class="fa '.$all_holidays_2026[$date_str]['icon'].'"></i>';
                                 }
                                 echo '</td>';
                                 $day++;
@@ -415,7 +415,7 @@
 
         <div class="mt-8 grid md:grid-cols-2 gap-6">
             <?php
-            foreach ($all_holidays_2025 as $date => $holiday) {
+            foreach ($all_holidays_2026 as $date => $holiday) {
                 echo '<div class="bg-white rounded-lg shadow-md p-4 flex items-center border-l-4 border-ut-blue">';
                 echo '<div class="mr-4 text-2xl text-ut-green"><i class="fa '.$holiday['icon'].'"></i></div>';
                 echo '<div>';
@@ -439,7 +439,7 @@
             <h3 class="text-xl font-semibold mb-4">Frequently Asked Questions (FAQ)</h3>
             <div class="space-y-4">
                 <div>
-                    <div class="font-semibold">Q: What are the major public holidays in Uttarakhand in 2025?</div>
+                    <div class="font-semibold">Q: What are the major public holidays in Uttarakhand in 2026?</div>
                     <div class="text-gray-700">A: Major holidays include Republic Day, Independence Day, Gandhi Jayanti, and Christmas.</div>
                 </div>
                 <div>
@@ -447,8 +447,8 @@
                     <div class="text-gray-700">A: Key festivals include Makar Sankranti, Basant Panchami, Holi, and Diwali.</div>
                 </div>
                 <div>
-                    <div class="font-semibold">Q: When is Basant Panchami in 2025?</div>
-                    <div class="text-gray-700">A: Basant Panchami is on February 5, 2025.</div>
+                    <div class="font-semibold">Q: When is Basant Panchami in 2026?</div>
+                    <div class="text-gray-700">A: Basant Panchami is on February 5, 2026.</div>
                 </div>
             </div>
         </section>
@@ -460,7 +460,7 @@
         // JavaScript functionality
         
         // Holiday data for search functionality
-        const holidaysData = <?php echo json_encode($all_holidays_2025); ?>;
+        const holidaysData = <?php echo json_encode($all_holidays_2026); ?>;
         
         function searchHolidays() {
             const searchTerm = document.getElementById('searchInput').value.toLowerCase();
@@ -582,7 +582,7 @@
 
         function downloadCalendar() {
             // Create a simple text version for download
-            let content = `Uttarakhand Holidays 2025\n\n`;
+            let content = `Uttarakhand Holidays 2026\n\n`;
             
             // Add each holiday to the content
             Object.entries(holidaysData).forEach(([date, holiday]) => {
@@ -593,7 +593,7 @@
             const url = window.URL.createObjectURL(blob);
             const a = document.createElement('a');
             a.href = url;
-            a.download = 'uttarakhand-holidays-2025.txt';
+            a.download = 'uttarakhand-holidays-2026.txt';
             a.click();
             window.URL.revokeObjectURL(url);
         }
@@ -601,8 +601,8 @@
         function shareCalendar() {
             if (navigator.share) {
                 navigator.share({
-                    title: 'Uttarakhand Holidays 2025',
-                    text: 'Check out the Uttarakhand holiday calendar for 2025!',
+                    title: 'Uttarakhand Holidays 2026',
+                    text: 'Check out the Uttarakhand holiday calendar for 2026!',
                     url: window.location.href
                 });
             } else {

@@ -1,19 +1,19 @@
 <?php include 'header.php'; ?>
 
 <!-- SEO Meta Tags -->
-<title>BTU to Ton Converter 2025 - Cooling Capacity Calculator | Thiyagi</title>
-<meta name="description" content="Free online BTU to ton converter 2025. Convert British Thermal Units to refrigeration tons instantly. Perfect for HVAC and air conditioning calculations.">
-<meta name="keywords" content="btu to ton converter 2025, cooling capacity calculator, HVAC converter, air conditioning calculator, refrigeration tons">
+<title>BTU to Ton Converter 2026 - Cooling Capacity Calculator | Thiyagi</title>
+<meta name="description" content="Free online BTU to ton converter 2026. Convert British Thermal Units to refrigeration tons instantly. Perfect for HVAC and air conditioning calculations.">
+<meta name="keywords" content="btu to ton converter 2026, cooling capacity calculator, HVAC converter, air conditioning calculator, refrigeration tons">
 <meta name="author" content="Thiyagi">
-<meta property="og:title" content="BTU to Ton Converter 2025 - Cooling Capacity Calculator">
-<meta property="og:description" content="Free online BTU to ton converter 2025. Convert British Thermal Units to refrigeration tons instantly.">
+<meta property="og:title" content="BTU to Ton Converter 2026 - Cooling Capacity Calculator">
+<meta property="og:description" content="Free online BTU to ton converter 2026. Convert British Thermal Units to refrigeration tons instantly.">
 <meta property="og:type" content="website">
 <meta property="og:url" content="https://www.thiyagi.com/btu-to-ton.php">
 <meta property="og:image" content="https://www.thiyagi.com/nt.png">
 <meta property="og:site_name" content="Thiyagi">
 <meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:title" content="BTU to Ton Converter 2025 - Cooling Capacity Calculator">
-<meta name="twitter:description" content="Free online BTU to ton converter 2025. Convert British Thermal Units to refrigeration tons instantly.">
+<meta name="twitter:title" content="BTU to Ton Converter 2026 - Cooling Capacity Calculator">
+<meta name="twitter:description" content="Free online BTU to ton converter 2026. Convert British Thermal Units to refrigeration tons instantly.">
 <meta name="twitter:image" content="https://www.thiyagi.com/nt.png">
 
 <div class="min-h-screen bg-gradient-to-br from-red-50 via-orange-50 to-yellow-50 py-12">

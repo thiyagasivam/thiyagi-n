@@ -1,7 +1,7 @@
 <?php
-$pageTitle = "Financial Calculators 2025 - Loan EMI, Investment & Tax Calculators | Thiyagi.com";
-$pageDescription = "Free online financial calculators for 2025 with current market rates. Calculate loan EMI, investment planning, tax computation, and more. Plan your finances effectively with updated calculators.";
-$pageKeywords = "financial calculators 2025, EMI calculator, loan calculator, investment calculator, tax calculator, SIP calculator, FD calculator";
+$pageTitle = "Financial Calculators 2026 - Loan EMI, Investment & Tax Calculators | Thiyagi.com";
+$pageDescription = "Free online financial calculators for 2026 with current market rates. Calculate loan EMI, investment planning, tax computation, and more. Plan your finances effectively with updated calculators.";
+$pageKeywords = "financial calculators 2026, EMI calculator, loan calculator, investment calculator, tax calculator, SIP calculator, FD calculator";
 $canonicalUrl = "https://www.thiyagi.com/calculators";
 ?>
 <!DOCTYPE html>
@@ -21,8 +21,8 @@ $canonicalUrl = "https://www.thiyagi.com/calculators";
 <meta name="viewport" content="width=device-width, initial-scale=1.0, shrink-to-fit=no">
 <meta name="theme-color" content="#3B82F6">
 <meta name="msapplication-TileColor" content="#3B82F6">
-<meta name="application-name" content="Financial Calculators 2025">
-<meta name="msapplication-tooltip" content="Free online financial calculators with 2025 rates">
+<meta name="application-name" content="Financial Calculators 2026">
+<meta name="msapplication-tooltip" content="Free online financial calculators with 2026 rates">
 <meta name="mobile-web-app-capable" content="yes">
 <meta name="apple-mobile-web-app-capable" content="yes">
 <meta name="apple-mobile-web-app-status-bar-style" content="default">
@@ -31,28 +31,28 @@ $canonicalUrl = "https://www.thiyagi.com/calculators";
 <!-- Open Graph Meta Tags -->
 <meta property="og:type" content="website">
 <meta property="og:site_name" content="Thiyagi.com">
-<meta property="og:title" content="Financial Calculators 2025 - Loan EMI, Investment & Tax Calculators">
-<meta property="og:description" content="Free online financial calculators for 2025 with current market rates. Calculate loan EMI, investment planning, tax computation, and more.">
+<meta property="og:title" content="Financial Calculators 2026 - Loan EMI, Investment & Tax Calculators">
+<meta property="og:description" content="Free online financial calculators for 2026 with current market rates. Calculate loan EMI, investment planning, tax computation, and more.">
 <meta property="og:url" content="https://www.thiyagi.com/calculators/">
-<meta property="og:image" content="https://www.thiyagi.com/images/financial-calculators-2025.jpg">
+<meta property="og:image" content="https://www.thiyagi.com/images/financial-calculators-2026.jpg">
 <meta property="og:image:width" content="1200">
 <meta property="og:image:height" content="630">
-<meta property="og:image:alt" content="Financial Calculators 2025 - EMI, Investment & Tax Calculators">
+<meta property="og:image:alt" content="Financial Calculators 2026 - EMI, Investment & Tax Calculators">
 <meta property="og:locale" content="en_US">
 
 <!-- Twitter Card Meta Tags -->
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:site" content="@thiyagicom">
 <meta name="twitter:creator" content="@thiyagicom">
-<meta name="twitter:title" content="Financial Calculators 2025 - Loan EMI, Investment & Tax Calculators">
-<meta name="twitter:description" content="Free online financial calculators for 2025 with current market rates. Calculate loan EMI, investment planning, tax computation, and more.">
-<meta name="twitter:image" content="https://www.thiyagi.com/images/financial-calculators-2025.jpg">
-<meta name="twitter:image:alt" content="Financial Calculators 2025 Dashboard">
+<meta name="twitter:title" content="Financial Calculators 2026 - Loan EMI, Investment & Tax Calculators">
+<meta name="twitter:description" content="Free online financial calculators for 2026 with current market rates. Calculate loan EMI, investment planning, tax computation, and more.">
+<meta name="twitter:image" content="https://www.thiyagi.com/images/financial-calculators-2026.jpg">
+<meta name="twitter:image:alt" content="Financial Calculators 2026 Dashboard">
 
 <!-- Additional SEO Meta Tags -->
 <meta name="author" content="Thiyagi.com">
 <meta name="publisher" content="Thiyagi.com">
-<meta name="copyright" content="© 2025 Thiyagi.com. All rights reserved.">
+<meta name="copyright" content="© 2026 Thiyagi.com. All rights reserved.">
 <meta name="language" content="English">
 <meta name="revisit-after" content="7 days">
 <meta name="distribution" content="global">
@@ -89,9 +89,9 @@ $canonicalUrl = "https://www.thiyagi.com/calculators";
                 <div class="inline-flex items-center justify-center w-20 h-20 bg-white/20 rounded-full mb-6">
                     <i class="fas fa-calculator text-3xl"></i>
                 </div>
-                <h1 class="text-5xl md:text-6xl font-bold mb-6">Financial Calculators 2025</h1>
+                <h1 class="text-5xl md:text-6xl font-bold mb-6">Financial Calculators 2026</h1>
                 <p class="text-xl opacity-90 max-w-3xl mx-auto leading-relaxed">
-                    Free online financial calculators with current 2025 market rates to help you make informed financial decisions. 
+                    Free online financial calculators with current 2026 market rates to help you make informed financial decisions. 
                     Calculate EMIs, plan investments, compute taxes, and more with our advanced tools.
                 </p>
             </div>
@@ -114,9 +114,9 @@ $canonicalUrl = "https://www.thiyagi.com/calculators";
                                 <i class="fas fa-star text-yellow-400 text-2xl mr-3"></i>
                                 <span class="text-sm uppercase tracking-wide opacity-80">FEATURED</span>
                             </div>
-                            <h3 class="text-3xl font-bold mb-4">Personal Loan EMI Calculator 2025</h3>
+                            <h3 class="text-3xl font-bold mb-4">Personal Loan EMI Calculator 2026</h3>
                             <p class="text-lg opacity-90 mb-6 leading-relaxed">
-                                Calculate your personal loan EMI with current 2025 interest rates using our advanced calculator. Get instant results 
+                                Calculate your personal loan EMI with current 2026 interest rates using our advanced calculator. Get instant results 
                                 with interactive charts, amortization schedule, and comparison tools.
                             </p>
                             <ul class="space-y-2 mb-6 opacity-90">
@@ -483,8 +483,8 @@ $canonicalUrl = "https://www.thiyagi.com/calculators";
 {
   "@context": "https://schema.org",
   "@type": "WebApplication",
-  "name": "Financial Calculators 2025",
-  "description": "Free online financial calculators for 2025 with current market rates for EMI calculation, investment planning, tax computation, and more.",
+  "name": "Financial Calculators 2026",
+  "description": "Free online financial calculators for 2026 with current market rates for EMI calculation, investment planning, tax computation, and more.",
   "url": "https://www.thiyagi.com/calculators/",
   "applicationCategory": "FinanceApplication",
   "operatingSystem": "Any",

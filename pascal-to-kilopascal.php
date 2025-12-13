@@ -1,19 +1,19 @@
 <?php include 'header.php'; ?>
 
 <!-- SEO Meta Tags -->
-<title>Pascal to Kilopascal Converter 2025 - Pa to kPa Calculator | Thiyagi</title>
-<meta name="description" content="Free online Pascal to Kilopascal converter 2025. Convert Pa to kPa and kPa to Pa instantly with accurate pressure unit conversion.">
-<meta name="keywords" content="pascal to kilopascal converter 2025, Pa to kPa, pressure conversion, metric pressure units, engineering calculator">
+<title>Pascal to Kilopascal Converter 2026 - Pa to kPa Calculator | Thiyagi</title>
+<meta name="description" content="Free online Pascal to Kilopascal converter 2026. Convert Pa to kPa and kPa to Pa instantly with accurate pressure unit conversion.">
+<meta name="keywords" content="pascal to kilopascal converter 2026, Pa to kPa, pressure conversion, metric pressure units, engineering calculator">
 <meta name="author" content="Thiyagi">
-<meta property="og:title" content="Pascal to Kilopascal Converter 2025 - Pa to kPa Calculator">
-<meta property="og:description" content="Free online Pascal to Kilopascal converter 2025. Convert Pa to kPa and kPa to Pa instantly.">
+<meta property="og:title" content="Pascal to Kilopascal Converter 2026 - Pa to kPa Calculator">
+<meta property="og:description" content="Free online Pascal to Kilopascal converter 2026. Convert Pa to kPa and kPa to Pa instantly.">
 <meta property="og:type" content="website">
 <meta property="og:url" content="https://www.thiyagi.com/pascal-to-kilopascal.php">
 <meta property="og:image" content="https://www.thiyagi.com/nt.png">
 <meta property="og:site_name" content="Thiyagi">
 <meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:title" content="Pascal to Kilopascal Converter 2025 - Pa to kPa Calculator">
-<meta property="twitter:description" content="Free online Pascal to Kilopascal converter 2025. Convert Pa to kPa and kPa to Pa instantly.">
+<meta name="twitter:title" content="Pascal to Kilopascal Converter 2026 - Pa to kPa Calculator">
+<meta property="twitter:description" content="Free online Pascal to Kilopascal converter 2026. Convert Pa to kPa and kPa to Pa instantly.">
 <meta name="twitter:image" content="https://www.thiyagi.com/nt.png">
 
 <div class="min-h-screen bg-gradient-to-br from-teal-50 via-cyan-50 to-blue-50 py-12">

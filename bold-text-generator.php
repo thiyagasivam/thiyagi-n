@@ -40,8 +40,8 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Free Bold Text Generator 2025 - 𝕮𝖗𝖊𝖆𝖙𝖊 𝕭𝖔𝖑𝖉 𝕱𝖔𝖓𝖙𝖘</title>
-    <meta name="description" content="Instantly generate bold text for social media (2025)! Free online tool creates 𝖇𝖔𝖑𝖉 𝖋𝖔𝖓𝖙𝖘 for Instagram, Facebook & more. No download required! ">
+    <title>Free Bold Text Generator 2026 - 𝕮𝖗𝖊𝖆𝖙𝖊 𝕭𝖔𝖑𝖉 𝕱𝖔𝖓𝖙𝖘</title>
+    <meta name="description" content="Instantly generate bold text for social media (2026)! Free online tool creates 𝖇𝖔𝖑𝖉 𝖋𝖔𝖓𝖙𝖘 for Instagram, Facebook & more. No download required! ">
     <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" rel="stylesheet">
     <style>
         .text-preview {

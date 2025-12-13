@@ -1,19 +1,19 @@
 <?php include 'header.php'; ?>
 
 <!-- SEO Meta Tags -->
-<title>Micron to Inch Converter 2025 - μm to inch Calculator | Thiyagi</title>
-<meta name="description" content="Free online Micron to Inch converter 2025. Convert μm to inch and inch to μm instantly with accurate precision measurement conversion.">
-<meta name="keywords" content="micron to inch converter 2025, μm to inch, precision measurement, micrometer conversion, engineering units">
+<title>Micron to Inch Converter 2026 - μm to inch Calculator | Thiyagi</title>
+<meta name="description" content="Free online Micron to Inch converter 2026. Convert μm to inch and inch to μm instantly with accurate precision measurement conversion.">
+<meta name="keywords" content="micron to inch converter 2026, μm to inch, precision measurement, micrometer conversion, engineering units">
 <meta name="author" content="Thiyagi">
-<meta property="og:title" content="Micron to Inch Converter 2025 - μm to inch Calculator">
-<meta property="og:description" content="Free online Micron to Inch converter 2025. Convert μm to inch and inch to μm instantly.">
+<meta property="og:title" content="Micron to Inch Converter 2026 - μm to inch Calculator">
+<meta property="og:description" content="Free online Micron to Inch converter 2026. Convert μm to inch and inch to μm instantly.">
 <meta property="og:type" content="website">
 <meta property="og:url" content="https://www.thiyagi.com/micron-to-inch.php">
 <meta property="og:image" content="https://www.thiyagi.com/nt.png">
 <meta property="og:site_name" content="Thiyagi">
 <meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:title" content="Micron to Inch Converter 2025 - μm to inch Calculator">
-<meta property="twitter:description" content="Free online Micron to Inch converter 2025. Convert μm to inch and inch to μm instantly.">
+<meta name="twitter:title" content="Micron to Inch Converter 2026 - μm to inch Calculator">
+<meta property="twitter:description" content="Free online Micron to Inch converter 2026. Convert μm to inch and inch to μm instantly.">
 <meta name="twitter:image" content="https://www.thiyagi.com/nt.png">
 
 <div class="min-h-screen bg-gradient-to-br from-cyan-50 via-teal-50 to-green-50 py-12">

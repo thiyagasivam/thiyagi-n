@@ -1,19 +1,19 @@
 <?php include 'header.php'; ?>
 
 <!-- SEO Meta Tags -->
-<title>Pints to Liters Converter 2025 - Volume Calculator | Thiyagi</title>
-<meta name="description" content="Free online pints to liters converter 2025. Convert pt to L instantly with accurate volume conversion for cooking and recipe measurements.">
-<meta name="keywords" content="pints to liters converter 2025, pt to L, volume converter, cooking calculator, recipe converter">
+<title>Pints to Liters Converter 2026 - Volume Calculator | Thiyagi</title>
+<meta name="description" content="Free online pints to liters converter 2026. Convert pt to L instantly with accurate volume conversion for cooking and recipe measurements.">
+<meta name="keywords" content="pints to liters converter 2026, pt to L, volume converter, cooking calculator, recipe converter">
 <meta name="author" content="Thiyagi">
-<meta property="og:title" content="Pints to Liters Converter 2025 - Volume Calculator">
-<meta property="og:description" content="Free online pints to liters converter 2025. Convert pt to L instantly with accurate volume conversion.">
+<meta property="og:title" content="Pints to Liters Converter 2026 - Volume Calculator">
+<meta property="og:description" content="Free online pints to liters converter 2026. Convert pt to L instantly with accurate volume conversion.">
 <meta property="og:type" content="website">
 <meta property="og:url" content="https://www.thiyagi.com/pints-to-liters.php">
 <meta property="og:image" content="https://www.thiyagi.com/nt.png">
 <meta property="og:site_name" content="Thiyagi">
 <meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:title" content="Pints to Liters Converter 2025 - Volume Calculator">
-<meta name="twitter:description" content="Free online pints to liters converter 2025. Convert pt to L instantly.">
+<meta name="twitter:title" content="Pints to Liters Converter 2026 - Volume Calculator">
+<meta name="twitter:description" content="Free online pints to liters converter 2026. Convert pt to L instantly.">
 <meta name="twitter:image" content="https://www.thiyagi.com/nt.png">
 
 <div class="min-h-screen bg-gradient-to-br from-green-50 via-teal-50 to-cyan-50 py-12">

@@ -1,12 +1,12 @@
 <?php include 'header.php';?>
-<title>Millimeter to Meter Converter 2025 | MM to Meter | Free Tool</title>
-<meta name="description" content="Convert millimeter to meter instantly with our 2025 accurate converter. Perfect mm to meter conversion with real-time calculations for precision.">
-<meta name="keywords" content="millimeter to meter 2025, mm meter converter, metric unit conversion 2025, precision measurement calculator, scientific conversion">
+<title>Millimeter to Meter Converter 2026 | MM to Meter | Free Tool</title>
+<meta name="description" content="Convert millimeter to meter instantly with our 2026 accurate converter. Perfect mm to meter conversion with real-time calculations for precision.">
+<meta name="keywords" content="millimeter to meter 2026, mm meter converter, metric unit conversion 2026, precision measurement calculator, scientific conversion">
 <link rel="canonical" href="https://www.thiyagi.com/mm-to-meter">
 
 <!-- Open Graph Meta Tags -->
-<meta property="og:title" content="Millimeter to Meter Converter 2025 | MM to Meter | Free Tool">
-<meta property="og:description" content="Convert millimeter to meter instantly with our 2025 accurate converter. Perfect mm to meter conversion with real-time calculations for precision.">
+<meta property="og:title" content="Millimeter to Meter Converter 2026 | MM to Meter | Free Tool">
+<meta property="og:description" content="Convert millimeter to meter instantly with our 2026 accurate converter. Perfect mm to meter conversion with real-time calculations for precision.">
 <meta property="og:url" content="https://www.thiyagi.com/mm-to-meter">
 <meta property="og:type" content="website">
 <meta property="og:image" content="https://www.thiyagi.com/nt.png">
@@ -14,8 +14,8 @@
 
 <!-- Twitter Card Meta Tags -->
 <meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:title" content="Millimeter to Meter Converter 2025 | MM to Meter | Free Tool">
-<meta name="twitter:description" content="Convert millimeter to meter instantly with our 2025 accurate converter. Perfect mm to meter conversion with real-time calculations for precision.">
+<meta name="twitter:title" content="Millimeter to Meter Converter 2026 | MM to Meter | Free Tool">
+<meta name="twitter:description" content="Convert millimeter to meter instantly with our 2026 accurate converter. Perfect mm to meter conversion with real-time calculations for precision.">
 <meta name="twitter:image" content="https://www.thiyagi.com/nt.png">
 
 <!-- Additional SEO Meta Tags -->
@@ -39,7 +39,7 @@
           Millimeter to Meter Converter
         </h1>
         <p class="text-xl text-gray-600 mb-8 max-w-3xl mx-auto">
-          Convert millimeters to meters instantly with our accurate 2025 calculator. 
+          Convert millimeters to meters instantly with our accurate 2026 calculator. 
           Perfect for engineering, scientific measurements, and precision applications.
         </p>
       </div>
@@ -157,16 +157,16 @@
     <article class="bg-white rounded-xl shadow-lg p-8">
       <h2 class="text-2xl font-bold text-gray-800 mb-6 flex items-center gap-3">
         <i class="fas fa-info-circle text-emerald-600" aria-hidden="true"></i>
-        Millimeter to Meter Conversion 2025
+        Millimeter to Meter Conversion 2026
       </h2>
       <div class="prose max-w-none text-gray-600">
         <p class="mb-4">
-          Converting millimeters to meters is essential for engineering, scientific measurements, and precision applications in 2025. 
+          Converting millimeters to meters is essential for engineering, scientific measurements, and precision applications in 2026. 
           This conversion within the metric system enables accurate communication between engineers, scientists, 
           and professionals working with detailed specifications and precise measurements.
         </p>
         <p class="mb-6">
-          Our 2025 converter provides instant and accurate conversions from millimeters to meters, essential for engineers, 
+          Our 2026 converter provides instant and accurate conversions from millimeters to meters, essential for engineers, 
           scientists, researchers, and precision machinists working with technical specifications. 
           One meter equals exactly 1,000 millimeters, so 1 millimeter equals 0.001 meters.
         </p>

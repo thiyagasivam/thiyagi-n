@@ -1,19 +1,19 @@
 <?php include 'header.php'; ?>
 
 <!-- SEO Meta Tags -->
-<title>Meter to Foot (US Survey) Converter 2025 - Length Calculator | Thiyagi</title>
-<meta name="description" content="Free online meter to US survey foot converter 2025. Convert meters to US survey feet instantly with accurate length conversion. Perfect for surveying and mapping.">
-<meta name="keywords" content="meter to foot us survey converter 2025, meter to survey foot, surveying converter, mapping calculator, length measurement">
+<title>Meter to Foot (US Survey) Converter 2026 - Length Calculator | Thiyagi</title>
+<meta name="description" content="Free online meter to US survey foot converter 2026. Convert meters to US survey feet instantly with accurate length conversion. Perfect for surveying and mapping.">
+<meta name="keywords" content="meter to foot us survey converter 2026, meter to survey foot, surveying converter, mapping calculator, length measurement">
 <meta name="author" content="Thiyagi">
-<meta property="og:title" content="Meter to Foot (US Survey) Converter 2025 - Length Calculator">
-<meta property="og:description" content="Free online meter to US survey foot converter 2025. Convert meters to US survey feet instantly with accurate length conversion.">
+<meta property="og:title" content="Meter to Foot (US Survey) Converter 2026 - Length Calculator">
+<meta property="og:description" content="Free online meter to US survey foot converter 2026. Convert meters to US survey feet instantly with accurate length conversion.">
 <meta property="og:type" content="website">
 <meta property="og:url" content="https://www.thiyagi.com/meter-to-foot-us-survey.php">
 <meta property="og:image" content="https://www.thiyagi.com/nt.png">
 <meta property="og:site_name" content="Thiyagi">
 <meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:title" content="Meter to Foot (US Survey) Converter 2025 - Length Calculator">
-<meta name="twitter:description" content="Free online meter to US survey foot converter 2025. Convert meters to US survey feet instantly with accurate length conversion.">
+<meta name="twitter:title" content="Meter to Foot (US Survey) Converter 2026 - Length Calculator">
+<meta name="twitter:description" content="Free online meter to US survey foot converter 2026. Convert meters to US survey feet instantly with accurate length conversion.">
 <meta name="twitter:image" content="https://www.thiyagi.com/nt.png">
 
 <div class="min-h-screen bg-gradient-to-br from-emerald-50 via-green-50 to-teal-50 py-12">

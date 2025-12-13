@@ -1,19 +1,19 @@
 <?php include 'header.php'; ?>
 
 <!-- SEO Meta Tags -->
-<title>Milliliter to Quart US Converter 2025 - mL to qt US Calculator | Thiyagi</title>
-<meta name="description" content="Free online Milliliter to Quart US converter 2025. Convert mL to qt US and qt US to mL instantly with accurate volume conversion for cooking.">
-<meta name="keywords" content="milliliter to quart us converter 2025, mL to qt US, volume converter, cooking measurements, metric to imperial, liquid conversion">
+<title>Milliliter to Quart US Converter 2026 - mL to qt US Calculator | Thiyagi</title>
+<meta name="description" content="Free online Milliliter to Quart US converter 2026. Convert mL to qt US and qt US to mL instantly with accurate volume conversion for cooking.">
+<meta name="keywords" content="milliliter to quart us converter 2026, mL to qt US, volume converter, cooking measurements, metric to imperial, liquid conversion">
 <meta name="author" content="Thiyagi">
-<meta property="og:title" content="Milliliter to Quart US Converter 2025 - mL to qt US Calculator">
-<meta property="og:description" content="Free online Milliliter to Quart US converter 2025. Convert mL to qt US and qt US to mL instantly.">
+<meta property="og:title" content="Milliliter to Quart US Converter 2026 - mL to qt US Calculator">
+<meta property="og:description" content="Free online Milliliter to Quart US converter 2026. Convert mL to qt US and qt US to mL instantly.">
 <meta property="og:type" content="website">
 <meta property="og:url" content="https://www.thiyagi.com/milliliter-to-quart-us.php">
 <meta property="og:image" content="https://www.thiyagi.com/nt.png">
 <meta property="og:site_name" content="Thiyagi">
 <meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:title" content="Milliliter to Quart US Converter 2025 - mL to qt US Calculator">
-<meta name="twitter:description" content="Free online Milliliter to Quart US converter 2025. Convert mL to qt US and qt US to mL instantly.">
+<meta name="twitter:title" content="Milliliter to Quart US Converter 2026 - mL to qt US Calculator">
+<meta name="twitter:description" content="Free online Milliliter to Quart US converter 2026. Convert mL to qt US and qt US to mL instantly.">
 <meta name="twitter:image" content="https://www.thiyagi.com/nt.png">
 
 <div class="min-h-screen bg-gradient-to-br from-purple-50 via-pink-50 to-rose-50 py-12">

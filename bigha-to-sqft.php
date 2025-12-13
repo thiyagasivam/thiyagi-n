@@ -1,12 +1,12 @@
 <?php include 'header.php';?>
-<title>Bigha to SqFt Converter 2025 | Bigha to Square Feet | Free Tool</title>
-<meta name="description" content="Convert bigha to square feet instantly with our 2025 accurate converter. Perfect bigha to sqft conversion with real-time calculations for Indian land measurement.">
-<meta name="keywords" content="bigha to sqft 2025, bigha square feet converter, Indian land conversion 2025, bigha sqft calculation, traditional to imperial land">
+<title>Bigha to SqFt Converter 2026 | Bigha to Square Feet | Free Tool</title>
+<meta name="description" content="Convert bigha to square feet instantly with our 2026 accurate converter. Perfect bigha to sqft conversion with real-time calculations for Indian land measurement.">
+<meta name="keywords" content="bigha to sqft 2026, bigha square feet converter, Indian land conversion 2026, bigha sqft calculation, traditional to imperial land">
 <link rel="canonical" href="https://www.thiyagi.com/bigha-to-sqft">
 
 <!-- Open Graph Meta Tags -->
-<meta property="og:title" content="Bigha to SqFt Converter 2025 | Bigha to Square Feet | Free Tool">
-<meta property="og:description" content="Convert bigha to square feet instantly with our 2025 accurate converter. Perfect bigha to sqft conversion with real-time calculations for Indian land measurement.">
+<meta property="og:title" content="Bigha to SqFt Converter 2026 | Bigha to Square Feet | Free Tool">
+<meta property="og:description" content="Convert bigha to square feet instantly with our 2026 accurate converter. Perfect bigha to sqft conversion with real-time calculations for Indian land measurement.">
 <meta property="og:url" content="https://www.thiyagi.com/bigha-to-sqft">
 <meta property="og:type" content="website">
 <meta property="og:image" content="https://www.thiyagi.com/nt.png">
@@ -14,8 +14,8 @@
 
 <!-- Twitter Card Meta Tags -->
 <meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:title" content="Bigha to SqFt Converter 2025 | Bigha to Square Feet | Free Tool">
-<meta name="twitter:description" content="Convert bigha to square feet instantly with our 2025 accurate converter. Perfect bigha to sqft conversion with real-time calculations for Indian land measurement.">
+<meta name="twitter:title" content="Bigha to SqFt Converter 2026 | Bigha to Square Feet | Free Tool">
+<meta name="twitter:description" content="Convert bigha to square feet instantly with our 2026 accurate converter. Perfect bigha to sqft conversion with real-time calculations for Indian land measurement.">
 <meta name="twitter:image" content="https://www.thiyagi.com/nt.png">
 
 <!-- Additional SEO Meta Tags -->
@@ -39,7 +39,7 @@
           Bigha to Square Feet Converter
         </h1>
         <p class="text-xl text-gray-600 mb-8 max-w-3xl mx-auto">
-          Convert bigha to square feet instantly with our accurate 2025 calculator. 
+          Convert bigha to square feet instantly with our accurate 2026 calculator. 
           Perfect for Indian agricultural land measurement and documentation.
         </p>
       </div>

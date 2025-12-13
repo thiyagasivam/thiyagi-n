@@ -1,7 +1,7 @@
 <?php 
 // Meta information for this page
-$pageTitle = "Feet to Miles Converter 2025 - FT to MI Calculator Online";
-$pageDescription = "Convert feet (ft) to miles (mi) instantly with our free online calculator 2025. Accurate distance conversion tool for mapping, construction, athletics, and travel calculations.";
+$pageTitle = "Feet to Miles Converter 2026 - FT to MI Calculator Online";
+$pageDescription = "Convert feet (ft) to miles (mi) instantly with our free online calculator 2026. Accurate distance conversion tool for mapping, construction, athletics, and travel calculations.";
 ?>
 <?php include 'header.php'; ?>
 
@@ -32,7 +32,7 @@ $pageDescription = "Convert feet (ft) to miles (mi) instantly with our free onli
             <div class="text-center mb-8">
                 <h1 class="text-4xl font-bold text-gray-800 mb-4">
                     <i class="fas fa-route text-blue-600 mr-3"></i>
-                    Feet to Miles Converter 2025
+                    Feet to Miles Converter 2026
                 </h1>
                 <p class="text-lg text-gray-600 max-w-2xl mx-auto">
                     Convert Feet (ft) to Miles (mi) instantly with our professional distance converter. 

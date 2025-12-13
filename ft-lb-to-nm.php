@@ -4,9 +4,9 @@ include 'header.php';
 $header_content = ob_get_clean();
 
 // Insert title and meta tags into the head section
-$title = 'Foot-Pound to Newton-Meter Converter 2025 | Torque Conversion Tool | Free Calculator';
-$description = 'Convert foot-pounds to newton-meters instantly with our 2025 accurate torque converter. Perfect for automotive, engineering, and mechanical calculations.';
-$keywords = 'ft lb to nm converter 2025, torque conversion calculator, foot pound newton meter converter, automotive torque, engineering calculator';
+$title = 'Foot-Pound to Newton-Meter Converter 2026 | Torque Conversion Tool | Free Calculator';
+$description = 'Convert foot-pounds to newton-meters instantly with our 2026 accurate torque converter. Perfect for automotive, engineering, and mechanical calculations.';
+$keywords = 'ft lb to nm converter 2026, torque conversion calculator, foot pound newton meter converter, automotive torque, engineering calculator';
 $canonical = 'https://www.thiyagi.com/ft-lb-to-nm';
 
 $meta_tags = '<title>' . htmlspecialchars($title) . '</title>' . "\n";

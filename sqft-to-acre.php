@@ -1,12 +1,12 @@
 <?php include 'header.php';?>
-<title>Square Feet to Acre Converter 2025 | Sqft to Acre | Free Tool</title>
-<meta name="description" content="Convert square feet to acres instantly with our 2025 accurate converter. Perfect sqft to acre conversion with real-time calculations for land measurement, agriculture, and real estate.">
-<meta name="keywords" content="square feet to acre 2025, sqft to acre converter, feet to acre conversion, land measurement 2025, agriculture calculator, real estate conversion">
+<title>Square Feet to Acre Converter 2026 | Sqft to Acre | Free Tool</title>
+<meta name="description" content="Convert square feet to acres instantly with our 2026 accurate converter. Perfect sqft to acre conversion with real-time calculations for land measurement, agriculture, and real estate.">
+<meta name="keywords" content="square feet to acre 2026, sqft to acre converter, feet to acre conversion, land measurement 2026, agriculture calculator, real estate conversion">
 <link rel="canonical" href="https://www.thiyagi.com/sqft-to-acre">
 
 <!-- Open Graph Meta Tags -->
-<meta property="og:title" content="Square Feet to Acre Converter 2025 | Sqft to Acre | Free Tool">
-<meta property="og:description" content="Convert square feet to acres instantly with our 2025 accurate converter. Perfect sqft to acre conversion with real-time calculations for land measurement, agriculture, and real estate.">
+<meta property="og:title" content="Square Feet to Acre Converter 2026 | Sqft to Acre | Free Tool">
+<meta property="og:description" content="Convert square feet to acres instantly with our 2026 accurate converter. Perfect sqft to acre conversion with real-time calculations for land measurement, agriculture, and real estate.">
 <meta property="og:url" content="https://www.thiyagi.com/sqft-to-acre">
 <meta property="og:type" content="website">
 <meta property="og:image" content="https://www.thiyagi.com/nt.png">
@@ -14,8 +14,8 @@
 
 <!-- Twitter Card Meta Tags -->
 <meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:title" content="Square Feet to Acre Converter 2025 | Sqft to Acre | Free Tool">
-<meta name="twitter:description" content="Convert square feet to acres instantly with our 2025 accurate converter. Perfect sqft to acre conversion with real-time calculations for land measurement, agriculture, and real estate.">
+<meta name="twitter:title" content="Square Feet to Acre Converter 2026 | Sqft to Acre | Free Tool">
+<meta name="twitter:description" content="Convert square feet to acres instantly with our 2026 accurate converter. Perfect sqft to acre conversion with real-time calculations for land measurement, agriculture, and real estate.">
 <meta name="twitter:image" content="https://www.thiyagi.com/nt.png">
 
 <!-- Additional SEO Meta Tags -->
@@ -44,10 +44,10 @@
     "@type": "Organization",
     "name": "Thiyagi Tools",
     "url": "https://www.thiyagi.com",
-    "foundingDate": "2025"
+    "foundingDate": "2026"
   },
-  "datePublished": "2025-08-23",
-  "dateModified": "2025-08-23",
+  "datePublished": "2026-08-23",
+  "dateModified": "2026-08-23",
   "featureList": [
     "Convert square feet to acres",
     "Real-time conversion calculations",
@@ -247,7 +247,7 @@
     <article class="bg-white rounded-xl shadow-lg p-8">
       <h2 id="about-heading" class="text-2xl font-bold text-gray-800 mb-6 flex items-center gap-3">
         <i class="fas fa-info-circle text-green-600" aria-hidden="true"></i>
-        About Square Feet to Acre Conversion 2025
+        About Square Feet to Acre Conversion 2026
       </h2>
       <div class="prose max-w-none text-gray-600">
         <p class="mb-4">

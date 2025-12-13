@@ -1,19 +1,19 @@
 <?php include 'header.php'; ?>
 
 <!-- SEO Meta Tags -->
-<title>Foot US Survey to Meter Converter 2025 - ft US to m Calculator | Thiyagi</title>
-<meta name="description" content="Free online Foot US Survey to Meter converter 2025. Convert ft US to m and m to ft US instantly with accurate surveying conversion.">
-<meta name="keywords" content="foot us survey to meter converter 2025, ft us to m, surveying measurement, geodetic conversion, land measurement">
+<title>Foot US Survey to Meter Converter 2026 - ft US to m Calculator | Thiyagi</title>
+<meta name="description" content="Free online Foot US Survey to Meter converter 2026. Convert ft US to m and m to ft US instantly with accurate surveying conversion.">
+<meta name="keywords" content="foot us survey to meter converter 2026, ft us to m, surveying measurement, geodetic conversion, land measurement">
 <meta name="author" content="Thiyagi">
-<meta property="og:title" content="Foot US Survey to Meter Converter 2025 - ft US to m Calculator">
-<meta property="og:description" content="Free online Foot US Survey to Meter converter 2025. Convert ft US to m and m to ft US instantly.">
+<meta property="og:title" content="Foot US Survey to Meter Converter 2026 - ft US to m Calculator">
+<meta property="og:description" content="Free online Foot US Survey to Meter converter 2026. Convert ft US to m and m to ft US instantly.">
 <meta property="og:type" content="website">
 <meta property="og:url" content="https://www.thiyagi.com/foot-us-survey-to-meter.php">
 <meta property="og:image" content="https://www.thiyagi.com/nt.png">
 <meta property="og:site_name" content="Thiyagi">
 <meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:title" content="Foot US Survey to Meter Converter 2025 - ft US to m Calculator">
-<meta property="twitter:description" content="Free online Foot US Survey to Meter converter 2025. Convert ft US to m and m to ft US instantly.">
+<meta name="twitter:title" content="Foot US Survey to Meter Converter 2026 - ft US to m Calculator">
+<meta property="twitter:description" content="Free online Foot US Survey to Meter converter 2026. Convert ft US to m and m to ft US instantly.">
 <meta name="twitter:image" content="https://www.thiyagi.com/nt.png">
 
 <div class="min-h-screen bg-gradient-to-br from-green-50 via-emerald-50 to-teal-50 py-12">

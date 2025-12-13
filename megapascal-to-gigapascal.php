@@ -1,19 +1,19 @@
 <?php include 'header.php'; ?>
 
 <!-- SEO Meta Tags -->
-<title>Megapascal to Gigapascal Converter 2025 - MPa to GPa Calculator | Thiyagi</title>
-<meta name="description" content="Free online Megapascal to Gigapascal converter 2025. Convert MPa to GPa and GPa to MPa instantly with accurate high-pressure conversion.">
-<meta name="keywords" content="megapascal to gigapascal converter 2025, MPa to GPa, high pressure, materials science, engineering stress, geological pressure">
+<title>Megapascal to Gigapascal Converter 2026 - MPa to GPa Calculator | Thiyagi</title>
+<meta name="description" content="Free online Megapascal to Gigapascal converter 2026. Convert MPa to GPa and GPa to MPa instantly with accurate high-pressure conversion.">
+<meta name="keywords" content="megapascal to gigapascal converter 2026, MPa to GPa, high pressure, materials science, engineering stress, geological pressure">
 <meta name="author" content="Thiyagi">
-<meta property="og:title" content="Megapascal to Gigapascal Converter 2025 - MPa to GPa Calculator">
-<meta property="og:description" content="Free online Megapascal to Gigapascal converter 2025. Convert MPa to GPa and GPa to MPa instantly.">
+<meta property="og:title" content="Megapascal to Gigapascal Converter 2026 - MPa to GPa Calculator">
+<meta property="og:description" content="Free online Megapascal to Gigapascal converter 2026. Convert MPa to GPa and GPa to MPa instantly.">
 <meta property="og:type" content="website">
 <meta property="og:url" content="https://www.thiyagi.com/megapascal-to-gigapascal.php">
 <meta property="og:image" content="https://www.thiyagi.com/nt.png">
 <meta property="og:site_name" content="Thiyagi">
 <meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:title" content="Megapascal to Gigapascal Converter 2025 - MPa to GPa Calculator">
-<meta property="twitter:description" content="Free online Megapascal to Gigapascal converter 2025. Convert MPa to GPa and GPa to MPa instantly.">
+<meta name="twitter:title" content="Megapascal to Gigapascal Converter 2026 - MPa to GPa Calculator">
+<meta property="twitter:description" content="Free online Megapascal to Gigapascal converter 2026. Convert MPa to GPa and GPa to MPa instantly.">
 <meta name="twitter:image" content="https://www.thiyagi.com/nt.png">
 
 <div class="min-h-screen bg-gradient-to-br from-indigo-50 via-purple-50 to-violet-50 py-12">

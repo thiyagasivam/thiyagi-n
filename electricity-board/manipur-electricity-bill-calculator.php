@@ -1,12 +1,12 @@
 <?php include '../header.php'; ?>
-<title>Manipur Electricity Bill Calculator 2025 | MSPDCL Bill Calculator | Free Tool</title>
-<meta name="description" content="Calculate your Manipur electricity bill instantly with our 2025 MSPDCL bill calculator. Get accurate bill estimates, tariff rates, and subsidy calculations for domestic consumers.">
-<meta name="keywords" content="manipur electricity bill calculator 2025, mspdcl bill calculator, manipur power bill, electricity tariff manipur, mspdcl rates, manipur subsidy calculator">
+<title>Manipur Electricity Bill Calculator 2026 | MSPDCL Bill Calculator | Free Tool</title>
+<meta name="description" content="Calculate your Manipur electricity bill instantly with our 2026 MSPDCL bill calculator. Get accurate bill estimates, tariff rates, and subsidy calculations for domestic consumers.">
+<meta name="keywords" content="manipur electricity bill calculator 2026, mspdcl bill calculator, manipur power bill, electricity tariff manipur, mspdcl rates, manipur subsidy calculator">
 <link rel="canonical" href="https://www.thiyagi.com/electricity-board/manipur-electricity-bill-calculator">
 
 <?php include 'breadcrumb-schema.php'; ?>
 <?php
-// Define MSPDCL 2025 tariff rates (Domestic consumers)
+// Define MSPDCL 2026 tariff rates (Domestic consumers)
 $tariff_slabs = [
     ['from' => 0, 'to' => 50, 'rate' => 3.75],
     ['from' => 51, 'to' => 150, 'rate' => 4.85],
@@ -57,7 +57,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST' && $units > 0) {
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>MSPDCL Electricity Bill Calculator 2025</title>
+    <title>MSPDCL Electricity Bill Calculator 2026</title>
     <script src="https://unpkg.com/lucide@latest"></script>
     <script src="https://cdn.tailwindcss.com"></script>
 
@@ -70,7 +70,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST' && $units > 0) {
         <div class="bg-blue-600 text-white p-6">
             <h1 class="text-2xl font-bold flex items-center">
                 <i data-lucide="zap" class="mr-2"></i>
-                MSPDCL Bill Calculator 2025
+                MSPDCL Bill Calculator 2026
             </h1>
             <p class="text-blue-100">Manipur State Power Distribution Company Limited</p>
         </div>

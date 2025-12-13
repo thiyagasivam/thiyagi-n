@@ -1,19 +1,19 @@
 <?php include 'header.php'; ?>
 
 <!-- SEO Meta Tags -->
-<title>Gigabyte to Byte Converter 2025 - Data Storage Calculator | Thiyagi</title>
-<meta name="description" content="Free online gigabyte to byte converter 2025. Convert GB to bytes instantly with accurate data storage conversion. Perfect for IT and computing calculations.">
-<meta name="keywords" content="gigabyte to byte converter 2025, GB to bytes, data storage converter, IT calculator, computing converter">
+<title>Gigabyte to Byte Converter 2026 - Data Storage Calculator | Thiyagi</title>
+<meta name="description" content="Free online gigabyte to byte converter 2026. Convert GB to bytes instantly with accurate data storage conversion. Perfect for IT and computing calculations.">
+<meta name="keywords" content="gigabyte to byte converter 2026, GB to bytes, data storage converter, IT calculator, computing converter">
 <meta name="author" content="Thiyagi">
-<meta property="og:title" content="Gigabyte to Byte Converter 2025 - Data Storage Calculator">
-<meta property="og:description" content="Free online gigabyte to byte converter 2025. Convert GB to bytes instantly with accurate data storage conversion.">
+<meta property="og:title" content="Gigabyte to Byte Converter 2026 - Data Storage Calculator">
+<meta property="og:description" content="Free online gigabyte to byte converter 2026. Convert GB to bytes instantly with accurate data storage conversion.">
 <meta property="og:type" content="website">
 <meta property="og:url" content="https://www.thiyagi.com/gigabyte-to-byte.php">
 <meta property="og:image" content="https://www.thiyagi.com/nt.png">
 <meta property="og:site_name" content="Thiyagi">
 <meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:title" content="Gigabyte to Byte Converter 2025 - Data Storage Calculator">
-<meta name="twitter:description" content="Free online gigabyte to byte converter 2025. Convert GB to bytes instantly with accurate data storage conversion.">
+<meta name="twitter:title" content="Gigabyte to Byte Converter 2026 - Data Storage Calculator">
+<meta name="twitter:description" content="Free online gigabyte to byte converter 2026. Convert GB to bytes instantly with accurate data storage conversion.">
 <meta name="twitter:image" content="https://www.thiyagi.com/nt.png">
 
 <div class="min-h-screen bg-gradient-to-br from-purple-50 via-violet-50 to-indigo-50 py-12">hp include 'header.php'; ?>

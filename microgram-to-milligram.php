@@ -1,12 +1,12 @@
 <?php include 'header.php';?>
-<title>Micrograms to Milligrams Converter 2025 | µg to mg Calculator | Free Tool</title>
-<meta name="description" content="Professional micrograms to milligrams converter 2025. Convert µg to mg instantly with precision calculations. Perfect for pharmaceutical, medical, and scientific dosing.">
-<meta name="keywords" content="micrograms to milligrams converter 2025, µg to mg calculator, medical dosing, pharmaceutical calculator, scientific measurements">
+<title>Micrograms to Milligrams Converter 2026 | µg to mg Calculator | Free Tool</title>
+<meta name="description" content="Professional micrograms to milligrams converter 2026. Convert µg to mg instantly with precision calculations. Perfect for pharmaceutical, medical, and scientific dosing.">
+<meta name="keywords" content="micrograms to milligrams converter 2026, µg to mg calculator, medical dosing, pharmaceutical calculator, scientific measurements">
 <link rel="canonical" href="https://www.thiyagi.com/microgram-to-milligram">
 
 <!-- Open Graph Meta Tags -->
-<meta property="og:title" content="Micrograms to Milligrams Converter 2025 | µg to mg Calculator | Free Tool">
-<meta property="og:description" content="Professional micrograms to milligrams converter 2025. Convert µg to mg instantly with precision calculations. Perfect for pharmaceutical, medical, and scientific dosing.">
+<meta property="og:title" content="Micrograms to Milligrams Converter 2026 | µg to mg Calculator | Free Tool">
+<meta property="og:description" content="Professional micrograms to milligrams converter 2026. Convert µg to mg instantly with precision calculations. Perfect for pharmaceutical, medical, and scientific dosing.">
 <meta property="og:url" content="https://www.thiyagi.com/microgram-to-milligram">
 <meta property="og:type" content="website">
 <meta property="og:image" content="https://www.thiyagi.com/nt.png">
@@ -83,7 +83,7 @@
         </div>
         <h1 class="text-4xl md:text-6xl font-bold text-gray-900 mb-6">
           Micrograms to Milligrams Converter
-          <span class="block text-2xl md:text-3xl text-emerald-600 mt-2">Professional 2025</span>
+          <span class="block text-2xl md:text-3xl text-emerald-600 mt-2">Professional 2026</span>
         </h1>
         <p class="text-xl text-gray-600 mb-8 max-w-4xl mx-auto leading-relaxed">
           Convert micrograms to milligrams with precision accuracy. Essential for pharmaceutical dosing, 

@@ -1,12 +1,12 @@
 <?php include 'header.php';?>
-<title>Mile to Yard Converter 2025 | Convert mile to yard | Free Tool</title>
-<meta name="description" content="Convert mile to yard instantly with our 2025 accurate distance converter. Perfect mi to yd conversion with real-time calculations for distance measurement needs.">
-<meta name="keywords" content="mile to yard 2025, distance converter, length conversion 2025, mi to yd calculator, distance measurement tool">
+<title>Mile to Yard Converter 2026 | Convert mile to yard | Free Tool</title>
+<meta name="description" content="Convert mile to yard instantly with our 2026 accurate distance converter. Perfect mi to yd conversion with real-time calculations for distance measurement needs.">
+<meta name="keywords" content="mile to yard 2026, distance converter, length conversion 2026, mi to yd calculator, distance measurement tool">
 <link rel="canonical" href="https://www.thiyagi.com/mile-to-yard">
 
 <!-- Open Graph Meta Tags -->
-<meta property="og:title" content="Mile to Yard Converter 2025 | Convert mile to yard | Free Tool">
-<meta property="og:description" content="Convert mile to yard instantly with our 2025 accurate distance converter. Perfect mi to yd conversion with real-time calculations for distance measurement needs.">
+<meta property="og:title" content="Mile to Yard Converter 2026 | Convert mile to yard | Free Tool">
+<meta property="og:description" content="Convert mile to yard instantly with our 2026 accurate distance converter. Perfect mi to yd conversion with real-time calculations for distance measurement needs.">
 <meta property="og:url" content="https://www.thiyagi.com/mile-to-yard">
 <meta property="og:type" content="website">
 <meta property="og:image" content="https://www.thiyagi.com/nt.png">
@@ -14,8 +14,8 @@
 
 <!-- Twitter Card Meta Tags -->
 <meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:title" content="Mile to Yard Converter 2025 | Convert mile to yard | Free Tool">
-<meta name="twitter:description" content="Convert mile to yard instantly with our 2025 accurate distance converter. Perfect mi to yd conversion with real-time calculations for distance measurement needs.">
+<meta name="twitter:title" content="Mile to Yard Converter 2026 | Convert mile to yard | Free Tool">
+<meta name="twitter:description" content="Convert mile to yard instantly with our 2026 accurate distance converter. Perfect mi to yd conversion with real-time calculations for distance measurement needs.">
 <meta name="twitter:image" content="https://www.thiyagi.com/nt.png">
 
 <!-- Additional SEO Meta Tags -->
@@ -39,7 +39,7 @@
           Mile to Yard Converter
         </h1>
         <p class="text-xl text-gray-600 mb-8 max-w-3xl mx-auto">
-          Convert miles to yards instantly with our accurate 2025 distance calculator. 
+          Convert miles to yards instantly with our accurate 2026 distance calculator. 
           Perfect for sports, athletics, and long-distance measurement conversions.
         </p>
       </div>
@@ -156,16 +156,16 @@
     <article class="bg-white rounded-xl shadow-lg p-8">
       <h2 class="text-2xl font-bold text-gray-800 mb-6 flex items-center gap-3">
         <i class="fas fa-info-circle text-emerald-600" aria-hidden="true"></i>
-        Mile to Yard Conversion 2025
+        Mile to Yard Conversion 2026
       </h2>
       <div class="prose max-w-none text-gray-600">
         <p class="mb-4">
-          Converting miles to yards is essential for athletics, sports, and distance measurement in 2025. 
+          Converting miles to yards is essential for athletics, sports, and distance measurement in 2026. 
           This conversion between different imperial distance units enables accurate communication between professionals 
           working in sports, construction, and transportation fields, from track and field events to road construction projects.
         </p>
         <p class="mb-6">
-          Our 2025 converter provides instant and precise conversions from miles to yards, essential for coaches, 
+          Our 2026 converter provides instant and precise conversions from miles to yards, essential for coaches, 
           athletes, surveyors, and anyone working with distance measurements. 
           1 mile equals exactly 1,760 yards.
         </p>

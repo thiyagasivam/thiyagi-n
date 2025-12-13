@@ -1,19 +1,19 @@
 <?php include 'header.php'; ?>
 
 <!-- SEO Meta Tags -->
-<title>Week to Hour Converter 2025 - Time Calculator | Thiyagi</title>
-<meta name="description" content="Free online week to hour converter 2025. Convert weeks to hours instantly with accurate time conversion for planning and scheduling calculations.">
-<meta name="keywords" content="week to hour converter 2025, weeks to hours, time converter, scheduling calculator, planning calculator">
+<title>Week to Hour Converter 2026 - Time Calculator | Thiyagi</title>
+<meta name="description" content="Free online week to hour converter 2026. Convert weeks to hours instantly with accurate time conversion for planning and scheduling calculations.">
+<meta name="keywords" content="week to hour converter 2026, weeks to hours, time converter, scheduling calculator, planning calculator">
 <meta name="author" content="Thiyagi">
-<meta property="og:title" content="Week to Hour Converter 2025 - Time Calculator">
-<meta property="og:description" content="Free online week to hour converter 2025. Convert weeks to hours instantly with accurate time conversion.">
+<meta property="og:title" content="Week to Hour Converter 2026 - Time Calculator">
+<meta property="og:description" content="Free online week to hour converter 2026. Convert weeks to hours instantly with accurate time conversion.">
 <meta property="og:type" content="website">
 <meta property="og:url" content="https://www.thiyagi.com/week-to-hour.php">
 <meta property="og:image" content="https://www.thiyagi.com/nt.png">
 <meta property="og:site_name" content="Thiyagi">
 <meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:title" content="Week to Hour Converter 2025 - Time Calculator">
-<meta name="twitter:description" content="Free online week to hour converter 2025. Convert weeks to hours instantly.">
+<meta name="twitter:title" content="Week to Hour Converter 2026 - Time Calculator">
+<meta name="twitter:description" content="Free online week to hour converter 2026. Convert weeks to hours instantly.">
 <meta name="twitter:image" content="https://www.thiyagi.com/nt.png">
 
 <div class="min-h-screen bg-gradient-to-br from-emerald-50 via-green-50 to-lime-50 py-12">

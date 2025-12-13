@@ -82,9 +82,9 @@ include '../header.php';
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title><?php echo "Two Wheeler Loan EMI Calculator 2025 - Bike & Scooter Loan Calculator | Thiyagi.com"; ?></title>
-    <meta name="description" content="<?php echo "Calculate your two-wheeler loan EMI for bikes and scooters in 2025. Get instant results for monthly payments, total interest, and payment schedule with current interest rates. Compare different loan scenarios."; ?>">
-    <meta name="keywords" content="<?php echo "two wheeler loan EMI calculator 2025, bike loan calculator, scooter loan EMI, vehicle loan calculator, motorcycle loan EMI calculator, two wheeler finance calculator 2025"; ?>">
+    <title><?php echo "Two Wheeler Loan EMI Calculator 2026 - Bike & Scooter Loan Calculator | Thiyagi.com"; ?></title>
+    <meta name="description" content="<?php echo "Calculate your two-wheeler loan EMI for bikes and scooters in 2026. Get instant results for monthly payments, total interest, and payment schedule with current interest rates. Compare different loan scenarios."; ?>">
+    <meta name="keywords" content="<?php echo "two wheeler loan EMI calculator 2026, bike loan calculator, scooter loan EMI, vehicle loan calculator, motorcycle loan EMI calculator, two wheeler finance calculator 2026"; ?>">
     <link rel="canonical" href="<?php echo "https://www.thiyagi.com/calculators/two-wheeler-loan-emi-calculator"; ?>">
     
     <!-- Tailwind CSS -->
@@ -102,8 +102,8 @@ include '../header.php';
                 <div class="inline-flex items-center justify-center w-16 h-16 bg-white/20 rounded-full mb-4">
                     <i class="fas fa-motorcycle text-2xl"></i>
                 </div>
-                <h1 class="text-4xl md:text-5xl font-bold mb-4">Two Wheeler Loan EMI Calculator 2025</h1>
-                <p class="text-xl opacity-90 max-w-2xl mx-auto">Calculate your bike & scooter loan EMI with current 2025 interest rates, total interest, and plan your two-wheeler loan repayment with our advanced calculator</p>
+                <h1 class="text-4xl md:text-5xl font-bold mb-4">Two Wheeler Loan EMI Calculator 2026</h1>
+                <p class="text-xl opacity-90 max-w-2xl mx-auto">Calculate your bike & scooter loan EMI with current 2026 interest rates, total interest, and plan your two-wheeler loan repayment with our advanced calculator</p>
             </div>
         </div>
     </div>
@@ -310,7 +310,7 @@ include '../header.php';
         <!-- SEO Content Section -->
         <div class="mt-12 bg-white rounded-2xl shadow-xl p-8">
             <div class="prose max-w-none">
-                <h2 class="text-3xl font-bold text-gray-800 mb-6">Two Wheeler Loan EMI Calculator 2025 - Complete Guide</h2>
+                <h2 class="text-3xl font-bold text-gray-800 mb-6">Two Wheeler Loan EMI Calculator 2026 - Complete Guide</h2>
                 
                 <div class="grid md:grid-cols-2 gap-8 mb-8">
                     <div>
@@ -444,7 +444,7 @@ include '../header.php';
                 <h3 class="text-2xl font-semibold text-gray-800 mb-4">Frequently Asked Questions</h3>
                 <div class="space-y-6">
                     <div class="border-l-4 border-blue-400 pl-6">
-                        <h4 class="font-semibold text-gray-800 mb-2">What is the typical interest rate for two-wheeler loans in 2025?</h4>
+                        <h4 class="font-semibold text-gray-800 mb-2">What is the typical interest rate for two-wheeler loans in 2026?</h4>
                         <p class="text-gray-600">Interest rates for two-wheeler loans typically range from 8% to 20% per annum, depending on factors like your credit score, income, and the lender.</p>
                     </div>
                     

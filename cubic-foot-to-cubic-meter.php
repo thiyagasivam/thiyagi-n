@@ -1,19 +1,19 @@
 <?php include 'header.php'; ?>
 
 <!-- SEO Meta Tags -->
-<title>Cubic Foot to Cubic Meter Converter 2025 - Volume Calculator | Thiyagi</title>
-<meta name="description" content="Free online cubic foot to cubic meter converter 2025. Convert ft³ to m³ instantly with accurate volume conversion. Perfect for construction and engineering.">
-<meta name="keywords" content="cubic foot to cubic meter converter 2025, ft3 to m3, volume converter, construction calculator, engineering converter">
+<title>Cubic Foot to Cubic Meter Converter 2026 - Volume Calculator | Thiyagi</title>
+<meta name="description" content="Free online cubic foot to cubic meter converter 2026. Convert ft³ to m³ instantly with accurate volume conversion. Perfect for construction and engineering.">
+<meta name="keywords" content="cubic foot to cubic meter converter 2026, ft3 to m3, volume converter, construction calculator, engineering converter">
 <meta name="author" content="Thiyagi">
-<meta property="og:title" content="Cubic Foot to Cubic Meter Converter 2025 - Volume Calculator">
-<meta property="og:description" content="Free online cubic foot to cubic meter converter 2025. Convert ft³ to m³ instantly with accurate volume conversion.">
+<meta property="og:title" content="Cubic Foot to Cubic Meter Converter 2026 - Volume Calculator">
+<meta property="og:description" content="Free online cubic foot to cubic meter converter 2026. Convert ft³ to m³ instantly with accurate volume conversion.">
 <meta property="og:type" content="website">
 <meta property="og:url" content="https://www.thiyagi.com/cubic-foot-to-cubic-meter.php">
 <meta property="og:image" content="https://www.thiyagi.com/nt.png">
 <meta property="og:site_name" content="Thiyagi">
 <meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:title" content="Cubic Foot to Cubic Meter Converter 2025 - Volume Calculator">
-<meta name="twitter:description" content="Free online cubic foot to cubic meter converter 2025. Convert ft³ to m³ instantly with accurate volume conversion.">
+<meta name="twitter:title" content="Cubic Foot to Cubic Meter Converter 2026 - Volume Calculator">
+<meta name="twitter:description" content="Free online cubic foot to cubic meter converter 2026. Convert ft³ to m³ instantly with accurate volume conversion.">
 <meta name="twitter:image" content="https://www.thiyagi.com/nt.png">
 
 <div class="min-h-screen bg-gradient-to-br from-teal-50 via-green-50 to-emerald-50 py-12">

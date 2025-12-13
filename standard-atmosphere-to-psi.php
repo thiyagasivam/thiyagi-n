@@ -1,19 +1,19 @@
 <?php include 'header.php'; ?>
 
 <!-- SEO Meta Tags -->
-<title>Standard Atmosphere to PSI Converter 2025 - atm to psi Calculator | Thiyagi</title>
-<meta name="description" content="Free online standard atmosphere to PSI converter 2025. Convert atm to psi and psi to atm instantly with accurate pressure conversion.">
-<meta name="keywords" content="standard atmosphere to psi converter 2025, atm to psi, atmospheric pressure, pressure converter, meteorology units">
+<title>Standard Atmosphere to PSI Converter 2026 - atm to psi Calculator | Thiyagi</title>
+<meta name="description" content="Free online standard atmosphere to PSI converter 2026. Convert atm to psi and psi to atm instantly with accurate pressure conversion.">
+<meta name="keywords" content="standard atmosphere to psi converter 2026, atm to psi, atmospheric pressure, pressure converter, meteorology units">
 <meta name="author" content="Thiyagi">
-<meta property="og:title" content="Standard Atmosphere to PSI Converter 2025 - atm to psi Calculator">
-<meta property="og:description" content="Free online standard atmosphere to PSI converter 2025. Convert atm to psi and psi to atm instantly.">
+<meta property="og:title" content="Standard Atmosphere to PSI Converter 2026 - atm to psi Calculator">
+<meta property="og:description" content="Free online standard atmosphere to PSI converter 2026. Convert atm to psi and psi to atm instantly.">
 <meta property="og:type" content="website">
 <meta property="og:url" content="https://www.thiyagi.com/standard-atmosphere-to-psi.php">
 <meta property="og:image" content="https://www.thiyagi.com/nt.png">
 <meta property="og:site_name" content="Thiyagi">
 <meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:title" content="Standard Atmosphere to PSI Converter 2025 - atm to psi Calculator">
-<meta name="twitter:description" content="Free online standard atmosphere to PSI converter 2025. Convert atm to psi and psi to atm instantly.">
+<meta name="twitter:title" content="Standard Atmosphere to PSI Converter 2026 - atm to psi Calculator">
+<meta name="twitter:description" content="Free online standard atmosphere to PSI converter 2026. Convert atm to psi and psi to atm instantly.">
 <meta name="twitter:image" content="https://www.thiyagi.com/nt.png">
 
 <div class="min-h-screen bg-gradient-to-br from-amber-50 via-orange-50 to-red-50 py-12">

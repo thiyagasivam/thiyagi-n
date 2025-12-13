@@ -1,19 +1,19 @@
 <?php include 'header.php'; ?>
 
 <!-- SEO Meta Tags -->
-<title>Cup US to Teaspoon US Converter 2025 - cup to tsp Calculator | Thiyagi</title>
-<meta name="description" content="Free online Cup US to Teaspoon US converter 2025. Convert cup to tsp and tsp to cup instantly with accurate cooking measurement conversion.">
-<meta name="keywords" content="cup to teaspoon converter 2025, cup to tsp US, cooking measurements, baking converter, kitchen units">
+<title>Cup US to Teaspoon US Converter 2026 - cup to tsp Calculator | Thiyagi</title>
+<meta name="description" content="Free online Cup US to Teaspoon US converter 2026. Convert cup to tsp and tsp to cup instantly with accurate cooking measurement conversion.">
+<meta name="keywords" content="cup to teaspoon converter 2026, cup to tsp US, cooking measurements, baking converter, kitchen units">
 <meta name="author" content="Thiyagi">
-<meta property="og:title" content="Cup US to Teaspoon US Converter 2025 - cup to tsp Calculator">
-<meta property="og:description" content="Free online Cup US to Teaspoon US converter 2025. Convert cup to tsp and tsp to cup instantly.">
+<meta property="og:title" content="Cup US to Teaspoon US Converter 2026 - cup to tsp Calculator">
+<meta property="og:description" content="Free online Cup US to Teaspoon US converter 2026. Convert cup to tsp and tsp to cup instantly.">
 <meta property="og:type" content="website">
 <meta property="og:url" content="https://www.thiyagi.com/cup-us-to-teaspoon-us.php">
 <meta property="og:image" content="https://www.thiyagi.com/nt.png">
 <meta property="og:site_name" content="Thiyagi">
 <meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:title" content="Cup US to Teaspoon US Converter 2025 - cup to tsp Calculator">
-<meta name="twitter:description" content="Free online Cup US to Teaspoon US converter 2025. Convert cup to tsp and tsp to cup instantly.">
+<meta name="twitter:title" content="Cup US to Teaspoon US Converter 2026 - cup to tsp Calculator">
+<meta name="twitter:description" content="Free online Cup US to Teaspoon US converter 2026. Convert cup to tsp and tsp to cup instantly.">
 <meta name="twitter:image" content="https://www.thiyagi.com/nt.png">
 
 <div class="min-h-screen bg-gradient-to-br from-pink-50 via-rose-50 to-red-50 py-12">

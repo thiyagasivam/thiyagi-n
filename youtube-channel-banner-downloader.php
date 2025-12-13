@@ -151,8 +151,8 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Free YouTube Channel Banner Downloader 2025 - HD Quality Downloads</title>
-    <meta name="description" content="Download YouTube channel banners in HD quality for free. Get banners in multiple sizes for TV, desktop, tablet, and mobile views (2025).">
+    <title>Free YouTube Channel Banner Downloader 2026 - HD Quality Downloads</title>
+    <meta name="description" content="Download YouTube channel banners in HD quality for free. Get banners in multiple sizes for TV, desktop, tablet, and mobile views (2026).">
     <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" rel="stylesheet">
 
     <!-- JSON-LD Structured Data -->

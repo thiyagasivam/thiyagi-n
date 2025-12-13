@@ -1,19 +1,19 @@
 <?php include 'header.php'; ?>
 
 <!-- SEO Meta Tags -->
-<title>Gram to Pennyweight Converter 2025 - g to dwt Calculator | Thiyagi</title>
-<meta name="description" content="Free online gram to pennyweight converter 2025. Convert g to dwt and dwt to g instantly with accurate weight conversion for precious metals.">
-<meta name="keywords" content="gram to pennyweight converter 2025, g to dwt, precious metals weight, jewelry measurement, troy weight system">
+<title>Gram to Pennyweight Converter 2026 - g to dwt Calculator | Thiyagi</title>
+<meta name="description" content="Free online gram to pennyweight converter 2026. Convert g to dwt and dwt to g instantly with accurate weight conversion for precious metals.">
+<meta name="keywords" content="gram to pennyweight converter 2026, g to dwt, precious metals weight, jewelry measurement, troy weight system">
 <meta name="author" content="Thiyagi">
-<meta property="og:title" content="Gram to Pennyweight Converter 2025 - g to dwt Calculator">
-<meta property="og:description" content="Free online gram to pennyweight converter 2025. Convert g to dwt and dwt to g instantly.">
+<meta property="og:title" content="Gram to Pennyweight Converter 2026 - g to dwt Calculator">
+<meta property="og:description" content="Free online gram to pennyweight converter 2026. Convert g to dwt and dwt to g instantly.">
 <meta property="og:type" content="website">
 <meta property="og:url" content="https://www.thiyagi.com/gram-to-pennyweight.php">
 <meta property="og:image" content="https://www.thiyagi.com/nt.png">
 <meta property="og:site_name" content="Thiyagi">
 <meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:title" content="Gram to Pennyweight Converter 2025 - g to dwt Calculator">
-<meta name="twitter:description" content="Free online gram to pennyweight converter 2025. Convert g to dwt and dwt to g instantly.">
+<meta name="twitter:title" content="Gram to Pennyweight Converter 2026 - g to dwt Calculator">
+<meta name="twitter:description" content="Free online gram to pennyweight converter 2026. Convert g to dwt and dwt to g instantly.">
 <meta name="twitter:image" content="https://www.thiyagi.com/nt.png">
 
 <div class="min-h-screen bg-gradient-to-br from-yellow-50 via-amber-50 to-orange-50 py-12">

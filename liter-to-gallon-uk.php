@@ -1,7 +1,7 @@
 <?php include 'header.php'; ?>
-<title>Liter to UK Gallon Converter 2025 | Volume Conversion Tool | Free Calculator</title>
-<meta name="description" content="Convert liters to UK gallons instantly with our 2025 accurate volume converter. Perfect for fuel calculations and British measurements.">
-<meta name="keywords" content="liter to uk gallon converter 2025, volume conversion calculator, liter gallon uk converter, fuel calculator, british measurements">
+<title>Liter to UK Gallon Converter 2026 | Volume Conversion Tool | Free Calculator</title>
+<meta name="description" content="Convert liters to UK gallons instantly with our 2026 accurate volume converter. Perfect for fuel calculations and British measurements.">
+<meta name="keywords" content="liter to uk gallon converter 2026, volume conversion calculator, liter gallon uk converter, fuel calculator, british measurements">
 <link rel="canonical" href="https://www.thiyagi.com/liter-to-gallon-uk">
 
 <div class="min-h-screen bg-gradient-to-br from-blue-50 to-blue-100 py-12 px-4 sm:px-6 lg:px-8">

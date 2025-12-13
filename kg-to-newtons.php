@@ -1,12 +1,12 @@
 <?php include 'header.php';?>
-<title>Kilograms to Newtons Converter 2025 | Kg to N Calculator | Free Tool</title>
-<meta name="description" content="Professional kilograms to newtons converter 2025. Convert kg to N instantly with precision calculations. Perfect for physics, engineering, and force measurements.">
-<meta name="keywords" content="kilograms to newtons converter 2025, kg to N calculator, force converter, physics calculator, engineering measurements">
+<title>Kilograms to Newtons Converter 2026 | Kg to N Calculator | Free Tool</title>
+<meta name="description" content="Professional kilograms to newtons converter 2026. Convert kg to N instantly with precision calculations. Perfect for physics, engineering, and force measurements.">
+<meta name="keywords" content="kilograms to newtons converter 2026, kg to N calculator, force converter, physics calculator, engineering measurements">
 <link rel="canonical" href="https://www.thiyagi.com/kg-to-newtons">
 
 <!-- Open Graph Meta Tags -->
-<meta property="og:title" content="Kilograms to Newtons Converter 2025 | Kg to N Calculator | Free Tool">
-<meta property="og:description" content="Professional kilograms to newtons converter 2025. Convert kg to N instantly with precision calculations. Perfect for physics, engineering, and force measurements.">
+<meta property="og:title" content="Kilograms to Newtons Converter 2026 | Kg to N Calculator | Free Tool">
+<meta property="og:description" content="Professional kilograms to newtons converter 2026. Convert kg to N instantly with precision calculations. Perfect for physics, engineering, and force measurements.">
 <meta property="og:url" content="https://www.thiyagi.com/kg-to-newtons">
 <meta property="og:type" content="website">
 <meta property="og:image" content="https://www.thiyagi.com/nt.png">
@@ -83,7 +83,7 @@
         </div>
         <h1 class="text-4xl md:text-6xl font-bold text-gray-900 mb-6">
           Kilograms to Newtons Converter
-          <span class="block text-2xl md:text-3xl text-violet-600 mt-2">Professional 2025</span>
+          <span class="block text-2xl md:text-3xl text-violet-600 mt-2">Professional 2026</span>
         </h1>
         <p class="text-xl text-gray-600 mb-8 max-w-4xl mx-auto leading-relaxed">
           Convert kilograms to newtons with precision accuracy. Essential for physics calculations, 

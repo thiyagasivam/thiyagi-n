@@ -2,8 +2,8 @@
 <?php include 'breadcrumb-schema.php';?>
 <?php
 // Set variables for SEO and page information
-$page_title = "Nagaland Electricity Bill Calculator (2025) | Department of Power, Nagaland";
-$page_description = "Calculate your electricity bill for 2025 using the latest Nagaland tariff rates for domestic consumers. Instant results with subsidy options.";
+$page_title = "Nagaland Electricity Bill Calculator (2026) | Department of Power, Nagaland";
+$page_description = "Calculate your electricity bill for 2026 using the latest Nagaland tariff rates for domestic consumers. Instant results with subsidy options.";
 $canonical_url = "https://www.thiyagi.com/electricity-board/nagaland-electricity-bill-calculator";
 $current_year = date('Y');
 ?>
@@ -84,12 +84,12 @@ $current_year = date('Y');
                     </div>
                     <div>
                         <h1 class="text-2xl md:text-3xl font-bold">Department of Power, Nagaland</h1>
-                        <p class="text-nagaland-100">Electricity Bill Calculator (2025)</p>
+                        <p class="text-nagaland-100">Electricity Bill Calculator (2026)</p>
                     </div>
                 </div>
                 <div class="flex items-center space-x-2">
                     <span class="hidden md:inline-block text-nagaland-100">Official Calculator</span>
-                    <span class="bg-nagaland-700 text-white px-3 py-1 rounded-full text-sm font-medium">2025 Tariff</span>
+                    <span class="bg-nagaland-700 text-white px-3 py-1 rounded-full text-sm font-medium">2026 Tariff</span>
                 </div>
             </div>
         </div>
@@ -194,7 +194,7 @@ $current_year = date('Y');
                     </div>
                     
                     <div class="mt-6 print-only">
-                        <p class="text-sm text-gray-500">Calculated on <?php echo date('d M Y'); ?> using Nagaland 2025 Domestic Tariff Rates</p>
+                        <p class="text-sm text-gray-500">Calculated on <?php echo date('d M Y'); ?> using Nagaland 2026 Domestic Tariff Rates</p>
                     </div>
                 </div>
             </div>
@@ -202,7 +202,7 @@ $current_year = date('Y');
             <!-- Tariff Information Section -->
             <div class="bg-white rounded-xl shadow-md overflow-hidden">
                 <div class="p-6 md:p-8">
-                    <h2 class="text-2xl font-bold text-gray-800 mb-6">2025 Domestic Tariff Rates</h2>
+                    <h2 class="text-2xl font-bold text-gray-800 mb-6">2026 Domestic Tariff Rates</h2>
                     
                     <div class="overflow-x-auto">
                         <table class="min-w-full divide-y divide-gray-200">
@@ -257,7 +257,7 @@ $current_year = date('Y');
                             </div>
                             <div class="ml-3">
                                 <p class="text-sm text-blue-700">
-                                    <strong>Note:</strong> Tariff rates are effective from 1st January 2025 as per Department of Power, Nagaland notification. Subsidy may apply for eligible consumers.
+                                    <strong>Note:</strong> Tariff rates are effective from 1st January 2026 as per Department of Power, Nagaland notification. Subsidy may apply for eligible consumers.
                                 </p>
                             </div>
                         </div>
@@ -334,7 +334,7 @@ $current_year = date('Y');
             const printBtn = document.getElementById('printBtn');
             const shareBtn = document.getElementById('shareBtn');
             
-            // Tariff rates for 2025
+            // Tariff rates for 2026
             const tariffSlabs = [
                 { min: 0, max: 100, rate: 3.00, color: 'bg-green-100 text-green-800' },
                 { min: 101, max: 200, rate: 4.50, color: 'bg-blue-100 text-blue-800' },
@@ -422,7 +422,7 @@ $current_year = date('Y');
                 
                 const shareData = {
                     title: 'My Electricity Bill Estimate',
-                    text: `My Nagaland electricity bill estimate for ${units} units is ${total} (2025 rates). Calculate yours!`,
+                    text: `My Nagaland electricity bill estimate for ${units} units is ${total} (2026 rates). Calculate yours!`,
                     url: window.location.href
                 };
                 

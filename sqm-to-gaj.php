@@ -1,12 +1,12 @@
 <?php include 'header.php';?>
-<title>Square Meter to Gaj Converter 2025 | Sqm to Gaj | Free Tool</title>
-<meta name="description" content="Convert square meters to gaj instantly with our 2025 accurate converter. Perfect sqm to gaj conversion with real-time calculations for Indian property measurements and real estate.">
-<meta name="keywords" content="square meter to gaj 2025, sqm to gaj converter, meter to gaj conversion, area conversion 2025, Indian property measurement, real estate calculator">
+<title>Square Meter to Gaj Converter 2026 | Sqm to Gaj | Free Tool</title>
+<meta name="description" content="Convert square meters to gaj instantly with our 2026 accurate converter. Perfect sqm to gaj conversion with real-time calculations for Indian property measurements and real estate.">
+<meta name="keywords" content="square meter to gaj 2026, sqm to gaj converter, meter to gaj conversion, area conversion 2026, Indian property measurement, real estate calculator">
 <link rel="canonical" href="https://www.thiyagi.com/sqm-to-gaj">
 
 <!-- Open Graph Meta Tags -->
-<meta property="og:title" content="Square Meter to Gaj Converter 2025 | Sqm to Gaj | Free Tool">
-<meta property="og:description" content="Convert square meters to gaj instantly with our 2025 accurate converter. Perfect sqm to gaj conversion with real-time calculations for Indian property measurements and real estate.">
+<meta property="og:title" content="Square Meter to Gaj Converter 2026 | Sqm to Gaj | Free Tool">
+<meta property="og:description" content="Convert square meters to gaj instantly with our 2026 accurate converter. Perfect sqm to gaj conversion with real-time calculations for Indian property measurements and real estate.">
 <meta property="og:url" content="https://www.thiyagi.com/sqm-to-gaj">
 <meta property="og:type" content="website">
 <meta property="og:image" content="https://www.thiyagi.com/nt.png">
@@ -14,8 +14,8 @@
 
 <!-- Twitter Card Meta Tags -->
 <meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:title" content="Square Meter to Gaj Converter 2025 | Sqm to Gaj | Free Tool">
-<meta name="twitter:description" content="Convert square meters to gaj instantly with our 2025 accurate converter. Perfect sqm to gaj conversion with real-time calculations for Indian property measurements and real estate.">
+<meta name="twitter:title" content="Square Meter to Gaj Converter 2026 | Sqm to Gaj | Free Tool">
+<meta name="twitter:description" content="Convert square meters to gaj instantly with our 2026 accurate converter. Perfect sqm to gaj conversion with real-time calculations for Indian property measurements and real estate.">
 <meta name="twitter:image" content="https://www.thiyagi.com/nt.png">
 
 <!-- Additional SEO Meta Tags -->
@@ -44,7 +44,7 @@
           Square Meter to Gaj Converter
         </h1>
         <p class="text-xl text-gray-600 mb-8 max-w-3xl mx-auto">
-          Convert square meters to gaj instantly with our accurate 2025 calculator. 
+          Convert square meters to gaj instantly with our accurate 2026 calculator. 
           Perfect for Indian real estate, property measurements, and land calculations.
         </p>
       </div>
@@ -162,15 +162,15 @@
     <article class="bg-white rounded-xl shadow-lg p-8">
       <h2 class="text-2xl font-bold text-gray-800 mb-6 flex items-center gap-3">
         <i class="fas fa-info-circle text-amber-600" aria-hidden="true"></i>
-        Square Meter to Gaj Conversion 2025
+        Square Meter to Gaj Conversion 2026
       </h2>
       <div class="prose max-w-none text-gray-600">
         <p class="mb-4">
-          Converting square meters to gaj is essential for Indian real estate transactions in 2025. Gaj is a traditional Indian unit 
+          Converting square meters to gaj is essential for Indian real estate transactions in 2026. Gaj is a traditional Indian unit 
           of area measurement widely used in property dealings. One gaj equals approximately 0.8361 square meters.
         </p>
         <p class="mb-6">
-          Our 2025 converter provides instant and accurate conversions from square meters to gaj, essential for property buyers, 
+          Our 2026 converter provides instant and accurate conversions from square meters to gaj, essential for property buyers, 
           real estate agents, and anyone dealing with Indian property measurements and international property standards.
         </p>
       </div>

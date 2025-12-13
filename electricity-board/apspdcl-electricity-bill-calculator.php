@@ -7,7 +7,7 @@ $discos = [
     'APEPDCL' => 'Andhra Pradesh Eastern Power Distribution Company'
 ];
 
-// 2025 Tariff Slabs
+// 2026 Tariff Slabs
 $slabs = [
     ['min' => 0, 'max' => 100, 'rate' => 0.00],
     ['min' => 101, 'max' => 200, 'rate' => 2.35],
@@ -55,8 +55,8 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>APSPDCL / APEPDCL Electricity Bill Calculator 2025 – Andhra Pradesh DISCOM</title>
-    <meta name="description" content="Calculate your electricity bill online using the latest APSPDCL / APEPDCL slab rates for 2025. Fast, accurate, and mobile-friendly bill estimator.">
+    <title>APSPDCL / APEPDCL Electricity Bill Calculator 2026 – Andhra Pradesh DISCOM</title>
+    <meta name="description" content="Calculate your electricity bill online using the latest APSPDCL / APEPDCL slab rates for 2026. Fast, accurate, and mobile-friendly bill estimator.">
     <link rel="canonical" href="https://www.thiyagi.com/electricity-board/apspdcl-electricity-bill-calculator" />
     
     <!-- Tailwind CSS -->
@@ -260,7 +260,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
                 <!-- Tariff Information -->
                 <div class="mt-8 bg-white dark:bg-gray-800 rounded-xl shadow-md overflow-hidden">
                     <div class="p-6 md:p-8">
-                        <h2 class="text-xl font-semibold text-gray-800 dark:text-gray-200 mb-4">2025 Tariff Slabs</h2>
+                        <h2 class="text-xl font-semibold text-gray-800 dark:text-gray-200 mb-4">2026 Tariff Slabs</h2>
                         <div class="overflow-x-auto">
                             <table class="min-w-full divide-y divide-gray-200 dark:divide-gray-600">
                                 <thead class="bg-gray-50 dark:bg-gray-700">
@@ -286,7 +286,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
                             </table>
                         </div>
                         <p class="text-sm text-gray-500 dark:text-gray-400 mt-4">
-                            * Rates are subject to change by AP DISCOMs. Last updated: June 2025.
+                            * Rates are subject to change by AP DISCOMs. Last updated: June 2026.
                         </p>
                     </div>
                 </div>
@@ -317,7 +317,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
             const units = <?= $units ?? 0 ?>;
             const discom = '<?= $discom ?? 'APSPDCL' ?>';
             const total = <?= $total ?? 0 ?>;
-            const text = `My ${discom} Electricity Bill Calculation: ${units} units = ₹${total.toFixed(2)} (2025 rates)`;
+            const text = `My ${discom} Electricity Bill Calculation: ${units} units = ₹${total.toFixed(2)} (2026 rates)`;
             const url = window.location.href;
             
             if (navigator.share) {

@@ -1,12 +1,12 @@
 <?php include 'header.php';?>
-<title>Bigha to Katha Converter 2025 | Bigha to Katha | Free Tool</title>
-<meta name="description" content="Convert bigha to katha instantly with our 2025 accurate converter. Perfect bigha to katha conversion with real-time calculations for Indian land measurement.">
-<meta name="keywords" content="bigha to katha 2025, bigha katha converter, Indian land conversion 2025, bigha katha calculation, traditional land measurement">
+<title>Bigha to Katha Converter 2026 | Bigha to Katha | Free Tool</title>
+<meta name="description" content="Convert bigha to katha instantly with our 2026 accurate converter. Perfect bigha to katha conversion with real-time calculations for Indian land measurement.">
+<meta name="keywords" content="bigha to katha 2026, bigha katha converter, Indian land conversion 2026, bigha katha calculation, traditional land measurement">
 <link rel="canonical" href="https://www.thiyagi.com/bigha-to-katha">
 
 <!-- Open Graph Meta Tags -->
-<meta property="og:title" content="Bigha to Katha Converter 2025 | Bigha to Katha | Free Tool">
-<meta property="og:description" content="Convert bigha to katha instantly with our 2025 accurate converter. Perfect bigha to katha conversion with real-time calculations for Indian land measurement.">
+<meta property="og:title" content="Bigha to Katha Converter 2026 | Bigha to Katha | Free Tool">
+<meta property="og:description" content="Convert bigha to katha instantly with our 2026 accurate converter. Perfect bigha to katha conversion with real-time calculations for Indian land measurement.">
 <meta property="og:url" content="https://www.thiyagi.com/bigha-to-katha">
 <meta property="og:type" content="website">
 <meta property="og:image" content="https://www.thiyagi.com/nt.png">
@@ -14,8 +14,8 @@
 
 <!-- Twitter Card Meta Tags -->
 <meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:title" content="Bigha to Katha Converter 2025 | Bigha to Katha | Free Tool">
-<meta name="twitter:description" content="Convert bigha to katha instantly with our 2025 accurate converter. Perfect bigha to katha conversion with real-time calculations for Indian land measurement.">
+<meta name="twitter:title" content="Bigha to Katha Converter 2026 | Bigha to Katha | Free Tool">
+<meta name="twitter:description" content="Convert bigha to katha instantly with our 2026 accurate converter. Perfect bigha to katha conversion with real-time calculations for Indian land measurement.">
 <meta name="twitter:image" content="https://www.thiyagi.com/nt.png">
 
 <!-- Additional SEO Meta Tags -->
@@ -39,7 +39,7 @@
           Bigha to Katha Converter
         </h1>
         <p class="text-xl text-gray-600 mb-8 max-w-3xl mx-auto">
-          Convert bigha to katha instantly with our accurate 2025 calculator. 
+          Convert bigha to katha instantly with our accurate 2026 calculator. 
           Perfect for Indian agricultural land measurement and documentation.
         </p>
       </div>

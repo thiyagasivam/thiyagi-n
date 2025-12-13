@@ -37,19 +37,19 @@ $conn->close();
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="Find authorized Infinix service centers near me 2025. Expert smartphone repair services, genuine parts, warranty support. Get professional service for Infinix Smart, Note, Hot & Zero series devices.">
-    <meta name="keywords" content="Infinix service center near me 2025, Infinix authorized service center, smartphone repair, mobile repair, Infinix Smart series, Infinix Note series, Infinix Hot series, Infinix Zero series, screen replacement, battery replacement">
+    <meta name="description" content="Find authorized Infinix service centers near me 2026. Expert smartphone repair services, genuine parts, warranty support. Get professional service for Infinix Smart, Note, Hot & Zero series devices.">
+    <meta name="keywords" content="Infinix service center near me 2026, Infinix authorized service center, smartphone repair, mobile repair, Infinix Smart series, Infinix Note series, Infinix Hot series, Infinix Zero series, screen replacement, battery replacement">
     <meta name="author" content="Infinix Mobility">
     <meta name="robots" content="index, follow">
-    <meta property="og:title" content="Infinix Authorized Service Centers Near Me 2025">
+    <meta property="og:title" content="Infinix Authorized Service Centers Near Me 2026">
     <meta property="og:description" content="Find authorized Infinix service centers near you. Expert smartphone repair services with genuine parts and warranty support for all Infinix devices.">
     <meta property="og:type" content="website">
     <meta property="og:url" content="<?= htmlspecialchars($_SERVER['REQUEST_URI'], ENT_QUOTES, 'UTF-8') ?>">
     <meta property="og:image" content="/assets/images/infinix-service-centers.jpg">
     <meta name="twitter:card" content="summary_large_image">
-    <meta name="twitter:title" content="Infinix Authorized Service Centers Near Me 2025">
+    <meta name="twitter:title" content="Infinix Authorized Service Centers Near Me 2026">
     <meta name="twitter:description" content="Find authorized Infinix service centers near you. Expert smartphone repair services with genuine parts and warranty support.">
-    <title>Infinix Authorized Service Centers Near Me 2025</title>
+    <title>Infinix Authorized Service Centers Near Me 2026</title>
     <script src="https://cdn.tailwindcss.com"></script>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
     <style>
@@ -76,7 +76,7 @@ $conn->close();
     {
         "@context": "https://schema.org",
         "@type": "CollectionPage",
-        "name": "Infinix Authorized Service Centers Near Me 2025",
+        "name": "Infinix Authorized Service Centers Near Me 2026",
         "description": "Find authorized Infinix service centers near you. Expert smartphone repair services with genuine parts and warranty support for all Infinix devices.",
         "url": "<?= htmlspecialchars($_SERVER['REQUEST_URI'], ENT_QUOTES, 'UTF-8') ?>",
         "mainEntity": {
@@ -227,7 +227,7 @@ $conn->close();
             <div class="flex items-center justify-between">
                 <div class="flex items-center space-x-3">
                     <i class="fas fa-mobile-alt infinix-primary text-2xl"></i>
-                    <h1 class="text-xl font-bold text-gray-800">Infinix Service Centers Near Me 2025</h1>
+                    <h1 class="text-xl font-bold text-gray-800">Infinix Service Centers Near Me 2026</h1>
                 </div>
                 <span class="bg-gray-100 text-gray-800 px-3 py-1 rounded-full text-sm">
                     <i class="fas fa-store mr-1"></i>
@@ -241,7 +241,7 @@ $conn->close();
     <div class="infinix-gradient">
         <div class="container mx-auto px-4 py-8">
             <div class="max-w-3xl mx-auto text-center">
-                <h2 class="text-2xl font-bold text-gray-800 mb-2">Find an Authorized Infinix Service Center Near Me 2025</h2>
+                <h2 class="text-2xl font-bold text-gray-800 mb-2">Find an Authorized Infinix Service Center Near Me 2026</h2>
                 <p class="text-gray-600 mb-6">Get professional service for your Infinix smartphones by certified technicians</p>
                 
                 <!-- Search Form -->

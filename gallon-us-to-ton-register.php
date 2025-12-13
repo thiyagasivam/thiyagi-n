@@ -1,19 +1,19 @@
 <?php include 'header.php'; ?>
 
 <!-- SEO Meta Tags -->
-<title>Gallon US to Ton Register Converter 2025 - gal to ton reg Calculator | Thiyagi</title>
-<meta name="description" content="Free online Gallon US to Ton Register converter 2025. Convert gal to ton reg and ton reg to gal instantly with accurate shipping volume conversion.">
-<meta name="keywords" content="gallon US to ton register converter 2025, gal to ton reg, shipping volume, maritime conversion, cargo capacity, vessel tonnage">
+<title>Gallon US to Ton Register Converter 2026 - gal to ton reg Calculator | Thiyagi</title>
+<meta name="description" content="Free online Gallon US to Ton Register converter 2026. Convert gal to ton reg and ton reg to gal instantly with accurate shipping volume conversion.">
+<meta name="keywords" content="gallon US to ton register converter 2026, gal to ton reg, shipping volume, maritime conversion, cargo capacity, vessel tonnage">
 <meta name="author" content="Thiyagi">
-<meta property="og:title" content="Gallon US to Ton Register Converter 2025 - gal to ton reg Calculator">
-<meta property="og:description" content="Free online Gallon US to Ton Register converter 2025. Convert gal to ton reg and ton reg to gal instantly.">
+<meta property="og:title" content="Gallon US to Ton Register Converter 2026 - gal to ton reg Calculator">
+<meta property="og:description" content="Free online Gallon US to Ton Register converter 2026. Convert gal to ton reg and ton reg to gal instantly.">
 <meta property="og:type" content="website">
 <meta property="og:url" content="https://www.thiyagi.com/gallon-us-to-ton-register.php">
 <meta property="og:image" content="https://www.thiyagi.com/nt.png">
 <meta property="og:site_name" content="Thiyagi">
 <meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:title" content="Gallon US to Ton Register Converter 2025 - gal to ton reg Calculator">
-<meta name="twitter:description" content="Free online Gallon US to Ton Register converter 2025. Convert gal to ton reg and ton reg to gal instantly.">
+<meta name="twitter:title" content="Gallon US to Ton Register Converter 2026 - gal to ton reg Calculator">
+<meta name="twitter:description" content="Free online Gallon US to Ton Register converter 2026. Convert gal to ton reg and ton reg to gal instantly.">
 <meta name="twitter:image" content="https://www.thiyagi.com/nt.png">
 
 <div class="min-h-screen bg-gradient-to-br from-teal-50 via-cyan-50 to-blue-50 py-12">

@@ -48,8 +48,8 @@ try {
 
     // Add static/default content for other fields
     $center['email'] = 'support@mi-service.in';
-    $center['page_title'] = $center['shop'] . ' | Authorized Xiaomi Service Center Near Me 2025';
-    $center['about'] = $center['shop'] .' is an official authorized Xiaomi service center Near Me 2025 providing professional repairs and support for all Xiaomi, Redmi, and POCO devices. Our certified technicians use genuine parts to ensure quality service.';
+    $center['page_title'] = $center['shop'] . ' | Authorized Xiaomi Service Center Near Me 2026';
+    $center['about'] = $center['shop'] .' is an official authorized Xiaomi service center Near Me 2026 providing professional repairs and support for all Xiaomi, Redmi, and POCO devices. Our certified technicians use genuine parts to ensure quality service.';
     // $center['about'] = 'Official authorized Xiaomi service center providing professional  repairs and support for all Xiaomi, Redmi, and POCO devices. Our certified technicians use genuine parts.';
     $center['services'] = [
         'Screen Replacement',
@@ -182,7 +182,7 @@ try {
         </div>
 
         <section class="card">
-            <h2>About Our Xiaomi Service Center Near Me 2025</h2>
+            <h2>About Our Xiaomi Service Center Near Me 2026</h2>
             <p><?= htmlspecialchars($center['about'], ENT_QUOTES, 'UTF-8') ?></p>
             <p>We specialize in repairing all Xiaomi, Redmi, and POCO devices with genuine parts and manufacturer-approved techniques. Our technicians are certified by Xiaomi to ensure your device receives the best care possible.</p>
         </section>

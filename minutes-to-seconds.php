@@ -1,7 +1,7 @@
 <?php include 'header.php'; ?>
-<title>Minutes to Seconds Converter 2025 | Time Conversion Tool | Free Calculator</title>
-<meta name="description" content="Convert minutes to seconds instantly with our 2025 accurate time converter. Perfect for precise timing, sports calculations, and duration measurements.">
-<meta name="keywords" content="minutes to seconds converter 2025, time conversion calculator, minute second converter, timing calculator, sports timer">
+<title>Minutes to Seconds Converter 2026 | Time Conversion Tool | Free Calculator</title>
+<meta name="description" content="Convert minutes to seconds instantly with our 2026 accurate time converter. Perfect for precise timing, sports calculations, and duration measurements.">
+<meta name="keywords" content="minutes to seconds converter 2026, time conversion calculator, minute second converter, timing calculator, sports timer">
 <link rel="canonical" href="https://www.thiyagi.com/minutes-to-seconds">
 
 <div class="min-h-screen bg-gradient-to-br from-purple-50 to-purple-100 py-12 px-4 sm:px-6 lg:px-8">

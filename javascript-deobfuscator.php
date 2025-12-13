@@ -63,8 +63,8 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>JavaScript Deobfuscator 2025 - Free Online Code Unpacker & Decoder Tool</title>
-<meta name="description" content="Free online JavaScript deobfuscator tool for 2025. Decode and unpack obfuscated JS code instantly. Clean and analyze minified JavaScript with our web-based deobfuscator.">
+    <title>JavaScript Deobfuscator 2026 - Free Online Code Unpacker & Decoder Tool</title>
+<meta name="description" content="Free online JavaScript deobfuscator tool for 2026. Decode and unpack obfuscated JS code instantly. Clean and analyze minified JavaScript with our web-based deobfuscator.">
     <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" rel="stylesheet">
     <style>
         /* Additional custom styles */

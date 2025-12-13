@@ -1,19 +1,19 @@
 <?php include 'header.php'; ?>
 
 <!-- SEO Meta Tags -->
-<title>Joules to Kilojoules Converter 2025 - Energy Calculator | Thiyagi</title>
-<meta name="description" content="Free online joules to kilojoules converter 2025. Convert J to kJ instantly with accurate energy conversion for scientific and engineering calculations.">
-<meta name="keywords" content="joules to kilojoules converter 2025, J to kJ, energy converter, physics calculator, engineering calculator">
+<title>Joules to Kilojoules Converter 2026 - Energy Calculator | Thiyagi</title>
+<meta name="description" content="Free online joules to kilojoules converter 2026. Convert J to kJ instantly with accurate energy conversion for scientific and engineering calculations.">
+<meta name="keywords" content="joules to kilojoules converter 2026, J to kJ, energy converter, physics calculator, engineering calculator">
 <meta name="author" content="Thiyagi">
-<meta property="og:title" content="Joules to Kilojoules Converter 2025 - Energy Calculator">
-<meta property="og:description" content="Free online joules to kilojoules converter 2025. Convert J to kJ instantly with accurate energy conversion.">
+<meta property="og:title" content="Joules to Kilojoules Converter 2026 - Energy Calculator">
+<meta property="og:description" content="Free online joules to kilojoules converter 2026. Convert J to kJ instantly with accurate energy conversion.">
 <meta property="og:type" content="website">
 <meta property="og:url" content="https://www.thiyagi.com/j-to-kj.php">
 <meta property="og:image" content="https://www.thiyagi.com/nt.png">
 <meta property="og:site_name" content="Thiyagi">
 <meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:title" content="Joules to Kilojoules Converter 2025 - Energy Calculator">
-<meta name="twitter:description" content="Free online joules to kilojoules converter 2025. Convert J to kJ instantly.">
+<meta name="twitter:title" content="Joules to Kilojoules Converter 2026 - Energy Calculator">
+<meta name="twitter:description" content="Free online joules to kilojoules converter 2026. Convert J to kJ instantly.">
 <meta name="twitter:image" content="https://www.thiyagi.com/nt.png">
 
 <div class="min-h-screen bg-gradient-to-br from-red-50 via-orange-50 to-yellow-50 py-12">

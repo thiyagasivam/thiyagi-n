@@ -1,19 +1,19 @@
 <?php include 'header.php'; ?>
 
 <!-- SEO Meta Tags -->
-<title>Nano to Micro Converter 2025 - n to μ Prefix Calculator | Thiyagi</title>
-<meta name="description" content="Free online Nano to Micro converter 2025. Convert n to μ and μ to n instantly with accurate SI prefix conversion.">
-<meta name="keywords" content="nano to micro converter 2025, n to μ, SI prefix conversion, metric units calculator">
+<title>Nano to Micro Converter 2026 - n to μ Prefix Calculator | Thiyagi</title>
+<meta name="description" content="Free online Nano to Micro converter 2026. Convert n to μ and μ to n instantly with accurate SI prefix conversion.">
+<meta name="keywords" content="nano to micro converter 2026, n to μ, SI prefix conversion, metric units calculator">
 <meta name="author" content="Thiyagi">
-<meta property="og:title" content="Nano to Micro Converter 2025 - n to μ Prefix Calculator">
-<meta property="og:description" content="Free online Nano to Micro converter 2025. Convert n to μ and μ to n instantly.">
+<meta property="og:title" content="Nano to Micro Converter 2026 - n to μ Prefix Calculator">
+<meta property="og:description" content="Free online Nano to Micro converter 2026. Convert n to μ and μ to n instantly.">
 <meta property="og:type" content="website">
 <meta property="og:url" content="https://www.thiyagi.com/nano-to-micro.php">
 <meta property="og:image" content="https://www.thiyagi.com/nt.png">
 <meta property="og:site_name" content="Thiyagi">
 <meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:title" content="Nano to Micro Converter 2025 - n to μ Prefix Calculator">
-<meta property="twitter:description" content="Free online Nano to Micro converter 2025. Convert n to μ and μ to n instantly.">
+<meta name="twitter:title" content="Nano to Micro Converter 2026 - n to μ Prefix Calculator">
+<meta property="twitter:description" content="Free online Nano to Micro converter 2026. Convert n to μ and μ to n instantly.">
 <meta name="twitter:image" content="https://www.thiyagi.com/nt.png">
 
 <div class="min-h-screen bg-gradient-to-br from-green-50 via-emerald-50 to-teal-50 py-12">

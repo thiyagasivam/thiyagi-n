@@ -1,19 +1,19 @@
 <?php include 'header.php'; ?>
 
 <!-- SEO Meta Tags -->
-<title>Years to Days Converter 2025 - yr to days Calculator | Thiyagi</title>
-<meta name="description" content="Free online Years to Days converter 2025. Convert yr to days and days to yr instantly with accurate time conversion including leap years.">
-<meta name="keywords" content="years to days converter 2025, yr to days, time converter, calendar conversion, age calculation, date conversion">
+<title>Years to Days Converter 2026 - yr to days Calculator | Thiyagi</title>
+<meta name="description" content="Free online Years to Days converter 2026. Convert yr to days and days to yr instantly with accurate time conversion including leap years.">
+<meta name="keywords" content="years to days converter 2026, yr to days, time converter, calendar conversion, age calculation, date conversion">
 <meta name="author" content="Thiyagi">
-<meta property="og:title" content="Years to Days Converter 2025 - yr to days Calculator">
-<meta property="og:description" content="Free online Years to Days converter 2025. Convert yr to days and days to yr instantly.">
+<meta property="og:title" content="Years to Days Converter 2026 - yr to days Calculator">
+<meta property="og:description" content="Free online Years to Days converter 2026. Convert yr to days and days to yr instantly.">
 <meta property="og:type" content="website">
 <meta property="og:url" content="https://www.thiyagi.com/years-to-days.php">
 <meta property="og:image" content="https://www.thiyagi.com/nt.png">
 <meta property="og:site_name" content="Thiyagi">
 <meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:title" content="Years to Days Converter 2025 - yr to days Calculator">
-<meta name="twitter:description" content="Free online Years to Days converter 2025. Convert yr to days and days to yr instantly.">
+<meta name="twitter:title" content="Years to Days Converter 2026 - yr to days Calculator">
+<meta name="twitter:description" content="Free online Years to Days converter 2026. Convert yr to days and days to yr instantly.">
 <meta name="twitter:image" content="https://www.thiyagi.com/nt.png">
 
 <div class="min-h-screen bg-gradient-to-br from-yellow-50 via-amber-50 to-orange-50 py-12">

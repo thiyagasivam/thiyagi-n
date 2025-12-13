@@ -1,19 +1,19 @@
 <?php include 'header.php'; ?>
 
 <!-- SEO Meta Tags -->
-<title>Quart (US) to Milliliter Converter 2025 - Volume Calculator | Thiyagi</title>
-<meta name="description" content="Free online quart to milliliter converter 2025. Convert US quarts to ml instantly. Perfect for cooking and beverage measurements.">
-<meta name="keywords" content="quart to milliliter converter 2025, US quart to ml, cooking converter, beverage calculator, volume measurement">
+<title>Quart (US) to Milliliter Converter 2026 - Volume Calculator | Thiyagi</title>
+<meta name="description" content="Free online quart to milliliter converter 2026. Convert US quarts to ml instantly. Perfect for cooking and beverage measurements.">
+<meta name="keywords" content="quart to milliliter converter 2026, US quart to ml, cooking converter, beverage calculator, volume measurement">
 <meta name="author" content="Thiyagi">
-<meta property="og:title" content="Quart (US) to Milliliter Converter 2025 - Volume Calculator">
-<meta property="og:description" content="Free online quart to milliliter converter 2025. Convert US quarts to ml instantly.">
+<meta property="og:title" content="Quart (US) to Milliliter Converter 2026 - Volume Calculator">
+<meta property="og:description" content="Free online quart to milliliter converter 2026. Convert US quarts to ml instantly.">
 <meta property="og:type" content="website">
 <meta property="og:url" content="https://www.thiyagi.com/quart-us-to-milliliter.php">
 <meta property="og:image" content="https://www.thiyagi.com/nt.png">
 <meta property="og:site_name" content="Thiyagi">
 <meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:title" content="Quart (US) to Milliliter Converter 2025 - Volume Calculator">
-<meta name="twitter:description" content="Free online quart to milliliter converter 2025. Convert US quarts to ml instantly.">
+<meta name="twitter:title" content="Quart (US) to Milliliter Converter 2026 - Volume Calculator">
+<meta name="twitter:description" content="Free online quart to milliliter converter 2026. Convert US quarts to ml instantly.">
 <meta name="twitter:image" content="https://www.thiyagi.com/nt.png">
 
 <div class="min-h-screen bg-gradient-to-br from-cyan-50 via-blue-50 to-indigo-50 py-12">

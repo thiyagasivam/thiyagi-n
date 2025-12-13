@@ -3,10 +3,10 @@
 <?php include 'breadcrumb-schema.php';?>
 <?php
 /**
- * Goa Electricity Bill Calculator (2025)
+ * Goa Electricity Bill Calculator (2026)
  * Single-file PHP solution with Tailwind CSS UI
  */
-// Define tariff slabs (2025 rates - placeholder, verify with official rates)
+// Define tariff slabs (2026 rates - placeholder, verify with official rates)
 $tariff_slabs = [
     ['min' => 0, 'max' => 100, 'rate' => 0.00],
     ['min' => 101, 'max' => 200, 'rate' => 1.50],
@@ -68,8 +68,8 @@ if ($units > 0) {
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Goa Electricity Bill Calculator 2025 - Goa Power</title>
-    <meta name="description" content="Calculate your Goa electricity bill with the latest 2025 tariff rates. Instant estimates for domestic consumers.">
+    <title>Goa Electricity Bill Calculator 2026 - Goa Power</title>
+    <meta name="description" content="Calculate your Goa electricity bill with the latest 2026 tariff rates. Instant estimates for domestic consumers.">
     <link rel="canonical" href="https://www.thiyagi.com/electricity-board/goa-electricity-bill-calculator" />
     <!-- Schema.org markup -->
     <script type="application/ld+json">
@@ -78,7 +78,7 @@ if ($units > 0) {
         "@type": "WebApplication",
         "name": "Goa Electricity Bill Calculator",
         "url": "https://www.thiyagi.com/electricity-board/goa-electricity-bill-calculator",
-        "description": "Calculator for estimating Goa Electricity Department bills based on 2025 slab rates.",
+        "description": "Calculator for estimating Goa Electricity Department bills based on 2026 slab rates.",
         "applicationCategory": "UtilityApplication",
         "operatingSystem": "Web Browser"
     }
@@ -220,7 +220,7 @@ if ($units > 0) {
 <body class="bg-gray-100">
     <div class="max-w-4xl mx-auto px-4 py-8">
         <header class="text-center mb-10">
-            <h1 class="text-3xl font-bold text-blue-800 mb-2">Goa Electricity Bill Calculator 2025</h1>
+            <h1 class="text-3xl font-bold text-blue-800 mb-2">Goa Electricity Bill Calculator 2026</h1>
             <p class="text-gray-600">Calculate your Goa power bill with latest tariff rates</p>
         </header>
         

@@ -1,19 +1,19 @@
 <?php include 'header.php'; ?>
 
 <!-- SEO Meta Tags -->
-<title>Minutes to Days Converter 2025 - min to day Calculator | Thiyagi</title>
-<meta name="description" content="Free online minutes to days converter 2025. Convert minutes to days and days to minutes instantly with accurate time conversion.">
-<meta name="keywords" content="minutes to days converter 2025, min to day calculator, time converter, duration conversion, time units">
+<title>Minutes to Days Converter 2026 - min to day Calculator | Thiyagi</title>
+<meta name="description" content="Free online minutes to days converter 2026. Convert minutes to days and days to minutes instantly with accurate time conversion.">
+<meta name="keywords" content="minutes to days converter 2026, min to day calculator, time converter, duration conversion, time units">
 <meta name="author" content="Thiyagi">
-<meta property="og:title" content="Minutes to Days Converter 2025 - min to day Calculator">
-<meta property="og:description" content="Free online minutes to days converter 2025. Convert minutes to days and days to minutes instantly.">
+<meta property="og:title" content="Minutes to Days Converter 2026 - min to day Calculator">
+<meta property="og:description" content="Free online minutes to days converter 2026. Convert minutes to days and days to minutes instantly.">
 <meta property="og:type" content="website">
 <meta property="og:url" content="https://www.thiyagi.com/minutes-to-days.php">
 <meta property="og:image" content="https://www.thiyagi.com/nt.png">
 <meta property="og:site_name" content="Thiyagi">
 <meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:title" content="Minutes to Days Converter 2025 - min to day Calculator">
-<meta name="twitter:description" content="Free online minutes to days converter 2025. Convert minutes to days and days to minutes instantly.">
+<meta name="twitter:title" content="Minutes to Days Converter 2026 - min to day Calculator">
+<meta name="twitter:description" content="Free online minutes to days converter 2026. Convert minutes to days and days to minutes instantly.">
 <meta name="twitter:image" content="https://www.thiyagi.com/nt.png">
 
 <div class="min-h-screen bg-gradient-to-br from-sky-50 via-blue-50 to-indigo-50 py-12">

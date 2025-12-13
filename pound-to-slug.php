@@ -1,19 +1,19 @@
 <?php include 'header.php'; ?>
 
 <!-- SEO Meta Tags -->
-<title>Pound to Slug Converter 2025 - lb to slug Mass Calculator | Thiyagi</title>
-<meta name="description" content="Free online Pound to Slug converter 2025. Convert lb to slug and slug to lb instantly with accurate mass conversion.">
-<meta name="keywords" content="pound to slug converter 2025, lb to slug, mass conversion, engineering units calculator">
+<title>Pound to Slug Converter 2026 - lb to slug Mass Calculator | Thiyagi</title>
+<meta name="description" content="Free online Pound to Slug converter 2026. Convert lb to slug and slug to lb instantly with accurate mass conversion.">
+<meta name="keywords" content="pound to slug converter 2026, lb to slug, mass conversion, engineering units calculator">
 <meta name="author" content="Thiyagi">
-<meta property="og:title" content="Pound to Slug Converter 2025 - lb to slug Mass Calculator">
-<meta property="og:description" content="Free online Pound to Slug converter 2025. Convert lb to slug and slug to lb instantly.">
+<meta property="og:title" content="Pound to Slug Converter 2026 - lb to slug Mass Calculator">
+<meta property="og:description" content="Free online Pound to Slug converter 2026. Convert lb to slug and slug to lb instantly.">
 <meta property="og:type" content="website">
 <meta property="og:url" content="https://www.thiyagi.com/pound-to-slug.php">
 <meta property="og:image" content="https://www.thiyagi.com/nt.png">
 <meta property="og:site_name" content="Thiyagi">
 <meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:title" content="Pound to Slug Converter 2025 - lb to slug Mass Calculator">
-<meta property="twitter:description" content="Free online Pound to Slug converter 2025. Convert lb to slug and slug to lb instantly.">
+<meta name="twitter:title" content="Pound to Slug Converter 2026 - lb to slug Mass Calculator">
+<meta property="twitter:description" content="Free online Pound to Slug converter 2026. Convert lb to slug and slug to lb instantly.">
 <meta name="twitter:image" content="https://www.thiyagi.com/nt.png">
 
 <div class="min-h-screen bg-gradient-to-br from-slate-50 via-gray-50 to-zinc-50 py-12">

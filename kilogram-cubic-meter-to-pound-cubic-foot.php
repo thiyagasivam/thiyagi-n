@@ -1,19 +1,19 @@
 <?php include 'header.php'; ?>
 
 <!-- SEO Meta Tags -->
-<title>Kilogram per Cubic Meter to Pound per Cubic Foot Converter 2025 - kg/m³ to lb/ft³ Calculator | Thiyagi</title>
-<meta name="description" content="Free online Kilogram per Cubic Meter to Pound per Cubic Foot converter 2025. Convert kg/m³ to lb/ft³ and lb/ft³ to kg/m³ for density calculations.">
-<meta name="keywords" content="kilogram cubic meter to pound cubic foot converter 2025, kg/m³ to lb/ft³, density converter, material density, engineering calculations">
+<title>Kilogram per Cubic Meter to Pound per Cubic Foot Converter 2026 - kg/m³ to lb/ft³ Calculator | Thiyagi</title>
+<meta name="description" content="Free online Kilogram per Cubic Meter to Pound per Cubic Foot converter 2026. Convert kg/m³ to lb/ft³ and lb/ft³ to kg/m³ for density calculations.">
+<meta name="keywords" content="kilogram cubic meter to pound cubic foot converter 2026, kg/m³ to lb/ft³, density converter, material density, engineering calculations">
 <meta name="author" content="Thiyagi">
-<meta property="og:title" content="Kilogram per Cubic Meter to Pound per Cubic Foot Converter 2025 - kg/m³ to lb/ft³ Calculator">
-<meta property="og:description" content="Free online Kilogram per Cubic Meter to Pound per Cubic Foot converter 2025. Convert kg/m³ to lb/ft³ and lb/ft³ to kg/m³ instantly.">
+<meta property="og:title" content="Kilogram per Cubic Meter to Pound per Cubic Foot Converter 2026 - kg/m³ to lb/ft³ Calculator">
+<meta property="og:description" content="Free online Kilogram per Cubic Meter to Pound per Cubic Foot converter 2026. Convert kg/m³ to lb/ft³ and lb/ft³ to kg/m³ instantly.">
 <meta property="og:type" content="website">
 <meta property="og:url" content="https://www.thiyagi.com/kilogram-cubic-meter-to-pound-cubic-foot.php">
 <meta property="og:image" content="https://www.thiyagi.com/nt.png">
 <meta property="og:site_name" content="Thiyagi">
 <meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:title" content="Kilogram per Cubic Meter to Pound per Cubic Foot Converter 2025 - kg/m³ to lb/ft³ Calculator">
-<meta name="twitter:description" content="Free online Kilogram per Cubic Meter to Pound per Cubic Foot converter 2025. Convert kg/m³ to lb/ft³ and lb/ft³ to kg/m³ instantly.">
+<meta name="twitter:title" content="Kilogram per Cubic Meter to Pound per Cubic Foot Converter 2026 - kg/m³ to lb/ft³ Calculator">
+<meta name="twitter:description" content="Free online Kilogram per Cubic Meter to Pound per Cubic Foot converter 2026. Convert kg/m³ to lb/ft³ and lb/ft³ to kg/m³ instantly.">
 <meta name="twitter:image" content="https://www.thiyagi.com/nt.png">
 
 <div class="min-h-screen bg-gradient-to-br from-stone-50 via-neutral-50 to-gray-50 py-12">

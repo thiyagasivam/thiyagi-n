@@ -1,19 +1,19 @@
 <?php include 'header.php'; ?>
 
 <!-- SEO Meta Tags -->
-<title>Megapascal to Bar Converter 2025 - MPa to bar Calculator | Thiyagi</title>
-<meta name="description" content="Free online Megapascal to Bar converter 2025. Convert MPa to bar and bar to MPa instantly with accurate pressure conversion for engineering and industry.">
-<meta name="keywords" content="megapascal to bar converter 2025, MPa to bar, pressure converter, engineering pressure, industrial measurements, hydraulic pressure">
+<title>Megapascal to Bar Converter 2026 - MPa to bar Calculator | Thiyagi</title>
+<meta name="description" content="Free online Megapascal to Bar converter 2026. Convert MPa to bar and bar to MPa instantly with accurate pressure conversion for engineering and industry.">
+<meta name="keywords" content="megapascal to bar converter 2026, MPa to bar, pressure converter, engineering pressure, industrial measurements, hydraulic pressure">
 <meta name="author" content="Thiyagi">
-<meta property="og:title" content="Megapascal to Bar Converter 2025 - MPa to bar Calculator">
-<meta property="og:description" content="Free online Megapascal to Bar converter 2025. Convert MPa to bar and bar to MPa instantly.">
+<meta property="og:title" content="Megapascal to Bar Converter 2026 - MPa to bar Calculator">
+<meta property="og:description" content="Free online Megapascal to Bar converter 2026. Convert MPa to bar and bar to MPa instantly.">
 <meta property="og:type" content="website">
 <meta property="og:url" content="https://www.thiyagi.com/megapascal-to-bar.php">
 <meta property="og:image" content="https://www.thiyagi.com/nt.png">
 <meta property="og:site_name" content="Thiyagi">
 <meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:title" content="Megapascal to Bar Converter 2025 - MPa to bar Calculator">
-<meta name="twitter:description" content="Free online Megapascal to Bar converter 2025. Convert MPa to bar and bar to MPa instantly.">
+<meta name="twitter:title" content="Megapascal to Bar Converter 2026 - MPa to bar Calculator">
+<meta name="twitter:description" content="Free online Megapascal to Bar converter 2026. Convert MPa to bar and bar to MPa instantly.">
 <meta name="twitter:image" content="https://www.thiyagi.com/nt.png">
 
 <div class="min-h-screen bg-gradient-to-br from-slate-50 via-blue-50 to-indigo-50 py-12">

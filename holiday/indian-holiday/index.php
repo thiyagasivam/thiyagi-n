@@ -1,18 +1,18 @@
 <?php include '../../header.php'; ?>
 
-<title>India Holidays 2025 | Complete Calendar | National Holidays | Public & Bank Holidays</title>
-<meta name="description" content="Complete India Holiday Calendar 2025. Find all national holidays, government holidays, public holidays, and bank holidays across India. Plan your year with our comprehensive guide.">
-<meta name="keywords" content="India holidays 2025, national holidays India, public holidays India, bank holidays India, government holidays India, Republic Day, Independence Day, Gandhi Jayanti, Diwali, Holi, Eid, Christmas">
+<title>India Holidays 2026 | Complete Calendar | National Holidays | Public & Bank Holidays</title>
+<meta name="description" content="Complete India Holiday Calendar 2026. Find all national holidays, government holidays, public holidays, and bank holidays across India. Plan your year with our comprehensive guide.">
+<meta name="keywords" content="India holidays 2026, national holidays India, public holidays India, bank holidays India, government holidays India, Republic Day, Independence Day, Gandhi Jayanti, Diwali, Holi, Eid, Christmas">
 <meta name="author" content="India Holiday Calendar">
 <meta name="robots" content="index, follow">
-<meta property="og:title" content="India Holidays 2025 - Complete Calendar">
-<meta property="og:description" content="Complete India Holiday Calendar 2025 with all national holidays, public holidays, and bank holidays. Plan your year with our comprehensive guide.">
+<meta property="og:title" content="India Holidays 2026 - Complete Calendar">
+<meta property="og:description" content="Complete India Holiday Calendar 2026 with all national holidays, public holidays, and bank holidays. Plan your year with our comprehensive guide.">
 <meta property="og:type" content="website">
 <meta property="og:url" content="https://<?= $_SERVER['HTTP_HOST'] . strtok($_SERVER['REQUEST_URI'], '?') ?>">
-<meta property="og:image" content="https://via.placeholder.com/1200x630/FF9933/FFFFFF?text=India+Holidays+2025">
+<meta property="og:image" content="https://via.placeholder.com/1200x630/FF9933/FFFFFF?text=India+Holidays+2026">
 <meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:title" content="India Holidays 2025">
-<meta name="twitter:description" content="Complete India Holiday Calendar 2025 with all national holidays, public holidays, and bank holidays.">
+<meta name="twitter:title" content="India Holidays 2026">
+<meta name="twitter:description" content="Complete India Holiday Calendar 2026 with all national holidays, public holidays, and bank holidays.">
 <link rel="canonical" href="https://<?= $_SERVER['HTTP_HOST'] . strtok($_SERVER['REQUEST_URI'], '?') ?>">
 <meta name="language" content="English">
 <meta name="geo.region" content="IN">
@@ -22,18 +22,18 @@
     {
         "@context": "https://schema.org",
         "@type": "WebPage",
-        "name": "India Holidays 2025",
-        "description": "Complete India Holiday Calendar 2025 with all national holidays, public holidays, and bank holidays",
+        "name": "India Holidays 2026",
+        "description": "Complete India Holiday Calendar 2026 with all national holidays, public holidays, and bank holidays",
         "url": "<?php echo 'https://' . $_SERVER['HTTP_HOST'] . $_SERVER['REQUEST_URI']; ?>",
         "mainEntity": {
             "@type": "FAQPage",
             "mainEntity": [
                 {
                     "@type": "Question",
-                    "name": "What are the main national holidays in India 2025?",
+                    "name": "What are the main national holidays in India 2026?",
                     "acceptedAnswer": {
                         "@type": "Answer",
-                        "text": "The main national holidays in India 2025 include Republic Day (January 26), Independence Day (August 15), and Gandhi Jayanti (October 2)."
+                        "text": "The main national holidays in India 2026 include Republic Day (January 26), Independence Day (August 15), and Gandhi Jayanti (October 2)."
                     }
                 },
                 {
@@ -59,7 +59,7 @@
             "@type": "Organization",
             "name": "India Holiday Calendar"
         },
-        "datePublished": "2025-01-01",
+        "datePublished": "2026-01-01",
         "dateModified": "<?php echo date('Y-m-d'); ?>"
     }
     </script>
@@ -84,58 +84,58 @@
 </head>
 <body class="bg-gradient-to-br from-blue-50 to-indigo-100 min-h-screen">
     <?php
-    // India Holidays 2025 Data - Common National and Major Religious Holidays
-    $holidays_2025 = [
-        '2025-01-01' => [
+    // India Holidays 2026 Data - Common National and Major Religious Holidays
+    $holidays_2026 = [
+        '2026-01-01' => [
             'name' => 'New Year\'s Day',
             'type' => 'International',
             'description' => 'Celebration of the new year',
             'icon' => 'fa-calendar-day',
             'bank_holiday' => true
         ],
-        '2025-01-26' => [
+        '2026-01-26' => [
             'name' => 'Republic Day',
             'type' => 'National Holiday',
             'description' => 'Celebration of Indian Republic',
             'icon' => 'fa-flag',
             'bank_holiday' => true
         ],
-        '2025-03-08' => [
+        '2026-03-08' => [
             'name' => 'International Women\'s Day',
             'type' => 'International',
             'description' => 'Celebration of women\'s achievements',
             'icon' => 'fa-venus',
             'bank_holiday' => false
         ],
-        '2025-05-01' => [
+        '2026-05-01' => [
             'name' => 'Labour Day / May Day',
             'type' => 'International',
             'description' => 'International Workers\' Day',
             'icon' => 'fa-hard-hat',
             'bank_holiday' => true
         ],
-        '2025-08-15' => [
+        '2026-08-15' => [
             'name' => 'Independence Day',
             'type' => 'National Holiday',
             'description' => 'Indian Independence Day',
             'icon' => 'fa-dove',
             'bank_holiday' => true
         ],
-        '2025-10-02' => [
+        '2026-10-02' => [
             'name' => 'Gandhi Jayanti',
             'type' => 'National Holiday',
             'description' => 'Birth anniversary of Mahatma Gandhi',
             'icon' => 'fa-peace',
             'bank_holiday' => true
         ],
-        '2025-11-14' => [
+        '2026-11-14' => [
             'name' => 'Children\'s Day',
             'type' => 'National',
             'description' => 'Birth anniversary of Jawaharlal Nehru',
             'icon' => 'fa-child',
             'bank_holiday' => false
         ],
-        '2025-12-25' => [
+        '2026-12-25' => [
             'name' => 'Christmas',
             'type' => 'Religious',
             'description' => 'Celebration of Jesus Christ\'s birth',
@@ -145,60 +145,60 @@
         // Add more fixed-date holidays as needed
     ];
 
-    // Bank Holidays 2025 - Common ones observed by RBI and across many states
+    // Bank Holidays 2026 - Common ones observed by RBI and across many states
     // Note: Exact dates for lunar/solar calendar holidays like Diwali, Eid, Holi vary.
-    // These are placeholders or common dates. You'd need to research specific dates for 2025.
-    $bank_holidays_2025 = [
-        '2025-01-26' => [
+    // These are placeholders or common dates. You'd need to research specific dates for 2026.
+    $bank_holidays_2026 = [
+        '2026-01-26' => [
             'name' => 'Republic Day (Bank Holiday)',
             'type' => 'Bank Holiday',
             'description' => 'Republic Day - Banks closed',
             'icon' => 'fa-university',
             'bank_holiday' => true
         ],
-        '2025-03-04' => [ // Placeholder - Check actual 2025 date for Holi
+        '2026-03-04' => [ // Placeholder - Check actual 2026 date for Holi
             'name' => 'Holi',
             'type' => 'Bank Holiday',
             'description' => 'Festival of colors - Banks closed',
             'icon' => 'fa-university',
             'bank_holiday' => true
         ],
-        '2025-04-18' => [ // Placeholder - Check actual 2025 date for Good Friday
+        '2026-04-18' => [ // Placeholder - Check actual 2026 date for Good Friday
             'name' => 'Good Friday',
             'type' => 'Bank Holiday',
             'description' => 'Christian religious holiday - Banks closed',
             'icon' => 'fa-university',
             'bank_holiday' => true
         ],
-        '2025-08-15' => [
+        '2026-08-15' => [
             'name' => 'Independence Day (Bank Holiday)',
             'type' => 'Bank Holiday',
             'description' => 'Independence Day - Banks closed',
             'icon' => 'fa-university',
             'bank_holiday' => true
         ],
-        '2025-10-02' => [
+        '2026-10-02' => [
             'name' => 'Gandhi Jayanti (Bank Holiday)',
             'type' => 'Bank Holiday',
             'description' => 'Birth anniversary of Mahatma Gandhi - Banks closed',
             'icon' => 'fa-university',
             'bank_holiday' => true
         ],
-        '2025-10-29' => [ // Placeholder - Check actual 2025 date for Diwali
+        '2026-10-29' => [ // Placeholder - Check actual 2026 date for Diwali
             'name' => 'Diwali (Lakshmi Puja)',
             'type' => 'Bank Holiday',
             'description' => 'Festival of lights - Banks closed',
             'icon' => 'fa-university',
             'bank_holiday' => true
         ],
-        '2025-10-30' => [ // Placeholder - Check actual 2025 date for Diwali Holiday
+        '2026-10-30' => [ // Placeholder - Check actual 2026 date for Diwali Holiday
             'name' => 'Diwali Holiday',
             'type' => 'Bank Holiday',
             'description' => 'Day after Diwali - Banks closed',
             'icon' => 'fa-university',
             'bank_holiday' => true
         ],
-        '2025-12-25' => [
+        '2026-12-25' => [
             'name' => 'Christmas (Bank Holiday)',
             'type' => 'Bank Holiday',
             'description' => 'Christmas Day - Banks closed',
@@ -206,15 +206,15 @@
             'bank_holiday' => true
         ]
         // Add more bank holidays as per RBI calendar and common regional ones
-        // Note: Eid, Buddha Purnima, Guru Nanak Jayanti dates need to be researched for 2025
+        // Note: Eid, Buddha Purnima, Guru Nanak Jayanti dates need to be researched for 2026
     ];
 
     // Merge all holidays
-    $all_holidays_2025 = array_merge($holidays_2025, $bank_holidays_2025);
+    $all_holidays_2026 = array_merge($holidays_2026, $bank_holidays_2026);
 
-    // --- Note: Variable holidays like Eid, Ganesh Chaturthi, etc., require specific 2025 dates ---
-    // Example for a variable holiday (add the actual 2025 date):
-    // $all_holidays_2025['2025-XX-XX'] = [
+    // --- Note: Variable holidays like Eid, Ganesh Chaturthi, etc., require specific 2026 dates ---
+    // Example for a variable holiday (add the actual 2026 date):
+    // $all_holidays_2026['2026-XX-XX'] = [
     //     'name' => 'Eid al-Fitr',
     //     'type' => 'Religious',
     //     'description' => 'Festival marking the end of Ramadan',
@@ -224,7 +224,7 @@
 
     // Get current month and year
     $current_month = isset($_GET['month']) ? (int)$_GET['month'] : (int)date('n');
-    $current_year = isset($_GET['year']) ? (int)$_GET['year'] : 2025;
+    $current_year = isset($_GET['year']) ? (int)$_GET['year'] : 2026;
 
     // Month names
     $month_names = [
@@ -271,7 +271,7 @@
                     </div>
                     <div>
                         <h1 class="text-4xl font-bold flex items-center space-x-3">
-                            <span>India Holidays 2025</span>
+                            <span>India Holidays 2026</span>
                             <i class="fas fa-flag text-2xl animate-bounce"></i>
                         </h1>
                         <p class="text-lg opacity-90 flex items-center space-x-2">
@@ -291,7 +291,7 @@
                     </p>
                     <div class="mt-2 flex items-center space-x-2">
                         <i class="fas fa-gift text-india-gold"></i>
-                        <span class="text-sm opacity-75"><?php echo count($all_holidays_2025); ?>+ Total Holidays</span>
+                        <span class="text-sm opacity-75"><?php echo count($all_holidays_2026); ?>+ Total Holidays</span>
                     </div>
                 </div>
             </div>
@@ -315,7 +315,7 @@
                 <li><i class="fas fa-chevron-right text-xs"></i></li>
                 <li><a href="#" class="hover:text-blue-600 transition-colors">India</a></li>
                 <li><i class="fas fa-chevron-right text-xs"></i></li>
-                <li class="text-gray-800 font-medium">Holidays 2025</li>
+                <li class="text-gray-800 font-medium">Holidays 2026</li>
             </ol>
         </nav>
         <!-- SEO Introduction Section -->
@@ -323,11 +323,11 @@
             <div class="max-w-4xl mx-auto text-center">
                 <h2 class="text-3xl font-bold text-gray-800 mb-4 flex items-center justify-center space-x-3">
                     <i class="fas fa-calendar-alt text-blue-600"></i>
-                    <span>Complete India Holiday Calendar 2025</span>
+                    <span>Complete India Holiday Calendar 2026</span>
                     <i class="fas fa-star text-yellow-500"></i>
                 </h2>
                 <p class="text-lg text-gray-700 mb-4 leading-relaxed">
-                    Welcome to the comprehensive India Holiday Calendar 2025! This detailed guide provides you with important dates for
+                    Welcome to the comprehensive India Holiday Calendar 2026! This detailed guide provides you with important dates for
                     national holidays, public holidays, government holidays, and bank holidays observed across India.
                     Planning travel, events, or simply staying informed about national celebrations? Our calendar covers the major
                     observances throughout the year. Please note that specific regional holidays may vary by state.
@@ -506,8 +506,8 @@
                 // Days of the month
                 for ($day = 1; $day <= $days_in_month; $day++) {
                     $date = sprintf('%04d-%02d-%02d', $current_year, $current_month, $day);
-                    $is_holiday = isset($all_holidays_2025[$date]);
-                    $is_bank_holiday = isset($all_holidays_2025[$date]) && $all_holidays_2025[$date]['bank_holiday'] === true;
+                    $is_holiday = isset($all_holidays_2026[$date]);
+                    $is_bank_holiday = isset($all_holidays_2026[$date]) && $all_holidays_2026[$date]['bank_holiday'] === true;
                     $is_today = ($day == date('j') && $current_month == date('n') && $current_year == date('Y'));
                     $cell_classes = 'p-4 border-r border-b min-h-[100px] relative';
                     $cell_classes .= $is_today ? ' bg-yellow-100' : '';
@@ -519,7 +519,7 @@
                     echo '<div class="' . $cell_classes . '">';
                     echo '<div class="text-lg font-semibold text-gray-800 mb-2">' . $day . '</div>';
                     if ($is_holiday) {
-                        $holiday = $all_holidays_2025[$date];
+                        $holiday = $all_holidays_2026[$date];
                         $border_color = $is_bank_holiday ? 'border-blue-500' : 'border-red-500';
                         $bg_color = $is_bank_holiday ? 'bg-blue-100' : 'bg-red-100';
                         $text_color = $is_bank_holiday ? 'text-blue-800' : 'text-red-800';
@@ -573,7 +573,7 @@
                     <?php
                     $today = date('Y-m-d');
                     $upcoming_count = 0;
-                    foreach ($all_holidays_2025 as $date => $holiday) {
+                    foreach ($all_holidays_2026 as $date => $holiday) {
                         if ($date >= $today && $upcoming_count < 5) {
                             $days_until = (strtotime($date) - strtotime($today)) / (60 * 60 * 24);
                             echo '<div class="flex items-center justify-between p-4 bg-gradient-to-r from-blue-50 to-indigo-50 rounded-lg border border-blue-200 hover:shadow-md transition-all transform hover:scale-105">';
@@ -618,7 +618,7 @@
                     <div class="text-center p-4 bg-gradient-to-br from-green-50 to-green-100 rounded-lg border border-green-200 hover:shadow-md transition-all">
                         <div class="flex items-center justify-center space-x-2 mb-2">
                             <i class="fas fa-gift text-green-600 text-xl"></i>
-                            <div class="text-3xl font-bold text-green-600"><?php echo count($holidays_2025); ?></div>
+                            <div class="text-3xl font-bold text-green-600"><?php echo count($holidays_2026); ?></div>
                         </div>
                         <div class="text-sm text-green-700 font-medium">National & Public Holidays</div>
                         <div class="text-xs text-green-600 mt-1">🎉 Celebrations</div>
@@ -626,7 +626,7 @@
                     <div class="text-center p-4 bg-gradient-to-br from-blue-50 to-blue-100 rounded-lg border border-blue-200 hover:shadow-md transition-all">
                         <div class="flex items-center justify-center space-x-2 mb-2">
                             <i class="fas fa-university text-blue-600 text-xl"></i>
-                            <div class="text-3xl font-bold text-blue-600"><?php echo count(array_filter($all_holidays_2025, function($h) { return $h['bank_holiday'] === true; })); ?></div>
+                            <div class="text-3xl font-bold text-blue-600"><?php echo count(array_filter($all_holidays_2026, function($h) { return $h['bank_holiday'] === true; })); ?></div>
                         </div>
                         <div class="text-sm text-blue-700 font-medium">Bank Holidays</div>
                         <div class="text-xs text-blue-600 mt-1">🏦 Financial</div>
@@ -634,7 +634,7 @@
                     <div class="text-center p-4 bg-gradient-to-br from-yellow-50 to-yellow-100 rounded-lg border border-yellow-200 hover:shadow-md transition-all">
                         <div class="flex items-center justify-center space-x-2 mb-2">
                             <i class="fas fa-star text-yellow-600 text-xl"></i>
-                            <div class="text-3xl font-bold text-yellow-600"><?php echo count(array_filter($holidays_2025, function($h) { return $h['type'] === 'National Holiday'; })); ?></div>
+                            <div class="text-3xl font-bold text-yellow-600"><?php echo count(array_filter($holidays_2026, function($h) { return $h['type'] === 'National Holiday'; })); ?></div>
                         </div>
                         <div class="text-sm text-yellow-700 font-medium">National Holidays</div>
                         <div class="text-xs text-yellow-600 mt-1">🇮🇳 Patriotic</div>
@@ -642,7 +642,7 @@
                     <div class="text-center p-4 bg-gradient-to-br from-purple-50 to-purple-100 rounded-lg border border-purple-200 hover:shadow-md transition-all">
                         <div class="flex items-center justify-center space-x-2 mb-2">
                             <i class="fas fa-pray text-purple-600 text-xl"></i>
-                            <div class="text-3xl font-bold text-purple-600"><?php echo count(array_filter($all_holidays_2025, function($h) { return $h['type'] === 'Religious'; })); ?></div>
+                            <div class="text-3xl font-bold text-purple-600"><?php echo count(array_filter($all_holidays_2026, function($h) { return $h['type'] === 'Religious'; })); ?></div>
                         </div>
                         <div class="text-sm text-purple-700 font-medium">Religious Holidays</div>
                         <div class="text-xs text-purple-600 mt-1">⛪ Spiritual</div>
@@ -659,7 +659,7 @@
         <div class="mt-8 bg-white rounded-lg shadow-lg p-6 border-l-4 border-blue-500">
             <h3 class="text-2xl font-bold text-gray-800 mb-4 flex items-center">
                 <i class="fas fa-university text-blue-500 mr-3 text-2xl"></i>
-                <span>Common Bank Holidays 2025</span>
+                <span>Common Bank Holidays 2026</span>
                 <i class="fas fa-building-columns text-blue-400 ml-2"></i>
             </h3>
             <p class="text-gray-600 mb-6">
@@ -669,7 +669,7 @@
             <div class="grid md:grid-cols-2 lg:grid-cols-3 gap-4">
                 <?php
                 $bank_holidays_displayed = 0;
-                foreach ($all_holidays_2025 as $date => $holiday) {
+                foreach ($all_holidays_2026 as $date => $holiday) {
                     if ($holiday['bank_holiday'] === true && $bank_holidays_displayed < 12) {
                         $formatted_date = date('M d, Y', strtotime($date));
                         $day_name = date('l', strtotime($date));
@@ -752,10 +752,10 @@
                     <div class="bg-gray-50 rounded-lg p-6 hover:shadow-md transition-all">
                         <h3 class="text-xl font-semibold text-gray-800 mb-3 flex items-center space-x-2">
                             <i class="fas fa-flag text-red-500"></i>
-                            <span>What are the main national holidays in India 2025?</span>
+                            <span>What are the main national holidays in India 2026?</span>
                         </h3>
                         <p class="text-gray-700 leading-relaxed">
-                            The main national holidays in India 2025 include <strong>Republic Day</strong> (January 26),
+                            The main national holidays in India 2026 include <strong>Republic Day</strong> (January 26),
                             <strong>Independence Day</strong> (August 15), and <strong>Gandhi Jayanti</strong> (October 2).
                             These are gazetted holidays observed nationwide.
                         </p>
@@ -817,7 +817,7 @@
     <script>
         // JavaScript functionality
         // Holiday data for search functionality
-        const holidaysData = <?php echo json_encode($all_holidays_2025); ?>;
+        const holidaysData = <?php echo json_encode($all_holidays_2026); ?>;
         function searchHolidays() {
             const searchTerm = document.getElementById('searchInput').value.toLowerCase();
             const filterType = document.getElementById('filterType').value;
@@ -919,21 +919,21 @@
         }
         function downloadCalendar() {
             // Create a simple text version for download
-            const content = `India Holidays 2025
+            const content = `India Holidays 2026
 `;
             const blob = new Blob([content], { type: 'text/plain' });
             const url = window.URL.createObjectURL(blob);
             const a = document.createElement('a');
             a.href = url;
-            a.download = 'india-holidays-2025.txt';
+            a.download = 'india-holidays-2026.txt';
             a.click();
             window.URL.revokeObjectURL(url);
         }
         function shareCalendar() {
             if (navigator.share) {
                 navigator.share({
-                    title: 'India Holidays 2025',
-                    text: 'Check out the India holiday calendar for 2025!',
+                    title: 'India Holidays 2026',
+                    text: 'Check out the India holiday calendar for 2026!',
                     url: window.location.href
                 });
             } else {

@@ -1,19 +1,19 @@
 <?php include 'header.php'; ?>
 
 <!-- SEO Meta Tags -->
-<title>Liter to Deciliter Converter 2025 - Volume Calculator | Thiyagi</title>
-<meta name="description" content="Free online liter to deciliter converter 2025. Convert L to dL instantly with accurate volume conversion for cooking and laboratory measurements.">
-<meta name="keywords" content="liter to deciliter converter 2025, L to dL, volume converter, cooking calculator, laboratory measurements">
+<title>Liter to Deciliter Converter 2026 - Volume Calculator | Thiyagi</title>
+<meta name="description" content="Free online liter to deciliter converter 2026. Convert L to dL instantly with accurate volume conversion for cooking and laboratory measurements.">
+<meta name="keywords" content="liter to deciliter converter 2026, L to dL, volume converter, cooking calculator, laboratory measurements">
 <meta name="author" content="Thiyagi">
-<meta property="og:title" content="Liter to Deciliter Converter 2025 - Volume Calculator">
-<meta property="og:description" content="Free online liter to deciliter converter 2025. Convert L to dL instantly with accurate volume conversion.">
+<meta property="og:title" content="Liter to Deciliter Converter 2026 - Volume Calculator">
+<meta property="og:description" content="Free online liter to deciliter converter 2026. Convert L to dL instantly with accurate volume conversion.">
 <meta property="og:type" content="website">
 <meta property="og:url" content="https://www.thiyagi.com/liter-to-deciliter.php">
 <meta property="og:image" content="https://www.thiyagi.com/nt.png">
 <meta property="og:site_name" content="Thiyagi">
 <meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:title" content="Liter to Deciliter Converter 2025 - Volume Calculator">
-<meta name="twitter:description" content="Free online liter to deciliter converter 2025. Convert L to dL instantly.">
+<meta name="twitter:title" content="Liter to Deciliter Converter 2026 - Volume Calculator">
+<meta name="twitter:description" content="Free online liter to deciliter converter 2026. Convert L to dL instantly.">
 <meta name="twitter:image" content="https://www.thiyagi.com/nt.png">
 
 <div class="min-h-screen bg-gradient-to-br from-indigo-50 via-blue-50 to-purple-50 py-12">

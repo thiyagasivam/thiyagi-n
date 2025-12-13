@@ -1,19 +1,19 @@
 <?php include 'header.php'; ?>
 
 <!-- SEO Meta Tags -->
-<title>Meter to Decimeter Converter 2025 - m to dm Calculator | Thiyagi</title>
-<meta name="description" content="Free online Meter to Decimeter converter 2025. Convert m to dm and dm to m instantly with accurate length conversion.">
-<meta name="keywords" content="meter to decimeter converter 2025, m to dm, length converter, metric system, distance measurement">
+<title>Meter to Decimeter Converter 2026 - m to dm Calculator | Thiyagi</title>
+<meta name="description" content="Free online Meter to Decimeter converter 2026. Convert m to dm and dm to m instantly with accurate length conversion.">
+<meta name="keywords" content="meter to decimeter converter 2026, m to dm, length converter, metric system, distance measurement">
 <meta name="author" content="Thiyagi">
-<meta property="og:title" content="Meter to Decimeter Converter 2025 - m to dm Calculator">
-<meta property="og:description" content="Free online Meter to Decimeter converter 2025. Convert m to dm and dm to m instantly.">
+<meta property="og:title" content="Meter to Decimeter Converter 2026 - m to dm Calculator">
+<meta property="og:description" content="Free online Meter to Decimeter converter 2026. Convert m to dm and dm to m instantly.">
 <meta property="og:type" content="website">
 <meta property="og:url" content="https://www.thiyagi.com/meter-to-decimeter.php">
 <meta property="og:image" content="https://www.thiyagi.com/nt.png">
 <meta property="og:site_name" content="Thiyagi">
 <meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:title" content="Meter to Decimeter Converter 2025 - m to dm Calculator">
-<meta property="twitter:description" content="Free online Meter to Decimeter converter 2025. Convert m to dm and dm to m instantly.">
+<meta name="twitter:title" content="Meter to Decimeter Converter 2026 - m to dm Calculator">
+<meta property="twitter:description" content="Free online Meter to Decimeter converter 2026. Convert m to dm and dm to m instantly.">
 <meta name="twitter:image" content="https://www.thiyagi.com/nt.png">
 
 <div class="min-h-screen bg-gradient-to-br from-blue-50 via-indigo-50 to-purple-50 py-12">

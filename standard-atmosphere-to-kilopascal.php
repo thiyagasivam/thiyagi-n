@@ -1,19 +1,19 @@
 <?php include 'header.php'; ?>
 
 <!-- SEO Meta Tags -->
-<title>Standard Atmosphere to Kilopascal Converter 2025 - atm to kPa Calculator | Thiyagi</title>
-<meta name="description" content="Free online Standard Atmosphere to Kilopascal converter 2025. Convert atm to kPa and kPa to atm instantly with accurate pressure conversion for weather and engineering.">
-<meta name="keywords" content="standard atmosphere to kilopascal converter 2025, atm to kPa, pressure converter, atmospheric pressure, weather pressure, barometric pressure">
+<title>Standard Atmosphere to Kilopascal Converter 2026 - atm to kPa Calculator | Thiyagi</title>
+<meta name="description" content="Free online Standard Atmosphere to Kilopascal converter 2026. Convert atm to kPa and kPa to atm instantly with accurate pressure conversion for weather and engineering.">
+<meta name="keywords" content="standard atmosphere to kilopascal converter 2026, atm to kPa, pressure converter, atmospheric pressure, weather pressure, barometric pressure">
 <meta name="author" content="Thiyagi">
-<meta property="og:title" content="Standard Atmosphere to Kilopascal Converter 2025 - atm to kPa Calculator">
-<meta property="og:description" content="Free online Standard Atmosphere to Kilopascal converter 2025. Convert atm to kPa and kPa to atm instantly.">
+<meta property="og:title" content="Standard Atmosphere to Kilopascal Converter 2026 - atm to kPa Calculator">
+<meta property="og:description" content="Free online Standard Atmosphere to Kilopascal converter 2026. Convert atm to kPa and kPa to atm instantly.">
 <meta property="og:type" content="website">
 <meta property="og:url" content="https://www.thiyagi.com/standard-atmosphere-to-kilopascal.php">
 <meta property="og:image" content="https://www.thiyagi.com/nt.png">
 <meta property="og:site_name" content="Thiyagi">
 <meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:title" content="Standard Atmosphere to Kilopascal Converter 2025 - atm to kPa Calculator">
-<meta name="twitter:description" content="Free online Standard Atmosphere to Kilopascal converter 2025. Convert atm to kPa and kPa to atm instantly.">
+<meta name="twitter:title" content="Standard Atmosphere to Kilopascal Converter 2026 - atm to kPa Calculator">
+<meta name="twitter:description" content="Free online Standard Atmosphere to Kilopascal converter 2026. Convert atm to kPa and kPa to atm instantly.">
 <meta name="twitter:image" content="https://www.thiyagi.com/nt.png">
 
 <div class="min-h-screen bg-gradient-to-br from-slate-50 via-blue-50 to-indigo-50 py-12">

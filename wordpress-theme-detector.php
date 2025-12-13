@@ -1,7 +1,7 @@
 <?php include 'header.php';?>
 <?php
 /**
- * Enhanced WordPress Theme Detector Tool 2025
+ * Enhanced WordPress Theme Detector Tool 2026
  */
 
 // Enhanced function to detect WordPress theme with additional details
@@ -12,7 +12,7 @@ function detectWordPressTheme($url) {
     curl_setopt($ch, CURLOPT_RETURNTRANSFER, true);
     curl_setopt($ch, CURLOPT_FOLLOWLOCATION, true);
     curl_setopt($ch, CURLOPT_TIMEOUT, 30);
-    curl_setopt($ch, CURLOPT_USERAGENT, 'WordPress Theme Detector 2025');
+    curl_setopt($ch, CURLOPT_USERAGENT, 'WordPress Theme Detector 2026');
     curl_setopt($ch, CURLOPT_SSL_VERIFYPEER, false);
     
     $html = curl_exec($ch);
@@ -133,22 +133,22 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>WordPress Theme Detector 2025 - Identify Website Themes & Plugins Instantly</title>
-    <meta name="description" content="Detect WordPress themes, plugins, and page builders used on any website instantly. Professional theme identification tool for developers, designers, and marketers in 2025.">
-    <meta name="keywords" content="WordPress theme detector, theme identifier, website theme checker, WordPress detector, theme finder 2025, plugin detector, page builder identifier">
+    <title>WordPress Theme Detector 2026 - Identify Website Themes & Plugins Instantly</title>
+    <meta name="description" content="Detect WordPress themes, plugins, and page builders used on any website instantly. Professional theme identification tool for developers, designers, and marketers in 2026.">
+    <meta name="keywords" content="WordPress theme detector, theme identifier, website theme checker, WordPress detector, theme finder 2026, plugin detector, page builder identifier">
     <link rel="canonical" href="https://www.thiyagi.com/wordpress-theme-detector">
     
     <!-- Open Graph / Facebook -->
     <meta property="og:type" content="website">
     <meta property="og:url" content="https://www.thiyagi.com/wordpress-theme-detector">
-    <meta property="og:title" content="WordPress Theme Detector 2025 - Identify Themes & Plugins">
-    <meta property="og:description" content="Detect WordPress themes, plugins, and page builders used on any website instantly. Professional development tool for 2025.">
+    <meta property="og:title" content="WordPress Theme Detector 2026 - Identify Themes & Plugins">
+    <meta property="og:description" content="Detect WordPress themes, plugins, and page builders used on any website instantly. Professional development tool for 2026.">
     <meta property="og:image" content="https://www.thiyagi.com/nt.png">
     
     <!-- Twitter -->
     <meta property="twitter:card" content="summary_large_image">
     <meta property="twitter:url" content="https://www.thiyagi.com/wordpress-theme-detector">
-    <meta property="twitter:title" content="WordPress Theme Detector 2025 - Identify Themes & Plugins">
+    <meta property="twitter:title" content="WordPress Theme Detector 2026 - Identify Themes & Plugins">
     <meta property="twitter:description" content="Detect WordPress themes, plugins, and page builders instantly. Professional tool for developers.">
     <meta property="twitter:image" content="https://www.thiyagi.com/nt.png">
     
@@ -159,7 +159,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
     {
         "@context": "https://schema.org",
         "@type": "WebApplication",
-        "name": "WordPress Theme Detector 2025",
+        "name": "WordPress Theme Detector 2026",
         "description": "Professional WordPress theme detection tool to identify themes, plugins, and page builders used on any website",
         "url": "https://www.thiyagi.com/wordpress-theme-detector",
         "applicationCategory": "DeveloperApplication",
@@ -221,7 +221,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
 
     <div class="container mx-auto px-4 py-8 max-w-6xl">
         <header class="text-center mb-12">
-            <h1 class="text-4xl font-bold text-gray-900 mb-4">🎨 WordPress Theme Detector 2025</h1>
+            <h1 class="text-4xl font-bold text-gray-900 mb-4">🎨 WordPress Theme Detector 2026</h1>
             <p class="text-xl text-gray-600 max-w-3xl mx-auto">Identify WordPress themes, plugins, and page builders used on any website instantly. Professional detection tool for developers, designers, and marketers.</p>
         </header>
 
@@ -551,7 +551,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
 Theme: ${theme}
 Framework: ${framework}
 Page Builders: ${pageBuilders}
-Detected by: WordPress Theme Detector 2025 - ${window.location.href}`;
+Detected by: WordPress Theme Detector 2026 - ${window.location.href}`;
 
             if (navigator.clipboard) {
                 navigator.clipboard.writeText(resultText);

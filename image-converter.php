@@ -105,8 +105,8 @@ if (!file_exists('converted')) {
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Free Image Converter 2025 - Change Photo Formats Online (JPG, PNG, WebP)</title>
-<meta name="description" content="Convert between 50+ image formats instantly (2025). Transform JPG ↔ PNG, HEIC → WebP, or PDF to images - Bulk processing & quality control included!">
+    <title>Free Image Converter 2026 - Change Photo Formats Online (JPG, PNG, WebP)</title>
+<meta name="description" content="Convert between 50+ image formats instantly (2026). Transform JPG ↔ PNG, HEIC → WebP, or PDF to images - Bulk processing & quality control included!">
     <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" rel="stylesheet">
     <style>
         .file-input-label {

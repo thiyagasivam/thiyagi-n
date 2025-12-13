@@ -1,12 +1,12 @@
 <?php include 'header.php';?>
-<title>Square Meter to Square Feet Converter 2025 | Sqm to Sqft | Free Tool</title>
-<meta name="description" content="Convert square meters to square feet instantly with our 2025 accurate converter. Perfect sqm to sqft conversion with real-time calculations for international property measurements.">
-<meta name="keywords" content="square meter to square feet 2025, sqm to sqft converter, meter to feet conversion, area conversion 2025, property measurement, international real estate calculator">
+<title>Square Meter to Square Feet Converter 2026 | Sqm to Sqft | Free Tool</title>
+<meta name="description" content="Convert square meters to square feet instantly with our 2026 accurate converter. Perfect sqm to sqft conversion with real-time calculations for international property measurements.">
+<meta name="keywords" content="square meter to square feet 2026, sqm to sqft converter, meter to feet conversion, area conversion 2026, property measurement, international real estate calculator">
 <link rel="canonical" href="https://www.thiyagi.com/sqm-to-sqft">
 
 <!-- Open Graph Meta Tags -->
-<meta property="og:title" content="Square Meter to Square Feet Converter 2025 | Sqm to Sqft | Free Tool">
-<meta property="og:description" content="Convert square meters to square feet instantly with our 2025 accurate converter. Perfect sqm to sqft conversion with real-time calculations for international property measurements.">
+<meta property="og:title" content="Square Meter to Square Feet Converter 2026 | Sqm to Sqft | Free Tool">
+<meta property="og:description" content="Convert square meters to square feet instantly with our 2026 accurate converter. Perfect sqm to sqft conversion with real-time calculations for international property measurements.">
 <meta property="og:url" content="https://www.thiyagi.com/sqm-to-sqft">
 <meta property="og:type" content="website">
 <meta property="og:image" content="https://www.thiyagi.com/nt.png">
@@ -14,8 +14,8 @@
 
 <!-- Twitter Card Meta Tags -->
 <meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:title" content="Square Meter to Square Feet Converter 2025 | Sqm to Sqft | Free Tool">
-<meta name="twitter:description" content="Convert square meters to square feet instantly with our 2025 accurate converter. Perfect sqm to sqft conversion with real-time calculations for international property measurements.">
+<meta name="twitter:title" content="Square Meter to Square Feet Converter 2026 | Sqm to Sqft | Free Tool">
+<meta name="twitter:description" content="Convert square meters to square feet instantly with our 2026 accurate converter. Perfect sqm to sqft conversion with real-time calculations for international property measurements.">
 <meta name="twitter:image" content="https://www.thiyagi.com/nt.png">
 
 <!-- Additional SEO Meta Tags -->
@@ -31,7 +31,7 @@
   "@context": "https://schema.org",
   "@type": "WebApplication",
   "name": "Square Meter to Square Feet Converter",
-  "description": "Convert square meters to square feet instantly with our 2025 accurate converter. Perfect sqm to sqft conversion with real-time calculations for international property measurements.",
+  "description": "Convert square meters to square feet instantly with our 2026 accurate converter. Perfect sqm to sqft conversion with real-time calculations for international property measurements.",
   "url": "https://www.thiyagi.com/sqm-to-sqft",
   "applicationCategory": "UtilityApplication",
   "operatingSystem": "Any",
@@ -44,10 +44,10 @@
     "@type": "Organization",
     "name": "Thiyagi Tools",
     "url": "https://www.thiyagi.com",
-    "foundingDate": "2025"
+    "foundingDate": "2026"
   },
-  "datePublished": "2025-08-23",
-  "dateModified": "2025-08-23",
+  "datePublished": "2026-08-23",
+  "dateModified": "2026-08-23",
   "inLanguage": "en-US",
   "isAccessibleForFree": true,
   "keywords": "square meter to square feet, sqm to sqft, meter to feet conversion, area conversion, property measurement"
@@ -59,8 +59,8 @@
 {
   "@context": "https://schema.org",
   "@type": "FAQPage",
-  "datePublished": "2025-08-23",
-  "dateModified": "2025-08-23",
+  "datePublished": "2026-08-23",
+  "dateModified": "2026-08-23",
   "mainEntity": [
     {
       "@type": "Question",
@@ -172,7 +172,7 @@
           Square Meter to Square Feet Converter
         </h1>
         <p class="text-xl text-gray-600 mb-8 max-w-3xl mx-auto">
-          Convert square meters to square feet instantly with our accurate 2025 calculator. 
+          Convert square meters to square feet instantly with our accurate 2026 calculator. 
           Perfect for international real estate, property measurements, and construction projects.
         </p>
       </div>
@@ -295,15 +295,15 @@
     <article class="bg-white rounded-xl shadow-lg p-8">
       <h2 id="about-heading" class="text-2xl font-bold text-gray-800 mb-6 flex items-center gap-3">
         <i class="fas fa-info-circle text-blue-600" aria-hidden="true"></i>
-        Square Meter to Square Feet Conversion 2025
+        Square Meter to Square Feet Conversion 2026
       </h2>
       <div class="prose max-w-none text-gray-600">
         <p class="mb-4">
-          Converting square meters to square feet is essential for international real estate, construction projects, and property measurements in 2025. 
+          Converting square meters to square feet is essential for international real estate, construction projects, and property measurements in 2026. 
           Square meters are the standard metric unit used worldwide, while square feet are commonly used in the United States.
         </p>
         <p class="mb-6">
-          Our 2025 converter uses the exact conversion factor: 1 square meter = 10.76391042 square feet. This ensures accurate conversions 
+          Our 2026 converter uses the exact conversion factor: 1 square meter = 10.76391042 square feet. This ensures accurate conversions 
           for property listings, construction planning, and architectural measurements between metric and imperial systems.
         </p>
       </div>

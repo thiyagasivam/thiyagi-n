@@ -1,19 +1,19 @@
 <?php include 'header.php'; ?>
 
 <!-- SEO Meta Tags -->
-<title>Bar to Standard Atmosphere Converter 2025 - bar to atm Calculator | Thiyagi</title>
-<meta name="description" content="Free online Bar to Standard Atmosphere converter 2025. Convert bar to atm and atm to bar instantly with accurate pressure conversion.">
-<meta name="keywords" content="bar to standard atmosphere converter 2025, bar to atm, pressure converter, atmospheric pressure, scientific conversion">
+<title>Bar to Standard Atmosphere Converter 2026 - bar to atm Calculator | Thiyagi</title>
+<meta name="description" content="Free online Bar to Standard Atmosphere converter 2026. Convert bar to atm and atm to bar instantly with accurate pressure conversion.">
+<meta name="keywords" content="bar to standard atmosphere converter 2026, bar to atm, pressure converter, atmospheric pressure, scientific conversion">
 <meta name="author" content="Thiyagi">
-<meta property="og:title" content="Bar to Standard Atmosphere Converter 2025 - bar to atm Calculator">
-<meta property="og:description" content="Free online Bar to Standard Atmosphere converter 2025. Convert bar to atm and atm to bar instantly.">
+<meta property="og:title" content="Bar to Standard Atmosphere Converter 2026 - bar to atm Calculator">
+<meta property="og:description" content="Free online Bar to Standard Atmosphere converter 2026. Convert bar to atm and atm to bar instantly.">
 <meta property="og:type" content="website">
 <meta property="og:url" content="https://www.thiyagi.com/bar-to-standard-atmosphere.php">
 <meta property="og:image" content="https://www.thiyagi.com/nt.png">
 <meta property="og:site_name" content="Thiyagi">
 <meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:title" content="Bar to Standard Atmosphere Converter 2025 - bar to atm Calculator">
-<meta property="twitter:description" content="Free online Bar to Standard Atmosphere converter 2025. Convert bar to atm and atm to bar instantly.">
+<meta name="twitter:title" content="Bar to Standard Atmosphere Converter 2026 - bar to atm Calculator">
+<meta property="twitter:description" content="Free online Bar to Standard Atmosphere converter 2026. Convert bar to atm and atm to bar instantly.">
 <meta name="twitter:image" content="https://www.thiyagi.com/nt.png">
 
 <div class="min-h-screen bg-gradient-to-br from-indigo-50 via-purple-50 to-blue-50 py-12">

@@ -1,19 +1,19 @@
 <?php include 'header.php'; ?>
 
 <!-- SEO Meta Tags -->
-<title>Joule to Kilowatt Hour Converter 2025 - J to kWh Calculator | Thiyagi</title>
-<meta name="description" content="Free online Joule to Kilowatt Hour converter 2025. Convert J to kWh and kWh to J instantly with accurate energy conversion.">
-<meta name="keywords" content="joule to kilowatt hour converter 2025, J to kWh, energy converter, electrical energy, power consumption">
+<title>Joule to Kilowatt Hour Converter 2026 - J to kWh Calculator | Thiyagi</title>
+<meta name="description" content="Free online Joule to Kilowatt Hour converter 2026. Convert J to kWh and kWh to J instantly with accurate energy conversion.">
+<meta name="keywords" content="joule to kilowatt hour converter 2026, J to kWh, energy converter, electrical energy, power consumption">
 <meta name="author" content="Thiyagi">
-<meta property="og:title" content="Joule to Kilowatt Hour Converter 2025 - J to kWh Calculator">
-<meta property="og:description" content="Free online Joule to Kilowatt Hour converter 2025. Convert J to kWh and kWh to J instantly.">
+<meta property="og:title" content="Joule to Kilowatt Hour Converter 2026 - J to kWh Calculator">
+<meta property="og:description" content="Free online Joule to Kilowatt Hour converter 2026. Convert J to kWh and kWh to J instantly.">
 <meta property="og:type" content="website">
 <meta property="og:url" content="https://www.thiyagi.com/joule-to-kilowatt-hour.php">
 <meta property="og:image" content="https://www.thiyagi.com/nt.png">
 <meta property="og:site_name" content="Thiyagi">
 <meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:title" content="Joule to Kilowatt Hour Converter 2025 - J to kWh Calculator">
-<meta property="twitter:description" content="Free online Joule to Kilowatt Hour converter 2025. Convert J to kWh and kWh to J instantly.">
+<meta name="twitter:title" content="Joule to Kilowatt Hour Converter 2026 - J to kWh Calculator">
+<meta property="twitter:description" content="Free online Joule to Kilowatt Hour converter 2026. Convert J to kWh and kWh to J instantly.">
 <meta name="twitter:image" content="https://www.thiyagi.com/nt.png">
 
 <div class="min-h-screen bg-gradient-to-br from-yellow-50 via-amber-50 to-orange-50 py-12">

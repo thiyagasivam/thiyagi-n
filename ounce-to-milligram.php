@@ -1,19 +1,19 @@
 <?php include 'header.php'; ?>
 
 <!-- SEO Meta Tags -->
-<title>Ounce to Milligram Converter 2025 - oz to mg Calculator | Thiyagi</title>
-<meta name="description" content="Free online Ounce to Milligram converter 2025. Convert oz to mg and mg to oz instantly with accurate weight conversion for cooking and pharmacy.">
-<meta name="keywords" content="ounce to milligram converter 2025, oz to mg, weight converter, mass units, cooking measurements, pharmacy dosage">
+<title>Ounce to Milligram Converter 2026 - oz to mg Calculator | Thiyagi</title>
+<meta name="description" content="Free online Ounce to Milligram converter 2026. Convert oz to mg and mg to oz instantly with accurate weight conversion for cooking and pharmacy.">
+<meta name="keywords" content="ounce to milligram converter 2026, oz to mg, weight converter, mass units, cooking measurements, pharmacy dosage">
 <meta name="author" content="Thiyagi">
-<meta property="og:title" content="Ounce to Milligram Converter 2025 - oz to mg Calculator">
-<meta property="og:description" content="Free online Ounce to Milligram converter 2025. Convert oz to mg and mg to oz instantly.">
+<meta property="og:title" content="Ounce to Milligram Converter 2026 - oz to mg Calculator">
+<meta property="og:description" content="Free online Ounce to Milligram converter 2026. Convert oz to mg and mg to oz instantly.">
 <meta property="og:type" content="website">
 <meta property="og:url" content="https://www.thiyagi.com/ounce-to-milligram.php">
 <meta property="og:image" content="https://www.thiyagi.com/nt.png">
 <meta property="og:site_name" content="Thiyagi">
 <meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:title" content="Ounce to Milligram Converter 2025 - oz to mg Calculator">
-<meta property="twitter:description" content="Free online Ounce to Milligram converter 2025. Convert oz to mg and mg to oz instantly.">
+<meta name="twitter:title" content="Ounce to Milligram Converter 2026 - oz to mg Calculator">
+<meta property="twitter:description" content="Free online Ounce to Milligram converter 2026. Convert oz to mg and mg to oz instantly.">
 <meta name="twitter:image" content="https://www.thiyagi.com/nt.png">
 
 <div class="min-h-screen bg-gradient-to-br from-orange-50 via-amber-50 to-yellow-50 py-12">

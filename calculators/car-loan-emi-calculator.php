@@ -114,9 +114,9 @@ function calculateEMI($principal, $rate, $tenure) {
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Car Loan EMI Calculator 2025 - Calculate Monthly Car Loan Payments | Thiyagi.com</title>
-    <meta name="description" content="Calculate your car loan EMI for 2025 with our advanced calculator. Compare interest rates from all major banks, get instant EMI calculations, and plan your car purchase with current rates.">
-    <meta name="keywords" content="car loan EMI calculator 2025, car loan calculator, vehicle loan calculator India, auto loan EMI, car finance calculator, bank car loan rates 2025">
+    <title>Car Loan EMI Calculator 2026 - Calculate Monthly Car Loan Payments | Thiyagi.com</title>
+    <meta name="description" content="Calculate your car loan EMI for 2026 with our advanced calculator. Compare interest rates from all major banks, get instant EMI calculations, and plan your car purchase with current rates.">
+    <meta name="keywords" content="car loan EMI calculator 2026, car loan calculator, vehicle loan calculator India, auto loan EMI, car finance calculator, bank car loan rates 2026">
     <link rel="canonical" href="https://www.thiyagi.com/calculators/car-loan-emi-calculator">
     <link href="https://www.thiyagi.com/nt.png" rel="icon">
     
@@ -195,8 +195,8 @@ function calculateEMI($principal, $rate, $tenure) {
             <div class="inline-flex items-center justify-center w-16 h-16 bg-white/20 rounded-full mb-4">
                 <i class="fas fa-car text-2xl"></i>
             </div>
-            <h1 class="text-4xl md:text-5xl font-bold mb-4">Car Loan EMI Calculator 2025</h1>
-            <p class="text-xl opacity-90 max-w-2xl mx-auto">Calculate your monthly car loan EMI with current 2025 interest rates from all major banks. Plan your dream car purchase with accurate EMI calculations.</p>
+            <h1 class="text-4xl md:text-5xl font-bold mb-4">Car Loan EMI Calculator 2026</h1>
+            <p class="text-xl opacity-90 max-w-2xl mx-auto">Calculate your monthly car loan EMI with current 2026 interest rates from all major banks. Plan your dream car purchase with accurate EMI calculations.</p>
         </div>
     </div>
 </div>

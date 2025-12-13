@@ -1,19 +1,19 @@
 <?php include 'header.php'; ?>
 
 <!-- SEO Meta Tags -->
-<title>Cubic Yard to Ton Register Converter 2025 - Volume Calculator | Thiyagi</title>
-<meta name="description" content="Free online cubic yard to ton register converter 2025. Convert cu yd to ton reg instantly for shipping and cargo volume calculations.">
-<meta name="keywords" content="cubic yard to ton register converter 2025, cu yd to ton reg, volume converter, shipping calculator, cargo converter">
+<title>Cubic Yard to Ton Register Converter 2026 - Volume Calculator | Thiyagi</title>
+<meta name="description" content="Free online cubic yard to ton register converter 2026. Convert cu yd to ton reg instantly for shipping and cargo volume calculations.">
+<meta name="keywords" content="cubic yard to ton register converter 2026, cu yd to ton reg, volume converter, shipping calculator, cargo converter">
 <meta name="author" content="Thiyagi">
-<meta property="og:title" content="Cubic Yard to Ton Register Converter 2025 - Volume Calculator">
-<meta property="og:description" content="Free online cubic yard to ton register converter 2025. Convert cu yd to ton reg instantly for shipping calculations.">
+<meta property="og:title" content="Cubic Yard to Ton Register Converter 2026 - Volume Calculator">
+<meta property="og:description" content="Free online cubic yard to ton register converter 2026. Convert cu yd to ton reg instantly for shipping calculations.">
 <meta property="og:type" content="website">
 <meta property="og:url" content="https://www.thiyagi.com/cubic-yard-to-ton-register.php">
 <meta property="og:image" content="https://www.thiyagi.com/nt.png">
 <meta property="og:site_name" content="Thiyagi">
 <meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:title" content="Cubic Yard to Ton Register Converter 2025 - Volume Calculator">
-<meta name="twitter:description" content="Free online cubic yard to ton register converter 2025. Convert cu yd to ton reg instantly.">
+<meta name="twitter:title" content="Cubic Yard to Ton Register Converter 2026 - Volume Calculator">
+<meta name="twitter:description" content="Free online cubic yard to ton register converter 2026. Convert cu yd to ton reg instantly.">
 <meta name="twitter:image" content="https://www.thiyagi.com/nt.png">
 
 <div class="min-h-screen bg-gradient-to-br from-blue-50 via-indigo-50 to-slate-50 py-12">

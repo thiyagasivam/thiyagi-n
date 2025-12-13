@@ -1,19 +1,19 @@
 <?php include 'header.php'; ?>
 
 <!-- SEO Meta Tags -->
-<title>PSI to Foot Water 60°F Converter 2025 - psi to ftH2O Calculator | Thiyagi</title>
-<meta name="description" content="Free online PSI to Foot Water 60°F converter 2025. Convert psi to ftH2O and ftH2O to psi instantly with accurate pressure conversion.">
-<meta name="keywords" content="psi to foot water converter 2025, psi to ftH2O, pressure converter, water column, hydraulic pressure, engineering units">
+<title>PSI to Foot Water 60°F Converter 2026 - psi to ftH2O Calculator | Thiyagi</title>
+<meta name="description" content="Free online PSI to Foot Water 60°F converter 2026. Convert psi to ftH2O and ftH2O to psi instantly with accurate pressure conversion.">
+<meta name="keywords" content="psi to foot water converter 2026, psi to ftH2O, pressure converter, water column, hydraulic pressure, engineering units">
 <meta name="author" content="Thiyagi">
-<meta property="og:title" content="PSI to Foot Water 60°F Converter 2025 - psi to ftH2O Calculator">
-<meta property="og:description" content="Free online PSI to Foot Water 60°F converter 2025. Convert psi to ftH2O and ftH2O to psi instantly.">
+<meta property="og:title" content="PSI to Foot Water 60°F Converter 2026 - psi to ftH2O Calculator">
+<meta property="og:description" content="Free online PSI to Foot Water 60°F converter 2026. Convert psi to ftH2O and ftH2O to psi instantly.">
 <meta property="og:type" content="website">
 <meta property="og:url" content="https://www.thiyagi.com/psi-to-foot-water-60-176-f.php">
 <meta property="og:image" content="https://www.thiyagi.com/nt.png">
 <meta property="og:site_name" content="Thiyagi">
 <meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:title" content="PSI to Foot Water 60°F Converter 2025 - psi to ftH2O Calculator">
-<meta property="twitter:description" content="Free online PSI to Foot Water 60°F converter 2025. Convert psi to ftH2O and ftH2O to psi instantly.">
+<meta name="twitter:title" content="PSI to Foot Water 60°F Converter 2026 - psi to ftH2O Calculator">
+<meta property="twitter:description" content="Free online PSI to Foot Water 60°F converter 2026. Convert psi to ftH2O and ftH2O to psi instantly.">
 <meta name="twitter:image" content="https://www.thiyagi.com/nt.png">
 
 <div class="min-h-screen bg-gradient-to-br from-teal-50 via-cyan-50 to-blue-50 py-12">

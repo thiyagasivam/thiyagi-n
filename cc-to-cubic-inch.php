@@ -1,19 +1,19 @@
 <?php include 'header.php'; ?>
 
 <!-- SEO Meta Tags -->
-<title>CC to Cubic Inch Converter 2025 - Volume Calculator | Thiyagi</title>
-<meta name="description" content="Free online CC to cubic inch converter 2025. Convert cubic centimeters to cubic inches instantly. Perfect for engine displacement and automotive specifications.">
-<meta name="keywords" content="cc to cubic inch converter 2025, cubic centimeter to cubic inch, engine displacement, automotive converter, volume calculator">
+<title>CC to Cubic Inch Converter 2026 - Volume Calculator | Thiyagi</title>
+<meta name="description" content="Free online CC to cubic inch converter 2026. Convert cubic centimeters to cubic inches instantly. Perfect for engine displacement and automotive specifications.">
+<meta name="keywords" content="cc to cubic inch converter 2026, cubic centimeter to cubic inch, engine displacement, automotive converter, volume calculator">
 <meta name="author" content="Thiyagi">
-<meta property="og:title" content="CC to Cubic Inch Converter 2025 - Volume Calculator">
-<meta property="og:description" content="Free online CC to cubic inch converter 2025. Convert cubic centimeters to cubic inches instantly.">
+<meta property="og:title" content="CC to Cubic Inch Converter 2026 - Volume Calculator">
+<meta property="og:description" content="Free online CC to cubic inch converter 2026. Convert cubic centimeters to cubic inches instantly.">
 <meta property="og:type" content="website">
 <meta property="og:url" content="https://www.thiyagi.com/cc-to-cubic-inch.php">
 <meta property="og:image" content="https://www.thiyagi.com/nt.png">
 <meta property="og:site_name" content="Thiyagi">
 <meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:title" content="CC to Cubic Inch Converter 2025 - Volume Calculator">
-<meta name="twitter:description" content="Free online CC to cubic inch converter 2025. Convert cubic centimeters to cubic inches instantly.">
+<meta name="twitter:title" content="CC to Cubic Inch Converter 2026 - Volume Calculator">
+<meta name="twitter:description" content="Free online CC to cubic inch converter 2026. Convert cubic centimeters to cubic inches instantly.">
 <meta name="twitter:image" content="https://www.thiyagi.com/nt.png">
 
 <div class="min-h-screen bg-gradient-to-br from-red-50 via-pink-50 to-rose-50 py-12">

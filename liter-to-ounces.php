@@ -1,12 +1,12 @@
 <?php include 'header.php';?>
-<title>Liter to Ounces Converter 2025 | L to fl oz | Free Volume Tool</title>
-<meta name="description" content="Convert liters to fluid ounces instantly with our 2025 accurate converter. Perfect L to fl oz conversion with real-time calculations for cooking and liquid measurements.">
-<meta name="keywords" content="liter to ounces converter 2025, L to fl oz converter, liter ounces conversion, volume converter 2025, liquid measurements, cooking calculator, fluid ounces, beverage measurements, hydration tracker, kitchen conversions">
+<title>Liter to Ounces Converter 2026 | L to fl oz | Free Volume Tool</title>
+<meta name="description" content="Convert liters to fluid ounces instantly with our 2026 accurate converter. Perfect L to fl oz conversion with real-time calculations for cooking and liquid measurements.">
+<meta name="keywords" content="liter to ounces converter 2026, L to fl oz converter, liter ounces conversion, volume converter 2026, liquid measurements, cooking calculator, fluid ounces, beverage measurements, hydration tracker, kitchen conversions">
 <link rel="canonical" href="https://www.thiyagi.com/liter-to-ounces">
 
 <!-- Open Graph Meta Tags -->
-<meta property="og:title" content="Liter to Ounces Converter 2025 | L to fl oz | Free Volume Tool">
-<meta property="og:description" content="Convert liters to fluid ounces instantly with our 2025 accurate converter. Perfect L to fl oz conversion with real-time calculations for cooking and liquid measurements.">
+<meta property="og:title" content="Liter to Ounces Converter 2026 | L to fl oz | Free Volume Tool">
+<meta property="og:description" content="Convert liters to fluid ounces instantly with our 2026 accurate converter. Perfect L to fl oz conversion with real-time calculations for cooking and liquid measurements.">
 <meta property="og:url" content="https://www.thiyagi.com/liter-to-ounces">
 <meta property="og:type" content="website">
 <meta property="og:image" content="https://www.thiyagi.com/nt.png">
@@ -14,8 +14,8 @@
 
 <!-- Twitter Card Meta Tags -->
 <meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:title" content="Liter to Ounces Converter 2025 | L to fl oz | Free Volume Tool">
-<meta name="twitter:description" content="Convert liters to fluid ounces instantly with our 2025 accurate converter. Perfect L to fl oz conversion with real-time calculations for cooking and liquid measurements.">
+<meta name="twitter:title" content="Liter to Ounces Converter 2026 | L to fl oz | Free Volume Tool">
+<meta name="twitter:description" content="Convert liters to fluid ounces instantly with our 2026 accurate converter. Perfect L to fl oz conversion with real-time calculations for cooking and liquid measurements.">
 <meta name="twitter:image" content="https://www.thiyagi.com/nt.png">
 
 <!-- Additional SEO Meta Tags -->
@@ -47,7 +47,7 @@
   "@context": "https://schema.org",
   "@type": "WebApplication",
   "name": "Liter to Ounces Converter",
-  "description": "Convert liters to fluid ounces instantly with our accurate 2025 calculator. Perfect L to fl oz conversion with real-time calculations for cooking and liquid measurements.",
+  "description": "Convert liters to fluid ounces instantly with our accurate 2026 calculator. Perfect L to fl oz conversion with real-time calculations for cooking and liquid measurements.",
   "url": "https://www.thiyagi.com/liter-to-ounces",
   "applicationCategory": "UtilityApplication",
   "operatingSystem": "Web Browser",
@@ -187,7 +187,7 @@
           Liter to Ounces Converter
         </h1>
         <p class="text-xl text-gray-600 mb-8 max-w-3xl mx-auto">
-          Convert liters to fluid ounces instantly with our accurate 2025 calculator. 
+          Convert liters to fluid ounces instantly with our accurate 2026 calculator. 
           Perfect for cooking recipes, beverage measurements, and hydration tracking.
         </p>
       </div>

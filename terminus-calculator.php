@@ -3,14 +3,14 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Terminus Calculator 2025 - Terminal Math Calculator | Thiyagi.com</title>
-    <meta name="description" content="Advanced terminal-style calculator 2025 with mathematical functions, scientific operations, and programming calculations. Professional command-line calculator interface.">
-    <meta name="keywords" content="terminus calculator 2025, terminal calculator, command line calculator, scientific calculator, math calculator, programming calculator">
+    <title>Terminus Calculator 2026 - Terminal Math Calculator | Thiyagi.com</title>
+    <meta name="description" content="Advanced terminal-style calculator 2026 with mathematical functions, scientific operations, and programming calculations. Professional command-line calculator interface.">
+    <meta name="keywords" content="terminus calculator 2026, terminal calculator, command line calculator, scientific calculator, math calculator, programming calculator">
     <meta name="author" content="Thiyagi">
     <meta name="robots" content="index, follow">
     
     <!-- Open Graph Meta Tags -->
-    <meta property="og:title" content="Terminus Calculator 2025 - Terminal Math Calculator">
+    <meta property="og:title" content="Terminus Calculator 2026 - Terminal Math Calculator">
     <meta property="og:description" content="Advanced terminal-style calculator with mathematical functions, scientific operations, and programming calculations.">
     <meta property="og:url" content="https://www.thiyagi.com/terminus-calculator">
     <meta property="og:type" content="website">
@@ -18,7 +18,7 @@
     
     <!-- Twitter Card Meta Tags -->
     <meta name="twitter:card" content="summary_large_image">
-    <meta name="twitter:title" content="Terminus Calculator 2025 - Terminal Math Calculator">
+    <meta name="twitter:title" content="Terminus Calculator 2026 - Terminal Math Calculator">
     <meta name="twitter:description" content="Advanced terminal-style calculator with mathematical functions, scientific operations, and programming calculations.">
     <meta name="twitter:image" content="https://www.thiyagi.com/nt.png">
     
@@ -94,7 +94,7 @@
 {
   "@context": "https://schema.org",
   "@type": "WebApplication",
-  "name": "Terminus Calculator 2025",
+  "name": "Terminus Calculator 2026",
   "description": "Advanced terminal-style calculator with mathematical functions, scientific operations, programming calculations, and command-line interface for developers and mathematicians.",
   "url": "https://www.thiyagi.com/terminus-calculator",
   "applicationCategory": "UtilityApplication",

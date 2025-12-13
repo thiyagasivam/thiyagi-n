@@ -1,19 +1,19 @@
 <?php include 'header.php'; ?>
 
 <!-- SEO Meta Tags -->
-<title>Mile Statute to Kilometer Converter 2025 - mi to km Calculator | Thiyagi</title>
-<meta name="description" content="Free online Mile Statute to Kilometer converter 2025. Convert statute miles to km and km to mi instantly with accurate distance conversion.">
-<meta name="keywords" content="mile statute to kilometer converter 2025, mi to km, statute mile converter, distance conversion, imperial to metric">
+<title>Mile Statute to Kilometer Converter 2026 - mi to km Calculator | Thiyagi</title>
+<meta name="description" content="Free online Mile Statute to Kilometer converter 2026. Convert statute miles to km and km to mi instantly with accurate distance conversion.">
+<meta name="keywords" content="mile statute to kilometer converter 2026, mi to km, statute mile converter, distance conversion, imperial to metric">
 <meta name="author" content="Thiyagi">
-<meta property="og:title" content="Mile Statute to Kilometer Converter 2025 - mi to km Calculator">
-<meta property="og:description" content="Free online Mile Statute to Kilometer converter 2025. Convert statute miles to km and km to mi instantly.">
+<meta property="og:title" content="Mile Statute to Kilometer Converter 2026 - mi to km Calculator">
+<meta property="og:description" content="Free online Mile Statute to Kilometer converter 2026. Convert statute miles to km and km to mi instantly.">
 <meta property="og:type" content="website">
 <meta property="og:url" content="https://www.thiyagi.com/mile-statute-to-kilometer.php">
 <meta property="og:image" content="https://www.thiyagi.com/nt.png">
 <meta property="og:site_name" content="Thiyagi">
 <meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:title" content="Mile Statute to Kilometer Converter 2025 - mi to km Calculator">
-<meta property="twitter:description" content="Free online Mile Statute to Kilometer converter 2025. Convert statute miles to km and km to mi instantly.">
+<meta name="twitter:title" content="Mile Statute to Kilometer Converter 2026 - mi to km Calculator">
+<meta property="twitter:description" content="Free online Mile Statute to Kilometer converter 2026. Convert statute miles to km and km to mi instantly.">
 <meta name="twitter:image" content="https://www.thiyagi.com/nt.png">
 
 <div class="min-h-screen bg-gradient-to-br from-amber-50 via-orange-50 to-red-50 py-12">

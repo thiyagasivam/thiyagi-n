@@ -1,19 +1,19 @@
 <?php include 'header.php'; ?>
 
 <!-- SEO Meta Tags -->
-<title>Pascal to Bar Converter 2025 - Pa to bar Calculator | Thiyagi</title>
-<meta name="description" content="Free online Pascal to Bar converter 2025. Convert Pa to bar and bar to Pa instantly with accurate pressure conversion.">
-<meta name="keywords" content="pascal to bar converter 2025, Pa to bar, pressure converter, SI units, scientific conversion">
+<title>Pascal to Bar Converter 2026 - Pa to bar Calculator | Thiyagi</title>
+<meta name="description" content="Free online Pascal to Bar converter 2026. Convert Pa to bar and bar to Pa instantly with accurate pressure conversion.">
+<meta name="keywords" content="pascal to bar converter 2026, Pa to bar, pressure converter, SI units, scientific conversion">
 <meta name="author" content="Thiyagi">
-<meta property="og:title" content="Pascal to Bar Converter 2025 - Pa to bar Calculator">
-<meta property="og:description" content="Free online Pascal to Bar converter 2025. Convert Pa to bar and bar to Pa instantly.">
+<meta property="og:title" content="Pascal to Bar Converter 2026 - Pa to bar Calculator">
+<meta property="og:description" content="Free online Pascal to Bar converter 2026. Convert Pa to bar and bar to Pa instantly.">
 <meta property="og:type" content="website">
 <meta property="og:url" content="https://www.thiyagi.com/pascal-to-bar.php">
 <meta property="og:image" content="https://www.thiyagi.com/nt.png">
 <meta property="og:site_name" content="Thiyagi">
 <meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:title" content="Pascal to Bar Converter 2025 - Pa to bar Calculator">
-<meta property="twitter:description" content="Free online Pascal to Bar converter 2025. Convert Pa to bar and bar to Pa instantly.">
+<meta name="twitter:title" content="Pascal to Bar Converter 2026 - Pa to bar Calculator">
+<meta property="twitter:description" content="Free online Pascal to Bar converter 2026. Convert Pa to bar and bar to Pa instantly.">
 <meta name="twitter:image" content="https://www.thiyagi.com/nt.png">
 
 <div class="min-h-screen bg-gradient-to-br from-blue-50 via-indigo-50 to-purple-50 py-12">

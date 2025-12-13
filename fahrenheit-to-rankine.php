@@ -1,12 +1,12 @@
 <?php include 'header.php';?>
-<title>Fahrenheit to Rankine Converter 2025 | Convert °F to °R | Free Tool</title>
-<meta name="description" content="Convert Fahrenheit to Rankine instantly with our 2025 accurate temperature converter. Perfect °F to °R conversion with real-time calculations for engineering needs.">
-<meta name="keywords" content="fahrenheit to rankine 2025, temperature converter, thermal conversion 2025, °F to °R calculator, engineering tool">
+<title>Fahrenheit to Rankine Converter 2026 | Convert °F to °R | Free Tool</title>
+<meta name="description" content="Convert Fahrenheit to Rankine instantly with our 2026 accurate temperature converter. Perfect °F to °R conversion with real-time calculations for engineering needs.">
+<meta name="keywords" content="fahrenheit to rankine 2026, temperature converter, thermal conversion 2026, °F to °R calculator, engineering tool">
 <link rel="canonical" href="https://www.thiyagi.com/fahrenheit-to-rankine">
 
 <!-- Open Graph Meta Tags -->
-<meta property="og:title" content="Fahrenheit to Rankine Converter 2025 | Convert °F to °R | Free Tool">
-<meta property="og:description" content="Convert Fahrenheit to Rankine instantly with our 2025 accurate temperature converter. Perfect °F to °R conversion with real-time calculations for engineering needs.">
+<meta property="og:title" content="Fahrenheit to Rankine Converter 2026 | Convert °F to °R | Free Tool">
+<meta property="og:description" content="Convert Fahrenheit to Rankine instantly with our 2026 accurate temperature converter. Perfect °F to °R conversion with real-time calculations for engineering needs.">
 <meta property="og:url" content="https://www.thiyagi.com/fahrenheit-to-rankine">
 <meta property="og:type" content="website">
 <meta property="og:image" content="https://www.thiyagi.com/nt.png">
@@ -14,8 +14,8 @@
 
 <!-- Twitter Card Meta Tags -->
 <meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:title" content="Fahrenheit to Rankine Converter 2025 | Convert °F to °R | Free Tool">
-<meta name="twitter:description" content="Convert Fahrenheit to Rankine instantly with our 2025 accurate temperature converter. Perfect °F to °R conversion with real-time calculations for engineering needs.">
+<meta name="twitter:title" content="Fahrenheit to Rankine Converter 2026 | Convert °F to °R | Free Tool">
+<meta name="twitter:description" content="Convert Fahrenheit to Rankine instantly with our 2026 accurate temperature converter. Perfect °F to °R conversion with real-time calculations for engineering needs.">
 <meta name="twitter:image" content="https://www.thiyagi.com/nt.png">
 
 <!-- Additional SEO Meta Tags -->
@@ -39,7 +39,7 @@
           Fahrenheit to Rankine Converter
         </h1>
         <p class="text-xl text-gray-600 mb-8 max-w-3xl mx-auto">
-          Convert Fahrenheit to Rankine instantly with our accurate 2025 temperature calculator. 
+          Convert Fahrenheit to Rankine instantly with our accurate 2026 temperature calculator. 
           Perfect for engineering, thermodynamics, and scientific applications.
         </p>
       </div>
@@ -155,16 +155,16 @@
     <article class="bg-white rounded-xl shadow-lg p-8">
       <h2 class="text-2xl font-bold text-gray-800 mb-6 flex items-center gap-3">
         <i class="fas fa-info-circle text-red-600" aria-hidden="true"></i>
-        Fahrenheit to Rankine Conversion 2025
+        Fahrenheit to Rankine Conversion 2026
       </h2>
       <div class="prose max-w-none text-gray-600">
         <p class="mb-4">
-          Converting Fahrenheit to Rankine is essential for engineering, thermodynamics, and scientific applications in 2025. 
+          Converting Fahrenheit to Rankine is essential for engineering, thermodynamics, and scientific applications in 2026. 
           The Rankine scale is an absolute temperature scale that uses Fahrenheit-sized degrees but starts at absolute zero, 
           making it particularly useful for engineering calculations in imperial systems and thermodynamic cycle analysis.
         </p>
         <p class="mb-6">
-          Our 2025 converter provides instant and precise conversions from Fahrenheit to Rankine, essential for engineers, 
+          Our 2026 converter provides instant and precise conversions from Fahrenheit to Rankine, essential for engineers, 
           physicists, HVAC professionals, and researchers working with imperial temperature measurements. 
           This conversion is straightforward since both scales use the same degree size.
         </p>

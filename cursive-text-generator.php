@@ -44,8 +44,8 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Free Cursive Text Generator 2025 – 𝓕�𝓪�𝓷𝓬𝔂 𝓕𝓸𝓷𝓽𝓼 & 𝓢𝓽𝔂𝓵𝓲𝓼𝓱 𝓣𝓮𝔁𝓽</title>
-    <meta name="description" content="Create beautiful cursive text for social media, bios, and designs with our free 2025 generator! Copy 𝓲𝓷𝓼𝓽𝓪𝓷𝓽 𝓯𝓪𝓷𝓬𝔂 fonts—no download needed!">
+    <title>Free Cursive Text Generator 2026 – 𝓕�𝓪�𝓷𝓬𝔂 𝓕𝓸𝓷𝓽𝓼 & 𝓢𝓽𝔂𝓵𝓲𝓼𝓱 𝓣𝓮𝔁𝓽</title>
+    <meta name="description" content="Create beautiful cursive text for social media, bios, and designs with our free 2026 generator! Copy 𝓲𝓷𝓼𝓽𝓪𝓷𝓽 𝓯𝓪𝓷𝓬𝔂 fonts—no download needed!">
     <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" rel="stylesheet">
     <style>
         .cursive-output {

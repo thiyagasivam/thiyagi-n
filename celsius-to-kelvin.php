@@ -1,12 +1,12 @@
 <?php include 'header.php';?>
-<title>Celsius to Kelvin Converter 2025 | Convert celsius to kelvin | Free Tool</title>
-<meta name="description" content="Convert celsius to kelvin instantly with our 2025 accurate temperature converter. Perfect °C to K conversion with real-time calculations for scientific and academic use.">
-<meta name="keywords" content="celsius to kelvin 2025, temperature converter, scientific conversion 2025, °C to K calculator, academic temperature tool">
+<title>Celsius to Kelvin Converter 2026 | Convert celsius to kelvin | Free Tool</title>
+<meta name="description" content="Convert celsius to kelvin instantly with our 2026 accurate temperature converter. Perfect °C to K conversion with real-time calculations for scientific and academic use.">
+<meta name="keywords" content="celsius to kelvin 2026, temperature converter, scientific conversion 2026, °C to K calculator, academic temperature tool">
 <link rel="canonical" href="https://www.thiyagi.com/celsius-to-kelvin">
 
 <!-- Open Graph Meta Tags -->
-<meta property="og:title" content="Celsius to Kelvin Converter 2025 | Convert celsius to kelvin | Free Tool">
-<meta property="og:description" content="Convert celsius to kelvin instantly with our 2025 accurate temperature converter. Perfect °C to K conversion with real-time calculations for scientific and academic use.">
+<meta property="og:title" content="Celsius to Kelvin Converter 2026 | Convert celsius to kelvin | Free Tool">
+<meta property="og:description" content="Convert celsius to kelvin instantly with our 2026 accurate temperature converter. Perfect °C to K conversion with real-time calculations for scientific and academic use.">
 <meta property="og:url" content="https://www.thiyagi.com/celsius-to-kelvin">
 <meta property="og:type" content="website">
 <meta property="og:image" content="https://www.thiyagi.com/nt.png">
@@ -14,8 +14,8 @@
 
 <!-- Twitter Card Meta Tags -->
 <meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:title" content="Celsius to Kelvin Converter 2025 | Convert celsius to kelvin | Free Tool">
-<meta name="twitter:description" content="Convert celsius to kelvin instantly with our 2025 accurate temperature converter. Perfect °C to K conversion with real-time calculations for scientific and academic use.">
+<meta name="twitter:title" content="Celsius to Kelvin Converter 2026 | Convert celsius to kelvin | Free Tool">
+<meta name="twitter:description" content="Convert celsius to kelvin instantly with our 2026 accurate temperature converter. Perfect °C to K conversion with real-time calculations for scientific and academic use.">
 <meta name="twitter:image" content="https://www.thiyagi.com/nt.png">
 
 <!-- Additional SEO Meta Tags -->
@@ -39,7 +39,7 @@
           Celsius to Kelvin Converter
         </h1>
         <p class="text-xl text-gray-600 mb-8 max-w-3xl mx-auto">
-          Convert Celsius to Kelvin instantly with our accurate 2025 temperature calculator. 
+          Convert Celsius to Kelvin instantly with our accurate 2026 temperature calculator. 
           Perfect for scientific calculations, physics, and chemistry applications.
         </p>
       </div>
@@ -155,16 +155,16 @@
     <article class="bg-white rounded-xl shadow-lg p-8">
       <h2 class="text-2xl font-bold text-gray-800 mb-6 flex items-center gap-3">
         <i class="fas fa-info-circle text-indigo-600" aria-hidden="true"></i>
-        Celsius to Kelvin Conversion 2025
+        Celsius to Kelvin Conversion 2026
       </h2>
       <div class="prose max-w-none text-gray-600">
         <p class="mb-4">
-          Converting Celsius to Kelvin is essential for scientific calculations, physics, chemistry, and engineering in 2025. 
+          Converting Celsius to Kelvin is essential for scientific calculations, physics, chemistry, and engineering in 2026. 
           The Kelvin scale is the absolute temperature scale used in scientific applications, where 0 K represents absolute zero. 
           This conversion is fundamental for thermodynamics, molecular physics, and various scientific computations.
         </p>
         <p class="mb-6">
-          Our 2025 converter provides instant and precise conversions from Celsius to Kelvin, essential for scientists, 
+          Our 2026 converter provides instant and precise conversions from Celsius to Kelvin, essential for scientists, 
           engineers, students, and researchers. The formula is simple: K = °C + 273.15. 
           For example, 0°C equals 273.15 K, and 100°C equals 373.15 K.
         </p>

@@ -4,9 +4,9 @@ include 'header.php';
 $header_content = ob_get_clean();
 
 // Insert title and meta tags into the head section
-$title = 'Square Inch to Square Foot Converter 2025 | Area Conversion Tool | Free Calculator';
-$description = 'Convert square inches to square feet instantly with our 2025 accurate area converter. Perfect for construction, flooring, and measurement calculations.';
-$keywords = 'square inch to square foot converter 2025, area conversion calculator, sq inch sq foot converter, construction calculator, flooring measurements';
+$title = 'Square Inch to Square Foot Converter 2026 | Area Conversion Tool | Free Calculator';
+$description = 'Convert square inches to square feet instantly with our 2026 accurate area converter. Perfect for construction, flooring, and measurement calculations.';
+$keywords = 'square inch to square foot converter 2026, area conversion calculator, sq inch sq foot converter, construction calculator, flooring measurements';
 $canonical = 'https://www.thiyagi.com/square-inch-to-square-foot';
 
 $meta_tags = '<title>' . htmlspecialchars($title) . '</title>' . "\n";

@@ -1,12 +1,12 @@
 <?php include '../../header.php'; ?>
 
-<title>Tasmania Holidays 2025 | TAS Public Holiday Calendar | Hobart Holidays</title>
-<meta name="description" content="Complete Tasmania Holiday Calendar 2025. Find all TAS public holidays, Royal Hobart Regatta, Recreation Day, and state-specific observances for Hobart and Tasmania.">
-<meta name="keywords" content="Tasmania holidays 2025, TAS public holidays, Hobart holidays, Royal Hobart Regatta, Recreation Day, Tasmania">
+<title>Tasmania Holidays 2026 | TAS Public Holiday Calendar | Hobart Holidays</title>
+<meta name="description" content="Complete Tasmania Holiday Calendar 2026. Find all TAS public holidays, Royal Hobart Regatta, Recreation Day, and state-specific observances for Hobart and Tasmania.">
+<meta name="keywords" content="Tasmania holidays 2026, TAS public holidays, Hobart holidays, Royal Hobart Regatta, Recreation Day, Tasmania">
 <meta name="author" content="Tasmania Holiday Calendar">
 <meta name="robots" content="index, follow">
-<meta property="og:title" content="Tasmania Holidays 2025 - Complete Calendar">
-<meta property="og:description" content="Complete Tasmania Holiday Calendar 2025 with Royal Hobart Regatta, Recreation Day, and all public holidays.">
+<meta property="og:title" content="Tasmania Holidays 2026 - Complete Calendar">
+<meta property="og:description" content="Complete Tasmania Holiday Calendar 2026 with Royal Hobart Regatta, Recreation Day, and all public holidays.">
 <meta property="og:type" content="website">
 <meta property="og:url" content="https://<?= $_SERVER['HTTP_HOST'] . strtok($_SERVER['REQUEST_URI'], '?') ?>">
 <link rel="canonical" href="https://<?= $_SERVER['HTTP_HOST'] . strtok($_SERVER['REQUEST_URI'], '?') ?>">
@@ -48,93 +48,93 @@
 </head>
 <body class="bg-gradient-to-br from-blue-50 to-indigo-100 min-h-screen">
     <?php
-    // Tasmania Holidays 2025 Data
-    $holidays_2025 = [
-        '2025-01-01' => [
+    // Tasmania Holidays 2026 Data
+    $holidays_2026 = [
+        '2026-01-01' => [
             'name' => 'New Year\'s Day',
             'type' => 'National Holiday',
             'description' => 'First day of the year celebration',
             'icon' => 'fa-calendar-day',
             'bank_holiday' => true
         ],
-        '2025-01-26' => [
+        '2026-01-26' => [
             'name' => 'Australia Day',
             'type' => 'National Holiday',
             'description' => 'National day of Australia',
             'icon' => 'fa-flag',
             'bank_holiday' => true
         ],
-        '2025-01-27' => [
+        '2026-01-27' => [
             'name' => 'Australia Day (observed)',
             'type' => 'National Holiday',
             'description' => 'Observed on Monday as Australia Day falls on Sunday',
             'icon' => 'fa-flag',
             'bank_holiday' => true
         ],
-        '2025-02-10' => [
+        '2026-02-10' => [
             'name' => 'Royal Hobart Regatta',
             'type' => 'TAS State Holiday',
             'description' => 'Second Monday in Feb - Southern Tasmania only, oldest regatta in Australia',
             'icon' => 'fa-ship',
             'bank_holiday' => true
         ],
-        '2025-03-10' => [
+        '2026-03-10' => [
             'name' => 'Eight Hours Day',
             'type' => 'TAS State Holiday',
             'description' => 'Second Monday in March - Labour Day in Tasmania',
             'icon' => 'fa-hammer',
             'bank_holiday' => true
         ],
-        '2025-04-18' => [
+        '2026-04-18' => [
             'name' => 'Good Friday',
             'type' => 'National Holiday',
             'description' => 'Christian holy day commemorating crucifixion',
             'icon' => 'fa-cross',
             'bank_holiday' => true
         ],
-        '2025-04-19' => [
+        '2026-04-19' => [
             'name' => 'Easter Saturday',
             'type' => 'National Holiday',
             'description' => 'Day before Easter Sunday',
             'icon' => 'fa-egg',
             'bank_holiday' => true
         ],
-        '2025-04-21' => [
+        '2026-04-21' => [
             'name' => 'Easter Monday',
             'type' => 'National Holiday',
             'description' => 'Day after Easter Sunday',
             'icon' => 'fa-dove',
             'bank_holiday' => true
         ],
-        '2025-04-25' => [
+        '2026-04-25' => [
             'name' => 'ANZAC Day',
             'type' => 'National Holiday',
             'description' => 'Australian and New Zealand Army Corps Day',
             'icon' => 'fa-medal',
             'bank_holiday' => true
         ],
-        '2025-06-09' => [
+        '2026-06-09' => [
             'name' => 'Queen\'s Birthday',
             'type' => 'TAS State Holiday',
             'description' => 'Second Monday in June in Tasmania',
             'icon' => 'fa-crown',
             'bank_holiday' => true
         ],
-        '2025-11-03' => [
+        '2026-11-03' => [
             'name' => 'Recreation Day',
             'type' => 'TAS State Holiday',
             'description' => 'First Monday in November - Northern Tasmania only',
             'icon' => 'fa-tree',
             'bank_holiday' => true
         ],
-        '2025-12-25' => [
+        '2026-12-25' => [
             'name' => 'Christmas Day',
             'type' => 'National Holiday',
             'description' => 'Celebration of Jesus Christ\'s birth',
             'icon' => 'fa-tree',
             'bank_holiday' => true
         ],
-        '2025-12-26' => [
+        '2026-12-26' => [
             'name' => 'Boxing Day',
             'type' => 'National Holiday',
             'description' => 'Day after Christmas',
@@ -144,7 +144,7 @@
     ];
 
     $current_month = isset($_GET['month']) ? (int)$_GET['month'] : (int)date('n');
-    $current_year = isset($_GET['year']) ? (int)$_GET['year'] : 2025;
+    $current_year = isset($_GET['year']) ? (int)$_GET['year'] : 2026;
 
     $month_names = [
         1 => 'January', 2 => 'February', 3 => 'March', 4 => 'April',
@@ -187,7 +187,7 @@
                     </div>
                     <div>
                         <h1 class="text-4xl font-bold flex items-center space-x-3">
-                            <span>Tasmania Holidays 2025</span>
+                            <span>Tasmania Holidays 2026</span>
                             <i class="fas fa-mountain text-2xl text-tas-gold animate-pulse"></i>
                         </h1>
                         <p class="text-lg opacity-90 flex items-center space-x-2">
@@ -203,7 +203,7 @@
                     </div>
                     <div class="mt-2 flex items-center space-x-2">
                         <i class="fas fa-gift text-tas-gold"></i>
-                        <span class="text-sm opacity-75"><?php echo count($holidays_2025); ?> Total Holidays</span>
+                        <span class="text-sm opacity-75"><?php echo count($holidays_2026); ?> Total Holidays</span>
                     </div>
                 </div>
             </div>
@@ -219,7 +219,7 @@
                 <li><i class="fas fa-chevron-right text-xs"></i></li>
                 <li><a href="/holiday/australia-holidays/" class="hover:text-blue-600">Australia</a></li>
                 <li><i class="fas fa-chevron-right text-xs"></i></li>
-                <li class="text-gray-800 font-medium">Tasmania Holidays 2025</li>
+                <li class="text-gray-800 font-medium">Tasmania Holidays 2026</li>
             </ol>
         </nav>
 
@@ -227,11 +227,11 @@
             <div class="max-w-4xl mx-auto text-center">
                 <h2 class="text-3xl font-bold text-gray-800 mb-4 flex items-center justify-center space-x-3">
                     <i class="fas fa-calendar-alt text-tas-green"></i>
-                    <span>Complete Tasmania Holiday Calendar 2025</span>
+                    <span>Complete Tasmania Holiday Calendar 2026</span>
                     <i class="fas fa-star text-tas-gold"></i>
                 </h2>
                 <p class="text-lg text-gray-700 mb-4 leading-relaxed">
-                    Welcome to the comprehensive Tasmania Holiday Calendar 2025! Featuring Royal Hobart Regatta (Southern TAS),
+                    Welcome to the comprehensive Tasmania Holiday Calendar 2026! Featuring Royal Hobart Regatta (Southern TAS),
                     Recreation Day (Northern TAS), Eight Hours Day (Labour Day), and all public holidays for Hobart and Tasmania.
                 </p>
                 <div class="grid md:grid-cols-3 gap-4 mt-6">
@@ -322,7 +322,7 @@
                 }
                 for ($day = 1; $day <= $days_in_month; $day++) {
                     $date = sprintf('%04d-%02d-%02d', $current_year, $current_month, $day);
-                    $is_holiday = isset($holidays_2025[$date]);
+                    $is_holiday = isset($holidays_2026[$date]);
                     $is_today = ($day == date('j') && $current_month == date('n') && $current_year == date('Y'));
                     
                     $cell_classes = 'p-4 border-r border-b min-h-[100px] relative';
@@ -333,7 +333,7 @@
                     echo '<div class="text-lg font-semibold text-gray-800 mb-2">' . $day . '</div>';
                     
                     if ($is_holiday) {
-                        $holiday = $holidays_2025[$date];
+                        $holiday = $holidays_2026[$date];
                         $is_state = ($holiday['type'] === 'TAS State Holiday');
                         echo '<div class="' . ($is_state ? 'bg-gradient-to-r from-tas-green to-green-800 text-white' : 'bg-red-100 border-red-500 border-l-4') . ' p-2 rounded shadow-sm">';
                         echo '<div class="flex items-center space-x-2 mb-1">';
@@ -367,7 +367,7 @@
                     <?php
                     $today = date('Y-m-d');
                     $count = 0;
-                    foreach ($holidays_2025 as $date => $holiday) {
+                    foreach ($holidays_2026 as $date => $holiday) {
                         if ($date >= $today && $count < 5) {
                             $days = ceil((strtotime($date) - strtotime($today)) / 86400);
                             $is_tas = ($holiday['type'] === 'TAS State Holiday');
@@ -388,19 +388,19 @@
                 <h3 class="text-2xl font-bold mb-4"><i class="fas fa-chart-pie text-green-500 mr-3"></i>Statistics</h3>
                 <div class="grid grid-cols-2 gap-4">
                     <div class="text-center p-4 bg-blue-50 rounded-lg">
-                        <div class="text-3xl font-bold text-blue-600"><?php echo count($holidays_2025); ?></div>
+                        <div class="text-3xl font-bold text-blue-600"><?php echo count($holidays_2026); ?></div>
                         <div class="text-sm">Total Holidays</div>
                     </div>
                     <div class="text-center p-4 bg-red-50 rounded-lg">
-                        <div class="text-3xl font-bold text-red-600"><?php echo count(array_filter($holidays_2025, fn($h) => $h['type'] === 'National Holiday')); ?></div>
+                        <div class="text-3xl font-bold text-red-600"><?php echo count(array_filter($holidays_2026, fn($h) => $h['type'] === 'National Holiday')); ?></div>
                         <div class="text-sm">National</div>
                     </div>
                     <div class="text-center p-4 bg-gradient-to-br from-tas-green to-green-800 text-white rounded-lg">
-                        <div class="text-3xl font-bold text-tas-gold"><?php echo count(array_filter($holidays_2025, fn($h) => $h['type'] === 'TAS State Holiday')); ?></div>
+                        <div class="text-3xl font-bold text-tas-gold"><?php echo count(array_filter($holidays_2026, fn($h) => $h['type'] === 'TAS State Holiday')); ?></div>
                         <div class="text-sm">TAS State</div>
                     </div>
                     <div class="text-center p-4 bg-green-50 rounded-lg">
-                        <div class="text-3xl font-bold text-green-600"><?php echo count($holidays_2025); ?></div>
+                        <div class="text-3xl font-bold text-green-600"><?php echo count($holidays_2026); ?></div>
                         <div class="text-sm">Bank Holidays</div>
                     </div>
                 </div>
@@ -434,15 +434,15 @@
             <div class="space-y-6 max-w-4xl mx-auto">
                 <div class="bg-gray-50 rounded-lg p-6">
                     <h3 class="text-xl font-semibold mb-3"><i class="fas fa-ship text-tas-gold mr-2"></i>What is Royal Hobart Regatta?</h3>
-                    <p class="text-gray-700">Royal Hobart Regatta is held on the second Monday in February (February 10, 2025) and is Australia's oldest regatta. It's a public holiday in Southern Tasmania only.</p>
+                    <p class="text-gray-700">Royal Hobart Regatta is held on the second Monday in February (February 10, 2026) and is Australia's oldest regatta. It's a public holiday in Southern Tasmania only.</p>
                 </div>
                 <div class="bg-gray-50 rounded-lg p-6">
                     <h3 class="text-xl font-semibold mb-3"><i class="fas fa-tree text-green-500 mr-2"></i>What is Recreation Day?</h3>
-                    <p class="text-gray-700">Recreation Day is observed on the first Monday in November (November 3, 2025) in Northern Tasmania only, celebrating outdoor recreation and community activities.</p>
+                    <p class="text-gray-700">Recreation Day is observed on the first Monday in November (November 3, 2026) in Northern Tasmania only, celebrating outdoor recreation and community activities.</p>
                 </div>
                 <div class="bg-gray-50 rounded-lg p-6">
                     <h3 class="text-xl font-semibold mb-3"><i class="fas fa-hammer text-blue-500 mr-2"></i>What is Eight Hours Day?</h3>
-                    <p class="text-gray-700">Eight Hours Day is Tasmania's version of Labour Day, held on the second Monday in March (March 10, 2025), celebrating the eight-hour working day.</p>
+                    <p class="text-gray-700">Eight Hours Day is Tasmania's version of Labour Day, held on the second Monday in March (March 10, 2026), celebrating the eight-hour working day.</p>
                 </div>
                 <div class="bg-gray-50 rounded-lg p-6">
                     <h3 class="text-xl font-semibold mb-3"><i class="fas fa-map text-purple-500 mr-2"></i>Do regional holidays apply statewide?</h3>
@@ -457,7 +457,7 @@
     </main>
 
     <script>
-        const holidaysData = <?php echo json_encode($holidays_2025); ?>;
+        const holidaysData = <?php echo json_encode($holidays_2026); ?>;
         function searchHolidays() {
             const term = document.getElementById('searchInput').value.toLowerCase();
             const filter = document.getElementById('filterType').value;
@@ -486,14 +486,14 @@
         function printCalendar() { window.print(); }
         function downloadCalendar() {
             const content = Object.entries(holidaysData).map(([d, h]) => new Date(d).toDateString() + ': ' + h.name).join('\n');
-            const blob = new Blob(['Tasmania Holidays 2025\n\n' + content], {type: 'text/plain'});
+            const blob = new Blob(['Tasmania Holidays 2026\n\n' + content], {type: 'text/plain'});
             const a = document.createElement('a');
             a.href = URL.createObjectURL(blob);
-            a.download = 'tas-holidays-2025.txt';
+            a.download = 'tas-holidays-2026.txt';
             a.click();
         }
         function shareCalendar() {
-            if (navigator.share) navigator.share({title: 'TAS Holidays 2025', url: location.href});
+            if (navigator.share) navigator.share({title: 'TAS Holidays 2026', url: location.href});
             else navigator.clipboard.writeText(location.href).then(() => alert('URL copied!'));
         }
         function resetToCurrent() { location.href = location.pathname; }

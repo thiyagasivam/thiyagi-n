@@ -1,12 +1,12 @@
 <?php include 'header.php';?>
-<title>KCal to Cal Converter 2025 | Professional Energy Calculator | Free Tool</title>
-<meta name="description" content="Professional KCal to Cal converter 2025. Convert kilocalories to calories instantly with precision calculations. Perfect for nutrition, fitness, and dietary planning.">
-<meta name="keywords" content="kcal to cal converter 2025, kilocalories to calories calculator, nutrition calculator, energy converter, dietary tools">
+<title>KCal to Cal Converter 2026 | Professional Energy Calculator | Free Tool</title>
+<meta name="description" content="Professional KCal to Cal converter 2026. Convert kilocalories to calories instantly with precision calculations. Perfect for nutrition, fitness, and dietary planning.">
+<meta name="keywords" content="kcal to cal converter 2026, kilocalories to calories calculator, nutrition calculator, energy converter, dietary tools">
 <link rel="canonical" href="https://www.thiyagi.com/kcal-to-cal">
 
 <!-- Open Graph Meta Tags -->
-<meta property="og:title" content="KCal to Cal Converter 2025 | Professional Energy Calculator | Free Tool">
-<meta property="og:description" content="Professional KCal to Cal converter 2025. Convert kilocalories to calories instantly with precision calculations. Perfect for nutrition, fitness, and dietary planning.">
+<meta property="og:title" content="KCal to Cal Converter 2026 | Professional Energy Calculator | Free Tool">
+<meta property="og:description" content="Professional KCal to Cal converter 2026. Convert kilocalories to calories instantly with precision calculations. Perfect for nutrition, fitness, and dietary planning.">
 <meta property="og:url" content="https://www.thiyagi.com/kcal-to-cal">
 <meta property="og:type" content="website">
 <meta property="og:image" content="https://www.thiyagi.com/nt.png">
@@ -83,7 +83,7 @@
         </div>
         <h1 class="text-4xl md:text-6xl font-bold text-gray-900 mb-6">
           KCal to Cal Converter
-          <span class="block text-2xl md:text-3xl text-amber-600 mt-2">Professional 2025</span>
+          <span class="block text-2xl md:text-3xl text-amber-600 mt-2">Professional 2026</span>
         </h1>
         <p class="text-xl text-gray-600 mb-8 max-w-4xl mx-auto leading-relaxed">
           Convert kilocalories to calories with professional-grade precision. Perfect for nutrition tracking, 

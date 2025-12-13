@@ -57,7 +57,7 @@ function calculateKSEBBill($units) {
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>KSEB Electricity Bill Calculator 2025 - Kerala State Electricity Board</title>
+    <title>KSEB Electricity Bill Calculator 2026 - Kerala State Electricity Board</title>
     <meta name="description" content="Calculate your Kerala electricity bill instantly with the KSEB bill calculator. Get accurate estimates based on the latest residential tariff rates.">
     <link rel="canonical" href="https://www.thiyagi.com/electricity-board/kseb-bill-calculator" />
  
@@ -178,7 +178,7 @@ function calculateKSEBBill($units) {
 <body class="bg-gray-100">
     <div class="max-w-4xl mx-auto px-4 py-8">
         <header class="text-center mb-10">
-            <h1 class="text-3xl font-bold text-green-700 mb-2">KSEB Electricity Bill Calculator 2025</h1>
+            <h1 class="text-3xl font-bold text-green-700 mb-2">KSEB Electricity Bill Calculator 2026</h1>
             <p class="text-gray-600">Calculate your Kerala electricity charges accurately</p>
         </header>
         

@@ -60,8 +60,8 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Open Graph Checker 2025 - Free Social Media Meta Tag Validator</title>
-<meta name="description" content="Free online Open Graph checker for 2025. Test and preview how your links appear on Facebook, Twitter, LinkedIn & WhatsApp. Fix missing or incorrect social media metadata instantly.">
+    <title>Open Graph Checker 2026 - Free Social Media Meta Tag Validator</title>
+<meta name="description" content="Free online Open Graph checker for 2026. Test and preview how your links appear on Facebook, Twitter, LinkedIn & WhatsApp. Fix missing or incorrect social media metadata instantly.">
     <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" rel="stylesheet">
 
 </head>

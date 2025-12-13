@@ -1,19 +1,19 @@
 <?php include 'header.php'; ?>
 
 <!-- SEO Meta Tags -->
-<title>Atomic Mass Unit to Kilogram Converter 2025 - u to kg Calculator | Thiyagi</title>
-<meta name="description" content="Free online Atomic Mass Unit to Kilogram converter 2025. Convert u to kg and kg to u instantly with accurate atomic mass conversion.">
-<meta name="keywords" content="atomic mass unit to kilogram converter 2025, u to kg, atomic mass, molecular weight calculator">
+<title>Atomic Mass Unit to Kilogram Converter 2026 - u to kg Calculator | Thiyagi</title>
+<meta name="description" content="Free online Atomic Mass Unit to Kilogram converter 2026. Convert u to kg and kg to u instantly with accurate atomic mass conversion.">
+<meta name="keywords" content="atomic mass unit to kilogram converter 2026, u to kg, atomic mass, molecular weight calculator">
 <meta name="author" content="Thiyagi">
-<meta property="og:title" content="Atomic Mass Unit to Kilogram Converter 2025 - u to kg Calculator">
-<meta property="og:description" content="Free online Atomic Mass Unit to Kilogram converter 2025. Convert u to kg and kg to u instantly.">
+<meta property="og:title" content="Atomic Mass Unit to Kilogram Converter 2026 - u to kg Calculator">
+<meta property="og:description" content="Free online Atomic Mass Unit to Kilogram converter 2026. Convert u to kg and kg to u instantly.">
 <meta property="og:type" content="website">
 <meta property="og:url" content="https://www.thiyagi.com/atomic-mass-unit-to-kilogram.php">
 <meta property="og:image" content="https://www.thiyagi.com/nt.png">
 <meta property="og:site_name" content="Thiyagi">
 <meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:title" content="Atomic Mass Unit to Kilogram Converter 2025 - u to kg Calculator">
-<meta property="twitter:description" content="Free online Atomic Mass Unit to Kilogram converter 2025. Convert u to kg and kg to u instantly.">
+<meta name="twitter:title" content="Atomic Mass Unit to Kilogram Converter 2026 - u to kg Calculator">
+<meta property="twitter:description" content="Free online Atomic Mass Unit to Kilogram converter 2026. Convert u to kg and kg to u instantly.">
 <meta name="twitter:image" content="https://www.thiyagi.com/nt.png">
 
 <div class="min-h-screen bg-gradient-to-br from-violet-50 via-purple-50 to-indigo-50 py-12">

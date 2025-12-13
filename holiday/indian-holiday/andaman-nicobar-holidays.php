@@ -3,19 +3,19 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Andaman & Nicobar Holidays 2025 | Complete Calendar | Island Festivals | National Holidays</title>
-    <meta name="description" content="Complete Andaman & Nicobar Holiday Calendar 2025. Find island festivals, national & regional holidays, bank holidays and cultural events.">
-    <meta name="keywords" content="Andaman holidays 2025, Nicobar festivals, Andaman and Nicobar calendar, island holidays, India holidays 2025, Nicobar holidays 2025, island festivals 2025, local bank holidays Andaman, Nicobar calendar 2025">
+    <title>Andaman & Nicobar Holidays 2026 | Complete Calendar | Island Festivals | National Holidays</title>
+    <meta name="description" content="Complete Andaman & Nicobar Holiday Calendar 2026. Find island festivals, national & regional holidays, bank holidays and cultural events.">
+    <meta name="keywords" content="Andaman holidays 2026, Nicobar festivals, Andaman and Nicobar calendar, island holidays, India holidays 2026, Nicobar holidays 2026, island festivals 2026, local bank holidays Andaman, Nicobar calendar 2026">
     <meta name="author" content="Andaman & Nicobar Holiday Calendar">
     <meta name="robots" content="index, follow">
-    <meta property="og:title" content="Andaman & Nicobar Holidays 2025 - Complete Calendar">
-    <meta property="og:description" content="Complete Andaman & Nicobar Holiday Calendar 2025 with national, regional and bank holidays.">
+    <meta property="og:title" content="Andaman & Nicobar Holidays 2026 - Complete Calendar">
+    <meta property="og:description" content="Complete Andaman & Nicobar Holiday Calendar 2026 with national, regional and bank holidays.">
     <meta property="og:type" content="website">
     <meta property="og:url" content="<?php echo 'https://' . $_SERVER['HTTP_HOST'] . $_SERVER['REQUEST_URI']; ?>">
-    <meta property="og:image" content="https://via.placeholder.com/1200x630/00BFA5/FFFFFF?text=Andaman+%26+Nicobar+Holidays+2025">
+    <meta property="og:image" content="https://via.placeholder.com/1200x630/00BFA5/FFFFFF?text=Andaman+%26+Nicobar+Holidays+2026">
     <meta name="twitter:card" content="summary_large_image">
-    <meta name="twitter:title" content="Andaman & Nicobar Holidays 2025">
-    <meta name="twitter:description" content="Complete Andaman & Nicobar Holiday Calendar 2025 with national, regional and bank holidays.">
+    <meta name="twitter:title" content="Andaman & Nicobar Holidays 2026">
+    <meta name="twitter:description" content="Complete Andaman & Nicobar Holiday Calendar 2026 with national, regional and bank holidays.">
     <link rel="canonical" href="<?php echo 'https://' . $_SERVER['HTTP_HOST'] . $_SERVER['REQUEST_URI']; ?>">
     <meta name="language" content="English, Hindi">
     <meta name="geo.region" content="IN-AN">
@@ -26,15 +26,15 @@
     {
         "@context": "https://schema.org",
         "@type": "WebPage",
-        "name": "Andaman & Nicobar Holidays 2025",
-        "description": "Complete Andaman & Nicobar Holiday Calendar 2025 with national, regional and bank holidays",
+        "name": "Andaman & Nicobar Holidays 2026",
+        "description": "Complete Andaman & Nicobar Holiday Calendar 2026 with national, regional and bank holidays",
         "url": "<?php echo 'https://' . $_SERVER['HTTP_HOST'] . $_SERVER['REQUEST_URI']; ?>",
         "mainEntity": {
             "@type": "FAQPage",
             "mainEntity": [
                 {
                     "@type": "Question",
-                    "name": "What are the main island-specific observances in Andaman & Nicobar for 2025?",
+                    "name": "What are the main island-specific observances in Andaman & Nicobar for 2026?",
                     "acceptedAnswer": {
                         "@type": "Answer",
                         "text": "Andaman-specific observances include regional commemorations and cultural island festivals alongside national holidays. Check the calendar for dates such as Andaman Day."
@@ -42,7 +42,7 @@
                 },
                 {
                     "@type": "Question",
-                    "name": "Which national holidays apply to Andaman & Nicobar in 2025?",
+                    "name": "Which national holidays apply to Andaman & Nicobar in 2026?",
                     "acceptedAnswer": {
                         "@type": "Answer",
                         "text": "Standard national holidays like Republic Day (Jan 26), Independence Day (Aug 15) and Gandhi Jayanti (Oct 2) apply to the islands."
@@ -62,7 +62,7 @@
             "@type": "Organization",
             "name": "Andaman & Nicobar Holiday Calendar"
         },
-        "datePublished": "2025-01-01",
+        "datePublished": "2026-01-01",
         "dateModified": "<?php echo date('Y-m-d'); ?>"
     }
     </script>
@@ -75,7 +75,7 @@
             "mainEntity": [
                 {
                     "@type": "Question",
-                    "name": "What are the main island-specific observances in Andaman & Nicobar for 2025?",
+                    "name": "What are the main island-specific observances in Andaman & Nicobar for 2026?",
                     "acceptedAnswer": {
                         "@type": "Answer",
                         "text": "Andaman-specific observances include regional commemorations and cultural island festivals such as Andaman Day alongside national holidays. Local event dates are listed in the calendar and holiday list on this page."
@@ -83,7 +83,7 @@
                 },
                 {
                     "@type": "Question",
-                    "name": "Which national holidays apply to Andaman & Nicobar in 2025?",
+                    "name": "Which national holidays apply to Andaman & Nicobar in 2026?",
                     "acceptedAnswer": {
                         "@type": "Answer",
                         "text": "Standard national holidays like Republic Day (Jan 26), Independence Day (Aug 15) and Gandhi Jayanti (Oct 2) apply to the islands and are shown in the calendar above."
@@ -102,7 +102,7 @@
                     "name": "How can I navigate to a specific month?",
                     "acceptedAnswer": {
                         "@type": "Answer",
-                        "text": "Use the Prev / Next controls above the calendar, or click holiday entries to view the month. You can also pass month and year as URL parameters (e.g. ?month=3&year=2025)."
+                        "text": "Use the Prev / Next controls above the calendar, or click holiday entries to view the month. You can also pass month and year as URL parameters (e.g. ?month=3&year=2026)."
                     }
                 }
             ]
@@ -144,93 +144,93 @@ function get_icon_class($icon) {
     return (strpos($icon, 'fa-') === 0) ? "fas $icon" : "fas fa-star";
 }
 
-// Andaman & Nicobar Holidays 2025 Data
-$holidays_2025 = [
-    '2025-01-01' => [
+// Andaman & Nicobar Holidays 2026 Data
+$holidays_2026 = [
+    '2026-01-01' => [
         'name' => "New Year's Day",
         'type' => 'National Holiday',
         'description' => 'Celebration of the new year',
         'icon' => 'fa-calendar-day',
         'bank_holiday' => true
     ],
-    '2025-01-26' => [
+    '2026-01-26' => [
         'name' => 'Republic Day',
         'type' => 'National Holiday',
         'description' => 'Celebration of Indian Republic',
         'icon' => 'fa-flag',
         'bank_holiday' => true
     ],
-    '2025-02-14' => [
+    '2026-02-14' => [
         'name' => "Valentine's Day",
         'type' => 'International',
         'description' => "Day of love and affection",
         'icon' => 'fa-heart',
         'bank_holiday' => false
     ],
-    '2025-03-05' => [
+    '2026-03-05' => [
         'name' => 'Andaman Day',
         'type' => 'Regional Holiday',
         'description' => 'Local island commemoration and cultural events',
         'icon' => 'fa-island',
         'bank_holiday' => true
     ],
-    '2025-03-21' => [
+    '2026-03-21' => [
         'name' => 'Tamil New Year (observed)',
         'type' => 'Cultural',
         'description' => 'Observed by Tamil-speaking communities on the islands',
         'icon' => 'fa-calendar-plus',
         'bank_holiday' => true
     ],
-    '2025-04-14' => [
+    '2026-04-14' => [
         'name' => 'Ambedkar Jayanti',
         'type' => 'National Holiday',
         'description' => 'Birth anniversary of Dr. B.R. Ambedkar',
         'icon' => 'fa-university',
         'bank_holiday' => true
     ],
-    '2025-04-18' => [
+    '2026-04-18' => [
         'name' => 'Good Friday',
         'type' => 'Religious',
         'description' => 'Christian observance',
         'icon' => 'fa-cross',
         'bank_holiday' => true
     ],
-    '2025-05-01' => [
+    '2026-05-01' => [
         'name' => 'Labour Day',
         'type' => 'International',
         'description' => "International Workers' Day",
         'icon' => 'fa-hard-hat',
         'bank_holiday' => true
     ],
-    '2025-08-15' => [
+    '2026-08-15' => [
         'name' => 'Independence Day',
         'type' => 'National Holiday',
         'description' => 'Indian Independence Day',
         'icon' => 'fa-dove',
         'bank_holiday' => true
     ],
-    '2025-10-02' => [
+    '2026-10-02' => [
         'name' => 'Gandhi Jayanti',
         'type' => 'National Holiday',
         'description' => 'Birth anniversary of Mahatma Gandhi',
         'icon' => 'fa-peace',
         'bank_holiday' => true
     ],
-    '2025-11-14' => [
+    '2026-11-14' => [
         'name' => "Children's Day",
         'type' => 'National',
         'description' => "Birth anniversary of Jawaharlal Nehru",
         'icon' => 'fa-child',
         'bank_holiday' => false
     ],
-    '2025-12-25' => [
+    '2026-12-25' => [
         'name' => 'Christmas',
         'type' => 'Religious',
         'description' => "Celebration of Jesus Christ's birth",
         'icon' => 'fa-star',
         'bank_holiday' => true
     ],
-    '2025-07-01' => [
+    '2026-07-01' => [
         'name' => 'Nicobar Day',
         'type' => 'Regional Holiday',
         'description' => 'Nicobar Islands regional observance and cultural events',
@@ -239,44 +239,44 @@ $holidays_2025 = [
     ]
 ];
 
-// Bank Holidays 2025 - Additional bank-specific entries for Andaman & Nicobar
-$bank_holidays_2025 = [
-    '2025-01-26' => [
+// Bank Holidays 2026 - Additional bank-specific entries for Andaman & Nicobar
+$bank_holidays_2026 = [
+    '2026-01-26' => [
         'name' => 'Republic Day',
         'type' => 'Bank Holiday',
         'description' => 'Banks closed for Republic Day',
         'icon' => 'fa-university',
         'bank_holiday' => true
     ],
-    '2025-03-05' => [
+    '2026-03-05' => [
         'name' => 'Andaman Day (Bank Holiday)',
         'type' => 'Bank Holiday',
         'description' => 'Regional bank holiday',
         'icon' => 'fa-university',
         'bank_holiday' => true
     ],
-    '2025-04-18' => [
+    '2026-04-18' => [
         'name' => 'Good Friday',
         'type' => 'Bank Holiday',
         'description' => 'Banks closed for Good Friday',
         'icon' => 'fa-university',
         'bank_holiday' => true
     ],
-    '2025-06-17' => [
+    '2026-06-17' => [
         'name' => 'Bakrid / Eid al-Adha',
         'type' => 'Bank Holiday',
         'description' => 'Islamic festival - banks may be closed',
         'icon' => 'fa-university',
         'bank_holiday' => true
     ],
-    '2025-10-31' => [
+    '2026-10-31' => [
         'name' => 'Diwali',
         'type' => 'Bank Holiday',
         'description' => 'Festival of lights - Banks closed',
         'icon' => 'fa-university',
         'bank_holiday' => true
     ],
-    '2025-12-25' => [
+    '2026-12-25' => [
         'name' => 'Christmas',
         'type' => 'Bank Holiday',
         'description' => 'Banks closed for Christmas',
@@ -286,14 +286,14 @@ $bank_holidays_2025 = [
 ];
 
 // Merge
-$all_holidays_2025 = array_merge($holidays_2025, $bank_holidays_2025);
+$all_holidays_2026 = array_merge($holidays_2026, $bank_holidays_2026);
 
 // Ensure chronological order
-ksort($all_holidays_2025);
+ksort($all_holidays_2026);
 
-// Get current month and year (default year 2025)
+// Get current month and year (default year 2026)
 $current_month = isset($_GET['month']) ? (int)$_GET['month'] : (int)date('n');
-$current_year = isset($_GET['year']) ? (int)$_GET['year'] : 2025;
+$current_year = isset($_GET['year']) ? (int)$_GET['year'] : 2026;
 
 // Month names
 $month_names = [
@@ -337,7 +337,7 @@ $next_month = get_next_month($current_month, $current_year);
                 </div>
                 <div>
                     <h1 class="text-4xl font-bold flex items-center space-x-3">
-                        <span>Andaman & Nicobar Holidays 2025</span>
+                        <span>Andaman & Nicobar Holidays 2026</span>
                         <i class="fas fa-umbrella-beach text-2xl animate-bounce"></i>
                     </h1>
                     <p class="text-lg opacity-90 flex items-center space-x-2">
@@ -353,7 +353,7 @@ $next_month = get_next_month($current_month, $current_year);
                 </div>
                 <div class="mt-2 flex items-center space-x-2">
                     <i class="fas fa-gift text-yellow-200"></i>
-                    <span class="text-sm opacity-75"><?php echo count($all_holidays_2025); ?> Total Holidays</span>
+                    <span class="text-sm opacity-75"><?php echo count($all_holidays_2026); ?> Total Holidays</span>
                 </div>
             </div>
         </div>
@@ -375,15 +375,15 @@ $next_month = get_next_month($current_month, $current_year);
             <li>/</li>
             <li><a href="#" class="hover:text-blue-600">India</a></li>
             <li>/</li>
-            <li class="text-gray-800 font-medium">Andaman & Nicobar Holidays 2025</li>
+            <li class="text-gray-800 font-medium">Andaman & Nicobar Holidays 2026</li>
         </ol>
     </nav>
 
     <!-- Intro -->
     <section class="mb-8 bg-white rounded-lg p-6 border-l-4 border-an-cyan shadow-sm">
         <div class="max-w-4xl mx-auto text-center">
-            <h2 class="text-xl font-semibold mb-2">Plan your 2025 trips and observances in Andaman & Nicobar</h2>
-            <p class="text-sm text-gray-700">Find national, regional and bank holidays for the Andaman & Nicobar Islands for 2025. Use the calendar below to navigate months and check holiday details.</p>
+            <h2 class="text-xl font-semibold mb-2">Plan your 2026 trips and observances in Andaman & Nicobar</h2>
+            <p class="text-sm text-gray-700">Find national, regional and bank holidays for the Andaman & Nicobar Islands for 2026. Use the calendar below to navigate months and check holiday details.</p>
         </div>
     </section>
 
@@ -421,8 +421,8 @@ $next_month = get_next_month($current_month, $current_year);
                     $cell_class = "p-3 align-top";
                     $holiday_html = '';
 
-                    if (isset($all_holidays_2025[$date_key])) {
-                        $h = $all_holidays_2025[$date_key];
+                    if (isset($all_holidays_2026[$date_key])) {
+                        $h = $all_holidays_2026[$date_key];
                         // sanitize values
                         $h_name = htmlspecialchars($h['name'], ENT_QUOTES, 'UTF-8');
                         $h_type = htmlspecialchars($h['type'], ENT_QUOTES, 'UTF-8');
@@ -463,9 +463,9 @@ $next_month = get_next_month($current_month, $current_year);
 
     <!-- Holiday List -->
     <section class="mt-8">
-        <h3 class="text-lg font-semibold mb-3">All Holidays 2025 (Andaman & Nicobar)</h3>
+        <h3 class="text-lg font-semibold mb-3">All Holidays 2026 (Andaman & Nicobar)</h3>
         <div class="grid grid-cols-1 md:grid-cols-2 gap-4">
-            <?php foreach ($all_holidays_2025 as $date => $info): ?>
+            <?php foreach ($all_holidays_2026 as $date => $info): ?>
                 <?php
                     // sanitize data and prepare icon
                     $safe_date = htmlspecialchars($date, ENT_QUOTES, 'UTF-8');
@@ -503,12 +503,12 @@ $next_month = get_next_month($current_month, $current_year);
 
         <div class="prose max-w-none">
             <details class="mb-3">
-                <summary class="font-medium cursor-pointer">What are the main island-specific observances in Andaman & Nicobar for 2025?</summary>
+                <summary class="font-medium cursor-pointer">What are the main island-specific observances in Andaman & Nicobar for 2026?</summary>
                 <p class="mt-2 text-sm text-gray-700">Andaman-specific observances include regional commemorations and cultural island festivals such as Andaman Day alongside national holidays. Local event dates are listed in the calendar and holiday list above.</p>
             </details>
 
             <details class="mb-3">
-                <summary class="font-medium cursor-pointer">Which national holidays apply to Andaman & Nicobar in 2025?</summary>
+                <summary class="font-medium cursor-pointer">Which national holidays apply to Andaman & Nicobar in 2026?</summary>
                 <p class="mt-2 text-sm text-gray-700">Standard national holidays like Republic Day (Jan 26), Independence Day (Aug 15) and Gandhi Jayanti (Oct 2) apply to the islands and are shown in the calendar.</p>
             </details>
 
@@ -527,7 +527,7 @@ $next_month = get_next_month($current_month, $current_year);
 
 <script>
     // Basic search and utility scoped to Andaman list
-    const holidaysData = <?php echo json_encode($all_holidays_2025); ?>;
+    const holidaysData = <?php echo json_encode($all_holidays_2026); ?>;
 
     function goToMonth(dateString) {
         const date = new Date(dateString);

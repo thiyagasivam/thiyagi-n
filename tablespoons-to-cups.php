@@ -21,12 +21,12 @@ if (isset($_GET['value'])) {
 
 // Generate dynamic content
 $pageTitle = $isDynamicPage ? 
-    "Convert {$inputValue} Tablespoons to Cups 2025 | {$inputValue} tbsp = " . number_format($outputValue, 4) . " cups" :
-    "Tablespoons to Cups Converter 2025 | tbsp to cups | Free Cooking Tool";
+    "Convert {$inputValue} Tablespoons to Cups 2026 | {$inputValue} tbsp = " . number_format($outputValue, 4) . " cups" :
+    "Tablespoons to Cups Converter 2026 | tbsp to cups | Free Cooking Tool";
 
 $pageDescription = $isDynamicPage ?
-    "Convert {$inputValue} tablespoons to cups instantly. {$inputValue} tbsp equals " . number_format($outputValue, 4) . " cups using our accurate 2025 calculator. Perfect for cooking and baking recipes." :
-    "Convert tablespoons to cups instantly with our 2025 accurate converter. Perfect tbsp to cups conversion with real-time calculations for cooking and baking recipes.";
+    "Convert {$inputValue} tablespoons to cups instantly. {$inputValue} tbsp equals " . number_format($outputValue, 4) . " cups using our accurate 2026 calculator. Perfect for cooking and baking recipes." :
+    "Convert tablespoons to cups instantly with our 2026 accurate converter. Perfect tbsp to cups conversion with real-time calculations for cooking and baking recipes.";
 
 $canonicalUrl = $isDynamicPage ? 
     "https://www.thiyagi.com/tablespoons-to-cups/{$originalValue}" : 
@@ -34,7 +34,7 @@ $canonicalUrl = $isDynamicPage ?
 ?>
 <title><?php echo htmlspecialchars($pageTitle); ?></title>
 <meta name="description" content="<?php echo htmlspecialchars($pageDescription); ?>">
-<meta name="keywords" content="<?php echo $isDynamicPage ? 'convert ' . $inputValue . ' tablespoons to cups 2025, ' . $inputValue . ' tbsp to cups, cooking measurement converter 2025, baking conversion' : 'tablespoons to cups converter 2025, tbsp to cups converter, tablespoons cups conversion, cooking converter 2025, baking calculator, recipe conversion, kitchen measurements, culinary tools, volume converter, liquid measurements'; ?>">
+<meta name="keywords" content="<?php echo $isDynamicPage ? 'convert ' . $inputValue . ' tablespoons to cups 2026, ' . $inputValue . ' tbsp to cups, cooking measurement converter 2026, baking conversion' : 'tablespoons to cups converter 2026, tbsp to cups converter, tablespoons cups conversion, cooking converter 2026, baking calculator, recipe conversion, kitchen measurements, culinary tools, volume converter, liquid measurements'; ?>">
 <link rel="canonical" href="<?php echo $canonicalUrl; ?>">
 
 <!-- Open Graph Meta Tags -->
@@ -60,8 +60,8 @@ $canonicalUrl = $isDynamicPage ?
 <meta name="revisit-after" content="7 days">
 <meta name="distribution" content="global">
 <meta name="rating" content="general">
-<meta name="copyright" content="Thiyagi Tools 2025">
-<meta name="category" content="Volume Converters, Cooking Tools, Recipe Calculators 2025">
+<meta name="copyright" content="Thiyagi Tools 2026">
+<meta name="category" content="Volume Converters, Cooking Tools, Recipe Calculators 2026">
 <meta name="coverage" content="Worldwide">
 <meta name="target" content="chefs, home cooks, bakers, culinary students, recipe developers">
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -74,12 +74,12 @@ $canonicalUrl = $isDynamicPage ?
 {
   "@context": "https://schema.org",
   "@type": "WebApplication",
-  "name": "Best Tablespoons to Cups Converter 2025 - <?php echo $inputValue; ?> tbsp",
+  "name": "Best Tablespoons to Cups Converter 2026 - <?php echo $inputValue; ?> tbsp",
   "description": "<?php echo addslashes($pageDescription); ?>",
   "url": "<?php echo $canonicalUrl; ?>",
   "applicationCategory": "UtilityApplication",
   "operatingSystem": "Web Browser",
-  "datePublished": "2025-01-01",
+  "datePublished": "2026-01-01",
   "dateModified": "<?php echo date('Y-m-d'); ?>",
   "inLanguage": "en-US",
   "isAccessibleForFree": true,
@@ -91,11 +91,11 @@ $canonicalUrl = $isDynamicPage ?
   },
   "publisher": {
     "@type": "Organization",
-    "name": "Thiyagi Tools 2025",
+    "name": "Thiyagi Tools 2026",
     "url": "https://www.thiyagi.com"
   },
   "featureList": [
-    "Convert <?php echo $inputValue; ?> tablespoons to cups in 2025",
+    "Convert <?php echo $inputValue; ?> tablespoons to cups in 2026",
     "Instant calculation: <?php echo $inputValue; ?> tbsp = <?php echo number_format($outputValue, 4); ?> cups",
     "Real-time volume conversion for cooking",
     "Mobile responsive design for kitchen use",
@@ -105,10 +105,10 @@ $canonicalUrl = $isDynamicPage ?
   ],
   "mainEntity": {
     "@type": "Question",
-    "name": "How many cups are <?php echo $inputValue; ?> tbsp in 2025?",
+    "name": "How many cups are <?php echo $inputValue; ?> tbsp in 2026?",
     "acceptedAnswer": {
       "@type": "Answer",
-      "text": "<?php echo $inputValue; ?> tablespoons equals exactly <?php echo number_format($outputValue, 4); ?> cups using the 2025 standard conversion factor: 1 cup = 16 tablespoons. Perfect for cooking and baking recipes."
+      "text": "<?php echo $inputValue; ?> tablespoons equals exactly <?php echo number_format($outputValue, 4); ?> cups using the 2026 standard conversion factor: 1 cup = 16 tablespoons. Perfect for cooking and baking recipes."
     }
   },
   "sameAs": [
@@ -123,12 +123,12 @@ $canonicalUrl = $isDynamicPage ?
 {
   "@context": "https://schema.org",
   "@type": "WebApplication",
-  "name": "Best Tablespoons to Cups Converter 2025",
+  "name": "Best Tablespoons to Cups Converter 2026",
   "description": "<?php echo addslashes($pageDescription); ?>",
   "url": "https://www.thiyagi.com/tablespoons-to-cups",
   "applicationCategory": "UtilityApplication",
   "operatingSystem": "Web Browser",
-  "datePublished": "2025-01-01",
+  "datePublished": "2026-01-01",
   "dateModified": "<?php echo date('Y-m-d'); ?>",
   "inLanguage": "en-US",
   "isAccessibleForFree": true,
@@ -145,7 +145,7 @@ $canonicalUrl = $isDynamicPage ?
   },
   "publisher": {
     "@type": "Organization",
-    "name": "Thiyagi Tools 2025",
+    "name": "Thiyagi Tools 2026",
     "url": "https://www.thiyagi.com",
     "logo": {
       "@type": "ImageObject",
@@ -158,7 +158,7 @@ $canonicalUrl = $isDynamicPage ?
     "Mobile-responsive design for kitchen use",
     "Copy results to clipboard",
     "Cooking-grade accuracy",
-    "SEO optimized for 2025"
+    "SEO optimized for 2026"
   ]
 }
 </script>
@@ -174,7 +174,7 @@ $canonicalUrl = $isDynamicPage ?
   "@context": "https://schema.org",
   "@type": "WebApplication",
   "name": "Tablespoons to Cups Converter",
-  "description": "Convert tablespoons to cups instantly with our accurate 2025 calculator. Perfect tbsp to cups conversion with real-time calculations for cooking and baking recipes.",
+  "description": "Convert tablespoons to cups instantly with our accurate 2026 calculator. Perfect tbsp to cups conversion with real-time calculations for cooking and baking recipes.",
   "url": "https://www.thiyagi.com/tablespoons-to-cups",
   "applicationCategory": "UtilityApplication",
   "operatingSystem": "Web Browser",
@@ -345,7 +345,7 @@ $canonicalUrl = $isDynamicPage ?
           <?php if ($isDynamicPage): ?>
           Instant conversion result for <?php echo number_format($inputValue, ($inputValue == intval($inputValue)) ? 0 : 2); ?> tablespoons. Perfect for cooking and baking recipes.
           <?php else: ?>
-          Convert tablespoons to cups instantly with our accurate 2025 calculator. 
+          Convert tablespoons to cups instantly with our accurate 2026 calculator. 
           Perfect for cooking recipes, baking measurements, and kitchen conversions.
           <?php endif; ?>
         </p>
@@ -585,7 +585,7 @@ $canonicalUrl = $isDynamicPage ?
   <section class="py-16 bg-white">
     <div class="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8">
       <h2 class="text-3xl font-bold text-center text-gray-900 mb-12">
-        Frequently Asked Questions - <?php echo number_format($inputValue, ($inputValue == intval($inputValue)) ? 0 : 2); ?> Tablespoons to Cups 2025
+        Frequently Asked Questions - <?php echo number_format($inputValue, ($inputValue == intval($inputValue)) ? 0 : 2); ?> Tablespoons to Cups 2026
       </h2>
       <div class="space-y-8">
         <div class="bg-gray-50 rounded-lg p-6">
@@ -645,7 +645,7 @@ $canonicalUrl = $isDynamicPage ?
         <div class="bg-gray-50 rounded-lg p-6">
           <h3 class="text-xl font-semibold text-gray-900 mb-3">
             <i class="fas fa-mobile-alt text-emerald-600 mr-2"></i>
-            Can I use this converter in my kitchen on mobile devices in 2025?
+            Can I use this converter in my kitchen on mobile devices in 2026?
           </h3>
           <p class="text-gray-700 leading-relaxed">
             Absolutely! Our tablespoons to cups converter is fully mobile-responsive and works perfectly on smartphones and tablets in the kitchen. 
@@ -667,10 +667,10 @@ $canonicalUrl = $isDynamicPage ?
         <div class="bg-gray-50 rounded-lg p-6">
           <h3 class="text-xl font-semibold text-gray-900 mb-3">
             <i class="fas fa-star text-emerald-600 mr-2"></i>
-            Why choose our 2025 tablespoons to cups converter over others?
+            Why choose our 2026 tablespoons to cups converter over others?
           </h3>
           <p class="text-gray-700 leading-relaxed">
-            Our converter features the latest 2025 design with instant calculations, kitchen-optimized interface, and cooking-focused accuracy. 
+            Our converter features the latest 2026 design with instant calculations, kitchen-optimized interface, and cooking-focused accuracy. 
             It provides precise results for <?php echo number_format($inputValue, ($inputValue == intval($inputValue)) ? 0 : 2); ?> tablespoons and any other value, with copy functionality and comprehensive conversion tables for culinary use.
           </p>
         </div>
@@ -684,7 +684,7 @@ $canonicalUrl = $isDynamicPage ?
     <div class="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8">
       <h2 class="text-3xl font-bold text-center text-gray-900 mb-12">
         <i class="fas fa-exchange-alt text-emerald-600 mr-3"></i>
-        Related Volume Conversions 2025
+        Related Volume Conversions 2026
       </h2>
       <div class="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-4">
         <!-- Primary Volume Conversions -->

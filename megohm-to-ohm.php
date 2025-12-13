@@ -1,19 +1,19 @@
 <?php include 'header.php'; ?>
 
 <!-- SEO Meta Tags -->
-<title>Megohm to Ohm Converter 2025 - MΩ to Ω Electrical Resistance Calculator | Thiyagi</title>
-<meta name="description" content="Free online Megohm to Ohm converter 2025. Convert MΩ to Ω and Ω to MΩ instantly with accurate electrical resistance conversion.">
-<meta name="keywords" content="megohm to ohm converter 2025, MΩ to Ω, electrical resistance, electronics calculator">
+<title>Megohm to Ohm Converter 2026 - MΩ to Ω Electrical Resistance Calculator | Thiyagi</title>
+<meta name="description" content="Free online Megohm to Ohm converter 2026. Convert MΩ to Ω and Ω to MΩ instantly with accurate electrical resistance conversion.">
+<meta name="keywords" content="megohm to ohm converter 2026, MΩ to Ω, electrical resistance, electronics calculator">
 <meta name="author" content="Thiyagi">
-<meta property="og:title" content="Megohm to Ohm Converter 2025 - MΩ to Ω Electrical Resistance Calculator">
-<meta property="og:description" content="Free online Megohm to Ohm converter 2025. Convert MΩ to Ω and Ω to MΩ instantly.">
+<meta property="og:title" content="Megohm to Ohm Converter 2026 - MΩ to Ω Electrical Resistance Calculator">
+<meta property="og:description" content="Free online Megohm to Ohm converter 2026. Convert MΩ to Ω and Ω to MΩ instantly.">
 <meta property="og:type" content="website">
 <meta property="og:url" content="https://www.thiyagi.com/megohm-to-ohm.php">
 <meta property="og:image" content="https://www.thiyagi.com/nt.png">
 <meta property="og:site_name" content="Thiyagi">
 <meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:title" content="Megohm to Ohm Converter 2025 - MΩ to Ω Electrical Resistance Calculator">
-<meta property="twitter:description" content="Free online Megohm to Ohm converter 2025. Convert MΩ to Ω and Ω to MΩ instantly.">
+<meta name="twitter:title" content="Megohm to Ohm Converter 2026 - MΩ to Ω Electrical Resistance Calculator">
+<meta property="twitter:description" content="Free online Megohm to Ohm converter 2026. Convert MΩ to Ω and Ω to MΩ instantly.">
 <meta name="twitter:image" content="https://www.thiyagi.com/nt.png">
 
 <div class="min-h-screen bg-gradient-to-br from-yellow-50 via-amber-50 to-orange-50 py-12">

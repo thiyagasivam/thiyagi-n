@@ -88,8 +88,8 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Free Image Cropper 2025 - Crop Photos to Exact Sizes Online</title>
-<meta name="description" content="Precisely crop images to custom dimensions or preset ratios (1:1, 16:9, etc.) in 2025. Perfect for social media, product thumbnails, and profile pictures - No registration!">
+    <title>Free Image Cropper 2026 - Crop Photos to Exact Sizes Online</title>
+<meta name="description" content="Precisely crop images to custom dimensions or preset ratios (1:1, 16:9, etc.) in 2026. Perfect for social media, product thumbnails, and profile pictures - No registration!">
     <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" rel="stylesheet">
     <link href="https://cdnjs.cloudflare.com/ajax/libs/cropperjs/1.5.12/cropper.min.css" rel="stylesheet">
     <style>

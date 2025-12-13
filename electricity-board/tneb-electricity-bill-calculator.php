@@ -3,10 +3,10 @@
 <?php include 'breadcrumb-schema.php';?>
 <?php
 /**
- * TNEB Electricity Bill Calculator (2025)
+ * TNEB Electricity Bill Calculator (2026)
  * Single-file PHP solution with Tailwind CSS UI
  */
-// Define tariff slabs (2025 rates - placeholder, verify with official rates)
+// Define tariff slabs (2026 rates - placeholder, verify with official rates)
 $tariff_slabs = [
     ['min' => 0, 'max' => 100, 'rate' => 0.00],
     ['min' => 101, 'max' => 200, 'rate' => 1.50],
@@ -68,16 +68,16 @@ if ($units > 0) {
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>TNEB Electricity Bill Calculator 2025 - Tamil Nadu Power Bill Estimate | Thiyagi</title>
-    <meta name="description" content="Calculate your Tamil Nadu electricity bill instantly with our TNEB calculator. Get accurate estimates using latest 2025 tariff rates, slab-wise breakdown, and detailed bill analysis. Free online tool.">
-    <meta name="keywords" content="TNEB calculator, Tamil Nadu electricity bill, TNEB tariff rates 2025, electricity bill calculator Tamil Nadu, TANGEDCO bill calculator, power bill calculator TN">
+    <title>TNEB Electricity Bill Calculator 2026 - Tamil Nadu Power Bill Estimate | Thiyagi</title>
+    <meta name="description" content="Calculate your Tamil Nadu electricity bill instantly with our TNEB calculator. Get accurate estimates using latest 2026 tariff rates, slab-wise breakdown, and detailed bill analysis. Free online tool.">
+    <meta name="keywords" content="TNEB calculator, Tamil Nadu electricity bill, TNEB tariff rates 2026, electricity bill calculator Tamil Nadu, TANGEDCO bill calculator, power bill calculator TN">
     <link rel="canonical" href="https://www.thiyagi.com/electricity-board/tneb-electricity-bill-calculator" />
-    <meta property="og:title" content="TNEB Electricity Bill Calculator 2025 - Tamil Nadu Power Bill">
+    <meta property="og:title" content="TNEB Electricity Bill Calculator 2026 - Tamil Nadu Power Bill">
     <meta property="og:description" content="Calculate your Tamil Nadu electricity bill instantly with accurate TNEB tariff rates. Free online calculator with detailed breakdown.">
     <meta property="og:url" content="https://www.thiyagi.com/electricity-board/tneb-electricity-bill-calculator">
     <meta property="og:type" content="website">
     <meta name="twitter:card" content="summary_large_image">
-    <meta name="twitter:title" content="TNEB Electricity Bill Calculator 2025">
+    <meta name="twitter:title" content="TNEB Electricity Bill Calculator 2026">
     <meta name="twitter:description" content="Calculate Tamil Nadu electricity bills with latest TNEB rates">
     <meta property="og:image" content="https://www.thiyagi.com/images/tneb-calculator-preview.jpg">
     <meta name="twitter:image" content="https://www.thiyagi.com/images/tneb-calculator-preview.jpg">
@@ -334,7 +334,7 @@ if ($units > 0) {
 {
   "@context": "https://schema.org",
   "@type": "WebApplication",
-  "name": "TNEB Electricity Bill Calculator 2025",
+  "name": "TNEB Electricity Bill Calculator 2026",
   "description": "Calculate Tamil Nadu electricity bills instantly with latest TNEB/TANGEDCO tariff rates. Free online calculator with detailed slab-wise breakdown.",
   "url": "https://www.thiyagi.com/electricity-board/tneb-electricity-bill-calculator",
   "applicationCategory": "UtilityApplication",
@@ -346,7 +346,7 @@ if ($units > 0) {
   },
   "featureList": [
     "Instant electricity bill calculation",
-    "Latest 2025 TNEB tariff rates",
+    "Latest 2026 TNEB tariff rates",
     "Detailed slab-wise breakdown",
     "Mobile-friendly interface",
     "Print and share functionality"
@@ -447,10 +447,10 @@ if ($units > 0) {
             <div class="mb-6">
                 <i class="fas fa-bolt text-6xl text-yellow-400 pulse mb-4"></i>
             </div>
-            <h1 class="text-5xl font-bold text-white drop-shadow-lg mb-4">TNEB Electricity Bill Calculator 2025</h1>
+            <h1 class="text-5xl font-bold text-white drop-shadow-lg mb-4">TNEB Electricity Bill Calculator 2026</h1>
             <p class="text-xl text-white mb-6 max-w-2xl mx-auto">Calculate your Tamil Nadu power bill instantly with latest TANGEDCO tariff rates. Get accurate estimates with detailed slab-wise breakdown.</p>
             <div class="flex flex-wrap justify-center gap-4 text-sm text-white">
-                <div class="flex items-center"><i class="fas fa-check-circle mr-2"></i>Latest 2025 Rates</div>
+                <div class="flex items-center"><i class="fas fa-check-circle mr-2"></i>Latest 2026 Rates</div>
                 <div class="flex items-center"><i class="fas fa-calculator mr-2"></i>Instant Calculation</div>
                 <div class="flex items-center"><i class="fas fa-chart-bar mr-2"></i>Detailed Breakdown</div>
                 <div class="flex items-center"><i class="fas fa-mobile-alt mr-2"></i>Mobile Friendly</div>
@@ -472,7 +472,7 @@ if ($units > 0) {
             <div class="feature-card">
                 <i class="fas fa-shield-alt text-3xl text-green-500 mb-3"></i>
                 <h3 class="text-lg font-semibold mb-2">100% Accurate</h3>
-                <p class="text-gray-600 text-sm">Based on official TNEB/TANGEDCO tariff rates for 2025</p>
+                <p class="text-gray-600 text-sm">Based on official TNEB/TANGEDCO tariff rates for 2026</p>
             </div>
         </div>
         
@@ -761,12 +761,12 @@ if ($units > 0) {
                 <!-- About TNEB Rates -->
                 <div class="bg-gradient-to-r from-blue-50 to-purple-50 border border-blue-200 rounded-xl p-6">
                     <h3 class="text-xl font-semibold text-blue-800 flex items-center mb-4">
-                        <i class="fas fa-info-circle mr-3"></i> About TNEB/TANGEDCO Electricity Rates 2025
+                        <i class="fas fa-info-circle mr-3"></i> About TNEB/TANGEDCO Electricity Rates 2026
                     </h3>
                     <div class="grid md:grid-cols-2 gap-6">
                         <div>
                             <p class="text-gray-700 mb-3">
-                                This calculator uses the latest TNEB (Tamil Nadu Electricity Board) tariff rates for 2025. 
+                                This calculator uses the latest TNEB (Tamil Nadu Electricity Board) tariff rates for 2026. 
                                 TNEB is now known as TANGEDCO (Tamil Nadu Generation and Distribution Corporation).
                             </p>
                             <p class="text-gray-700">
@@ -817,7 +817,7 @@ if ($units > 0) {
                 <!-- TNEB Tariff Slabs Table -->
                 <div class="bg-white border border-gray-200 rounded-xl p-6 shadow-lg">
                     <h3 class="text-xl font-semibold text-gray-800 flex items-center mb-4">
-                        <i class="fas fa-table mr-3"></i> TNEB Tariff Slabs for Domestic Consumers (2025)
+                        <i class="fas fa-table mr-3"></i> TNEB Tariff Slabs for Domestic Consumers (2026)
                     </h3>
                     <div class="overflow-x-auto">
                         <table class="min-w-full divide-y divide-gray-200">
@@ -856,7 +856,7 @@ if ($units > 0) {
             
             <div class="border-b border-gray-200 pb-6">
                 <h3 class="text-xl font-semibold text-gray-800 mb-3">How accurate is this calculator?</h3>
-                <p class="text-gray-700">Our calculator uses the latest official TNEB/TANGEDCO tariff rates for 2025. Results are highly accurate for domestic consumers, but actual bills may vary slightly due to additional charges, meter reading variations, or special tariff categories.</p>
+                <p class="text-gray-700">Our calculator uses the latest official TNEB/TANGEDCO tariff rates for 2026. Results are highly accurate for domestic consumers, but actual bills may vary slightly due to additional charges, meter reading variations, or special tariff categories.</p>
             </div>
             
             <div class="border-b border-gray-200 pb-6">

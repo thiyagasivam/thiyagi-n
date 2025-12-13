@@ -205,22 +205,22 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>HTML Encode Decode Tool 2025 - Secure Text Conversion & Entity Generator</title>
-    <meta name="description" content="Advanced HTML encoder/decoder tool supporting multiple encoding types, entity conversion, URL encoding, and security-focused text transformation in 2025. Free online HTML entity converter.">
-    <meta name="keywords" content="HTML encoder decoder, HTML entities converter, text encoding tool 2025, HTML escape characters, web security encoder, XSS prevention tool">
+    <title>HTML Encode Decode Tool 2026 - Secure Text Conversion & Entity Generator</title>
+    <meta name="description" content="Advanced HTML encoder/decoder tool supporting multiple encoding types, entity conversion, URL encoding, and security-focused text transformation in 2026. Free online HTML entity converter.">
+    <meta name="keywords" content="HTML encoder decoder, HTML entities converter, text encoding tool 2026, HTML escape characters, web security encoder, XSS prevention tool">
     <link rel="canonical" href="https://www.thiyagi.com/html-encode">
     
     <!-- Open Graph / Facebook -->
     <meta property="og:type" content="website">
     <meta property="og:url" content="https://www.thiyagi.com/html-encode">
-    <meta property="og:title" content="HTML Encode Decode Tool 2025 - Secure Text Conversion & Entity Generator">
+    <meta property="og:title" content="HTML Encode Decode Tool 2026 - Secure Text Conversion & Entity Generator">
     <meta property="og:description" content="Advanced HTML encoder/decoder with multiple encoding types and security features. Professional web development tool.">
     <meta property="og:image" content="https://www.thiyagi.com/nt.png">
     
     <!-- Twitter -->
     <meta property="twitter:card" content="summary_large_image">
     <meta property="twitter:url" content="https://www.thiyagi.com/html-encode">
-    <meta property="twitter:title" content="HTML Encode Decode Tool 2025 - Secure Text Conversion & Entity Generator">
+    <meta property="twitter:title" content="HTML Encode Decode Tool 2026 - Secure Text Conversion & Entity Generator">
     <meta property="twitter:description" content="Advanced HTML encoder/decoder with security features and multiple encoding options.">
     <meta property="twitter:image" content="https://www.thiyagi.com/nt.png">
     
@@ -231,7 +231,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
     {
         "@context": "https://schema.org",
         "@type": "WebApplication",
-        "name": "HTML Encode Decode Tool 2025",
+        "name": "HTML Encode Decode Tool 2026",
         "description": "Advanced HTML encoder and decoder tool for web developers with multiple encoding options and security features",
         "url": "https://www.thiyagi.com/html-encode",
         "applicationCategory": "DeveloperApplication",
@@ -296,7 +296,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
 
     <div class="container mx-auto px-4 py-8 max-w-6xl">
         <header class="text-center mb-12">
-            <h1 class="text-4xl font-bold text-gray-900 mb-4">🔒 HTML Encode/Decode Tool 2025</h1>
+            <h1 class="text-4xl font-bold text-gray-900 mb-4">🔒 HTML Encode/Decode Tool 2026</h1>
             <p class="text-xl text-gray-600 max-w-4xl mx-auto">Professional HTML entity encoder and decoder with advanced features for web developers, security professionals, and content creators.</p>
         </header>
 

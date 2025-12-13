@@ -1,19 +1,19 @@
 <?php include 'header.php'; ?>
 
 <!-- SEO Meta Tags -->
-<title>Stone to Pounds Converter 2025 - stone to lbs Calculator | Thiyagi</title>
-<meta name="description" content="Free online Stone to Pounds converter 2025. Convert stone to lbs and lbs to stone instantly with accurate weight conversion for UK and US measurements.">
-<meta name="keywords" content="stone to pounds converter 2025, stone to lbs, weight converter, UK weight, imperial measurements, body weight conversion">
+<title>Stone to Pounds Converter 2026 - stone to lbs Calculator | Thiyagi</title>
+<meta name="description" content="Free online Stone to Pounds converter 2026. Convert stone to lbs and lbs to stone instantly with accurate weight conversion for UK and US measurements.">
+<meta name="keywords" content="stone to pounds converter 2026, stone to lbs, weight converter, UK weight, imperial measurements, body weight conversion">
 <meta name="author" content="Thiyagi">
-<meta property="og:title" content="Stone to Pounds Converter 2025 - stone to lbs Calculator">
-<meta property="og:description" content="Free online Stone to Pounds converter 2025. Convert stone to lbs and lbs to stone instantly.">
+<meta property="og:title" content="Stone to Pounds Converter 2026 - stone to lbs Calculator">
+<meta property="og:description" content="Free online Stone to Pounds converter 2026. Convert stone to lbs and lbs to stone instantly.">
 <meta property="og:type" content="website">
 <meta property="og:url" content="https://www.thiyagi.com/stone-to-lbs.php">
 <meta property="og:image" content="https://www.thiyagi.com/nt.png">
 <meta property="og:site_name" content="Thiyagi">
 <meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:title" content="Stone to Pounds Converter 2025 - stone to lbs Calculator">
-<meta name="twitter:description" content="Free online Stone to Pounds converter 2025. Convert stone to lbs and lbs to stone instantly.">
+<meta name="twitter:title" content="Stone to Pounds Converter 2026 - stone to lbs Calculator">
+<meta name="twitter:description" content="Free online Stone to Pounds converter 2026. Convert stone to lbs and lbs to stone instantly.">
 <meta name="twitter:image" content="https://www.thiyagi.com/nt.png">
 
 <div class="min-h-screen bg-gradient-to-br from-emerald-50 via-green-50 to-teal-50 py-12">

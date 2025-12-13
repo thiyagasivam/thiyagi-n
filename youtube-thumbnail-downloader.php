@@ -68,10 +68,10 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     
     <!-- Primary Meta Tags -->
-    <title>YouTube Thumbnail Downloader 2025 - Download High Quality YouTube Thumbnails</title>
-    <meta name="title" content="YouTube Thumbnail Downloader 2025 - Download High Quality YouTube Thumbnails">
-    <meta name="description" content="Free YouTube thumbnail downloader tool 2025. Download YouTube video thumbnails in all available resolutions including HD, 4K, and maximum resolution. No registration required.">
-    <meta name="keywords" content="youtube thumbnail downloader 2025, download youtube thumbnail, youtube thumbnail extractor, video thumbnail download, youtube image download, free thumbnail downloader 2025">
+    <title>YouTube Thumbnail Downloader 2026 - Download High Quality YouTube Thumbnails</title>
+    <meta name="title" content="YouTube Thumbnail Downloader 2026 - Download High Quality YouTube Thumbnails">
+    <meta name="description" content="Free YouTube thumbnail downloader tool 2026. Download YouTube video thumbnails in all available resolutions including HD, 4K, and maximum resolution. No registration required.">
+    <meta name="keywords" content="youtube thumbnail downloader 2026, download youtube thumbnail, youtube thumbnail extractor, video thumbnail download, youtube image download, free thumbnail downloader 2026">
     <meta name="author" content="Thiyagi">
     <meta name="robots" content="index, follow">
     <meta name="language" content="English">
@@ -80,16 +80,16 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
     <!-- Open Graph / Facebook -->
     <meta property="og:type" content="website">
     <meta property="og:url" content="https://www.thiyagi.com/youtube-thumbnail-downloader">
-    <meta property="og:title" content="YouTube Thumbnail Downloader 2025 - Download High Quality YouTube Thumbnails">
-    <meta property="og:description" content="Free YouTube thumbnail downloader tool 2025. Download YouTube video thumbnails in all available resolutions including HD, 4K, and maximum resolution. No registration required.">
+    <meta property="og:title" content="YouTube Thumbnail Downloader 2026 - Download High Quality YouTube Thumbnails">
+    <meta property="og:description" content="Free YouTube thumbnail downloader tool 2026. Download YouTube video thumbnails in all available resolutions including HD, 4K, and maximum resolution. No registration required.">
     <meta property="og:image" content="https://www.thiyagi.com/nt.png">
     <meta property="og:site_name" content="Thiyagi.com">
     
     <!-- Twitter -->
     <meta property="twitter:card" content="summary_large_image">
     <meta property="twitter:url" content="https://www.thiyagi.com/youtube-thumbnail-downloader">
-    <meta property="twitter:title" content="YouTube Thumbnail Downloader 2025 - Download High Quality YouTube Thumbnails">
-    <meta property="twitter:description" content="Free YouTube thumbnail downloader tool 2025. Download YouTube video thumbnails in all available resolutions including HD, 4K, and maximum resolution. No registration required.">
+    <meta property="twitter:title" content="YouTube Thumbnail Downloader 2026 - Download High Quality YouTube Thumbnails">
+    <meta property="twitter:description" content="Free YouTube thumbnail downloader tool 2026. Download YouTube video thumbnails in all available resolutions including HD, 4K, and maximum resolution. No registration required.">
     <meta property="twitter:image" content="https://www.thiyagi.com/nt.png">
     <meta property="twitter:creator" content="@thiyagi">
     
@@ -114,8 +114,8 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
     {
         "@context": "https://schema.org",
         "@type": "WebApplication",
-        "name": "YouTube Thumbnail Downloader 2025",
-        "description": "Free YouTube thumbnail downloader tool 2025. Download YouTube video thumbnails in all available resolutions including HD, 4K, and maximum resolution. No registration required.",
+        "name": "YouTube Thumbnail Downloader 2026",
+        "description": "Free YouTube thumbnail downloader tool 2026. Download YouTube video thumbnails in all available resolutions including HD, 4K, and maximum resolution. No registration required.",
         "url": "https://www.thiyagi.com/youtube-thumbnail-downloader",
         "applicationCategory": "Multimedia",
         "operatingSystem": "Any",
@@ -139,7 +139,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
 </head>
 <body class="bg-gray-100">
     <div class="container mx-auto p-4">
-        <h1 class="text-3xl font-bold text-center mb-6">YouTube Thumbnail Downloader 2025</h1>
+        <h1 class="text-3xl font-bold text-center mb-6">YouTube Thumbnail Downloader 2026</h1>
         
         <!-- Description Section -->
         <div class="bg-white p-6 rounded-lg shadow-md mb-6">

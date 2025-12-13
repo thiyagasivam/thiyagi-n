@@ -2,10 +2,10 @@
 <?php include 'breadcrumb-schema.php';?>
 <?php
 /**
- * MSEDCL Electricity Bill Calculator (2025)
+ * MSEDCL Electricity Bill Calculator (2026)
  * Single-file PHP solution with Tailwind CSS UI
  */
-// MSEDCL 2025 Domestic Tariff Slabs (placeholder - verify with official rates)
+// MSEDCL 2026 Domestic Tariff Slabs (placeholder - verify with official rates)
 $slab_rates = [
     ['from' => 0, 'to' => 100, 'rate' => 3.36, 'fixed' => 30],
     ['from' => 101, 'to' => 300, 'rate' => 7.28, 'fixed' => 50],
@@ -59,8 +59,8 @@ if ($units > 0) {
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>MSEDCL Electricity Bill Calculator 2025 - Maharashtra State Electricity</title>
-    <meta name="description" content="Calculate your Maharashtra electricity bill with the latest MSEDCL 2025 tariff rates. Instant estimates with subsidy options.">
+    <title>MSEDCL Electricity Bill Calculator 2026 - Maharashtra State Electricity</title>
+    <meta name="description" content="Calculate your Maharashtra electricity bill with the latest MSEDCL 2026 tariff rates. Instant estimates with subsidy options.">
     <link rel="canonical" href="https://www.thiyagi.com/electricity-board/maharashtra-msedcl-calculator" />
 
     <script src="https://cdn.tailwindcss.com"></script>
@@ -210,7 +210,7 @@ if ($units > 0) {
 <body class="bg-gray-100">
     <div class="max-w-4xl mx-auto px-4 py-8">
         <header class="text-center mb-10">
-            <h1 class="text-3xl font-bold text-blue-800 mb-2">MSEDCL Electricity Bill Calculator 2025</h1>
+            <h1 class="text-3xl font-bold text-blue-800 mb-2">MSEDCL Electricity Bill Calculator 2026</h1>
             <p class="text-gray-600">Calculate your Maharashtra power bill with latest tariff rates</p>
         </header>
         

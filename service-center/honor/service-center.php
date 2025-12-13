@@ -48,8 +48,8 @@ try {
 
     // Enhanced content with professional details
     $center['email'] = 'customersupport@psavglobaltech.com';
-    $center['page_title'] = $center['shop_name'] . ' | Honor Authorized Service Center Near Me 2025 - Expert Smartphone Repair';
-    $center['about'] = $center['shop_name'] .' is a premium authorized Honor service center Near Me 2025 providing expert repairs, genuine parts, and comprehensive maintenance for all Honor smartphones and devices. Our certified technicians ensure quality service with warranty coverage.';
+    $center['page_title'] = $center['shop_name'] . ' | Honor Authorized Service Center Near Me 2026 - Expert Smartphone Repair';
+    $center['about'] = $center['shop_name'] .' is a premium authorized Honor service center Near Me 2026 providing expert repairs, genuine parts, and comprehensive maintenance for all Honor smartphones and devices. Our certified technicians ensure quality service with warranty coverage.';
     
     $center['services'] = [
         'Screen & Display Replacement',
@@ -150,7 +150,7 @@ $breadcrumbSchema = [
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="<?= htmlspecialchars($center['about'], ENT_QUOTES, 'UTF-8') ?> Professional Honor smartphone repair with genuine parts, expert technicians, and warranty coverage. ⭐ Rated 4.8/5 stars.">
-    <meta name="keywords" content="Honor service center near me 2025, <?= htmlspecialchars($center['shop_name'], ENT_QUOTES, 'UTF-8') ?>, Honor smartphone repair, mobile repair expert, screen replacement, battery replacement, Honor Magic repair, Honor X series service, authorized Honor service, genuine Honor parts, Honor warranty repair">
+    <meta name="keywords" content="Honor service center near me 2026, <?= htmlspecialchars($center['shop_name'], ENT_QUOTES, 'UTF-8') ?>, Honor smartphone repair, mobile repair expert, screen replacement, battery replacement, Honor Magic repair, Honor X series service, authorized Honor service, genuine Honor parts, Honor warranty repair">
     <meta name="author" content="Honor Device Co. Ltd">
     <meta name="robots" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1">
     <meta name="theme-color" content="#1e88e5">

@@ -71,8 +71,8 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>JSON to JSON Schema Converter 2025 - Free Online Generator</title>
-<meta name="description" content="Free online tool to convert JSON to JSON Schema instantly. Automatically generate structured schema definitions for validation and documentation in 2025.">
+    <title>JSON to JSON Schema Converter 2026 - Free Online Generator</title>
+<meta name="description" content="Free online tool to convert JSON to JSON Schema instantly. Automatically generate structured schema definitions for validation and documentation in 2026.">
     <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" rel="stylesheet">
     <style>
         .code-container {

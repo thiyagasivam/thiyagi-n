@@ -1,19 +1,19 @@
 <?php include 'header.php'; ?>
 
 <!-- SEO Meta Tags -->
-<title>Stone UK to Pound Converter 2025 - st to lb Calculator | Thiyagi</title>
-<meta name="description" content="Free online Stone UK to Pound converter 2025. Convert st to lb and lb to st instantly with accurate weight conversion for body weight and measurements.">
-<meta name="keywords" content="stone UK to pound converter 2025, st to lb, weight converter, British weight, stone weight, pound weight">
+<title>Stone UK to Pound Converter 2026 - st to lb Calculator | Thiyagi</title>
+<meta name="description" content="Free online Stone UK to Pound converter 2026. Convert st to lb and lb to st instantly with accurate weight conversion for body weight and measurements.">
+<meta name="keywords" content="stone UK to pound converter 2026, st to lb, weight converter, British weight, stone weight, pound weight">
 <meta name="author" content="Thiyagi">
-<meta property="og:title" content="Stone UK to Pound Converter 2025 - st to lb Calculator">
-<meta property="og:description" content="Free online Stone UK to Pound converter 2025. Convert st to lb and lb to st instantly.">
+<meta property="og:title" content="Stone UK to Pound Converter 2026 - st to lb Calculator">
+<meta property="og:description" content="Free online Stone UK to Pound converter 2026. Convert st to lb and lb to st instantly.">
 <meta property="og:type" content="website">
 <meta property="og:url" content="https://www.thiyagi.com/stone-uk-to-pound.php">
 <meta property="og:image" content="https://www.thiyagi.com/nt.png">
 <meta property="og:site_name" content="Thiyagi">
 <meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:title" content="Stone UK to Pound Converter 2025 - st to lb Calculator">
-<meta name="twitter:description" content="Free online Stone UK to Pound converter 2025. Convert st to lb and lb to st instantly.">
+<meta name="twitter:title" content="Stone UK to Pound Converter 2026 - st to lb Calculator">
+<meta name="twitter:description" content="Free online Stone UK to Pound converter 2026. Convert st to lb and lb to st instantly.">
 <meta name="twitter:image" content="https://www.thiyagi.com/nt.png">
 
 <div class="min-h-screen bg-gradient-to-br from-emerald-50 via-green-50 to-teal-50 py-12">

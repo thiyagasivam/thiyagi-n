@@ -1,19 +1,19 @@
 <?php include 'header.php'; ?>
 
 <!-- SEO Meta Tags -->
-<title>Pixel to Centimeter Converter 2025 - DPI Calculator | Thiyagi</title>
-<meta name="description" content="Free online pixel to centimeter converter 2025. Convert pixels to cm with DPI settings instantly. Perfect for graphic design and printing calculations.">
-<meta name="keywords" content="pixel to centimeter converter 2025, px to cm, DPI converter, graphic design calculator, printing converter">
+<title>Pixel to Centimeter Converter 2026 - DPI Calculator | Thiyagi</title>
+<meta name="description" content="Free online pixel to centimeter converter 2026. Convert pixels to cm with DPI settings instantly. Perfect for graphic design and printing calculations.">
+<meta name="keywords" content="pixel to centimeter converter 2026, px to cm, DPI converter, graphic design calculator, printing converter">
 <meta name="author" content="Thiyagi">
-<meta property="og:title" content="Pixel to Centimeter Converter 2025 - DPI Calculator">
-<meta property="og:description" content="Free online pixel to centimeter converter 2025. Convert pixels to cm with DPI settings instantly.">
+<meta property="og:title" content="Pixel to Centimeter Converter 2026 - DPI Calculator">
+<meta property="og:description" content="Free online pixel to centimeter converter 2026. Convert pixels to cm with DPI settings instantly.">
 <meta property="og:type" content="website">
 <meta property="og:url" content="https://www.thiyagi.com/pixel-x-to-centimeter.php">
 <meta property="og:image" content="https://www.thiyagi.com/nt.png">
 <meta property="og:site_name" content="Thiyagi">
 <meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:title" content="Pixel to Centimeter Converter 2025 - DPI Calculator">
-<meta name="twitter:description" content="Free online pixel to centimeter converter 2025. Convert pixels to cm with DPI settings instantly.">
+<meta name="twitter:title" content="Pixel to Centimeter Converter 2026 - DPI Calculator">
+<meta name="twitter:description" content="Free online pixel to centimeter converter 2026. Convert pixels to cm with DPI settings instantly.">
 <meta name="twitter:image" content="https://www.thiyagi.com/nt.png">
 
 <div class="min-h-screen bg-gradient-to-br from-indigo-50 via-purple-50 to-violet-50 py-12">hp include 'header.php'; ?>

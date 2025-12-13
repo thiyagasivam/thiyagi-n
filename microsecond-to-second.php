@@ -1,19 +1,19 @@
 <?php include 'header.php'; ?>
 
 <!-- SEO Meta Tags -->
-<title>Microsecond to Second Converter 2025 - Time Calculator | Thiyagi</title>
-<meta name="description" content="Free online microsecond to second converter 2025. Convert μs to s instantly with accurate time conversion for scientific and technical calculations.">
-<meta name="keywords" content="microsecond to second converter 2025, μs to s, time converter, scientific calculator, precision timing">
+<title>Microsecond to Second Converter 2026 - Time Calculator | Thiyagi</title>
+<meta name="description" content="Free online microsecond to second converter 2026. Convert μs to s instantly with accurate time conversion for scientific and technical calculations.">
+<meta name="keywords" content="microsecond to second converter 2026, μs to s, time converter, scientific calculator, precision timing">
 <meta name="author" content="Thiyagi">
-<meta property="og:title" content="Microsecond to Second Converter 2025 - Time Calculator">
-<meta property="og:description" content="Free online microsecond to second converter 2025. Convert μs to s instantly with accurate time conversion.">
+<meta property="og:title" content="Microsecond to Second Converter 2026 - Time Calculator">
+<meta property="og:description" content="Free online microsecond to second converter 2026. Convert μs to s instantly with accurate time conversion.">
 <meta property="og:type" content="website">
 <meta property="og:url" content="https://www.thiyagi.com/microsecond-to-second.php">
 <meta property="og:image" content="https://www.thiyagi.com/nt.png">
 <meta property="og:site_name" content="Thiyagi">
 <meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:title" content="Microsecond to Second Converter 2025 - Time Calculator">
-<meta name="twitter:description" content="Free online microsecond to second converter 2025. Convert μs to s instantly.">
+<meta name="twitter:title" content="Microsecond to Second Converter 2026 - Time Calculator">
+<meta name="twitter:description" content="Free online microsecond to second converter 2026. Convert μs to s instantly.">
 <meta name="twitter:image" content="https://www.thiyagi.com/nt.png">
 
 <div class="min-h-screen bg-gradient-to-br from-cyan-50 via-blue-50 to-indigo-50 py-12">

@@ -1,19 +1,19 @@
 <?php include 'header.php'; ?>
 
 <!-- SEO Meta Tags -->
-<title>Pint to Cups Converter 2025 - Volume Measurement Calculator | Thiyagi</title>
-<meta name="description" content="Free online pint to cups converter 2025. Convert pints to cups instantly with accurate volume conversion. Perfect for cooking and baking measurements.">
-<meta name="keywords" content="pint to cups converter 2025, cooking converter, baking calculator, volume measurement, kitchen converter">
+<title>Pint to Cups Converter 2026 - Volume Measurement Calculator | Thiyagi</title>
+<meta name="description" content="Free online pint to cups converter 2026. Convert pints to cups instantly with accurate volume conversion. Perfect for cooking and baking measurements.">
+<meta name="keywords" content="pint to cups converter 2026, cooking converter, baking calculator, volume measurement, kitchen converter">
 <meta name="author" content="Thiyagi">
-<meta property="og:title" content="Pint to Cups Converter 2025 - Volume Measurement Calculator">
-<meta property="og:description" content="Free online pint to cups converter 2025. Convert pints to cups instantly with accurate volume conversion.">
+<meta property="og:title" content="Pint to Cups Converter 2026 - Volume Measurement Calculator">
+<meta property="og:description" content="Free online pint to cups converter 2026. Convert pints to cups instantly with accurate volume conversion.">
 <meta property="og:type" content="website">
 <meta property="og:url" content="https://www.thiyagi.com/pint-to-cups.php">
 <meta property="og:image" content="https://www.thiyagi.com/nt.png">
 <meta property="og:site_name" content="Thiyagi">
 <meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:title" content="Pint to Cups Converter 2025 - Volume Measurement Calculator">
-<meta name="twitter:description" content="Free online pint to cups converter 2025. Convert pints to cups instantly with accurate volume conversion.">
+<meta name="twitter:title" content="Pint to Cups Converter 2026 - Volume Measurement Calculator">
+<meta name="twitter:description" content="Free online pint to cups converter 2026. Convert pints to cups instantly with accurate volume conversion.">
 <meta name="twitter:image" content="https://www.thiyagi.com/nt.png">
 
 <div class="min-h-screen bg-gradient-to-br from-rose-50 via-pink-50 to-red-50 py-12">

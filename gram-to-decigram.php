@@ -1,19 +1,19 @@
 <?php include 'header.php'; ?>
 
 <!-- SEO Meta Tags -->
-<title>Gram to Decigram Converter 2025 - g to dg Calculator | Thiyagi</title>
-<meta name="description" content="Free online Gram to Decigram converter 2025. Convert g to dg and dg to g instantly with accurate metric weight conversion.">
-<meta name="keywords" content="gram to decigram converter 2025, g to dg, metric weight, mass converter, cooking measurements, laboratory scale">
+<title>Gram to Decigram Converter 2026 - g to dg Calculator | Thiyagi</title>
+<meta name="description" content="Free online Gram to Decigram converter 2026. Convert g to dg and dg to g instantly with accurate metric weight conversion.">
+<meta name="keywords" content="gram to decigram converter 2026, g to dg, metric weight, mass converter, cooking measurements, laboratory scale">
 <meta name="author" content="Thiyagi">
-<meta property="og:title" content="Gram to Decigram Converter 2025 - g to dg Calculator">
-<meta property="og:description" content="Free online Gram to Decigram converter 2025. Convert g to dg and dg to g instantly.">
+<meta property="og:title" content="Gram to Decigram Converter 2026 - g to dg Calculator">
+<meta property="og:description" content="Free online Gram to Decigram converter 2026. Convert g to dg and dg to g instantly.">
 <meta property="og:type" content="website">
 <meta property="og:url" content="https://www.thiyagi.com/gram-to-decigram.php">
 <meta property="og:image" content="https://www.thiyagi.com/nt.png">
 <meta property="og:site_name" content="Thiyagi">
 <meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:title" content="Gram to Decigram Converter 2025 - g to dg Calculator">
-<meta property="twitter:description" content="Free online Gram to Decigram converter 2025. Convert g to dg and dg to g instantly.">
+<meta name="twitter:title" content="Gram to Decigram Converter 2026 - g to dg Calculator">
+<meta property="twitter:description" content="Free online Gram to Decigram converter 2026. Convert g to dg and dg to g instantly.">
 <meta name="twitter:image" content="https://www.thiyagi.com/nt.png">
 
 <div class="min-h-screen bg-gradient-to-br from-lime-50 via-green-50 to-emerald-50 py-12">

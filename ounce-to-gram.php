@@ -1,12 +1,12 @@
 <?php include 'header.php';?>
-<title>Ounce to Gram Converter 2025 | OZ to G | Free Tool</title>
-<meta name="description" content="Convert ounce to gram instantly with our 2025 accurate converter. Perfect oz to g conversion with real-time calculations for cooking and baking.">
-<meta name="keywords" content="ounce to gram 2025, ounce gram converter, weight unit conversion 2025, cooking weight calculator, oz g conversion">
+<title>Ounce to Gram Converter 2026 | OZ to G | Free Tool</title>
+<meta name="description" content="Convert ounce to gram instantly with our 2026 accurate converter. Perfect oz to g conversion with real-time calculations for cooking and baking.">
+<meta name="keywords" content="ounce to gram 2026, ounce gram converter, weight unit conversion 2026, cooking weight calculator, oz g conversion">
 <link rel="canonical" href="https://www.thiyagi.com/ounce-to-gram">
 
 <!-- Open Graph Meta Tags -->
-<meta property="og:title" content="Ounce to Gram Converter 2025 | OZ to G | Free Tool">
-<meta property="og:description" content="Convert ounce to gram instantly with our 2025 accurate converter. Perfect oz to g conversion with real-time calculations for cooking and baking.">
+<meta property="og:title" content="Ounce to Gram Converter 2026 | OZ to G | Free Tool">
+<meta property="og:description" content="Convert ounce to gram instantly with our 2026 accurate converter. Perfect oz to g conversion with real-time calculations for cooking and baking.">
 <meta property="og:url" content="https://www.thiyagi.com/ounce-to-gram">
 <meta property="og:type" content="website">
 <meta property="og:image" content="https://www.thiyagi.com/nt.png">
@@ -14,8 +14,8 @@
 
 <!-- Twitter Card Meta Tags -->
 <meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:title" content="Ounce to Gram Converter 2025 | OZ to G | Free Tool">
-<meta name="twitter:description" content="Convert ounce to gram instantly with our 2025 accurate converter. Perfect oz to g conversion with real-time calculations for cooking and baking.">
+<meta name="twitter:title" content="Ounce to Gram Converter 2026 | OZ to G | Free Tool">
+<meta name="twitter:description" content="Convert ounce to gram instantly with our 2026 accurate converter. Perfect oz to g conversion with real-time calculations for cooking and baking.">
 <meta name="twitter:image" content="https://www.thiyagi.com/nt.png">
 
 <!-- Additional SEO Meta Tags -->
@@ -39,7 +39,7 @@
           Ounce to Gram Converter
         </h1>
         <p class="text-xl text-gray-600 mb-8 max-w-3xl mx-auto">
-          Convert ounces to grams instantly with our accurate 2025 calculator. 
+          Convert ounces to grams instantly with our accurate 2026 calculator. 
           Perfect for cooking recipes, baking measurements, and international ingredient conversions.
         </p>
       </div>
@@ -157,16 +157,16 @@
     <article class="bg-white rounded-xl shadow-lg p-8">
       <h2 class="text-2xl font-bold text-gray-800 mb-6 flex items-center gap-3">
         <i class="fas fa-info-circle text-orange-600" aria-hidden="true"></i>
-        Ounce to Gram Conversion 2025
+        Ounce to Gram Conversion 2026
       </h2>
       <div class="prose max-w-none text-gray-600">
         <p class="mb-4">
-          Converting ounces to grams is essential for cooking recipes, baking measurements, and international ingredient conversions in 2025. 
+          Converting ounces to grams is essential for cooking recipes, baking measurements, and international ingredient conversions in 2026. 
           This weight unit conversion enables accurate calculations for chefs, 
           bakers, and food enthusiasts working with imperial to metric conversions in the kitchen.
         </p>
         <p class="mb-6">
-          Our 2025 converter provides instant and accurate conversions from ounces to grams, essential for cooking professionals, 
+          Our 2026 converter provides instant and accurate conversions from ounces to grams, essential for cooking professionals, 
           bakers, food bloggers, and home cooks working with international recipes. 
           One ounce equals approximately 28.3495 grams.
         </p>

@@ -17,7 +17,7 @@
                     <a aria-label="Twitter" href="https://x.com/Support_Thiyagi" class="w-10 h-10 bg-gray-700 text-gray-300 rounded-full flex items-center justify-center hover:bg-blue-400 hover:text-white transition-all duration-300 hover:-translate-y-1">
                         <i class="fab fa-twitter"></i>
                     </a>
-                    <a aria-label="Instagram" href="https://www.instagram.com/thiyagi2025/" class="w-10 h-10 bg-gray-700 text-gray-300 rounded-full flex items-center justify-center hover:bg-pink-600 hover:text-white transition-all duration-300 hover:-translate-y-1">
+                    <a aria-label="Instagram" href="https://www.instagram.com/thiyagi2026/" class="w-10 h-10 bg-gray-700 text-gray-300 rounded-full flex items-center justify-center hover:bg-pink-600 hover:text-white transition-all duration-300 hover:-translate-y-1">
                         <i class="fab fa-instagram"></i>
                     </a>
                     <a aria-label="LinkedIn" href="https://www.linkedin.com/company/thiyagi/" class="w-10 h-10 bg-gray-700 text-gray-300 rounded-full flex items-center justify-center hover:bg-blue-600 hover:text-white transition-all duration-300 hover:-translate-y-1">

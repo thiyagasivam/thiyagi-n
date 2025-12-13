@@ -3,14 +3,14 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Snow Day Calculator 2025 - Predict Snow Day Likelihood | Thiyagi.com</title>
-    <meta name="description" content="Snow day calculator 2025 - predict snow day likelihood based on weather conditions, temperature, wind speed, and location factors for accurate school closure predictions.">
-    <meta name="keywords" content="snow day calculator 2025, snow day predictor, school closure calculator, snow storm calculator, weather prediction">
+    <title>Snow Day Calculator 2026 - Predict Snow Day Likelihood | Thiyagi.com</title>
+    <meta name="description" content="Snow day calculator 2026 - predict snow day likelihood based on weather conditions, temperature, wind speed, and location factors for accurate school closure predictions.">
+    <meta name="keywords" content="snow day calculator 2026, snow day predictor, school closure calculator, snow storm calculator, weather prediction">
     <meta name="author" content="Thiyagi">
     <meta name="robots" content="index, follow">
     
     <!-- Open Graph Meta Tags -->
-    <meta property="og:title" content="Snow Day Calculator 2025 - Predict Snow Day Likelihood">
+    <meta property="og:title" content="Snow Day Calculator 2026 - Predict Snow Day Likelihood">
     <meta property="og:description" content="Predict snow day likelihood based on weather conditions and location factors.">
     <meta property="og:url" content="https://www.thiyagi.com/snow-day-calculator">
     <meta property="og:type" content="website">
@@ -18,7 +18,7 @@
     
     <!-- Twitter Card Meta Tags -->
     <meta name="twitter:card" content="summary_large_image">
-    <meta name="twitter:title" content="Snow Day Calculator 2025 - Predict Snow Day Likelihood">
+    <meta name="twitter:title" content="Snow Day Calculator 2026 - Predict Snow Day Likelihood">
     <meta name="twitter:description" content="Calculate snow day probability with our advanced weather prediction calculator.">
     <meta name="twitter:image" content="https://www.thiyagi.com/nt.png">
     
@@ -92,7 +92,7 @@
 {
   "@context": "https://schema.org",
   "@type": "WebApplication",
-  "name": "Snow Day Calculator 2025",
+  "name": "Snow Day Calculator 2026",
   "description": "Predict snow day likelihood based on weather conditions, temperature, wind speed, and location factors for accurate school closure predictions.",
   "url": "https://www.thiyagi.com/snow-day-calculator",
   "applicationCategory": "UtilityApplication",

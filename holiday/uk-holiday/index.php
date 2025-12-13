@@ -1,8 +1,8 @@
 <?php include '../../header.php'; ?>
 
-<title>UK Holidays 2025 | Complete Calendar | All Regions | Bank Holidays</title>
-<meta name="description" content="Complete UK Holiday Calendar 2025 for all regions. Find bank holidays, cultural events, and observances for England, Scotland, Wales, Northern Ireland, and Crown Dependencies.">
-<meta name="keywords" content="UK holidays 2025, British holidays, bank holidays UK, England holidays, Scotland holidays, Wales holidays, Northern Ireland holidays">
+<title>UK Holidays 2026 | Complete Calendar | All Regions | Bank Holidays</title>
+<meta name="description" content="Complete UK Holiday Calendar 2026 for all regions. Find bank holidays, cultural events, and observances for England, Scotland, Wales, Northern Ireland, and Crown Dependencies.">
+<meta name="keywords" content="UK holidays 2026, British holidays, bank holidays UK, England holidays, Scotland holidays, Wales holidays, Northern Ireland holidays">
 <link rel="canonical" href="https://<?= $_SERVER['HTTP_HOST'] . strtok($_SERVER['REQUEST_URI'], '?') ?>">
 
 <style>
@@ -28,7 +28,7 @@
                 Holidays
             </a>
             <i class="fas fa-chevron-right text-gray-400"></i>
-            <span class="text-gray-600 font-medium">UK Holidays 2025</span>
+            <span class="text-gray-600 font-medium">UK Holidays 2026</span>
         </div>
     </div>
 </nav>
@@ -44,7 +44,7 @@
         </div>
                 <i class="fas fa-calendar-alt text-6xl text-white drop-shadow-lg"></i>
             </div>
-            <h1 class="text-5xl font-bold mb-4">UK Holidays 2025</h1>
+            <h1 class="text-5xl font-bold mb-4">UK Holidays 2026</h1>
             <p class="text-xl opacity-90 mb-6">Complete Holiday Calendar for All UK Regions</p>
             <div class="flex justify-center space-x-8 text-sm">
                 <div class="flex items-center space-x-2">
@@ -207,49 +207,49 @@
         </div>
     </section>
     
-    <!-- Bank Holidays 2025 Section -->
+    <!-- Bank Holidays 2026 Section -->
     <section class="bg-gray-50 rounded-lg p-8 mb-8">
-        <h2 class="text-2xl font-bold text-center mb-6 text-gray-800">Bank Holidays 2025</h2>
+        <h2 class="text-2xl font-bold text-center mb-6 text-gray-800">Bank Holidays 2026</h2>
         <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-4">
             <div class="bg-white p-4 rounded-lg shadow text-center">
                 <i class="fas fa-champagne-glasses text-2xl text-uk-primary mb-2"></i>
                 <h3 class="font-bold">New Year's Day</h3>
-                <p class="text-sm text-gray-600">January 1, 2025</p>
+                <p class="text-sm text-gray-600">January 1, 2026</p>
             </div>
             <div class="bg-white p-4 rounded-lg shadow text-center">
                 <i class="fas fa-cross text-2xl text-uk-primary mb-2"></i>
                 <h3 class="font-bold">Good Friday</h3>
-                <p class="text-sm text-gray-600">April 18, 2025</p>
+                <p class="text-sm text-gray-600">April 18, 2026</p>
             </div>
             <div class="bg-white p-4 rounded-lg shadow text-center">
                 <i class="fas fa-egg text-2xl text-uk-primary mb-2"></i>
                 <h3 class="font-bold">Easter Monday</h3>
-                <p class="text-sm text-gray-600">April 21, 2025</p>
+                <p class="text-sm text-gray-600">April 21, 2026</p>
             </div>
             <div class="bg-white p-4 rounded-lg shadow text-center">
                 <i class="fas fa-calendar text-2xl text-uk-primary mb-2"></i>
                 <h3 class="font-bold">Early May Bank Holiday</h3>
-                <p class="text-sm text-gray-600">May 5, 2025</p>
+                <p class="text-sm text-gray-600">May 5, 2026</p>
             </div>
             <div class="bg-white p-4 rounded-lg shadow text-center">
                 <i class="fas fa-leaf text-2xl text-uk-primary mb-2"></i>
                 <h3 class="font-bold">Spring Bank Holiday</h3>
-                <p class="text-sm text-gray-600">May 26, 2025</p>
+                <p class="text-sm text-gray-600">May 26, 2026</p>
             </div>
             <div class="bg-white p-4 rounded-lg shadow text-center">
                 <i class="fas fa-sun text-2xl text-uk-primary mb-2"></i>
                 <h3 class="font-bold">Summer Bank Holiday</h3>
-                <p class="text-sm text-gray-600">August 25, 2025</p>
+                <p class="text-sm text-gray-600">August 25, 2026</p>
             </div>
             <div class="bg-white p-4 rounded-lg shadow text-center">
                 <i class="fas fa-tree text-2xl text-uk-primary mb-2"></i>
                 <h3 class="font-bold">Christmas Day</h3>
-                <p class="text-sm text-gray-600">December 25, 2025</p>
+                <p class="text-sm text-gray-600">December 25, 2026</p>
             </div>
             <div class="bg-white p-4 rounded-lg shadow text-center">
                 <i class="fas fa-gift text-2xl text-uk-primary mb-2"></i>
                 <h3 class="font-bold">Boxing Day</h3>
-                <p class="text-sm text-gray-600">December 26, 2025</p>
+                <p class="text-sm text-gray-600">December 26, 2026</p>
             </div>
         </div>
     </section>

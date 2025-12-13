@@ -1,19 +1,19 @@
 <?php include 'header.php'; ?>
 
 <!-- SEO Meta Tags -->
-<title>Ton Refrigeration to Kilowatt Converter 2025 - TR to kW Calculator | Thiyagi</title>
-<meta name="description" content="Free online Ton Refrigeration to Kilowatt converter 2025. Convert TR to kW and kW to TR instantly with accurate cooling power conversion.">
-<meta name="keywords" content="ton refrigeration to kilowatt converter 2025, TR to kW, refrigeration conversion, cooling power, HVAC calculator">
+<title>Ton Refrigeration to Kilowatt Converter 2026 - TR to kW Calculator | Thiyagi</title>
+<meta name="description" content="Free online Ton Refrigeration to Kilowatt converter 2026. Convert TR to kW and kW to TR instantly with accurate cooling power conversion.">
+<meta name="keywords" content="ton refrigeration to kilowatt converter 2026, TR to kW, refrigeration conversion, cooling power, HVAC calculator">
 <meta name="author" content="Thiyagi">
-<meta property="og:title" content="Ton Refrigeration to Kilowatt Converter 2025 - TR to kW Calculator">
-<meta property="og:description" content="Free online Ton Refrigeration to Kilowatt converter 2025. Convert TR to kW and kW to TR instantly.">
+<meta property="og:title" content="Ton Refrigeration to Kilowatt Converter 2026 - TR to kW Calculator">
+<meta property="og:description" content="Free online Ton Refrigeration to Kilowatt converter 2026. Convert TR to kW and kW to TR instantly.">
 <meta property="og:type" content="website">
 <meta property="og:url" content="https://www.thiyagi.com/ton-refrigeration-to-kilowatt.php">
 <meta property="og:image" content="https://www.thiyagi.com/nt.png">
 <meta property="og:site_name" content="Thiyagi">
 <meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:title" content="Ton Refrigeration to Kilowatt Converter 2025 - TR to kW Calculator">
-<meta property="twitter:description" content="Free online Ton Refrigeration to Kilowatt converter 2025. Convert TR to kW and kW to TR instantly.">
+<meta name="twitter:title" content="Ton Refrigeration to Kilowatt Converter 2026 - TR to kW Calculator">
+<meta property="twitter:description" content="Free online Ton Refrigeration to Kilowatt converter 2026. Convert TR to kW and kW to TR instantly.">
 <meta name="twitter:image" content="https://www.thiyagi.com/nt.png">
 
 <div class="min-h-screen bg-gradient-to-br from-cyan-50 via-blue-50 to-indigo-50 py-12">

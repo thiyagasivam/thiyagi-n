@@ -1,12 +1,12 @@
 <?php include 'header.php';?>
-<title>Yards to Meters Converter 2025 | yd to m | Free Distance Tool</title>
-<meta name="description" content="Convert yards to meters instantly with our 2025 accurate converter. Perfect yd to m conversion with real-time calculations for sports fields and construction measurements.">
-<meta name="keywords" content="yards to meters converter 2025, yd to m converter, yards meters conversion, distance converter 2025, sports measurements, construction calculator, field dimensions, athletic tracks, measurement tools, metric conversion">
+<title>Yards to Meters Converter 2026 | yd to m | Free Distance Tool</title>
+<meta name="description" content="Convert yards to meters instantly with our 2026 accurate converter. Perfect yd to m conversion with real-time calculations for sports fields and construction measurements.">
+<meta name="keywords" content="yards to meters converter 2026, yd to m converter, yards meters conversion, distance converter 2026, sports measurements, construction calculator, field dimensions, athletic tracks, measurement tools, metric conversion">
 <link rel="canonical" href="https://www.thiyagi.com/yards-to-meters">
 
 <!-- Open Graph Meta Tags -->
-<meta property="og:title" content="Yards to Meters Converter 2025 | yd to m | Free Distance Tool">
-<meta property="og:description" content="Convert yards to meters instantly with our 2025 accurate converter. Perfect yd to m conversion with real-time calculations for sports fields and construction measurements.">
+<meta property="og:title" content="Yards to Meters Converter 2026 | yd to m | Free Distance Tool">
+<meta property="og:description" content="Convert yards to meters instantly with our 2026 accurate converter. Perfect yd to m conversion with real-time calculations for sports fields and construction measurements.">
 <meta property="og:url" content="https://www.thiyagi.com/yards-to-meters">
 <meta property="og:type" content="website">
 <meta property="og:image" content="https://www.thiyagi.com/nt.png">
@@ -14,8 +14,8 @@
 
 <!-- Twitter Card Meta Tags -->
 <meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:title" content="Yards to Meters Converter 2025 | yd to m | Free Distance Tool">
-<meta name="twitter:description" content="Convert yards to meters instantly with our 2025 accurate converter. Perfect yd to m conversion with real-time calculations for sports fields and construction measurements.">
+<meta name="twitter:title" content="Yards to Meters Converter 2026 | yd to m | Free Distance Tool">
+<meta name="twitter:description" content="Convert yards to meters instantly with our 2026 accurate converter. Perfect yd to m conversion with real-time calculations for sports fields and construction measurements.">
 <meta name="twitter:image" content="https://www.thiyagi.com/nt.png">
 
 <!-- Additional SEO Meta Tags -->
@@ -47,7 +47,7 @@
   "@context": "https://schema.org",
   "@type": "WebApplication",
   "name": "Yards to Meters Converter",
-  "description": "Convert yards to meters instantly with our accurate 2025 calculator. Perfect yd to m conversion with real-time calculations for sports fields and construction measurements.",
+  "description": "Convert yards to meters instantly with our accurate 2026 calculator. Perfect yd to m conversion with real-time calculations for sports fields and construction measurements.",
   "url": "https://www.thiyagi.com/yards-to-meters",
   "applicationCategory": "UtilityApplication",
   "operatingSystem": "Web Browser",
@@ -189,7 +189,7 @@
           Yards to Meters Converter
         </h1>
         <p class="text-xl text-gray-600 mb-8 max-w-3xl mx-auto">
-          Convert yards to meters instantly with our accurate 2025 calculator. 
+          Convert yards to meters instantly with our accurate 2026 calculator. 
           Perfect for sports field measurements, construction projects, and athletic planning.
         </p>
       </div>

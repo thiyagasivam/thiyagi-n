@@ -1,19 +1,19 @@
 <?php include 'header.php'; ?>
 
 <!-- SEO Meta Tags -->
-<title>Greek Cubit to Foot Converter 2025 - Ancient Measurement Calculator | Thiyagi</title>
-<meta name="description" content="Free online Greek Cubit to Foot converter 2025. Convert ancient Greek cubit to modern feet with accurate historical measurement conversion.">
-<meta name="keywords" content="greek cubit to foot converter 2025, ancient measurements, historical units, archaeological calculator">
+<title>Greek Cubit to Foot Converter 2026 - Ancient Measurement Calculator | Thiyagi</title>
+<meta name="description" content="Free online Greek Cubit to Foot converter 2026. Convert ancient Greek cubit to modern feet with accurate historical measurement conversion.">
+<meta name="keywords" content="greek cubit to foot converter 2026, ancient measurements, historical units, archaeological calculator">
 <meta name="author" content="Thiyagi">
-<meta property="og:title" content="Greek Cubit to Foot Converter 2025 - Ancient Measurement Calculator">
-<meta property="og:description" content="Free online Greek Cubit to Foot converter 2025. Convert ancient Greek cubit to modern feet instantly.">
+<meta property="og:title" content="Greek Cubit to Foot Converter 2026 - Ancient Measurement Calculator">
+<meta property="og:description" content="Free online Greek Cubit to Foot converter 2026. Convert ancient Greek cubit to modern feet instantly.">
 <meta property="og:type" content="website">
 <meta property="og:url" content="https://www.thiyagi.com/cubit-greek-to-foot.php">
 <meta property="og:image" content="https://www.thiyagi.com/nt.png">
 <meta property="og:site_name" content="Thiyagi">
 <meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:title" content="Greek Cubit to Foot Converter 2025 - Ancient Measurement Calculator">
-<meta property="twitter:description" content="Free online Greek Cubit to Foot converter 2025. Convert ancient Greek cubit to modern feet instantly.">
+<meta name="twitter:title" content="Greek Cubit to Foot Converter 2026 - Ancient Measurement Calculator">
+<meta property="twitter:description" content="Free online Greek Cubit to Foot converter 2026. Convert ancient Greek cubit to modern feet instantly.">
 <meta name="twitter:image" content="https://www.thiyagi.com/nt.png">
 
 <div class="min-h-screen bg-gradient-to-br from-amber-50 via-orange-50 to-yellow-50 py-12">

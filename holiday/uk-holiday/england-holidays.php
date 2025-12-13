@@ -1,8 +1,8 @@
 <?php 
-// England Holidays 2025 - Page specific head content
-$page_title = "England Holidays 2025 - Complete Calendar & Bank Holidays | 25+ Years Experience";
-$page_description = "Complete England Holiday Calendar 2025 with all bank holidays, cultural events, and observances. Professional holiday planning guide with 25+ years of expertise. Plan your year with our comprehensive England holiday directory.";
-$page_keywords = "England holidays 2025, England bank holidays, UK holidays, England festivals, England calendar, holidays England, festival dates 2025, 25 years experience";
+// England Holidays 2026 - Page specific head content
+$page_title = "England Holidays 2026 - Complete Calendar & Bank Holidays | 25+ Years Experience";
+$page_description = "Complete England Holiday Calendar 2026 with all bank holidays, cultural events, and observances. Professional holiday planning guide with 25+ years of expertise. Plan your year with our comprehensive England holiday directory.";
+$page_keywords = "England holidays 2026, England bank holidays, UK holidays, England festivals, England calendar, holidays England, festival dates 2026, 25 years experience";
 $canonical_url = "https://" . $_SERVER['HTTP_HOST'] . $_SERVER['REQUEST_URI'];
 
 include '../../header.php'; 
@@ -69,98 +69,98 @@ h1, h2, h3, h4, h5, h6 {
                 UK Holidays
             </a>
             <i class="fas fa-chevron-right text-gray-400"></i>
-            <span class="text-gray-600 font-medium">England Holidays 2025</span>
+            <span class="text-gray-600 font-medium">England Holidays 2026</span>
         </div>
     </div>
 </nav>
 
 <?php
-// England Holidays 2025 Data
-$holidays_2025 = array (
-  '2025-01-01' => 
+// England Holidays 2026 Data
+$holidays_2026 = array (
+  '2026-01-01' => 
   array (
     'name' => 'New Year\'s Day',
     'type' => 'Bank Holiday',
     'icon' => 'fa-solid fa-champagne-glasses',
     'bank_holiday' => true,
   ),
-  '2025-02-14' => 
+  '2026-02-14' => 
   array (
     'name' => 'Valentine\'s Day',
     'type' => 'Cultural Holiday',
     'icon' => 'fa-solid fa-heart',
     'bank_holiday' => false,
   ),
-  '2025-04-18' => 
+  '2026-04-18' => 
   array (
     'name' => 'Good Friday',
     'type' => 'Bank Holiday',
     'icon' => 'fa-solid fa-cross',
     'bank_holiday' => true,
   ),
-  '2025-04-21' => 
+  '2026-04-21' => 
   array (
     'name' => 'Easter Monday',
     'type' => 'Bank Holiday',
     'icon' => 'fa-solid fa-egg',
     'bank_holiday' => true,
   ),
-  '2025-04-23' => 
+  '2026-04-23' => 
   array (
     'name' => 'St. George\'s Day',
     'type' => 'Patron Saint Day',
     'icon' => 'fa-solid fa-dragon',
   ),
-  '2025-05-05' => 
+  '2026-05-05' => 
   array (
     'name' => 'Early May Bank Holiday',
     'type' => 'Bank Holiday',
     'icon' => 'fa-solid fa-calendar',
     'bank_holiday' => true,
   ),
-  '2025-05-26' => 
+  '2026-05-26' => 
   array (
     'name' => 'Spring Bank Holiday',
     'type' => 'Bank Holiday',
     'icon' => 'fa-solid fa-leaf',
     'bank_holiday' => true,
   ),
-  '2025-08-25' => 
+  '2026-08-25' => 
   array (
     'name' => 'Summer Bank Holiday',
     'type' => 'Bank Holiday',
     'icon' => 'fa-solid fa-sun',
     'bank_holiday' => true,
   ),
-  '2025-10-31' => 
+  '2026-10-31' => 
   array (
     'name' => 'Halloween',
     'type' => 'Cultural Holiday',
     'icon' => 'fa-solid fa-ghost',
     'bank_holiday' => false,
   ),
-  '2025-11-05' => 
+  '2026-11-05' => 
   array (
     'name' => 'Guy Fawkes Night',
     'type' => 'Cultural Holiday',
     'icon' => 'fa-solid fa-fire',
     'bank_holiday' => false,
   ),
-  '2025-11-11' => 
+  '2026-11-11' => 
   array (
     'name' => 'Remembrance Day',
     'type' => 'Commemorative Day',
     'icon' => 'fa-solid fa-poppy',
     'bank_holiday' => false,
   ),
-  '2025-12-25' => 
+  '2026-12-25' => 
   array (
     'name' => 'Christmas Day',
     'type' => 'Bank Holiday',
     'icon' => 'fa-solid fa-tree',
     'bank_holiday' => true,
   ),
-  '2025-12-26' => 
+  '2026-12-26' => 
   array (
     'name' => 'Boxing Day',
     'type' => 'Bank Holiday',
@@ -209,7 +209,7 @@ $next_month = get_next_month($current_month, $current_year);
             <div class="absolute h-full w-1 bg-red-600 left-1/2 transform -translate-x-1/2"></div>
             <div class="absolute w-full h-1 bg-red-600 top-1/2 transform -translate-y-1/2"></div>
         </div>
-                        <span>England Holidays 2025</span>
+                        <span>England Holidays 2026</span>
                     </div></h1>
                     <p class="text-lg opacity-90">Bank Holidays, Cultural Events, Observances</p>
                 </div>
@@ -221,7 +221,7 @@ $next_month = get_next_month($current_month, $current_year);
                 </div>
                 <div class="mt-2 flex items-center space-x-2">
                     <i class="fas fa-gift text-yellow-200"></i>
-                    <span class="text-sm opacity-75"><?php echo count($holidays_2025); ?> Total Holidays</span>
+                    <span class="text-sm opacity-75"><?php echo count($holidays_2026); ?> Total Holidays</span>
                 </div>
             </div>
         </div>
@@ -292,7 +292,7 @@ $next_month = get_next_month($current_month, $current_year);
                     // Days of the month
                     for ($day = 1; $day <= $days_in_month; $day++) {
                         $date = sprintf('%04d-%02d-%02d', $current_year, $current_month, $day);
-                        $is_holiday = array_key_exists($date, $holidays_2025);
+                        $is_holiday = array_key_exists($date, $holidays_2026);
                         $is_today = ($date === $today);
                         $is_weekend = (date('w', mktime(0, 0, 0, $current_month, $day, $current_year)) == 0 || 
                                       date('w', mktime(0, 0, 0, $current_month, $day, $current_year)) == 6);
@@ -310,7 +310,7 @@ $next_month = get_next_month($current_month, $current_year);
                         echo "<span class=\"text-sm font-medium\">$day</span>";
                         
                         if ($is_holiday) {
-                            echo '<div class="text-xs mt-1 truncate">' . $holidays_2025[$date]['name'] . '</div>';
+                            echo '<div class="text-xs mt-1 truncate">' . $holidays_2026[$date]['name'] . '</div>';
                         }
                         
                         if ($is_today) {
@@ -337,7 +337,7 @@ $next_month = get_next_month($current_month, $current_year);
                     <?php
                     $today = date('Y-m-d');
                     $upcoming_count = 0;
-                    foreach ($holidays_2025 as $date => $holiday) {
+                    foreach ($holidays_2026 as $date => $holiday) {
                         if ($date >= $today && $upcoming_count < 5) {
                             $formatted_date = date('M d, Y', strtotime($date));
                             $day_name = date('l', strtotime($date));
@@ -363,16 +363,16 @@ $next_month = get_next_month($current_month, $current_year);
                 </h3>
                 <div class="space-y-3">
                     <?php
-                    $bank_holidays = array_filter($holidays_2025, function($holiday) {
+                    $bank_holidays = array_filter($holidays_2026, function($holiday) {
                         return isset($holiday['bank_holiday']) && $holiday['bank_holiday'];
                     });
-                    $cultural_holidays = array_filter($holidays_2025, function($holiday) {
+                    $cultural_holidays = array_filter($holidays_2026, function($holiday) {
                         return $holiday['type'] === 'Cultural Holiday';
                     });
                     ?>
                     <div class="flex justify-between items-center">
                         <span class="text-gray-600">Total Holidays:</span>
-                        <span class="font-bold text-state-primary"><?php echo count($holidays_2025); ?></span>
+                        <span class="font-bold text-state-primary"><?php echo count($holidays_2026); ?></span>
                     </div>
                     <div class="flex justify-between items-center">
                         <span class="text-gray-600">Bank Holidays:</span>
@@ -475,53 +475,53 @@ $next_month = get_next_month($current_month, $current_year);
     </div>
 </div>
 
-<!-- Bank Holidays 2025 Section -->
+<!-- Bank Holidays 2026 Section -->
 <div class="bg-gradient-to-r from-state-primary to-state-secondary text-white rounded-lg shadow-lg mx-4 mb-8">
     <div class="p-8">
         <h2 class="text-3xl font-bold text-center mb-8">
             <i class="fas fa-calendar-alt mr-3"></i>
-            Bank Holidays 2025
+            Bank Holidays 2026
         </h2>
         <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-4">
             <div class="bg-white bg-opacity-10 p-4 rounded-lg text-center">
                 <i class="fas fa-champagne-glasses text-2xl text-yellow-300 mb-2"></i>
                 <h3 class="font-bold">New Year's Day</h3>
-                <p class="text-sm opacity-90">January 1, 2025</p>
+                <p class="text-sm opacity-90">January 1, 2026</p>
             </div>
             <div class="bg-white bg-opacity-10 p-4 rounded-lg text-center">
                 <i class="fas fa-cross text-2xl text-yellow-300 mb-2"></i>
                 <h3 class="font-bold">Good Friday</h3>
-                <p class="text-sm opacity-90">April 18, 2025</p>
+                <p class="text-sm opacity-90">April 18, 2026</p>
             </div>
             <div class="bg-white bg-opacity-10 p-4 rounded-lg text-center">
                 <i class="fas fa-egg text-2xl text-yellow-300 mb-2"></i>
                 <h3 class="font-bold">Easter Monday</h3>
-                <p class="text-sm opacity-90">April 21, 2025</p>
+                <p class="text-sm opacity-90">April 21, 2026</p>
             </div>
             <div class="bg-white bg-opacity-10 p-4 rounded-lg text-center">
                 <i class="fas fa-calendar text-2xl text-yellow-300 mb-2"></i>
                 <h3 class="font-bold">Early May Bank Holiday</h3>
-                <p class="text-sm opacity-90">May 5, 2025</p>
+                <p class="text-sm opacity-90">May 5, 2026</p>
             </div>
             <div class="bg-white bg-opacity-10 p-4 rounded-lg text-center">
                 <i class="fas fa-leaf text-2xl text-yellow-300 mb-2"></i>
                 <h3 class="font-bold">Spring Bank Holiday</h3>
-                <p class="text-sm opacity-90">May 26, 2025</p>
+                <p class="text-sm opacity-90">May 26, 2026</p>
             </div>
             <div class="bg-white bg-opacity-10 p-4 rounded-lg text-center">
                 <i class="fas fa-sun text-2xl text-yellow-300 mb-2"></i>
                 <h3 class="font-bold">Summer Bank Holiday</h3>
-                <p class="text-sm opacity-90">August 25, 2025</p>
+                <p class="text-sm opacity-90">August 25, 2026</p>
             </div>
             <div class="bg-white bg-opacity-10 p-4 rounded-lg text-center">
                 <i class="fas fa-tree text-2xl text-yellow-300 mb-2"></i>
                 <h3 class="font-bold">Christmas Day</h3>
-                <p class="text-sm opacity-90">December 25, 2025</p>
+                <p class="text-sm opacity-90">December 25, 2026</p>
             </div>
             <div class="bg-white bg-opacity-10 p-4 rounded-lg text-center">
                 <i class="fas fa-gift text-2xl text-yellow-300 mb-2"></i>
                 <h3 class="font-bold">Boxing Day</h3>
-                <p class="text-sm opacity-90">December 26, 2025</p>
+                <p class="text-sm opacity-90">December 26, 2026</p>
             </div>
         </div>
     </div>

@@ -1,19 +1,19 @@
 <?php include 'header.php'; ?>
 
 <!-- SEO Meta Tags -->
-<title>Square Foot to Square Mile Converter 2025 - ft² to mi² Calculator | Thiyagi</title>
-<meta name="description" content="Free online Square Foot to Square Mile converter 2025. Convert ft² to mi² and mi² to ft² instantly with accurate area conversion.">
-<meta name="keywords" content="square foot to square mile converter 2025, ft² to mi², area converter, land area, real estate measurements">
+<title>Square Foot to Square Mile Converter 2026 - ft² to mi² Calculator | Thiyagi</title>
+<meta name="description" content="Free online Square Foot to Square Mile converter 2026. Convert ft² to mi² and mi² to ft² instantly with accurate area conversion.">
+<meta name="keywords" content="square foot to square mile converter 2026, ft² to mi², area converter, land area, real estate measurements">
 <meta name="author" content="Thiyagi">
-<meta property="og:title" content="Square Foot to Square Mile Converter 2025 - ft² to mi² Calculator">
-<meta property="og:description" content="Free online Square Foot to Square Mile converter 2025. Convert ft² to mi² and mi² to ft² instantly.">
+<meta property="og:title" content="Square Foot to Square Mile Converter 2026 - ft² to mi² Calculator">
+<meta property="og:description" content="Free online Square Foot to Square Mile converter 2026. Convert ft² to mi² and mi² to ft² instantly.">
 <meta property="og:type" content="website">
 <meta property="og:url" content="https://www.thiyagi.com/square-foot-to-square-mile.php">
 <meta property="og:image" content="https://www.thiyagi.com/nt.png">
 <meta property="og:site_name" content="Thiyagi">
 <meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:title" content="Square Foot to Square Mile Converter 2025 - ft² to mi² Calculator">
-<meta name="twitter:description" content="Free online Square Foot to Square Mile converter 2025. Convert ft² to mi² and mi² to ft² instantly.">
+<meta name="twitter:title" content="Square Foot to Square Mile Converter 2026 - ft² to mi² Calculator">
+<meta name="twitter:description" content="Free online Square Foot to Square Mile converter 2026. Convert ft² to mi² and mi² to ft² instantly.">
 <meta name="twitter:image" content="https://www.thiyagi.com/nt.png">
 
 <div class="min-h-screen bg-gradient-to-br from-lime-50 via-green-50 to-emerald-50 py-12">

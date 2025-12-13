@@ -1,7 +1,7 @@
 <?php include 'header.php'; ?>
-<title>Yards to Miles Converter 2025 | Distance Conversion Tool | Free Calculator</title>
-<meta name="description" content="Convert yards to miles instantly with our 2025 accurate distance converter. Perfect for sports, running, and long-distance measurements.">
-<meta name="keywords" content="yards to miles converter 2025, distance conversion calculator, yard mile converter, sports measurements, running calculator">
+<title>Yards to Miles Converter 2026 | Distance Conversion Tool | Free Calculator</title>
+<meta name="description" content="Convert yards to miles instantly with our 2026 accurate distance converter. Perfect for sports, running, and long-distance measurements.">
+<meta name="keywords" content="yards to miles converter 2026, distance conversion calculator, yard mile converter, sports measurements, running calculator">
 <link rel="canonical" href="https://www.thiyagi.com/yards-to-miles">
 
 <div class="min-h-screen bg-gradient-to-br from-emerald-50 to-emerald-100 py-12 px-4 sm:px-6 lg:px-8">

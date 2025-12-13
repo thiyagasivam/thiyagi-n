@@ -64,7 +64,7 @@ if ($units > 0) {
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>WBSEDCL / CESC Bill Calculator - 2025</title>
+    <title>WBSEDCL / CESC Bill Calculator - 2026</title>
     <meta name="description" content="Calculate your WBSEDCL and CESC electricity bill in West Bengal.">
     <link rel="canonical" href="https://www.thiyagi.com/electricity-board/wbsedcl-bill-calculator">
 
@@ -76,7 +76,7 @@ if ($units > 0) {
 </head>
 <body class="bg-gray-100">
 <div class="container mx-auto py-10 px-4 max-w-4xl">
-    <h1 class="text-3xl font-bold text-center mb-8 text-gray-800">West Bengal Electricity Bill Calculator 2025</h1>
+    <h1 class="text-3xl font-bold text-center mb-8 text-gray-800">West Bengal Electricity Bill Calculator 2026</h1>
     <form method="post" class="mb-10 bg-white p-6 rounded-lg shadow-md">
         <div class="mb-4">
             <label for="provider" class="block text-gray-700 text-sm font-bold mb-2">Electricity Provider</label>
@@ -122,7 +122,7 @@ if ($units > 0) {
             </tbody>
         </table>
     </div>
-    <p class="text-gray-500 mt-4 text-sm">* This is an estimated bill based on 2025 rates. Actual bill may include additional charges.</p>
+    <p class="text-gray-500 mt-4 text-sm">* This is an estimated bill based on 2026 rates. Actual bill may include additional charges.</p>
     <?php endif; ?>
 </div>
 

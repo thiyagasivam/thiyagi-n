@@ -2,7 +2,7 @@
 <?php
 // Enhanced Railway bike parcel charges calculation function
 function calculateParcelCharges($distance, $bikeWeight, $packingCharges = 0, $insurance = 0, $bikeType = 'standard', $serviceType = 'regular') {
-    // Updated 2025 rates based on bike type and service
+    // Updated 2026 rates based on bike type and service
     $baseRates = [
         'standard' => 120,
         'heavy' => 150,
@@ -126,23 +126,23 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Railway Bike Parcel Charges Calculator 2025 - Indian Railways Two-Wheeler Transport Cost</title>
-    <meta name="description" content="Calculate Indian Railways bike parcel charges instantly. Check 2025 freight rates for two-wheelers (bikes, scooters) between stations with delivery time estimates and booking tips.">
+    <title>Railway Bike Parcel Charges Calculator 2026 - Indian Railways Two-Wheeler Transport Cost</title>
+    <meta name="description" content="Calculate Indian Railways bike parcel charges instantly. Check 2026 freight rates for two-wheelers (bikes, scooters) between stations with delivery time estimates and booking tips.">
     <meta name="keywords" content="railway bike parcel charges, indian railways freight calculator, two wheeler transport cost, bike shipping charges, railway parcel booking, motorcycle transport rates">
     <link rel="canonical" href="https://www.thiyagi.com/railway-bike-parcel-charges-calculator">
     
     <!-- Open Graph / Facebook -->
     <meta property="og:type" content="website">
     <meta property="og:url" content="https://www.thiyagi.com/railway-bike-parcel-charges-calculator">
-    <meta property="og:title" content="Railway Bike Parcel Charges Calculator 2025 - Indian Railways">
-    <meta property="og:description" content="Calculate Indian Railways bike parcel charges instantly. Check 2025 freight rates for two-wheelers between stations with delivery estimates.">
+    <meta property="og:title" content="Railway Bike Parcel Charges Calculator 2026 - Indian Railways">
+    <meta property="og:description" content="Calculate Indian Railways bike parcel charges instantly. Check 2026 freight rates for two-wheelers between stations with delivery estimates.">
     <meta property="og:image" content="https://www.thiyagi.com/nt.png">
     
     <!-- Twitter -->
     <meta property="twitter:card" content="summary_large_image">
     <meta property="twitter:url" content="https://www.thiyagi.com/railway-bike-parcel-charges-calculator">
-    <meta property="twitter:title" content="Railway Bike Parcel Charges Calculator 2025 - Indian Railways">
-    <meta property="twitter:description" content="Calculate Indian Railways bike parcel charges instantly. Check 2025 freight rates for two-wheelers between stations.">
+    <meta property="twitter:title" content="Railway Bike Parcel Charges Calculator 2026 - Indian Railways">
+    <meta property="twitter:description" content="Calculate Indian Railways bike parcel charges instantly. Check 2026 freight rates for two-wheelers between stations.">
     <meta property="twitter:image" content="https://www.thiyagi.com/nt.png">
     
     <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" rel="stylesheet">
@@ -716,7 +716,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
                             </div>
                             <div class="ml-3">
                                 <p class="text-sm text-yellow-700">
-                                    <strong>Important:</strong> These are estimated charges based on 2025 Indian Railways rates. 
+                                    <strong>Important:</strong> These are estimated charges based on 2026 Indian Railways rates. 
                                     Actual charges may vary based on specific railway policies, route, and additional services. 
                                     Please confirm with your local railway parcel office before booking.
                                 </p>
@@ -766,7 +766,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
             <!-- Pricing Information -->
             <div class="bg-white rounded-lg shadow-md overflow-hidden">
                 <div class="bg-blue-600 px-6 py-4">
-                    <h2 class="text-xl font-bold text-white">💰 Pricing Structure 2025</h2>
+                    <h2 class="text-xl font-bold text-white">💰 Pricing Structure 2026</h2>
                 </div>
                 <div class="p-6">
                     <div class="grid md:grid-cols-3 gap-6">

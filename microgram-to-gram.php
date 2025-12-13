@@ -5,9 +5,9 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Microgram to Gram Converter 2025 - Mass Conversion Calculator</title>
-    <meta name="description" content="Convert micrograms to grams with our free 2025 online calculator. Accurate mass conversion for laboratory and pharmaceutical calculations.">
-    <meta name="keywords" content="microgram to gram converter 2025, μg to g, mass converter, laboratory calculator 2025">
+    <title>Microgram to Gram Converter 2026 - Mass Conversion Calculator</title>
+    <meta name="description" content="Convert micrograms to grams with our free 2026 online calculator. Accurate mass conversion for laboratory and pharmaceutical calculations.">
+    <meta name="keywords" content="microgram to gram converter 2026, μg to g, mass converter, laboratory calculator 2026">
     <script src="https://cdn.tailwindcss.com"></script>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
 </head>

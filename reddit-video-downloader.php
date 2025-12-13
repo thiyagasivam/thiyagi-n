@@ -64,8 +64,8 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Reddit Video Downloader - Save HD Videos for Free (2025)</title>
-<meta name="description" content="Download Reddit videos in HD/4K for free in 2025. Fast, no registration needed. Works on all devices - save videos from any subreddit easily!">
+    <title>Reddit Video Downloader - Save HD Videos for Free (2026)</title>
+<meta name="description" content="Download Reddit videos in HD/4K for free in 2026. Fast, no registration needed. Works on all devices - save videos from any subreddit easily!">
     <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" rel="stylesheet">
     <style>
         .download-btn {

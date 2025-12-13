@@ -1,19 +1,19 @@
 <?php include 'header.php'; ?>
 
 <!-- SEO Meta Tags -->
-<title>Days to Months Converter 2025 - d to mo Calculator | Thiyagi</title>
-<meta name="description" content="Free online Days to Months converter 2025. Convert days to months and months to days instantly with accurate time conversion for planning and scheduling.">
-<meta name="keywords" content="days to months converter 2025, days to months, time converter, calendar conversion, date planning, project timeline">
+<title>Days to Months Converter 2026 - d to mo Calculator | Thiyagi</title>
+<meta name="description" content="Free online Days to Months converter 2026. Convert days to months and months to days instantly with accurate time conversion for planning and scheduling.">
+<meta name="keywords" content="days to months converter 2026, days to months, time converter, calendar conversion, date planning, project timeline">
 <meta name="author" content="Thiyagi">
-<meta property="og:title" content="Days to Months Converter 2025 - d to mo Calculator">
-<meta property="og:description" content="Free online Days to Months converter 2025. Convert days to months and months to days instantly.">
+<meta property="og:title" content="Days to Months Converter 2026 - d to mo Calculator">
+<meta property="og:description" content="Free online Days to Months converter 2026. Convert days to months and months to days instantly.">
 <meta property="og:type" content="website">
 <meta property="og:url" content="https://www.thiyagi.com/days-to-months.php">
 <meta property="og:image" content="https://www.thiyagi.com/nt.png">
 <meta property="og:site_name" content="Thiyagi">
 <meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:title" content="Days to Months Converter 2025 - d to mo Calculator">
-<meta name="twitter:description" content="Free online Days to Months converter 2025. Convert days to months and months to days instantly.">
+<meta name="twitter:title" content="Days to Months Converter 2026 - d to mo Calculator">
+<meta name="twitter:description" content="Free online Days to Months converter 2026. Convert days to months and months to days instantly.">
 <meta name="twitter:image" content="https://www.thiyagi.com/nt.png">
 
 <div class="min-h-screen bg-gradient-to-br from-purple-50 via-indigo-50 to-blue-50 py-12">

@@ -1,19 +1,19 @@
 <?php include 'header.php'; ?>
 
 <!-- SEO Meta Tags -->
-<title>Gigahertz to Hertz Converter 2025 - GHz to Hz Calculator | Thiyagi</title>
-<meta name="description" content="Free online Gigahertz to Hertz converter 2025. Convert GHz to Hz and Hz to GHz instantly with accurate frequency conversion.">
-<meta name="keywords" content="gigahertz to hertz converter 2025, GHz to Hz, frequency conversion, electronics calculator">
+<title>Gigahertz to Hertz Converter 2026 - GHz to Hz Calculator | Thiyagi</title>
+<meta name="description" content="Free online Gigahertz to Hertz converter 2026. Convert GHz to Hz and Hz to GHz instantly with accurate frequency conversion.">
+<meta name="keywords" content="gigahertz to hertz converter 2026, GHz to Hz, frequency conversion, electronics calculator">
 <meta name="author" content="Thiyagi">
-<meta property="og:title" content="Gigahertz to Hertz Converter 2025 - GHz to Hz Calculator">
-<meta property="og:description" content="Free online Gigahertz to Hertz converter 2025. Convert GHz to Hz and Hz to GHz instantly.">
+<meta property="og:title" content="Gigahertz to Hertz Converter 2026 - GHz to Hz Calculator">
+<meta property="og:description" content="Free online Gigahertz to Hertz converter 2026. Convert GHz to Hz and Hz to GHz instantly.">
 <meta property="og:type" content="website">
 <meta property="og:url" content="https://www.thiyagi.com/gigahertz-to-hertz.php">
 <meta property="og:image" content="https://www.thiyagi.com/nt.png">
 <meta property="og:site_name" content="Thiyagi">
 <meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:title" content="Gigahertz to Hertz Converter 2025 - GHz to Hz Calculator">
-<meta property="twitter:description" content="Free online Gigahertz to Hertz converter 2025. Convert GHz to Hz and Hz to GHz instantly.">
+<meta name="twitter:title" content="Gigahertz to Hertz Converter 2026 - GHz to Hz Calculator">
+<meta property="twitter:description" content="Free online Gigahertz to Hertz converter 2026. Convert GHz to Hz and Hz to GHz instantly.">
 <meta name="twitter:image" content="https://www.thiyagi.com/nt.png">
 
 <div class="min-h-screen bg-gradient-to-br from-purple-50 via-indigo-50 to-blue-50 py-12">

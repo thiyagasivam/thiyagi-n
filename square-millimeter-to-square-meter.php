@@ -1,19 +1,19 @@
 <?php include 'header.php'; ?>
 
 <!-- SEO Meta Tags -->
-<title>Square Millimeter to Square Meter Converter 2025 - Area Calculator | Thiyagi</title>
-<meta name="description" content="Free online square millimeter to square meter converter 2025. Convert mm² to m² instantly with accurate area conversion for engineering and design.">
-<meta name="keywords" content="square millimeter to square meter converter 2025, mm² to m², area converter, engineering calculator, design calculator">
+<title>Square Millimeter to Square Meter Converter 2026 - Area Calculator | Thiyagi</title>
+<meta name="description" content="Free online square millimeter to square meter converter 2026. Convert mm² to m² instantly with accurate area conversion for engineering and design.">
+<meta name="keywords" content="square millimeter to square meter converter 2026, mm² to m², area converter, engineering calculator, design calculator">
 <meta name="author" content="Thiyagi">
-<meta property="og:title" content="Square Millimeter to Square Meter Converter 2025 - Area Calculator">
-<meta property="og:description" content="Free online square millimeter to square meter converter 2025. Convert mm² to m² instantly with accurate area conversion.">
+<meta property="og:title" content="Square Millimeter to Square Meter Converter 2026 - Area Calculator">
+<meta property="og:description" content="Free online square millimeter to square meter converter 2026. Convert mm² to m² instantly with accurate area conversion.">
 <meta property="og:type" content="website">
 <meta property="og:url" content="https://www.thiyagi.com/square-millimeter-to-square-meter.php">
 <meta property="og:image" content="https://www.thiyagi.com/nt.png">
 <meta property="og:site_name" content="Thiyagi">
 <meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:title" content="Square Millimeter to Square Meter Converter 2025 - Area Calculator">
-<meta name="twitter:description" content="Free online square millimeter to square meter converter 2025. Convert mm² to m² instantly.">
+<meta name="twitter:title" content="Square Millimeter to Square Meter Converter 2026 - Area Calculator">
+<meta name="twitter:description" content="Free online square millimeter to square meter converter 2026. Convert mm² to m² instantly.">
 <meta name="twitter:image" content="https://www.thiyagi.com/nt.png">
 
 <div class="min-h-screen bg-gradient-to-br from-indigo-50 via-purple-50 to-pink-50 py-12">

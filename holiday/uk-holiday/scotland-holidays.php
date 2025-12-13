@@ -1,19 +1,19 @@
 <?php include '../../header.php'; 
 ?>
 
-<title>Scotland Holidays 2025 | Complete Calendar | Bank Holidays | Cultural Events</title>
-<meta name="description" content="Complete Scotland Holiday Calendar 2025. Find all bank holidays, cultural events, and observances including Burns Night, Edinburgh Festival. Plan your year with our comprehensive holiday guide.">"cotland Holidays 2025 - Page specific head content
-$page_title = "Scotland Holidays 2025 | Complete Calendar | Bank Holidays | Cultural Events";
-$page_description = "Complete Scotland Holiday Calendar 2025. Find all bank holidays, cultural events, and observances. Plan your year with our comprehensive holiday guide.";
-$page_keywords = "Scotland holidays 2025, Scotland bank holidays, UK holidays, Scotland festivals, Scotland calendar, holidays Scotland, festival dates 2025";
+<title>Scotland Holidays 2026 | Complete Calendar | Bank Holidays | Cultural Events</title>
+<meta name="description" content="Complete Scotland Holiday Calendar 2026. Find all bank holidays, cultural events, and observances including Burns Night, Edinburgh Festival. Plan your year with our comprehensive holiday guide.">"cotland Holidays 2026 - Page specific head content
+$page_title = "Scotland Holidays 2026 | Complete Calendar | Bank Holidays | Cultural Events";
+$page_description = "Complete Scotland Holiday Calendar 2026. Find all bank holidays, cultural events, and observances. Plan your year with our comprehensive holiday guide.";
+$page_keywords = "Scotland holidays 2026, Scotland bank holidays, UK holidays, Scotland festivals, Scotland calendar, holidays Scotland, festival dates 2026";
 $canonical_url = "https://" . $_SERVER['HTTP_HOST'] . $_SERVER['REQUEST_URI'];
 
 include '../../header.php'; 
 ?>
 
-<meta name="title" content="Scotland Holidays 2025 | Complete Calendar | Bank Holidays | Cultural Events">
-<meta name="description" content="Complete Scotland Holiday Calendar 2025. Find all bank holidays, cultural events, and observances including Burns Night, Edinburgh Festival. Plan your year with our comprehensive holiday guide.">
-<meta name="keywords" content="Scotland holidays 2025, Scotland bank holidays, UK holidays, Scotland festivals, Burns Night, Edinburgh Festival, Scotland calendar, holidays Scotland, festival dates 2025">
+<meta name="title" content="Scotland Holidays 2026 | Complete Calendar | Bank Holidays | Cultural Events">
+<meta name="description" content="Complete Scotland Holiday Calendar 2026. Find all bank holidays, cultural events, and observances including Burns Night, Edinburgh Festival. Plan your year with our comprehensive holiday guide.">
+<meta name="keywords" content="Scotland holidays 2026, Scotland bank holidays, UK holidays, Scotland festivals, Burns Night, Edinburgh Festival, Scotland calendar, holidays Scotland, festival dates 2026">
 <meta name="author" content="Thiyagi">
 <meta name="robots" content="index, follow">
 <meta name="language" content="English">
@@ -22,8 +22,8 @@ include '../../header.php';
 <!-- Open Graph / Facebook -->
 <meta property="og:type" content="website">
 <meta property="og:url" content="https://www.thiyagi.com/holiday/uk-holiday/scotland-holidays">
-<meta property="og:title" content="Scotland Holidays 2025 | Complete Calendar | Bank Holidays | Cultural Events">
-<meta property="og:description" content="Complete Scotland Holiday Calendar 2025. Find all bank holidays, cultural events, and observances including Burns Night, Edinburgh Festival. Plan your year with our comprehensive holiday guide.">
+<meta property="og:title" content="Scotland Holidays 2026 | Complete Calendar | Bank Holidays | Cultural Events">
+<meta property="og:description" content="Complete Scotland Holiday Calendar 2026. Find all bank holidays, cultural events, and observances including Burns Night, Edinburgh Festival. Plan your year with our comprehensive holiday guide.">
 <meta property="og:image" content="https://www.thiyagi.com/nt.png">
 <meta property="og:site_name" content="Thiyagi.com">
 <meta property="og:locale" content="en_GB">
@@ -31,8 +31,8 @@ include '../../header.php';
 <!-- Twitter -->
 <meta property="twitter:card" content="summary_large_image">
 <meta property="twitter:url" content="https://www.thiyagi.com/holiday/uk-holiday/scotland-holidays">
-<meta property="twitter:title" content="Scotland Holidays 2025 | Complete Calendar | Bank Holidays | Cultural Events">
-<meta property="twitter:description" content="Complete Scotland Holiday Calendar 2025. Find all bank holidays, cultural events, and observances including Burns Night, Edinburgh Festival. Plan your year with our comprehensive holiday guide.">
+<meta property="twitter:title" content="Scotland Holidays 2026 | Complete Calendar | Bank Holidays | Cultural Events">
+<meta property="twitter:description" content="Complete Scotland Holiday Calendar 2026. Find all bank holidays, cultural events, and observances including Burns Night, Edinburgh Festival. Plan your year with our comprehensive holiday guide.">
 <meta property="twitter:image" content="https://www.thiyagi.com/nt.png">
 <meta property="twitter:creator" content="@thiyagi">
 
@@ -41,7 +41,7 @@ include '../../header.php';
 <meta name="msapplication-TileColor" content="#0065BD">
 <meta name="apple-mobile-web-app-capable" content="yes">
 <meta name="apple-mobile-web-app-status-bar-style" content="default">
-<meta name="apple-mobile-web-app-title" content="Scotland Holidays 2025">
+<meta name="apple-mobile-web-app-title" content="Scotland Holidays 2026">
 
 <!-- Canonical URL -->
 <link rel="canonical" href="https://www.thiyagi.com/holiday/uk-holiday/scotland-holidays">
@@ -51,8 +51,8 @@ include '../../header.php';
 {
     "@context": "https://schema.org",
     "@type": "WebPage",
-    "name": "Scotland Holidays 2025 | Complete Calendar",
-    "description": "Complete Scotland Holiday Calendar 2025. Find all bank holidays, cultural events, and observances including Burns Night, Edinburgh Festival. Plan your year with our comprehensive holiday guide.",
+    "name": "Scotland Holidays 2026 | Complete Calendar",
+    "description": "Complete Scotland Holiday Calendar 2026. Find all bank holidays, cultural events, and observances including Burns Night, Edinburgh Festival. Plan your year with our comprehensive holiday guide.",
     "url": "https://www.thiyagi.com/holiday/uk-holiday/scotland-holidays",
     "inLanguage": "en-GB",
     "about": {
@@ -72,13 +72,13 @@ include '../../header.php';
         "name": "Thiyagi.com",
         "url": "https://www.thiyagi.com"
     },
-    "dateModified": "2025-08-22",
+    "dateModified": "2026-08-22",
     "mainEntity": {
         "@type": "Event",
-        "name": "Scotland Holidays 2025",
-        "description": "Complete Scotland Holiday Calendar 2025 including all bank holidays, cultural events, and observances such as Burns Night, Edinburgh Festival, and traditional Scottish celebrations.",
-        "startDate": "2025-01-01",
-        "endDate": "2025-12-31",
+        "name": "Scotland Holidays 2026",
+        "description": "Complete Scotland Holiday Calendar 2026 including all bank holidays, cultural events, and observances such as Burns Night, Edinburgh Festival, and traditional Scottish celebrations.",
+        "startDate": "2026-01-01",
+        "endDate": "2026-12-31",
         "eventStatus": "https://schema.org/EventScheduled",
         "image": {
             "@type": "ImageObject",
@@ -145,110 +145,110 @@ include '../../header.php';
                 UK Holidays
             </a>
             <i class="fas fa-chevron-right text-gray-400"></i>
-            <span class="text-gray-600 font-medium">Scotland Holidays 2025</span>
+            <span class="text-gray-600 font-medium">Scotland Holidays 2026</span>
         </div>
     </div>
 </nav>
 
 <?php
-// Scotland Holidays 2025 Data
-$holidays_2025 = array (
-  '2025-01-01' => 
+// Scotland Holidays 2026 Data
+$holidays_2026 = array (
+  '2026-01-01' => 
   array (
     'name' => 'New Year\'s Day',
     'type' => 'Bank Holiday',
     'icon' => 'fa-solid fa-champagne-glasses',
     'bank_holiday' => true,
   ),
-  '2025-01-02' => 
+  '2026-01-02' => 
   array (
     'name' => 'New Year Holiday (Scotland)',
     'type' => 'Regional Holiday',
     'icon' => 'fa-solid fa-calendar-days',
   ),
-  '2025-01-25' => 
+  '2026-01-25' => 
   array (
     'name' => 'Burns Night',
     'type' => 'Cultural Holiday',
     'icon' => 'fa-solid fa-bagpipes',
   ),
-  '2025-02-14' => 
+  '2026-02-14' => 
   array (
     'name' => 'Valentine\'s Day',
     'type' => 'Cultural Holiday',
     'icon' => 'fa-solid fa-heart',
     'bank_holiday' => false,
   ),
-  '2025-04-18' => 
+  '2026-04-18' => 
   array (
     'name' => 'Good Friday',
     'type' => 'Bank Holiday',
     'icon' => 'fa-solid fa-cross',
     'bank_holiday' => true,
   ),
-  '2025-04-21' => 
+  '2026-04-21' => 
   array (
     'name' => 'Easter Monday',
     'type' => 'Bank Holiday',
     'icon' => 'fa-solid fa-egg',
     'bank_holiday' => true,
   ),
-  '2025-05-05' => 
+  '2026-05-05' => 
   array (
     'name' => 'Early May Bank Holiday',
     'type' => 'Bank Holiday',
     'icon' => 'fa-solid fa-calendar',
     'bank_holiday' => true,
   ),
-  '2025-05-26' => 
+  '2026-05-26' => 
   array (
     'name' => 'Spring Bank Holiday',
     'type' => 'Bank Holiday',
     'icon' => 'fa-solid fa-leaf',
     'bank_holiday' => true,
   ),
-  '2025-08-25' => 
+  '2026-08-25' => 
   array (
     'name' => 'Summer Bank Holiday',
     'type' => 'Bank Holiday',
     'icon' => 'fa-solid fa-sun',
     'bank_holiday' => true,
   ),
-  '2025-10-31' => 
+  '2026-10-31' => 
   array (
     'name' => 'Halloween',
     'type' => 'Cultural Holiday',
     'icon' => 'fa-solid fa-ghost',
     'bank_holiday' => false,
   ),
-  '2025-11-05' => 
+  '2026-11-05' => 
   array (
     'name' => 'Guy Fawkes Night',
     'type' => 'Cultural Holiday',
     'icon' => 'fa-solid fa-fire',
     'bank_holiday' => false,
   ),
-  '2025-11-11' => 
+  '2026-11-11' => 
   array (
     'name' => 'Remembrance Day',
     'type' => 'Commemorative Day',
     'icon' => 'fa-solid fa-poppy',
     'bank_holiday' => false,
   ),
-  '2025-11-30' => 
+  '2026-11-30' => 
   array (
     'name' => 'St. Andrew\'s Day',
     'type' => 'Patron Saint Day',
     'icon' => 'fa-solid fa-cross',
   ),
-  '2025-12-25' => 
+  '2026-12-25' => 
   array (
     'name' => 'Christmas Day',
     'type' => 'Bank Holiday',
     'icon' => 'fa-solid fa-tree',
     'bank_holiday' => true,
   ),
-  '2025-12-26' => 
+  '2026-12-26' => 
   array (
     'name' => 'Boxing Day',
     'type' => 'Bank Holiday',
@@ -298,7 +298,7 @@ $next_month = get_next_month($current_month, $current_year);
             <div class="absolute w-full h-px bg-white top-1/2 transform -translate-y-1/2 -rotate-45"></div>
             <span class="relative text-white font-bold text-xs">SC</span>
         </div>
-                        <span>Scotland Holidays 2025</span>
+                        <span>Scotland Holidays 2026</span>
                     </div></h1>
                     <p class="text-lg opacity-90">Bank Holidays, Cultural Events, Observances</p>
                 </div>
@@ -310,7 +310,7 @@ $next_month = get_next_month($current_month, $current_year);
                 </div>
                 <div class="mt-2 flex items-center space-x-2">
                     <i class="fas fa-gift text-yellow-200"></i>
-                    <span class="text-sm opacity-75"><?php echo count($holidays_2025); ?> Total Holidays</span>
+                    <span class="text-sm opacity-75"><?php echo count($holidays_2026); ?> Total Holidays</span>
                 </div>
             </div>
         </div>
@@ -381,7 +381,7 @@ $next_month = get_next_month($current_month, $current_year);
                     // Days of the month
                     for ($day = 1; $day <= $days_in_month; $day++) {
                         $date = sprintf('%04d-%02d-%02d', $current_year, $current_month, $day);
-                        $is_holiday = array_key_exists($date, $holidays_2025);
+                        $is_holiday = array_key_exists($date, $holidays_2026);
                         $is_today = ($date === $today);
                         $is_weekend = (date('w', mktime(0, 0, 0, $current_month, $day, $current_year)) == 0 || 
                                       date('w', mktime(0, 0, 0, $current_month, $day, $current_year)) == 6);
@@ -399,7 +399,7 @@ $next_month = get_next_month($current_month, $current_year);
                         echo "<span class=\"text-sm font-medium\">$day</span>";
                         
                         if ($is_holiday) {
-                            echo '<div class="text-xs mt-1 truncate">' . $holidays_2025[$date]['name'] . '</div>';
+                            echo '<div class="text-xs mt-1 truncate">' . $holidays_2026[$date]['name'] . '</div>';
                         }
                         
                         if ($is_today) {
@@ -426,7 +426,7 @@ $next_month = get_next_month($current_month, $current_year);
                     <?php
                     $today = date('Y-m-d');
                     $upcoming_count = 0;
-                    foreach ($holidays_2025 as $date => $holiday) {
+                    foreach ($holidays_2026 as $date => $holiday) {
                         if ($date >= $today && $upcoming_count < 5) {
                             $formatted_date = date('M d, Y', strtotime($date));
                             $day_name = date('l', strtotime($date));
@@ -452,16 +452,16 @@ $next_month = get_next_month($current_month, $current_year);
                 </h3>
                 <div class="space-y-3">
                     <?php
-                    $bank_holidays = array_filter($holidays_2025, function($holiday) {
+                    $bank_holidays = array_filter($holidays_2026, function($holiday) {
                         return isset($holiday['bank_holiday']) && $holiday['bank_holiday'];
                     });
-                    $cultural_holidays = array_filter($holidays_2025, function($holiday) {
+                    $cultural_holidays = array_filter($holidays_2026, function($holiday) {
                         return $holiday['type'] === 'Cultural Holiday';
                     });
                     ?>
                     <div class="flex justify-between items-center">
                         <span class="text-gray-600">Total Holidays:</span>
-                        <span class="font-bold text-state-primary"><?php echo count($holidays_2025); ?></span>
+                        <span class="font-bold text-state-primary"><?php echo count($holidays_2026); ?></span>
                     </div>
                     <div class="flex justify-between items-center">
                         <span class="text-gray-600">Bank Holidays:</span>
@@ -525,53 +525,53 @@ $next_month = get_next_month($current_month, $current_year);
         </div>
     </div>
 </div>
-<!-- Bank Holidays 2025 Section -->
+<!-- Bank Holidays 2026 Section -->
 <div class="bg-gradient-to-r from-blue-600 to-purple-600 text-white rounded-lg shadow-lg mx-4 mb-8">
     <div class="p-8">
         <h2 class="text-3xl font-bold text-center mb-8">
             <i class="fas fa-calendar-alt mr-3"></i>
-            Bank Holidays 2025
+            Bank Holidays 2026
         </h2>
         <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-4">
             <div class="bg-white bg-opacity-20 p-4 rounded-lg text-center">
                 <i class="fas fa-champagne-glasses text-2xl mb-2"></i>
                 <h3 class="font-bold">New Year's Day</h3>
-                <p class="text-sm opacity-90">January 1, 2025</p>
+                <p class="text-sm opacity-90">January 1, 2026</p>
             </div>
             <div class="bg-white bg-opacity-20 p-4 rounded-lg text-center">
                 <i class="fas fa-cross text-2xl mb-2"></i>
                 <h3 class="font-bold">Good Friday</h3>
-                <p class="text-sm opacity-90">April 18, 2025</p>
+                <p class="text-sm opacity-90">April 18, 2026</p>
             </div>
             <div class="bg-white bg-opacity-20 p-4 rounded-lg text-center">
                 <i class="fas fa-egg text-2xl mb-2"></i>
                 <h3 class="font-bold">Easter Monday</h3>
-                <p class="text-sm opacity-90">April 21, 2025</p>
+                <p class="text-sm opacity-90">April 21, 2026</p>
             </div>
             <div class="bg-white bg-opacity-20 p-4 rounded-lg text-center">
                 <i class="fas fa-calendar text-2xl mb-2"></i>
                 <h3 class="font-bold">Early May Bank Holiday</h3>
-                <p class="text-sm opacity-90">May 5, 2025</p>
+                <p class="text-sm opacity-90">May 5, 2026</p>
             </div>
             <div class="bg-white bg-opacity-20 p-4 rounded-lg text-center">
                 <i class="fas fa-leaf text-2xl mb-2"></i>
                 <h3 class="font-bold">Spring Bank Holiday</h3>
-                <p class="text-sm opacity-90">May 26, 2025</p>
+                <p class="text-sm opacity-90">May 26, 2026</p>
             </div>
             <div class="bg-white bg-opacity-20 p-4 rounded-lg text-center">
                 <i class="fas fa-sun text-2xl mb-2"></i>
                 <h3 class="font-bold">Summer Bank Holiday</h3>
-                <p class="text-sm opacity-90">August 25, 2025</p>
+                <p class="text-sm opacity-90">August 25, 2026</p>
             </div>
             <div class="bg-white bg-opacity-20 p-4 rounded-lg text-center">
                 <i class="fas fa-tree text-2xl mb-2"></i>
                 <h3 class="font-bold">Christmas Day</h3>
-                <p class="text-sm opacity-90">December 25, 2025</p>
+                <p class="text-sm opacity-90">December 25, 2026</p>
             </div>
             <div class="bg-white bg-opacity-20 p-4 rounded-lg text-center">
                 <i class="fas fa-gift text-2xl mb-2"></i>
                 <h3 class="font-bold">Boxing Day</h3>
-                <p class="text-sm opacity-90">December 26, 2025</p>
+                <p class="text-sm opacity-90">December 26, 2026</p>
             </div>
         </div>
     </div>
@@ -641,12 +641,12 @@ $next_month = get_next_month($current_month, $current_year);
     <div class="p-8">
         <h2 class="text-3xl font-bold text-center mb-8 text-gray-800">
             <i class="fas fa-info-circle text-blue-600 mr-3"></i>
-            About Scotland Holidays 2025
+            About Scotland Holidays 2026
         </h2>
         <div class="prose max-w-none text-gray-700">
             <p class="text-lg mb-6">
                 Scotland follows the UK bank holiday calendar with some unique regional holidays that reflect its rich cultural heritage. 
-                Our comprehensive guide covers all official bank holidays, cultural celebrations, and traditional observances for 2025.
+                Our comprehensive guide covers all official bank holidays, cultural celebrations, and traditional observances for 2026.
             </p>
             
             <div class="grid grid-cols-1 md:grid-cols-2 gap-8 mt-8">
@@ -697,8 +697,8 @@ $next_month = get_next_month($current_month, $current_year);
                     <p class="text-gray-600">Scotland has additional holidays like the New Year Holiday on January 2nd and celebrates unique cultural events like Burns Night and St. Andrew's Day with special significance.</p>
                 </div>
                 <div class="bg-white p-6 rounded-lg shadow">
-                    <h3 class="font-bold text-lg mb-2 text-gray-800">When is Burns Night 2025?</h3>
-                    <p class="text-gray-600">Burns Night is celebrated on January 25, 2025, honoring Scotland's national poet Robert Burns with traditional haggis dinners, poetry, and Scottish music.</p>
+                    <h3 class="font-bold text-lg mb-2 text-gray-800">When is Burns Night 2026?</h3>
+                    <p class="text-gray-600">Burns Night is celebrated on January 25, 2026, honoring Scotland's national poet Robert Burns with traditional haggis dinners, poetry, and Scottish music.</p>
                 </div>
                 <div class="bg-white p-6 rounded-lg shadow">
                     <h3 class="font-bold text-lg mb-2 text-gray-800">What is St. Andrew's Day?</h3>
@@ -715,7 +715,7 @@ $next_month = get_next_month($current_month, $current_year);
                     <p class="text-gray-600">Hogmanay is Scotland's famous New Year's Eve celebration, featuring street parties, fireworks, and the tradition of "first-footing" into the new year.</p>
                 </div>
                 <div class="bg-white p-6 rounded-lg shadow">
-                    <h3 class="font-bold text-lg mb-2 text-gray-800">When is Edinburgh Festival 2025?</h3>
+                    <h3 class="font-bold text-lg mb-2 text-gray-800">When is Edinburgh Festival 2026?</h3>
                     <p class="text-gray-600">The Edinburgh Festival typically runs throughout August, featuring multiple festivals including the famous Fringe, International Festival, and Military Tattoo.</p>
                 </div>
                 <div class="bg-white p-6 rounded-lg shadow">
@@ -746,8 +746,8 @@ $next_month = get_next_month($current_month, $current_year);
             </div>
             <div class="text-center p-6 border border-gray-200 rounded-lg hover:shadow-md transition duration-300">
                 <div class="text-green-500 text-4xl mb-4">📅</div>
-                <h3 class="font-bold text-gray-700 text-lg mb-2">2025 Updated</h3>
-                <p class="text-gray-600 text-sm">Latest dates for all holidays, festivals, and bank holidays for 2025</p>
+                <h3 class="font-bold text-gray-700 text-lg mb-2">2026 Updated</h3>
+                <p class="text-gray-600 text-sm">Latest dates for all holidays, festivals, and bank holidays for 2026</p>
             </div>
             <div class="text-center p-6 border border-gray-200 rounded-lg hover:shadow-md transition duration-300">
                 <div class="text-purple-500 text-4xl mb-4">🎭</div>

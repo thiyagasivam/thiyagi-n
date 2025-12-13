@@ -37,7 +37,7 @@ $conn->close();
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>TVS Authorized Service Centers Near Me 2025</title>
+    <title>TVS Authorized Service Centers Near Me 2026</title>
     <script src="https://cdn.tailwindcss.com"></script>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
     <style>
@@ -81,7 +81,7 @@ $conn->close();
     <div class="tvs-gradient">
         <div class="container mx-auto px-4 py-8">
             <div class="max-w-3xl mx-auto text-center">
-                <h2 class="text-2xl font-bold text-gray-800 mb-2">Find an Authorized TVS Service Center Near Me 2025</h2>
+                <h2 class="text-2xl font-bold text-gray-800 mb-2">Find an Authorized TVS Service Center Near Me 2026</h2>
                 <p class="text-gray-600 mb-6">Get professional service for your TVS vehicles by certified technicians</p>
                 
                 <!-- Search Form -->

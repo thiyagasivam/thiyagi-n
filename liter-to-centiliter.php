@@ -1,19 +1,19 @@
 <?php include 'header.php'; ?>
 
 <!-- SEO Meta Tags -->
-<title>Liter to Centiliter Converter 2025 - Volume Calculator | Thiyagi</title>
-<meta name="description" content="Free online liter to centiliter converter 2025. Convert L to cL instantly with accurate volume conversion for cooking and laboratory measurements.">
-<meta name="keywords" content="liter to centiliter converter 2025, L to cL, volume converter, cooking calculator, laboratory converter">
+<title>Liter to Centiliter Converter 2026 - Volume Calculator | Thiyagi</title>
+<meta name="description" content="Free online liter to centiliter converter 2026. Convert L to cL instantly with accurate volume conversion for cooking and laboratory measurements.">
+<meta name="keywords" content="liter to centiliter converter 2026, L to cL, volume converter, cooking calculator, laboratory converter">
 <meta name="author" content="Thiyagi">
-<meta property="og:title" content="Liter to Centiliter Converter 2025 - Volume Calculator">
-<meta property="og:description" content="Free online liter to centiliter converter 2025. Convert L to cL instantly.">
+<meta property="og:title" content="Liter to Centiliter Converter 2026 - Volume Calculator">
+<meta property="og:description" content="Free online liter to centiliter converter 2026. Convert L to cL instantly.">
 <meta property="og:type" content="website">
 <meta property="og:url" content="https://www.thiyagi.com/liter-to-centiliter.php">
 <meta property="og:image" content="https://www.thiyagi.com/nt.png">
 <meta property="og:site_name" content="Thiyagi">
 <meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:title" content="Liter to Centiliter Converter 2025 - Volume Calculator">
-<meta name="twitter:description" content="Free online liter to centiliter converter 2025. Convert L to cL instantly.">
+<meta name="twitter:title" content="Liter to Centiliter Converter 2026 - Volume Calculator">
+<meta name="twitter:description" content="Free online liter to centiliter converter 2026. Convert L to cL instantly.">
 <meta name="twitter:image" content="https://www.thiyagi.com/nt.png">
 
 <div class="min-h-screen bg-gradient-to-br from-cyan-50 via-teal-50 to-blue-50 py-12">

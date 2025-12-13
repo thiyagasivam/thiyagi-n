@@ -21,12 +21,12 @@ if (isset($_GET['value'])) {
 
 // Generate dynamic content
 $pageTitle = $isDynamicPage ? 
-    "Convert {$inputValue} Inches to Feet 2025 | {$inputValue} in = " . number_format($outputValue, 4) . " ft | Free Calculator" : 
-    "Inches to Feet Converter 2025 | Inch to Feet | Free Tool";
+    "Convert {$inputValue} Inches to Feet 2026 | {$inputValue} in = " . number_format($outputValue, 4) . " ft | Free Calculator" : 
+    "Inches to Feet Converter 2026 | Inch to Feet | Free Tool";
 
 $pageDescription = $isDynamicPage ? 
-    "Convert {$inputValue} inches to feet in 2025. {$inputValue} in equals " . number_format($outputValue, 4) . " ft. Free, instant, accurate length conversion for construction, carpentry & architectural measurements." :
-    "Convert inches to feet instantly with our 2025 accurate converter. Perfect inch to feet conversion with real-time calculations for construction.";
+    "Convert {$inputValue} inches to feet in 2026. {$inputValue} in equals " . number_format($outputValue, 4) . " ft. Free, instant, accurate length conversion for construction, carpentry & architectural measurements." :
+    "Convert inches to feet instantly with our 2026 accurate converter. Perfect inch to feet conversion with real-time calculations for construction.";
 
 $canonicalUrl = $isDynamicPage ? 
     "https://www.thiyagi.com/inches-to-feet/{$originalValue}" : 
@@ -35,9 +35,9 @@ $canonicalUrl = $isDynamicPage ?
 <title><?php echo htmlspecialchars($pageTitle); ?></title>
 <meta name="description" content="<?php echo htmlspecialchars($pageDescription); ?>">
 <?php if ($isDynamicPage): ?>
-<meta name="keywords" content="<?php echo $inputValue; ?> inches to feet 2025, <?php echo $inputValue; ?> in to ft, <?php echo number_format($outputValue, 2); ?> feet length, construction measurements 2025, carpentry calculator, architectural conversion tool">
+<meta name="keywords" content="<?php echo $inputValue; ?> inches to feet 2026, <?php echo $inputValue; ?> in to ft, <?php echo number_format($outputValue, 2); ?> feet length, construction measurements 2026, carpentry calculator, architectural conversion tool">
 <?php else: ?>
-<meta name="keywords" content="inches to feet 2025, inch feet converter, imperial unit conversion 2025, construction measurement calculator, building conversion">
+<meta name="keywords" content="inches to feet 2026, inch feet converter, imperial unit conversion 2026, construction measurement calculator, building conversion">
 <?php endif; ?>
 <link rel="canonical" href="<?php echo htmlspecialchars($canonicalUrl); ?>">
 
@@ -47,7 +47,7 @@ $canonicalUrl = $isDynamicPage ?
 <meta property="og:url" content="<?php echo htmlspecialchars($canonicalUrl); ?>">
 <meta property="og:type" content="website">
 <meta property="og:image" content="https://www.thiyagi.com/nt.png">
-<meta property="og:site_name" content="Thiyagi Tools 2025">
+<meta property="og:site_name" content="Thiyagi Tools 2026">
 <meta property="og:locale" content="en_US">
 
 <!-- Twitter Card Meta Tags -->
@@ -66,8 +66,8 @@ $canonicalUrl = $isDynamicPage ?
 <meta name="revisit-after" content="7 days">
 <meta name="distribution" content="global">
 <meta name="rating" content="general">
-<meta name="copyright" content="Thiyagi Tools 2025">
-<meta name="category" content="Length Converters, Construction Tools, Measurement Calculators 2025">
+<meta name="copyright" content="Thiyagi Tools 2026">
+<meta name="category" content="Length Converters, Construction Tools, Measurement Calculators 2026">
 <meta name="coverage" content="Worldwide">
 <meta name="target" content="contractors, carpenters, architects, construction workers, DIY enthusiasts">
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -80,12 +80,12 @@ $canonicalUrl = $isDynamicPage ?
 {
   "@context": "https://schema.org",
   "@type": "WebApplication",
-  "name": "Best Inches to Feet Converter 2025 - <?php echo $inputValue; ?> in",
+  "name": "Best Inches to Feet Converter 2026 - <?php echo $inputValue; ?> in",
   "description": "<?php echo addslashes($pageDescription); ?>",
   "url": "<?php echo $canonicalUrl; ?>",
   "applicationCategory": "UtilityApplication",
   "operatingSystem": "Web Browser",
-  "datePublished": "2025-01-01",
+  "datePublished": "2026-01-01",
   "dateModified": "<?php echo date('Y-m-d'); ?>",
   "inLanguage": "en-US",
   "isAccessibleForFree": true,
@@ -97,11 +97,11 @@ $canonicalUrl = $isDynamicPage ?
   },
   "publisher": {
     "@type": "Organization",
-    "name": "Thiyagi Tools 2025",
+    "name": "Thiyagi Tools 2026",
     "url": "https://www.thiyagi.com"
   },
   "featureList": [
-    "Convert <?php echo $inputValue; ?> inches to feet in 2025",
+    "Convert <?php echo $inputValue; ?> inches to feet in 2026",
     "Instant calculation: <?php echo $inputValue; ?> in = <?php echo number_format($outputValue, 4); ?> ft",
     "Real-time length conversion for construction",
     "Mobile responsive design for job sites",
@@ -111,10 +111,10 @@ $canonicalUrl = $isDynamicPage ?
   ],
   "mainEntity": {
     "@type": "Question",
-    "name": "How much is <?php echo $inputValue; ?> in in feet in 2025?",
+    "name": "How much is <?php echo $inputValue; ?> in in feet in 2026?",
     "acceptedAnswer": {
       "@type": "Answer",
-      "text": "<?php echo $inputValue; ?> inches equals exactly <?php echo number_format($outputValue, 4); ?> feet using the 2025 standard conversion factor: 1 foot = 12 inches. Perfect for construction and architectural projects."
+      "text": "<?php echo $inputValue; ?> inches equals exactly <?php echo number_format($outputValue, 4); ?> feet using the 2026 standard conversion factor: 1 foot = 12 inches. Perfect for construction and architectural projects."
     }
   },
   "sameAs": [
@@ -129,12 +129,12 @@ $canonicalUrl = $isDynamicPage ?
 {
   "@context": "https://schema.org",
   "@type": "WebApplication",
-  "name": "Best Inches to Feet Converter 2025",
+  "name": "Best Inches to Feet Converter 2026",
   "description": "<?php echo addslashes($pageDescription); ?>",
   "url": "https://www.thiyagi.com/inches-to-feet",
   "applicationCategory": "UtilityApplication",
   "operatingSystem": "Web Browser",
-  "datePublished": "2025-01-01",
+  "datePublished": "2026-01-01",
   "dateModified": "<?php echo date('Y-m-d'); ?>",
   "inLanguage": "en-US",
   "isAccessibleForFree": true,
@@ -151,11 +151,11 @@ $canonicalUrl = $isDynamicPage ?
   },
   "publisher": {
     "@type": "Organization",
-    "name": "Thiyagi Tools 2025",
+    "name": "Thiyagi Tools 2026",
     "url": "https://www.thiyagi.com"
   },
   "featureList": [
-    "Best IN to FT converter in 2025",
+    "Best IN to FT converter in 2026",
     "Instant length conversion for construction",
     "Perfect for architectural measurements",
     "Carpentry and building calculator",
@@ -237,7 +237,7 @@ $canonicalUrl = $isDynamicPage ?
         </div>
         <?php endif; ?>
         <p class="text-xl text-gray-600 mb-8 max-w-3xl mx-auto">
-          Convert <a href="/inches-to-cm" class="text-cyan-600 hover:text-cyan-800 underline">inches</a> to <a href="/feet-to-inches" class="text-cyan-600 hover:text-cyan-800 underline">feet</a> instantly with our accurate 2025 calculator. 
+          Convert <a href="/inches-to-cm" class="text-cyan-600 hover:text-cyan-800 underline">inches</a> to <a href="/feet-to-inches" class="text-cyan-600 hover:text-cyan-800 underline">feet</a> instantly with our accurate 2026 calculator. 
           Perfect for <a href="/cm-to-inches" class="text-cyan-600 hover:text-cyan-800 underline">construction</a>, carpentry, and architectural measurements.
         </p>
       </div>
@@ -355,16 +355,16 @@ $canonicalUrl = $isDynamicPage ?
     <article class="bg-white rounded-xl shadow-lg p-8">
       <h2 class="text-2xl font-bold text-gray-800 mb-6 flex items-center gap-3">
         <i class="fas fa-info-circle text-cyan-600" aria-hidden="true"></i>
-        Inches to Feet Conversion 2025
+        Inches to Feet Conversion 2026
       </h2>
       <div class="prose max-w-none text-gray-600">
         <p class="mb-4">
-          Converting inches to feet is fundamental for construction, carpentry, and architectural work in 2025. 
+          Converting inches to feet is fundamental for construction, carpentry, and architectural work in 2026. 
           This imperial system conversion enables simplified measurements for building projects, design work, 
           and construction specifications across the United States and other regions using imperial measurements.
         </p>
         <p class="mb-6">
-          Our 2025 converter provides instant and accurate conversions from inches to feet, essential for contractors, 
+          Our 2026 converter provides instant and accurate conversions from inches to feet, essential for contractors, 
           carpenters, architects, and DIY enthusiasts working with construction and design projects. 
           Twelve inches equal exactly one foot, so inches are divided by 12 to get feet.
         </p>
@@ -551,7 +551,7 @@ $canonicalUrl = $isDynamicPage ?
   <section class="py-16 bg-white">
     <div class="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8">
       <h2 class="text-3xl font-bold text-center text-gray-900 mb-12">
-        Frequently Asked Questions - <?php echo number_format($inputValue, ($inputValue == intval($inputValue)) ? 0 : 2); ?> Inches to Feet 2025
+        Frequently Asked Questions - <?php echo number_format($inputValue, ($inputValue == intval($inputValue)) ? 0 : 2); ?> Inches to Feet 2026
       </h2>
       <div class="space-y-8">
         <div class="bg-gray-50 rounded-lg p-6">
@@ -611,7 +611,7 @@ $canonicalUrl = $isDynamicPage ?
         <div class="bg-gray-50 rounded-lg p-6">
           <h3 class="text-xl font-semibold text-gray-900 mb-3">
             <i class="fas fa-mobile-alt text-cyan-600 mr-2"></i>
-            Can I use this converter on construction sites in 2025?
+            Can I use this converter on construction sites in 2026?
           </h3>
           <p class="text-gray-700 leading-relaxed">
             Absolutely! Our inches to feet converter is fully mobile-responsive and works perfectly on smartphones and tablets at construction sites. 
@@ -633,10 +633,10 @@ $canonicalUrl = $isDynamicPage ?
         <div class="bg-gray-50 rounded-lg p-6">
           <h3 class="text-xl font-semibold text-gray-900 mb-3">
             <i class="fas fa-history text-cyan-600 mr-2"></i>
-            Why choose our 2025 inches to feet converter over others?
+            Why choose our 2026 inches to feet converter over others?
           </h3>
           <p class="text-gray-700 leading-relaxed">
-            Our converter features the latest 2025 design with instant calculations, mobile optimization, and construction-focused accuracy. 
+            Our converter features the latest 2026 design with instant calculations, mobile optimization, and construction-focused accuracy. 
             It provides precise results for <?php echo number_format($inputValue, ($inputValue == intval($inputValue)) ? 0 : 2); ?> inches and any other value, with copy functionality and comprehensive conversion tables for professional use.
           </p>
         </div>
@@ -650,7 +650,7 @@ $canonicalUrl = $isDynamicPage ?
     <div class="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8">
       <h2 class="text-3xl font-bold text-center text-gray-900 mb-12">
         <i class="fas fa-exchange-alt text-cyan-600 mr-3"></i>
-        Related Length Conversions 2025
+        Related Length Conversions 2026
       </h2>
       <div class="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-4">
         <!-- Primary Length Conversions -->

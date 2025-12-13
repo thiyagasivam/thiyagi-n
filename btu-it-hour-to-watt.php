@@ -1,19 +1,19 @@
 <?php include 'header.php'; ?>
 
 <!-- SEO Meta Tags -->
-<title>BTU IT per Hour to Watt Converter 2025 - BTU/h to W Calculator | Thiyagi</title>
-<meta name="description" content="Free online BTU IT per Hour to Watt converter 2025. Convert BTU/h to W and W to BTU/h instantly with accurate power conversion for HVAC and energy systems.">
-<meta name="keywords" content="BTU per hour to watt converter 2025, BTU/h to W, power converter, HVAC power, energy conversion, heating cooling">
+<title>BTU IT per Hour to Watt Converter 2026 - BTU/h to W Calculator | Thiyagi</title>
+<meta name="description" content="Free online BTU IT per Hour to Watt converter 2026. Convert BTU/h to W and W to BTU/h instantly with accurate power conversion for HVAC and energy systems.">
+<meta name="keywords" content="BTU per hour to watt converter 2026, BTU/h to W, power converter, HVAC power, energy conversion, heating cooling">
 <meta name="author" content="Thiyagi">
-<meta property="og:title" content="BTU IT per Hour to Watt Converter 2025 - BTU/h to W Calculator">
-<meta property="og:description" content="Free online BTU IT per Hour to Watt converter 2025. Convert BTU/h to W and W to BTU/h instantly.">
+<meta property="og:title" content="BTU IT per Hour to Watt Converter 2026 - BTU/h to W Calculator">
+<meta property="og:description" content="Free online BTU IT per Hour to Watt converter 2026. Convert BTU/h to W and W to BTU/h instantly.">
 <meta property="og:type" content="website">
 <meta property="og:url" content="https://www.thiyagi.com/btu-it-hour-to-watt.php">
 <meta property="og:image" content="https://www.thiyagi.com/nt.png">
 <meta property="og:site_name" content="Thiyagi">
 <meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:title" content="BTU IT per Hour to Watt Converter 2025 - BTU/h to W Calculator">
-<meta name="twitter:description" content="Free online BTU IT per Hour to Watt converter 2025. Convert BTU/h to W and W to BTU/h instantly.">
+<meta name="twitter:title" content="BTU IT per Hour to Watt Converter 2026 - BTU/h to W Calculator">
+<meta name="twitter:description" content="Free online BTU IT per Hour to Watt converter 2026. Convert BTU/h to W and W to BTU/h instantly.">
 <meta name="twitter:image" content="https://www.thiyagi.com/nt.png">
 
 <div class="min-h-screen bg-gradient-to-br from-orange-50 via-red-50 to-pink-50 py-12">

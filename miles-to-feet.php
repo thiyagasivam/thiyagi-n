@@ -1,12 +1,12 @@
 <?php include 'header.php';?>
-<title>Miles to Feet Converter 2025 | Professional Distance Calculator | Free Tool</title>
-<meta name="description" content="Professional miles to feet converter 2025. Convert miles to feet instantly with precision calculations. Perfect for sports, construction, and distance measurements.">
-<meta name="keywords" content="miles to feet converter 2025, distance calculator, mile conversion, length converter, sports measurements">
+<title>Miles to Feet Converter 2026 | Professional Distance Calculator | Free Tool</title>
+<meta name="description" content="Professional miles to feet converter 2026. Convert miles to feet instantly with precision calculations. Perfect for sports, construction, and distance measurements.">
+<meta name="keywords" content="miles to feet converter 2026, distance calculator, mile conversion, length converter, sports measurements">
 <link rel="canonical" href="https://www.thiyagi.com/miles-to-feet">
 
 <!-- Open Graph Meta Tags -->
-<meta property="og:title" content="Miles to Feet Converter 2025 | Professional Distance Calculator | Free Tool">
-<meta property="og:description" content="Professional miles to feet converter 2025. Convert miles to feet instantly with precision calculations. Perfect for sports, construction, and distance measurements.">
+<meta property="og:title" content="Miles to Feet Converter 2026 | Professional Distance Calculator | Free Tool">
+<meta property="og:description" content="Professional miles to feet converter 2026. Convert miles to feet instantly with precision calculations. Perfect for sports, construction, and distance measurements.">
 <meta property="og:url" content="https://www.thiyagi.com/miles-to-feet">
 <meta property="og:type" content="website">
 <meta property="og:image" content="https://www.thiyagi.com/nt.png">
@@ -83,7 +83,7 @@
         </div>
         <h1 class="text-4xl md:text-6xl font-bold text-gray-900 mb-6">
           Miles to Feet Converter
-          <span class="block text-2xl md:text-3xl text-red-600 mt-2">Professional 2025</span>
+          <span class="block text-2xl md:text-3xl text-red-600 mt-2">Professional 2026</span>
         </h1>
         <p class="text-xl text-gray-600 mb-8 max-w-4xl mx-auto leading-relaxed">
           Convert miles to feet with professional-grade precision. Perfect for sports measurements, 

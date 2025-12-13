@@ -1,18 +1,18 @@
 <?php include '../../header.php'; ?>
 
-<title>New South Wales Holidays 2025 | NSW Public Holiday Calendar | Sydney Holidays</title>
-<meta name="description" content="Complete New South Wales Holiday Calendar 2025. Find all NSW public holidays, bank holidays, Easter Saturday, Bank Holiday, Labour Day, and state-specific observances for Sydney and NSW.">
-<meta name="keywords" content="NSW holidays 2025, New South Wales public holidays, Sydney holidays, Bank Holiday NSW, Queen's Birthday NSW, Easter Saturday, Labour Day NSW">
+<title>New South Wales Holidays 2026 | NSW Public Holiday Calendar | Sydney Holidays</title>
+<meta name="description" content="Complete New South Wales Holiday Calendar 2026. Find all NSW public holidays, bank holidays, Easter Saturday, Bank Holiday, Labour Day, and state-specific observances for Sydney and NSW.">
+<meta name="keywords" content="NSW holidays 2026, New South Wales public holidays, Sydney holidays, Bank Holiday NSW, Queen's Birthday NSW, Easter Saturday, Labour Day NSW">
 <meta name="author" content="NSW Holiday Calendar">
 <meta name="robots" content="index, follow">
-<meta property="og:title" content="New South Wales Holidays 2025 - Complete Calendar">
-<meta property="og:description" content="Complete NSW Holiday Calendar 2025 with all public holidays, bank holidays, and state-specific observances.">
+<meta property="og:title" content="New South Wales Holidays 2026 - Complete Calendar">
+<meta property="og:description" content="Complete NSW Holiday Calendar 2026 with all public holidays, bank holidays, and state-specific observances.">
 <meta property="og:type" content="website">
 <meta property="og:url" content="https://<?= $_SERVER['HTTP_HOST'] . strtok($_SERVER['REQUEST_URI'], '?') ?>">
-<meta property="og:image" content="https://via.placeholder.com/1200x630/003F87/FFFFFF?text=NSW+Holidays+2025">
+<meta property="og:image" content="https://via.placeholder.com/1200x630/003F87/FFFFFF?text=NSW+Holidays+2026">
 <meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:title" content="New South Wales Holidays 2025">
-<meta name="twitter:description" content="Complete NSW Holiday Calendar 2025 with all public holidays and bank holidays.">
+<meta name="twitter:title" content="New South Wales Holidays 2026">
+<meta name="twitter:description" content="Complete NSW Holiday Calendar 2026 with all public holidays and bank holidays.">
 <link rel="canonical" href="https://<?= $_SERVER['HTTP_HOST'] . strtok($_SERVER['REQUEST_URI'], '?') ?>">
 <meta name="language" content="English">
 <meta name="geo.region" content="AU-NSW">
@@ -23,20 +23,20 @@
 {
   "@context": "https://schema.org",
   "@type": "WebPage",
-  "name": "New South Wales Holidays 2025",
-  "description": "Complete New South Wales Holiday Calendar 2025 with all public holidays, bank holidays, and state-specific observances.",
+  "name": "New South Wales Holidays 2026",
+  "description": "Complete New South Wales Holiday Calendar 2026 with all public holidays, bank holidays, and state-specific observances.",
   "url": "<?php echo 'https://' . $_SERVER['HTTP_HOST'] . $_SERVER['REQUEST_URI']; ?>",
   "mainEntity": {
     "@type": "Event",
-    "@id": "#nsw-holidays-2025",
-    "name": "New South Wales Public Holidays 2025",
-    "description": "Complete list of New South Wales public holidays and bank holidays for 2025 including Australia Day, ANZAC Day, Queen's Birthday, and all state-specific observances for Sydney and NSW.",
-    "startDate": "2025-01-01",
-    "endDate": "2025-12-31",
+    "@id": "#nsw-holidays-2026",
+    "name": "New South Wales Public Holidays 2026",
+    "description": "Complete list of New South Wales public holidays and bank holidays for 2026 including Australia Day, ANZAC Day, Queen's Birthday, and all state-specific observances for Sydney and NSW.",
+    "startDate": "2026-01-01",
+    "endDate": "2026-12-31",
     "eventStatus": "https://schema.org/EventScheduled",
     "image": {
       "@type": "ImageObject",
-      "url": "https://via.placeholder.com/1200x630/003087/FFFFFF?text=NSW+Holidays+2025",
+      "url": "https://via.placeholder.com/1200x630/003087/FFFFFF?text=NSW+Holidays+2026",
       "width": 1200,
       "height": 630
     },
@@ -95,7 +95,7 @@
       {
         "@type": "ListItem",
         "position": 4,
-        "name": "NSW Holidays 2025",
+        "name": "NSW Holidays 2026",
         "item": "https://<?= $_SERVER['HTTP_HOST'] . strtok($_SERVER['REQUEST_URI'], '?') ?>"
       }
     ]
@@ -104,7 +104,7 @@
     "@type": "Organization",
     "name": "NSW Holiday Calendar"
   },
-  "datePublished": "2025-01-01",
+  "datePublished": "2026-01-01",
   "dateModified": "<?php echo date('Y-m-d'); ?>"
 }
 </script>
@@ -144,86 +144,86 @@
 </head>
 <body class="bg-gradient-to-br from-blue-50 to-indigo-100 min-h-screen">
     <?php
-    // NSW Holidays 2025 Data
-    $holidays_2025 = [
-        '2025-01-01' => [
+    // NSW Holidays 2026 Data
+    $holidays_2026 = [
+        '2026-01-01' => [
             'name' => 'New Year\'s Day',
             'type' => 'National Holiday',
             'description' => 'First day of the year',
             'icon' => 'fa-calendar-day',
             'bank_holiday' => true
         ],
-        '2025-01-26' => [
+        '2026-01-26' => [
             'name' => 'Australia Day',
             'type' => 'National Holiday',
             'description' => 'National day of Australia',
             'icon' => 'fa-flag',
             'bank_holiday' => true
         ],
-        '2025-01-27' => [
+        '2026-01-27' => [
             'name' => 'Australia Day (observed)',
             'type' => 'National Holiday',
             'description' => 'Observed on Monday',
             'icon' => 'fa-flag',
             'bank_holiday' => true
         ],
-        '2025-04-18' => [
+        '2026-04-18' => [
             'name' => 'Good Friday',
             'type' => 'National Holiday',
             'description' => 'Christian holy day',
             'icon' => 'fa-cross',
             'bank_holiday' => true
         ],
-        '2025-04-19' => [
+        '2026-04-19' => [
             'name' => 'Easter Saturday',
             'type' => 'NSW State Holiday',
             'description' => 'NSW specific public holiday',
             'icon' => 'fa-egg',
             'bank_holiday' => true
         ],
-        '2025-04-21' => [
+        '2026-04-21' => [
             'name' => 'Easter Monday',
             'type' => 'National Holiday',
             'description' => 'Day after Easter Sunday',
             'icon' => 'fa-dove',
             'bank_holiday' => true
         ],
-        '2025-04-25' => [
+        '2026-04-25' => [
             'name' => 'ANZAC Day',
             'type' => 'National Holiday',
             'description' => 'Australian and New Zealand Army Corps Day',
             'icon' => 'fa-medal',
             'bank_holiday' => true
         ],
-        '2025-06-09' => [
+        '2026-06-09' => [
             'name' => 'Queen\'s Birthday',
             'type' => 'NSW State Holiday',
             'description' => 'Second Monday in June',
             'icon' => 'fa-crown',
             'bank_holiday' => true
         ],
-        '2025-08-04' => [
+        '2026-08-04' => [
             'name' => 'Bank Holiday',
             'type' => 'NSW State Holiday',
             'description' => 'First Monday in August - NSW specific',
             'icon' => 'fa-university',
             'bank_holiday' => true
         ],
-        '2025-10-06' => [
+        '2026-10-06' => [
             'name' => 'Labour Day',
             'type' => 'NSW State Holiday',
             'description' => 'First Monday in October',
             'icon' => 'fa-hammer',
             'bank_holiday' => true
         ],
-        '2025-12-25' => [
+        '2026-12-25' => [
             'name' => 'Christmas Day',
             'type' => 'National Holiday',
             'description' => 'Celebration of Jesus Christ\'s birth',
             'icon' => 'fa-tree',
             'bank_holiday' => true
         ],
-        '2025-12-26' => [
+        '2026-12-26' => [
             'name' => 'Boxing Day',
             'type' => 'National Holiday',
             'description' => 'Day after Christmas',
@@ -234,7 +234,7 @@
 
     // Get current month and year
     $current_month = isset($_GET['month']) ? (int)$_GET['month'] : (int)date('n');
-    $current_year = isset($_GET['year']) ? (int)$_GET['year'] : 2025;
+    $current_year = isset($_GET['year']) ? (int)$_GET['year'] : 2026;
 
     // Month names
     $month_names = [
@@ -282,7 +282,7 @@
                     </div>
                     <div>
                         <h1 class="text-4xl font-bold flex items-center space-x-3">
-                            <span class="text-nsw-blue">New South Wales Holidays 2025</span>
+                            <span class="text-nsw-blue">New South Wales Holidays 2026</span>
                             <i class="fas fa-map-marker-alt text-2xl text-nsw-red animate-bounce"></i>
                         </h1>
                         <p class="text-lg opacity-90 flex items-center space-x-2">
@@ -302,7 +302,7 @@
                     </p>
                     <div class="mt-2 flex items-center space-x-2">
                         <i class="fas fa-gift text-yellow-500"></i>
-                        <span class="text-sm opacity-75"><?php echo count($holidays_2025); ?> Total Holidays</span>
+                        <span class="text-sm opacity-75"><?php echo count($holidays_2026); ?> Total Holidays</span>
                     </div>
                 </div>
             </div>
@@ -329,7 +329,7 @@
                 <li><i class="fas fa-chevron-right text-xs"></i></li>
                 <li><a href="/holiday/australia-holidays/" class="hover:text-blue-600 transition-colors">Australia</a></li>
                 <li><i class="fas fa-chevron-right text-xs"></i></li>
-                <li class="text-gray-800 font-medium">NSW Holidays 2025</li>
+                <li class="text-gray-800 font-medium">NSW Holidays 2026</li>
             </ol>
         </nav>
 
@@ -338,11 +338,11 @@
             <div class="max-w-4xl mx-auto text-center">
                 <h2 class="text-3xl font-bold text-gray-800 mb-4 flex items-center justify-center space-x-3">
                     <i class="fas fa-calendar-alt text-nsw-blue"></i>
-                    <span>Complete NSW Holiday Calendar 2025</span>
+                    <span>Complete NSW Holiday Calendar 2026</span>
                     <i class="fas fa-star text-yellow-500"></i>
                 </h2>
                 <p class="text-lg text-gray-700 mb-4 leading-relaxed">
-                    Welcome to the comprehensive New South Wales Holiday Calendar 2025! This detailed guide provides you with
+                    Welcome to the comprehensive New South Wales Holiday Calendar 2026! This detailed guide provides you with
                     all public holidays, bank holidays, and NSW-specific observances including Easter Saturday, Bank Holiday
                     (first Monday in August), and Labour Day (first Monday in October). Perfect for planning your year in Sydney and across NSW.
                 </p>
@@ -471,7 +471,7 @@
                 // Days of the month
                 for ($day = 1; $day <= $days_in_month; $day++) {
                     $date = sprintf('%04d-%02d-%02d', $current_year, $current_month, $day);
-                    $is_holiday = isset($holidays_2025[$date]);
+                    $is_holiday = isset($holidays_2026[$date]);
                     $is_today = ($day == date('j') && $current_month == date('n') && $current_year == date('Y'));
                     
                     $cell_classes = 'p-4 border-r border-b min-h-[100px] relative';
@@ -485,7 +485,7 @@
                     echo '<div class="text-lg font-semibold text-gray-800 mb-2">' . $day . '</div>';
                     
                     if ($is_holiday) {
-                        $holiday = $holidays_2025[$date];
+                        $holiday = $holidays_2026[$date];
                         $is_state_holiday = ($holiday['type'] === 'NSW State Holiday');
                         $border_color = $is_state_holiday ? 'border-nsw-blue' : 'border-red-500';
                         $bg_color = $is_state_holiday ? 'bg-blue-100' : 'bg-red-100';
@@ -539,7 +539,7 @@
                     <?php
                     $today = date('Y-m-d');
                     $upcoming_count = 0;
-                    foreach ($holidays_2025 as $date => $holiday) {
+                    foreach ($holidays_2026 as $date => $holiday) {
                         if ($date >= $today && $upcoming_count < 5) {
                             $days_until = (strtotime($date) - strtotime($today)) / (60 * 60 * 24);
                             echo '<div class="flex items-center justify-between p-4 bg-gradient-to-r from-blue-50 to-indigo-50 rounded-lg border border-blue-200 hover:shadow-md transition-all transform hover:scale-105">';
@@ -582,28 +582,28 @@
                     <div class="text-center p-4 bg-gradient-to-br from-blue-50 to-blue-100 rounded-lg border border-blue-200 hover:shadow-md transition-all">
                         <div class="flex items-center justify-center space-x-2 mb-2">
                             <i class="fas fa-gift text-blue-600 text-xl"></i>
-                            <div class="text-3xl font-bold text-blue-600"><?php echo count($holidays_2025); ?></div>
+                            <div class="text-3xl font-bold text-blue-600"><?php echo count($holidays_2026); ?></div>
                         </div>
                         <div class="text-sm text-blue-700 font-medium">Total Holidays</div>
                     </div>
                     <div class="text-center p-4 bg-gradient-to-br from-red-50 to-red-100 rounded-lg border border-red-200 hover:shadow-md transition-all">
                         <div class="flex items-center justify-center space-x-2 mb-2">
                             <i class="fas fa-flag text-red-600 text-xl"></i>
-                            <div class="text-3xl font-bold text-red-600"><?php echo count(array_filter($holidays_2025, function($h) { return $h['type'] === 'National Holiday'; })); ?></div>
+                            <div class="text-3xl font-bold text-red-600"><?php echo count(array_filter($holidays_2026, function($h) { return $h['type'] === 'National Holiday'; })); ?></div>
                         </div>
                         <div class="text-sm text-red-700 font-medium">National Holidays</div>
                     </div>
                     <div class="text-center p-4 bg-gradient-to-br from-nsw-blue/20 to-nsw-blue/30 rounded-lg border border-nsw-blue hover:shadow-md transition-all">
                         <div class="flex items-center justify-center space-x-2 mb-2">
                             <i class="fas fa-map-marker-alt text-nsw-blue text-xl"></i>
-                            <div class="text-3xl font-bold text-nsw-blue"><?php echo count(array_filter($holidays_2025, function($h) { return $h['type'] === 'NSW State Holiday'; })); ?></div>
+                            <div class="text-3xl font-bold text-nsw-blue"><?php echo count(array_filter($holidays_2026, function($h) { return $h['type'] === 'NSW State Holiday'; })); ?></div>
                         </div>
                         <div class="text-sm text-nsw-blue font-medium">NSW State Holidays</div>
                     </div>
                     <div class="text-center p-4 bg-gradient-to-br from-green-50 to-green-100 rounded-lg border border-green-200 hover:shadow-md transition-all">
                         <div class="flex items-center justify-center space-x-2 mb-2">
                             <i class="fas fa-university text-green-600 text-xl"></i>
-                            <div class="text-3xl font-bold text-green-600"><?php echo count(array_filter($holidays_2025, function($h) { return $h['bank_holiday'] === true; })); ?></div>
+                            <div class="text-3xl font-bold text-green-600"><?php echo count(array_filter($holidays_2026, function($h) { return $h['bank_holiday'] === true; })); ?></div>
                         </div>
                         <div class="text-sm text-green-700 font-medium">Bank Holidays</div>
                     </div>
@@ -642,7 +642,7 @@
             <div class="max-w-6xl mx-auto">
                 <h2 class="text-3xl font-bold text-gray-800 mb-8 text-center flex items-center justify-center space-x-3">
                     <i class="fas fa-university text-green-600"></i>
-                    <span>Bank Holidays 2025</span>
+                    <span>Bank Holidays 2026</span>
                     <i class="fas fa-credit-card text-green-500"></i>
                 </h2>
                 
@@ -666,7 +666,7 @@
                         </h3>
                         <div class="space-y-4">
                             <?php
-                            foreach ($holidays_2025 as $date => $holiday) {
+                            foreach ($holidays_2026 as $date => $holiday) {
                                 if ($holiday['type'] === 'National Holiday') {
                                     $formatted_date = date('l, M d, Y', strtotime($date));
                                     echo '<div class="flex items-center justify-between p-4 bg-blue-50 rounded-lg border border-blue-100 hover:shadow-md transition-all">';
@@ -697,7 +697,7 @@
                         </h3>
                         <div class="space-y-4">
                             <?php
-                            foreach ($holidays_2025 as $date => $holiday) {
+                            foreach ($holidays_2026 as $date => $holiday) {
                                 if ($holiday['type'] === 'NSW State Holiday') {
                                     $formatted_date = date('l, M d, Y', strtotime($date));
                                     echo '<div class="flex items-center justify-between p-4 bg-orange-50 rounded-lg border border-orange-100 hover:shadow-md transition-all">';
@@ -727,15 +727,15 @@
                 <!-- Bank Holiday Summary Stats -->
                 <div class="mt-8 grid grid-cols-1 md:grid-cols-3 gap-6">
                     <div class="bg-white rounded-lg p-6 text-center shadow-md border border-gray-200">
-                        <div class="text-3xl font-bold text-blue-600"><?php echo count($holidays_2025); ?></div>
+                        <div class="text-3xl font-bold text-blue-600"><?php echo count($holidays_2026); ?></div>
                         <div class="text-sm text-gray-600">Total Bank Holidays</div>
                     </div>
                     <div class="bg-white rounded-lg p-6 text-center shadow-md border border-gray-200">
-                        <div class="text-3xl font-bold text-green-600"><?php echo count(array_filter($holidays_2025, function($h) { return $h['type'] === 'National Holiday'; })); ?></div>
+                        <div class="text-3xl font-bold text-green-600"><?php echo count(array_filter($holidays_2026, function($h) { return $h['type'] === 'National Holiday'; })); ?></div>
                         <div class="text-sm text-gray-600">National Bank Holidays</div>
                     </div>
                     <div class="bg-white rounded-lg p-6 text-center shadow-md border border-gray-200">
-                        <div class="text-3xl font-bold text-orange-600"><?php echo count(array_filter($holidays_2025, function($h) { return $h['type'] === 'NSW State Holiday'; })); ?></div>
+                        <div class="text-3xl font-bold text-orange-600"><?php echo count(array_filter($holidays_2026, function($h) { return $h['type'] === 'NSW State Holiday'; })); ?></div>
                         <div class="text-sm text-gray-600">NSW State Bank Holidays</div>
                     </div>
                 </div>
@@ -754,7 +754,7 @@
                     <div class="bg-gray-50 rounded-lg p-6 hover:shadow-md transition-all">
                         <h3 class="text-xl font-semibold text-gray-800 mb-3 flex items-center space-x-2">
                             <i class="fas fa-flag text-red-500"></i>
-                            <span>What are the main public holidays in NSW 2025?</span>
+                            <span>What are the main public holidays in NSW 2026?</span>
                         </h3>
                         <p class="text-gray-700 leading-relaxed">
                             NSW observes all national Australian public holidays plus state-specific holidays including Easter Saturday, Bank Holiday (first Monday in August), and Labour Day (first Monday in October).
@@ -775,7 +775,7 @@
                             <span>What is the Bank Holiday in NSW?</span>
                         </h3>
                         <p class="text-gray-700 leading-relaxed">
-                            The Bank Holiday is observed on the first Monday in August (August 4, 2025) and is specific to NSW. It provides an additional long weekend during winter months.
+                            The Bank Holiday is observed on the first Monday in August (August 4, 2026) and is specific to NSW. It provides an additional long weekend during winter months.
                         </p>
                     </div>
                     <div class="bg-gray-50 rounded-lg p-6 hover:shadow-md transition-all">
@@ -784,7 +784,7 @@
                             <span>When is Labour Day in NSW?</span>
                         </h3>
                         <p class="text-gray-700 leading-relaxed">
-                            NSW celebrates Labour Day on the first Monday in October (October 6, 2025), which differs from states like Victoria and Tasmania that celebrate it in March.
+                            NSW celebrates Labour Day on the first Monday in October (October 6, 2026), which differs from states like Victoria and Tasmania that celebrate it in March.
                         </p>
                     </div>
                     <div class="bg-gray-50 rounded-lg p-6 hover:shadow-md transition-all">
@@ -802,7 +802,7 @@
                             <span>When is Queen's Birthday celebrated in NSW?</span>
                         </h3>
                         <p class="text-gray-700 leading-relaxed">
-                            NSW celebrates Queen's Birthday on the second Monday in June (June 9, 2025), which is the same as most Australian states except Western Australia and Queensland.
+                            NSW celebrates Queen's Birthday on the second Monday in June (June 9, 2026), which is the same as most Australian states except Western Australia and Queensland.
                         </p>
                     </div>
                     <div class="bg-gray-50 rounded-lg p-6 hover:shadow-md transition-all">
@@ -848,7 +848,7 @@
 
     <script>
         // Holiday data for search functionality
-        const holidaysData = <?php echo json_encode($holidays_2025); ?>;
+        const holidaysData = <?php echo json_encode($holidays_2026); ?>;
 
         function searchHolidays() {
             const searchTerm = document.getElementById('searchInput').value.toLowerCase();
@@ -942,7 +942,7 @@
         }
 
         function downloadCalendar() {
-            const content = `New South Wales Holidays 2025\n\n` +
+            const content = `New South Wales Holidays 2026\n\n` +
                 Object.entries(holidaysData).map(([date, holiday]) => 
                     `${new Date(date).toDateString()}: ${holiday.name} - ${holiday.type}`
                 ).join('\n');
@@ -951,7 +951,7 @@
             const url = window.URL.createObjectURL(blob);
             const a = document.createElement('a');
             a.href = url;
-            a.download = 'nsw-holidays-2025.txt';
+            a.download = 'nsw-holidays-2026.txt';
             a.click();
             window.URL.revokeObjectURL(url);
         }
@@ -959,8 +959,8 @@
         function shareCalendar() {
             if (navigator.share) {
                 navigator.share({
-                    title: 'NSW Holidays 2025',
-                    text: 'Check out the New South Wales holiday calendar for 2025!',
+                    title: 'NSW Holidays 2026',
+                    text: 'Check out the New South Wales holiday calendar for 2026!',
                     url: window.location.href
                 });
             } else {

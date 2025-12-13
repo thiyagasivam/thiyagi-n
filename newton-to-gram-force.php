@@ -1,19 +1,19 @@
 <?php include 'header.php'; ?>
 
 <!-- SEO Meta Tags -->
-<title>Newton to Gram Force Converter 2025 - N to gf Calculator | Thiyagi</title>
-<meta name="description" content="Free online Newton to Gram Force converter 2025. Convert N to gf and gf to N instantly with accurate force conversion for physics and engineering.">
-<meta name="keywords" content="newton to gram force converter 2025, N to gf, force converter, physics calculator, engineering force, metric force units">
+<title>Newton to Gram Force Converter 2026 - N to gf Calculator | Thiyagi</title>
+<meta name="description" content="Free online Newton to Gram Force converter 2026. Convert N to gf and gf to N instantly with accurate force conversion for physics and engineering.">
+<meta name="keywords" content="newton to gram force converter 2026, N to gf, force converter, physics calculator, engineering force, metric force units">
 <meta name="author" content="Thiyagi">
-<meta property="og:title" content="Newton to Gram Force Converter 2025 - N to gf Calculator">
-<meta property="og:description" content="Free online Newton to Gram Force converter 2025. Convert N to gf and gf to N instantly.">
+<meta property="og:title" content="Newton to Gram Force Converter 2026 - N to gf Calculator">
+<meta property="og:description" content="Free online Newton to Gram Force converter 2026. Convert N to gf and gf to N instantly.">
 <meta property="og:type" content="website">
 <meta property="og:url" content="https://www.thiyagi.com/newton-to-gram-force.php">
 <meta property="og:image" content="https://www.thiyagi.com/nt.png">
 <meta property="og:site_name" content="Thiyagi">
 <meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:title" content="Newton to Gram Force Converter 2025 - N to gf Calculator">
-<meta name="twitter:description" content="Free online Newton to Gram Force converter 2025. Convert N to gf and gf to N instantly.">
+<meta name="twitter:title" content="Newton to Gram Force Converter 2026 - N to gf Calculator">
+<meta name="twitter:description" content="Free online Newton to Gram Force converter 2026. Convert N to gf and gf to N instantly.">
 <meta name="twitter:image" content="https://www.thiyagi.com/nt.png">
 
 <div class="min-h-screen bg-gradient-to-br from-blue-50 via-indigo-50 to-purple-50 py-12">

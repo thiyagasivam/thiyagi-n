@@ -901,15 +901,15 @@ function generateWebSiteSchema($title, $description, $url, $data) {
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Advanced Schema Markup Generator 2025 - Professional JSON-LD Creator | Thiyagi</title>
-    <meta name="description" content="Professional schema.org structured data generator 2025 with validation, multiple schema types, and SEO optimization. Generate JSON-LD markup for rich snippets and better search visibility.">
-    <meta name="keywords" content="schema markup generator 2025, JSON-LD creator, structured data, schema.org, rich snippets, SEO optimization, microdata">
+    <title>Advanced Schema Markup Generator 2026 - Professional JSON-LD Creator | Thiyagi</title>
+    <meta name="description" content="Professional schema.org structured data generator 2026 with validation, multiple schema types, and SEO optimization. Generate JSON-LD markup for rich snippets and better search visibility.">
+    <meta name="keywords" content="schema markup generator 2026, JSON-LD creator, structured data, schema.org, rich snippets, SEO optimization, microdata">
     <meta name="author" content="Thiyagi">
     <link rel="canonical" href="https://livedu.in/schema-markup-generator.php">
     
     <!-- Open Graph tags -->
-    <meta property="og:title" content="Advanced Schema Markup Generator 2025 - Professional JSON-LD Creator">
-    <meta property="og:description" content="Generate professional schema.org structured data 2025 with validation and optimization for better search engine visibility.">
+    <meta property="og:title" content="Advanced Schema Markup Generator 2026 - Professional JSON-LD Creator">
+    <meta property="og:description" content="Generate professional schema.org structured data 2026 with validation and optimization for better search engine visibility.">
     <meta property="og:type" content="website">
     <meta property="og:url" content="https://livedu.in/schema-markup-generator.php">
     <meta property="og:site_name" content="Thiyagi">
@@ -917,8 +917,8 @@ function generateWebSiteSchema($title, $description, $url, $data) {
     
     <!-- Twitter Card tags -->
     <meta name="twitter:card" content="summary_large_image">
-    <meta name="twitter:title" content="Advanced Schema Markup Generator 2025">
-    <meta name="twitter:description" content="Professional schema.org structured data generator 2025 with validation">
+    <meta name="twitter:title" content="Advanced Schema Markup Generator 2026">
+    <meta name="twitter:description" content="Professional schema.org structured data generator 2026 with validation">
     <meta name="twitter:image" content="https://livedu.in/images/schema-generator-twitter.jpg">
     
     <!-- Structured Data -->
@@ -926,8 +926,8 @@ function generateWebSiteSchema($title, $description, $url, $data) {
     {
         "@context": "https://schema.org",
         "@type": "WebApplication",
-        "name": "Advanced Schema Markup Generator 2025",
-        "description": "Professional schema.org structured data generator 2025 with validation and multiple schema types",
+        "name": "Advanced Schema Markup Generator 2026",
+        "description": "Professional schema.org structured data generator 2026 with validation and multiple schema types",
         "url": "https://livedu.in/schema-markup-generator.php",
         "applicationCategory": "SEO Tool",
         "operatingSystem": "Any",
@@ -985,8 +985,8 @@ function generateWebSiteSchema($title, $description, $url, $data) {
     <div class="bg-white shadow-sm border-b">
         <div class="max-w-7xl mx-auto px-4 py-6">
             <div class="text-center">
-                <h1 class="text-4xl md:text-5xl font-bold gradient-text mb-4">Advanced Schema Markup Generator 2025</h1>
-                <p class="text-lg text-gray-600 max-w-3xl mx-auto">Professional schema.org structured data generator 2025 with validation, multiple schema types, and SEO optimization for rich snippets</p>
+                <h1 class="text-4xl md:text-5xl font-bold gradient-text mb-4">Advanced Schema Markup Generator 2026</h1>
+                <p class="text-lg text-gray-600 max-w-3xl mx-auto">Professional schema.org structured data generator 2026 with validation, multiple schema types, and SEO optimization for rich snippets</p>
             </div>
         </div>
     </div>
@@ -1248,9 +1248,9 @@ function generateWebSiteSchema($title, $description, $url, $data) {
     <!-- Footer -->
     <footer class="bg-gray-800 text-white py-8 mt-12">
         <div class="max-w-7xl mx-auto px-4 text-center">
-            <h3 class="text-lg font-semibold mb-2">Advanced Schema Markup Generator 2025</h3>
-            <p class="text-gray-300">Professional structured data generator 2025 by Thiyagi - Free forever</p>
-            <p class="text-gray-400 text-sm mt-2">Help search engines understand your content better with schema.org markup in 2025</p>
+            <h3 class="text-lg font-semibold mb-2">Advanced Schema Markup Generator 2026</h3>
+            <p class="text-gray-300">Professional structured data generator 2026 by Thiyagi - Free forever</p>
+            <p class="text-gray-400 text-sm mt-2">Help search engines understand your content better with schema.org markup in 2026</p>
         </div>
     </footer>
 
