@@ -279,7 +279,7 @@ function scanDirectory($dir, $baseDir, &$foundPages, $excludedPages, $excludedFo
                 !in_array($cleanPath, $excludedPages) && 
                 !isset($foundPages[$cleanPath])) {
                 $foundPages[$cleanPath] = [
-                    'lastmod' => date('Y-m-d', $file->getMTime()),
+                    'lastmod' => date('Y-m-d'), // Always use current date
                     'changefreq' => 'daily',
                     'priority' => '1.0'
                 ];
