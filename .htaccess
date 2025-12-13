@@ -13,6 +13,9 @@ RewriteRule ^sitemap\.xml$ sitemap.php [L]
 RewriteRule ^sitemap/?$ sitemap.php [L]
 RewriteRule ^service-center-sitemap\.xml$ service-center-sitemap.php [L]
 
+# Permanent redirect for renamed holiday files
+RewriteRule ^albania-holidays-2025\.php$ /albania-holidays-2026.php [L,R=301]
+
 # Prevent access to .htaccess and other sensitive files
 <Files ".htaccess">
     Order allow,deny
