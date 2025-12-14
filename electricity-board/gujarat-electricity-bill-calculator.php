@@ -289,7 +289,8 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
     <div class="container mx-auto px-4 py-8">
         <header class="text-center mb-8">
             <h1 class="text-3xl font-bold text-primary-600 dark:text-primary-400 mb-2">Gujarat Electricity Bill Calculator 2026</h1>
-            <p class="text-gray-600 dark:text-gray-300">Calculate your bill for UGVCL, DGVCL, MGVCL, PGVCL & Torrent Power</p>
+            <p class="text-gray-600 dark:text-gray-300 text-lg">Calculate your exact electricity bill in seconds – no confusion, no surprises</p>
+            <p class="text-gray-500 dark:text-gray-400 mt-2">For UGVCL, DGVCL, MGVCL, PGVCL & Torrent Power</p>
             
             <div class="flex justify-center mt-4 no-print">
                 <button onclick="toggleDarkMode()" class="px-3 py-1 rounded-full bg-gray-200 dark:bg-gray-700 text-gray-700 dark:text-gray-200 text-sm">
@@ -444,6 +445,212 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
             </div>
         </div>
         
+        <div class="max-w-4xl mx-auto mt-12 bg-white dark:bg-gray-800 rounded-lg shadow-md p-8">
+            <h2 class="text-2xl font-bold text-gray-800 dark:text-gray-200 mb-6">Frequently Asked Questions</h2>
+            
+            <div class="space-y-4">
+                <details class="group">
+                    <summary class="font-medium text-gray-800 dark:text-gray-200 cursor-pointer list-none flex justify-between items-center p-4 bg-gray-50 dark:bg-gray-700 rounded-lg">
+                        <span>How accurate is this calculator?</span>
+                        <i class="fas fa-chevron-down group-open:rotate-180 transition-transform"></i>
+                    </summary>
+                    <p class="mt-3 text-gray-600 dark:text-gray-400 px-4">This calculator uses the official 2026 tariff rates from Gujarat DISCOMs and calculates bills using the same slab method used by electricity boards.</p>
+                </details>
+
+                <details class="group">
+                    <summary class="font-medium text-gray-800 dark:text-gray-200 cursor-pointer list-none flex justify-between items-center p-4 bg-gray-50 dark:bg-gray-700 rounded-lg">
+                        <span>Why is my actual bill different from this estimate?</span>
+                        <i class="fas fa-chevron-down group-open:rotate-180 transition-transform"></i>
+                    </summary>
+                    <p class="mt-3 text-gray-600 dark:text-gray-400 px-4">Your actual bill includes additional charges like fixed charges, meter rent, electricity duty, and applicable taxes which vary by DISCOM and connection type.</p>
+                </details>
+
+                <details class="group">
+                    <summary class="font-medium text-gray-800 dark:text-gray-200 cursor-pointer list-none flex justify-between items-center p-4 bg-gray-50 dark:bg-gray-700 rounded-lg">
+                        <span>Which DISCOMs are covered?</span>
+                        <i class="fas fa-chevron-down group-open:rotate-180 transition-transform"></i>
+                    </summary>
+                    <p class="mt-3 text-gray-600 dark:text-gray-400 px-4">This calculator covers all major Gujarat electricity distribution companies: UGVCL, DGVCL, MGVCL, PGVCL, and Torrent Power Limited.</p>
+                </details>
+
+                <details class="group">
+                    <summary class="font-medium text-gray-800 dark:text-gray-200 cursor-pointer list-none flex justify-between items-center p-4 bg-gray-50 dark:bg-gray-700 rounded-lg">
+                        <span>What do the slab rates mean?</span>
+                        <i class="fas fa-chevron-down group-open:rotate-180 transition-transform"></i>
+                    </summary>
+                    <p class="mt-3 text-gray-600 dark:text-gray-400 px-4">Electricity rates increase as you consume more units. The first 100 units are free, then rates progressively increase for each slab of consumption.</p>
+                </details>
+
+                <details class="group">
+                    <summary class="font-medium text-gray-800 dark:text-gray-200 cursor-pointer list-none flex justify-between items-center p-4 bg-gray-50 dark:bg-gray-700 rounded-lg">
+                        <span>How do I read my electricity meter?</span>
+                        <i class="fas fa-chevron-down group-open:rotate-180 transition-transform"></i>
+                    </summary>
+                    <p class="mt-3 text-gray-600 dark:text-gray-400 px-4">Note your current meter reading and subtract your previous reading. The difference is the units consumed during the billing period.</p>
+                </details>
+
+                <details class="group">
+                    <summary class="font-medium text-gray-800 dark:text-gray-200 cursor-pointer list-none flex justify-between items-center p-4 bg-gray-50 dark:bg-gray-700 rounded-lg">
+                        <span>Are the first 100 units really free?</span>
+                        <i class="fas fa-chevron-down group-open:rotate-180 transition-transform"></i>
+                    </summary>
+                    <p class="mt-3 text-gray-600 dark:text-gray-400 px-4">Yes, under the current Gujarat tariff structure, domestic consumers pay ₹0 per unit for the first 100 units consumed each month.</p>
+                </details>
+
+                <details class="group">
+                    <summary class="font-medium text-gray-800 dark:text-gray-200 cursor-pointer list-none flex justify-between items-center p-4 bg-gray-50 dark:bg-gray-700 rounded-lg">
+                        <span>What if I consume more than 1000 units?</span>
+                        <i class="fas fa-chevron-down group-open:rotate-180 transition-transform"></i>
+                    </summary>
+                    <p class="mt-3 text-gray-600 dark:text-gray-400 px-4">Units above 1000 are charged at ₹11.55 per unit. The calculator handles any consumption level and shows the complete breakdown.</p>
+                </details>
+
+                <details class="group">
+                    <summary class="font-medium text-gray-800 dark:text-gray-200 cursor-pointer list-none flex justify-between items-center p-4 bg-gray-50 dark:bg-gray-700 rounded-lg">
+                        <span>Can I use this for commercial connections?</span>
+                        <i class="fas fa-chevron-down group-open:rotate-180 transition-transform"></i>
+                    </summary>
+                    <p class="mt-3 text-gray-600 dark:text-gray-400 px-4">This calculator is designed for residential connections. Commercial and industrial tariffs differ significantly from domestic rates.</p>
+                </details>
+
+                <details class="group">
+                    <summary class="font-medium text-gray-800 dark:text-gray-200 cursor-pointer list-none flex justify-between items-center p-4 bg-gray-50 dark:bg-gray-700 rounded-lg">
+                        <span>How often do tariff rates change?</span>
+                        <i class="fas fa-chevron-down group-open:rotate-180 transition-transform"></i>
+                    </summary>
+                    <p class="mt-3 text-gray-600 dark:text-gray-400 px-4">Electricity tariffs are typically revised annually by the Gujarat Electricity Regulatory Commission based on various factors.</p>
+                </details>
+
+                <details class="group">
+                    <summary class="font-medium text-gray-800 dark:text-gray-200 cursor-pointer list-none flex justify-between items-center p-4 bg-gray-50 dark:bg-gray-700 rounded-lg">
+                        <span>Why do I see different rates for the same consumption?</span>
+                        <i class="fas fa-chevron-down group-open:rotate-180 transition-transform"></i>
+                    </summary>
+                    <p class="mt-3 text-gray-600 dark:text-gray-400 px-4">Your bill is calculated progressively. Different portions of your consumption fall into different slabs, each charged at its own rate.</p>
+                </details>
+
+                <details class="group">
+                    <summary class="font-medium text-gray-800 dark:text-gray-200 cursor-pointer list-none flex justify-between items-center p-4 bg-gray-50 dark:bg-gray-700 rounded-lg">
+                        <span>Can I save money by monitoring my usage?</span>
+                        <i class="fas fa-chevron-down group-open:rotate-180 transition-transform"></i>
+                    </summary>
+                    <p class="mt-3 text-gray-600 dark:text-gray-400 px-4">Yes. Staying within lower slabs significantly reduces your bill. Use this calculator to see how reducing usage by a few units affects your total cost.</p>
+                </details>
+
+                <details class="group">
+                    <summary class="font-medium text-gray-800 dark:text-gray-200 cursor-pointer list-none flex justify-between items-center p-4 bg-gray-50 dark:bg-gray-700 rounded-lg">
+                        <span>What are fixed charges?</span>
+                        <i class="fas fa-chevron-down group-open:rotate-180 transition-transform"></i>
+                    </summary>
+                    <p class="mt-3 text-gray-600 dark:text-gray-400 px-4">Fixed charges are monthly fees based on your sanctioned load or connection type, charged regardless of consumption. These vary by DISCOM.</p>
+                </details>
+
+                <details class="group">
+                    <summary class="font-medium text-gray-800 dark:text-gray-200 cursor-pointer list-none flex justify-between items-center p-4 bg-gray-50 dark:bg-gray-700 rounded-lg">
+                        <span>Do rates differ between urban and rural areas?</span>
+                        <i class="fas fa-chevron-down group-open:rotate-180 transition-transform"></i>
+                    </summary>
+                    <p class="mt-3 text-gray-600 dark:text-gray-400 px-4">Residential tariffs are generally uniform within each DISCOM's service area, though some subsidies may apply in specific cases.</p>
+                </details>
+
+                <details class="group">
+                    <summary class="font-medium text-gray-800 dark:text-gray-200 cursor-pointer list-none flex justify-between items-center p-4 bg-gray-50 dark:bg-gray-700 rounded-lg">
+                        <span>Can I calculate bills for multiple months?</span>
+                        <i class="fas fa-chevron-down group-open:rotate-180 transition-transform"></i>
+                    </summary>
+                    <p class="mt-3 text-gray-600 dark:text-gray-400 px-4">Enter the total units consumed over any period. The calculator works for monthly, bi-monthly, or any billing cycle your DISCOM uses.</p>
+                </details>
+
+                <details class="group">
+                    <summary class="font-medium text-gray-800 dark:text-gray-200 cursor-pointer list-none flex justify-between items-center p-4 bg-gray-50 dark:bg-gray-700 rounded-lg">
+                        <span>What is electricity duty?</span>
+                        <i class="fas fa-chevron-down group-open:rotate-180 transition-transform"></i>
+                    </summary>
+                    <p class="mt-3 text-gray-600 dark:text-gray-400 px-4">Electricity duty is a state tax applied to your energy charges, typically calculated as a percentage of your bill amount.</p>
+                </details>
+
+                <details class="group">
+                    <summary class="font-medium text-gray-800 dark:text-gray-200 cursor-pointer list-none flex justify-between items-center p-4 bg-gray-50 dark:bg-gray-700 rounded-lg">
+                        <span>How do I reduce my electricity bill?</span>
+                        <i class="fas fa-chevron-down group-open:rotate-180 transition-transform"></i>
+                    </summary>
+                    <p class="mt-3 text-gray-600 dark:text-gray-400 px-4">Use energy-efficient appliances, unplug devices when not in use, use LED bulbs, and monitor consumption to stay within lower tariff slabs.</p>
+                </details>
+
+                <details class="group">
+                    <summary class="font-medium text-gray-800 dark:text-gray-200 cursor-pointer list-none flex justify-between items-center p-4 bg-gray-50 dark:bg-gray-700 rounded-lg">
+                        <span>Is my data safe when I use this calculator?</span>
+                        <i class="fas fa-chevron-down group-open:rotate-180 transition-transform"></i>
+                    </summary>
+                    <p class="mt-3 text-gray-600 dark:text-gray-400 px-4">Yes. All calculations happen in your browser. We don't store or transmit your consumption data to any server.</p>
+                </details>
+
+                <details class="group">
+                    <summary class="font-medium text-gray-800 dark:text-gray-200 cursor-pointer list-none flex justify-between items-center p-4 bg-gray-50 dark:bg-gray-700 rounded-lg">
+                        <span>What is the difference between units and kWh?</span>
+                        <i class="fas fa-chevron-down group-open:rotate-180 transition-transform"></i>
+                    </summary>
+                    <p class="mt-3 text-gray-600 dark:text-gray-400 px-4">They're the same. One unit equals one kilowatt-hour (kWh) of electricity consumed.</p>
+                </details>
+
+                <details class="group">
+                    <summary class="font-medium text-gray-800 dark:text-gray-200 cursor-pointer list-none flex justify-between items-center p-4 bg-gray-50 dark:bg-gray-700 rounded-lg">
+                        <span>Why does my bill seem high compared to my neighbor?</span>
+                        <i class="fas fa-chevron-down group-open:rotate-180 transition-transform"></i>
+                    </summary>
+                    <p class="mt-3 text-gray-600 dark:text-gray-400 px-4">Bills vary based on actual consumption, connection load, billing cycle duration, pending dues, and specific DISCOM charges.</p>
+                </details>
+
+                <details class="group">
+                    <summary class="font-medium text-gray-800 dark:text-gray-200 cursor-pointer list-none flex justify-between items-center p-4 bg-gray-50 dark:bg-gray-700 rounded-lg">
+                        <span>Can I challenge my bill if it seems wrong?</span>
+                        <i class="fas fa-chevron-down group-open:rotate-180 transition-transform"></i>
+                    </summary>
+                    <p class="mt-3 text-gray-600 dark:text-gray-400 px-4">Yes. Use this calculator to verify the energy charge portion. If there's a discrepancy, contact your DISCOM with your calculation evidence.</p>
+                </details>
+
+                <details class="group">
+                    <summary class="font-medium text-gray-800 dark:text-gray-200 cursor-pointer list-none flex justify-between items-center p-4 bg-gray-50 dark:bg-gray-700 rounded-lg">
+                        <span>What happens if I exceed 200 units by just a few units?</span>
+                        <i class="fas fa-chevron-down group-open:rotate-180 transition-transform"></i>
+                    </summary>
+                    <p class="mt-3 text-gray-600 dark:text-gray-400 px-4">Only the excess units are charged at the higher rate. Your first 100 units remain free, and units 101-200 are charged at ₹2.35 per unit.</p>
+                </details>
+
+                <details class="group">
+                    <summary class="font-medium text-gray-800 dark:text-gray-200 cursor-pointer list-none flex justify-between items-center p-4 bg-gray-50 dark:bg-gray-700 rounded-lg">
+                        <span>How can I estimate next month's bill?</span>
+                        <i class="fas fa-chevron-down group-open:rotate-180 transition-transform"></i>
+                    </summary>
+                    <p class="mt-3 text-gray-600 dark:text-gray-400 px-4">Check your current meter reading mid-cycle, estimate total monthly usage based on daily average, and enter that number in the calculator.</p>
+                </details>
+
+                <details class="group">
+                    <summary class="font-medium text-gray-800 dark:text-gray-200 cursor-pointer list-none flex justify-between items-center p-4 bg-gray-50 dark:bg-gray-700 rounded-lg">
+                        <span>Does this work for prepaid meters?</span>
+                        <i class="fas fa-chevron-down group-open:rotate-180 transition-transform"></i>
+                    </summary>
+                    <p class="mt-3 text-gray-600 dark:text-gray-400 px-4">Yes. Enter your total units to see how much you'll pay. Prepaid meters use the same tariff structure as postpaid connections.</p>
+                </details>
+
+                <details class="group">
+                    <summary class="font-medium text-gray-800 dark:text-gray-200 cursor-pointer list-none flex justify-between items-center p-4 bg-gray-50 dark:bg-gray-700 rounded-lg">
+                        <span>Can I share my calculation with someone?</span>
+                        <i class="fas fa-chevron-down group-open:rotate-180 transition-transform"></i>
+                    </summary>
+                    <p class="mt-3 text-gray-600 dark:text-gray-400 px-4">Yes. After calculating, use the Share button to copy your result or share via social media or messaging apps.</p>
+                </details>
+
+                <details class="group">
+                    <summary class="font-medium text-gray-800 dark:text-gray-200 cursor-pointer list-none flex justify-between items-center p-4 bg-gray-50 dark:bg-gray-700 rounded-lg">
+                        <span>What should I do if rates change?</span>
+                        <i class="fas fa-chevron-down group-open:rotate-180 transition-transform"></i>
+                    </summary>
+                    <p class="mt-3 text-gray-600 dark:text-gray-400 px-4">We update rates as soon as new tariffs are officially notified by the Gujarat Electricity Regulatory Commission.</p>
+                </details>
+            </div>
+        </div>
+
         <div class="max-w-4xl mx-auto mt-8">
             <h2 class="text-2xl font-bold text-gray-800 dark:text-gray-200 mb-4">Indian State Electricity Bill Calculators</h2>
             
