@@ -26,134 +26,52 @@ $pages = [
     ]
 ];
 
-// Add all bank calculator pages dynamically
-$bankCalculatorPages = [
-    // Private Banks
-    'hdfc-bank', 'icici-bank', 'axis-bank', 'kotak-mahindra-bank', 'yes-bank', 'bandhan-bank', 'csb-bank', 
-    'city-union-bank', 'dcb-bank', 'dhanlaxmi-bank', 'federal-bank', 'indusind-bank', 'idfc-first-bank', 
-    'karnataka-bank', 'karur-vysya-bank', 'nainital-bank', 'rbl-bank', 'south-indian-bank', 
-    'tamilnad-mercantile-bank', 'idbi-bank', 'jammu-kashmir-bank', 'catholic-syrian-bank',
-    
-    // Local Area Banks
-    'coastal-lab', 'krishna-bhima-lab',
-    
-    // Public Sector Banks
-    'state-bank-of-india', 'punjab-national-bank', 'bank-of-baroda', 'bank-of-india', 'bank-of-maharashtra', 
-    'canara-bank', 'central-bank-of-india', 'indian-bank', 'indian-overseas-bank', 'punjab-sind-bank', 
-    'uco-bank', 'union-bank-of-india',
-    
-    // Small Finance Banks
-    'au-small-finance-bank', 'equitas-small-finance-bank', 'ujjivan-small-finance-bank', 
-    'capital-small-finance-bank', 'esaf-small-finance-bank', 'suryoday-small-finance-bank', 
-    'utkarsh-small-finance-bank', 'jana-small-finance-bank', 'slice-small-finance-bank', 
-    'shivalik-small-finance-bank', 'unity-small-finance-bank', 'north-east-small-finance-bank', 
-    'fincare-small-finance-bank', 'poorvanchal-bank',
-    
-    // NBFCs
-    'bajaj-finserv', 'tata-capital', 'mahindra-finance', 'l-t-finance', 'shriram-finance', 'muthoot-finance', 
-    'indiabulls-housing-finance', 'pnb-housing-finance', 'hdfc-ltd', 'lic-housing-finance', 
-    'aditya-birla-finance', 'bajaj-finance-ltd', 'cholamandalam-investment', 'hdb-financial-services', 
-    'lt-finance-limited', 'mahindra-mahindra-financial', 'muthoot-finance-limited', 'sammaan-capital-limited', 
-    'shriram-finance-limited', 'tata-capital-limited', 'tata-sons-private', '360-one-prime', 
-    'power-finance-corporation', 'rec-limited', 'indian-railway-finance-corp', 'hudco', 'canfin-homes', 
-    'dewan-housing-finance', 'indiabulls-commercial-credit', 'reliance-home-finance',
-    
-    // Fintech Companies
-    'payme-india', 'kreditbee', 'moneytap', 'cashe', 'earlysalary', 'flexsalary', 'kissht', 'lendingkart', 
-    'capital-float', 'navi-loans', 'cred-loans', 'dhani-loans', 'lazypay-loans', 'slice-fintech', 
-    'rupeek-loans', 'faircent-loans', 'upwards-fintech', 'zest-money', 'true-balance', 'branch-fintech', 
-    'loantap', 'incred', 'money-view', 'moneyview', 'paysense', 'mobikwik-lending', 'ziploan', 'flexiloans', 
-    'neogrowth', 'ugro-capital', 'tala-india', 'lenddo-efl', 'fibe-money', 'jupiter-money', 'fi-money', 
-    'uni-fintech', 'simpl-fintech', 'okcredit', 'groww-credit', 'zomato-pay-later', 'amazon-pay-later', 
-    'flipkart-pay-later', 'payu-credit', 'razorpay-capital', 'smartcoin', 'creditbee', 'nira', 'cashbean', 
-    'prefr', 'fairmoney', 'payme', 'upwards', 'oxyzo', 'credflow', 'rupifi', 'capfloat', 'finzy', 
-    'money-club', 'ring', 'lazypay',
-    
-    // Payment Banks
-    'airtel-payments-bank', 'india-post-payments-bank', 'fino-payments-bank', 'paytm-payments-bank', 
-    'jio-payments-bank', 'nsdl-payments-bank',
-    
-    // Development Financial Institutions
-    'nabard', 'exim-bank', 'nhb', 'sidbi',
-    
-    // Regional Rural Banks
-    'assam-gramin-vikash-bank', 'andhra-pradesh-grameena-vikas-bank', 'baroda-gujarat-gramin-bank', 
-    'aryavart-bank', 'punjab-gramin-bank', 'karnataka-vikas-gramin-bank', 'tamil-nadu-grama-bank', 
-    'kerala-gramin-bank', 'maharashtra-gramin-bank', 'odisha-gramya-bank',
-    
-    // Cooperative Banks
-    'saraswat-cooperative-bank', 'nkgsb-cooperative-bank', 'cosmos-cooperative-bank', 'abhyudaya-cooperative-bank',
-    
-    // Foreign Banks
-    'standard-chartered-bank-foreign', 'citibank-foreign', 'hsbc-bank-foreign', 'dbs-bank-foreign', 
-    'deutsche-bank', 'bnp-paribas', 'bank-of-america', 'jp-morgan-chase', 'anz-bank', 'barclays-bank', 
-    'ab-bank-limited', 'american-express-banking', 'bank-of-bahrain-kuwait', 'bank-of-ceylon', 
-    'bank-of-china-limited', 'bank-of-nova-scotia', 'bank-of-tokyo-mitsubishi', 'bny-mellon', 
-    'commonwealth-bank-australia', 'credit-agricole', 'credit-suisse', 'ctbc-bank', 'erste-bank', 
-    'industrial-commercial-bank-china', 'industrial-bank-korea', 'ing-vysya-bank', 'jpmorgan-chase-bank', 
-    'keb-hana-bank', 'krung-thai-bank', 'mashreq-bank', 'mizuho-bank', 'ncc-bank-limited', 
-    'oman-international-bank', 'pt-bank-maybank', 'rabobank-international', 'royal-bank-scotland', 
-    'sber-bank', 'shinhan-bank', 'societe-generale', 'sonali-bank-limited', 'sumitomo-mitsui-banking', 
-    'ubs-ag', 'united-overseas-bank', 'westpac-banking'
+// Add all electricity board calculator pages
+$electricityBoardCalculators = [
+    'andaman-electricity-bill-calculator',
+    'apdcl-electricity-bill-calculator',
+    'apspdcl-electricity-bill-calculator',
+    'bihar-electricity-bill-calculator',
+    'cspdcl-electricity-bill-calculator',
+    'delhi-electricity-bill-calculator',
+    'goa-electricity-bill-calculator',
+    'gujarat-electricity-bill-calculator',
+    'haryana-electricity-bill-calculator',
+    'hpsebl-electricity-bill-calculator',
+    'jbvnl-electricity-bill-calculator',
+    'jpdcl-electricity-bill-calculator-kashmir',
+    'karnataka-electricity-bill-calculator',
+    'kerala-kseb-calculator',
+    'kseb-bill-calculator',
+    'ladakh-electricity-bill-calculator',
+    'maharashtra-msedcl-calculator',
+    'manipur-electricity-bill-calculator',
+    'meghalaya-electricity-bill-calculator',
+    'mizoram-electricity-bill-calculator',
+    'mp-electricity-bill-calculator',
+    'nagaland-electricity-bill-calculator',
+    'odisha-electricity-bill-calculator',
+    'pspcl-bill-calculator',
+    'rajasthan-electricity-bill-calculator',
+    'sikkim-electricity-bill-calculator',
+    'tneb-electricity-bill-calculator',
+    'tsecl-electricity-bill-calculator',
+    'tsspdcl-electricity-bill-calculator',
+    'upcl-electricity-bill-calculator-uttarakhand',
+    'uppcl-bill-calculator',
+    'wbsedcl-bill-calculator'
 ];
 
-// Add personal loan, home loan, and two-wheeler loan calculator pages for each bank
-foreach ($bankCalculatorPages as $bank) {
-    // Personal Loan EMI Calculator
-    $pages["/calculators/{$bank}-personal-loan-emi-calculator"] = [
-        'lastmod' => date('Y-m-d'),
-        'changefreq' => 'daily',
-        'priority' => '1.0'
-    ];
-    
-    // Home Loan EMI Calculator
-    $pages["/calculators/{$bank}-home-loan-emi-calculator"] = [
-        'lastmod' => date('Y-m-d'),
-        'changefreq' => 'daily',
-        'priority' => '1.0'
-    ];
-    
-    // Two Wheeler Loan EMI Calculator
-    $pages["/calculators/{$bank}-two-wheeler-loan-emi-calculator"] = [
+foreach ($electricityBoardCalculators as $calculator) {
+    $pages["/electricity-board/{$calculator}"] = [
         'lastmod' => date('Y-m-d'),
         'changefreq' => 'daily',
         'priority' => '1.0'
     ];
 }
 
-// Add main calculator listing pages
-$pages['/calculators/all-banks-personal-loan-calculators'] = [
-    'lastmod' => date('Y-m-d'),
-    'changefreq' => 'daily',
-    'priority' => '1.0'
-];
-
-$pages['/calculators/all-banks-home-loan-calculators'] = [
-    'lastmod' => date('Y-m-d'),
-    'changefreq' => 'daily',
-    'priority' => '1.0'
-];
-
-$pages['/calculators/all-banks-two-wheeler-loan-calculators'] = [
-    'lastmod' => date('Y-m-d'),
-    'changefreq' => 'daily',
-    'priority' => '1.0'
-];
-
-// Add general EMI calculators
-$pages['/calculators/personal-loan-emi-calculator'] = [
-    'lastmod' => date('Y-m-d'),
-    'changefreq' => 'daily',
-    'priority' => '1.0'
-];
-
-$pages['/calculators/home-loan-emi-calculator'] = [
-    'lastmod' => date('Y-m-d'),
-    'changefreq' => 'daily',
-    'priority' => '1.0'
-];
-
-$pages['/calculators/two-wheeler-loan-emi-calculator'] = [
+// Add electricity board index page
+$pages['/electricity-board/index'] = [
     'lastmod' => date('Y-m-d'),
     'changefreq' => 'daily',
     'priority' => '1.0'
