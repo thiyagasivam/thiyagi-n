@@ -248,7 +248,31 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
                     <h3 class="font-bold text-lg mb-2 text-gray-800">Is the date 100% accurate?</h3>
                     <p class="text-gray-600">We use YouTube’s <code>publishedAt</code> from the channel snippet, which is the channel’s creation timestamp.</p>
                 </div>
-            </div>
+                <!-- Additional FAQs -->
+                <div class="bg-gray-50 p-6 rounded-lg shadow">
+                    <h3 class="font-bold text-lg mb-2 text-gray-800">Why is channel age important?</h3>
+                    <p class="text-gray-600">For competitor research, authenticity verification, brand partnerships, and historical documentation.</p>
+                </div>
+                <div class="bg-gray-50 p-6 rounded-lg shadow">
+                    <h3 class="font-bold text-lg mb-2 text-gray-800">Can channel creation dates change?</h3>
+                    <p class="text-gray-600">No, creation dates are permanent and never change, even with rebranding or ownership transfers.</p>
+                </div>
+                <div class="bg-gray-50 p-6 rounded-lg shadow">
+                    <h3 class="font-bold text-lg mb-2 text-gray-800">Does checking notify the owner?</h3>
+                    <p class="text-gray-600">No, checking accesses public information without notifying owners or leaving any trace.</p>
+                </div>
+                <div class="bg-gray-50 p-6 rounded-lg shadow">
+                    <h3 class="font-bold text-lg mb-2 text-gray-800">Is my search data private?</h3>
+                    <p class="text-gray-600">Yes, we don't collect, store, or log any channel URLs or identifiers you enter.</p>
+                </div>
+                <div class="bg-gray-50 p-6 rounded-lg shadow">
+                    <h3 class="font-bold text-lg mb-2 text-gray-800">Works on mobile devices?</h3>
+                    <p class="text-gray-600">Yes, fully optimized for mobile with responsive design on iOS and Android.</p>
+                </div>
+                <div class="bg-gray-50 p-6 rounded-lg shadow">
+                    <h3 class="font-bold text-gray-800">Oldest YouTube channel?</h3>
+                    <p class="text-gray-600">YouTube launched in February 2005, so oldest channels date from early 2005.</p>
+                </div>            </div>
         </div>
     </div>
 
