@@ -266,29 +266,241 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
         </div>
     </div>
 
-    <!-- FAQ -->
+    <!-- Comprehensive YouTube Embed Code Generator Content Section -->
     <div class="bg-white rounded-lg shadow-lg mx-4 mb-8">
         <div class="p-8 max-w-5xl mx-auto">
-            <h2 class="text-3xl font-bold text-center mb-8 text-gray-800">
-                <i class="fas fa-question-circle text-blue-600 mr-3"></i>
-                Frequently Asked Questions
-            </h2>
-            <div class="grid grid-cols-1 md:grid-cols-2 gap-6">
-                <div class="bg-gray-50 p-6 rounded-lg shadow">
-                    <h3 class="font-bold text-lg mb-2 text-gray-800">How do I start a video at a specific time?</h3>
-                    <p class="text-gray-600">Add <code class="bg-gray-100 px-1 rounded">&t=1m30s</code> or <code class="bg-gray-100 px-1 rounded">&start=90</code> to your URL. The embed will include the correct start parameter automatically.</p>
-                </div>
-                <div class="bg-gray-50 p-6 rounded-lg shadow">
-                    <h3 class="font-bold text-lg mb-2 text-gray-800">Does this work with YouTube Shorts?</h3>
-                    <p class="text-gray-600">Yes. Paste a shorts URL like <code class="bg-gray-100 px-1 rounded">https://youtube.com/shorts/ID</code> — the tool extracts the video ID correctly.</p>
-                </div>
-                <div class="bg-gray-50 p-6 rounded-lg shadow">
-                    <h3 class="font-bold text-lg mb-2 text-gray-800">What about related videos?</h3>
-                    <p class="text-gray-600">We set <code class="bg-gray-100 px-1 rounded">rel=0</code> to limit unrelated suggestions. YouTube may still show related content from the same channel.</p>
-                </div>
-                <div class="bg-gray-50 p-6 rounded-lg shadow">
-                    <h3 class="font-bold text-lg mb-2 text-gray-800">Is the embed privacy-safe?</h3>
-                    <p class="text-gray-600">We use youtube-nocookie.com to reduce tracking, along with a strict referrer policy in the iframe for additional privacy.</p>
+            <h2 class="text-3xl font-bold text-gray-800 mb-6"><strong>YouTube Embed Code Generator: Complete Guide to Video Embedding</strong></h2>
+            
+            <div class="prose max-w-none text-gray-700 space-y-6">
+                <p class="text-lg">We provide a powerful, customizable <strong>YouTube embed code generator</strong> that creates optimized iframe code for embedding YouTube videos on websites, blogs, and web applications. Our tool generates responsive, privacy-enhanced embed codes with extensive customization options including autoplay, controls visibility, start times, loop functionality, and more. Whether you're a blogger embedding tutorial videos, a business showcasing product demonstrations, an educator incorporating educational content, or a developer implementing video features, our generator produces clean, standards-compliant embed code that works seamlessly across all devices and platforms.</p>
+
+                <h2 class="text-xl font-bold text-gray-800 mt-8 mb-4"><strong>Understanding YouTube Video Embedding</strong></h2>
+                <p>YouTube <strong>video embedding</strong> allows content creators to display YouTube videos on external websites while videos remain hosted on YouTube's servers. This arrangement provides optimal performance, reliable streaming infrastructure, and automatic format adaptation without requiring webmasters to host large video files. Embedded videos maintain full YouTube functionality including playback controls, quality selection, closed captions, and viewer engagement features. The embedding mechanism uses HTML iframe elements containing specific YouTube URLs with video identifiers and optional parameters controlling playback behavior.</p>
+                
+                <p>We recognize embedding as crucial for modern web content strategies. Videos increase engagement, reduce bounce rates, improve SEO performance, and enhance user experiences. YouTube's global content delivery network ensures fast loading and smooth playback worldwide. Embedded videos don't count against website bandwidth limits since YouTube handles all streaming traffic. This technical architecture enables even small websites to incorporate professional video content without infrastructure investments or technical complexity beyond basic HTML knowledge.</p>
+
+                <h2 class="text-xl font-bold text-gray-800 mt-8 mb-4"><strong>How Our Embed Code Generator Works</strong></h2>
+                <p>Our <strong>embed code generator</strong> simplifies the embedding process through an intuitive interface requiring only a YouTube video URL. The tool automatically extracts video IDs from various URL formats including standard watch URLs, shortened youtu.be links, mobile URLs, and timestamp-specific links. After parsing the URL, our generator presents customization options through clear controls—checkboxes for autoplay and loop, size presets for common dimensions, custom dimension inputs, and advanced settings for privacy-enhanced embedding and control visibility.</p>
+
+                <p>The generation process produces optimized iframe code incorporating selected options into proper HTML5 iframe syntax. Generated code includes responsive sizing attributes ensuring videos scale appropriately across devices, privacy-enhanced domain usage reducing tracking, and properly formatted parameter strings controlling playback behavior. Users simply copy the generated code and paste it into their website's HTML wherever video display is desired. The tool handles technical complexity, producing code that works reliably across browsers, platforms, and content management systems without requiring deep technical knowledge.</p>
+
+                <h2 class="text-xl font-bold text-gray-800 mt-8 mb-4"><strong>Customization Options Explained</strong></h2>
+                <p>Our generator offers comprehensive <strong>customization options</strong> controlling every aspect of embedded video behavior and appearance. Autoplay enables videos to start playing automatically when pages load, useful for landing pages and presentations but potentially disruptive for content-heavy pages. Loop functionality restarts videos automatically after completion, ideal for background videos, product demonstrations, or ambient content. Control visibility determines whether playback controls appear, with hidden controls creating cleaner, more integrated appearances but requiring autoplay since viewers can't manually start playback.</p>
+
+                <p>Size customization includes preset dimensions for common use cases (responsive, 720p, 1080p) plus custom width and height inputs for precise sizing requirements. Responsive sizing automatically adapts video dimensions to container widths, essential for mobile-friendly websites. Start time parameters enable videos to begin at specific timestamps, useful for highlighting particular segments or skipping introductions. Privacy-enhanced mode uses youtube-nocookie.com domain reducing cookie usage and tracking. These options combine flexibly, enabling creators to craft embedding configurations matching specific use cases and design requirements.</p>
+
+                <h2 class="text-xl font-bold text-gray-800 mt-8 mb-4"><strong>Privacy-Enhanced Embedding</strong></h2>
+                <p>We prioritize <strong>privacy-enhanced embedding</strong> through youtube-nocookie.com domain usage, which prevents YouTube from setting cookies on visitor devices until they interact with embedded videos. This approach reduces tracking, improves privacy compliance, and addresses data protection concerns without sacrificing video functionality. The privacy-enhanced domain works identically to standard youtube.com for playback purposes while demonstrating respect for visitor privacy—increasingly important as regulations like GDPR and CCPA impose stricter data handling requirements.</p>
+
+                <p>Privacy considerations extend beyond domain selection. Our generated code includes referrer policy attributes limiting information transmission to YouTube. We avoid unnecessary tracking parameters in embed URLs. These privacy protections build visitor trust, support regulatory compliance, and demonstrate responsible data practices. Content creators concerned about privacy implications of third-party content can confidently embed YouTube videos knowing they've taken reasonable measures to protect visitor privacy while maintaining full video functionality and user experience quality.</p>
+
+                <h2 class="text-xl font-bold text-gray-800 mt-8 mb-4"><strong>Responsive Design and Mobile Optimization</strong></h2>
+                <p>Modern websites require <strong>responsive video embedding</strong> that adapts seamlessly across devices from large desktop monitors to small smartphone screens. Our generator produces responsive embed code using aspect-ratio-based sizing that maintains proper video proportions while scaling to container widths. This responsive approach prevents horizontal scrolling on mobile devices, eliminates awkward black bars or stretched video, and ensures consistent viewing experiences regardless of screen size or orientation.</p>
+
+                <p>Mobile optimization extends beyond sizing to include touch-friendly controls, appropriate buffering strategies, and performance considerations. Embedded videos should enhance rather than hinder mobile experiences—slow-loading or poorly sized videos frustrate mobile visitors and increase bounce rates. Our responsive code implements best practices ensuring videos contribute positively to mobile user experiences. Testing across devices confirms embedded videos work properly on iOS and Android, in various browsers, and across screen sizes from compact phones to large tablets.</p>
+
+                <h2 class="text-xl font-bold text-gray-800 mt-8 mb-4"><strong>Autoplay Functionality and Best Practices</strong></h2>
+                <p>The <strong>autoplay feature</strong> starts videos automatically when pages load, creating immediate engagement but requiring careful implementation due to browser policies and user experience considerations. Modern browsers restrict autoplay with sound, requiring muted autoplay to function reliably. Our generator includes mute parameters automatically when autoplay is enabled, ensuring code works across browsers enforcing autoplay restrictions. Muted autoplay serves legitimate use cases—background videos, visual ambiance, attention-grabbing landing pages—while respecting browser policies protecting users from unexpected audio.</p>
+
+                <p>Best practices recommend selective autoplay usage. Landing pages and specific marketing pages might justify autoplay for impact, while content pages with multiple videos should avoid autoplaying to prevent overwhelming visitors. Consider user experience implications—autoplay consumes bandwidth, drains mobile batteries, and can frustrate users expecting manual control. When autoplay serves clear purposes and enhances rather than detracts from experiences, it becomes a valuable tool. When uncertain, default to manual playback respecting user agency over when and whether to start videos.</p>
+
+                <h2 class="text-xl font-bold text-gray-800 mt-8 mb-4"><strong>Start Time and Timestamp Embedding</strong></h2>
+                <p>Our generator supports <strong>start time parameters</strong> enabling videos to begin at specific moments rather than from the beginning. This functionality proves valuable when embedding videos to highlight particular segments—tutorial steps, product features, presentation sections, or specific moments in longer content. Users specify start times in minutes and seconds (1m30s) or total seconds (90), and our generator formats appropriate parameters ensuring videos jump to specified timestamps when playback begins.</p>
+
+                <p>Timestamp embedding applications include educational content directing students to specific lesson segments, product videos showcasing key features without forcing viewers through entire presentations, and reference materials linking to precise information moments. The technique improves user experience by reducing time spent seeking relevant content and ensures embedded videos serve specific purposes rather than requiring viewers to watch entire videos for brief relevant segments. Combining start times with other options like autoplay creates sophisticated embedding scenarios matching diverse content strategies.</p>
+
+                <h2 class="text-xl font-bold text-gray-800 mt-8 mb-4"><strong>Loop Functionality for Continuous Playback</strong></h2>
+                <p>The <strong>loop option</strong> causes videos to restart automatically after completion, creating continuous playback without manual intervention. Looping serves specific use cases including background videos providing ambient visual elements, product demonstrations on kiosks or displays requiring continuous operation, artistic or decorative content enhancing aesthetic experiences, and short clips where repetition enhances impact. The loop parameter in our generated code instructs YouTube's player to restart videos seamlessly, creating uninterrupted playback cycles.</p>
+
+                <p>Implementation considerations include video appropriateness for looping—very short clips loop smoothly while lengthy videos may annoy viewers through forced repetition. Background videos should have no audio or subtle ambient sound tolerable during extended play. Consider whether looping serves functional purposes or merely repeats content unnecessarily. In appropriate contexts, looping creates polished, professional presentations or installations functioning without constant attention. In inappropriate contexts, forced repetition frustrates users and degrades experiences. Match looping decisions to content nature and viewer expectations.</p>
+
+                <h2 class="text-xl font-bold text-gray-800 mt-8 mb-4"><strong>Control Visibility and Minimalist Embedding</strong></h2>
+                <p>Our generator offers options for <strong>hiding player controls</strong>, creating minimalist embedded videos displaying only video content without visible control interfaces. This approach suits background videos, video headers, ambient displays, and design scenarios where visible controls disrupt visual aesthetics. Hidden controls require autoplay since viewers lack manual play buttons—the combination creates self-contained video elements functioning without user interaction, integrating seamlessly into page designs as visual elements rather than interactive media players.</p>
+
+                <p>Consider accessibility implications when hiding controls. Viewers lose ability to pause, adjust volume, toggle fullscreen, or access captions without visible controls. This limitation proves acceptable for decorative or ambient videos not conveying critical information, but problematic for informational content requiring viewer control. Balance aesthetic preferences against usability needs. Many scenarios benefit from visible controls respecting viewer agency, while specific design contexts justify minimalist approaches. Our tool enables both approaches, empowering creators to make informed decisions matching content purposes and design requirements.</p>
+
+                <h2 class="text-xl font-bold text-gray-800 mt-8 mb-4"><strong>Video Size and Dimension Options</strong></h2>
+                <p>Proper <strong>video sizing</strong> ensures embedded videos display appropriately within page layouts without overwhelming content or appearing too small for comfortable viewing. Our generator provides preset sizes matching common use cases—responsive sizing for fluid layouts, 720p dimensions for standard HD display, 1080p for high-quality presentations, plus custom dimension inputs for precise control. Width and height values use pixels by default, with responsive options using percentage-based sizing that adapts to container dimensions.</p>
+
+                <p>Dimension decisions balance multiple factors including available page space, video importance relative to other content, typical viewer screen sizes, and design aesthetics. Hero videos might occupy full viewport width, while supplementary videos fit within content columns. Responsive sizing generally proves superior for modern web design, automatically adapting to diverse devices without manual breakpoint management. However, fixed dimensions suit specific scenarios requiring precise sizing control. Our generator accommodates both approaches, producing appropriately formatted code regardless of sizing strategy selected.</p>
+
+                <h2 class="text-xl font-bold text-gray-800 mt-8 mb-4"><strong>Related Video Controls</strong></h2>
+                <p>YouTube's player shows <strong>related videos</strong> after playback completes, potentially directing viewers away from your site toward other content. Our generator includes rel=0 parameter limiting suggestions to videos from the same channel, reducing but not eliminating related video displays. While YouTube no longer supports completely disabling related videos, limiting suggestions to same-channel content helps retain viewer attention within relevant content ecosystems. This compromise balances YouTube's platform interests with content creators' desires to maintain viewer focus.</p>
+
+                <p>Related video behavior impacts user experience and engagement metrics. Viewers clicking related videos leave your site, reducing session duration and potentially increasing bounce rates. However, completely blank end screens might feel abrupt or incomplete. The current YouTube policy represents compromise between creator control and platform promotion. Content creators should consider end screen strategies—custom end screens, calls-to-action before video completion, or multiple embedded videos providing continuation options. These approaches work within YouTube's related video policies while maintaining viewer engagement.</p>
+
+                <h2 class="text-xl font-bold text-gray-800 mt-8 mb-4"><strong>Content Management System Integration</strong></h2>
+                <p>Our generated <strong>embed codes integrate seamlessly</strong> with popular content management systems including WordPress, Drupal, Joomla, and custom platforms. Most CMS platforms support HTML iframe embedding through built-in editors or HTML blocks. WordPress users can paste embed codes into HTML blocks or use text mode in classic editor. Modern block editors accommodate iframe content through dedicated embed blocks or custom HTML blocks. The process requires only copying generated code and pasting into appropriate content areas.</p>
+
+                <p>Some CMS platforms offer native YouTube embedding features that automatically convert URLs into embedded videos. While convenient, these native features may lack customization options our generator provides. Using our custom embed codes ensures specific parameter configurations, privacy-enhanced domains, and precise sizing control regardless of CMS native capabilities. Integration considerations include ensuring CMS platforms don't strip or modify iframe code—some security settings block iframe embedding, requiring permission adjustments or administrator intervention to enable video embedding functionality.</p>
+
+                <h2 class="text-xl font-bold text-gray-800 mt-8 mb-4"><strong>SEO Benefits of Video Embedding</strong></h2>
+                <p>Embedding videos provides significant <strong>SEO benefits</strong> including increased user engagement, reduced bounce rates, extended session durations, and enhanced content value. Search engines recognize video content as valuable, potentially boosting rankings for pages incorporating relevant videos. Rich snippets may display video thumbnails in search results, increasing click-through rates. Video content satisfies diverse user preferences—some prefer reading, others prefer watching—and comprehensive pages offering both text and video satisfy broader audiences.</p>
+
+                <p>Maximizing SEO benefits requires proper implementation including descriptive titles and headings surrounding embedded videos, relevant text content providing context, schema markup identifying video content for search engines, and ensuring videos relate meaningfully to page topics. Don't embed unrelated videos simply for engagement metrics—relevance matters for both users and search algorithms. Fast-loading embedded videos that enhance rather than slow pages contribute positively to Core Web Vitals and other performance metrics increasingly important in search rankings. Strategic video embedding becomes powerful SEO tool when implemented thoughtfully.</p>
+
+                <h2 class="text-xl font-bold text-gray-800 mt-8 mb-4"><strong>Performance Optimization Strategies</strong></h2>
+                <p>Video <strong>performance optimization</strong> ensures embedded videos load quickly without degrading page speed or user experience. YouTube's infrastructure handles video hosting and streaming, but iframe loading still impacts page performance. Lazy loading techniques defer iframe loading until users scroll near video positions, improving initial page load times. Modern browsers support native lazy loading through loading="lazy" iframe attributes, which our generated code can include for performance-conscious implementations.</p>
+
+                <p>Additional optimization strategies include minimizing simultaneous video embeds on single pages—multiple videos increase resource consumption and slow loading. Consider thumbnail-based previews that load full video embeds only when clicked, dramatically reducing initial page weight. Ensure videos complement rather than dominate pages—text content should remain primary with videos enhancing rather than replacing written information. Monitor page speed metrics using tools like PageSpeed Insights or GTmetrix, verifying embedded videos don't create performance bottlenecks negatively impacting user experience or search rankings.</p>
+
+                <h2 class="text-xl font-bold text-gray-800 mt-8 mb-4"><strong>Accessibility Considerations</strong></h2>
+                <p>Accessible video embedding ensures <strong>all users benefit</strong> from video content regardless of disabilities or assistive technology usage. YouTube videos with accurate captions support deaf and hard-of-hearing viewers. Audio descriptions benefit blind users when available. Our embed codes should include descriptive titles and iframe labels enabling screen readers to identify embedded content meaningfully. Keyboard navigation must work properly, allowing users without mice to control playback through keyboard shortcuts.</p>
+
+                <p>Accessibility best practices include never relying solely on videos to convey critical information—supplement with text alternatives or transcripts. Avoid autoplay with audio which can disorient screen reader users. Ensure adequate color contrast for any custom controls or overlays. Test embedded videos with screen readers and keyboard-only navigation confirming usability for assistive technology users. Accessible implementation demonstrates inclusive design principles while potentially expanding audience reach and improving legal compliance with accessibility regulations affecting many organizations.</p>
+
+                <h2 class="text-xl font-bold text-gray-800 mt-8 mb-4"><strong>Legal and Copyright Considerations</strong></h2>
+                <p>Video embedding raises <strong>legal questions</strong> regarding copyright and content usage rights. Generally, embedding YouTube videos using official embed codes doesn't violate copyright—YouTube's terms of service explicitly permit embedding, and content owners choosing to disable embedding can prevent it through privacy settings. However, embedding doesn't grant rights to underlying content itself. Content creators should still ensure embedded videos are legally posted on YouTube and appropriately licensed for their intended usage contexts.</p>
+
+                <p>Best practices include respecting creator preferences—if videos disable embedding, honor that decision rather than circumventing protections. Attribute content appropriately with titles, descriptions, or credits identifying video creators. Don't embed videos in contexts that misrepresent, defame, or inappropriately commercialize content beyond what licenses permit. Organizations should develop policies governing video embedding ensuring legal compliance and respecting intellectual property rights. When uncertain about embedding rights, contact content creators directly or consult legal counsel to avoid infringement liability.</p>
+
+                <h2 class="text-xl font-bold text-gray-800 mt-8 mb-4"><strong>Use Cases Across Industries</strong></h2>
+                <p>YouTube <strong>video embedding serves diverse industries</strong> with varied applications. Educational institutions embed lectures, tutorials, and instructional content in learning management systems and course pages. Businesses showcase product demonstrations, customer testimonials, company introductions, and training materials. News organizations embed breaking news coverage, interviews, and documentary content. Entertainment sites feature trailers, clips, and promotional content. Non-profits share advocacy videos, impact stories, and fundraising appeals. Each industry leverages embedded videos differently, but all benefit from YouTube's infrastructure and our generator's customization capabilities.</p>
+
+                <p>Specific use cases include real estate agents embedding property tour videos on listings, restaurants showcasing menu items through culinary videos, fitness instructors providing embedded workout demonstrations, musicians sharing performances and music videos, artists displaying portfolio videos, and countless other scenarios where video content enhances web presence and audience engagement. Our generator's flexibility accommodates these diverse needs through customizable parameters adapting to specific industry requirements and audience expectations. Understanding industry-specific best practices optimizes embedded video effectiveness.</p>
+
+                <h2 class="text-xl font-bold text-gray-800 mt-8 mb-4"><strong>Analytics and Performance Tracking</strong></h2>
+                <p>Embedded videos generate <strong>analytics data</strong> tracked through YouTube's platform, providing insights into viewer behavior, engagement patterns, and content performance. Video owners access detailed analytics showing views, watch time, traffic sources, and demographic information including data from embedded players. These metrics inform content strategy, reveal which videos resonate with audiences, and identify opportunities for optimization. While embed hosts don't directly access YouTube analytics, they can track engagement through page-level metrics like session duration and bounce rates.</p>
+
+                <p>Comprehensive analysis combines YouTube analytics with website analytics for holistic understanding of video impact. Tools like Google Analytics track how embedded videos affect page performance, user flow, and conversion rates. Event tracking can monitor specific video interactions including play button clicks, video completion rates, and engagement milestones. This data reveals whether embedded videos achieve intended goals—education, entertainment, conversion—enabling evidence-based decisions about video content, placement, and embedding strategies. Regular analysis and optimization cycles improve video effectiveness over time.</p>
+
+                <h2 class="text-xl font-bold text-gray-800 mt-8 mb-4"><strong>Troubleshooting Common Issues</strong></h2>
+                <p>Common <strong>embedding problems</strong> include videos not displaying, playback errors, sizing issues, and unexpected behavior. When videos don't appear, verify iframe code copied completely without truncation. Check whether websites or CMS platforms block iframe embedding through security policies or content restrictions. Confirm video URLs use correct format and videos remain publicly accessible—deleted or private videos won't embed. Browser console errors often provide specific diagnostics identifying technical problems preventing proper display.</p>
+
+                <p>Sizing issues typically stem from CSS conflicts, responsive design complications, or incorrect dimension specifications. Inspect element tools in browsers reveal styling affecting video display, enabling targeted fixes. Autoplay failures often relate to browser policies requiring muted audio—ensure mute parameters appear in embed code when autoplay is desired. Mobile display problems might require viewport meta tags or responsive CSS adjustments. Our generator produces standard-compliant code, but specific website environments may require adjustments. Systematic troubleshooting using browser developer tools typically identifies and resolves embedding issues efficiently.</p>
+
+                <h2 class="text-xl font-bold text-gray-800 mt-8 mb-4"><strong>Future of Video Embedding Technology</strong></h2>
+                <p>Video embedding <strong>technology continues evolving</strong> with improved performance, enhanced features, and new capabilities. Future developments may include better lazy loading integration, improved privacy controls, enhanced interactive features, and more sophisticated customization options. HTML5 and modern web standards enable increasingly rich video experiences within embedded contexts. Platform updates from YouTube introduce new parameters, player features, and embedding capabilities that our generator will incorporate as they become available.</p>
+
+                <p>Emerging trends include AI-powered video personalization, improved accessibility features through automatic captioning and audio description, virtual and augmented reality video embedding, and enhanced social features within embedded players. Privacy regulations may drive additional embedding options prioritizing user data protection. Performance optimization remains ongoing priority as web performance standards evolve. Staying current with embedding best practices, platform updates, and web standards ensures embedded videos continue functioning optimally and providing excellent user experiences as technology progresses.</p>
+
+                <h2 class="text-xl font-bold text-gray-800 mt-8 mb-4"><strong>Frequently Asked Questions</strong></h2>
+                
+                <div class="space-y-4 mt-6">
+                    <div class="border-l-4 border-red-500 pl-6">
+                        <p class="font-bold text-gray-800">1. What is YouTube embed code?</p>
+                        <p class="text-gray-600">YouTube embed code is HTML iframe code that displays YouTube videos on external websites while videos remain hosted on YouTube's servers, providing reliable streaming without requiring local hosting.</p>
+                    </div>
+
+                    <div class="border-l-4 border-blue-500 pl-6">
+                        <p class="font-bold text-gray-800">2. How do I embed a YouTube video on my website?</p>
+                        <p class="text-gray-600">Paste your YouTube video URL into our generator, customize options as desired, copy the generated embed code, and paste it into your website's HTML where you want the video to appear.</p>
+                    </div>
+
+                    <div class="border-l-4 border-green-500 pl-6">
+                        <p class="font-bold text-gray-800">3. Is it legal to embed YouTube videos?</p>
+                        <p class="text-gray-600">Yes, embedding YouTube videos using official embed codes is legal and explicitly permitted by YouTube's terms of service. Content owners can disable embedding if they choose.</p>
+                    </div>
+
+                    <div class="border-l-4 border-purple-500 pl-6">
+                        <p class="font-bold text-gray-800">4. What is privacy-enhanced mode?</p>
+                        <p class="text-gray-600">Privacy-enhanced mode uses youtube-nocookie.com domain which prevents YouTube from setting cookies on visitors until they interact with embedded videos, improving privacy compliance.</p>
+                    </div>
+
+                    <div class="border-l-4 border-orange-500 pl-6">
+                        <p class="font-bold text-gray-800">5. Can I make embedded videos responsive?</p>
+                        <p class="text-gray-600">Yes, our generator creates responsive embed codes that automatically adapt to screen sizes, ensuring videos display properly on all devices from smartphones to desktop computers.</p>
+                    </div>
+
+                    <div class="border-l-4 border-pink-500 pl-6">
+                        <p class="font-bold text-gray-800">6. How do I autoplay embedded videos?</p>
+                        <p class="text-gray-600">Enable the autoplay option in our generator. Note that modern browsers require muted audio for autoplay to work, which our tool handles automatically.</p>
+                    </div>
+
+                    <div class="border-l-4 border-yellow-500 pl-6">
+                        <p class="font-bold text-gray-800">7. Can I start videos at specific times?</p>
+                        <p class="text-gray-600">Yes, specify start times in your video URL (e.g., &t=1m30s) or use our tool's start time feature to embed videos beginning at specific timestamps.</p>
+                    </div>
+
+                    <div class="border-l-4 border-indigo-500 pl-6">
+                        <p class="font-bold text-gray-800">8. How do I make videos loop continuously?</p>
+                        <p class="text-gray-600">Enable the loop option in our generator to make videos restart automatically after completion, creating continuous playback without manual intervention.</p>
+                    </div>
+
+                    <div class="border-l-4 border-teal-500 pl-6">
+                        <p class="font-bold text-gray-800">9. Can I hide video player controls?</p>
+                        <p class="text-gray-600">Yes, our generator offers options to hide controls for minimalist embedding. Note that hidden controls require autoplay since viewers can't manually start playback.</p>
+                    </div>
+
+                    <div class="border-l-4 border-cyan-500 pl-6">
+                        <p class="font-bold text-gray-800">10. Does embedding work on WordPress?</p>
+                        <p class="text-gray-600">Yes, WordPress fully supports iframe embedding. Paste embed code into HTML blocks, custom HTML widgets, or text mode in the classic editor.</p>
+                    </div>
+
+                    <div class="border-l-4 border-lime-500 pl-6">
+                        <p class="font-bold text-gray-800">11. Why won't my video autoplay with sound?</p>
+                        <p class="text-gray-600">Modern browsers block autoplay with audio to protect user experience. Videos can only autoplay when muted, which our generator handles by including mute parameters automatically.</p>
+                    </div>
+
+                    <div class="border-l-4 border-amber-500 pl-6">
+                        <p class="font-bold text-gray-800">12. Can I remove related videos?</p>
+                        <p class="text-gray-600">YouTube no longer allows completely removing related videos, but our generator includes rel=0 parameter limiting suggestions to videos from the same channel.</p>
+                    </div>
+
+                    <div class="border-l-4 border-rose-500 pl-6">
+                        <p class="font-bold text-gray-800">13. Does embedding affect video views?</p>
+                        <p class="text-gray-600">Yes, views from embedded videos count toward total view counts and appear in YouTube analytics, just like views on YouTube's site.</p>
+                    </div>
+
+                    <div class="border-l-4 border-violet-500 pl-6">
+                        <p class="font-bold text-gray-800">14. Is the embed code generator free?</p>
+                        <p class="text-gray-600">Yes, our YouTube embed code generator is completely free with unlimited usage. No registration, payment, or restrictions apply.</p>
+                    </div>
+
+                    <div class="border-l-4 border-fuchsia-500 pl-6">
+                        <p class="font-bold text-gray-800">15. Can I customize video size?</p>
+                        <p class="text-gray-600">Yes, choose from preset sizes (responsive, 720p, 1080p) or enter custom width and height dimensions to match your specific layout requirements.</p>
+                    </div>
+
+                    <div class="border-l-4 border-emerald-500 pl-6">
+                        <p class="font-bold text-gray-800">16. Does embedding work on mobile devices?</p>
+                        <p class="text-gray-600">Yes, our responsive embed codes work perfectly on mobile devices, automatically adapting to screen sizes and supporting touch controls.</p>
+                    </div>
+
+                    <div class="border-l-4 border-sky-500 pl-6">
+                        <p class="font-bold text-gray-800">17. Can I embed YouTube Shorts?</p>
+                        <p class="text-gray-600">Yes, our generator handles YouTube Shorts URLs correctly, extracting video IDs and creating appropriate embed codes for Shorts content.</p>
+                    </div>
+
+                    <div class="border-l-4 border-slate-500 pl-6">
+                        <p class="font-bold text-gray-800">18. How do I embed in email?</p>
+                        <p class="text-gray-600">Most email clients don't support iframe embedding. Instead, include video thumbnails linking to YouTube pages or landing pages with embedded videos.</p>
+                    </div>
+
+                    <div class="border-l-4 border-stone-500 pl-6">
+                        <p class="font-bold text-gray-800">19. Does embedding slow down my website?</p>
+                        <p class="text-gray-600">Embedded videos add some loading time, but YouTube handles streaming. Use lazy loading and limit simultaneous embeds to minimize performance impact.</p>
+                    </div>
+
+                    <div class="border-l-4 border-zinc-500 pl-6">
+                        <p class="font-bold text-gray-800">20. Can I track embedded video performance?</p>
+                        <p class="text-gray-600">Video owners see analytics including views from embedded players in YouTube Studio. Website analytics track page-level engagement metrics.</p>
+                    </div>
+
+                    <div class="border-l-4 border-neutral-500 pl-6">
+                        <p class="font-bold text-gray-800">21. Why isn't my video displaying?</p>
+                        <p class="text-gray-600">Check that code copied completely, video remains publicly accessible, and your CMS/website doesn't block iframe embedding through security settings.</p>
+                    </div>
+
+                    <div class="border-l-4 border-gray-500 pl-6">
+                        <p class="font-bold text-gray-800">22. Can I embed live streams?</p>
+                        <p class="text-gray-600">Yes, YouTube live stream URLs work with our generator, creating embed codes that display live broadcasts when active and archived videos afterward.</p>
+                    </div>
+
+                    <div class="border-l-4 border-red-600 pl-6">
+                        <p class="font-bold text-gray-800">23. Does embedding work with playlists?</p>
+                        <p class="text-gray-600">YouTube supports playlist embedding, though our generator focuses on individual videos. Playlist embed codes use similar syntax with playlist IDs.</p>
+                    </div>
+
+                    <div class="border-l-4 border-blue-600 pl-6">
+                        <p class="font-bold text-gray-800">24. Can I change embed code after implementation?</p>
+                        <p class="text-gray-600">Yes, generate new code with different options and replace old code on your website. Changes take effect immediately when pages reload.</p>
+                    </div>
+
+                    <div class="border-l-4 border-green-600 pl-6">
+                        <p class="font-bold text-gray-800">25. Are there embed code alternatives?</p>
+                        <p class="text-gray-600">While third-party players exist, YouTube's official embed code provides best performance, reliability, and features while respecting platform policies and content creator rights.</p>
+                    </div>
                 </div>
             </div>
         </div>
