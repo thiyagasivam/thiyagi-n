@@ -1,9 +1,12 @@
 <?php
 // sitemap.php
 header('Content-Type: application/xml; charset=utf-8');
-echo '<?xml version="1.0" encoding="UTF-8"?>';
+echo '<?xml version="1.0" encoding="UTF-8"?>' . "\n";
 ?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+        http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
 <?php
 $baseUrl = 'https://www.thiyagi.com';
 
@@ -169,54 +172,76 @@ function removePhpExtension($path) {
 
 // Function to scan directories recursively
 function scanDirectory($dir, $baseDir, &$foundPages, $excludedPages, $excludedFolders) {
-    $iterator = new RecursiveIteratorIterator(
-        new RecursiveDirectoryIterator($dir, RecursiveDirectoryIterator::SKIP_DOTS),
-        RecursiveIteratorIterator::SELF_FIRST
-    );
-    
-    foreach ($iterator as $file) {
-        $pathname = $file->getPathname();
-        $relativePath = str_replace($baseDir, '', $pathname);
-        $relativePath = str_replace('\\', '/', $relativePath); // Windows compatibility
+    try {
+        if (!is_dir($dir) || !is_readable($dir)) {
+            return;
+        }
         
-        // Skip excluded folders
-        $isExcludedFolder = false;
-        foreach ($excludedFolders as $folder) {
-            if (strpos($relativePath, $folder) === 0) {
-                $isExcludedFolder = true;
-                break;
+        $iterator = new RecursiveIteratorIterator(
+            new RecursiveDirectoryIterator($dir, RecursiveDirectoryIterator::SKIP_DOTS),
+            RecursiveIteratorIterator::SELF_FIRST
+        );
+        
+        foreach ($iterator as $file) {
+            try {
+                $pathname = $file->getPathname();
+                $relativePath = str_replace($baseDir, '', $pathname);
+                $relativePath = str_replace('\\', '/', $relativePath); // Windows compatibility
+                
+                // Skip excluded folders
+                $isExcludedFolder = false;
+                foreach ($excludedFolders as $folder) {
+                    if (strpos($relativePath, $folder) === 0) {
+                        $isExcludedFolder = true;
+                        break;
+                    }
+                }
+                if ($isExcludedFolder) continue;
+                
+                if ($file->isFile() && in_array(strtolower($file->getExtension()), ['php', 'html'])) {
+                    $cleanPath = removePhpExtension($relativePath);
+                    
+                    // Skip if excluded or already manually defined
+                    if (!in_array($relativePath, $excludedPages) && 
+                        !in_array($cleanPath, $excludedPages) && 
+                        !isset($foundPages[$cleanPath])) {
+                        $foundPages[$cleanPath] = [
+                            'lastmod' => date('Y-m-d'), // Always use current date
+                            'changefreq' => 'daily',
+                            'priority' => '1.0'
+                        ];
+                    }
+                }
+            } catch (Exception $e) {
+                // Skip files that cause errors
+                continue;
             }
         }
-        if ($isExcludedFolder) continue;
-        
-        if ($file->isFile() && in_array(strtolower($file->getExtension()), ['php', 'html'])) {
-            $cleanPath = removePhpExtension($relativePath);
-            
-            // Skip if excluded or already manually defined
-            if (!in_array($relativePath, $excludedPages) && 
-                !in_array($cleanPath, $excludedPages) && 
-                !isset($foundPages[$cleanPath])) {
-                $foundPages[$cleanPath] = [
-                    'lastmod' => date('Y-m-d'), // Always use current date
-                    'changefreq' => 'daily',
-                    'priority' => '1.0'
-                ];
-            }
-        }
+    } catch (Exception $e) {
+        // If directory scanning fails, continue with manually defined pages
+        return;
     }
 }
 
 // Scan the document root and all subdirectories
-scanDirectory($_SERVER['DOCUMENT_ROOT'], $_SERVER['DOCUMENT_ROOT'], $pages, $excludedPages, $excludedFolders);
+$documentRoot = $_SERVER['DOCUMENT_ROOT'] ?? __DIR__;
+if (is_dir($documentRoot) && is_readable($documentRoot)) {
+    scanDirectory($documentRoot, $documentRoot, $pages, $excludedPages, $excludedFolders);
+}
 
 // Generate the sitemap
 foreach ($pages as $path => $data) {
-    echo '<url>';
-    echo '<loc>' . htmlspecialchars($baseUrl . $path) . '</loc>';
-    echo '<lastmod>' . $data['lastmod'] . '</lastmod>';
-    echo '<changefreq>' . $data['changefreq'] . '</changefreq>';
-    echo '<priority>' . $data['priority'] . '</priority>';
-    echo '</url>';
+    // Validate the URL
+    $fullUrl = $baseUrl . $path;
+    if (strlen($fullUrl) > 2048) continue; // Skip URLs that are too long
+    
+    echo "\n  <url>";
+    echo "\n    <loc>" . htmlspecialchars($fullUrl, ENT_XML1, 'UTF-8') . '</loc>';
+    echo "\n    <lastmod>" . htmlspecialchars($data['lastmod'], ENT_XML1, 'UTF-8') . '</lastmod>';
+    echo "\n    <changefreq>" . htmlspecialchars($data['changefreq'], ENT_XML1, 'UTF-8') . '</changefreq>';
+    echo "\n    <priority>" . htmlspecialchars($data['priority'], ENT_XML1, 'UTF-8') . '</priority>';
+    echo "\n  </url>";
 }
+echo "\n";
 ?>
 </urlset>
