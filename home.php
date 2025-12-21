@@ -577,14 +577,7 @@
                         </div>
                     </a>
                 </div>
-                <div>
-                    <a href="https://www.thiyagi.com/penis-size-calculator" class="block no-underline">
-                        <div class="tool-card border-l-finance">
-                            <i class="fas fa-ruler text-finance"></i>
-                            <span class="font-medium text-gray-700">Penis Size Calculator</span>
-                        </div>
-                    </a>
-                </div>
+                
                 <div>
                     <a href="https://www.thiyagi.com/osrs-dry-calculator" class="block no-underline">
                         <div class="tool-card border-l-finance">
