@@ -955,14 +955,7 @@
                         </div>
                     </a>
                 </div>
-                <div class="col-md-6 col-lg-4 col-xl-3">
-                    <a href="https://www.thiyagi.com/reverse-image-search" class="text-decoration-none">
-                        <div class="tool-card" style="--category-color: var(--image)">
-                            <i class="fas fa-search"></i>
-                            <span>Reverse Image Search</span>
-                        </div>
-                    </a>
-                </div>
+                
                 <div class="col-md-6 col-lg-4 col-xl-3">
                     <a href="https://www.thiyagi.com/image-resizer" class="text-decoration-none">
                         <div class="tool-card" style="--category-color: var(--image)">

@@ -45,7 +45,7 @@ RewriteRule ^(cent-to-bigha|cent-to-hectare|square-mile-to-hectare|marla-to-kana
 RewriteRule ^(atmosphere-to-pascal|atm-to-psi|atm-to-bar|mmhg-to-bar|newtons-to-pounds|kg-to-grams|kg-to-pounds|pounds-to-kg|horsepower-to-watts|watts-to-horsepower|kw-to-watts|joule-to-btu|joule-to-cal|btu-to-cal|watt-to-btu-per-hour|gb-to-tb|tb-to-gb|nanograms-to-micrograms|micrograms-to-grams|mole-to-gram|radian-to-degree|kilometer-per-hour-to-meter-per-second)$ - [L,R=410]
 
 # Non-existent calculator/tool pages
-RewriteRule ^(youtube-views-ratio-calculator|seo-analyzer|image-compressor|flip-image|rotate-image|reverse-image-search|distance-calculator|cubic-meter-to-cubic-yard|cubic-yard-to-cubic-meter)$ - [L,R=410]
+RewriteRule ^(youtube-views-ratio-calculator|seo-analyzer|image-compressor|flip-image|rotate-image|distance-calculator|cubic-meter-to-cubic-yard|cubic-yard-to-cubic-meter)$ - [L,R=410]
 
 # Non-existent two-wheeler loan calculator paths
 RewriteRule ^calculators/two-wheeler-loan/.+$ - [L,R=410]

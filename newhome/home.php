@@ -158,12 +158,7 @@
                             <span class="ml-3 text-gray-700 font-medium">Rotate Image</span>
                         </div>
                     </a>
-                    <a href="https://www.thiyagi.com/reverse-image-search" class="group">
-                        <div class="flex items-center p-4 bg-white rounded-lg shadow-sm border-l-4 border-image hover:shadow-md transition-all duration-300 group-hover:-translate-y-1">
-                            <i class="fas fa-search text-image text-xl w-8"></i>
-                            <span class="ml-3 text-gray-700 font-medium">Reverse Image Search</span>
-                        </div>
-                    </a>
+                    
                     <!-- Add all other Image tools in the same pattern -->
                 </div>
             </div>
