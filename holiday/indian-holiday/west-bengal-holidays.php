@@ -1271,7 +1271,7 @@
                 </div>
             </div>
         </section>
-```    </main>
+ </main>
     <script>
         // JavaScript functionality
         // Holiday data for search functionality
