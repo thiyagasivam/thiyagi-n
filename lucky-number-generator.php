@@ -200,6 +200,107 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
                 </div>
             </div>
         </div>
+
+        <div class="mt-8 bg-white rounded-xl shadow-md overflow-hidden">
+            <div class="p-6">
+                <h2 class="text-2xl font-bold text-gray-800 mb-6">Lucky Number History & Significance</h2>
+                
+                <div class="grid md:grid-cols-2 gap-6">
+                    <div class="bg-gradient-to-br from-blue-50 to-indigo-50 p-5 rounded-lg">
+                        <h3 class="text-lg font-semibold text-blue-800 mb-3">Cultural Significance</h3>
+                        <ul class="space-y-2 text-gray-700">
+                            <li class="flex items-start">
+                                <span class="text-blue-500 mr-2">•</span>
+                                <span><strong>Number 7:</strong> Considered lucky in many Western cultures, appears in religion and mythology</span>
+                            </li>
+                            <li class="flex items-start">
+                                <span class="text-blue-500 mr-2">•</span>
+                                <span><strong>Number 8:</strong> Highly fortunate in Chinese culture (sounds like "prosperity")</span>
+                            </li>
+                            <li class="flex items-start">
+                                <span class="text-blue-500 mr-2">•</span>
+                                <span><strong>Number 13:</strong> Unlucky in Western cultures but lucky in some Asian traditions</span>
+                            </li>
+                        </ul>
+                    </div>
+
+                    <div class="bg-gradient-to-br from-green-50 to-emerald-50 p-5 rounded-lg">
+                        <h3 class="text-lg font-semibold text-green-800 mb-3">Popular Uses</h3>
+                        <ul class="space-y-2 text-gray-700">
+                            <li class="flex items-start">
+                                <span class="text-green-500 mr-2">•</span>
+                                <span><strong>Lottery Games:</strong> Pick numbers for Powerball, Mega Millions, state lotteries</span>
+                            </li>
+                            <li class="flex items-start">
+                                <span class="text-green-500 mr-2">•</span>
+                                <span><strong>Special Dates:</strong> Weddings, business launches, important decisions</span>
+                            </li>
+                            <li class="flex items-start">
+                                <span class="text-green-500 mr-2">•</span>
+                                <span><strong>Gaming:</strong> Random selection in board games, raffles, and contests</span>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+
+                <div class="mt-6 bg-gradient-to-r from-purple-50 to-pink-50 p-5 rounded-lg">
+                    <h3 class="text-lg font-semibold text-purple-800 mb-3">Tips for Using Lucky Numbers</h3>
+                    <div class="grid md:grid-cols-3 gap-4 text-sm text-gray-700">
+                        <div>
+                            <h4 class="font-semibold text-purple-700 mb-2">🎲 Randomness</h4>
+                            <p>True random numbers have equal probability - no number is "luckier" than another mathematically</p>
+                        </div>
+                        <div>
+                            <h4 class="font-semibold text-purple-700 mb-2">🔢 Strategy</h4>
+                            <p>Mix high and low numbers, avoid consecutive sequences for better lottery number distribution</p>
+                        </div>
+                        <div>
+                            <h4 class="font-semibold text-purple-700 mb-2">⭐ Personal Choice</h4>
+                            <p>Use birthdays, anniversaries, or generate completely random numbers - both approaches are valid</p>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="mt-6 bg-yellow-50 border-l-4 border-yellow-400 p-4">
+                    <p class="text-sm text-gray-700">
+                        <strong>Note:</strong> While lucky numbers can be fun and meaningful, remember that lottery games and gambling should be done responsibly. Our generator provides truly random results with no bias or prediction capability.
+                    </p>
+                </div>
+            </div>
+        </div>
+
+        <div class="mt-8 bg-white rounded-xl shadow-md overflow-hidden">
+            <div class="p-6">
+                <h2 class="text-2xl font-bold text-gray-800 mb-6">Frequently Asked Questions</h2>
+                
+                <div class="space-y-4">
+                    <div class="border-l-4 border-blue-500 pl-4">
+                        <h3 class="text-lg font-semibold text-gray-800 mb-2">How random are the generated numbers?</h3>
+                        <p class="text-gray-600">Our generator uses PHP's random number generation functions to produce statistically random results. While not truly random (computer-based), the numbers are unpredictable and suitable for most practical purposes including lottery selection.</p>
+                    </div>
+
+                    <div class="border-l-4 border-green-500 pl-4">
+                        <h3 class="text-lg font-semibold text-gray-800 mb-2">Can I increase my lottery chances with this tool?</h3>
+                        <p class="text-gray-600">No tool can increase your odds of winning a lottery, as each combination has equal probability. Our generator simply helps you pick numbers randomly, which is statistically as good as any other selection method.</p>
+                    </div>
+
+                    <div class="border-l-4 border-purple-500 pl-4">
+                        <h3 class="text-lg font-semibold text-gray-800 mb-2">What if I need more than 100 numbers?</h3>
+                        <p class="text-gray-600">Simply adjust the "How many numbers?" field to your desired quantity. The generator can produce large sets of numbers, though you may need to ensure your range is wide enough when duplicates are not allowed.</p>
+                    </div>
+
+                    <div class="border-l-4 border-red-500 pl-4">
+                        <h3 class="text-lg font-semibold text-gray-800 mb-2">Should I allow duplicates?</h3>
+                        <p class="text-gray-600">For most lottery games, duplicates are not desired. However, if you're using numbers for statistical sampling or simulations where repeated values are acceptable, enabling duplicates gives you more flexibility.</p>
+                    </div>
+
+                    <div class="border-l-4 border-indigo-500 pl-4">
+                        <h3 class="text-lg font-semibold text-gray-800 mb-2">Are there really lucky numbers?</h3>
+                        <p class="text-gray-600">From a mathematical perspective, all numbers have equal probability. However, lucky numbers hold cultural and personal significance across different societies. Whether you choose meaningful numbers or random ones, both approaches are equally valid for lottery games.</p>
+                    </div>
+                </div>
+            </div>
+        </div>
     </div>
 
 

@@ -564,6 +564,62 @@
                 </div>
             </div>
         </section>
+
+        <section class="max-w-4xl mx-auto py-8 px-4">
+            <h2 class="text-2xl font-bold text-gray-800 mb-6">Comprehensive Health Standards Guide</h2>
+            
+            <div class="grid md:grid-cols-2 gap-6">
+                <div class="bg-white p-6 rounded-lg shadow-md">
+                    <h3 class="text-xl font-semibold text-purple-700 mb-4">Male Health Standards</h3>
+                    <ul class="space-y-3">
+                        <li class="flex items-start">
+                            <span class="text-purple-500 mr-2">•</span>
+                            <span>Body Fat: 8-19% (optimal range)</span>
+                        </li>
+                        <li class="flex items-start">
+                            <span class="text-purple-500 mr-2">•</span>
+                            <span>Waist Circumference: <40 inches</span>
+                        </li>
+                        <li class="flex items-start">
+                            <span class="text-purple-500 mr-2">•</span>
+                            <span>Blood Pressure: <120/80 mmHg</span>
+                        </li>
+                    </ul>
+                </div>
+
+                <div class="bg-white p-6 rounded-lg shadow-md">
+                    <h3 class="text-xl font-semibold text-purple-700 mb-4">Female Health Standards</h3>
+                    <ul class="space-y-3">
+                        <li class="flex items-start">
+                            <span class="text-purple-500 mr-2">•</span>
+                            <span>Body Fat: 21-33% (optimal range)</span>
+                        </li>
+                        <li class="flex items-start">
+                            <span class="text-purple-500 mr-2">•</span>
+                            <span>Waist Circumference: <35 inches</span>
+                        </li>
+                        <li class="flex items-start">
+                            <span class="text-purple-500 mr-2">•</span>
+                            <span>Blood Pressure: <120/80 mmHg</span>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+
+            <div class="mt-8 bg-white p-6 rounded-lg shadow-md">
+                <h3 class="text-xl font-semibold text-purple-700 mb-4">General Health Recommendations</h3>
+                <div class="prose max-w-none">
+                    <p>Maintaining optimal health standards requires a balanced approach:</p>
+                    <ul>
+                        <li>Regular physical activity (150+ minutes/week)</li>
+                        <li>Balanced nutrition with whole foods</li>
+                        <li>7-9 hours of quality sleep nightly</li>
+                        <li>Stress management techniques</li>
+                        <li>Regular health check-ups</li>
+                    </ul>
+                </div>
+            </div>
+        </section>
     </main>
 
     <?php include 'footer.php'; ?>
