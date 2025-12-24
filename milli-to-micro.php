@@ -431,6 +431,62 @@ document.getElementById('microInput').addEventListener('input', function() {
         </div>
     </div>
 
+    <div class="bg-white rounded-2xl shadow-xl p-8 mb-8">
+        <h2 class="text-3xl font-bold text-gray-900 mb-6">Frequently Asked Questions</h2>
+        
+        <div class="space-y-6">
+            <div class="border-l-4 border-cyan-500 pl-6 py-2">
+                <h3 class="text-xl font-semibold text-gray-900 mb-3">How many micro units are in one milli unit?</h3>
+                <p class="text-gray-700">There are exactly 1,000 micro units in one milli unit. This relationship holds true regardless of the base unit being measured. For example, 1 millimeter equals 1,000 micrometers, 1 milligram equals 1,000 micrograms, 1 millisecond equals 1,000 microseconds, and so on. This consistent 1,000:1 ratio makes conversions straightforward across all measurement types.</p>
+            </div>
+
+            <div class="border-l-4 border-blue-500 pl-6 py-2">
+                <h3 class="text-xl font-semibold text-gray-900 mb-3">Do I multiply or divide when converting from milli to micro?</h3>
+                <p class="text-gray-700">When converting from milli to micro, you multiply by 1,000. Think of it this way: you're expressing the same quantity in smaller units, so you need more of them. For example, 5 millimeters becomes 5,000 micrometers (5 × 1,000 = 5,000). Conversely, when converting from micro to milli, you divide by 1,000 because you're grouping smaller units into larger ones.</p>
+            </div>
+
+            <div class="border-l-4 border-teal-500 pl-6 py-2">
+                <h3 class="text-xl font-semibold text-gray-900 mb-3">What's the difference between milli and micro in practical terms?</h3>
+                <p class="text-gray-700">Milli (10⁻³) represents one-thousandth of a unit and is commonly encountered in everyday measurements like milliliters in cooking or millimeters in carpentry. Micro (10⁻⁶) represents one-millionth of a unit and is typically used in scientific contexts like microscopy, electronics, and laboratory work. To visualize: a millimeter is about the thickness of a credit card, while a micrometer is approximately 1/100th the width of a human hair.</p>
+            </div>
+
+            <div class="border-l-4 border-indigo-500 pl-6 py-2">
+                <h3 class="text-xl font-semibold text-gray-900 mb-3">Why is the micro symbol μ and not 'u'?</h3>
+                <p class="text-gray-700">The micro symbol is the Greek letter mu (μ), chosen because it's the first letter of the Greek word "mikros" (μικρός) meaning "small." While 'u' is sometimes used as a substitute when Greek letters aren't available (especially in older texts or plain text documents), the official SI symbol is μ. Using the proper symbol prevents confusion and maintains scientific accuracy in documentation.</p>
+            </div>
+
+            <div class="border-l-4 border-purple-500 pl-6 py-2">
+                <h3 class="text-xl font-semibold text-gray-900 mb-3">Can I use this converter for any unit with milli or micro prefixes?</h3>
+                <p class="text-gray-700">Yes! The conversion factor between milli and micro is always 1,000, regardless of the base unit. Whether you're converting millimeters to micrometers, milligrams to micrograms, milliseconds to microseconds, milliamperes to microamperes, or any other unit, the mathematical relationship remains constant. This converter works for length, mass, volume, time, electrical units, and any other measurement where these prefixes are applied.</p>
+            </div>
+
+            <div class="border-l-4 border-pink-500 pl-6 py-2">
+                <h3 class="text-xl font-semibold text-gray-900 mb-3">How do I remember which direction to convert?</h3>
+                <p class="text-gray-700">A helpful memory aid: when moving from a larger prefix (milli) to a smaller prefix (micro), the number gets larger (multiply). When moving from a smaller prefix (micro) to a larger prefix (milli), the number gets smaller (divide). Think of it like currency exchange: exchanging dollars for cents gives you more units (100 cents per dollar), while exchanging cents for dollars gives you fewer units (divide by 100).</p>
+            </div>
+
+            <div class="border-l-4 border-red-500 pl-6 py-2">
+                <h3 class="text-xl font-semibold text-gray-900 mb-3">Are these conversions used in medical settings?</h3>
+                <p class="text-gray-700">Absolutely. Medical professionals regularly convert between milligrams and micrograms for medication dosing, especially for potent drugs like thyroid hormones, certain vitamins, and pediatric medications. Laboratory tests measure substances in milligrams or micrograms per deciliter. Accurate conversion is critical for patient safety – a decimal point error could result in a dose 1,000 times too high or too low, potentially causing serious harm.</p>
+            </div>
+
+            <div class="border-l-4 border-orange-500 pl-6 py-2">
+                <h3 class="text-xl font-semibold text-gray-900 mb-3">What's smaller than micro in the metric system?</h3>
+                <p class="text-gray-700">The next prefix smaller than micro is nano (n), representing 10⁻⁹ or one-billionth of a unit. After nano comes pico (10⁻¹²), femto (10⁻¹⁵), atto (10⁻¹⁸), zepto (10⁻²¹), and yocto (10⁻²⁴). These extremely small prefixes are used in nanotechnology, quantum physics, and measuring subatomic particles. The relationship continues: 1 micro equals 1,000 nano, just as 1 milli equals 1,000 micro.</p>
+            </div>
+
+            <div class="border-l-4 border-green-500 pl-6 py-2">
+                <h3 class="text-xl font-semibold text-gray-900 mb-3">How accurate is this online converter?</h3>
+                <p class="text-gray-700">This converter uses the exact mathematical relationship between milli and micro (factor of 1,000), making it perfectly accurate for the conversion itself. The displayed results show up to 10 decimal places for precision, though practical applications may require rounding based on measurement precision. The conversion factor is exact by definition in the SI system, so any limitations in accuracy would come from the precision of your input values, not the conversion process.</p>
+            </div>
+
+            <div class="border-l-4 border-yellow-500 pl-6 py-2">
+                <h3 class="text-xl font-semibold text-gray-900 mb-3">Do I need to convert units before calculations in science?</h3>
+                <p class="text-gray-700">Yes, for accurate calculations, all values should be in the same units. If one measurement is in millimeters and another in micrometers, convert them to the same prefix before performing mathematical operations. This prevents errors in addition, subtraction, and more complex formulas. Many scientific calculators and software can handle mixed units, but manual calculations require unit consistency. Always check your units before and after calculations to ensure dimensional correctness.</p>
+            </div>
+        </div>
+    </div>
+
     <div class="bg-gradient-to-r from-cyan-50 to-blue-50 rounded-2xl shadow-xl p-8">
         <h2 class="text-3xl font-bold text-gray-900 mb-6">Conclusion</h2>
         <div class="prose max-w-none text-gray-700">
