@@ -346,32 +346,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
                 
                 <p>The <strong>significance of video count extends beyond simple counting</strong>—it reveals content production sustainability, publishing consistency over time, niche focus versus topic diversity, content library monetization potential, and creator dedication reflecting strategic positioning within competitive YouTube landscape. High video counts may indicate established creators with extensive content libraries suitable for long-term viewer engagement while moderate counts might suggest focused niche specialists prioritizing quality over quantity requiring contextual analysis combining video count with views, subscribers, engagement rates, and publishing patterns for comprehensive channel assessment.</p>
                 
-                <h3 class="text-2xl font-bold text-gray-900 mt-8 mb-4">Primary Keyword, Meta Title, and Meta Description</h3>
                 
-                <div class="overflow-x-auto mb-8">
-                    <table class="w-full border-collapse">
-                        <thead>
-                            <tr class="bg-gradient-to-r from-red-600 to-pink-600 text-white">
-                                <th class="border border-red-500 px-4 py-3 text-left font-semibold">SEO Element</th>
-                                <th class="border border-red-500 px-4 py-3 text-left font-semibold">Recommended Content</th>
-                            </tr>
-                        </thead>
-                        <tbody>
-                            <tr class="hover:bg-gray-50">
-                                <td class="border border-gray-300 px-4 py-3 font-bold text-red-600">Primary Keyword</td>
-                                <td class="border border-gray-300 px-4 py-3"><strong>YouTube Video Count Checker</strong></td>
-                            </tr>
-                            <tr class="hover:bg-gray-50">
-                                <td class="border border-gray-300 px-4 py-3 font-semibold">Meta Title</td>
-                                <td class="border border-gray-300 px-4 py-3"><strong>YouTube Video Count Checker – Free Channel Analytics Tool | Check Total Videos</strong></td>
-                            </tr>
-                            <tr class="hover:bg-gray-50">
-                                <td class="border border-gray-300 px-4 py-3 font-semibold">Meta Description</td>
-                                <td class="border border-gray-300 px-4 py-3">Free <strong>YouTube Video Count Checker</strong> tool. Instantly check total videos on any YouTube channel. Analyze content volume, track competitors, and optimize your content strategy.</td>
-                            </tr>
-                        </tbody>
-                    </table>
-                </div>
                 
                 <h3 class="text-2xl font-bold text-gray-900 mt-8 mb-4">How YouTube Video Count Checker Works</h3>
                 

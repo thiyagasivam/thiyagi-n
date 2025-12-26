@@ -867,21 +867,6 @@ Calculate at: ${window.location.href}`;
         <div class="bg-white rounded-xl shadow-lg p-8">
             <h2 class="text-3xl font-bold text-gray-900 mb-6">Complete Guide to TV Wall Mount Height Calculator: Professional Mounting Solutions for Optimal Viewing Experience</h2>
             
-            <!-- Primary Keyword and Meta Information -->
-            <div class="bg-gradient-to-r from-blue-50 to-purple-50 p-6 rounded-lg mb-8">
-                <h3 class="text-xl font-bold text-gray-900 mb-4">SEO Information</h3>
-                <div class="grid md:grid-cols-2 gap-4 text-sm">
-                    <div>
-                        <strong>Primary Keyword:</strong> TV Wall Mount Height Calculator
-                    </div>
-                    <div>
-                        <strong>Meta Title:</strong> TV Wall Mount Height Calculator – Professional Mounting Tool | Free Calculator
-                    </div>
-                </div>
-                <div class="mt-2 text-sm">
-                    <strong>Meta Description:</strong> Calculate optimal TV wall mount height with our professional calculator. Get precise measurements for perfect viewing angles, comfort, and ergonomic wall mounting solutions for any TV size.
-                </div>
-            </div>
             
             <div class="prose max-w-none text-gray-700 space-y-6">
                 <p class="text-lg leading-relaxed">The <strong>TV Wall Mount Height Calculator</strong> serves as an indispensable tool for homeowners, interior designers, professional installers, home theater enthusiasts, and commercial space planners seeking to determine the optimal television mounting height for maximum viewing comfort, ergonomic positioning, and aesthetic appeal. We understand that <strong>proper TV mounting height</strong> directly impacts viewing experience, neck comfort, eye strain prevention, and overall room design harmony. Our comprehensive <strong>wall mount height calculation system</strong> considers multiple factors including seating height, viewing distance, TV screen size, room layout, and ergonomic principles to deliver precise mounting measurements ensuring optimal entertainment experiences and long-term viewing comfort across residential and commercial installations.</p>
