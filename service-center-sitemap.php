@@ -9,7 +9,7 @@ echo '<?xml version="1.0" encoding="UTF-8"?>' . "\n";
         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
 <?php
 $baseUrl = 'https://www.thiyagi.com';
-$today = date('Y-m-d'); // Current date - updates daily
+$today = date('Y-m-d');
 
 // Read the static XML file to extract URLs
 $xmlFile = __DIR__ . '/service-center-sitemap.xml';
@@ -23,18 +23,22 @@ if (file_exists($xmlFile) && is_readable($xmlFile)) {
         } else {
             foreach ($xml->url as $url) {
                 $loc = (string)$url->loc;
-                $changefreq = (string)$url->changefreq;
-                $priority = (string)$url->priority;
-                
-                // Validate URL length
+                $lastmod = trim((string)$url->lastmod);
+                $changefreq = trim((string)$url->changefreq);
+                $priority = trim((string)$url->priority);
+
                 if (strlen($loc) > 2048) continue;
-                
-                // Output with today's date instead of static date
+
+                $effectiveLastmod = $lastmod !== '' ? $lastmod : $today;
                 echo "\n  <url>";
                 echo "\n    <loc>" . htmlspecialchars($loc, ENT_XML1, 'UTF-8') . '</loc>';
-                echo "\n    <lastmod>" . htmlspecialchars($today, ENT_XML1, 'UTF-8') . '</lastmod>';
-                echo "\n    <changefreq>" . htmlspecialchars($changefreq, ENT_XML1, 'UTF-8') . '</changefreq>';
-                echo "\n    <priority>" . htmlspecialchars($priority, ENT_XML1, 'UTF-8') . '</priority>';
+                echo "\n    <lastmod>" . htmlspecialchars($effectiveLastmod, ENT_XML1, 'UTF-8') . '</lastmod>';
+                if ($changefreq !== '') {
+                    echo "\n    <changefreq>" . htmlspecialchars($changefreq, ENT_XML1, 'UTF-8') . '</changefreq>';
+                }
+                if ($priority !== '') {
+                    echo "\n    <priority>" . htmlspecialchars($priority, ENT_XML1, 'UTF-8') . '</priority>';
+                }
                 echo "\n  </url>";
             }
             echo "\n";

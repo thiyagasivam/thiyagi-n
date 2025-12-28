@@ -66,18 +66,21 @@ $electricityBoardCalculators = [
 ];
 
 foreach ($electricityBoardCalculators as $calculator) {
+    $calcFile = ($documentRoot ?? (__DIR__)) . "/electricity-board/{$calculator}.php";
+    $lastMod = is_file($calcFile) ? date('Y-m-d', filemtime($calcFile)) : date('Y-m-d');
     $pages["/electricity-board/{$calculator}"] = [
-        'lastmod' => date('Y-m-d'),
-        'changefreq' => 'daily',
-        'priority' => '1.0'
+        'lastmod' => $lastMod,
+        'changefreq' => 'weekly',
+        'priority' => '0.9'
     ];
 }
 
 // Add electricity board index page
+$indexFile = ($documentRoot ?? (__DIR__)) . '/electricity-board/index.php';
 $pages['/electricity-board/index'] = [
-    'lastmod' => date('Y-m-d'),
-    'changefreq' => 'daily',
-    'priority' => '1.0'
+    'lastmod' => is_file($indexFile) ? date('Y-m-d', filemtime($indexFile)) : date('Y-m-d'),
+    'changefreq' => 'weekly',
+    'priority' => '0.9'
 ];
 
 // Pages to EXCLUDE (will not appear in sitemap)
@@ -200,15 +203,16 @@ function scanDirectory($dir, $baseDir, &$foundPages, $excludedPages, $excludedFo
                 
                 if ($file->isFile() && in_array(strtolower($file->getExtension()), ['php', 'html'])) {
                     $cleanPath = removePhpExtension($relativePath);
-                    
+
                     // Skip if excluded or already manually defined
-                    if (!in_array($relativePath, $excludedPages) && 
-                        !in_array($cleanPath, $excludedPages) && 
+                    if (!in_array($relativePath, $excludedPages) &&
+                        !in_array($cleanPath, $excludedPages) &&
                         !isset($foundPages[$cleanPath])) {
+                        $mtime = @filemtime($pathname);
                         $foundPages[$cleanPath] = [
-                            'lastmod' => date('Y-m-d'), // Always use current date
-                            'changefreq' => 'daily',
-                            'priority' => '1.0'
+                            'lastmod' => $mtime ? date('Y-m-d', $mtime) : date('Y-m-d'),
+                            'changefreq' => 'monthly',
+                            'priority' => '0.8'
                         ];
                     }
                 }
