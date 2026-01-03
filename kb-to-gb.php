@@ -326,8 +326,6 @@ window.addEventListener('DOMContentLoaded', () => {
                     <div>
                         <h5 class="font-semibold text-amber-700 mb-2">Byte Conversions</h5>
                         <ul class="space-y-1">
-                            <li><a href="byte-to-kb.php" class="text-amber-600 hover:text-amber-800 hover:underline">Byte to KB Converter</a></li>
-                            <li><a href="byte-to-mb.php" class="text-amber-600 hover:text-amber-800 hover:underline">Byte to MB Converter</a></li>
                             <li><a href="byte-to-gigabyte.php" class="text-amber-600 hover:text-amber-800 hover:underline">Byte to GB Converter</a></li>
                         </ul>
                     </div>
@@ -335,7 +333,6 @@ window.addEventListener('DOMContentLoaded', () => {
                         <h5 class="font-semibold text-amber-700 mb-2">Kilobyte Conversions</h5>
                         <ul class="space-y-1">
                             <li><a href="kb-to-mb.php" class="text-amber-600 hover:text-amber-800 hover:underline">KB to MB Converter</a></li>
-                            <li><a href="kb-to-tb.php" class="text-amber-600 hover:text-amber-800 hover:underline">KB to TB Converter</a></li>
                             <li><a href="gb-to-kb.php" class="text-amber-600 hover:text-amber-800 hover:underline">GB to KB Converter</a></li>
                         </ul>
                     </div>
@@ -343,9 +340,7 @@ window.addEventListener('DOMContentLoaded', () => {
                         <h5 class="font-semibold text-amber-700 mb-2">Other Storage Tools</h5>
                         <ul class="space-y-1">
                             <li><a href="mb-to-gb.php" class="text-amber-600 hover:text-amber-800 hover:underline">MB to GB Converter</a></li>
-                            <li><a href="gb-to-tb.php" class="text-amber-600 hover:text-amber-800 hover:underline">GB to TB Converter</a></li>
-                            <li><a href="tb-to-gb.php" class="text-amber-600 hover:text-amber-800 hover:underline">TB to GB Converter</a></li>
-                        </ul>
+                            </ul>
                     </div>
                 </div>
             </div>
@@ -464,14 +459,11 @@ window.addEventListener('DOMContentLoaded', () => {
                 <div class="grid md:grid-cols-2 gap-3 text-sm">
                     <ul class="space-y-1">
                         <li><a href="mb-to-gb.php" class="text-blue-600 hover:text-blue-800 hover:underline">MB to GB Converter</a></li>
-                        <li><a href="gb-to-tb.php" class="text-blue-600 hover:text-blue-800 hover:underline">GB to TB Converter</a></li>
-                        <li><a href="binary-to-decimal.php" class="text-blue-600 hover:text-blue-800 hover:underline">Binary to Decimal</a></li>
-                    </ul>
+                        </ul>
                     <ul class="space-y-1">
                         <li><a href="hex-to-decimal.php" class="text-blue-600 hover:text-blue-800 hover:underline">Hex to Decimal</a></li>
                         <li><a href="kbps-to-mbps.php" class="text-blue-600 hover:text-blue-800 hover:underline">Kbps to Mbps</a></li>
-                        <li><a href="mbps-to-gbps.php" class="text-blue-600 hover:text-blue-800 hover:underline">Mbps to Gbps</a></li>
-                    </ul>
+                        </ul>
                 </div>
             </div>
             
@@ -712,8 +704,8 @@ window.addEventListener('DOMContentLoaded', () => {
                     <h5 class="font-semibold text-gray-800 mb-2">💾 Related Storage & Data Tools</h5>
                     <div class="flex flex-wrap gap-2 text-xs">
                         <a href="mb-to-gb.php" class="bg-amber-100 text-amber-700 px-2 py-1 rounded hover:bg-amber-200">MB to GB</a>
-                        <a href="gb-to-tb.php" class="bg-amber-100 text-amber-700 px-2 py-1 rounded hover:bg-amber-200">GB to TB</a>
-                        <a href="byte-to-gb.php" class="bg-amber-100 text-amber-700 px-2 py-1 rounded hover:bg-amber-200">Byte to GB</a>
+                        
+                        
                         <a href="kb-to-mb.php" class="bg-amber-100 text-amber-700 px-2 py-1 rounded hover:bg-amber-200">KB to MB</a>
                         <a href="gb-to-kb.php" class="bg-amber-100 text-amber-700 px-2 py-1 rounded hover:bg-amber-200">GB to KB</a>
                         <a href="kbps-to-mbps.php" class="bg-amber-100 text-amber-700 px-2 py-1 rounded hover:bg-amber-200">Kbps to Mbps</a>

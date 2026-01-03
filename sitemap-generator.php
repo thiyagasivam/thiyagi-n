@@ -1137,18 +1137,13 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
                     <div>
                         <h5 class="font-semibold text-purple-700 mb-2">Website Analysis</h5>
                         <ul class="space-y-1">
-                            <li><a href="broken-links-finder.php" class="text-purple-600 hover:text-purple-800 hover:underline">Broken Links Checker</a></li>
-                            <li><a href="page-speed-analyzer.php" class="text-purple-600 hover:text-purple-800 hover:underline">Page Speed Analyzer</a></li>
-                            <li><a href="seo-audit-tool.php" class="text-purple-600 hover:text-purple-800 hover:underline">SEO Audit Tool</a></li>
-                        </ul>
+                            </ul>
                     </div>
                     <div>
                         <h5 class="font-semibold text-purple-700 mb-2">Content Tools</h5>
                         <ul class="space-y-1">
                             <li><a href="keyword-density-checker.php" class="text-purple-600 hover:text-purple-800 hover:underline">Keyword Density Checker</a></li>
-                            <li><a href="backlink-analyzer.php" class="text-purple-600 hover:text-purple-800 hover:underline">Backlink Analyzer</a></li>
-                            <li><a href="duplicate-content-checker.php" class="text-purple-600 hover:text-purple-800 hover:underline">Duplicate Content Checker</a></li>
-                        </ul>
+                            </ul>
                     </div>
                 </div>
             </div>
@@ -1242,15 +1237,10 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
                 <h5 class="font-semibold text-blue-800 mb-2">🎯 Website Optimization Tools</h5>
                 <div class="grid md:grid-cols-2 gap-3 text-sm">
                     <ul class="space-y-1">
-                        <li><a href="url-encoder-decoder.php" class="text-blue-600 hover:text-blue-800 hover:underline">URL Encoder/Decoder</a></li>
-                        <li><a href="htaccess-generator.php" class="text-blue-600 hover:text-blue-800 hover:underline">.htaccess Generator</a></li>
                         <li><a href="redirect-checker.php" class="text-blue-600 hover:text-blue-800 hover:underline">Redirect Checker</a></li>
                     </ul>
                     <ul class="space-y-1">
-                        <li><a href="canonical-url-checker.php" class="text-blue-600 hover:text-blue-800 hover:underline">Canonical URL Checker</a></li>
-                        <li><a href="ssl-checker.php" class="text-blue-600 hover:text-blue-800 hover:underline">SSL Certificate Checker</a></li>
-                        <li><a href="uptime-monitor.php" class="text-blue-600 hover:text-blue-800 hover:underline">Website Uptime Monitor</a></li>
-                    </ul>
+                        </ul>
                 </div>
             </div>
             
@@ -1493,10 +1483,10 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
                         <a href="robots-txt-generator.php" class="bg-purple-100 text-purple-700 px-2 py-1 rounded hover:bg-purple-200">Robots.txt Generator</a>
                         <a href="meta-tag-generator.php" class="bg-purple-100 text-purple-700 px-2 py-1 rounded hover:bg-purple-200">Meta Tag Generator</a>
                         <a href="schema-markup-generator.php" class="bg-purple-100 text-purple-700 px-2 py-1 rounded hover:bg-purple-200">Schema Markup</a>
-                        <a href="canonical-checker.php" class="bg-purple-100 text-purple-700 px-2 py-1 rounded hover:bg-purple-200">Canonical Checker</a>
-                        <a href="broken-links-finder.php" class="bg-purple-100 text-purple-700 px-2 py-1 rounded hover:bg-purple-200">Broken Links Finder</a>
-                        <a href="page-speed-analyzer.php" class="bg-purple-100 text-purple-700 px-2 py-1 rounded hover:bg-purple-200">Page Speed Analyzer</a>
-                        <a href="ssl-checker.php" class="bg-purple-100 text-purple-700 px-2 py-1 rounded hover:bg-purple-200">SSL Checker</a>
+                        
+                        
+                        
+                        
                     </div>
                 </div>
             </div>

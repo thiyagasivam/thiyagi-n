@@ -447,8 +447,6 @@ window.addEventListener('DOMContentLoaded', () => {
                     <div>
                         <h5 class="font-semibold text-emerald-700 mb-2">Volume Measurements</h5>
                         <ul class="space-y-1">
-                            <li><a href="ml-to-oz.php" class="text-emerald-600 hover:text-emerald-800 hover:underline">ML to Ounce Converter</a></li>
-                            <li><a href="liter-to-gallon-us.php" class="text-emerald-600 hover:text-emerald-800 hover:underline">Liter to Gallon</a></li>
                             <li><a href="cc-to-cubic-inch.php" class="text-emerald-600 hover:text-emerald-800 hover:underline">CC to Cubic Inch</a></li>
                         </ul>
                     </div>
@@ -566,14 +564,10 @@ window.addEventListener('DOMContentLoaded', () => {
                 <div class="grid md:grid-cols-2 gap-3 text-sm">
                     <ul class="space-y-1">
                         <li><a href="bmi-calculator.php" class="text-blue-600 hover:text-blue-800 hover:underline">BMI Calculator</a></li>
-                        <li><a href="body-fat-calculator.php" class="text-blue-600 hover:text-blue-800 hover:underline">Body Fat Calculator</a></li>
-                        <li><a href="calorie-calculator.php" class="text-blue-600 hover:text-blue-800 hover:underline">Calorie Calculator</a></li>
-                    </ul>
+                        </ul>
                     <ul class="space-y-1">
-                        <li><a href="pregnancy-calculator.php" class="text-blue-600 hover:text-blue-800 hover:underline">Pregnancy Calculator</a></li>
                         <li><a href="age-calculator.php" class="text-blue-600 hover:text-blue-800 hover:underline">Age Calculator</a></li>
-                        <li><a href="water-intake-calculator.php" class="text-blue-600 hover:text-blue-800 hover:underline">Water Intake Calculator</a></li>
-                    </ul>
+                        </ul>
                 </div>
             </div>
             
@@ -610,14 +604,9 @@ window.addEventListener('DOMContentLoaded', () => {
                 <div class="grid md:grid-cols-2 gap-3 text-sm">
                     <ul class="space-y-1">
                         <li><a href="percentage-calculator.php" class="text-yellow-600 hover:text-yellow-800 hover:underline">Percentage Calculator</a></li>
-                        <li><a href="molarity-calculator.php" class="text-yellow-600 hover:text-yellow-800 hover:underline">Molarity Calculator</a></li>
-                        <li><a href="dilution-calculator.php" class="text-yellow-600 hover:text-yellow-800 hover:underline">Dilution Calculator</a></li>
-                    </ul>
+                        </ul>
                     <ul class="space-y-1">
-                        <li><a href="density-calculator.php" class="text-yellow-600 hover:text-yellow-800 hover:underline">Density Calculator</a></li>
-                        <li><a href="ph-calculator.php" class="text-yellow-600 hover:text-yellow-800 hover:underline">pH Calculator</a></li>
-                        <li><a href="unit-converter.php" class="text-yellow-600 hover:text-yellow-800 hover:underline">Universal Unit Converter</a></li>
-                    </ul>
+                        </ul>
                 </div>
             </div>
             
@@ -845,8 +834,8 @@ window.addEventListener('DOMContentLoaded', () => {
                     <div class="flex flex-wrap gap-2 text-xs">
                         <a href="ml-to-cc.php" class="bg-emerald-100 text-emerald-700 px-2 py-1 rounded hover:bg-emerald-200">ML to CC</a>
                         <a href="cc-to-liter.php" class="bg-emerald-100 text-emerald-700 px-2 py-1 rounded hover:bg-emerald-200">CC to Liter</a>
-                        <a href="ml-to-oz.php" class="bg-emerald-100 text-emerald-700 px-2 py-1 rounded hover:bg-emerald-200">ML to Ounce</a>
-                        <a href="liter-to-gallon-us.php" class="bg-emerald-100 text-emerald-700 px-2 py-1 rounded hover:bg-emerald-200">Liter to Gallon</a>
+                        
+                        
                         <a href="ml-to-teaspoon.php" class="bg-emerald-100 text-emerald-700 px-2 py-1 rounded hover:bg-emerald-200">ML to Teaspoon</a>
                         <a href="cc-to-cubic-inch.php" class="bg-emerald-100 text-emerald-700 px-2 py-1 rounded hover:bg-emerald-200">CC to Cubic Inch</a>
                         <a href="bmi-calculator.php" class="bg-emerald-100 text-emerald-700 px-2 py-1 rounded hover:bg-emerald-200">BMI Calculator</a>

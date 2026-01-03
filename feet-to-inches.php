@@ -671,34 +671,16 @@ $canonicalUrl = $isDynamicPage ?
           <h3 class="font-semibold text-gray-900 text-sm mb-1">Feet to MM</h3>
           <p class="text-xs text-gray-600">Convert ft to mm</p>
         </a>
-        <a href="/yard-to-inches.php" class="bg-white rounded-lg p-4 shadow-md hover:shadow-lg transition-all duration-300 border-l-4 border-red-500">
-          <h3 class="font-semibold text-gray-900 text-sm mb-1">Yard to Inches</h3>
-          <p class="text-xs text-gray-600">Convert yd to in</p>
-        </a>
-        <a href="/inches-to-yard.php" class="bg-white rounded-lg p-4 shadow-md hover:shadow-lg transition-all duration-300 border-l-4 border-orange-500">
-          <h3 class="font-semibold text-gray-900 text-sm mb-1">Inches to Yard</h3>
-          <p class="text-xs text-gray-600">Convert in to yd</p>
-        </a>
+        
+        
         <a href="/meter-to-inches.php" class="bg-white rounded-lg p-4 shadow-md hover:shadow-lg transition-all duration-300 border-l-4 border-yellow-500">
           <h3 class="font-semibold text-gray-900 text-sm mb-1">Meter to Inches</h3>
           <p class="text-xs text-gray-600">Convert m to in</p>
         </a>
-        <a href="/inches-to-meter.php" class="bg-white rounded-lg p-4 shadow-md hover:shadow-lg transition-all duration-300 border-l-4 border-green-500">
-          <h3 class="font-semibold text-gray-900 text-sm mb-1">Inches to Meter</h3>
-          <p class="text-xs text-gray-600">Convert in to m</p>
-        </a>
-        <a href="/km-to-feet.php" class="bg-white rounded-lg p-4 shadow-md hover:shadow-lg transition-all duration-300 border-l-4 border-teal-500">
-          <h3 class="font-semibold text-gray-900 text-sm mb-1">KM to Feet</h3>
-          <p class="text-xs text-gray-600">Convert km to ft</p>
-        </a>
-        <a href="/feet-to-km.php" class="bg-white rounded-lg p-4 shadow-md hover:shadow-lg transition-all duration-300 border-l-4 border-purple-600">
-          <h3 class="font-semibold text-gray-900 text-sm mb-1">Feet to KM</h3>
-          <p class="text-xs text-gray-600">Convert ft to km</p>
-        </a>
-        <a href="/micrometer-to-feet.php" class="bg-white rounded-lg p-4 shadow-md hover:shadow-lg transition-all duration-300 border-l-4 border-blue-600">
-          <h3 class="font-semibold text-gray-900 text-sm mb-1">Micrometer to Feet</h3>
-          <p class="text-xs text-gray-600">Convert μm to ft</p>
-        </a>
+        
+        
+        
+        
       </div>
     </div>
   </section>

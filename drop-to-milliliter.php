@@ -188,22 +188,18 @@ document.getElementById('mlOutput').addEventListener('input', convertMlToDrop);
                         <h5 class="font-semibold text-cyan-700 mb-2">Drop Conversions</h5>
                         <ul class="space-y-1">
                             <li><a href="milliliter-to-drop.php" class="text-cyan-600 hover:text-cyan-800 hover:underline">Milliliter to Drop Converter</a></li>
-                            <li><a href="drop-to-teaspoon.php" class="text-cyan-600 hover:text-cyan-800 hover:underline">Drop to Teaspoon</a></li>
-                            <li><a href="drop-calculator.php" class="text-cyan-600 hover:text-cyan-800 hover:underline">Drop Calculator</a></li>
-                        </ul>
+                            </ul>
                     </div>
                     <div>
                         <h5 class="font-semibold text-cyan-700 mb-2">Medical Measurements</h5>
                         <ul class="space-y-1">
                             <li><a href="ml-to-teaspoon.php" class="text-cyan-600 hover:text-cyan-800 hover:underline">ML to Teaspoon</a></li>
                             <li><a href="cc-to-ml.php" class="text-cyan-600 hover:text-cyan-800 hover:underline">CC to ML Converter</a></li>
-                            <li><a href="ml-to-oz.php" class="text-cyan-600 hover:text-cyan-800 hover:underline">ML to Ounce</a></li>
-                        </ul>
+                            </ul>
                     </div>
                     <div>
                         <h5 class="font-semibold text-cyan-700 mb-2">Volume Tools</h5>
                         <ul class="space-y-1">
-                            <li><a href="liter-to-gallon-us.php" class="text-cyan-600 hover:text-cyan-800 hover:underline">Liter to Gallon</a></li>
                             <li><a href="ml-to-cup.php" class="text-cyan-600 hover:text-cyan-800 hover:underline">ML to Cup</a></li>
                             <li><a href="ml-to-tablespoon.php" class="text-cyan-600 hover:text-cyan-800 hover:underline">ML to Tablespoon</a></li>
                         </ul>
@@ -314,14 +310,10 @@ document.getElementById('mlOutput').addEventListener('input', convertMlToDrop);
                 <div class="grid md:grid-cols-2 gap-3 text-sm">
                     <ul class="space-y-1">
                         <li><a href="bmi-calculator.php" class="text-blue-600 hover:text-blue-800 hover:underline">BMI Calculator</a></li>
-                        <li><a href="body-fat-calculator.php" class="text-blue-600 hover:text-blue-800 hover:underline">Body Fat Calculator</a></li>
-                        <li><a href="calorie-calculator.php" class="text-blue-600 hover:text-blue-800 hover:underline">Calorie Calculator</a></li>
-                    </ul>
+                        </ul>
                     <ul class="space-y-1">
-                        <li><a href="pregnancy-calculator.php" class="text-blue-600 hover:text-blue-800 hover:underline">Pregnancy Calculator</a></li>
                         <li><a href="age-calculator.php" class="text-blue-600 hover:text-blue-800 hover:underline">Age Calculator</a></li>
-                        <li><a href="water-intake-calculator.php" class="text-blue-600 hover:text-blue-800 hover:underline">Water Intake Calculator</a></li>
-                    </ul>
+                        </ul>
                 </div>
             </div>
             
@@ -358,14 +350,9 @@ document.getElementById('mlOutput').addEventListener('input', convertMlToDrop);
                 <div class="grid md:grid-cols-2 gap-3 text-sm">
                     <ul class="space-y-1">
                         <li><a href="percentage-calculator.php" class="text-green-600 hover:text-green-800 hover:underline">Percentage Calculator</a></li>
-                        <li><a href="ratio-calculator.php" class="text-green-600 hover:text-green-800 hover:underline">Ratio Calculator</a></li>
-                        <li><a href="dilution-calculator.php" class="text-green-600 hover:text-green-800 hover:underline">Dilution Calculator</a></li>
-                    </ul>
+                        </ul>
                     <ul class="space-y-1">
-                        <li><a href="molarity-calculator.php" class="text-green-600 hover:text-green-800 hover:underline">Molarity Calculator</a></li>
-                        <li><a href="concentration-calculator.php" class="text-green-600 hover:text-green-800 hover:underline">Concentration Calculator</a></li>
-                        <li><a href="volume-calculator.php" class="text-green-600 hover:text-green-800 hover:underline">Volume Calculator</a></li>
-                    </ul>
+                        </ul>
                 </div>
             </div>
             
@@ -593,8 +580,8 @@ document.getElementById('mlOutput').addEventListener('input', convertMlToDrop);
                     <div class="flex flex-wrap gap-2 text-xs">
                         <a href="ml-to-teaspoon.php" class="bg-cyan-100 text-cyan-700 px-2 py-1 rounded hover:bg-cyan-200">ML to Teaspoon</a>
                         <a href="cc-to-ml.php" class="bg-cyan-100 text-cyan-700 px-2 py-1 rounded hover:bg-cyan-200">CC to ML</a>
-                        <a href="ml-to-oz.php" class="bg-cyan-100 text-cyan-700 px-2 py-1 rounded hover:bg-cyan-200">ML to Ounce</a>
-                        <a href="liter-to-gallon-us.php" class="bg-cyan-100 text-cyan-700 px-2 py-1 rounded hover:bg-cyan-200">Liter to Gallon</a>
+                        
+                        
                         <a href="ml-to-cup.php" class="bg-cyan-100 text-cyan-700 px-2 py-1 rounded hover:bg-cyan-200">ML to Cup</a>
                         <a href="bmi-calculator.php" class="bg-cyan-100 text-cyan-700 px-2 py-1 rounded hover:bg-cyan-200">BMI Calculator</a>
                         <a href="percentage-calculator.php" class="bg-cyan-100 text-cyan-700 px-2 py-1 rounded hover:bg-cyan-200">Percentage Calculator</a>

@@ -182,9 +182,6 @@ echo $header_content;
                 <a href="cups-to-quart.php" class="p-3 bg-blue-50 rounded-lg hover:bg-blue-100 transition-colors">
                     <div class="text-sm font-medium text-blue-800">Cups to Quart</div>
                 </a>
-                <a href="quart-to-pint.php" class="p-3 bg-blue-50 rounded-lg hover:bg-blue-100 transition-colors">
-                    <div class="text-sm font-medium text-blue-800">Quart to Pint</div>
-                </a>
                 <a href="quart-to-gallon.php" class="p-3 bg-blue-50 rounded-lg hover:bg-blue-100 transition-colors">
                     <div class="text-sm font-medium text-blue-800">Quart to Gallon</div>
                 </a>

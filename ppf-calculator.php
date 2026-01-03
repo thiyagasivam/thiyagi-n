@@ -257,24 +257,17 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
                         <h5 class="font-semibold text-blue-700 mb-2">Retirement Planning</h5>
                         <ul class="space-y-1">
                             <li><a href="sip-calculator.php" class="text-blue-600 hover:text-blue-800 hover:underline">SIP Calculator</a></li>
-                            <li><a href="epf-calculator.php" class="text-blue-600 hover:text-blue-800 hover:underline">EPF Calculator</a></li>
-                            <li><a href="nps-calculator.php" class="text-blue-600 hover:text-blue-800 hover:underline">NPS Calculator</a></li>
                         </ul>
                     </div>
                     <div>
                         <h5 class="font-semibold text-blue-700 mb-2">Interest & Returns</h5>
                         <ul class="space-y-1">
                             <li><a href="compound-interest-calculator.php" class="text-blue-600 hover:text-blue-800 hover:underline">Compound Interest</a></li>
-                            <li><a href="simple-interest-calculator.php" class="text-blue-600 hover:text-blue-800 hover:underline">Simple Interest</a></li>
-                            <li><a href="fd-calculator.php" class="text-blue-600 hover:text-blue-800 hover:underline">FD Calculator</a></li>
                         </ul>
                     </div>
                     <div>
                         <h5 class="font-semibold text-blue-700 mb-2">Tax & Loans</h5>
                         <ul class="space-y-1">
-                            <li><a href="income-tax-calculator.php" class="text-blue-600 hover:text-blue-800 hover:underline">Income Tax Calculator</a></li>
-                            <li><a href="home-loan-emi-calculator.php" class="text-blue-600 hover:text-blue-800 hover:underline">Home Loan EMI</a></li>
-                            <li><a href="car-loan-emi-calculator.php" class="text-blue-600 hover:text-blue-800 hover:underline">Car Loan EMI</a></li>
                         </ul>
                     </div>
                 </div>
@@ -375,14 +368,10 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
                 <h5 class="font-semibold text-green-800 mb-2">💡 PPF Investment Planning Tools</h5>
                 <div class="grid md:grid-cols-2 gap-3 text-sm">
                     <ul class="space-y-1">
-                        <li><a href="retirement-calculator.php" class="text-green-600 hover:text-green-800 hover:underline">Retirement Calculator</a></li>
-                        <li><a href="goal-planning-calculator.php" class="text-green-600 hover:text-green-800 hover:underline">Goal Planning Calculator</a></li>
                         <li><a href="sip-calculator.php" class="text-green-600 hover:text-green-800 hover:underline">SIP Calculator</a></li>
                     </ul>
                     <ul class="space-y-1">
-                        <li><a href="inflation-calculator.php" class="text-green-600 hover:text-green-800 hover:underline">Inflation Calculator</a></li>
                         <li><a href="compound-interest-calculator.php" class="text-green-600 hover:text-green-800 hover:underline">Compound Interest</a></li>
-                        <li><a href="tax-saving-calculator.php" class="text-green-600 hover:text-green-800 hover:underline">Tax Saving Calculator</a></li>
                     </ul>
                 </div>
             </div>
@@ -623,12 +612,8 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
                 <div class="mt-4 pt-4 border-t border-gray-300">
                     <h5 class="font-semibold text-gray-800 mb-2">💰 Related Financial Planning Tools</h5>
                     <div class="flex flex-wrap gap-2 text-xs">
-                        <a href="retirement-calculator.php" class="bg-blue-100 text-blue-700 px-2 py-1 rounded hover:bg-blue-200">Retirement Calculator</a>
                         <a href="sip-calculator.php" class="bg-blue-100 text-blue-700 px-2 py-1 rounded hover:bg-blue-200">SIP Calculator</a>
                         <a href="compound-interest-calculator.php" class="bg-blue-100 text-blue-700 px-2 py-1 rounded hover:bg-blue-200">Compound Interest</a>
-                        <a href="fd-calculator.php" class="bg-blue-100 text-blue-700 px-2 py-1 rounded hover:bg-blue-200">FD Calculator</a>
-                        <a href="income-tax-calculator.php" class="bg-blue-100 text-blue-700 px-2 py-1 rounded hover:bg-blue-200">Income Tax</a>
-                        <a href="home-loan-emi-calculator.php" class="bg-blue-100 text-blue-700 px-2 py-1 rounded hover:bg-blue-200">Home Loan EMI</a>
                         <a href="percentage-calculator.php" class="bg-blue-100 text-blue-700 px-2 py-1 rounded hover:bg-blue-200">Percentage Calculator</a>
                     </div>
                 </div>

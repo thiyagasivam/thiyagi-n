@@ -185,9 +185,7 @@ echo $header_content;
                 <a href="gb-to-mb.php" class="p-3 bg-violet-50 rounded-lg hover:bg-violet-100 transition-colors">
                     <div class="text-sm font-medium text-violet-800">GB to MB</div>
                 </a>
-                <a href="gb-to-tb.php" class="p-3 bg-violet-50 rounded-lg hover:bg-violet-100 transition-colors">
-                    <div class="text-sm font-medium text-violet-800">GB to TB</div>
-                </a>
+                
                 <a href="byte-to-gigabyte.php" class="p-3 bg-violet-50 rounded-lg hover:bg-violet-100 transition-colors">
                     <div class="text-sm font-medium text-violet-800">Byte to GB</div>
                 </a>

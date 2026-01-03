@@ -679,15 +679,12 @@ Calculate at: ${window.location.href}`;
                         <div>
                             <h5 class="font-semibold text-blue-700 mb-2">Vehicle Cost Calculators</h5>
                             <ul class="space-y-1">
-                                <li><a href="fuel-cost-calculator.php" class="text-blue-600 hover:text-blue-800 hover:underline">Fuel Cost Calculator</a></li>
-                                <li><a href="fuel-consumption-calculator.php" class="text-blue-600 hover:text-blue-800 hover:underline">Fuel Consumption Calculator</a></li>
                                 <li><a href="car-loan-emi-calculator.php" class="text-blue-600 hover:text-blue-800 hover:underline">Car Loan EMI Calculator</a></li>
                             </ul>
                         </div>
                         <div>
                             <h5 class="font-semibold text-blue-700 mb-2">Distance & Speed Tools</h5>
                             <ul class="space-y-1">
-                                <li><a href="distance-calculator.php" class="text-blue-600 hover:text-blue-800 hover:underline">Distance Calculator</a></li>
                                 <li><a href="average-speed-calculator.php" class="text-blue-600 hover:text-blue-800 hover:underline">Average Speed Calculator</a></li>
                                 <li><a href="km-to-miles.php" class="text-blue-600 hover:text-blue-800 hover:underline">KM to Miles Converter</a></li>
                             </ul>
@@ -695,8 +692,6 @@ Calculate at: ${window.location.href}`;
                         <div>
                             <h5 class="font-semibold text-blue-700 mb-2">Financial Calculators</h5>
                             <ul class="space-y-1">
-                                <li><a href="emi-calculator.php" class="text-blue-600 hover:text-blue-800 hover:underline">EMI Calculator</a></li>
-                                <li><a href="discount-calculator.php" class="text-blue-600 hover:text-blue-800 hover:underline">Discount Calculator</a></li>
                                 <li><a href="percentage-calculator.php" class="text-blue-600 hover:text-blue-800 hover:underline">Percentage Calculator</a></li>
                             </ul>
                         </div>
@@ -794,12 +789,8 @@ Calculate at: ${window.location.href}`;
                         <ul class="space-y-1">
                             <li><a href="miles-to-km.php" class="text-green-600 hover:text-green-800 hover:underline">Miles to Kilometers Converter</a></li>
                             <li><a href="km-to-miles.php" class="text-green-600 hover:text-green-800 hover:underline">Kilometers to Miles Converter</a></li>
-                            <li><a href="liter-to-gallon-us.php" class="text-green-600 hover:text-green-800 hover:underline">Liter to Gallon Converter</a></li>
-                        </ul>
+                            </ul>
                         <ul class="space-y-1">
-                            <li><a href="weight-and-mass-converter.php" class="text-green-600 hover:text-green-800 hover:underline">Weight & Mass Converter</a></li>
-                            <li><a href="length-converter.php" class="text-green-600 hover:text-green-800 hover:underline">Length Converter Tool</a></li>
-                            <li><a href="temperature-converterl.php" class="text-green-600 hover:text-green-800 hover:underline">Temperature Converter</a></li>
                         </ul>
                     </div>
                 </div>
@@ -901,14 +892,9 @@ Calculate at: ${window.location.href}`;
                     <h5 class="font-semibold text-yellow-800 mb-2">💰 Financial Planning Calculators</h5>
                     <div class="grid md:grid-cols-2 gap-3 text-sm">
                         <ul class="space-y-1">
-                            <li><a href="loan-calculator.php" class="text-yellow-600 hover:text-yellow-800 hover:underline">Loan Calculator Tool</a></li>
                             <li><a href="compound-interest-calculator.php" class="text-yellow-600 hover:text-yellow-800 hover:underline">Compound Interest Calculator</a></li>
-                            <li><a href="investment-calculator.php" class="text-yellow-600 hover:text-yellow-800 hover:underline">Investment Return Calculator</a></li>
                         </ul>
                         <ul class="space-y-1">
-                            <li><a href="savings-calculator.php" class="text-yellow-600 hover:text-yellow-800 hover:underline">Savings Goal Calculator</a></li>
-                            <li><a href="tip-calculator.php" class="text-yellow-600 hover:text-yellow-800 hover:underline">Tip Calculator</a></li>
-                            <li><a href="tax-calculator.php" class="text-yellow-600 hover:text-yellow-800 hover:underline">Tax Calculator</a></li>
                         </ul>
                     </div>
                 </div>
@@ -1172,7 +1158,7 @@ Calculate at: ${window.location.href}`;
                             <a href="fuel-cost-calculator.php" class="bg-amber-100 text-amber-700 px-2 py-1 rounded hover:bg-amber-200">Fuel Cost Calculator</a>
                             <a href="car-loan-emi-calculator.php" class="bg-amber-100 text-amber-700 px-2 py-1 rounded hover:bg-amber-200">Car Loan EMI</a>
                             <a href="distance-calculator.php" class="bg-amber-100 text-amber-700 px-2 py-1 rounded hover:bg-amber-200">Distance Calculator</a>
-                            <a href="tip-calculator.php" class="bg-amber-100 text-amber-700 px-2 py-1 rounded hover:bg-amber-200">Tip Calculator</a>
+                            
                             <a href="percentage-calculator.php" class="bg-amber-100 text-amber-700 px-2 py-1 rounded hover:bg-amber-200">Percentage Calculator</a>
                             <a href="loan-calculator.php" class="bg-amber-100 text-amber-700 px-2 py-1 rounded hover:bg-amber-200">Loan Calculator</a>
                             <a href="bmi-calculator.php" class="bg-amber-100 text-amber-700 px-2 py-1 rounded hover:bg-amber-200">BMI Calculator</a>

@@ -211,9 +211,7 @@ function clearInputs() {
                         <h5 class="font-semibold text-blue-700 mb-2">Speed Conversions</h5>
                         <ul class="space-y-1">
                             <li><a href="mbps-to-kbps.php" class="text-blue-600 hover:text-blue-800 hover:underline">Mbps to Kbps Converter</a></li>
-                            <li><a href="mbps-to-gbps.php" class="text-blue-600 hover:text-blue-800 hover:underline">Mbps to Gbps Converter</a></li>
-                            <li><a href="gbps-to-mbps.php" class="text-blue-600 hover:text-blue-800 hover:underline">Gbps to Mbps Converter</a></li>
-                        </ul>
+                            </ul>
                     </div>
                     <div>
                         <h5 class="font-semibold text-blue-700 mb-2">Data Size Conversions</h5>
@@ -226,9 +224,6 @@ function clearInputs() {
                     <div>
                         <h5 class="font-semibold text-blue-700 mb-2">Network Tools</h5>
                         <ul class="space-y-1">
-                            <li><a href="download-time-calculator.php" class="text-blue-600 hover:text-blue-800 hover:underline">Download Time Calculator</a></li>
-                            <li><a href="bandwidth-calculator.php" class="text-blue-600 hover:text-blue-800 hover:underline">Bandwidth Calculator</a></li>
-                            <li><a href="data-transfer-calculator.php" class="text-blue-600 hover:text-blue-800 hover:underline">Data Transfer Calculator</a></li>
                         </ul>
                     </div>
                 </div>
@@ -338,11 +333,8 @@ function clearInputs() {
                     <ul class="space-y-1">
                         <li><a href="percentage-calculator.php" class="text-green-600 hover:text-green-800 hover:underline">Percentage Calculator</a></li>
                         <li><a href="average-calculator.php" class="text-green-600 hover:text-green-800 hover:underline">Average Calculator</a></li>
-                        <li><a href="ratio-calculator.php" class="text-green-600 hover:text-green-800 hover:underline">Ratio Calculator</a></li>
                     </ul>
                     <ul class="space-y-1">
-                        <li><a href="time-calculator.php" class="text-green-600 hover:text-green-800 hover:underline">Time Calculator</a></li>
-                        <li><a href="discount-calculator.php" class="text-green-600 hover:text-green-800 hover:underline">Discount Calculator</a></li>
                         <li><a href="age-calculator.php" class="text-green-600 hover:text-green-800 hover:underline">Age Calculator</a></li>
                     </ul>
                 </div>
@@ -460,8 +452,6 @@ function clearInputs() {
                         <li><a href="uuid-generator.php" class="text-yellow-600 hover:text-yellow-800 hover:underline">UUID Generator</a></li>
                     </ul>
                     <ul class="space-y-1">
-                        <li><a href="md5-hash-generator.php" class="text-yellow-600 hover:text-yellow-800 hover:underline">MD5 Hash Generator</a></li>
-                        <li><a href="javascript-beautifier.php" class="text-yellow-600 hover:text-yellow-800 hover:underline">JavaScript Beautifier</a></li>
                         <li><a href="css-minifier.php" class="text-yellow-600 hover:text-yellow-800 hover:underline">CSS Minifier</a></li>
                     </ul>
                 </div>
@@ -690,10 +680,9 @@ function clearInputs() {
                     <h5 class="font-semibold text-gray-800 mb-2">🌐 Related Network & Technical Tools</h5>
                     <div class="flex flex-wrap gap-2 text-xs">
                         <a href="mbps-to-kbps.php" class="bg-blue-100 text-blue-700 px-2 py-1 rounded hover:bg-blue-200">Mbps to Kbps</a>
-                        <a href="mbps-to-gbps.php" class="bg-blue-100 text-blue-700 px-2 py-1 rounded hover:bg-blue-200">Mbps to Gbps</a>
+                        
                         <a href="byte-to-megabit.php" class="bg-blue-100 text-blue-700 px-2 py-1 rounded hover:bg-blue-200">Byte to Megabit</a>
                         <a href="percentage-calculator.php" class="bg-blue-100 text-blue-700 px-2 py-1 rounded hover:bg-blue-200">Percentage Calculator</a>
-                        <a href="time-calculator.php" class="bg-blue-100 text-blue-700 px-2 py-1 rounded hover:bg-blue-200">Time Calculator</a>
                         <a href="average-calculator.php" class="bg-blue-100 text-blue-700 px-2 py-1 rounded hover:bg-blue-200">Average Calculator</a>
                         <a href="bmi-calculator.php" class="bg-blue-100 text-blue-700 px-2 py-1 rounded hover:bg-blue-200">BMI Calculator</a>
                     </div>

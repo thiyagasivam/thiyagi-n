@@ -733,26 +733,19 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
                         <div>
                             <h5 class="font-semibold text-blue-700 mb-2">ID & Code Generators</h5>
                             <ul class="space-y-1">
-                                <li><a href="password-generator.php" class="text-blue-600 hover:text-blue-800 hover:underline">Secure Password Generator</a></li>
-                                <li><a href="qr-code-generator.php" class="text-blue-600 hover:text-blue-800 hover:underline">QR Code Generator Tool</a></li>
-                                <li><a href="random-number-generator.php" class="text-blue-600 hover:text-blue-800 hover:underline">Random Number Generator</a></li>
-                            </ul>
+                                </ul>
                         </div>
                         <div>
                             <h5 class="font-semibold text-blue-700 mb-2">Code Formatters</h5>
                             <ul class="space-y-1">
                                 <li><a href="javascript-beautifier.php" class="text-blue-600 hover:text-blue-800 hover:underline">JavaScript Beautifier</a></li>
                                 <li><a href="css-beautifier.php" class="text-blue-600 hover:text-blue-800 hover:underline">CSS Code Formatter</a></li>
-                                <li><a href="json-formatter.php" class="text-blue-600 hover:text-blue-800 hover:underline">JSON Formatter & Validator</a></li>
-                            </ul>
+                                </ul>
                         </div>
                         <div>
                             <h5 class="font-semibold text-blue-700 mb-2">Encoding Tools</h5>
                             <ul class="space-y-1">
-                                <li><a href="base64-encode-decode.php" class="text-blue-600 hover:text-blue-800 hover:underline">Base64 Encoder/Decoder</a></li>
-                                <li><a href="url-encoder-decoder.php" class="text-blue-600 hover:text-blue-800 hover:underline">URL Encoder/Decoder</a></li>
-                                <li><a href="md5-hash-generator.php" class="text-blue-600 hover:text-blue-800 hover:underline">MD5 Hash Generator</a></li>
-                            </ul>
+                                </ul>
                         </div>
                     </div>
                 </div>
@@ -839,10 +832,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
                             <li><a href="javascript-minifier.php" class="text-green-600 hover:text-green-800 hover:underline">JavaScript Minifier</a></li>
                         </ul>
                         <ul class="space-y-1">
-                            <li><a href="xml-beautifier.php" class="text-green-600 hover:text-green-800 hover:underline">XML Formatter Tool</a></li>
-                            <li><a href="sql-formatter.php" class="text-green-600 hover:text-green-800 hover:underline">SQL Query Formatter</a></li>
-                            <li><a href="code-editor.php" class="text-green-600 hover:text-green-800 hover:underline">Online Code Editor</a></li>
-                        </ul>
+                            </ul>
                     </div>
                 </div>
                 
@@ -943,15 +933,10 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
                     <h5 class="font-semibold text-yellow-800 mb-2">🔐 Security & Encryption Tools</h5>
                     <div class="grid md:grid-cols-2 gap-3 text-sm">
                         <ul class="space-y-1">
-                            <li><a href="password-generator.php" class="text-yellow-600 hover:text-yellow-800 hover:underline">Strong Password Generator</a></li>
-                            <li><a href="sha256-hash-generator.php" class="text-yellow-600 hover:text-yellow-800 hover:underline">SHA256 Hash Generator</a></li>
-                            <li><a href="md5-hash-generator.php" class="text-yellow-600 hover:text-yellow-800 hover:underline">MD5 Hash Calculator</a></li>
-                        </ul>
+                            </ul>
                         <ul class="space-y-1">
                             <li><a href="credit-card-generator.php" class="text-yellow-600 hover:text-yellow-800 hover:underline">Credit Card Generator (Testing)</a></li>
-                            <li><a href="random-string-generator.php" class="text-yellow-600 hover:text-yellow-800 hover:underline">Random String Generator</a></li>
-                            <li><a href="token-generator.php" class="text-yellow-600 hover:text-yellow-800 hover:underline">API Token Generator</a></li>
-                        </ul>
+                            </ul>
                     </div>
                 </div>
                 
@@ -1221,11 +1206,11 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
                     <div class="mt-4 pt-4 border-t border-gray-300">
                         <h5 class="font-semibold text-gray-800 mb-2">🛠️ Additional Developer Utilities & Tools</h5>
                         <div class="flex flex-wrap gap-2 text-xs">
-                            <a href="qr-code-generator.php" class="bg-purple-100 text-purple-700 px-2 py-1 rounded hover:bg-purple-200">QR Code Generator</a>
-                            <a href="password-generator.php" class="bg-purple-100 text-purple-700 px-2 py-1 rounded hover:bg-purple-200">Password Generator</a>
-                            <a href="json-formatter.php" class="bg-purple-100 text-purple-700 px-2 py-1 rounded hover:bg-purple-200">JSON Formatter</a>
-                            <a href="base64-encode-decode.php" class="bg-purple-100 text-purple-700 px-2 py-1 rounded hover:bg-purple-200">Base64 Encoder</a>
-                            <a href="url-encoder-decoder.php" class="bg-purple-100 text-purple-700 px-2 py-1 rounded hover:bg-purple-200">URL Encoder</a>
+                            
+                            
+                            
+                            
+                            
                             <a href="html-beautifier.php" class="bg-purple-100 text-purple-700 px-2 py-1 rounded hover:bg-purple-200">HTML Beautifier</a>
                             <a href="css-minifier.php" class="bg-purple-100 text-purple-700 px-2 py-1 rounded hover:bg-purple-200">CSS Minifier</a>
                             <a href="javascript-beautifier.php" class="bg-purple-100 text-purple-700 px-2 py-1 rounded hover:bg-purple-200">JS Beautifier</a>

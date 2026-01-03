@@ -266,15 +266,9 @@ echo $header_content;
                 <a href="mph-to-knot.php" class="p-3 bg-emerald-50 rounded-lg hover:bg-emerald-100 transition-colors">
                     <div class="text-sm font-medium text-emerald-800">MPH to Knot</div>
                 </a>
-                <a href="knot-to-kmh.php" class="p-3 bg-emerald-50 rounded-lg hover:bg-emerald-100 transition-colors">
-                    <div class="text-sm font-medium text-emerald-800">Knot to km/h</div>
-                </a>
-                <a href="mph-to-kmh.php" class="p-3 bg-emerald-50 rounded-lg hover:bg-emerald-100 transition-colors">
-                    <div class="text-sm font-medium text-emerald-800">MPH to km/h</div>
-                </a>
-                <a href="mps-to-mph.php" class="p-3 bg-emerald-50 rounded-lg hover:bg-emerald-100 transition-colors">
-                    <div class="text-sm font-medium text-emerald-800">m/s to MPH</div>
-                </a>
+                
+                
+                
             </div>
         </div>
     </div>

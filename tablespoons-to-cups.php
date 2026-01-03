@@ -692,50 +692,6 @@ $canonicalUrl = $isDynamicPage ?
           <h3 class="font-semibold text-gray-900 text-sm mb-1">Cups to Tablespoons</h3>
           <p class="text-xs text-gray-600">Convert cups to tbsp</p>
         </a>
-        <a href="/tablespoons-to-teaspoons.php" class="bg-white rounded-lg p-4 shadow-md hover:shadow-lg transition-all duration-300 border-l-4 border-blue-500">
-          <h3 class="font-semibold text-gray-900 text-sm mb-1">Tablespoons to Teaspoons</h3>
-          <p class="text-xs text-gray-600">Convert tbsp to tsp</p>
-        </a>
-        <a href="/teaspoons-to-tablespoons.php" class="bg-white rounded-lg p-4 shadow-md hover:shadow-lg transition-all duration-300 border-l-4 border-indigo-500">
-          <h3 class="font-semibold text-gray-900 text-sm mb-1">Teaspoons to Tablespoons</h3>
-          <p class="text-xs text-gray-600">Convert tsp to tbsp</p>
-        </a>
-        <a href="/cups-to-ml.php" class="bg-white rounded-lg p-4 shadow-md hover:shadow-lg transition-all duration-300 border-l-4 border-purple-500">
-          <h3 class="font-semibold text-gray-900 text-sm mb-1">Cups to ML</h3>
-          <p class="text-xs text-gray-600">Convert cups to ml</p>
-        </a>
-        <a href="/ml-to-cups.php" class="bg-white rounded-lg p-4 shadow-md hover:shadow-lg transition-all duration-300 border-l-4 border-pink-500">
-          <h3 class="font-semibold text-gray-900 text-sm mb-1">ML to Cups</h3>
-          <p class="text-xs text-gray-600">Convert ml to cups</p>
-        </a>
-        <a href="/ounces-to-cups.php" class="bg-white rounded-lg p-4 shadow-md hover:shadow-lg transition-all duration-300 border-l-4 border-red-500">
-          <h3 class="font-semibold text-gray-900 text-sm mb-1">Ounces to Cups</h3>
-          <p class="text-xs text-gray-600">Convert oz to cups</p>
-        </a>
-        <a href="/cups-to-ounces.php" class="bg-white rounded-lg p-4 shadow-md hover:shadow-lg transition-all duration-300 border-l-4 border-orange-500">
-          <h3 class="font-semibold text-gray-900 text-sm mb-1">Cups to Ounces</h3>
-          <p class="text-xs text-gray-600">Convert cups to oz</p>
-        </a>
-        <a href="/gallons-to-ounces.php" class="bg-white rounded-lg p-4 shadow-md hover:shadow-lg transition-all duration-300 border-l-4 border-yellow-500">
-          <h3 class="font-semibold text-gray-900 text-sm mb-1">Gallons to Ounces</h3>
-          <p class="text-xs text-gray-600">Convert gal to oz</p>
-        </a>
-        <a href="/ounces-to-gallons.php" class="bg-white rounded-lg p-4 shadow-md hover:shadow-lg transition-all duration-300 border-l-4 border-green-500">
-          <h3 class="font-semibold text-gray-900 text-sm mb-1">Ounces to Gallons</h3>
-          <p class="text-xs text-gray-600">Convert oz to gal</p>
-        </a>
-        <a href="/liters-to-cups.php" class="bg-white rounded-lg p-4 shadow-md hover:shadow-lg transition-all duration-300 border-l-4 border-teal-500">
-          <h3 class="font-semibold text-gray-900 text-sm mb-1">Liters to Cups</h3>
-          <p class="text-xs text-gray-600">Convert L to cups</p>
-        </a>
-        <a href="/cups-to-liters.php" class="bg-white rounded-lg p-4 shadow-md hover:shadow-lg transition-all duration-300 border-l-4 border-cyan-600">
-          <h3 class="font-semibold text-gray-900 text-sm mb-1">Cups to Liters</h3>
-          <p class="text-xs text-gray-600">Convert cups to L</p>
-        </a>
-        <a href="/pints-to-cups.php" class="bg-white rounded-lg p-4 shadow-md hover:shadow-lg transition-all duration-300 border-l-4 border-blue-600">
-          <h3 class="font-semibold text-gray-900 text-sm mb-1">Pints to Cups</h3>
-          <p class="text-xs text-gray-600">Convert pt to cups</p>
-        </a>
       </div>
     </div>
   </section>

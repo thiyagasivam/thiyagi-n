@@ -192,8 +192,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
                             <ul class="space-y-1">
                                 <li><a href="css-beautifier.php" class="text-blue-600 hover:text-blue-800 hover:underline">CSS Beautifier & Formatter</a></li>
                                 <li><a href="html-beautifier.php" class="text-blue-600 hover:text-blue-800 hover:underline">HTML Code Beautifier</a></li>
-                                <li><a href="xml-beautifier.php" class="text-blue-600 hover:text-blue-800 hover:underline">XML Formatter Tool</a></li>
-                            </ul>
+                                </ul>
                         </div>
                         <div>
                             <h5 class="font-semibold text-blue-700 mb-2">Code Minifiers & Optimizers</h5>
@@ -206,10 +205,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
                         <div>
                             <h5 class="font-semibold text-blue-700 mb-2">Developer Utilities</h5>
                             <ul class="space-y-1">
-                                <li><a href="json-formatter.php" class="text-blue-600 hover:text-blue-800 hover:underline">JSON Formatter & Validator</a></li>
-                                <li><a href="base64-encode-decode.php" class="text-blue-600 hover:text-blue-800 hover:underline">Base64 Encoder/Decoder</a></li>
-                                <li><a href="url-encoder-decoder.php" class="text-blue-600 hover:text-blue-800 hover:underline">URL Encoder/Decoder</a></li>
-                            </ul>
+                                </ul>
                         </div>
                     </div>
                 </div>
@@ -304,8 +300,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
                         <ul class="space-y-1">
                             <li><a href="binary-to-base-10.php" class="text-green-600 hover:text-green-800 hover:underline">Binary to Decimal Converter</a></li>
                             <li><a href="decimal-to-ascii-converter.php" class="text-green-600 hover:text-green-800 hover:underline">Decimal to ASCII Converter</a></li>
-                            <li><a href="word-counter.php" class="text-green-600 hover:text-green-800 hover:underline">Word Counter & Character Count</a></li>
-                        </ul>
+                            </ul>
                     </div>
                 </div>
                 
@@ -346,8 +341,6 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
                             <li><a href="credit-card-generator.php" class="text-yellow-600 hover:text-yellow-800 hover:underline">Credit Card Generator (Testing)</a></li>
                         </ul>
                         <ul class="space-y-1">
-                            <li><a href="password-generator.php" class="text-yellow-600 hover:text-yellow-800 hover:underline">Secure Password Generator</a></li>
-                            <li><a href="qr-code-generator.php" class="text-yellow-600 hover:text-yellow-800 hover:underline">QR Code Generator</a></li>
                             <li><a href="image-converter.php" class="text-yellow-600 hover:text-yellow-800 hover:underline">Image Format Converter</a></li>
                         </ul>
                     </div>
@@ -694,12 +687,12 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
                         <div class="flex flex-wrap gap-2 text-xs">
                             <a href="css-beautifier.php" class="bg-blue-100 text-blue-700 px-2 py-1 rounded hover:bg-blue-200">CSS Beautifier</a>
                             <a href="html-beautifier.php" class="bg-blue-100 text-blue-700 px-2 py-1 rounded hover:bg-blue-200">HTML Formatter</a>
-                            <a href="json-formatter.php" class="bg-blue-100 text-blue-700 px-2 py-1 rounded hover:bg-blue-200">JSON Formatter</a>
-                            <a href="xml-beautifier.php" class="bg-blue-100 text-blue-700 px-2 py-1 rounded hover:bg-blue-200">XML Beautifier</a>
-                            <a href="sql-formatter.php" class="bg-blue-100 text-blue-700 px-2 py-1 rounded hover:bg-blue-200">SQL Formatter</a>
-                            <a href="markdown-editor.php" class="bg-blue-100 text-blue-700 px-2 py-1 rounded hover:bg-blue-200">Markdown Editor</a>
-                            <a href="code-editor.php" class="bg-blue-100 text-blue-700 px-2 py-1 rounded hover:bg-blue-200">Online Code Editor</a>
-                            <a href="regex-tester.php" class="bg-blue-100 text-blue-700 px-2 py-1 rounded hover:bg-blue-200">Regex Tester</a>
+                            
+                            
+                            
+                            
+                            
+                            
                         </div>
                     </div>
                 </div>

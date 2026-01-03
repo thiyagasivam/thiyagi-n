@@ -440,22 +440,18 @@ window.addEventListener('DOMContentLoaded', () => {
                         <h5 class="font-semibold text-blue-700 mb-2">Teaspoon Conversions</h5>
                         <ul class="space-y-1">
                             <li><a href="teaspoon-to-ml.php" class="text-blue-600 hover:text-blue-800 hover:underline">Teaspoon to ML Converter</a></li>
-                            <li><a href="teaspoon-to-tablespoon.php" class="text-blue-600 hover:text-blue-800 hover:underline">Teaspoon to Tablespoon</a></li>
-                            <li><a href="teaspoon-to-cup.php" class="text-blue-600 hover:text-blue-800 hover:underline">Teaspoon to Cup</a></li>
-                        </ul>
+                            </ul>
                     </div>
                     <div>
                         <h5 class="font-semibold text-blue-700 mb-2">Milliliter Conversions</h5>
                         <ul class="space-y-1">
                             <li><a href="ml-to-tablespoon.php" class="text-blue-600 hover:text-blue-800 hover:underline">ML to Tablespoon</a></li>
                             <li><a href="ml-to-cup.php" class="text-blue-600 hover:text-blue-800 hover:underline">ML to Cup Converter</a></li>
-                            <li><a href="ml-to-oz.php" class="text-blue-600 hover:text-blue-800 hover:underline">ML to Ounce Converter</a></li>
                         </ul>
                     </div>
                     <div>
                         <h5 class="font-semibold text-blue-700 mb-2">Other Volume Tools</h5>
                         <ul class="space-y-1">
-                            <li><a href="liter-to-gallon-us.php" class="text-blue-600 hover:text-blue-800 hover:underline">Liter to Gallon</a></li>
                             <li><a href="cup-to-ml.php" class="text-blue-600 hover:text-blue-800 hover:underline">Cup to ML Converter</a></li>
                             <li><a href="tablespoon-to-ml.php" class="text-blue-600 hover:text-blue-800 hover:underline">Tablespoon to ML</a></li>
                         </ul>
@@ -686,13 +682,9 @@ window.addEventListener('DOMContentLoaded', () => {
                 <div class="grid md:grid-cols-2 gap-3 text-sm">
                     <ul class="space-y-1">
                         <li><a href="percentage-calculator.php" class="text-yellow-600 hover:text-yellow-800 hover:underline">Percentage Calculator</a></li>
-                        <li><a href="fraction-calculator.php" class="text-yellow-600 hover:text-yellow-800 hover:underline">Fraction Calculator</a></li>
-                        <li><a href="ratio-calculator.php" class="text-yellow-600 hover:text-yellow-800 hover:underline">Ratio Calculator</a></li>
-                    </ul>
+                        </ul>
                     <ul class="space-y-1">
                         <li><a href="average-calculator.php" class="text-yellow-600 hover:text-yellow-800 hover:underline">Average Calculator</a></li>
-                        <li><a href="discount-calculator.php" class="text-yellow-600 hover:text-yellow-800 hover:underline">Discount Calculator</a></li>
-                        <li><a href="time-calculator.php" class="text-yellow-600 hover:text-yellow-800 hover:underline">Time Calculator</a></li>
                     </ul>
                 </div>
             </div>
@@ -924,7 +916,7 @@ window.addEventListener('DOMContentLoaded', () => {
                         <a href="gram-to-ounce.php" class="bg-indigo-100 text-indigo-700 px-2 py-1 rounded hover:bg-indigo-200">Gram to Ounce</a>
                         <a href="celsius-to-fahrenheit.php" class="bg-indigo-100 text-indigo-700 px-2 py-1 rounded hover:bg-indigo-200">Temperature Converter</a>
                         <a href="percentage-calculator.php" class="bg-indigo-100 text-indigo-700 px-2 py-1 rounded hover:bg-indigo-200">Percentage Calculator</a>
-                        <a href="fraction-calculator.php" class="bg-indigo-100 text-indigo-700 px-2 py-1 rounded hover:bg-indigo-200">Fraction Calculator</a>
+                        
                         <a href="bmi-calculator.php" class="bg-indigo-100 text-indigo-700 px-2 py-1 rounded hover:bg-indigo-200">BMI Calculator</a>
                     </div>
                 </div>

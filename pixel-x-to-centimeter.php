@@ -189,8 +189,6 @@ document.getElementById('dpiInput').addEventListener('input', convertPixelToCm);
                         <h5 class="font-semibold text-indigo-700 mb-2">Pixel Conversions</h5>
                         <ul class="space-y-1">
                             <li><a href="centimeter-to-pixel-x.php" class="text-indigo-600 hover:text-indigo-800 hover:underline">Centimeter to Pixel</a></li>
-                            <li><a href="pixel-to-inch.php" class="text-indigo-600 hover:text-indigo-800 hover:underline">Pixel to Inch</a></li>
-                            <li><a href="inch-to-pixel.php" class="text-indigo-600 hover:text-indigo-800 hover:underline">Inch to Pixel</a></li>
                         </ul>
                     </div>
                     <div>
@@ -204,9 +202,6 @@ document.getElementById('dpiInput').addEventListener('input', convertPixelToCm);
                     <div>
                         <h5 class="font-semibold text-indigo-700 mb-2">Design Tools</h5>
                         <ul class="space-y-1">
-                            <li><a href="color-picker.php" class="text-indigo-600 hover:text-indigo-800 hover:underline">Color Picker</a></li>
-                            <li><a href="image-resizer.php" class="text-indigo-600 hover:text-indigo-800 hover:underline">Image Resizer</a></li>
-                            <li><a href="aspect-ratio-calculator.php" class="text-indigo-600 hover:text-indigo-800 hover:underline">Aspect Ratio Calculator</a></li>
                         </ul>
                     </div>
                 </div>
@@ -301,14 +296,8 @@ document.getElementById('dpiInput').addEventListener('input', convertPixelToCm);
                 <h5 class="font-semibold text-purple-800 mb-2">🎨 Design & Development Tools</h5>
                 <div class="grid md:grid-cols-2 gap-3 text-sm">
                     <ul class="space-y-1">
-                        <li><a href="image-compressor.php" class="text-purple-600 hover:text-purple-800 hover:underline">Image Compressor</a></li>
-                        <li><a href="color-contrast-checker.php" class="text-purple-600 hover:text-purple-800 hover:underline">Color Contrast Checker</a></li>
-                        <li><a href="font-size-converter.php" class="text-purple-600 hover:text-purple-800 hover:underline">Font Size Converter</a></li>
                     </ul>
                     <ul class="space-y-1">
-                        <li><a href="css-unit-converter.php" class="text-purple-600 hover:text-purple-800 hover:underline">CSS Unit Converter</a></li>
-                        <li><a href="svg-optimizer.php" class="text-purple-600 hover:text-purple-800 hover:underline">SVG Optimizer</a></li>
-                        <li><a href="screen-resolution-calculator.php" class="text-purple-600 hover:text-purple-800 hover:underline">Screen Resolution Calculator</a></li>
                     </ul>
                 </div>
             </div>
@@ -536,11 +525,7 @@ document.getElementById('dpiInput').addEventListener('input', convertPixelToCm);
                     <h5 class="font-semibold text-gray-800 mb-2">📐 Related Measurement & Design Tools</h5>
                     <div class="flex flex-wrap gap-2 text-xs">
                         <a href="centimeter-to-pixel-x.php" class="bg-indigo-100 text-indigo-700 px-2 py-1 rounded hover:bg-indigo-200">CM to Pixel</a>
-                        <a href="inch-to-pixel.php" class="bg-indigo-100 text-indigo-700 px-2 py-1 rounded hover:bg-indigo-200">Inch to Pixel</a>
                         <a href="cm-to-inch.php" class="bg-indigo-100 text-indigo-700 px-2 py-1 rounded hover:bg-indigo-200">CM to Inch</a>
-                        <a href="dpi-calculator.php" class="bg-indigo-100 text-indigo-700 px-2 py-1 rounded hover:bg-indigo-200">DPI Calculator</a>
-                        <a href="aspect-ratio-calculator.php" class="bg-indigo-100 text-indigo-700 px-2 py-1 rounded hover:bg-indigo-200">Aspect Ratio</a>
-                        <a href="image-resizer.php" class="bg-indigo-100 text-indigo-700 px-2 py-1 rounded hover:bg-indigo-200">Image Resizer</a>
                         <a href="percentage-calculator.php" class="bg-indigo-100 text-indigo-700 px-2 py-1 rounded hover:bg-indigo-200">Percentage Calculator</a>
                     </div>
                 </div>

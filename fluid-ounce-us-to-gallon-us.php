@@ -185,9 +185,7 @@
                 <a href="quart-us-to-fluid-ounce-us.php" class="p-3 bg-blue-50 rounded-lg hover:bg-blue-100 transition-colors">
                     <div class="text-sm font-medium text-blue-800">Quart to fl oz</div>
                 </a>
-                <a href="pint-to-fluid-ounce.php" class="p-3 bg-blue-50 rounded-lg hover:bg-blue-100 transition-colors">
-                    <div class="text-sm font-medium text-blue-800">Pint to fl oz</div>
-                </a>
+                
             </div>
         </div>
     </div>

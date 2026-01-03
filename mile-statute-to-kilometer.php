@@ -306,7 +306,6 @@ document.getElementById('kilometerInput').addEventListener('input', function() {
                     <div>
                         <h5 class="font-semibold text-amber-700 mb-2">Mile Conversions</h5>
                         <ul class="space-y-1">
-                            <li><a href="kilometer-to-mile-statute.php" class="text-amber-600 hover:text-amber-800 hover:underline">Kilometer to Mile Converter</a></li>
                             <li><a href="mile-to-meter.php" class="text-amber-600 hover:text-amber-800 hover:underline">Mile to Meter</a></li>
                             <li><a href="mile-to-feet.php" class="text-amber-600 hover:text-amber-800 hover:underline">Mile to Feet</a></li>
                         </ul>
@@ -314,7 +313,6 @@ document.getElementById('kilometerInput').addEventListener('input', function() {
                     <div>
                         <h5 class="font-semibold text-amber-700 mb-2">Distance Measurements</h5>
                         <ul class="space-y-1">
-                            <li><a href="km-to-meter.php" class="text-amber-600 hover:text-amber-800 hover:underline">KM to Meter</a></li>
                             <li><a href="meter-to-feet.php" class="text-amber-600 hover:text-amber-800 hover:underline">Meter to Feet</a></li>
                             <li><a href="feet-to-meter.php" class="text-amber-600 hover:text-amber-800 hover:underline">Feet to Meter</a></li>
                         </ul>
@@ -437,7 +435,6 @@ document.getElementById('kilometerInput').addEventListener('input', function() {
                         <li><a href="fuel-consumption-calculator.php" class="text-blue-600 hover:text-blue-800 hover:underline">Fuel Calculator</a></li>
                     </ul>
                     <ul class="space-y-1">
-                        <li><a href="time-calculator.php" class="text-blue-600 hover:text-blue-800 hover:underline">Time Calculator</a></li>
                         <li><a href="average-speed-calculator.php" class="text-blue-600 hover:text-blue-800 hover:underline">Average Speed</a></li>
                         <li><a href="car-loan-emi-calculator.php" class="text-blue-600 hover:text-blue-800 hover:underline">Car Loan Calculator</a></li>
                     </ul>
@@ -680,9 +677,9 @@ document.getElementById('kilometerInput').addEventListener('input', function() {
                 <div class="mt-4 pt-4 border-t border-gray-300">
                     <h5 class="font-semibold text-gray-800 mb-2">🗺️ Related Distance & Navigation Tools</h5>
                     <div class="flex flex-wrap gap-2 text-xs">
-                        <a href="kilometer-to-mile-statute.php" class="bg-amber-100 text-amber-700 px-2 py-1 rounded hover:bg-amber-200">KM to Mile</a>
+                        
                         <a href="mile-to-meter.php" class="bg-amber-100 text-amber-700 px-2 py-1 rounded hover:bg-amber-200">Mile to Meter</a>
-                        <a href="km-to-meter.php" class="bg-amber-100 text-amber-700 px-2 py-1 rounded hover:bg-amber-200">KM to Meter</a>
+                        
                         <a href="meter-to-feet.php" class="bg-amber-100 text-amber-700 px-2 py-1 rounded hover:bg-amber-200">Meter to Feet</a>
                         <a href="distance-calculator.php" class="bg-amber-100 text-amber-700 px-2 py-1 rounded hover:bg-amber-200">Distance Calculator</a>
                         <a href="speed-calculator.php" class="bg-amber-100 text-amber-700 px-2 py-1 rounded hover:bg-amber-200">Speed Calculator</a>

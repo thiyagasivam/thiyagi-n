@@ -148,18 +148,10 @@
         <div class="bg-white rounded-xl shadow-lg p-6">
             <h3 class="text-xl font-bold text-gray-900 mb-6">Related Concentration Converters</h3>
             <div class="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-4">
-                <a href="ppm-to-mg-l.php" class="p-3 bg-purple-50 rounded-lg hover:bg-purple-100 transition-colors">
-                    <div class="text-sm font-medium text-purple-800">PPM to mg/L</div>
-                </a>
-                <a href="ppm-to-percent.php" class="p-3 bg-purple-50 rounded-lg hover:bg-purple-100 transition-colors">
-                    <div class="text-sm font-medium text-purple-800">PPM to Percent</div>
-                </a>
-                <a href="molarity-to-ppm.php" class="p-3 bg-purple-50 rounded-lg hover:bg-purple-100 transition-colors">
-                    <div class="text-sm font-medium text-purple-800">Molarity to PPM</div>
-                </a>
-                <a href="ppb-to-ppm.php" class="p-3 bg-purple-50 rounded-lg hover:bg-purple-100 transition-colors">
-                    <div class="text-sm font-medium text-purple-800">PPB to PPM</div>
-                </a>
+                
+                
+                
+                
             </div>
         </div>
     </div>

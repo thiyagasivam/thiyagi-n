@@ -199,9 +199,7 @@ echo $header_content;
         <div class="bg-white rounded-xl shadow-lg p-6">
             <h3 class="text-xl font-bold text-gray-900 mb-6">Related Volume Converters</h3>
             <div class="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-4">
-                <a href="ml-to-fluid-ounce.php" class="p-3 bg-blue-50 rounded-lg hover:bg-blue-100 transition-colors">
-                    <div class="text-sm font-medium text-blue-800">mL to Fluid Ounce</div>
-                </a>
+                
                 <a href="fluid-ounce-us-to-gallon-us.php" class="p-3 bg-blue-50 rounded-lg hover:bg-blue-100 transition-colors">
                     <div class="text-sm font-medium text-blue-800">fl oz to US Gallon</div>
                 </a>
