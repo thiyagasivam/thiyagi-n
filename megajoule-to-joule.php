@@ -1,6 +1,7 @@
 <?php include 'header.php'; ?>
 
 <!-- SEO Meta Tags -->
+<link rel="canonical" href="https://www.thiyagi.com/C:/xampp/htdocs/live/thiyagi-n/megajoule-to-joule">
 <title>Megajoule to Joule Converter 2026 - Energy Calculator | Thiyagi</title>
 <meta name="description" content="Free online megajoule to joule converter 2026. Convert MJ to J instantly with accurate energy conversion for physics and engineering calculations.">
 <meta name="keywords" content="megajoule to joule converter 2026, MJ to J, energy converter, physics calculator, engineering converter">

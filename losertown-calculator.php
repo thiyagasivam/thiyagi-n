@@ -7,8 +7,7 @@
     <meta name="description" content="Losertown weight loss calculator 2026 - predict weight loss timeline with metabolic adaptation, plateau effects, and realistic projections based on scientific research.">
     <meta name="keywords" content="losertown calculator 2026, weight loss prediction, metabolic adaptation, weight loss timeline, plateau calculator, diet prediction">
     <meta name="author" content="Thiyagi">
-    <meta name="robots" content="index, follow">
-    
+        
     <!-- Open Graph Meta Tags -->
     <meta property="og:title" content="Losertown Weight Loss Calculator 2026 - Metabolic Adaptation Predictor">
     <meta property="og:description" content="Predict realistic weight loss timeline with metabolic adaptation and plateau effects.">

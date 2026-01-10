@@ -1,6 +1,7 @@
 <?php include 'header.php'; ?>
 
 <!-- SEO Meta Tags -->
+<link rel="canonical" href="https://www.thiyagi.com/C:/xampp/htdocs/live/thiyagi-n/light-year-to-meter">
 <title>Light Year to Meter Converter 2026 - ly to m Astronomical Distance Calculator | Thiyagi</title>
 <meta name="description" content="Free online Light Year to Meter converter 2026. Convert ly to m and m to ly instantly with accurate astronomical distance conversion.">
 <meta name="keywords" content="light year to meter converter 2026, ly to m, astronomical distance, space measurement calculator">

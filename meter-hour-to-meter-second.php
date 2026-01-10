@@ -1,6 +1,7 @@
 <?php include 'header.php'; ?>
 
 <!-- SEO Meta Tags -->
+<link rel="canonical" href="https://www.thiyagi.com/C:/xampp/htdocs/live/thiyagi-n/meter-hour-to-meter-second">
 <title>Meter Hour to Meter Second Converter 2026 - m/h to m/s Calculator | Thiyagi</title>
 <meta name="description" content="Free online Meter Hour to Meter Second converter 2026. Convert m/h to m/s and m/s to m/h instantly with accurate velocity conversion.">
 <meta name="keywords" content="meter hour to meter second converter 2026, m/h to m/s, velocity converter, speed units, motion analysis">

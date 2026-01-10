@@ -7,8 +7,7 @@
     <meta name="description" content="Hebrew birthday calculator 2026 - convert Gregorian dates to Hebrew calendar, find your Hebrew birthday, and calculate upcoming Hebrew anniversaries.">
     <meta name="keywords" content="hebrew birthday calculator 2026, jewish calendar converter, hebrew date calculator, jewish birthday finder, hebrew calendar conversion">
     <meta name="author" content="Thiyagi">
-    <meta name="robots" content="index, follow">
-    
+        
     <!-- Open Graph Meta Tags -->
     <meta property="og:title" content="Hebrew Birthday Calculator 2026 - Convert Gregorian to Hebrew Calendar">
     <meta property="og:description" content="Convert your birthday to Hebrew calendar, find Hebrew dates, and calculate Jewish calendar anniversaries.">

@@ -49,7 +49,8 @@ if ($units > 0) {
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>UPCL Bill Calculator (2026) - Uttarakhand Electricity Bill Estimator</title>
+    <link rel="canonical" href="https://www.thiyagi.com/C:/xampp/htdocs/live/thiyagi-n/electricity-board/upcl-electricity-bill-calculator-uttarakhand">
+<title>UPCL Bill Calculator (2026) - Uttarakhand Electricity Bill Estimator</title>
     <meta name="description" content="Calculate your UPCL electricity bill for 2026 based on domestic residential tariff slabs. Includes fixed charges and accurate calculations.">
     
     <!-- Tailwind CSS via CDN -->

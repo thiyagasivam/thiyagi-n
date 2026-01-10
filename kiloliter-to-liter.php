@@ -1,6 +1,7 @@
 <?php include 'header.php'; ?>
 
 <!-- SEO Meta Tags -->
+<link rel="canonical" href="https://www.thiyagi.com/C:/xampp/htdocs/live/thiyagi-n/kiloliter-to-liter">
 <title>Kiloliter to Liter Converter 2026 - kL to L Calculator | Thiyagi</title>
 <meta name="description" content="Free online Kiloliter to Liter converter 2026. Convert kL to L and L to kL instantly with accurate volume conversion for industrial and large-scale measurements.">
 <meta name="keywords" content="kiloliter to liter converter 2026, kL to L, volume converter, large volume, industrial measurements, bulk liquid">

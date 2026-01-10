@@ -1,4 +1,6 @@
 <?php include 'header.php';?>
+<link rel="canonical" href="https://www.thiyagi.com/hosting-checker">
+
 
 <?php
 // Free API Key from WhoisXML (Sign up at https://whoisxmlapi.com/)

@@ -1,6 +1,7 @@
 <?php include 'header.php'; ?>
 
 <!-- SEO Meta Tags -->
+<link rel="canonical" href="https://www.thiyagi.com/C:/xampp/htdocs/live/thiyagi-n/radians-to-degrees">
 <title>Radians to Degrees Converter 2026 - rad to deg Calculator | Thiyagi</title>
 <meta name="description" content="Free online Radians to Degrees converter 2026. Convert rad to deg and deg to rad instantly with accurate angle conversion.">
 <meta name="keywords" content="radians to degrees converter 2026, rad to deg, angle converter, trigonometry, mathematics conversion">

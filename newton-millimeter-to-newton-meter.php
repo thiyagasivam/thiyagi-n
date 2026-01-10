@@ -1,6 +1,7 @@
 <?php include 'header.php'; ?>
 
 <!-- SEO Meta Tags -->
+<link rel="canonical" href="https://www.thiyagi.com/C:/xampp/htdocs/live/thiyagi-n/newton-millimeter-to-newton-meter">
 <title>Newton Millimeter to Newton Meter Converter 2026 - N·mm to N·m Calculator | Thiyagi</title>
 <meta name="description" content="Free online Newton Millimeter to Newton Meter converter 2026. Convert N·mm to N·m and N·m to N·mm instantly with accurate torque conversion.">
 <meta name="keywords" content="newton millimeter to newton meter converter 2026, N·mm to N·m, torque conversion, precision torque, engineering calculator">

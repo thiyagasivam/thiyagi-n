@@ -7,8 +7,7 @@
     <meta name="description" content="Complete Uttarakhand Holiday Calendar 2026. Find all Uttarakhand festivals, national holidays, cultural events, and religious celebrations. Plan your year with our comprehensive holiday guide.">
     <meta name="keywords" content="Uttarakhand holidays 2026, Uttarakhand festivals, Basant Panchami, Uttarani, national holidays India, Uttarakhand cultural events, Uttarakhand calendar, holidays Uttarakhand, festival dates 2026">
     <meta name="author" content="Uttarakhand Holiday Calendar">
-    <meta name="robots" content="index, follow">
-    <meta property="og:title" content="Uttarakhand Holidays 2026 - Complete Calendar">
+        <meta property="og:title" content="Uttarakhand Holidays 2026 - Complete Calendar">
     <meta property="og:description" content="Complete Uttarakhand Holiday Calendar 2026 with all festivals, national holidays, and cultural events. Plan your year with our comprehensive guide.">
     <meta property="og:type" content="website">
     <meta property="og:url" content="<?php echo 'https://' . $_SERVER['HTTP_HOST'] . $_SERVER['REQUEST_URI']; ?>">

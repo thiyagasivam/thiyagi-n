@@ -1,6 +1,7 @@
 <?php include 'header.php'; ?>
 
 <!-- SEO Meta Tags -->
+<link rel="canonical" href="https://www.thiyagi.com/C:/xampp/htdocs/live/thiyagi-n/square-yards-to-square-feet">
 <title>Square Yards to Square Feet Converter 2026 - Area Calculator | Thiyagi</title>
 <meta name="description" content="Free online square yards to square feet converter 2026. Convert sq yd to sq ft instantly with accurate area conversion. Perfect for construction and real estate.">
 <meta name="keywords" content="square yards to square feet converter 2026, sq yd to sq ft, area converter, construction calculator, real estate converter">

@@ -1,4 +1,6 @@
 <?php include 'header.php';?>
+<link rel="canonical" href="https://www.thiyagi.com/reddit-video-downloader">
+
 
 <?php
 // Function to extract video URL from Reddit post

@@ -1,6 +1,7 @@
 <?php include 'header.php'; ?>
 
 <!-- SEO Meta Tags -->
+<link rel="canonical" href="https://www.thiyagi.com/C:/xampp/htdocs/live/thiyagi-n/days-to-months">
 <title>Days to Months Converter 2026 - d to mo Calculator | Thiyagi</title>
 <meta name="description" content="Free online Days to Months converter 2026. Convert days to months and months to days instantly with accurate time conversion for planning and scheduling.">
 <meta name="keywords" content="days to months converter 2026, days to months, time converter, calendar conversion, date planning, project timeline">

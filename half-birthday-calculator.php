@@ -7,8 +7,7 @@
     <meta name="description" content="Half birthday calculator 2026 - find your exact half birthday date, age in half years, and celebrate your special half day. Fun birthday calculator tool.">
     <meta name="keywords" content="half birthday calculator 2026, half birthday finder, birthday calculator, age calculator, half birthday date, birthday fun calculator">
     <meta name="author" content="Thiyagi">
-    <meta name="robots" content="index, follow">
-    
+        
     <!-- Open Graph Meta Tags -->
     <meta property="og:title" content="Half Birthday Calculator 2026 - Find Your Half Birthday Date">
     <meta property="og:description" content="Find your exact half birthday date and age in half years. Fun calculator to discover your special half day celebration date.">

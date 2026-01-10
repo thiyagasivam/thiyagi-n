@@ -1,6 +1,7 @@
 <?php include 'header.php'; ?>
 
 <!-- SEO Meta Tags -->
+<link rel="canonical" href="https://www.thiyagi.com/C:/xampp/htdocs/live/thiyagi-n/force-converterl">
 <title>Force Converter 2026 - Universal Force Calculator | Thiyagi</title>
 <meta name="description" content="Free online force converter 2026. Convert between Newton, Pound-force, Kilogram-force, and Dyne instantly with accurate force conversion.">
 <meta name="keywords" content="force converter 2026, newton pound-force, kilogram-force dyne, universal force calculator, physics converter">

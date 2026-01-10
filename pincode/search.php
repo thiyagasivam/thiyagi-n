@@ -154,7 +154,8 @@ if (isset($_POST['search_query']) && !empty($_POST['search_query'])) {
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Enhanced Pincode Search - Thiyagi</title>
+    <link rel="canonical" href="https://www.thiyagi.com/C:/xampp/htdocs/live/thiyagi-n/pincode/search">
+<title>Enhanced Pincode Search - Thiyagi</title>
     <meta name="description" content="Search Indian pincodes by pincode number or area name. Get complete postal information with real-time API data.">
     
     <script src="https://cdn.tailwindcss.com"></script>

@@ -7,8 +7,7 @@
     <meta name="description" content="Dog lap day calculator 2026 - calculate your dog's lap day frequency based on size, breed, and personality. Fun National Dog Day calculator with cute dog statistics.">
     <meta name="keywords" content="dog lap day calculator 2026, national dog day calculator, dog size calculator, dog breed calculator, pet lap time">
     <meta name="author" content="Thiyagi">
-    <meta name="robots" content="index, follow">
-    
+        
     <!-- Open Graph Meta Tags -->
     <meta property="og:title" content="Dog Lap Day Calculator 2026 - National Dog Day Fun Calculator">
     <meta property="og:description" content="Calculate your dog's lap day frequency based on size, breed, and personality with our fun dog calculator.">

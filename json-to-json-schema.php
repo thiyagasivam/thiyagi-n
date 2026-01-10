@@ -1,4 +1,6 @@
 <?php include 'header.php';?>
+<link rel="canonical" href="https://www.thiyagi.com/json-to-json-schema">
+
 
 <?php
 // Function to convert JSON to JSON Schema

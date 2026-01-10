@@ -1,4 +1,6 @@
 <?php include 'header.php';?>
+<link rel="canonical" href="https://www.thiyagi.com/decimal-to-ascii-converter">
+
 
 <?php
 // Function to convert decimal to ASCII

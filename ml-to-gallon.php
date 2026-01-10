@@ -1,6 +1,7 @@
 <?php include 'header.php'; ?>
 
 <!-- SEO Meta Tags -->
+<link rel="canonical" href="https://www.thiyagi.com/C:/xampp/htdocs/live/thiyagi-n/ml-to-gallon">
 <title>ML to Gallon Converter 2026 - Milliliters to Gallons Calculator | Thiyagi</title>
 <meta name="description" content="Free online ML to gallon converter 2026. Convert milliliters to gallons instantly with accurate volume conversion. Perfect for cooking, chemistry, and liquid measurements.">
 <meta name="keywords" content="ml to gallon converter 2026, milliliters to gallons, volume converter, cooking converter, liquid measurement, chemistry calculator">

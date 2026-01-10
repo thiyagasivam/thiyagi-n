@@ -1,6 +1,7 @@
 <?php include 'header.php'; ?>
 
 <!-- SEO Meta Tags -->
+<link rel="canonical" href="https://www.thiyagi.com/C:/xampp/htdocs/live/thiyagi-n/kcal-to-kj">
 <title>Kcal to KJ Converter 2026 - Energy Calculator | Thiyagi</title>
 <meta name="description" content="Free online kilocalorie to kilojoule converter 2026. Convert kcal to kJ instantly for nutrition, diet planning, and energy calculations.">
 <meta name="keywords" content="kcal to kj converter 2026, kilocalorie to kilojoule, energy converter, nutrition calculator, diet calculator">

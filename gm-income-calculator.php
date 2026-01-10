@@ -7,8 +7,7 @@
     <meta name="description" content="Calculate GM employee income, salary, benefits, and compensation packages 2026. General Motors hourly wages, overtime, bonuses, and total compensation calculator.">
     <meta name="keywords" content="gm income calculator 2026, general motors salary calculator, gm employee wages, gm hourly pay calculator, automotive salary calculator, gm benefits calculator">
     <meta name="author" content="Thiyagi">
-    <meta name="robots" content="index, follow">
-    
+        
     <!-- Open Graph Meta Tags -->
     <meta property="og:title" content="GM Income Calculator 2026 - General Motors Employee Salary Calculator">
     <meta property="og:description" content="Calculate GM employee income, salary, benefits, and compensation packages. General Motors hourly wages, overtime, and bonuses calculator.">

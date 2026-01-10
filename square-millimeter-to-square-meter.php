@@ -1,6 +1,7 @@
 <?php include 'header.php'; ?>
 
 <!-- SEO Meta Tags -->
+<link rel="canonical" href="https://www.thiyagi.com/C:/xampp/htdocs/live/thiyagi-n/square-millimeter-to-square-meter">
 <title>Square Millimeter to Square Meter Converter 2026 - Area Calculator | Thiyagi</title>
 <meta name="description" content="Free online square millimeter to square meter converter 2026. Convert mm² to m² instantly with accurate area conversion for engineering and design.">
 <meta name="keywords" content="square millimeter to square meter converter 2026, mm² to m², area converter, engineering calculator, design calculator">

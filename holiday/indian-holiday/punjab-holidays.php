@@ -6,8 +6,7 @@
     <meta name="description" content="Complete Punjab Holiday Calendar 2026. Find all Punjabi festivals, national holidays, cultural events, and religious celebrations. Plan your year with our comprehensive holiday guide.">
     <meta name="keywords" content="Punjab holidays 2026, Punjabi festivals, Baisakhi, Lohri, national holidays India, Punjabi cultural events, Punjab calendar, holidays Punjab, festival dates 2026">
     <meta name="author" content="Punjab Holiday Calendar">
-    <meta name="robots" content="index, follow">
-    <meta property="og:title" content="Punjab Holidays 2026 - Complete Calendar">
+        <meta property="og:title" content="Punjab Holidays 2026 - Complete Calendar">
     <meta property="og:description" content="Complete Punjab Holiday Calendar 2026 with all festivals, national holidays, and cultural events. Plan your year with our comprehensive guide.">
     <meta property="og:type" content="website">
     <meta property="og:url" content="<?php echo 'https://' . $_SERVER['HTTP_HOST'] . $_SERVER['REQUEST_URI']; ?>">

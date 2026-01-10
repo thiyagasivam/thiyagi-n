@@ -1,6 +1,7 @@
 <?php include 'header.php'; ?>
 
 <!-- SEO Meta Tags -->
+<link rel="canonical" href="https://www.thiyagi.com/C:/xampp/htdocs/live/thiyagi-n/fluid-ounce-us-to-quart-us">
 <title>Fluid Ounce to Quart Converter 2026 - US Volume Calculator | Thiyagi</title>
 <meta name="description" content="Free online fluid ounce to quart converter 2026. Convert US fluid ounces to quarts instantly. Perfect for cooking and beverage measurements.">
 <meta name="keywords" content="fluid ounce to quart converter 2026, fl oz to quart, US volume converter, cooking calculator, beverage measurement">

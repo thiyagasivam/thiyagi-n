@@ -6,8 +6,7 @@
     <meta name="description" content="Complete Meghalaya Holiday Calendar 2026. Find all major festivals like Wangala, Behdienkhlam, national holidays, cultural events, and religious celebrations in Meghalaya. Plan your year with our comprehensive guide.">
     <meta name="keywords" content="Meghalaya holidays 2026, Meghalaya festivals, Wangala, Behdienkhlam, national holidays India, cultural events Meghalaya, Meghalaya calendar, holidays Meghalaya, festival dates 2026">
     <meta name="author" content="Meghalaya Holiday Calendar">
-    <meta name="robots" content="index, follow">
-    <meta property="og:title" content="Meghalaya Holidays 2026 - Complete Calendar">
+        <meta property="og:title" content="Meghalaya Holidays 2026 - Complete Calendar">
     <meta property="og:description" content="Complete Meghalaya Holiday Calendar 2026 with all festivals, national holidays, and cultural events. Plan your year with our comprehensive guide.">
     <meta property="og:type" content="website">
     <meta property="og:url" content="<?php echo 'https://' . $_SERVER['HTTP_HOST'] . $_SERVER['REQUEST_URI']; ?>">

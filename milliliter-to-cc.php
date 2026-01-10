@@ -1,6 +1,7 @@
 <?php include 'header.php'; ?>
 
 <!-- SEO Meta Tags -->
+<link rel="canonical" href="https://www.thiyagi.com/C:/xampp/htdocs/live/thiyagi-n/milliliter-to-cc">
 <title>Milliliter to CC Converter 2026 - Volume Calculator | Thiyagi</title>
 <meta name="description" content="Free online milliliter to cubic centimeter converter 2026. Convert ml to cc instantly with accurate volume conversion. Perfect for medical and automotive applications.">
 <meta name="keywords" content="milliliter to cc converter 2026, ml to cc, cubic centimeter converter, medical converter, automotive volume">

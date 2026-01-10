@@ -1,6 +1,7 @@
 <?php include 'header.php'; ?>
 
 <!-- SEO Meta Tags -->
+<link rel="canonical" href="https://www.thiyagi.com/C:/xampp/htdocs/live/thiyagi-n/mile-to-nautical-mile-international">
 <title>Mile to Nautical Mile Converter 2026 - mi to nmi Calculator | Thiyagi</title>
 <meta name="description" content="Free online Mile to Nautical Mile converter 2026. Convert mi to nmi and nmi to mi instantly with accurate distance conversion.">
 <meta name="keywords" content="mile to nautical mile converter 2026, mi to nmi, distance conversion, navigation, marine calculator">

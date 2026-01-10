@@ -6,8 +6,7 @@
     <meta name="description" content="Complete BSE Holiday List 2026. Find all Bombay Stock Exchange trading holidays, clearing holidays, and special trading sessions like Muhurat Trading.">
     <meta name="keywords" content="BSE holidays 2026, Bombay Stock Exchange holidays, stock market holidays India, BSE calendar, trading holidays, Muhurat Trading 2026, BSE trading hours">
     <meta name="author" content="BSE Holiday Calendar">
-    <meta name="robots" content="index, follow">
-    <meta property="og:title" content="BSE Holidays 2026 - Complete Calendar">
+        <meta property="og:title" content="BSE Holidays 2026 - Complete Calendar">
     <meta property="og:description" content="Complete BSE Holiday Calendar 2026 with trading holidays, clearing holidays, and special sessions. Plan your investments accordingly.">
     <meta property="og:type" content="website">
     <meta property="og:url" content="<?php echo 'https://' . $_SERVER['HTTP_HOST'] . $_SERVER['REQUEST_URI']; ?>">

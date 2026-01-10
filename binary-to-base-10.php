@@ -1,6 +1,7 @@
 <?php include 'header.php'; ?>
 
 <!-- SEO Meta Tags -->
+<link rel="canonical" href="https://www.thiyagi.com/C:/xampp/htdocs/live/thiyagi-n/binary-to-base-10">
 <title>Binary to Base 10 Converter 2026 - Binary to Decimal Calculator | Thiyagi</title>
 <meta name="description" content="Free online Binary to Base 10 converter 2026. Convert binary to decimal and decimal to binary instantly with accurate number system conversion for programming.">
 <meta name="keywords" content="binary to base 10 converter 2026, binary to decimal, number system converter, programming tools, computer science, digital systems">

@@ -1,6 +1,7 @@
 <?php include 'header.php'; ?>
 
 <!-- SEO Meta Tags -->
+<link rel="canonical" href="https://www.thiyagi.com/C:/xampp/htdocs/live/thiyagi-n/megapascal-to-newton-square-meter">
 <title>Megapascal to Newton per Square Meter Converter 2026 - MPa to N/m² Calculator | Thiyagi</title>
 <meta name="description" content="Free online Megapascal to Newton per Square Meter converter 2026. Convert MPa to N/m² and N/m² to MPa for pressure calculations.">
 <meta name="keywords" content="megapascal to newton square meter converter 2026, MPa to N/m², pressure converter, pascal units, engineering pressure">

@@ -1,6 +1,7 @@
 <?php include 'header.php'; ?>
 
 <!-- SEO Meta Tags -->
+<link rel="canonical" href="https://www.thiyagi.com/C:/xampp/htdocs/live/thiyagi-n/micro-to-nano">
 <title>Micro to Nano Converter 2026 - μ to n Prefix Calculator | Thiyagi</title>
 <meta name="description" content="Free online Micro to Nano converter 2026. Convert micro (μ) to nano (n) prefix and nano to micro instantly with accurate scientific unit conversion.">
 <meta name="keywords" content="micro to nano converter 2026, μ to n, scientific prefix, unit conversion, metric prefix calculator">

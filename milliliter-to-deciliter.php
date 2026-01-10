@@ -1,6 +1,7 @@
 <?php include 'header.php'; ?>
 
 <!-- SEO Meta Tags -->
+<link rel="canonical" href="https://www.thiyagi.com/C:/xampp/htdocs/live/thiyagi-n/milliliter-to-deciliter">
 <title>Milliliter to Deciliter Converter 2026 - mL to dL Calculator | Thiyagi</title>
 <meta name="description" content="Free online Milliliter to Deciliter converter 2026. Convert mL to dL and dL to mL instantly with accurate volume conversion for cooking and laboratory work.">
 <meta name="keywords" content="milliliter to deciliter converter 2026, mL to dL, volume converter, metric volume, cooking measurements, laboratory measurements">

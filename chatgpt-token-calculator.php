@@ -7,8 +7,7 @@
     <meta name="description" content="ChatGPT token calculator 2026 - estimate API usage costs, token counts for GPT-4, GPT-3.5, and other OpenAI models. Plan your AI project budget effectively.">
     <meta name="keywords" content="chatgpt token calculator 2026, openai api cost calculator, gpt token counter, ai usage cost estimator, openai pricing calculator">
     <meta name="author" content="Thiyagi">
-    <meta name="robots" content="index, follow">
-    
+        
     <!-- Open Graph Meta Tags -->
     <meta property="og:title" content="ChatGPT Token Calculator 2026 - Estimate API Usage & Costs">
     <meta property="og:description" content="Calculate ChatGPT API costs and token usage for GPT models. Plan your AI project budget with accurate cost estimates.">

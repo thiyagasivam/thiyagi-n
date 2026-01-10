@@ -1,4 +1,6 @@
 <?php include 'header.php';?>
+<link rel="canonical" href="https://www.thiyagi.com/inflation-calculator">
+
 
 <?php
 // Function to calculate inflation-adjusted value

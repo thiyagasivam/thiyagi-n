@@ -1,6 +1,7 @@
 <?php include 'header.php'; ?>
 
 <!-- SEO Meta Tags -->
+<link rel="canonical" href="https://www.thiyagi.com/C:/xampp/htdocs/live/thiyagi-n/cycle-second-to-hertz">
 <title>Cycle per Second to Hertz Converter 2026 - cps to Hz Calculator | Thiyagi</title>
 <meta name="description" content="Free online Cycle per Second to Hertz converter 2026. Convert cps to Hz and Hz to cps instantly with accurate frequency unit conversion.">
 <meta name="keywords" content="cycle per second to hertz converter 2026, cps to hz, frequency conversion, oscillation measurement, wave frequency">

@@ -4,7 +4,6 @@
 <meta name="description" content="Complete Tasmania Holiday Calendar 2026. Find all TAS public holidays, Royal Hobart Regatta, Recreation Day, and state-specific observances for Hobart and Tasmania.">
 <meta name="keywords" content="Tasmania holidays 2026, TAS public holidays, Hobart holidays, Royal Hobart Regatta, Recreation Day, Tasmania">
 <meta name="author" content="Tasmania Holiday Calendar">
-<meta name="robots" content="index, follow">
 <meta property="og:title" content="Tasmania Holidays 2026 - Complete Calendar">
 <meta property="og:description" content="Complete Tasmania Holiday Calendar 2026 with Royal Hobart Regatta, Recreation Day, and all public holidays.">
 <meta property="og:type" content="website">

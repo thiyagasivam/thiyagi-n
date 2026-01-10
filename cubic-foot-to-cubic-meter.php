@@ -1,6 +1,7 @@
 <?php include 'header.php'; ?>
 
 <!-- SEO Meta Tags -->
+<link rel="canonical" href="https://www.thiyagi.com/C:/xampp/htdocs/live/thiyagi-n/cubic-foot-to-cubic-meter">
 <title>Cubic Foot to Cubic Meter Converter 2026 - Volume Calculator | Thiyagi</title>
 <meta name="description" content="Free online cubic foot to cubic meter converter 2026. Convert ft³ to m³ instantly with accurate volume conversion. Perfect for construction and engineering.">
 <meta name="keywords" content="cubic foot to cubic meter converter 2026, ft3 to m3, volume converter, construction calculator, engineering converter">

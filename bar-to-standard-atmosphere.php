@@ -1,6 +1,7 @@
 <?php include 'header.php'; ?>
 
 <!-- SEO Meta Tags -->
+<link rel="canonical" href="https://www.thiyagi.com/C:/xampp/htdocs/live/thiyagi-n/bar-to-standard-atmosphere">
 <title>Bar to Standard Atmosphere Converter 2026 - bar to atm Calculator | Thiyagi</title>
 <meta name="description" content="Free online Bar to Standard Atmosphere converter 2026. Convert bar to atm and atm to bar instantly with accurate pressure conversion.">
 <meta name="keywords" content="bar to standard atmosphere converter 2026, bar to atm, pressure converter, atmospheric pressure, scientific conversion">

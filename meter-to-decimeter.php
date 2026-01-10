@@ -1,6 +1,7 @@
 <?php include 'header.php'; ?>
 
 <!-- SEO Meta Tags -->
+<link rel="canonical" href="https://www.thiyagi.com/C:/xampp/htdocs/live/thiyagi-n/meter-to-decimeter">
 <title>Meter to Decimeter Converter 2026 - m to dm Calculator | Thiyagi</title>
 <meta name="description" content="Free online Meter to Decimeter converter 2026. Convert m to dm and dm to m instantly with accurate length conversion.">
 <meta name="keywords" content="meter to decimeter converter 2026, m to dm, length converter, metric system, distance measurement">

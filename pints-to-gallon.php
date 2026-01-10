@@ -1,6 +1,7 @@
 <?php include 'header.php'; ?>
 
 <!-- SEO Meta Tags -->
+<link rel="canonical" href="https://www.thiyagi.com/C:/xampp/htdocs/live/thiyagi-n/pints-to-gallon">
 <title>Pints to Gallon Converter 2026 - Volume Measurement Calculator | Thiyagi</title>
 <meta name="description" content="Free online pints to gallon converter 2026. Convert pints to gallons instantly with accurate volume conversion. Perfect for cooking and beverage measurements.">
 <meta name="keywords" content="pints to gallon converter 2026, pints to gallons, volume converter, cooking converter, beverage calculator, liquid measurement">

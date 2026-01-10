@@ -7,8 +7,7 @@
     <meta name="description" content="Snow day calculator 2026 - predict snow day likelihood based on weather conditions, temperature, wind speed, and location factors for accurate school closure predictions.">
     <meta name="keywords" content="snow day calculator 2026, snow day predictor, school closure calculator, snow storm calculator, weather prediction">
     <meta name="author" content="Thiyagi">
-    <meta name="robots" content="index, follow">
-    
+        
     <!-- Open Graph Meta Tags -->
     <meta property="og:title" content="Snow Day Calculator 2026 - Predict Snow Day Likelihood">
     <meta property="og:description" content="Predict snow day likelihood based on weather conditions and location factors.">

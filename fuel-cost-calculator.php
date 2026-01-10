@@ -28,7 +28,6 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
     <title>Fuel Cost Calculator 2026 - Calculate Your Travel Fuel Expenses</title>
     <meta name="description" content="2026 Fuel Cost Calculator: Instantly estimate your travel fuel expenses for any trip, commute, or journey. Modern, SEO-friendly, mobile-ready tool for India and worldwide.">
     <meta name="keywords" content="fuel cost calculator 2026, travel fuel cost, mileage calculator, petrol calculator, trip cost, india, online tool">
-    <meta name="robots" content="index, follow">
     <link rel="canonical" href="https://www.thiyagi.com/fuel-cost-calculator">
     <!-- Open Graph / Facebook -->
     <meta property="og:type" content="website">

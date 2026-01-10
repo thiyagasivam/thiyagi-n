@@ -20,7 +20,6 @@
 
 <!-- Additional SEO Meta Tags -->
 <meta name="author" content="Thiyagi">
-<meta name="robots" content="index, follow">
 <meta name="theme-color" content="#2563eb">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <meta name="language" content="EN">

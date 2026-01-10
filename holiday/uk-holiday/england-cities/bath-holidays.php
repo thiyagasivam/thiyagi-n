@@ -6,6 +6,7 @@ include '../../../header.php';
 ?>
 
 <!-- Page specific meta tags -->
+<link rel="canonical" href="https://www.thiyagi.com/C:/xampp/htdocs/live/thiyagi-n/holiday/uk-holiday/england-cities/bath-holidays">
 <title>Bath Holidays 2026 | Complete Calendar | Local Events | Bank Holidays</title>
 <meta name="description" content="Complete Bath Holiday Calendar 2026. Find all bank holidays, local events, festivals, and observances. Plan your year with our comprehensive Bath holiday guide.">
 <meta name="keywords" content="Bath holidays 2026, Bath events, Bath festivals, Somerset holidays, England holidays, Bath calendar">

@@ -6,8 +6,7 @@
     <meta name="description" content="Complete list of Saturday Bank Holidays in Tamil Nadu for 2026. Find all second and fourth Saturdays when banks will be closed. Plan your finances accordingly.">
     <meta name="keywords" content="Saturday Bank Holidays Tamil Nadu 2026, Second Saturday Holiday, Fourth Saturday Holiday, Tamil Nadu Bank Calendar, Bank Holidays India">
     <meta name="author" content="Tamil Nadu Holiday Calendar">
-    <meta name="robots" content="index, follow">
-    <meta property="og:title" content="Saturday Bank Holidays in Tamil Nadu 2026 - Complete List">
+        <meta property="og:title" content="Saturday Bank Holidays in Tamil Nadu 2026 - Complete List">
     <meta property="og:description" content="Complete list of Saturday Bank Holidays in Tamil Nadu for 2026. Find all second and fourth Saturdays when banks will be closed.">
     <meta property="og:type" content="website">
     <meta property="og:url" content="<?php echo 'https://' . $_SERVER['HTTP_HOST'] . $_SERVER['REQUEST_URI']; ?>">

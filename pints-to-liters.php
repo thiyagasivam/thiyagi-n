@@ -1,6 +1,7 @@
 <?php include 'header.php'; ?>
 
 <!-- SEO Meta Tags -->
+<link rel="canonical" href="https://www.thiyagi.com/C:/xampp/htdocs/live/thiyagi-n/pints-to-liters">
 <title>Pints to Liters Converter 2026 - Volume Calculator | Thiyagi</title>
 <meta name="description" content="Free online pints to liters converter 2026. Convert pt to L instantly with accurate volume conversion for cooking and recipe measurements.">
 <meta name="keywords" content="pints to liters converter 2026, pt to L, volume converter, cooking calculator, recipe converter">

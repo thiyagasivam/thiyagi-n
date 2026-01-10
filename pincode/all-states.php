@@ -65,8 +65,7 @@ include '../header.php';
     <meta name="description" content="<?php echo htmlspecialchars($description); ?>">
     <meta name="keywords" content="India pincode directory, all states pincode, union territories postal code, state wise pincode, district wise postal code">
     <meta name="author" content="Thiyagi">
-    <meta name="robots" content="index, follow">
-    <link rel="canonical" href="https://www.thiyagi.com/pincode/all-states">
+        <link rel="canonical" href="https://www.thiyagi.com/pincode/all-states">
 
     <!-- Open Graph / Facebook -->
     <meta property="og:type" content="website">

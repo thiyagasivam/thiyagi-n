@@ -1,6 +1,7 @@
 <?php include 'header.php'; ?>
 
 <!-- SEO Meta Tags -->
+<link rel="canonical" href="https://www.thiyagi.com/C:/xampp/htdocs/live/thiyagi-n/gigahertz-to-hertz">
 <title>Gigahertz to Hertz Converter 2026 - GHz to Hz Calculator | Thiyagi</title>
 <meta name="description" content="Free online Gigahertz to Hertz converter 2026. Convert GHz to Hz and Hz to GHz instantly with accurate frequency conversion.">
 <meta name="keywords" content="gigahertz to hertz converter 2026, GHz to Hz, frequency conversion, electronics calculator">

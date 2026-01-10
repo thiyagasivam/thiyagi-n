@@ -1,6 +1,7 @@
 <?php include 'header.php'; ?>
 
 <!-- SEO Meta Tags -->
+<link rel="canonical" href="https://www.thiyagi.com/C:/xampp/htdocs/live/thiyagi-n/week-to-hour">
 <title>Week to Hour Converter 2026 - Time Calculator | Thiyagi</title>
 <meta name="description" content="Free online week to hour converter 2026. Convert weeks to hours instantly with accurate time conversion for planning and scheduling calculations.">
 <meta name="keywords" content="week to hour converter 2026, weeks to hours, time converter, scheduling calculator, planning calculator">

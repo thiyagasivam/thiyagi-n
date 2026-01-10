@@ -1,6 +1,7 @@
 <?php include 'header.php'; ?>
 
 <!-- SEO Meta Tags -->
+<link rel="canonical" href="https://www.thiyagi.com/C:/xampp/htdocs/live/thiyagi-n/weight-and-mass-converter">
 <title>Weight and Mass Converter 2026 - Universal Calculator | Thiyagi</title>
 <meta name="description" content="Free online weight and mass converter 2026. Convert between kg, lbs, grams, ounces and more units instantly with accurate conversion rates.">
 <meta name="keywords" content="weight and mass converter 2026, weight converter, mass converter, kg to lbs, unit converter">

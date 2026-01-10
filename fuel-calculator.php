@@ -1,4 +1,6 @@
 <?php include 'header.php';?>
+<link rel="canonical" href="https://www.thiyagi.com/fuel-calculator">
+
 <?php
 // Fuel Calculator Logic
 function calculateFuelCost($distance, $consumption, $price) {

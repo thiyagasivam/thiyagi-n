@@ -7,8 +7,7 @@
     <meta name="description" content="Tax-free childcare calculator 2026 - calculate government savings, eligibility, and benefits for tax-free childcare schemes in UK, US, and other countries.">
     <meta name="keywords" content="tax-free childcare calculator 2026, childcare vouchers, government childcare savings, tax credits, dependent care FSA">
     <meta name="author" content="Thiyagi">
-    <meta name="robots" content="index, follow">
-    
+        
     <!-- Open Graph Meta Tags -->
     <meta property="og:title" content="Tax-Free Childcare Calculator 2026 - Government Savings Calculator">
     <meta property="og:description" content="Calculate tax-free childcare savings and government benefits for working families.">

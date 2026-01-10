@@ -1,4 +1,6 @@
 <?php include 'header.php';?>
+<link rel="canonical" href="https://www.thiyagi.com/about">
+
 
 <title>About Thiyagi Tools 2026 - 20+ Years of Digital Excellence | Professional Online Tools</title>
 <meta name="description" content="Learn about Thiyagi Tools - your trusted source for professional online calculators, converters, and digital tools. Built with 25+ years of expertise to serve millions of users worldwide in 2026.">

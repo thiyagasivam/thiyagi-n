@@ -1,6 +1,7 @@
 <?php include 'header.php'; ?>
 
 <!-- SEO Meta Tags -->
+<link rel="canonical" href="https://www.thiyagi.com/C:/xampp/htdocs/live/thiyagi-n/cc-to-oz">
 <title>CC to Oz Converter 2026 - Volume Calculator | Thiyagi</title>
 <meta name="description" content="Free online cubic centimeter to fluid ounce converter 2026. Convert cc to fl oz instantly with accurate volume conversion. Perfect for cooking and medical applications.">
 <meta name="keywords" content="cc to oz converter 2026, cubic centimeter to ounce, volume converter, cooking calculator, medical converter">

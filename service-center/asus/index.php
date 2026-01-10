@@ -37,7 +37,9 @@ $conn->close();
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>ASUS Authorized Service Centers Near Me 2026</title>
+    <link rel="canonical" href="https://www.thiyagi.com/C:/xampp/htdocs/live/thiyagi-n/service-center/asus/index">
+<meta name="description" content="Find authorized Asus service centers across India. Get contact details, addresses, and phone numbers for genuine Asus repair and support services.">
+<title>ASUS Authorized Service Centers Near Me 2026</title>
     <script src="https://cdn.tailwindcss.com"></script>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
     <style>

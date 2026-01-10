@@ -1,6 +1,7 @@
 <?php include 'header.php'; ?>
 
 <!-- SEO Meta Tags -->
+<link rel="canonical" href="https://www.thiyagi.com/C:/xampp/htdocs/live/thiyagi-n/acre-foot-to-gallon-us">
 <title>Acre Foot to Gallon US Converter 2026 - Volume Calculator | Thiyagi</title>
 <meta name="description" content="Free online acre foot to gallon US converter 2026. Convert ac ft to gal US instantly with accurate volume conversion for irrigation and water management.">
 <meta name="keywords" content="acre foot to gallon converter 2026, ac ft to gal, volume converter, irrigation calculator, water management">

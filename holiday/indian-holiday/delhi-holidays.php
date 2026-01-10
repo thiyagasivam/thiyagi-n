@@ -7,8 +7,7 @@
     <meta name="description" content="Complete Delhi Holiday Calendar 2026. Find all Delhi festivals, national holidays, cultural events, and religious celebrations. Plan your year with our comprehensive holiday guide.">
     <meta name="keywords" content="Delhi holidays 2026, Delhi festivals, Diwali, Holi, national holidays India, Delhi cultural events, Delhi calendar, holidays Delhi, festival dates 2026">
     <meta name="author" content="Delhi Holiday Calendar">
-    <meta name="robots" content="index, follow">
-    <meta property="og:title" content="Delhi Holidays 2026 - Complete Calendar">
+        <meta property="og:title" content="Delhi Holidays 2026 - Complete Calendar">
     <meta property="og:description" content="Complete Delhi Holiday Calendar 2026 with all festivals, national holidays, and cultural events. Plan your year with our comprehensive guide.">
     <meta property="og:type" content="website">
     <meta property="og:url" content="<?php echo 'https://' . $_SERVER['HTTP_HOST'] . $_SERVER['REQUEST_URI']; ?>">

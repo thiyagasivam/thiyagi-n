@@ -1,4 +1,6 @@
 <?php include 'header.php';?>
+<link rel="canonical" href="https://www.thiyagi.com/speed-calculator">
+
 <?php
 // Handle form submission
 $distance = isset($_POST['distance']) ? floatval($_POST['distance']) : null;

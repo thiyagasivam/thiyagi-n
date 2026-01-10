@@ -18,7 +18,8 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Uppercase to Lowercase Converter | Text Case Tool</title>
+    <link rel="canonical" href="https://www.thiyagi.com/C:/xampp/htdocs/live/thiyagi-n/uppercase-to-lowercase-converter">
+<title>Uppercase to Lowercase Converter | Text Case Tool</title>
     <meta name="description" content="Free online tool to convert uppercase text to lowercase instantly. Perfect for SEO, programming, and text formatting.">
     <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" rel="stylesheet">
     <style>

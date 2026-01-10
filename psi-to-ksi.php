@@ -1,6 +1,7 @@
 <?php include 'header.php'; ?>
 
 <!-- SEO Meta Tags -->
+<link rel="canonical" href="https://www.thiyagi.com/C:/xampp/htdocs/live/thiyagi-n/psi-to-ksi">
 <title>PSI to KSI Converter 2026 - Pounds per Square Inch to Kilopounds per Square Inch Calculator | Thiyagi</title>
 <meta name="description" content="Free online PSI to KSI converter 2026. Convert psi to ksi and ksi to psi instantly with accurate pressure conversion.">
 <meta name="keywords" content="psi to ksi converter 2026, pounds per square inch to kilopounds, pressure conversion, engineering units, stress calculator">

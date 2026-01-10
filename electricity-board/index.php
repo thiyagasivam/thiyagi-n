@@ -196,7 +196,8 @@ $items = [
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>All India Electricity Bill Calculators | State-wise</title>
+    <link rel="canonical" href="https://www.thiyagi.com/C:/xampp/htdocs/live/thiyagi-n/electricity-board/index">
+<title>All India Electricity Bill Calculators | State-wise</title>
     <meta name="description" content="Calculate electricity bills for all Indian states and UTs - accurate, fast and easy to use">
     <script src="https://cdn.tailwindcss.com"></script>
     

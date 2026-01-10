@@ -1,6 +1,7 @@
 <?php include 'header.php'; ?>
 
 <!-- SEO Meta Tags -->
+<link rel="canonical" href="https://www.thiyagi.com/C:/xampp/htdocs/live/thiyagi-n/mile-to-foot-us-survey">
 <title>Mile to Foot US Survey Converter 2026 - mi to ft US Calculator | Thiyagi</title>
 <meta name="description" content="Free online Mile to Foot US Survey converter 2026. Convert mi to ft US and ft US to mi instantly with accurate surveying measurements.">
 <meta name="keywords" content="mile to foot us survey converter 2026, mi to ft US, surveying measurements, land survey, geodetic measurements">

@@ -50,7 +50,8 @@ if ($units > 0) {
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>CSPDCL Electricity Bill Calculator 2026 | Estimate Chhattisgarh Power Charges</title>
+    <link rel="canonical" href="https://www.thiyagi.com/C:/xampp/htdocs/live/thiyagi-n/electricity-board/cspdcl-electricity-bill-calculator">
+<title>CSPDCL Electricity Bill Calculator 2026 | Estimate Chhattisgarh Power Charges</title>
     <meta name="description" content="Accurately calculate your 2026 CSPDCL electricity bill based on slab rates in Chhattisgarh. Includes subsidy option, print, and share features.">
     <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" rel="stylesheet">
     <script src="https://unpkg.com/lucide@latest"></script>

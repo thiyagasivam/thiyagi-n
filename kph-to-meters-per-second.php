@@ -1,6 +1,7 @@
 <?php include 'header.php'; ?>
 
 <!-- SEO Meta Tags -->
+<link rel="canonical" href="https://www.thiyagi.com/C:/xampp/htdocs/live/thiyagi-n/kph-to-meters-per-second">
 <title>KPH to Meters per Second Converter 2026 - Speed Calculator | Thiyagi</title>
 <meta name="description" content="Free online KPH to meters per second converter 2026. Convert km/h to m/s instantly with accurate speed conversion for physics and engineering.">
 <meta name="keywords" content="KPH to meters per second converter 2026, km/h to m/s, speed converter, velocity calculator, physics converter">

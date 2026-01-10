@@ -1,6 +1,7 @@
 <?php include 'header.php'; ?>
 
 <!-- SEO Meta Tags -->
+<link rel="canonical" href="https://www.thiyagi.com/C:/xampp/htdocs/live/thiyagi-n/knot-to-kilometer-hour">
 <title>Knot to Kilometer per Hour Converter 2026 - kn to km/h Calculator | Thiyagi</title>
 <meta name="description" content="Free online Knot to Kilometer per Hour converter 2026. Convert kn to km/h and km/h to kn instantly with accurate speed conversion.">
 <meta name="keywords" content="knot to kilometer per hour converter 2026, kn to km/h, speed conversion, nautical speed, marine navigation calculator">

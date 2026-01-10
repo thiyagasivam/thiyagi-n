@@ -1,6 +1,7 @@
 <?php include 'header.php'; ?>
 
 <!-- SEO Meta Tags -->
+<link rel="canonical" href="https://www.thiyagi.com/C:/xampp/htdocs/live/thiyagi-n/pound-force-to-kilonewton">
 <title>Pound Force to Kilonewton Converter 2026 - Force Calculator | Thiyagi</title>
 <meta name="description" content="Free online pound force to kilonewton converter 2026. Convert lbf to kN instantly with accurate force conversion for engineering applications.">
 <meta name="keywords" content="pound force to kilonewton converter 2026, lbf to kN, force converter, engineering calculator, structural converter">

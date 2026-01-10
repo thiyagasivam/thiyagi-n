@@ -1,4 +1,6 @@
 <?php include 'header.php';?>
+<link rel="canonical" href="https://www.thiyagi.com/compound-interest-calculator">
+
 
 <?php
 // Function to calculate compound interest

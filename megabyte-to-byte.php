@@ -1,6 +1,7 @@
 <?php include 'header.php'; ?>
 
 <!-- SEO Meta Tags -->
+<link rel="canonical" href="https://www.thiyagi.com/C:/xampp/htdocs/live/thiyagi-n/megabyte-to-byte">
 <title>Megabyte to Byte Converter 2026 - Data Storage Calculator | Thiyagi</title>
 <meta name="description" content="Free online megabyte to byte converter 2026. Convert MB to bytes instantly with accurate data conversion. Perfect for IT and storage calculations.">
 <meta name="keywords" content="megabyte to byte converter 2026, MB to bytes, data converter, storage calculator, IT converter">

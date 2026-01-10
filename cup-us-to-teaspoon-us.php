@@ -1,6 +1,7 @@
 <?php include 'header.php'; ?>
 
 <!-- SEO Meta Tags -->
+<link rel="canonical" href="https://www.thiyagi.com/C:/xampp/htdocs/live/thiyagi-n/cup-us-to-teaspoon-us">
 <title>Cup US to Teaspoon US Converter 2026 - cup to tsp Calculator | Thiyagi</title>
 <meta name="description" content="Free online Cup US to Teaspoon US converter 2026. Convert cup to tsp and tsp to cup instantly with accurate cooking measurement conversion.">
 <meta name="keywords" content="cup to teaspoon converter 2026, cup to tsp US, cooking measurements, baking converter, kitchen units">

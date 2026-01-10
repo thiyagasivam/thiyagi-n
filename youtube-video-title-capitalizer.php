@@ -1,4 +1,6 @@
 <?php include 'header.php';?>
+<link rel="canonical" href="https://www.thiyagi.com/youtube-video-title-capitalizer">
+
 <?php
 /**
  * YouTube Video Title Capitalizer Tool

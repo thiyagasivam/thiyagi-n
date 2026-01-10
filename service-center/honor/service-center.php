@@ -152,8 +152,7 @@ $breadcrumbSchema = [
     <meta name="description" content="<?= htmlspecialchars($center['about'], ENT_QUOTES, 'UTF-8') ?> Professional Honor smartphone repair with genuine parts, expert technicians, and warranty coverage. ⭐ Rated 4.8/5 stars.">
     <meta name="keywords" content="Honor service center near me 2026, <?= htmlspecialchars($center['shop_name'], ENT_QUOTES, 'UTF-8') ?>, Honor smartphone repair, mobile repair expert, screen replacement, battery replacement, Honor Magic repair, Honor X series service, authorized Honor service, genuine Honor parts, Honor warranty repair">
     <meta name="author" content="Honor Device Co. Ltd">
-    <meta name="robots" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1">
-    <meta name="theme-color" content="#1e88e5">
+        <meta name="theme-color" content="#1e88e5">
     
     <!-- Enhanced Open Graph Tags -->
     <meta property="og:type" content="business.business">
@@ -174,7 +173,8 @@ $breadcrumbSchema = [
     <meta name="twitter:description" content="Professional Honor smartphone repair with genuine parts ⭐ 4.8/5 rated service center">
     <meta name="twitter:image" content="https://images.unsplash.com/photo-1556656793-08538906a9f8?w=1200&h=630&fit=crop">
     
-    <title><?= htmlspecialchars($center['page_title'], ENT_QUOTES, 'UTF-8') ?></title>
+    <link rel="canonical" href="https://www.thiyagi.com/C:/xampp/htdocs/live/thiyagi-n/service-center/honor/service-center">
+<title><?= htmlspecialchars($center['page_title'], ENT_QUOTES, 'UTF-8') ?></title>
     
     <!-- Schema.org JSON-LD -->
     <script type="application/ld+json">
@@ -355,7 +355,8 @@ $breadcrumbSchema = [
     }
     </script>
 
-    <title><?= htmlspecialchars($center['page_title'], ENT_QUOTES, 'UTF-8') ?></title>
+    <link rel="canonical" href="https://www.thiyagi.com/C:/xampp/htdocs/live/thiyagi-n/service-center/honor/service-center">
+<title><?= htmlspecialchars($center['page_title'], ENT_QUOTES, 'UTF-8') ?></title>
     
     <!-- Modern CSS Framework -->
     <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" rel="stylesheet">

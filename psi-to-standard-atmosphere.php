@@ -1,6 +1,7 @@
 <?php include 'header.php'; ?>
 
 <!-- SEO Meta Tags -->
+<link rel="canonical" href="https://www.thiyagi.com/C:/xampp/htdocs/live/thiyagi-n/psi-to-standard-atmosphere">
 <title>PSI to Standard Atmosphere Converter 2026 - psi to atm Calculator | Thiyagi</title>
 <meta name="description" content="Free online PSI to Standard Atmosphere converter 2026. Convert psi to atm and atm to psi instantly with accurate pressure conversion for engineering.">
 <meta name="keywords" content="psi to standard atmosphere converter 2026, psi to atm, pressure converter, atmospheric pressure, tire pressure, engineering calculations">

@@ -1,6 +1,7 @@
 <?php include 'header.php'; ?>
 
 <!-- SEO Meta Tags -->
+<link rel="canonical" href="https://www.thiyagi.com/C:/xampp/htdocs/live/thiyagi-n/nanosecond-to-second">
 <title>Nanosecond to Second Converter 2026 - ns to s Calculator | Thiyagi</title>
 <meta name="description" content="Free online Nanosecond to Second converter 2026. Convert ns to s and s to ns instantly with accurate time conversion for electronics and physics.">
 <meta name="keywords" content="nanosecond to second converter 2026, ns to s, time converter, electronics timing, physics calculations, nanosecond measurements">

@@ -1,6 +1,7 @@
 <?php include 'header.php'; ?>
 
 <!-- SEO Meta Tags -->
+<link rel="canonical" href="https://www.thiyagi.com/C:/xampp/htdocs/live/thiyagi-n/milliliter-to-teaspoon-metric">
 <title>Milliliter to Teaspoon Metric Converter 2026 - mL to tsp Calculator | Thiyagi</title>
 <meta name="description" content="Free online Milliliter to Teaspoon Metric converter 2026. Convert mL to tsp metric and tsp to mL instantly with accurate cooking measurement conversion.">
 <meta name="keywords" content="milliliter to teaspoon metric converter 2026, mL to tsp, cooking conversion, metric teaspoon, recipe measurement">

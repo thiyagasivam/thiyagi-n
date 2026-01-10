@@ -1,6 +1,7 @@
 <?php include 'header.php'; ?>
 
 <!-- SEO Meta Tags -->
+<link rel="canonical" href="https://www.thiyagi.com/C:/xampp/htdocs/live/thiyagi-n/cm-to-km">
 <title>Centimeter to Kilometer Converter 2026 - cm to km Calculator | Thiyagi</title>
 <meta name="description" content="Free online Centimeter to Kilometer converter 2026. Convert cm to km and km to cm instantly with accurate length measurement conversion.">
 <meta name="keywords" content="centimeter to kilometer converter 2026, cm to km, length conversion, metric distance, measurement calculator">

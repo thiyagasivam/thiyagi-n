@@ -1,6 +1,7 @@
 <?php include 'header.php'; ?>
 
 <!-- SEO Meta Tags -->
+<link rel="canonical" href="https://www.thiyagi.com/C:/xampp/htdocs/live/thiyagi-n/kilogram-to-milligram">
 <title>Kilogram to Milligram Converter 2026 - kg to mg Calculator | Thiyagi</title>
 <meta name="description" content="Free online Kilogram to Milligram converter 2026. Convert kg to mg and mg to kg instantly with accurate mass conversion.">
 <meta name="keywords" content="kilogram to milligram converter 2026, kg to mg, mass conversion, weight units, metric calculator">

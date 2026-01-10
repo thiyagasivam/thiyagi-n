@@ -60,8 +60,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
     <meta name="description" content="Free Mizoram electricity bill calculator 2026. Calculate your MSEB (Mizoram State Electricity Board) bill with latest tariff rates, subsidies, and fixed charges. Instant calculation with detailed breakdown.">
     <meta name="keywords" content="Mizoram electricity bill calculator 2026, MSEB bill calculator, electricity bill Mizoram, tariff rates Mizoram, power bill calculator, electricity charges calculator, Mizoram power bill">
     <meta name="author" content="Thiyagi">
-    <meta name="robots" content="index, follow">
-    <meta name="language" content="English">
+        <meta name="language" content="English">
     <meta name="revisit-after" content="7 days">
     
     <!-- Open Graph / Facebook -->

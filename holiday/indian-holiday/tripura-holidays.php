@@ -6,8 +6,7 @@
     <meta name="description" content="Complete Tripura Holiday Calendar 2026. Find all major festivals, national holidays, cultural events, and religious celebrations in Tripura. Plan your year with our comprehensive holiday guide.">
     <meta name="keywords" content="Tripura holidays 2026, Tripura festivals, Kharchi Puja, Garia Puja, Dolyatra, national holidays India, cultural events Tripura, Tripura calendar, holidays Tripura, festival dates 2026">
     <meta name="author" content="Tripura Holiday Calendar">
-    <meta name="robots" content="index, follow">
-    <meta property="og:title" content="Tripura Holidays 2026 - Complete Calendar">
+        <meta property="og:title" content="Tripura Holidays 2026 - Complete Calendar">
     <meta property="og:description" content="Complete Tripura Holiday Calendar 2026 with all festivals, national holidays, and cultural events. Plan your year with our comprehensive guide.">
     <meta property="og:type" content="website">
     <meta property="og:url" content="<?php echo 'https://' . $_SERVER['HTTP_HOST'] . $_SERVER['REQUEST_URI']; ?>">

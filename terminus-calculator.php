@@ -7,8 +7,7 @@
     <meta name="description" content="Advanced terminal-style calculator 2026 with mathematical functions, scientific operations, and programming calculations. Professional command-line calculator interface.">
     <meta name="keywords" content="terminus calculator 2026, terminal calculator, command line calculator, scientific calculator, math calculator, programming calculator">
     <meta name="author" content="Thiyagi">
-    <meta name="robots" content="index, follow">
-    
+        
     <!-- Open Graph Meta Tags -->
     <meta property="og:title" content="Terminus Calculator 2026 - Terminal Math Calculator">
     <meta property="og:description" content="Advanced terminal-style calculator with mathematical functions, scientific operations, and programming calculations.">

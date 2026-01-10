@@ -6,8 +6,7 @@
     <meta name="description" content="Complete Andhra Pradesh Holiday Calendar 2026. Find all Telugu festivals, national holidays, cultural events, and religious celebrations. Plan your year with our comprehensive holiday guide.">
     <meta name="keywords" content="Andhra Pradesh holidays 2026, Telugu festivals, Ugadi, Telugu New Year, national holidays India, Telugu cultural events, Andhra Pradesh calendar, holidays Andhra Pradesh, festival dates 2026">
     <meta name="author" content="Andhra Pradesh Holiday Calendar">
-    <meta name="robots" content="index, follow">
-    <meta property="og:title" content="Andhra Pradesh Holidays 2026 - Complete Calendar">
+        <meta property="og:title" content="Andhra Pradesh Holidays 2026 - Complete Calendar">
     <meta property="og:description" content="Complete Andhra Pradesh Holiday Calendar 2026 with all festivals, national holidays, and cultural events. Plan your year with our comprehensive guide.">
     <meta property="og:type" content="website">
     <meta property="og:url" content="<?php echo 'https://' . $_SERVER['HTTP_HOST'] . $_SERVER['REQUEST_URI']; ?>">

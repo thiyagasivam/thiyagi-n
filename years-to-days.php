@@ -1,6 +1,7 @@
 <?php include 'header.php'; ?>
 
 <!-- SEO Meta Tags -->
+<link rel="canonical" href="https://www.thiyagi.com/C:/xampp/htdocs/live/thiyagi-n/years-to-days">
 <title>Years to Days Converter 2026 - yr to days Calculator | Thiyagi</title>
 <meta name="description" content="Free online Years to Days converter 2026. Convert yr to days and days to yr instantly with accurate time conversion including leap years.">
 <meta name="keywords" content="years to days converter 2026, yr to days, time converter, calendar conversion, age calculation, date conversion">

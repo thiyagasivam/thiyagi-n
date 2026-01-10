@@ -1,6 +1,7 @@
 <?php include 'header.php'; ?>
 
 <!-- SEO Meta Tags -->
+<link rel="canonical" href="https://www.thiyagi.com/C:/xampp/htdocs/live/thiyagi-n/terabyte-to-gigabyte">
 <title>Terabyte to Gigabyte Converter 2026 - Data Storage Calculator | Thiyagi</title>
 <meta name="description" content="Free online terabyte to gigabyte converter 2026. Convert TB to GB instantly with accurate data storage conversion for computing applications.">
 <meta name="keywords" content="terabyte to gigabyte converter 2026, TB to GB, data converter, storage calculator, computing converter">

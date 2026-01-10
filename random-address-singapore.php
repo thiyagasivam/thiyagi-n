@@ -7,8 +7,7 @@
     <meta name="description" content="Random Singapore address generator 2026 - generate realistic fake Singapore addresses with postal codes, districts, HDB blocks, and condominiums for testing purposes.">
     <meta name="keywords" content="random singapore address generator 2026, fake singapore address, singapore postal code generator, singapore address for testing">
     <meta name="author" content="Thiyagi">
-    <meta name="robots" content="index, follow">
-    
+        
     <!-- Open Graph Meta Tags -->
     <meta property="og:title" content="Random Singapore Address Generator 2026 - Fake Singapore Addresses">
     <meta property="og:description" content="Generate realistic fake Singapore addresses with postal codes and districts for testing and development purposes.">

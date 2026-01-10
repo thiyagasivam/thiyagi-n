@@ -4779,8 +4779,7 @@ class PincodeDistrictPage {
     <meta name="description" content="<?php echo htmlspecialchars($description); ?>">
     <meta name="keywords" content="<?php echo htmlspecialchars($districtName); ?> pincode, <?php echo htmlspecialchars($stateName); ?> <?php echo htmlspecialchars($districtName); ?> postal code, <?php echo $districtSlug; ?> district pincode">
     <meta name="author" content="Thiyagi">
-    <meta name="robots" content="index, follow">
-    <link rel="canonical" href="https://www.thiyagi.com/pincode/<?php echo $stateSlug; ?>/<?php echo $districtSlug; ?>">
+        <link rel="canonical" href="https://www.thiyagi.com/pincode/<?php echo $stateSlug; ?>/<?php echo $districtSlug; ?>">
 
     <!-- Open Graph / Facebook -->
     <meta property="og:type" content="website">

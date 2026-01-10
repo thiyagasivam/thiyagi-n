@@ -1,4 +1,6 @@
 <?php include 'header.php';?>
+<link rel="canonical" href="https://www.thiyagi.com/meta-tags-analyzer">
+
 
 <?php
 // Function to fetch and analyze meta tags from a URL

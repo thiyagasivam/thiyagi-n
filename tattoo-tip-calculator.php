@@ -7,8 +7,7 @@
     <meta name="description" content="Tattoo tip calculator 2026 - calculate appropriate gratuity for your tattoo artist. Professional tipping guide for tattoo sessions, touch-ups, and custom work.">
     <meta name="keywords" content="tattoo tip calculator 2026, tattoo gratuity calculator, how much to tip tattoo artist, tattoo tipping guide, tattoo tip etiquette">
     <meta name="author" content="Thiyagi">
-    <meta name="robots" content="index, follow">
-    
+        
     <!-- Open Graph Meta Tags -->
     <meta property="og:title" content="Tattoo Tip Calculator 2026 - Calculate Tattoo Artist Gratuity">
     <meta property="og:description" content="Calculate appropriate gratuity for your tattoo artist. Professional tipping guide for tattoo sessions and custom work.">

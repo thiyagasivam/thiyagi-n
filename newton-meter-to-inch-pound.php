@@ -1,4 +1,6 @@
 <?php include 'header.php';?>
+<link rel="canonical" href="https://www.thiyagi.com/newton-meter-to-inch-pound">
+
 
 <!DOCTYPE html>
 <html lang="en">

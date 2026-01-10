@@ -1,4 +1,6 @@
 <?php include 'header.php';?>
+<link rel="canonical" href="https://www.thiyagi.com/toilet-paper-calculator">
+
 <?php
 // Function to calculate toilet paper needs
 function calculateToiletPaper($people, $days, $sheetsPerDay) {

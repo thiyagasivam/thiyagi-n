@@ -8,6 +8,7 @@ $canonical_url = "https://" . $_SERVER['HTTP_HOST'] . $_SERVER['REQUEST_URI'];
 include '../../header.php'; 
 ?>
 
+<link rel="canonical" href="https://www.thiyagi.com/C:/xampp/htdocs/live/thiyagi-n/holiday/uk-holiday/wales-holidays">
 <title><?php echo $page_title; ?></title>
 <meta name="description" content="<?php echo $page_description; ?>">
 <meta name="keywords" content="<?php echo $page_keywords; ?>">

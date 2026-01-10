@@ -1,6 +1,7 @@
 <?php include 'header.php'; ?>
 
 <!-- SEO Meta Tags -->
+<link rel="canonical" href="https://www.thiyagi.com/C:/xampp/htdocs/live/thiyagi-n/cups-to-pint">
 <title>Cups to Pints Converter 2026 - Volume Calculator | Thiyagi</title>
 <meta name="description" content="Free online cups to pints converter 2026. Convert cups to pt instantly with accurate volume conversion for cooking and recipe measurements.">
 <meta name="keywords" content="cups to pints converter 2026, cups to pt, volume converter, cooking calculator, recipe converter">

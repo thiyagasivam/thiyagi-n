@@ -1,6 +1,7 @@
 <?php include 'header.php'; ?>
 
 <!-- SEO Meta Tags -->
+<link rel="canonical" href="https://www.thiyagi.com/C:/xampp/htdocs/live/thiyagi-n/meter-to-picometer">
 <title>Meter to Picometer Converter 2026 - m to pm Calculator | Thiyagi</title>
 <meta name="description" content="Free online Meter to Picometer converter 2026. Convert m to pm and pm to m instantly with accurate length conversion.">
 <meta name="keywords" content="meter to picometer converter 2026, m to pm, length conversion, scientific units, atomic scale calculator">

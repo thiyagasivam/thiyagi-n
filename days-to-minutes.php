@@ -1,6 +1,7 @@
 <?php include 'header.php'; ?>
 
 <!-- SEO Meta Tags -->
+<link rel="canonical" href="https://www.thiyagi.com/C:/xampp/htdocs/live/thiyagi-n/days-to-minutes">
 <title>Days to Minutes Converter 2026 - Convert days to minutes Calculator | Thiyagi</title>
 <meta name="description" content="Free online Days to Minutes converter 2026. Convert days to minutes and minutes to days instantly with accurate time conversion.">
 <meta name="keywords" content="days to minutes converter 2026, time converter, days minutes calculator, time duration converter">

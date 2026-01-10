@@ -1,6 +1,7 @@
 <?php include 'header.php'; ?>
 
 <!-- SEO Meta Tags -->
+<link rel="canonical" href="https://www.thiyagi.com/C:/xampp/htdocs/live/thiyagi-n/tonne-to-pound">
 <title>Tonne to Pound Converter 2026 - Weight Calculator | Thiyagi</title>
 <meta name="description" content="Free online tonne to pound converter 2026. Convert metric tonnes to pounds instantly with accurate weight conversion for shipping and logistics.">
 <meta name="keywords" content="tonne to pound converter 2026, tonne to lb, weight converter, metric converter, shipping calculator">

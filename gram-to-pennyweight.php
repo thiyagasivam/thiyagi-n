@@ -1,6 +1,7 @@
 <?php include 'header.php'; ?>
 
 <!-- SEO Meta Tags -->
+<link rel="canonical" href="https://www.thiyagi.com/C:/xampp/htdocs/live/thiyagi-n/gram-to-pennyweight">
 <title>Gram to Pennyweight Converter 2026 - g to dwt Calculator | Thiyagi</title>
 <meta name="description" content="Free online gram to pennyweight converter 2026. Convert g to dwt and dwt to g instantly with accurate weight conversion for precious metals.">
 <meta name="keywords" content="gram to pennyweight converter 2026, g to dwt, precious metals weight, jewelry measurement, troy weight system">

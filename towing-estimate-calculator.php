@@ -7,8 +7,7 @@
     <meta name="description" content="Towing estimate calculator 2026 - calculate towing service costs based on distance, vehicle type, time of service, and additional factors for accurate pricing.">
     <meta name="keywords" content="towing calculator 2026, towing cost estimator, tow truck price calculator, auto towing estimate, roadside assistance calculator">
     <meta name="author" content="Thiyagi">
-    <meta name="robots" content="index, follow">
-    
+        
     <!-- Open Graph Meta Tags -->
     <meta property="og:title" content="Towing Estimate Calculator 2026 - Calculate Towing Service Costs">
     <meta property="og:description" content="Calculate accurate towing service costs based on distance, vehicle type, and service requirements.">

@@ -7,8 +7,7 @@
     <meta name="description" content="Complete Andaman & Nicobar Holiday Calendar 2026. Find island festivals, national & regional holidays, bank holidays and cultural events.">
     <meta name="keywords" content="Andaman holidays 2026, Nicobar festivals, Andaman and Nicobar calendar, island holidays, India holidays 2026, Nicobar holidays 2026, island festivals 2026, local bank holidays Andaman, Nicobar calendar 2026">
     <meta name="author" content="Andaman & Nicobar Holiday Calendar">
-    <meta name="robots" content="index, follow">
-    <meta property="og:title" content="Andaman & Nicobar Holidays 2026 - Complete Calendar">
+        <meta property="og:title" content="Andaman & Nicobar Holidays 2026 - Complete Calendar">
     <meta property="og:description" content="Complete Andaman & Nicobar Holiday Calendar 2026 with national, regional and bank holidays.">
     <meta property="og:type" content="website">
     <meta property="og:url" content="<?php echo 'https://' . $_SERVER['HTTP_HOST'] . $_SERVER['REQUEST_URI']; ?>">

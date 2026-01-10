@@ -1,4 +1,6 @@
 <?php include 'header.php';?>
+<link rel="canonical" href="https://www.thiyagi.com/average-speed-calculator">
+
 <?php
 // Initialize variables
 $distance = '';

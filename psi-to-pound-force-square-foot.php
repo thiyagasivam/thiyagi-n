@@ -1,6 +1,7 @@
 <?php include 'header.php'; ?>
 
 <!-- SEO Meta Tags -->
+<link rel="canonical" href="https://www.thiyagi.com/C:/xampp/htdocs/live/thiyagi-n/psi-to-pound-force-square-foot">
 <title>PSI to Pound Force per Square Foot Converter 2026 - psi to lbf/ft² Calculator | Thiyagi</title>
 <meta name="description" content="Free online PSI to pound force per square foot converter 2026. Convert psi to lbf/ft² and lbf/ft² to psi instantly with accurate pressure conversion.">
 <meta name="keywords" content="psi to lbf/ft² converter 2026, psi to pound force square foot, pressure converter, imperial pressure units">

@@ -1,6 +1,7 @@
 <?php include 'header.php'; ?>
 
 <!-- SEO Meta Tags -->
+<link rel="canonical" href="https://www.thiyagi.com/C:/xampp/htdocs/live/thiyagi-n/kilogram-to-tonne">
 <title>Kilogram to Tonne Converter 2026 - kg to tonne Calculator | Thiyagi</title>
 <meta name="description" content="Free online Kilogram to Tonne converter 2026. Convert kg to tonne and tonne to kg instantly with accurate metric weight conversion.">
 <meta name="keywords" content="kilogram to tonne converter 2026, kg to tonne, metric weight converter, mass converter, industrial weighing">

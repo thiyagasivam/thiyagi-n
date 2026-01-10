@@ -1,6 +1,7 @@
 <?php include 'header.php'; ?>
 
 <!-- SEO Meta Tags -->
+<link rel="canonical" href="https://www.thiyagi.com/C:/xampp/htdocs/live/thiyagi-n/gallon-to-cups">
 <title>Gallon to Cups Converter 2026 - gal to cups Calculator | Thiyagi</title>
 <meta name="description" content="Free online Gallon to Cups converter 2026. Convert gallons to cups and cups to gallons instantly with accurate volume conversion.">
 <meta name="keywords" content="gallon to cups converter 2026, gal to cups, volume converter, cooking conversion, liquid measurement">

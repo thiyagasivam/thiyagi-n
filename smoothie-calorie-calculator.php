@@ -7,8 +7,7 @@
     <meta name="description" content="Smoothie calorie calculator 2026 - calculate calories, protein, carbs, and fats for your custom smoothie recipes. Plan healthy smoothies with nutrition tracking.">
     <meta name="keywords" content="smoothie calorie calculator 2026, smoothie nutrition calculator, protein smoothie calories, healthy smoothie calculator, smoothie macros calculator">
     <meta name="author" content="Thiyagi">
-    <meta name="robots" content="index, follow">
-    
+        
     <!-- Open Graph Meta Tags -->
     <meta property="og:title" content="Smoothie Calorie Calculator 2026 - Calculate Nutrition & Calories">
     <meta property="og:description" content="Calculate calories, protein, carbs, and fats for your custom smoothie recipes with detailed nutrition information.">

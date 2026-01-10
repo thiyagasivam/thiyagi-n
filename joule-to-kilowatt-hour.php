@@ -1,6 +1,7 @@
 <?php include 'header.php'; ?>
 
 <!-- SEO Meta Tags -->
+<link rel="canonical" href="https://www.thiyagi.com/C:/xampp/htdocs/live/thiyagi-n/joule-to-kilowatt-hour">
 <title>Joule to Kilowatt Hour Converter 2026 - J to kWh Calculator | Thiyagi</title>
 <meta name="description" content="Free online Joule to Kilowatt Hour converter 2026. Convert J to kWh and kWh to J instantly with accurate energy conversion.">
 <meta name="keywords" content="joule to kilowatt hour converter 2026, J to kWh, energy converter, electrical energy, power consumption">

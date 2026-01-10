@@ -1,6 +1,7 @@
 <?php include 'header.php'; ?>
 
 <!-- SEO Meta Tags -->
+<link rel="canonical" href="https://www.thiyagi.com/C:/xampp/htdocs/live/thiyagi-n/megohm-to-ohm">
 <title>Megohm to Ohm Converter 2026 - MΩ to Ω Electrical Resistance Calculator | Thiyagi</title>
 <meta name="description" content="Free online Megohm to Ohm converter 2026. Convert MΩ to Ω and Ω to MΩ instantly with accurate electrical resistance conversion.">
 <meta name="keywords" content="megohm to ohm converter 2026, MΩ to Ω, electrical resistance, electronics calculator">

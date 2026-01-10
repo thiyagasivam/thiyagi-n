@@ -1,4 +1,6 @@
 <?php include 'header.php';?>
+<link rel="canonical" href="https://www.thiyagi.com/youtube-title-checker">
+
 <?php
 /**
  * YouTube Title Checker Tool

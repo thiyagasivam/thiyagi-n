@@ -1,6 +1,7 @@
 <?php include 'header.php'; ?>
 
 <!-- SEO Meta Tags -->
+<link rel="canonical" href="https://www.thiyagi.com/C:/xampp/htdocs/live/thiyagi-n/meter-to-foot-us-survey">
 <title>Meter to Foot (US Survey) Converter 2026 - Length Calculator | Thiyagi</title>
 <meta name="description" content="Free online meter to US survey foot converter 2026. Convert meters to US survey feet instantly with accurate length conversion. Perfect for surveying and mapping.">
 <meta name="keywords" content="meter to foot us survey converter 2026, meter to survey foot, surveying converter, mapping calculator, length measurement">

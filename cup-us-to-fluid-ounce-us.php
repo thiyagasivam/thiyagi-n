@@ -1,6 +1,7 @@
 <?php include 'header.php'; ?>
 
 <!-- SEO Meta Tags -->
+<link rel="canonical" href="https://www.thiyagi.com/C:/xampp/htdocs/live/thiyagi-n/cup-us-to-fluid-ounce-us">
 <title>Cup US to Fluid Ounce US Converter 2026 - cup to fl oz Calculator | Thiyagi</title>
 <meta name="description" content="Free online Cup US to Fluid Ounce US converter 2026. Convert cup to fl oz and fl oz to cup instantly with accurate cooking measurement conversion.">
 <meta name="keywords" content="cup to fluid ounce converter 2026, cup to fl oz US, cooking measurements, baking converter, kitchen units">

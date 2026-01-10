@@ -1,4 +1,6 @@
 <?php include 'header.php';?>
+<link rel="canonical" href="https://www.thiyagi.com/ton-register-to-cubic-yard">
+
 
 <!DOCTYPE html>
 <html lang="en">

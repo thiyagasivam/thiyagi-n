@@ -1,6 +1,7 @@
 <?php include 'header.php'; ?>
 
 <!-- SEO Meta Tags -->
+<link rel="canonical" href="https://www.thiyagi.com/C:/xampp/htdocs/live/thiyagi-n/mile-statute-to-kilometer">
 <title>Mile Statute to Kilometer Converter 2026 - mi to km Calculator | Thiyagi</title>
 <meta name="description" content="Free online Mile Statute to Kilometer converter 2026. Convert statute miles to km and km to mi instantly with accurate distance conversion.">
 <meta name="keywords" content="mile statute to kilometer converter 2026, mi to km, statute mile converter, distance conversion, imperial to metric">

@@ -1,6 +1,7 @@
 <?php include 'header.php'; ?>
 
 <!-- SEO Meta Tags -->
+<link rel="canonical" href="https://www.thiyagi.com/C:/xampp/htdocs/live/thiyagi-n/grain-to-pound">
 <title>Grain to Pound Converter 2026 - gr to lb Calculator | Thiyagi</title>
 <meta name="description" content="Free online Grain to Pound converter 2026. Convert gr to lb and lb to gr instantly with accurate weight conversion for pharmacy and jewelry.">
 <meta name="keywords" content="grain to pound converter 2026, gr to lb, weight converter, pharmaceutical weight, apothecary weight, Troy grain">

@@ -1,6 +1,7 @@
 <?php include 'header.php'; ?>
 
 <!-- SEO Meta Tags -->
+<link rel="canonical" href="https://www.thiyagi.com/C:/xampp/htdocs/live/thiyagi-n/foot-to-kilometer">
 <title>Foot to Kilometer Converter 2026 - Distance Calculator | Thiyagi</title>
 <meta name="description" content="Free online foot to kilometer converter 2026. Convert feet to kilometers instantly with accurate distance conversion. Perfect for aviation, mapping, and international measurements.">
 <meta name="keywords" content="foot to kilometer converter 2026, feet to km, distance converter, aviation calculator, mapping tool, international conversion">

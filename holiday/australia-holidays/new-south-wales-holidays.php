@@ -4,7 +4,6 @@
 <meta name="description" content="Complete New South Wales Holiday Calendar 2026. Find all NSW public holidays, bank holidays, Easter Saturday, Bank Holiday, Labour Day, and state-specific observances for Sydney and NSW.">
 <meta name="keywords" content="NSW holidays 2026, New South Wales public holidays, Sydney holidays, Bank Holiday NSW, Queen's Birthday NSW, Easter Saturday, Labour Day NSW">
 <meta name="author" content="NSW Holiday Calendar">
-<meta name="robots" content="index, follow">
 <meta property="og:title" content="New South Wales Holidays 2026 - Complete Calendar">
 <meta property="og:description" content="Complete NSW Holiday Calendar 2026 with all public holidays, bank holidays, and state-specific observances.">
 <meta property="og:type" content="website">

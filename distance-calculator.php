@@ -24,7 +24,6 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
     <title>Distance Calculator 2026 - Find Distance Between Two Locations</title>
     <meta name="description" content="2026 Distance Calculator: Instantly find the distance between two locations, cities, or towns. Modern, SEO-friendly, mobile-ready tool for India and worldwide.">
     <meta name="keywords" content="distance calculator 2026, city distance, km calculator, road distance, map distance, travel distance, india, online tool">
-    <meta name="robots" content="index, follow">
     <link rel="canonical" href="https://www.thiyagi.com/distance-calculator">
     <!-- Open Graph / Facebook -->
     <meta property="og:type" content="website">

@@ -4,7 +4,6 @@
 <meta name="description" content="Complete Victoria Holiday Calendar 2026. Find all VIC public holidays, Melbourne Cup Day, AFL Grand Final Friday, Labour Day, and state-specific observances for Melbourne and Victoria.">
 <meta name="keywords" content="Victoria holidays 2026, VIC public holidays, Melbourne holidays, Melbourne Cup Day, AFL Grand Final Friday, Labour Day Victoria">
 <meta name="author" content="Victoria Holiday Calendar">
-<meta name="robots" content="index, follow">
 <meta property="og:title" content="Victoria Holidays 2026 - Complete Calendar">
 <meta property="og:description" content="Complete Victoria Holiday Calendar 2026 with Melbourne Cup Day, AFL Grand Final Friday, and all public holidays.">
 <meta property="og:type" content="website">

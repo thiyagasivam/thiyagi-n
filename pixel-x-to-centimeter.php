@@ -1,6 +1,7 @@
 <?php include 'header.php'; ?>
 
 <!-- SEO Meta Tags -->
+<link rel="canonical" href="https://www.thiyagi.com/C:/xampp/htdocs/live/thiyagi-n/pixel-x-to-centimeter">
 <title>Pixel to Centimeter Converter 2026 - DPI Calculator | Thiyagi</title>
 <meta name="description" content="Free online pixel to centimeter converter 2026. Convert pixels to cm with DPI settings instantly. Perfect for graphic design and printing calculations.">
 <meta name="keywords" content="pixel to centimeter converter 2026, px to cm, DPI converter, graphic design calculator, printing converter">

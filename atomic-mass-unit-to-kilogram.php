@@ -1,6 +1,7 @@
 <?php include 'header.php'; ?>
 
 <!-- SEO Meta Tags -->
+<link rel="canonical" href="https://www.thiyagi.com/C:/xampp/htdocs/live/thiyagi-n/atomic-mass-unit-to-kilogram">
 <title>Atomic Mass Unit to Kilogram Converter 2026 - u to kg Calculator | Thiyagi</title>
 <meta name="description" content="Free online Atomic Mass Unit to Kilogram converter 2026. Convert u to kg and kg to u instantly with accurate atomic mass conversion.">
 <meta name="keywords" content="atomic mass unit to kilogram converter 2026, u to kg, atomic mass, molecular weight calculator">

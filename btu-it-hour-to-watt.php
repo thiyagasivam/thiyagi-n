@@ -1,6 +1,7 @@
 <?php include 'header.php'; ?>
 
 <!-- SEO Meta Tags -->
+<link rel="canonical" href="https://www.thiyagi.com/C:/xampp/htdocs/live/thiyagi-n/btu-it-hour-to-watt">
 <title>BTU IT per Hour to Watt Converter 2026 - BTU/h to W Calculator | Thiyagi</title>
 <meta name="description" content="Free online BTU IT per Hour to Watt converter 2026. Convert BTU/h to W and W to BTU/h instantly with accurate power conversion for HVAC and energy systems.">
 <meta name="keywords" content="BTU per hour to watt converter 2026, BTU/h to W, power converter, HVAC power, energy conversion, heating cooling">

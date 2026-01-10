@@ -396,8 +396,7 @@ class DynamicPincodeGenerator {
     <meta name="description" content="<?php echo htmlspecialchars($description); ?>">
     <meta name="keywords" content="<?php echo htmlspecialchars($areaName); ?> pincode, <?php echo $pincode; ?>, <?php echo htmlspecialchars($districtName); ?> pincode, <?php echo htmlspecialchars($stateName); ?> pincode, postal code, India post">
     <meta name="author" content="Thiyagi">
-    <meta name="robots" content="index, follow">
-    <link rel="canonical" href="https://www.thiyagi.com/pincode/<?php echo $state; ?>/<?php echo $district; ?>/<?php echo $area; ?>-pincode-<?php echo $pincode; ?>">
+        <link rel="canonical" href="https://www.thiyagi.com/pincode/<?php echo $state; ?>/<?php echo $district; ?>/<?php echo $area; ?>-pincode-<?php echo $pincode; ?>">
 
     <!-- Open Graph / Facebook -->
     <meta property="og:type" content="website">

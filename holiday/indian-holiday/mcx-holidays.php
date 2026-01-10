@@ -6,8 +6,7 @@
     <meta name="description" content="Complete MCX Holidays 2026 Calendar. Find all trading holidays for the Multi Commodity Exchange (MCX). Plan your commodity trading year.">
     <meta name="keywords" content="MCX holidays 2026, MCX trading holidays, commodity market holidays, MCX calendar, non-agri commodity trading, MCX holiday list">
     <meta name="author" content="MCX Holiday Calendar">
-    <meta name="robots" content="index, follow">
-    <meta property="og:title" content="MCX Holidays 2026 - Complete Trading Holiday Calendar">
+        <meta property="og:title" content="MCX Holidays 2026 - Complete Trading Holiday Calendar">
     <meta property="og:description" content="Complete MCX Holidays 2026 with all trading holidays for non-agricultural commodities. Plan your commodity trading year.">
     <meta property="og:type" content="website">
     <meta property="og:url" content="<?php echo 'https://' . $_SERVER['HTTP_HOST'] . $_SERVER['REQUEST_URI']; ?>">

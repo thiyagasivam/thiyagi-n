@@ -1,6 +1,7 @@
 <?php include 'header.php'; ?>
 
 <!-- SEO Meta Tags -->
+<link rel="canonical" href="https://www.thiyagi.com/C:/xampp/htdocs/live/thiyagi-n/cubic-meter-to-gallon-us">
 <title>Cubic Meter to US Gallon Converter 2026 - Volume Calculator | Thiyagi</title>
 <meta name="description" content="Free online cubic meter to US gallon converter 2026. Convert m³ to gal instantly with accurate volume conversion for engineering and liquid measurements.">
 <meta name="keywords" content="cubic meter to us gallon converter 2026, m³ to gal, volume converter, engineering calculator, liquid measurements">

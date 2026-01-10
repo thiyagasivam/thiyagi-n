@@ -6,8 +6,7 @@
     <meta name="description" content="Complete West Bengal Holiday Calendar 2026. Find all major festivals like Durga Puja, Poila Boishakh, Janmashtami, national holidays, cultural events, and religious celebrations. Plan your year with our comprehensive holiday guide.">
     <meta name="keywords" content="West Bengal holidays 2026, Durga Puja, Poila Boishakh, Janmashtami, national holidays India, cultural events West Bengal, West Bengal calendar, holidays West Bengal, festival dates 2026">
     <meta name="author" content="West Bengal Holiday Calendar">
-    <meta name="robots" content="index, follow">
-    <meta property="og:title" content="West Bengal Holidays 2026 - Complete Calendar">
+        <meta property="og:title" content="West Bengal Holidays 2026 - Complete Calendar">
     <meta property="og:description" content="Complete West Bengal Holiday Calendar 2026 with all festivals like Durga Puja, Poila Boishakh, national holidays, and cultural events. Plan your year with our comprehensive guide.">
     <meta property="og:type" content="website">
     <meta property="og:url" content="<?php echo 'https://' . $_SERVER['HTTP_HOST'] . $_SERVER['REQUEST_URI']; ?>">

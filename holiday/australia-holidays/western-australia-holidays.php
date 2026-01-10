@@ -4,7 +4,6 @@
 <meta name="description" content="Complete Western Australia Holiday Calendar 2026. Find all WA public holidays, Western Australia Day, Labour Day, and state-specific observances for Perth and Western Australia.">
 <meta name="keywords" content="Western Australia holidays 2026, WA public holidays, Perth holidays, Western Australia Day, Labour Day WA, WA Day">
 <meta name="author" content="Western Australia Holiday Calendar">
-<meta name="robots" content="index, follow">
 <meta property="og:title" content="Western Australia Holidays 2026 - Complete Calendar">
 <meta property="og:description" content="Complete Western Australia Holiday Calendar 2026 with WA Day, Labour Day, and all public holidays.">
 <meta property="og:type" content="website">

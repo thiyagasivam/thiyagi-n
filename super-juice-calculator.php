@@ -7,8 +7,7 @@
     <meta name="description" content="Super juice calculator 2026 - calculate nutrition values, antioxidant levels, vitamin content, and health benefits for custom juice recipes and combinations.">
     <meta name="keywords" content="super juice calculator 2026, nutrition calculator, antioxidant calculator, juice recipe calculator, vitamin content calculator">
     <meta name="author" content="Thiyagi">
-    <meta name="robots" content="index, follow">
-    
+        
     <!-- Open Graph Meta Tags -->
     <meta property="og:title" content="Super Juice Calculator 2026 - Nutrition & Antioxidant Calculator">
     <meta property="og:description" content="Calculate nutrition values and health benefits for custom super juice recipes.">

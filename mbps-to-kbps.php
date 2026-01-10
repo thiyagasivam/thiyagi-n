@@ -1,6 +1,7 @@
 <?php include 'header.php'; ?>
 
 <!-- SEO Meta Tags -->
+<link rel="canonical" href="https://www.thiyagi.com/C:/xampp/htdocs/live/thiyagi-n/mbps-to-kbps">
 <title>Mbps to Kbps Converter 2026 - Data Transfer Rate Calculator | Thiyagi</title>
 <meta name="description" content="Free online Mbps to Kbps converter 2026. Convert megabits per second to kilobits per second instantly. Perfect for internet speed and bandwidth calculations.">
 <meta name="keywords" content="mbps to kbps converter 2026, internet speed converter, bandwidth calculator, data transfer rate, network speed">

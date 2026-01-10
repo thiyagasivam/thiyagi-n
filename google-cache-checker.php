@@ -1,4 +1,6 @@
 <?php include 'header.php';?>
+<link rel="canonical" href="https://www.thiyagi.com/google-cache-checker">
+
 
 <?php
 // Function to check Google cache of a URL using cURL

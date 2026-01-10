@@ -1,4 +1,6 @@
 <?php include 'header.php';?>
+<link rel="canonical" href="https://www.thiyagi.com/car-loan-emi-calculator">
+
 
 <?php
 // Function to calculate EMI

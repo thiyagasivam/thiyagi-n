@@ -1,6 +1,7 @@
 <?php include 'header.php'; ?>
 
 <!-- SEO Meta Tags -->
+<link rel="canonical" href="https://www.thiyagi.com/C:/xampp/htdocs/live/thiyagi-n/square-centimeter-to-square-meter">
 <title>Square Centimeter to Square Meter Converter 2026 - Area Calculator | Thiyagi</title>
 <meta name="description" content="Free online square centimeter to square meter converter 2026. Convert cm² to m² instantly with accurate area conversion for engineering and design.">
 <meta name="keywords" content="square centimeter to square meter converter 2026, cm² to m², area converter, engineering calculator, design calculator">

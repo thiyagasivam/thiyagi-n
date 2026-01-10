@@ -1,4 +1,7 @@
 <?php include 'header.php'; ?>
+<link rel="canonical" href="https://www.thiyagi.com/confidence-interval-calculator">
+<title>Confidence Interval Calculator 2026 | Statistical Analysis Tool</title>
+<meta name="description" content="Calculate confidence intervals for mean, proportion, and difference of means. Professional statistical analysis tool with 90%, 95%, and 99% confidence levels.">
 
 <?php
 /**
@@ -9,7 +12,7 @@
 class AdvancedConfidenceIntervalCalculator {
     public $calculationTypes = [
         'mean' => [
-            'name' => 'Mean (µ)',
+            'name' => 'Mean (ï¿½)',
             'description' => 'Confidence interval for population mean',
             'fields' => ['sampleMean', 'standardDeviation', 'sampleSize']
         ],
@@ -411,7 +414,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
         constructor() {
             this.calculationTypes = {
                 'mean': {
-                    'name': 'Mean (µ)',
+                    'name': 'Mean (ï¿½)',
                     'fields': ['sampleMean', 'standardDeviation', 'sampleSize']
                 },
                 'proportion': {
@@ -425,12 +428,12 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
             };
             
             this.fieldLabels = {
-                'sampleMean': 'Sample Mean (x¯)',
+                'sampleMean': 'Sample Mean (xï¿½)',
                 'standardDeviation': 'Standard Deviation (s)',
                 'sampleSize': 'Sample Size (n)',
                 'sampleProportion': 'Sample Proportion (p^)',
-                'mean1': 'Sample Mean 1 (x¯1)',
-                'mean2': 'Sample Mean 2 (x¯2)',
+                'mean1': 'Sample Mean 1 (xï¿½1)',
+                'mean2': 'Sample Mean 2 (xï¿½2)',
                 'std1': 'Standard Deviation 1 (s1)',
                 'std2': 'Standard Deviation 2 (s2)',
                 'n1': 'Sample Size 1 (n1)',

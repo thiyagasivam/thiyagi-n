@@ -1,4 +1,6 @@
 <?php include 'header.php';?>
+<link rel="canonical" href="https://www.thiyagi.com/keyword-density-checker">
+
 
 <?php
 // Function to calculate keyword density

@@ -1,6 +1,7 @@
 <?php include 'header.php'; ?>
 
 <!-- SEO Meta Tags -->
+<link rel="canonical" href="https://www.thiyagi.com/C:/xampp/htdocs/live/thiyagi-n/liter-to-deciliter">
 <title>Liter to Deciliter Converter 2026 - Volume Calculator | Thiyagi</title>
 <meta name="description" content="Free online liter to deciliter converter 2026. Convert L to dL instantly with accurate volume conversion for cooking and laboratory measurements.">
 <meta name="keywords" content="liter to deciliter converter 2026, L to dL, volume converter, cooking calculator, laboratory measurements">

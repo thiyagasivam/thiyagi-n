@@ -1,6 +1,7 @@
 <?php include 'header.php'; ?>
 
 <!-- SEO Meta Tags -->
+<link rel="canonical" href="https://www.thiyagi.com/C:/xampp/htdocs/live/thiyagi-n/millisecond-to-minute">
 <title>Millisecond to Minute Converter 2026 - Time Calculator | Thiyagi</title>
 <meta name="description" content="Free online millisecond to minute converter 2026. Convert milliseconds to minutes instantly. Perfect for programming, gaming, and precise time calculations.">
 <meta name="keywords" content="millisecond to minute converter 2026, time converter, programming calculator, gaming timer, precise time measurement">

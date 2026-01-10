@@ -1,6 +1,7 @@
 <?php include 'header.php'; ?>
 
 <!-- SEO Meta Tags -->
+<link rel="canonical" href="https://www.thiyagi.com/C:/xampp/htdocs/live/thiyagi-n/liters-to-pints">
 <title>Liters to Pints Converter 2026 - L to pt Calculator | Thiyagi</title>
 <meta name="description" content="Free online Liters to Pints converter 2026. Convert liters to pints and pints to liters instantly with accurate volume measurement conversion.">
 <meta name="keywords" content="liters to pints converter 2026, L to pt, volume conversion, liquid measurement, cooking converter">

@@ -1,6 +1,7 @@
 <?php include 'header.php'; ?>
 
 <!-- SEO Meta Tags -->
+<link rel="canonical" href="https://www.thiyagi.com/C:/xampp/htdocs/live/thiyagi-n/cubic-centimeter-to-cubic-meter">
 <title>Cubic Centimeter to Cubic Meter Converter 2026 - cm³ to m³ Calculator | Thiyagi</title>
 <meta name="description" content="Free online Cubic Centimeter to Cubic Meter converter 2026. Convert cm³ to m³ and m³ to cm³ instantly with accurate volume conversion.">
 <meta name="keywords" content="cubic centimeter to cubic meter converter 2026, cm³ to m³, volume converter, metric volume, cubic units">

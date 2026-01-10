@@ -1,6 +1,7 @@
 <?php include 'header.php'; ?>
 
 <!-- SEO Meta Tags -->
+<link rel="canonical" href="https://www.thiyagi.com/C:/xampp/htdocs/live/thiyagi-n/liter-minute-to-cubic-foot-minute">
 <title>Liter Minute to Cubic Foot Minute Converter 2026 - L/min to CFM Calculator | Thiyagi</title>
 <meta name="description" content="Free online Liter Minute to Cubic Foot Minute converter 2026. Convert L/min to CFM and CFM to L/min instantly with accurate flow rate conversion.">
 <meta name="keywords" content="liter minute to cubic foot minute converter 2026, L/min to CFM, flow rate converter, HVAC, ventilation, air flow">

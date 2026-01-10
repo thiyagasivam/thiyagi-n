@@ -13,7 +13,6 @@
 <meta property="og:site_name" content="Thiyagi Tools">
 
 <meta name="author" content="Thiyagi">
-<meta name="robots" content="index, follow">
 <meta name="theme-color" content="#10b981">
 
 <script type="application/ld+json">

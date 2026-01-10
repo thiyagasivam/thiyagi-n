@@ -1,6 +1,7 @@
 <?php include 'header.php'; ?>
 
 <!-- SEO Meta Tags -->
+<link rel="canonical" href="https://www.thiyagi.com/C:/xampp/htdocs/live/thiyagi-n/psi-to-newton-square-meter">
 <title>PSI to Newton per Square Meter Converter 2026 - psi to N/m² Calculator | Thiyagi</title>
 <meta name="description" content="Free online PSI to Newton per Square Meter converter 2026. Convert psi to N/m² and N/m² to psi instantly with accurate pressure unit conversion.">
 <meta name="keywords" content="psi to newton per square meter converter 2026, psi to N/m², pressure conversion, pascal conversion, engineering units">

@@ -1,6 +1,7 @@
 <?php include 'header.php'; ?>
 
 <!-- SEO Meta Tags -->
+<link rel="canonical" href="https://www.thiyagi.com/C:/xampp/htdocs/live/thiyagi-n/btu-it-hour-to-kilowatt">
 <title>BTU IT/Hour to Kilowatt Converter 2026 - Power Calculator | Thiyagi</title>
 <meta name="description" content="Free online BTU IT/hour to kilowatt converter 2026. Convert BTU/h to kW instantly with accurate power conversion for HVAC and energy calculations.">
 <meta name="keywords" content="BTU hour to kilowatt converter 2026, BTU/h to kW, power converter, HVAC calculator, energy conversion">

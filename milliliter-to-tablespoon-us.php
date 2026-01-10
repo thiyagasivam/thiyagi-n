@@ -1,4 +1,6 @@
 <?php include 'header.php';?>
+<link rel="canonical" href="https://www.thiyagi.com/milliliter-to-tablespoon-us">
+
 
 <!DOCTYPE html>
 <html lang="en">

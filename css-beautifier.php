@@ -1,4 +1,6 @@
 <?php include 'header.php';?>
+<link rel="canonical" href="https://www.thiyagi.com/css-beautifier">
+
 
 <?php
 // Function to beautify CSS

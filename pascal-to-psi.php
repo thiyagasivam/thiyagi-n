@@ -1,6 +1,7 @@
 <?php include 'header.php'; ?>
 
 <!-- SEO Meta Tags -->
+<link rel="canonical" href="https://www.thiyagi.com/C:/xampp/htdocs/live/thiyagi-n/pascal-to-psi">
 <title>Pascal to PSI Converter 2026 - Pressure Calculator | Thiyagi</title>
 <meta name="description" content="Free online Pascal to PSI converter 2026. Convert pascals to pounds per square inch instantly. Perfect for engineering and scientific pressure calculations.">
 <meta name="keywords" content="pascal to psi converter 2026, pa to psi, pressure converter, engineering calculator, scientific converter">

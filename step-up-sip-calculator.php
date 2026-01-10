@@ -7,8 +7,7 @@
     <meta name="description" content="Step-up SIP calculator 2026 - calculate systematic investment plan returns with annual increments. Plan your mutual fund investments with step-up strategy.">
     <meta name="keywords" content="step up sip calculator 2026, systematic investment plan calculator, sip return calculator, mutual fund calculator, sip with increment calculator">
     <meta name="author" content="Thiyagi">
-    <meta name="robots" content="index, follow">
-    
+        
     <!-- Open Graph Meta Tags -->
     <meta property="og:title" content="Step-up SIP Calculator 2026 - Calculate SIP Returns with Annual Increment">
     <meta property="og:description" content="Calculate step-up SIP returns with annual increments and plan your systematic investment strategy.">

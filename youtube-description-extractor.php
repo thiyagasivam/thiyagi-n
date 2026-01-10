@@ -1,4 +1,6 @@
 <?php include 'header.php';?>
+<link rel="canonical" href="https://www.thiyagi.com/youtube-description-extractor">
+
 <?php
 /**
  * YouTube Description Extractor Tool

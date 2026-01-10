@@ -1,6 +1,7 @@
 <?php include 'header.php'; ?>
 
 <!-- SEO Meta Tags -->
+<link rel="canonical" href="https://www.thiyagi.com/C:/xampp/htdocs/live/thiyagi-n/millibar-to-psi">
 <title>Millibar to PSI Converter 2026 - Pressure Calculator | Thiyagi</title>
 <meta name="description" content="Free online millibar to PSI converter 2026. Convert mbar to psi instantly with accurate pressure conversion for meteorology and engineering.">
 <meta name="keywords" content="millibar to PSI converter 2026, mbar to psi, pressure converter, meteorology calculator, engineering converter">

@@ -1,4 +1,6 @@
 <?php include 'header.php';?>
+<link rel="canonical" href="https://www.thiyagi.com/image-cropper">
+
 
 <?php
 // Handle image upload and cropping

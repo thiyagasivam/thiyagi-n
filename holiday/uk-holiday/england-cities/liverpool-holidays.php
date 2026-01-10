@@ -6,6 +6,7 @@ include '../../../header.php';
 ?>
 
 <!-- Page specific meta tags -->
+<link rel="canonical" href="https://www.thiyagi.com/C:/xampp/htdocs/live/thiyagi-n/holiday/uk-holiday/england-cities/liverpool-holidays">
 <title>Liverpool Holidays 2026 | Complete Calendar | Local Events | Bank Holidays</title>
 <meta name="description" content="Complete Liverpool Holiday Calendar 2026. Find all bank holidays, local events, festivals, and observances. Plan your year with our comprehensive Liverpool holiday guide.">
 <meta name="keywords" content="Liverpool holidays 2026, Liverpool events, Liverpool festivals, England holidays, Liverpool calendar">

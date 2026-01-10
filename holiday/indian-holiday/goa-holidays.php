@@ -6,8 +6,7 @@
     <meta name="description" content="Complete Goa Holiday Calendar 2026. Find all major festivals, national holidays, cultural events, and religious celebrations in Goa. Plan your year with our comprehensive guide.">
     <meta name="keywords" content="Goa holidays 2026, Goa festivals, Shigmo, Carnival, national holidays India, cultural events Goa, Goa calendar, holidays Goa, festival dates 2026">
     <meta name="author" content="Goa Holiday Calendar">
-    <meta name="robots" content="index, follow">
-    <meta property="og:title" content="Goa Holidays 2026 - Complete Calendar">
+        <meta property="og:title" content="Goa Holidays 2026 - Complete Calendar">
     <meta property="og:description" content="Complete Goa Holiday Calendar 2026 with all festivals, national holidays, and cultural events. Plan your year with our comprehensive guide.">
     <meta property="og:type" content="website">
     <meta property="og:url" content="<?php echo 'https://' . $_SERVER['HTTP_HOST'] . $_SERVER['REQUEST_URI']; ?>">

@@ -1,6 +1,7 @@
 <?php include 'header.php'; ?>
 
 <!-- SEO Meta Tags -->
+<link rel="canonical" href="https://www.thiyagi.com/C:/xampp/htdocs/live/thiyagi-n/millimeter-to-mil">
 <title>Millimeter to Mil Converter 2026 - Length Calculator | Thiyagi</title>
 <meta name="description" content="Free online millimeter to mil converter 2026. Convert mm to mil instantly with accurate length conversion for engineering and manufacturing.">
 <meta name="keywords" content="millimeter to mil converter 2026, mm to mil, length converter, engineering calculator, precision converter">

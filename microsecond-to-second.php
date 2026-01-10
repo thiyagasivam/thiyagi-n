@@ -1,6 +1,7 @@
 <?php include 'header.php'; ?>
 
 <!-- SEO Meta Tags -->
+<link rel="canonical" href="https://www.thiyagi.com/C:/xampp/htdocs/live/thiyagi-n/microsecond-to-second">
 <title>Microsecond to Second Converter 2026 - Time Calculator | Thiyagi</title>
 <meta name="description" content="Free online microsecond to second converter 2026. Convert μs to s instantly with accurate time conversion for scientific and technical calculations.">
 <meta name="keywords" content="microsecond to second converter 2026, μs to s, time converter, scientific calculator, precision timing">

@@ -1,4 +1,6 @@
 <?php include 'header.php';?>
+<link rel="canonical" href="https://www.thiyagi.com/bold-text-generator">
+
 
 <?php
 // Function to convert text to bold Unicode characters

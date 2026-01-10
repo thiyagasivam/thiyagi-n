@@ -1,4 +1,6 @@
 <?php include 'header.php';?>
+<link rel="canonical" href="https://www.thiyagi.com/domain-age-checker">
+
 
 <?php
 // Free API Key (Replace with your own API key from a free domain age service)

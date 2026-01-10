@@ -1,6 +1,7 @@
 <?php include 'header.php'; ?>
 
 <!-- SEO Meta Tags -->
+<link rel="canonical" href="https://www.thiyagi.com/C:/xampp/htdocs/live/thiyagi-n/cc-to-cubic-inch">
 <title>CC to Cubic Inch Converter 2026 - Volume Calculator | Thiyagi</title>
 <meta name="description" content="Free online CC to cubic inch converter 2026. Convert cubic centimeters to cubic inches instantly. Perfect for engine displacement and automotive specifications.">
 <meta name="keywords" content="cc to cubic inch converter 2026, cubic centimeter to cubic inch, engine displacement, automotive converter, volume calculator">

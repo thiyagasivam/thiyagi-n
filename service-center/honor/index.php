@@ -67,8 +67,7 @@ $breadcrumbSchema = [
     <meta name="description" content="Find authorized Honor service centers near me 2026. Expert smartphone repair services, genuine parts, warranty support. Get professional service for Honor Magic, X, and View series devices.">
     <meta name="keywords" content="Honor service center near me 2026, Honor authorized service center, smartphone repair, mobile repair, Honor Magic series, Honor X series, Honor View series, screen replacement, battery replacement">
     <meta name="author" content="Honor Device">
-    <meta name="robots" content="index, follow">
-    <meta property="og:title" content="Honor Authorized Service Centers Near Me 2026">
+        <meta property="og:title" content="Honor Authorized Service Centers Near Me 2026">
     <meta property="og:description" content="Find authorized Honor service centers near you. Expert smartphone repair services with genuine parts and warranty support for all Honor devices.">
     <meta property="og:type" content="website">
     <meta property="og:url" content="<?= htmlspecialchars($_SERVER['REQUEST_URI'], ENT_QUOTES, 'UTF-8') ?>">
@@ -76,7 +75,8 @@ $breadcrumbSchema = [
     <meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:title" content="Honor Authorized Service Centers Near Me 2026">
     <meta name="twitter:description" content="Find authorized Honor service centers near you. Expert smartphone repair services with genuine parts and warranty support.">
-    <title>Honor Authorized Service Centers Near Me 2026</title>
+    <link rel="canonical" href="https://www.thiyagi.com/C:/xampp/htdocs/live/thiyagi-n/service-center/honor/index">
+<title>Honor Authorized Service Centers Near Me 2026</title>
     <script src="https://cdn.tailwindcss.com"></script>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
     <style>

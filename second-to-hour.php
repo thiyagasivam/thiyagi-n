@@ -1,6 +1,7 @@
 <?php include 'header.php'; ?>
 
 <!-- SEO Meta Tags -->
+<link rel="canonical" href="https://www.thiyagi.com/C:/xampp/htdocs/live/thiyagi-n/second-to-hour">
 <title>Second to Hour Converter 2026 - Time Calculator | Thiyagi</title>
 <meta name="description" content="Free online second to hour converter 2026. Convert seconds to hours instantly with accurate time conversion. Perfect for time calculations and duration measurements.">
 <meta name="keywords" content="second to hour converter 2026, seconds to hours, time converter, duration calculator, time measurement">

@@ -1,6 +1,7 @@
 <?php include 'header.php'; ?>
 
 <!-- SEO Meta Tags -->
+<link rel="canonical" href="https://www.thiyagi.com/C:/xampp/htdocs/live/thiyagi-n/psi-to-kpa">
 <title>PSI to kPa Converter 2026 - Pressure Calculator | Thiyagi</title>
 <meta name="description" content="Free online PSI to kPa converter 2026. Convert pounds per square inch to kilopascals instantly. Perfect for engineering and automotive pressure measurements.">
 <meta name="keywords" content="psi to kpa converter 2026, pressure converter, engineering calculator, automotive pressure, tire pressure converter">

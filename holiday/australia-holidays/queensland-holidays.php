@@ -4,7 +4,6 @@
 <meta name="description" content="Complete Queensland Holiday Calendar 2026. Find all QLD public holidays, Royal Queensland Show (Ekka), Labour Day, and state-specific observances for Brisbane and Queensland.">
 <meta name="keywords" content="Queensland holidays 2026, QLD public holidays, Brisbane holidays, Ekka holiday, Royal Queensland Show, Labour Day Queensland">
 <meta name="author" content="Queensland Holiday Calendar">
-<meta name="robots" content="index, follow">
 <meta property="og:title" content="Queensland Holidays 2026 - Complete Calendar">
 <meta property="og:description" content="Complete Queensland Holiday Calendar 2026 with Royal Queensland Show (Ekka) and all public holidays.">
 <meta property="og:type" content="website">

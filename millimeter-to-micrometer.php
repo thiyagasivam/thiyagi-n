@@ -1,6 +1,7 @@
 <?php include 'header.php'; ?>
 
 <!-- SEO Meta Tags -->
+<link rel="canonical" href="https://www.thiyagi.com/C:/xampp/htdocs/live/thiyagi-n/millimeter-to-micrometer">
 <title>Millimeter to Micrometer Converter 2026 - Length Calculator | Thiyagi</title>
 <meta name="description" content="Free online millimeter to micrometer converter 2026. Convert mm to μm instantly with accurate length conversion for scientific and laboratory use.">
 <meta name="keywords" content="millimeter to micrometer converter 2026, mm to μm, length converter, scientific calculator, laboratory converter">

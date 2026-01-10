@@ -3,7 +3,10 @@
 header("HTTP/1.0 404 Not Found");
 include 'header.php';
 ?>
+<link rel="canonical" href="https://www.thiyagi.com/404">
 <title>Page Not Found | Thiyagi Tool</title>
+<meta name="description" content="The page you're looking for could not be found. Browse our collection of calculators, converters, and tools, or return to the homepage.">
+<meta name="robots" content="noindex, follow">
 <!-- Add Tailwind CSS CDN -->
 <script src="https://cdn.tailwindcss.com"></script>
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css">

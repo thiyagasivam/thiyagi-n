@@ -1,6 +1,7 @@
 <?php include 'header.php'; ?>
 
 <!-- SEO Meta Tags -->
+<link rel="canonical" href="https://www.thiyagi.com/C:/xampp/htdocs/live/thiyagi-n/mile-statute-to-meter">
 <title>Mile (Statute) to Meter Converter 2026 - Distance Calculator | Thiyagi</title>
 <meta name="description" content="Free online mile to meter converter 2026. Convert statute miles to meters instantly. Perfect for running, road trips, and international distance conversions.">
 <meta name="keywords" content="mile to meter converter 2026, statute mile to meter, distance converter, running calculator, road trip planner">

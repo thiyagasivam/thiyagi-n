@@ -7,8 +7,7 @@
     <meta name="description" content="Hair growth calculator 2026 - estimate how long it takes to grow hair to desired length. Calculate hair growth timeline with personalized factors and styling tips.">
     <meta name="keywords" content="hair growth calculator 2026, hair length calculator, how fast does hair grow, hair growth timeline, hair length estimator">
     <meta name="author" content="Thiyagi">
-    <meta name="robots" content="index, follow">
-    
+        
     <!-- Open Graph Meta Tags -->
     <meta property="og:title" content="Hair Growth Calculator 2026 - Estimate Hair Length & Growth Timeline">
     <meta property="og:description" content="Calculate how long it takes to grow hair to your desired length with personalized growth factors and timeline.">

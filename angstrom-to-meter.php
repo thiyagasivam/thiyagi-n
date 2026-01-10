@@ -1,6 +1,7 @@
 <?php include 'header.php'; ?>
 
 <!-- SEO Meta Tags -->
+<link rel="canonical" href="https://www.thiyagi.com/C:/xampp/htdocs/live/thiyagi-n/angstrom-to-meter">
 <title>Angstrom to Meter Converter 2026 - Å to m Calculator | Thiyagi</title>
 <meta name="description" content="Free online Angstrom to Meter converter 2026. Convert Å to m and m to Å instantly with accurate atomic scale length measurement conversion.">
 <meta name="keywords" content="angstrom to meter converter 2026, Å to m, atomic length, scientific measurement, crystallography converter">

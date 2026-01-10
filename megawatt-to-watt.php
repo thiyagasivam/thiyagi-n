@@ -1,6 +1,7 @@
 <?php include 'header.php'; ?>
 
 <!-- SEO Meta Tags -->
+<link rel="canonical" href="https://www.thiyagi.com/C:/xampp/htdocs/live/thiyagi-n/megawatt-to-watt">
 <title>Megawatt to Watt Converter 2026 - MW to W Calculator | Thiyagi</title>
 <meta name="description" content="Free online Megawatt to Watt converter 2026. Convert MW to W and W to MW instantly with accurate power conversion for electrical systems.">
 <meta name="keywords" content="megawatt to watt converter 2026, MW to W, power converter, electrical power, energy conversion, power plant capacity">

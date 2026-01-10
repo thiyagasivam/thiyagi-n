@@ -1,6 +1,7 @@
 <?php include 'header.php'; ?>
 
 <!-- SEO Meta Tags -->
+<link rel="canonical" href="https://www.thiyagi.com/C:/xampp/htdocs/live/thiyagi-n/megahertz-to-hertz">
 <title>Megahertz to Hertz Converter 2026 - Frequency Calculator | Thiyagi</title>
 <meta name="description" content="Free online megahertz to hertz converter 2026. Convert MHz to Hz instantly with accurate frequency conversion for electronics and engineering.">
 <meta name="keywords" content="megahertz to hertz converter 2026, MHz to Hz, frequency converter, electronics calculator, signal processing">

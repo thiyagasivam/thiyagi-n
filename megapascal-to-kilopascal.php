@@ -1,6 +1,7 @@
 <?php include 'header.php'; ?>
 
 <!-- SEO Meta Tags -->
+<link rel="canonical" href="https://www.thiyagi.com/C:/xampp/htdocs/live/thiyagi-n/megapascal-to-kilopascal">
 <title>Megapascal to Kilopascal Converter 2026 - MPa to kPa Calculator | Thiyagi</title>
 <meta name="description" content="Free online Megapascal to Kilopascal converter 2026. Convert MPa to kPa and kPa to MPa instantly with accurate pressure conversion.">
 <meta name="keywords" content="megapascal to kilopascal converter 2026, MPa to kPa, pressure converter, pascal units, engineering calculations">

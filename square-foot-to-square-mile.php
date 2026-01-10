@@ -1,6 +1,7 @@
 <?php include 'header.php'; ?>
 
 <!-- SEO Meta Tags -->
+<link rel="canonical" href="https://www.thiyagi.com/C:/xampp/htdocs/live/thiyagi-n/square-foot-to-square-mile">
 <title>Square Foot to Square Mile Converter 2026 - ft² to mi² Calculator | Thiyagi</title>
 <meta name="description" content="Free online Square Foot to Square Mile converter 2026. Convert ft² to mi² and mi² to ft² instantly with accurate area conversion.">
 <meta name="keywords" content="square foot to square mile converter 2026, ft² to mi², area converter, land area, real estate measurements">

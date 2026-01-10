@@ -1,6 +1,7 @@
 <?php include 'header.php'; ?>
 
 <!-- SEO Meta Tags -->
+<link rel="canonical" href="https://www.thiyagi.com/C:/xampp/htdocs/live/thiyagi-n/gram-to-centigram">
 <title>Gram to Centigram Converter 2026 - Weight Calculator | Thiyagi</title>
 <meta name="description" content="Free online gram to centigram converter 2026. Convert g to cg instantly with accurate weight conversion for scientific and laboratory measurements.">
 <meta name="keywords" content="gram to centigram converter 2026, g to cg, weight converter, scientific calculator, laboratory measurements">

@@ -1,4 +1,6 @@
 <?php include 'header.php';?>
+<link rel="canonical" href="https://www.thiyagi.com/javascript-deobfuscator">
+
 
 <?php
 // Function to clean and format JavaScript code

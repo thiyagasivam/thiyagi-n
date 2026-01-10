@@ -1,6 +1,7 @@
 <?php include 'header.php'; ?>
 
 <!-- SEO Meta Tags -->
+<link rel="canonical" href="https://www.thiyagi.com/C:/xampp/htdocs/live/thiyagi-n/centiliter-to-fluid-ounce-us">
 <title>Centiliter to Fluid Ounce US Converter 2026 - cL to fl oz Calculator | Thiyagi</title>
 <meta name="description" content="Free online Centiliter to Fluid Ounce US converter 2026. Convert cL to fl oz and fl oz to cL instantly with accurate volume conversion.">
 <meta name="keywords" content="centiliter to fluid ounce converter 2026, cL to fl oz, volume converter, liquid measurement, cooking conversion">

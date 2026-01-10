@@ -1,4 +1,6 @@
 <?php include 'header.php';?>
+<link rel="canonical" href="https://www.thiyagi.com/ip-address-lookup">
+
 
 <?php
 // IP Lookup API Key (Optional, if using ipinfo.io with a token)

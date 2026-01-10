@@ -1,6 +1,7 @@
 <?php include 'header.php'; ?>
 
 <!-- SEO Meta Tags -->
+<link rel="canonical" href="https://www.thiyagi.com/C:/xampp/htdocs/live/thiyagi-n/gallons-to-cubic-inches">
 <title>Gallons to Cubic Inches Converter 2026 - gal to in³ Calculator | Thiyagi</title>
 <meta name="description" content="Free online gallons to cubic inches converter 2026. Convert gal to in³ and in³ to gal instantly with accurate volume conversion.">
 <meta name="keywords" content="gallons to cubic inches converter 2026, gal to in³, volume converter, imperial volume units, liquid measurements">

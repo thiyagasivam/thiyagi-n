@@ -73,8 +73,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
     <meta name="description" content="Free YouTube thumbnail downloader tool 2026. Download YouTube video thumbnails in all available resolutions including HD, 4K, and maximum resolution. No registration required.">
     <meta name="keywords" content="youtube thumbnail downloader 2026, download youtube thumbnail, youtube thumbnail extractor, video thumbnail download, youtube image download, free thumbnail downloader 2026">
     <meta name="author" content="Thiyagi">
-    <meta name="robots" content="index, follow">
-    <meta name="language" content="English">
+        <meta name="language" content="English">
     <meta name="revisit-after" content="7 days">
     
     <!-- Open Graph / Facebook -->

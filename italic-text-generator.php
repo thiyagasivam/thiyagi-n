@@ -1,4 +1,6 @@
 <?php include 'header.php';?>
+<link rel="canonical" href="https://www.thiyagi.com/italic-text-generator">
+
 
 <?php
 // Function to convert text to italic using Unicode characters

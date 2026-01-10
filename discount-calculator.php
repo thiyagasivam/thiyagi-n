@@ -8,8 +8,7 @@
     <meta name="description" content="Professional discount calculator for percentage, fixed amount, bulk discounts & buy-get offers. Calculate sale prices, savings & final costs instantly. Free tool for shoppers & businesses.">
     <meta name="keywords" content="discount calculator, percentage discount, sale price calculator, savings calculator, bulk discount, buy one get one, BOGO calculator, price reduction, coupon calculator, shopping calculator, business discount tool, markdown calculator">
     <meta name="author" content="Thiyagi Calculator Tools">
-    <meta name="robots" content="index, follow">
-    <meta name="language" content="English">
+        <meta name="language" content="English">
     <meta name="revisit-after" content="7 days">
     <meta name="distribution" content="global">
     <meta name="rating" content="general">

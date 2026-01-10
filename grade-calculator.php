@@ -1,4 +1,6 @@
 <?php include 'header.php';?>
+<link rel="canonical" href="https://www.thiyagi.com/grade-calculator">
+
 <?php
 // Function to calculate final grade
 function calculateGrade($current_grade, $final_weight, $desired_grade) {

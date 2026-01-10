@@ -1,6 +1,7 @@
 <?php include 'header.php'; ?>
 
 <!-- SEO Meta Tags -->
+<link rel="canonical" href="https://www.thiyagi.com/C:/xampp/htdocs/live/thiyagi-n/square-foot-to-square-inch">
 <title>Square Foot to Square Inch Converter 2026 - sq ft to sq in Calculator | Thiyagi</title>
 <meta name="description" content="Free online Square Foot to Square Inch converter 2026. Convert sq ft to sq in and sq in to sq ft instantly with accurate area conversion.">
 <meta name="keywords" content="square foot to square inch converter 2026, sq ft to sq in, area conversion, imperial units calculator">

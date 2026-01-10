@@ -1,6 +1,7 @@
 <?php include 'header.php'; ?>
 
 <!-- SEO Meta Tags -->
+<link rel="canonical" href="https://www.thiyagi.com/C:/xampp/htdocs/live/thiyagi-n/long-cubit-to-foot">
 <title>Long Cubit to Foot Converter 2026 - Long Cubit to ft Calculator | Thiyagi</title>
 <meta name="description" content="Free online Long Cubit to Foot converter 2026. Convert long cubit to ft and ft to long cubit instantly with accurate ancient measurement conversion.">
 <meta name="keywords" content="long cubit to foot converter 2026, ancient measurements, biblical measurements, historical length units, cubit converter">

@@ -1,6 +1,7 @@
 <?php include 'header.php'; ?>
 
 <!-- SEO Meta Tags -->
+<link rel="canonical" href="https://www.thiyagi.com/C:/xampp/htdocs/live/thiyagi-n/stone-to-lbs">
 <title>Stone to Pounds Converter 2026 - stone to lbs Calculator | Thiyagi</title>
 <meta name="description" content="Free online Stone to Pounds converter 2026. Convert stone to lbs and lbs to stone instantly with accurate weight conversion for UK and US measurements.">
 <meta name="keywords" content="stone to pounds converter 2026, stone to lbs, weight converter, UK weight, imperial measurements, body weight conversion">

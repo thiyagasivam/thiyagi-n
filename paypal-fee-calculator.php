@@ -7,8 +7,7 @@
     <meta name="description" content="PayPal fee calculator 2026 - calculate payment processing fees for domestic, international, and business transactions with accurate pricing breakdown.">
     <meta name="keywords" content="paypal calculator 2026, payment fees calculator, paypal processing costs, transaction fee calculator, online payment fees">
     <meta name="author" content="Thiyagi">
-    <meta name="robots" content="index, follow">
-    
+        
     <!-- Open Graph Meta Tags -->
     <meta property="og:title" content="PayPal Fee Calculator 2026 - Calculate Transaction Fees">
     <meta property="og:description" content="Calculate accurate PayPal payment processing fees for all transaction types.">

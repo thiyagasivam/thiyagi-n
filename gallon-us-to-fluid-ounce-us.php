@@ -1,6 +1,7 @@
 <?php include 'header.php'; ?>
 
 <!-- SEO Meta Tags -->
+<link rel="canonical" href="https://www.thiyagi.com/C:/xampp/htdocs/live/thiyagi-n/gallon-us-to-fluid-ounce-us">
 <title>Gallon US to Fluid Ounce US Converter 2026 - gal US to fl oz US Calculator | Thiyagi</title>
 <meta name="description" content="Free online Gallon US to Fluid Ounce US converter 2026. Convert gal US to fl oz US and fl oz US to gal US instantly with accurate volume conversion.">
 <meta name="keywords" content="gallon us to fluid ounce us converter 2026, gal US to fl oz US, volume converter, US gallon, cooking measurements, liquid conversion">

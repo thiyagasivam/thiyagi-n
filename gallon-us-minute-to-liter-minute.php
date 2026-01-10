@@ -1,6 +1,7 @@
 <?php include 'header.php'; ?>
 
 <!-- SEO Meta Tags -->
+<link rel="canonical" href="https://www.thiyagi.com/C:/xampp/htdocs/live/thiyagi-n/gallon-us-minute-to-liter-minute">
 <title>Gallon US per Minute to Liter per Minute Converter 2026 - Flow Rate Calculator | Thiyagi</title>
 <meta name="description" content="Free online gallon US per minute to liter per minute converter 2026. Convert gal/min to L/min instantly with accurate flow rate conversion.">
 <meta name="keywords" content="gallon per minute to liter per minute converter 2026, gal/min to L/min, flow rate converter, pump calculator, fluid flow">

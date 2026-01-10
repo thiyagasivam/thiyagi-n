@@ -1,4 +1,6 @@
 <?php include 'header.php';?>
+<link rel="canonical" href="https://www.thiyagi.com/simple-interest-calculator">
+
 
 <?php
 // Function to calculate simple interest

@@ -6,8 +6,7 @@
     <meta name="description" content="Complete Himachal Pradesh Holiday Calendar 2026. Find all major festivals, national holidays, cultural events, and religious celebrations in Himachal Pradesh. Plan your year with our comprehensive guide.">
     <meta name="keywords" content="Himachal Pradesh holidays 2026, HP festivals, Lohri, Himachal New Year, national holidays India, cultural events HP, Himachal Pradesh calendar, holidays Himachal Pradesh, festival dates 2026">
     <meta name="author" content="Himachal Pradesh Holiday Calendar">
-    <meta name="robots" content="index, follow">
-    <meta property="og:title" content="Himachal Pradesh Holidays 2026 - Complete Calendar">
+        <meta property="og:title" content="Himachal Pradesh Holidays 2026 - Complete Calendar">
     <meta property="og:description" content="Complete Himachal Pradesh Holiday Calendar 2026 with all festivals, national holidays, and cultural events. Plan your year with our comprehensive guide.">
     <meta property="og:type" content="website">
     <meta property="og:url" content="<?php echo 'https://' . $_SERVER['HTTP_HOST'] . $_SERVER['REQUEST_URI']; ?>">

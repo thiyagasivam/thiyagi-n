@@ -1,6 +1,7 @@
 <?php include 'header.php'; ?>
 
 <!-- SEO Meta Tags -->
+<link rel="canonical" href="https://www.thiyagi.com/C:/xampp/htdocs/live/thiyagi-n/psi-to-megapascal">
 <title>PSI to Megapascal Converter 2026 - Pressure Calculator | Thiyagi</title>
 <meta name="description" content="Free online PSI to megapascal converter 2026. Convert pounds per square inch to MPa instantly. Perfect for engineering and high-pressure applications.">
 <meta name="keywords" content="psi to megapascal converter 2026, psi to mpa, pressure converter, engineering calculator, high pressure conversion">

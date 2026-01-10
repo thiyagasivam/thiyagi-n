@@ -1,4 +1,6 @@
 <?php include 'header.php';?>
+<link rel="canonical" href="https://www.thiyagi.com/hex-to-decimal">
+
 
 <?php
 // Function to convert hex to decimal

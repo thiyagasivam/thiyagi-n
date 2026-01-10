@@ -1,6 +1,7 @@
 <?php include 'header.php'; ?>
 
 <!-- SEO Meta Tags -->
+<link rel="canonical" href="https://www.thiyagi.com/C:/xampp/htdocs/live/thiyagi-n/gallon-uk-to-liter">
 <title>Gallon UK to Liter Converter 2026 - gal UK to L Calculator | Thiyagi</title>
 <meta name="description" content="Free online Gallon UK to Liter converter 2026. Convert gal UK to L and L to gal UK instantly with accurate volume conversion for fuel and liquids.">
 <meta name="keywords" content="gallon uk to liter converter 2026, gal UK to L, volume converter, UK gallon, imperial gallon, fuel measurements, liquid conversion">

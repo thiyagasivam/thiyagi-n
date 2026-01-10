@@ -1,4 +1,6 @@
 <?php include 'header.php';?>
+<link rel="canonical" href="https://www.thiyagi.com/albania-holidays-2026">
+
 <?php
 $year = 2026;
 $countryCode = 'AL';

@@ -1,6 +1,7 @@
 <?php include 'header.php'; ?>
 
 <!-- SEO Meta Tags -->
+<link rel="canonical" href="https://www.thiyagi.com/C:/xampp/htdocs/live/thiyagi-n/nanometer-to-angstrom">
 <title>Nanometer to Angstrom Converter 2026 - nm to Å Calculator | Thiyagi</title>
 <meta name="description" content="Free online Nanometer to Angstrom converter 2026. Convert nm to Å and Å to nm instantly with accurate atomic scale measurement conversion.">
 <meta name="keywords" content="nanometer to angstrom converter 2026, nm to angstrom, atomic measurements, molecular scale, nanotechnology, scientific units">

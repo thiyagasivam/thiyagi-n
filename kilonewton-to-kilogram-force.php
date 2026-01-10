@@ -1,6 +1,7 @@
 <?php include 'header.php'; ?>
 
 <!-- SEO Meta Tags -->
+<link rel="canonical" href="https://www.thiyagi.com/C:/xampp/htdocs/live/thiyagi-n/kilonewton-to-kilogram-force">
 <title>Kilonewton to Kilogram-Force Converter 2026 - Force Calculator | Thiyagi</title>
 <meta name="description" content="Free online kilonewton to kilogram-force converter 2026. Convert kN to kgf instantly with accurate force conversion for engineering calculations.">
 <meta name="keywords" content="kilonewton to kilogram-force converter 2026, kN to kgf, force converter, engineering calculator, structural calculator">

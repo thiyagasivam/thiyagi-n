@@ -40,8 +40,7 @@ $conn->close();
     <meta name="description" content="Find authorized Infinix service centers near me 2026. Expert smartphone repair services, genuine parts, warranty support. Get professional service for Infinix Smart, Note, Hot & Zero series devices.">
     <meta name="keywords" content="Infinix service center near me 2026, Infinix authorized service center, smartphone repair, mobile repair, Infinix Smart series, Infinix Note series, Infinix Hot series, Infinix Zero series, screen replacement, battery replacement">
     <meta name="author" content="Infinix Mobility">
-    <meta name="robots" content="index, follow">
-    <meta property="og:title" content="Infinix Authorized Service Centers Near Me 2026">
+        <meta property="og:title" content="Infinix Authorized Service Centers Near Me 2026">
     <meta property="og:description" content="Find authorized Infinix service centers near you. Expert smartphone repair services with genuine parts and warranty support for all Infinix devices.">
     <meta property="og:type" content="website">
     <meta property="og:url" content="<?= htmlspecialchars($_SERVER['REQUEST_URI'], ENT_QUOTES, 'UTF-8') ?>">
@@ -49,7 +48,8 @@ $conn->close();
     <meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:title" content="Infinix Authorized Service Centers Near Me 2026">
     <meta name="twitter:description" content="Find authorized Infinix service centers near you. Expert smartphone repair services with genuine parts and warranty support.">
-    <title>Infinix Authorized Service Centers Near Me 2026</title>
+    <link rel="canonical" href="https://www.thiyagi.com/C:/xampp/htdocs/live/thiyagi-n/service-center/infinix/index">
+<title>Infinix Authorized Service Centers Near Me 2026</title>
     <script src="https://cdn.tailwindcss.com"></script>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
     <style>

@@ -4,7 +4,6 @@
 <meta name="description" content="Complete India Holiday Calendar 2026. Find all national holidays, government holidays, public holidays, and bank holidays across India. Plan your year with our comprehensive guide.">
 <meta name="keywords" content="India holidays 2026, national holidays India, public holidays India, bank holidays India, government holidays India, Republic Day, Independence Day, Gandhi Jayanti, Diwali, Holi, Eid, Christmas">
 <meta name="author" content="India Holiday Calendar">
-<meta name="robots" content="index, follow">
 <meta property="og:title" content="India Holidays 2026 - Complete Calendar">
 <meta property="og:description" content="Complete India Holiday Calendar 2026 with all national holidays, public holidays, and bank holidays. Plan your year with our comprehensive guide.">
 <meta property="og:type" content="website">

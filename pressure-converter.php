@@ -1,6 +1,7 @@
 <?php include 'header.php'; ?>
 
 <!-- SEO Meta Tags -->
+<link rel="canonical" href="https://www.thiyagi.com/C:/xampp/htdocs/live/thiyagi-n/pressure-converter">
 <title>Free Pressure Converter 2026 - Convert PSI, Bar, Pascal, Atmosphere | Thiyagi</title>
 <meta name="description" content="Free online pressure converter tool 2026. Convert between PSI, Bar, Pascal, Atmosphere, kPa, MPa, Torr, mmHg, and inHg instantly. Accurate pressure unit conversions for engineering and scientific calculations.">
 <meta name="keywords" content="pressure converter 2026, PSI to Bar, Pascal converter, pressure units, engineering calculator, scientific converter, atmosphere pressure, pressure conversion tool">

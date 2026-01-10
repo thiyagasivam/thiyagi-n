@@ -1,6 +1,7 @@
 <?php include 'header.php'; ?>
 
 <!-- SEO Meta Tags -->
+<link rel="canonical" href="https://www.thiyagi.com/C:/xampp/htdocs/live/thiyagi-n/mile-hour-to-mile-minute">
 <title>Mile per Hour to Mile per Minute Converter 2026 - mph to mi/min Calculator | Thiyagi</title>
 <meta name="description" content="Free online Mile per Hour to Mile per Minute converter 2026. Convert mph to mi/min and mi/min to mph instantly with accurate speed conversion.">
 <meta name="keywords" content="mile per hour to mile per minute converter 2026, mph to mi/min, speed converter, velocity conversion, travel speed">

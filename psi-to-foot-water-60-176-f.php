@@ -1,6 +1,7 @@
 <?php include 'header.php'; ?>
 
 <!-- SEO Meta Tags -->
+<link rel="canonical" href="https://www.thiyagi.com/C:/xampp/htdocs/live/thiyagi-n/psi-to-foot-water-60-176-f">
 <title>PSI to Foot Water 60°F Converter 2026 - psi to ftH2O Calculator | Thiyagi</title>
 <meta name="description" content="Free online PSI to Foot Water 60°F converter 2026. Convert psi to ftH2O and ftH2O to psi instantly with accurate pressure conversion.">
 <meta name="keywords" content="psi to foot water converter 2026, psi to ftH2O, pressure converter, water column, hydraulic pressure, engineering units">

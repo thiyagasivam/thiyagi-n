@@ -1,4 +1,6 @@
 <?php include 'header.php';?>
+<link rel="canonical" href="https://www.thiyagi.com/part-million-ppm-to-milligram-liter">
+
 
 <!DOCTYPE html>
 <html lang="en">

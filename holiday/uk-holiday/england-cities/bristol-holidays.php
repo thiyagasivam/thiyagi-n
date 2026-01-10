@@ -6,6 +6,7 @@ include '../../../header.php';
 ?>
 
 <!-- Page specific meta tags -->
+<link rel="canonical" href="https://www.thiyagi.com/C:/xampp/htdocs/live/thiyagi-n/holiday/uk-holiday/england-cities/bristol-holidays">
 <title>Bristol Holidays 2026 | Complete Calendar | Local Events | Bank Holidays</title>
 <meta name="description" content="Complete Bristol Holiday Calendar 2026. Find all bank holidays, local events, festivals, and observances. Plan your year with our comprehensive Bristol holiday guide.">
 <meta name="keywords" content="Bristol holidays 2026, Bristol events, Bristol festivals, England holidays, Bristol calendar">

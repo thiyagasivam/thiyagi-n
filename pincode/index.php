@@ -1,5 +1,6 @@
 <?php include '../header.php'; ?>
 <link rel="icon" type="image/x-icon" href="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMzIiIGhlaWdodD0iMzIiIHZpZXdCb3g9IjAgMCAzMiAzMiIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHJlY3Qgd2lkdGg9IjMyIiBoZWlnaHQ9IjMyIiByeD0iOCIgZmlsbD0iIzRDQUY1MCIvPgo8cGF0aCBkPSJNMTYgOEMxMi42OSA4IDEwIDEwLjY5IDEwIDE0QzEwIDE4LjUgMTYgMjYgMTYgMjYgMTYgMjYgMjIgMTguNSAyMiAxNEMyMiAxMC42OSAxOS4zMSA4IDE2IDhaIiBmaWxsPSJ3aGl0ZSIvPgo8Y2lyY2xlIGN4PSIxNiIgY3k9IjE0IiByPSIzIiBmaWxsPSIjNENBRjUwIi8+Cjwvc3ZnPgo=">
+<link rel="canonical" href="https://www.thiyagi.com/C:/xampp/htdocs/live/thiyagi-n/pincode/index">
 <title>India Pincode Lookup - Find Pincode, Post Office Details | Thiyagi</title>
 <meta name="description" content="Find pincode details, post office information, district, state for any location in India. Search by pincode or post office name instantly.">
 <meta name="keywords" content="pincode lookup, postal code, post office finder, india pincode, pincode search, postal code india">

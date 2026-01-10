@@ -6,8 +6,7 @@
     <meta name="description" content="Complete Sikkim Holiday Calendar 2026. Find all major festivals, national holidays, cultural events, and religious celebrations. Plan your year with our comprehensive holiday guide.">
     <meta name="keywords" content="Sikkim holidays 2026, Sikkim festivals, Losar, Saga Dawa, Dasain, Tendong Hill Fair, national holidays India, cultural events Sikkim, Sikkim calendar, holidays Sikkim, festival dates 2026">
     <meta name="author" content="Sikkim Holiday Calendar">
-    <meta name="robots" content="index, follow">
-    <meta property="og:title" content="Sikkim Holidays 2026 - Complete Calendar">
+        <meta property="og:title" content="Sikkim Holidays 2026 - Complete Calendar">
     <meta property="og:description" content="Complete Sikkim Holiday Calendar 2026 with all festivals, national holidays, and cultural events. Plan your year with our comprehensive guide.">
     <meta property="og:type" content="website">
     <meta property="og:url" content="<?php echo 'https://' . $_SERVER['HTTP_HOST'] . $_SERVER['REQUEST_URI']; ?>">

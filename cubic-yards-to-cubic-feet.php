@@ -1,4 +1,6 @@
 <?php include 'header.php';?>
+<link rel="canonical" href="https://www.thiyagi.com/cubic-yards-to-cubic-feet">
+
 
 <!DOCTYPE html>
 <html lang="en">

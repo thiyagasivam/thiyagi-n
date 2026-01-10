@@ -6,6 +6,7 @@ include '../../../header.php';
 ?>
 
 <!-- Page specific meta tags -->
+<link rel="canonical" href="https://www.thiyagi.com/C:/xampp/htdocs/live/thiyagi-n/holiday/uk-holiday/england-cities/canterbury-holidays">
 <title>Canterbury Holidays 2026 | Complete Calendar | Local Events | Bank Holidays</title>
 <meta name="description" content="Complete Canterbury Holiday Calendar 2026. Find all bank holidays, local events, festivals, and observances. Plan your year with our comprehensive Canterbury holiday guide.">
 <meta name="keywords" content="Canterbury holidays 2026, Canterbury events, Canterbury festivals, England holidays, Canterbury calendar">

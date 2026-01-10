@@ -1,6 +1,7 @@
 <?php include 'header.php'; ?>
 
 <!-- SEO Meta Tags -->
+<link rel="canonical" href="https://www.thiyagi.com/C:/xampp/htdocs/live/thiyagi-n/microcoulomb-to-coulomb">
 <title>Microcoulomb to Coulomb Converter 2026 - μC to C Calculator | Thiyagi</title>
 <meta name="description" content="Free online Microcoulomb to Coulomb converter 2026. Convert μC to C and C to μC instantly with accurate electric charge conversion.">
 <meta name="keywords" content="microcoulomb to coulomb converter 2026, μC to C, electric charge conversion, electrical units, electronics calculator">

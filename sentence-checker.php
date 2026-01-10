@@ -1,4 +1,6 @@
 <?php include 'header.php';?>
+<link rel="canonical" href="https://www.thiyagi.com/sentence-checker">
+
 
 <?php
 // Function to analyze sentences

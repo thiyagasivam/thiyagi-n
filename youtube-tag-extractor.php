@@ -13,7 +13,6 @@ include 'header.php';
 <meta name="description" content="Extract tags from any YouTube video instantly. Analyze competitor content, improve SEO strategy, and discover trending keywords. Free YouTube tag extraction tool.">
 <meta name="keywords" content="YouTube tag extractor, video tags, YouTube SEO, content analysis, keyword research, YouTube analytics, video optimization, social media tools">
 <meta name="author" content="Thiyagi">
-<meta name="robots" content="index, follow">
 <meta name="language" content="English">
 <meta name="revisit-after" content="7 days">
 

@@ -1,6 +1,7 @@
 <?php include 'header.php'; ?>
 
 <!-- SEO Meta Tags -->
+<link rel="canonical" href="https://www.thiyagi.com/C:/xampp/htdocs/live/thiyagi-n/pint-us-to-quart-us">
 <title>US Pint to US Quart Converter 2026 - Volume Calculator | Thiyagi</title>
 <meta name="description" content="Free online US pint to US quart converter 2026. Convert pt to qt instantly with accurate volume conversion for cooking and recipes.">
 <meta name="keywords" content="us pint to us quart converter 2026, pt to qt, volume converter, cooking calculator, recipe converter">

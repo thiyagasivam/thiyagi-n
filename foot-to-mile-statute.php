@@ -1,6 +1,7 @@
 <?php include 'header.php'; ?>
 
 <!-- SEO Meta Tags -->
+<link rel="canonical" href="https://www.thiyagi.com/C:/xampp/htdocs/live/thiyagi-n/foot-to-mile-statute">
 <title>Foot to Statute Mile Converter 2026 - Distance Calculator | Thiyagi</title>
 <meta name="description" content="Free online foot to statute mile converter 2026. Convert ft to mi instantly with accurate distance conversion for surveying and navigation.">
 <meta name="keywords" content="foot to statute mile converter 2026, ft to mi, distance converter, surveying calculator, navigation calculator">

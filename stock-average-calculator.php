@@ -1,4 +1,6 @@
 <?php include 'header.php';?>
+<link rel="canonical" href="https://www.thiyagi.com/stock-average-calculator">
+
 <?php
 // Stock Average Calculator Logic
 function calculateAverage($transactions) {

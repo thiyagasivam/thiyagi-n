@@ -1,6 +1,7 @@
 <?php include 'header.php'; ?>
 
 <!-- SEO Meta Tags -->
+<link rel="canonical" href="https://www.thiyagi.com/C:/xampp/htdocs/live/thiyagi-n/cubit-greek-to-foot">
 <title>Greek Cubit to Foot Converter 2026 - Ancient Measurement Calculator | Thiyagi</title>
 <meta name="description" content="Free online Greek Cubit to Foot converter 2026. Convert ancient Greek cubit to modern feet with accurate historical measurement conversion.">
 <meta name="keywords" content="greek cubit to foot converter 2026, ancient measurements, historical units, archaeological calculator">

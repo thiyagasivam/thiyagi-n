@@ -1,6 +1,7 @@
 <?php include 'header.php'; ?>
 
 <!-- SEO Meta Tags -->
+<link rel="canonical" href="https://www.thiyagi.com/C:/xampp/htdocs/live/thiyagi-n/psi-to-pound-force-square-inch">
 <title>PSI to Pound Force Square Inch Converter 2026 - Pressure Calculator | Thiyagi</title>
 <meta name="description" content="Free online PSI to pound force per square inch converter 2026. Convert pressure units instantly with accurate calculations for engineering applications.">
 <meta name="keywords" content="psi to pound force square inch converter 2026, pressure converter, engineering calculator, hydraulic pressure">

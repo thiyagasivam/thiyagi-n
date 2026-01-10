@@ -6,8 +6,7 @@
     <meta name="description" content="Generate secure WiFi passwords instantly in 2026. Create strong WPA2, WEP passwords with customizable length, characters, and security levels. Free online WiFi password generator tool 2026.">
     <meta name="keywords" content="WiFi password generator 2026, secure WiFi password, WPA2 password, WEP password, network security, password generator, strong password, wireless security">
     <meta name="author" content="Thiyagi">
-    <meta name="robots" content="index, follow">
-    
+        
     <!-- Open Graph Meta Tags -->
     <meta property="og:title" content="WiFi Password Generator 2026 - Secure & Strong WiFi Passwords">
     <meta property="og:description" content="Generate secure WiFi passwords instantly in 2026. Create strong WPA2, WEP passwords with customizable length and security levels.">

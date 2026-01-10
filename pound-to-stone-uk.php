@@ -1,6 +1,7 @@
 <?php include 'header.php'; ?>
 
 <!-- SEO Meta Tags -->
+<link rel="canonical" href="https://www.thiyagi.com/C:/xampp/htdocs/live/thiyagi-n/pound-to-stone-uk">
 <title>Pound to Stone UK Converter 2026 - lb to st Calculator | Thiyagi</title>
 <meta name="description" content="Free online Pound to Stone UK converter 2026. Convert lb to st and st to lb instantly with accurate weight conversion.">
 <meta name="keywords" content="pound to stone converter 2026, lb to st, weight converter, UK weight measurement, imperial system">

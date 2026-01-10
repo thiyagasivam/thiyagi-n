@@ -1,6 +1,7 @@
 <?php include 'header.php'; ?>
 
 <!-- SEO Meta Tags -->
+<link rel="canonical" href="https://www.thiyagi.com/C:/xampp/htdocs/live/thiyagi-n/ton-to-btu">
 <title>Ton to BTU Converter 2026 - ton to British Thermal Unit Calculator | Thiyagi</title>
 <meta name="description" content="Free online ton to BTU converter 2026. Convert refrigeration tons to BTU/hr and BTU/hr to tons instantly with accurate cooling capacity conversion.">
 <meta name="keywords" content="ton to btu converter 2026, ton refrigeration, BTU cooling capacity, HVAC converter, air conditioning units">

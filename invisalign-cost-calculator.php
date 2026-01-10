@@ -7,8 +7,7 @@
     <meta name="description" content="Invisalign cost calculator 2026 - estimate orthodontic treatment costs based on complexity, duration, location, and insurance coverage for accurate pricing.">
     <meta name="keywords" content="invisalign calculator 2026, orthodontic cost calculator, braces cost estimator, dental treatment calculator, clear aligners cost">
     <meta name="author" content="Thiyagi">
-    <meta name="robots" content="index, follow">
-    
+        
     <!-- Open Graph Meta Tags -->
     <meta property="og:title" content="Invisalign Cost Calculator 2026 - Estimate Treatment Costs">
     <meta property="og:description" content="Calculate accurate Invisalign treatment costs based on complexity and location factors.">

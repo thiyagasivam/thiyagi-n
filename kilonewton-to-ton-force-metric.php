@@ -1,6 +1,7 @@
 <?php include 'header.php'; ?>
 
 <!-- SEO Meta Tags -->
+<link rel="canonical" href="https://www.thiyagi.com/C:/xampp/htdocs/live/thiyagi-n/kilonewton-to-ton-force-metric">
 <title>Kilonewton to Ton Force Metric Converter 2026 - kN to tf Calculator | Thiyagi</title>
 <meta name="description" content="Free online Kilonewton to Ton Force Metric converter 2026. Convert kN to tf and tf to kN instantly with accurate force conversion.">
 <meta name="keywords" content="kilonewton to ton force metric converter 2026, kN to tf, force conversion, metric units, engineering calculator">

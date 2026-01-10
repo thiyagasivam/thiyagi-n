@@ -1,4 +1,6 @@
 <?php include 'header.php';?>
+<link rel="canonical" href="https://www.thiyagi.com/credit-card-generator">
+
 
 <?php
 // Function to generate credit card numbers based on selected type

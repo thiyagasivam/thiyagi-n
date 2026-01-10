@@ -1,6 +1,7 @@
 <?php include 'header.php'; ?>
 
 <!-- SEO Meta Tags -->
+<link rel="canonical" href="https://www.thiyagi.com/C:/xampp/htdocs/live/thiyagi-n/micrometer-to-inch">
 <title>Micrometer to Inch Converter 2026 - µm to inch Calculator | Thiyagi</title>
 <meta name="description" content="Free online Micrometer to Inch converter 2026. Convert µm to inch and inch to µm instantly with accurate precision measurement conversion.">
 <meta name="keywords" content="micrometer to inch converter 2026, µm to inch, micron to inch, precision measurement, scientific converter">

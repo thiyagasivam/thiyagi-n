@@ -197,7 +197,8 @@ $total = $subtotal_after_discount + $total_tax + $shipping;
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Professional Invoice Generator 2026 - Multi-Currency, Tax & Discount Support</title>
+    <link rel="canonical" href="https://www.thiyagi.com/C:/xampp/htdocs/live/thiyagi-n/invoice-generator">
+<title>Professional Invoice Generator 2026 - Multi-Currency, Tax & Discount Support</title>
     <meta name="description" content="Advanced invoice generator with multiple currencies, automatic calculations, discount support, professional templates & PDF export. Free online invoicing tool for businesses in 2026.">
     <meta name="keywords" content="invoice generator, bill creator, professional invoices, tax calculator, discount invoices, PDF invoices, business billing, invoice templates 2026">
     

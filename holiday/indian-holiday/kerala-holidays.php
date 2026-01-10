@@ -6,8 +6,7 @@
     <meta name="description" content="Complete Kerala Holiday Calendar 2026. Find all major festivals like Onam, national holidays, cultural events, and religious celebrations in Kerala. Plan your year with our comprehensive guide.">
     <meta name="keywords" content="Kerala holidays 2026, Kerala festivals, Onam, Vishu, national holidays India, cultural events Kerala, Kerala calendar, holidays Kerala, festival dates 2026">
     <meta name="author" content="Kerala Holiday Calendar">
-    <meta name="robots" content="index, follow">
-    <meta property="og:title" content="Kerala Holidays 2026 - Complete Calendar">
+        <meta property="og:title" content="Kerala Holidays 2026 - Complete Calendar">
     <meta property="og:description" content="Complete Kerala Holiday Calendar 2026 with all festivals, national holidays, and cultural events. Plan your year with our comprehensive guide.">
     <meta property="og:type" content="website">
     <meta property="og:url" content="<?php echo 'https://' . $_SERVER['HTTP_HOST'] . $_SERVER['REQUEST_URI']; ?>">

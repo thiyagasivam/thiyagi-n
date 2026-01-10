@@ -6,8 +6,7 @@
     <meta name="description" content="Complete list of Bank Holidays in India 2026. Find RBI calendar, NEFT/RTGS holidays, national holidays, and state-specific bank closures. Plan your finances accordingly.">
     <meta name="keywords" content="Bank Holidays India 2026, RBI holidays 2026, NEFT holidays 2026, RTGS holidays 2026, banking holidays India, financial calendar 2026, bank closure dates 2026">
     <meta name="author" content="Indian Bank Holidays Calendar">
-    <meta name="robots" content="index, follow">
-    <meta property="og:title" content="Bank Holidays in India 2026 - Complete Financial Calendar">
+        <meta property="og:title" content="Bank Holidays in India 2026 - Complete Financial Calendar">
     <meta property="og:description" content="Complete list of Bank Holidays in India 2026 including RBI calendar, NEFT/RTGS holidays, national holidays, and state-specific bank closures.">
     <meta property="og:type" content="website">
     <meta property="og:url" content="<?php echo 'https://' . $_SERVER['HTTP_HOST'] . $_SERVER['REQUEST_URI']; ?>">

@@ -1,6 +1,7 @@
 <?php include 'header.php'; ?>
 
 <!-- SEO Meta Tags -->
+<link rel="canonical" href="https://www.thiyagi.com/C:/xampp/htdocs/live/thiyagi-n/newton-to-gram-force">
 <title>Newton to Gram Force Converter 2026 - N to gf Calculator | Thiyagi</title>
 <meta name="description" content="Free online Newton to Gram Force converter 2026. Convert N to gf and gf to N instantly with accurate force conversion for physics and engineering.">
 <meta name="keywords" content="newton to gram force converter 2026, N to gf, force converter, physics calculator, engineering force, metric force units">

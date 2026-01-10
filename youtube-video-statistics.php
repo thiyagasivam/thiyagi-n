@@ -1,4 +1,6 @@
 <?php include 'header.php';?>
+<link rel="canonical" href="https://www.thiyagi.com/youtube-video-statistics">
+
 <?php
 /**
  * YouTube Video Statistics Analyzer Tool

@@ -1,6 +1,7 @@
 <?php include 'header.php'; ?>
 
 <!-- SEO Meta Tags -->
+<link rel="canonical" href="https://www.thiyagi.com/C:/xampp/htdocs/live/thiyagi-n/standard-atmosphere-to-kilopascal">
 <title>Standard Atmosphere to Kilopascal Converter 2026 - atm to kPa Calculator | Thiyagi</title>
 <meta name="description" content="Free online Standard Atmosphere to Kilopascal converter 2026. Convert atm to kPa and kPa to atm instantly with accurate pressure conversion for weather and engineering.">
 <meta name="keywords" content="standard atmosphere to kilopascal converter 2026, atm to kPa, pressure converter, atmospheric pressure, weather pressure, barometric pressure">

@@ -1,4 +1,6 @@
 <?php include 'header.php';?>
+<link rel="canonical" href="https://www.thiyagi.com/meter-to-nanometer">
+
 
 <!DOCTYPE html>
 <html lang="en">

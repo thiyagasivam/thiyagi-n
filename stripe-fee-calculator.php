@@ -7,8 +7,7 @@
     <meta name="description" content="Stripe fee calculator 2026 - calculate payment processing fees for domestic, international, and business transactions with accurate pricing breakdown.">
     <meta name="keywords" content="stripe calculator 2026, payment fees calculator, stripe processing costs, transaction fee calculator, online payment fees">
     <meta name="author" content="Thiyagi">
-    <meta name="robots" content="index, follow">
-    
+        
     <!-- Open Graph Meta Tags -->
     <meta property="og:title" content="Stripe Fee Calculator 2026 - Calculate Payment Processing Fees">
     <meta property="og:description" content="Calculate accurate Stripe payment processing fees for all transaction types.">

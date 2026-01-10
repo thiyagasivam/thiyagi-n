@@ -1,4 +1,6 @@
 <?php include 'header.php';?>
+<link rel="canonical" href="https://www.thiyagi.com/privacy-policy-generator">
+
 
 <?php
 // Function to generate a privacy policy

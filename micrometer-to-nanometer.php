@@ -1,6 +1,7 @@
 <?php include 'header.php'; ?>
 
 <!-- SEO Meta Tags -->
+<link rel="canonical" href="https://www.thiyagi.com/C:/xampp/htdocs/live/thiyagi-n/micrometer-to-nanometer">
 <title>Micrometer to Nanometer Converter 2026 - μm to nm Calculator | Thiyagi</title>
 <meta name="description" content="Free online Micrometer to Nanometer converter 2026. Convert μm to nm and nm to μm instantly with accurate length conversion for nanotechnology and microscopy.">
 <meta name="keywords" content="micrometer to nanometer converter 2026, μm to nm, length converter, microscopic measurements, nanotechnology, micron to nanometer">

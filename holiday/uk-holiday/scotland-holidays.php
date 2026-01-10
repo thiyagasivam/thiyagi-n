@@ -15,7 +15,6 @@ include '../../header.php';
 <meta name="description" content="Complete Scotland Holiday Calendar 2026. Find all bank holidays, cultural events, and observances including Burns Night, Edinburgh Festival. Plan your year with our comprehensive holiday guide.">
 <meta name="keywords" content="Scotland holidays 2026, Scotland bank holidays, UK holidays, Scotland festivals, Burns Night, Edinburgh Festival, Scotland calendar, holidays Scotland, festival dates 2026">
 <meta name="author" content="Thiyagi">
-<meta name="robots" content="index, follow">
 <meta name="language" content="English">
 <meta name="revisit-after" content="7 days">
 

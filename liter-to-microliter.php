@@ -1,6 +1,7 @@
 <?php include 'header.php'; ?>
 
 <!-- SEO Meta Tags -->
+<link rel="canonical" href="https://www.thiyagi.com/C:/xampp/htdocs/live/thiyagi-n/liter-to-microliter">
 <title>Liter to Microliter Converter 2026 - Volume Calculator | Thiyagi</title>
 <meta name="description" content="Free online liter to microliter converter 2026. Convert L to μL instantly with accurate volume conversion for laboratory and medical use.">
 <meta name="keywords" content="liter to microliter converter 2026, L to μL, volume converter, laboratory calculator, medical converter">

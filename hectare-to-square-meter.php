@@ -1,6 +1,7 @@
 <?php include 'header.php'; ?>
 
 <!-- SEO Meta Tags -->
+<link rel="canonical" href="https://www.thiyagi.com/C:/xampp/htdocs/live/thiyagi-n/hectare-to-square-meter">
 <title>Hectare to Square Meter Converter 2026 - Area Calculator | Thiyagi</title>
 <meta name="description" content="Free online hectare to square meter converter 2026. Convert hectares to m² instantly with accurate area conversion. Perfect for land measurement and agriculture calculations.">
 <meta name="keywords" content="hectare to square meter converter 2026, hectare to m2, area converter, land measurement, agriculture calculator">

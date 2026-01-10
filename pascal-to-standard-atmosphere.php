@@ -1,6 +1,7 @@
 <?php include 'header.php'; ?>
 
 <!-- SEO Meta Tags -->
+<link rel="canonical" href="https://www.thiyagi.com/C:/xampp/htdocs/live/thiyagi-n/pascal-to-standard-atmosphere">
 <title>Pascal to Standard Atmosphere Converter 2026 - Pa to atm Calculator | Thiyagi</title>
 <meta name="description" content="Free online Pascal to Standard Atmosphere converter 2026. Convert Pa to atm and atm to Pa instantly with accurate pressure conversion for science.">
 <meta name="keywords" content="pascal to atmosphere converter 2026, Pa to atm, pressure converter, atmospheric pressure, meteorology, physics calculator">

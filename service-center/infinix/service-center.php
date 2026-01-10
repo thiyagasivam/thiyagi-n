@@ -92,8 +92,7 @@ try {
     <meta name="description" content="<?= htmlspecialchars($center['about'], ENT_QUOTES, 'UTF-8') ?> Expert smartphone repair services with genuine parts and warranty support.">
     <meta name="keywords" content="Infinix service center, <?= htmlspecialchars($center['shop_name'], ENT_QUOTES, 'UTF-8') ?>, smartphone repair, mobile repair, screen replacement, battery replacement, Infinix authorized service">
     <meta name="author" content="Infinix Mobility">
-    <meta name="robots" content="index, follow">
-    <meta property="og:title" content="<?= htmlspecialchars($center['page_title'], ENT_QUOTES, 'UTF-8') ?>">
+        <meta property="og:title" content="<?= htmlspecialchars($center['page_title'], ENT_QUOTES, 'UTF-8') ?>">
     <meta property="og:description" content="<?= htmlspecialchars($center['about'], ENT_QUOTES, 'UTF-8') ?> Professional repair services for all Infinix devices.">
     <meta property="og:type" content="business.business">
     <meta property="og:url" content="<?= htmlspecialchars($_SERVER['REQUEST_URI'], ENT_QUOTES, 'UTF-8') ?>">
@@ -101,7 +100,8 @@ try {
     <meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:title" content="<?= htmlspecialchars($center['page_title'], ENT_QUOTES, 'UTF-8') ?>">
     <meta name="twitter:description" content="<?= htmlspecialchars($center['about'], ENT_QUOTES, 'UTF-8') ?>">
-    <title><?= htmlspecialchars($center['page_title'], ENT_QUOTES, 'UTF-8') ?></title>
+    <link rel="canonical" href="https://www.thiyagi.com/C:/xampp/htdocs/live/thiyagi-n/service-center/infinix/service-center">
+<title><?= htmlspecialchars($center['page_title'], ENT_QUOTES, 'UTF-8') ?></title>
     <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" rel="stylesheet">
     <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css" rel="stylesheet">
     

@@ -6,6 +6,7 @@ include '../../../header.php';
 ?>
 
 <!-- Page specific meta tags -->
+<link rel="canonical" href="https://www.thiyagi.com/C:/xampp/htdocs/live/thiyagi-n/holiday/uk-holiday/england-cities/birmingham-holidays">
 <title>Birmingham Holidays 2026 | Complete Calendar | Local Events | Bank Holidays</title>
 <meta name="description" content="Complete Birmingham Holiday Calendar 2026. Find all bank holidays, local events, festivals, and observances. Plan your year with our comprehensive Birmingham holiday guide.">
 <meta name="keywords" content="Birmingham holidays 2026, Birmingham events, Birmingham festivals, England holidays, Birmingham calendar">

@@ -1,6 +1,7 @@
 <?php include 'header.php'; ?>
 
 <!-- SEO Meta Tags -->
+<link rel="canonical" href="https://www.thiyagi.com/C:/xampp/htdocs/live/thiyagi-n/cubic-centimeter-to-liter">
 <title>Cubic Centimeter to Liter Converter 2026 - Volume Calculator | Thiyagi</title>
 <meta name="description" content="Free online cubic centimeter to liter converter 2026. Convert cc to liters instantly with accurate volume conversion. Perfect for automotive and medical applications.">
 <meta name="keywords" content="cubic centimeter to liter converter 2026, cc to liter, volume converter, automotive calculator, medical converter, engine displacement">

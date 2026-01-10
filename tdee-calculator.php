@@ -7,8 +7,7 @@
     <meta name="description" content="TDEE calculator 2026 - calculate your Total Daily Energy Expenditure based on age, gender, weight, height, and activity level for weight loss and fitness goals.">
     <meta name="keywords" content="tdee calculator 2026, total daily energy expenditure, bmr calculator, calorie calculator, weight loss calculator, fitness calculator">
     <meta name="author" content="Thiyagi">
-    <meta name="robots" content="index, follow">
-    
+        
     <!-- Open Graph Meta Tags -->
     <meta property="og:title" content="TDEE Calculator 2026 - Total Daily Energy Expenditure Calculator">
     <meta property="og:description" content="Calculate your Total Daily Energy Expenditure and daily calorie needs for weight loss, maintenance, or weight gain.">

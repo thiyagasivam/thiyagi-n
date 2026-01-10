@@ -6,8 +6,7 @@
     <meta name="description" content="Complete list of International Holidays 2026. Find dates for Valentine's Day, International Women's Day, Labour Day, and other global observances.">
     <meta name="keywords" content="International holidays 2026, global holidays, Valentine's Day, Women's Day, Labour Day, Children's Day, worldwide celebrations">
     <meta name="author" content="Global Holiday Calendar">
-    <meta name="robots" content="index, follow">
-    <meta property="og:title" content="International Holidays 2026 - Global Observances Calendar">
+        <meta property="og:title" content="International Holidays 2026 - Global Observances Calendar">
     <meta property="og:description" content="Complete list of International Holidays 2026 including Valentine's Day, Women's Day, Labour Day, and more.">
     <meta property="og:type" content="website">
     <meta property="og:url" content="<?php echo 'https://' . $_SERVER['HTTP_HOST'] . $_SERVER['REQUEST_URI']; ?>">

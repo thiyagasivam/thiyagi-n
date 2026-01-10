@@ -1,6 +1,7 @@
 <?php include 'header.php'; ?>
 
 <!-- SEO Meta Tags -->
+<link rel="canonical" href="https://www.thiyagi.com/C:/xampp/htdocs/live/thiyagi-n/gigapascal-to-psi">
 <title>Gigapascal to PSI Converter 2026 - GPa to psi Calculator | Thiyagi</title>
 <meta name="description" content="Free online Gigapascal to PSI converter 2026. Convert GPa to psi and psi to GPa instantly with accurate pressure unit conversion.">
 <meta name="keywords" content="gigapascal to psi converter 2026, GPa to psi, pressure conversion, materials science, engineering pressure">

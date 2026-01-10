@@ -1,4 +1,6 @@
 <?php include 'header.php';?>
+<link rel="canonical" href="https://www.thiyagi.com/amps-to-milliamps">
+
 
 <!DOCTYPE html>
 <html lang="en">

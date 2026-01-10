@@ -1,4 +1,6 @@
 <?php include 'header.php';?>
+<link rel="canonical" href="https://www.thiyagi.com/hours-calculator">
+
 
 <?php
 // Function to calculate time difference

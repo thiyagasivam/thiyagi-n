@@ -7,8 +7,7 @@
     <meta name="description" content="Calculate your final grade with RogerHub-style final grade calculator 2026. Determine what score you need on your final exam to achieve your desired course grade.">
     <meta name="keywords" content="rogerhub final grade calculator 2026, grade calculator, final exam calculator, student grade tool, academic calculator, course grade calculator">
     <meta name="author" content="Thiyagi">
-    <meta name="robots" content="index, follow">
-    
+        
     <!-- Open Graph Meta Tags -->
     <meta property="og:title" content="RogerHub Final Grade Calculator 2026 - Grade Calculator Tool">
     <meta property="og:description" content="Calculate your final grade with RogerHub-style calculator. Determine what score you need on your final exam to achieve your desired course grade.">

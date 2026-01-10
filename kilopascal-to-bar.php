@@ -1,6 +1,7 @@
 <?php include 'header.php'; ?>
 
 <!-- SEO Meta Tags -->
+<link rel="canonical" href="https://www.thiyagi.com/C:/xampp/htdocs/live/thiyagi-n/kilopascal-to-bar">
 <title>Kilopascal to Bar Converter 2026 - Pressure Calculator | Thiyagi</title>
 <meta name="description" content="Free online kilopascal to bar converter 2026. Convert kPa to bar instantly with accurate pressure conversion for engineering and science.">
 <meta name="keywords" content="kilopascal to bar converter 2026, kPa to bar, pressure converter, engineering calculator, science converter">

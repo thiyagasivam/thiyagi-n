@@ -1,6 +1,7 @@
 <?php include 'header.php'; ?>
 
 <!-- SEO Meta Tags -->
+<link rel="canonical" href="https://www.thiyagi.com/C:/xampp/htdocs/live/thiyagi-n/pascal-to-kilopascal">
 <title>Pascal to Kilopascal Converter 2026 - Pa to kPa Calculator | Thiyagi</title>
 <meta name="description" content="Free online Pascal to Kilopascal converter 2026. Convert Pa to kPa and kPa to Pa instantly with accurate pressure unit conversion.">
 <meta name="keywords" content="pascal to kilopascal converter 2026, Pa to kPa, pressure conversion, metric pressure units, engineering calculator">

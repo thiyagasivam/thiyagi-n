@@ -1,6 +1,7 @@
 <?php include 'header.php'; ?>
 
 <!-- SEO Meta Tags -->
+<link rel="canonical" href="https://www.thiyagi.com/C:/xampp/htdocs/live/thiyagi-n/kilowatt-to-megawatt">
 <title>Kilowatt to Megawatt Converter 2026 - Power Calculator | Thiyagi</title>
 <meta name="description" content="Free online kilowatt to megawatt converter 2026. Convert kW to MW instantly with accurate power conversion for electrical engineering applications.">
 <meta name="keywords" content="kilowatt to megawatt converter 2026, kW to MW, power converter, electrical calculator, energy converter">

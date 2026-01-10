@@ -1,6 +1,7 @@
 <?php include 'header.php'; ?>
 
 <!-- SEO Meta Tags -->
+<link rel="canonical" href="https://www.thiyagi.com/C:/xampp/htdocs/live/thiyagi-n/miles-to-yards">
 <title>Miles to Yards Converter 2026 - Distance Calculator | Thiyagi</title>
 <meta name="description" content="Free online miles to yards converter 2026. Convert miles to yards instantly with accurate distance conversion. Perfect for sports, surveying, and athletic measurements.">
 <meta name="keywords" content="miles to yards converter 2026, miles to yards, distance converter, sports calculator, surveying tool, athletic measurements">

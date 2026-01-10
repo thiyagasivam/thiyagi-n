@@ -1,6 +1,7 @@
 <?php include 'header.php'; ?>
 
 <!-- SEO Meta Tags -->
+<link rel="canonical" href="https://www.thiyagi.com/C:/xampp/htdocs/live/thiyagi-n/millisecond-to-hour">
 <title>Millisecond to Hour Converter 2026 - ms to h Time Calculator | Thiyagi</title>
 <meta name="description" content="Free online Millisecond to Hour converter 2026. Convert ms to h and h to ms instantly with accurate time conversion.">
 <meta name="keywords" content="millisecond to hour converter 2026, ms to h, time conversion, duration calculator">

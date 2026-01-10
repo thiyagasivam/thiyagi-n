@@ -1,4 +1,6 @@
 <?php include 'header.php';?>
+<link rel="canonical" href="https://www.thiyagi.com/yards-to-inches">
+
 
 <!DOCTYPE html>
 <html lang="en">

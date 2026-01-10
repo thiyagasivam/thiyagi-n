@@ -1,6 +1,7 @@
 <?php include 'header.php'; ?>
 
 <!-- SEO Meta Tags -->
+<link rel="canonical" href="https://www.thiyagi.com/C:/xampp/htdocs/live/thiyagi-n/electron-volt-to-joule">
 <title>Electron Volt to Joule Converter 2026 - eV to J Calculator | Thiyagi</title>
 <meta name="description" content="Free online Electron Volt to Joule converter 2026. Convert eV to J and J to eV instantly with accurate energy conversion for physics calculations.">
 <meta name="keywords" content="electron volt to joule converter 2026, eV to J, energy converter, physics calculations, quantum mechanics, particle physics">

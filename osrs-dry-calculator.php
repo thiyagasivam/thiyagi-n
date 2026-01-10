@@ -7,8 +7,7 @@
     <meta name="description" content="Calculate OSRS drop rates and dry streak probabilities. Free Old School RuneScape dry calculator 2026 with boss drops, rare items, and probability statistics for all OSRS content.">
     <meta name="keywords" content="OSRS dry calculator 2026, Old School RuneScape drop calculator, OSRS drop rates, RuneScape probability calculator, OSRS boss drops, dry streak calculator, OSRS RNG calculator">
     <meta name="author" content="Thiyagi">
-    <meta name="robots" content="index, follow">
-    
+        
     <!-- Open Graph Meta Tags -->
     <meta property="og:title" content="OSRS Dry Calculator 2026 - Old School RuneScape Drop Rate Calculator">
     <meta property="og:description" content="Calculate OSRS drop rates and dry streak probabilities. Free Old School RuneScape dry calculator with boss drops and rare item statistics.">

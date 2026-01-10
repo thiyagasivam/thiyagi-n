@@ -1,4 +1,6 @@
 <?php include 'header.php';?>
+<link rel="canonical" href="https://www.thiyagi.com/lucky-number-generator">
+
 <?php
 // Function to generate lucky numbers
 function generateLuckyNumbers($count, $min, $max, $allowDuplicates = false) {

@@ -1,6 +1,7 @@
 <?php include 'header.php'; ?>
 
 <!-- SEO Meta Tags -->
+<link rel="canonical" href="https://www.thiyagi.com/C:/xampp/htdocs/live/thiyagi-n/ounce-to-milligram">
 <title>Ounce to Milligram Converter 2026 - oz to mg Calculator | Thiyagi</title>
 <meta name="description" content="Free online Ounce to Milligram converter 2026. Convert oz to mg and mg to oz instantly with accurate weight conversion for cooking and pharmacy.">
 <meta name="keywords" content="ounce to milligram converter 2026, oz to mg, weight converter, mass units, cooking measurements, pharmacy dosage">

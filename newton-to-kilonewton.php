@@ -1,6 +1,7 @@
 <?php include 'header.php'; ?>
 
 <!-- SEO Meta Tags -->
+<link rel="canonical" href="https://www.thiyagi.com/C:/xampp/htdocs/live/thiyagi-n/newton-to-kilonewton">
 <title>Newton to Kilonewton Converter 2026 - N to kN Calculator | Thiyagi</title>
 <meta name="description" content="Free online Newton to Kilonewton converter 2026. Convert N to kN and kN to N instantly with accurate force conversion for engineering calculations.">
 <meta name="keywords" content="newton to kilonewton converter 2026, N to kN, force converter, mechanical engineering, structural engineering, physics force units">

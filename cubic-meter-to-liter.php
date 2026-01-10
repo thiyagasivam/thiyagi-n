@@ -1,6 +1,7 @@
 <?php include 'header.php'; ?>
 
 <!-- SEO Meta Tags -->
+<link rel="canonical" href="https://www.thiyagi.com/C:/xampp/htdocs/live/thiyagi-n/cubic-meter-to-liter">
 <title>Cubic Meter to Liter Converter 2026 - Volume Calculator | Thiyagi</title>
 <meta name="description" content="Free online cubic meter to liter converter 2026. Convert cubic meters to liters instantly with accurate volume conversion. Perfect for engineering and fluid calculations.">
 <meta name="keywords" content="cubic meter to liter converter 2026, m3 to liter, volume converter, engineering calculator, fluid measurement">

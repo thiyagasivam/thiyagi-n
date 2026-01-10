@@ -7,8 +7,7 @@
     <meta name="description" content="Convert text to URL-friendly slugs instantly. Free text to slug converter 2026 with multiple formatting options, special character handling, and SEO optimization features.">
     <meta name="keywords" content="text to slug converter 2026, URL slug generator, SEO slug tool, text formatter, URL friendly converter, web development tools, permalink generator">
     <meta name="author" content="Thiyagi">
-    <meta name="robots" content="index, follow">
-    
+        
     <!-- Open Graph Meta Tags -->
     <meta property="og:title" content="Text to Slug Converter 2026 - URL Slug Generator Tool">
     <meta property="og:description" content="Convert text to URL-friendly slugs instantly. Free text to slug converter with multiple formatting options and SEO optimization features.">

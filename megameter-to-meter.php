@@ -1,6 +1,7 @@
 <?php include 'header.php'; ?>
 
 <!-- SEO Meta Tags -->
+<link rel="canonical" href="https://www.thiyagi.com/C:/xampp/htdocs/live/thiyagi-n/megameter-to-meter">
 <title>Megameter to Meter Converter 2026 - Mm to m Calculator | Thiyagi</title>
 <meta name="description" content="Free online Megameter to Meter converter 2026. Convert Mm to m and m to Mm instantly with accurate large distance conversion for geographic measurements.">
 <meta name="keywords" content="megameter to meter converter 2026, Mm to m, large distance converter, geographic distance, metric length units">

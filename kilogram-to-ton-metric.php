@@ -1,4 +1,6 @@
 <?php include 'header.php';?>
+<link rel="canonical" href="https://www.thiyagi.com/kilogram-to-ton-metric">
+
 
 <!DOCTYPE html>
 <html lang="en">

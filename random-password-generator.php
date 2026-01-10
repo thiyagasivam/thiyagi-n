@@ -1,4 +1,6 @@
 <?php include 'header.php';?>
+<link rel="canonical" href="https://www.thiyagi.com/random-password-generator">
+
 <?php
 // Function to generate random password
 function generatePassword($length, $includeUppercase, $includeLowercase, $includeNumbers, $includeSymbols) {

@@ -7,8 +7,7 @@
     <meta name="description" content="Generate random US addresses 2026 for testing, development, and form filling. Free American address generator with real ZIP codes, cities, and states.">
     <meta name="keywords" content="random address generator usa 2026, fake address generator, us address generator, random american addresses, testing addresses, development addresses">
     <meta name="author" content="Thiyagi">
-    <meta name="robots" content="index, follow">
-    
+        
     <!-- Open Graph Meta Tags -->
     <meta property="og:title" content="Free Random Address Generator USA 2026 - Generate US Addresses">
     <meta property="og:description" content="Generate random US addresses for testing, development, and form filling. Free American address generator with real ZIP codes and cities.">

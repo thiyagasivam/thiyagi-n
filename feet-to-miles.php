@@ -6,6 +6,7 @@ $pageDescription = "Convert feet (ft) to miles (mi) instantly with our free onli
 <?php include 'header.php'; ?>
 
 <!-- Page-specific meta tags -->
+<link rel="canonical" href="https://www.thiyagi.com/C:/xampp/htdocs/live/thiyagi-n/feet-to-miles">
 <title><?php echo htmlspecialchars($pageTitle); ?></title>
 <meta name="description" content="<?php echo htmlspecialchars($pageDescription); ?>">
 <meta name="keywords" content="feet to miles, ft to mi converter, distance converter, length calculator, travel distance, mapping tools">

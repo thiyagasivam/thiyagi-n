@@ -1,6 +1,7 @@
 <?php include 'header.php'; ?>
 
 <!-- SEO Meta Tags -->
+<link rel="canonical" href="https://www.thiyagi.com/C:/xampp/htdocs/live/thiyagi-n/milliliter-to-quart-us">
 <title>Milliliter to Quart US Converter 2026 - mL to qt US Calculator | Thiyagi</title>
 <meta name="description" content="Free online Milliliter to Quart US converter 2026. Convert mL to qt US and qt US to mL instantly with accurate volume conversion for cooking.">
 <meta name="keywords" content="milliliter to quart us converter 2026, mL to qt US, volume converter, cooking measurements, metric to imperial, liquid conversion">

@@ -1,4 +1,6 @@
 <?php include 'header.php';?>
+<link rel="canonical" href="https://www.thiyagi.com/youtube-channel-id">
+
 <?php
 /**
  * YouTube Channel ID Finder Tool - Enhanced Version

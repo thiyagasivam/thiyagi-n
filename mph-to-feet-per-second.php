@@ -1,6 +1,7 @@
 <?php include 'header.php'; ?>
 
 <!-- SEO Meta Tags -->
+<link rel="canonical" href="https://www.thiyagi.com/C:/xampp/htdocs/live/thiyagi-n/mph-to-feet-per-second">
 <title>MPH to Feet per Second Converter 2026 - Speed Calculator | Thiyagi</title>
 <meta name="description" content="Free online miles per hour to feet per second converter 2026. Convert mph to ft/s instantly for speed and velocity calculations.">
 <meta name="keywords" content="mph to feet per second converter 2026, mph to ft/s, speed converter, velocity calculator, automotive converter">

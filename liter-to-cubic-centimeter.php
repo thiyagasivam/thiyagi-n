@@ -1,6 +1,7 @@
 <?php include 'header.php'; ?>
 
 <!-- SEO Meta Tags -->
+<link rel="canonical" href="https://www.thiyagi.com/C:/xampp/htdocs/live/thiyagi-n/liter-to-cubic-centimeter">
 <title>Liter to Cubic Centimeter Converter 2026 - Volume Calculator | Thiyagi</title>
 <meta name="description" content="Free online liter to cubic centimeter converter 2026. Convert L to cm³ instantly with accurate volume conversion for laboratory and engineering use.">
 <meta name="keywords" content="liter to cubic centimeter converter 2026, L to cm3, volume converter, laboratory calculator, engineering converter">

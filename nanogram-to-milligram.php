@@ -1,6 +1,7 @@
 <?php include 'header.php'; ?>
 
 <!-- SEO Meta Tags -->
+<link rel="canonical" href="https://www.thiyagi.com/C:/xampp/htdocs/live/thiyagi-n/nanogram-to-milligram">
 <title>Nanogram to Milligram Converter 2026 - ng to mg Calculator | Thiyagi</title>
 <meta name="description" content="Free online Nanogram to Milligram converter 2026. Convert ng to mg and mg to ng instantly with accurate mass conversion for scientific measurements.">
 <meta name="keywords" content="nanogram to milligram converter 2026, ng to mg, mass converter, scientific measurements, laboratory calculations, pharmaceutical dosing">

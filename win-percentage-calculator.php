@@ -7,8 +7,7 @@
     <meta name="description" content="Win percentage calculator 2026 - track wins, losses, and ties for sports teams, gaming records, and competitive performance with streak analysis and predictions.">
     <meta name="keywords" content="win percentage calculator 2026, win rate calculator, sports statistics, gaming win rate, team performance, winning percentage">
     <meta name="author" content="Thiyagi">
-    <meta name="robots" content="index, follow">
-    
+        
     <!-- Open Graph Meta Tags -->
     <meta property="og:title" content="Win Percentage Calculator 2026 - Sports & Gaming Statistics">
     <meta property="og:description" content="Track wins, losses, and ties for sports teams and gaming with advanced statistics and streak analysis.">

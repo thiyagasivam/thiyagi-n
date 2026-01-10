@@ -180,8 +180,7 @@ class PincodeStatePage {
     <meta name="description" content="<?php echo htmlspecialchars($description); ?>">
     <meta name="keywords" content="<?php echo htmlspecialchars($stateName); ?> pincode, <?php echo $stateSlug; ?> postal code, India post <?php echo htmlspecialchars($stateName); ?>, pincode directory">
     <meta name="author" content="Thiyagi">
-    <meta name="robots" content="index, follow">
-    <link rel="canonical" href="https://www.thiyagi.com/pincode/<?php echo $stateSlug; ?>">
+        <link rel="canonical" href="https://www.thiyagi.com/pincode/<?php echo $stateSlug; ?>">
 
     <!-- Open Graph / Facebook -->
     <meta property="og:type" content="website">

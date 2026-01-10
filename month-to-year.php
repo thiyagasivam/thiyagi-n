@@ -1,6 +1,7 @@
 <?php include 'header.php'; ?>
 
 <!-- SEO Meta Tags -->
+<link rel="canonical" href="https://www.thiyagi.com/C:/xampp/htdocs/live/thiyagi-n/month-to-year">
 <title>Month to Year Converter 2026 - Months to Years Calculator | Thiyagi</title>
 <meta name="description" content="Free online Month to Year converter 2026. Convert months to years and years to months instantly with accurate time period conversion for planning.">
 <meta name="keywords" content="month to year converter 2026, months to years, time converter, period calculator, timeline planning, age calculator">

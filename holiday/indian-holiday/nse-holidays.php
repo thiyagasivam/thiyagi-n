@@ -6,8 +6,7 @@
     <meta name="description" content="Complete NSE Holiday List 2026. Find all trading holidays for Equity, Derivatives, SLB, Commodity segments, and Muhurat Trading. Plan your investments and trades.">
     <meta name="keywords" content="NSE holidays 2026, National Stock Exchange, trading holidays India, stock market holidays, equity holidays, derivatives holidays, commodity holidays, Muhurat Trading 2026, NSE calendar">
     <meta name="author" content="NSE Holiday Calendar">
-    <meta name="robots" content="index, follow">
-    <meta property="og:title" content="NSE Holiday List 2026 - Trading Holidays Calendar">
+        <meta property="og:title" content="NSE Holiday List 2026 - Trading Holidays Calendar">
     <meta property="og:description" content="Complete NSE Holiday List 2026 with Equity, Derivatives, SLB, Commodity holidays and Muhurat Trading. Plan your trades.">
     <meta property="og:type" content="website">
     <meta property="og:url" content="<?php echo 'https://' . $_SERVER['HTTP_HOST'] . $_SERVER['REQUEST_URI']; ?>">

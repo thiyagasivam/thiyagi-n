@@ -6,8 +6,7 @@
     <meta name="description" content="Complete Uttar Pradesh Holiday Calendar 2026. Find all UP festivals, national holidays, cultural events, and religious celebrations. Plan your year with our comprehensive holiday guide.">
     <meta name="keywords" content="Uttar Pradesh holidays 2026, UP festivals, Holi, Diwali, Eid, national holidays India, UP cultural events, Uttar Pradesh calendar, holidays Uttar Pradesh, festival dates 2026">
     <meta name="author" content="Uttar Pradesh Holiday Calendar">
-    <meta name="robots" content="index, follow">
-    <meta property="og:title" content="Uttar Pradesh Holidays 2026 - Complete Calendar">
+        <meta property="og:title" content="Uttar Pradesh Holidays 2026 - Complete Calendar">
     <meta property="og:description" content="Complete Uttar Pradesh Holiday Calendar 2026 with all festivals, national holidays, and cultural events. Plan your year with our comprehensive guide.">
     <meta property="og:type" content="website">
     <meta property="og:url" content="<?php echo 'https://' . $_SERVER['HTTP_HOST'] . $_SERVER['REQUEST_URI']; ?>">

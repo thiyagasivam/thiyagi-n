@@ -1,6 +1,7 @@
 <?php include 'header.php'; ?>
 
 <!-- SEO Meta Tags -->
+<link rel="canonical" href="https://www.thiyagi.com/C:/xampp/htdocs/live/thiyagi-n/centimeter-to-micrometer">
 <title>Centimeter to Micrometer Converter 2026 - cm to μm Calculator | Thiyagi</title>
 <meta name="description" content="Free online Centimeter to Micrometer converter 2026. Convert cm to μm and μm to cm instantly with accurate length conversion for scientific measurements.">
 <meta name="keywords" content="centimeter to micrometer converter 2026, cm to μm, length converter, scientific measurements, metric conversion, micron conversion">

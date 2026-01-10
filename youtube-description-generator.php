@@ -1,4 +1,6 @@
 <?php include 'header.php';?>
+<link rel="canonical" href="https://www.thiyagi.com/youtube-description-generator">
+
 
 <title>YouTube Description Generator 2026 - Create Engaging Descriptions | 25+ Years Experience</title>
 <meta name="description" content="Generate compelling YouTube video descriptions that boost engagement and SEO. Professional description creator for content creators. Built with 25+ years of digital marketing expertise for 2026 optimization.">

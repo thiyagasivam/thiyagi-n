@@ -6,6 +6,7 @@ include '../../../header.php';
 ?>
 
 <!-- Page specific meta tags -->
+<link rel="canonical" href="https://www.thiyagi.com/C:/xampp/htdocs/live/thiyagi-n/holiday/uk-holiday/england-cities/nottingham-holidays">
 <title>Nottingham Holidays 2026 | Complete Calendar | Local Events | Bank Holidays</title>
 <meta name="description" content="Complete Nottingham Holiday Calendar 2026. Find all bank holidays, local events, festivals, and observances. Plan your year with our comprehensive Nottingham holiday guide.">
 <meta name="keywords" content="Nottingham holidays 2026, Nottingham events, Nottingham festivals, England holidays, Nottingham calendar">

@@ -1,6 +1,7 @@
 <?php include 'header.php'; ?>
 
 <!-- SEO Meta Tags -->
+<link rel="canonical" href="https://www.thiyagi.com/C:/xampp/htdocs/live/thiyagi-n/mil-to-inch">
 <title>Mil to Inch Converter 2026 - Length Calculator | Thiyagi</title>
 <meta name="description" content="Free online mil to inch converter 2026. Convert mils to inches instantly with accurate length conversion. Perfect for precision engineering and manufacturing.">
 <meta name="keywords" content="mil to inch converter 2026, mil to inches, precision converter, engineering calculator, manufacturing converter">

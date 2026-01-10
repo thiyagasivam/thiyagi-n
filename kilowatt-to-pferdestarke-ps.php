@@ -1,6 +1,7 @@
 <?php include 'header.php'; ?>
 
 <!-- SEO Meta Tags -->
+<link rel="canonical" href="https://www.thiyagi.com/C:/xampp/htdocs/live/thiyagi-n/kilowatt-to-pferdestarke-ps">
 <title>Kilowatt to Pferdestarke (PS) Converter 2026 - kW to PS Power Calculator | Thiyagi</title>
 <meta name="description" content="Free online Kilowatt to Pferdestarke converter 2026. Convert kW to PS and PS to kW instantly with accurate power conversion.">
 <meta name="keywords" content="kilowatt to pferdestarke converter 2026, kW to PS, power conversion, horsepower calculator">

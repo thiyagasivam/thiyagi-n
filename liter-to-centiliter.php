@@ -1,6 +1,7 @@
 <?php include 'header.php'; ?>
 
 <!-- SEO Meta Tags -->
+<link rel="canonical" href="https://www.thiyagi.com/C:/xampp/htdocs/live/thiyagi-n/liter-to-centiliter">
 <title>Liter to Centiliter Converter 2026 - Volume Calculator | Thiyagi</title>
 <meta name="description" content="Free online liter to centiliter converter 2026. Convert L to cL instantly with accurate volume conversion for cooking and laboratory measurements.">
 <meta name="keywords" content="liter to centiliter converter 2026, L to cL, volume converter, cooking calculator, laboratory converter">

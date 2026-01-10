@@ -1,6 +1,7 @@
 <?php include 'header.php'; ?>
 
 <!-- SEO Meta Tags -->
+<link rel="canonical" href="https://www.thiyagi.com/C:/xampp/htdocs/live/thiyagi-n/pound-to-slug">
 <title>Pound to Slug Converter 2026 - lb to slug Mass Calculator | Thiyagi</title>
 <meta name="description" content="Free online Pound to Slug converter 2026. Convert lb to slug and slug to lb instantly with accurate mass conversion.">
 <meta name="keywords" content="pound to slug converter 2026, lb to slug, mass conversion, engineering units calculator">

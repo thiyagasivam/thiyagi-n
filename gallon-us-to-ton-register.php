@@ -1,6 +1,7 @@
 <?php include 'header.php'; ?>
 
 <!-- SEO Meta Tags -->
+<link rel="canonical" href="https://www.thiyagi.com/C:/xampp/htdocs/live/thiyagi-n/gallon-us-to-ton-register">
 <title>Gallon US to Ton Register Converter 2026 - gal to ton reg Calculator | Thiyagi</title>
 <meta name="description" content="Free online Gallon US to Ton Register converter 2026. Convert gal to ton reg and ton reg to gal instantly with accurate shipping volume conversion.">
 <meta name="keywords" content="gallon US to ton register converter 2026, gal to ton reg, shipping volume, maritime conversion, cargo capacity, vessel tonnage">

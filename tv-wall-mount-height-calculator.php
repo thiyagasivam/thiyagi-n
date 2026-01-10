@@ -7,8 +7,7 @@
     <meta name="description" content="TV wall mount height calculator 2026 - find the perfect TV mounting height based on room dimensions, seating position, TV size, and viewing angles for optimal comfort.">
     <meta name="keywords" content="TV wall mount height calculator 2026, TV mounting height, wall mount calculator, viewing angle calculator, TV height guide">
     <meta name="author" content="Thiyagi">
-    <meta name="robots" content="index, follow">
-    
+        
     <!-- Open Graph Meta Tags -->
     <meta property="og:title" content="TV Wall Mount Height Calculator 2026 - Optimal Viewing Height Guide">
     <meta property="og:description" content="Calculate the perfect TV wall mount height for optimal viewing comfort and ergonomics.">

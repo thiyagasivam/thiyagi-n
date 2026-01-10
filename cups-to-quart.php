@@ -1,4 +1,6 @@
 <?php include 'header.php';?>
+<link rel="canonical" href="https://www.thiyagi.com/cups-to-quart">
+
 
 <!DOCTYPE html>
 <html lang="en">

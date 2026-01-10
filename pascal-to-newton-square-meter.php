@@ -1,6 +1,7 @@
 <?php include 'header.php'; ?>
 
 <!-- SEO Meta Tags -->
+<link rel="canonical" href="https://www.thiyagi.com/C:/xampp/htdocs/live/thiyagi-n/pascal-to-newton-square-meter">
 <title>Pascal to Newton per Square Meter Converter 2026 - Pa to N/m² Calculator | Thiyagi</title>
 <meta name="description" content="Free online Pascal to Newton per Square Meter converter 2026. Convert Pa to N/m² and N/m² to Pa instantly with accurate pressure conversion.">
 <meta name="keywords" content="pascal to newton per square meter converter 2026, Pa to N/m², pressure conversion, physics units, force per area calculator">

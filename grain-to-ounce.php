@@ -1,6 +1,7 @@
 <?php include 'header.php'; ?>
 
 <!-- SEO Meta Tags -->
+<link rel="canonical" href="https://www.thiyagi.com/C:/xampp/htdocs/live/thiyagi-n/grain-to-ounce">
 <title>Grain to Ounce Converter 2026 - gr to oz Calculator | Thiyagi</title>
 <meta name="description" content="Free online Grain to Ounce converter 2026. Convert gr to oz and oz to gr instantly with accurate weight conversion.">
 <meta name="keywords" content="grain to ounce converter 2026, gr to oz, weight converter, apothecary weight, precision measurement">

@@ -1,6 +1,7 @@
 <?php include 'header.php'; ?>
 
 <!-- SEO Meta Tags -->
+<link rel="canonical" href="https://www.thiyagi.com/C:/xampp/htdocs/live/thiyagi-n/seconds-to-days">
 <title>Seconds to Days Converter 2026 - Time Calculator | Thiyagi</title>
 <meta name="description" content="Free online seconds to days converter 2026. Convert seconds to days instantly with accurate time conversion. Perfect for scientific and computing calculations.">
 <meta name="keywords" content="seconds to days converter 2026, time converter, scientific calculator, computing converter, time measurement">

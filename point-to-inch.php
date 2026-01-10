@@ -1,6 +1,7 @@
 <?php include 'header.php'; ?>
 
 <!-- SEO Meta Tags -->
+<link rel="canonical" href="https://www.thiyagi.com/C:/xampp/htdocs/live/thiyagi-n/point-to-inch">
 <title>Point to Inch Converter 2026 - pt to in Calculator | Thiyagi</title>
 <meta name="description" content="Free online Point to Inch converter 2026. Convert pt to in and in to pt instantly with accurate typography and printing conversion.">
 <meta name="keywords" content="point to inch converter 2026, pt to in, typography converter, printing units, font size, design measurements">

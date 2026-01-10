@@ -7,8 +7,7 @@
     <meta name="description" content="Calculate your extended warranty refund amount for 2026. Get prorated refund estimates for unused warranty periods with detailed breakdown and cancellation guide.">
     <meta name="keywords" content="extended warranty refund calculator 2026, warranty cancellation refund, prorated warranty refund, warranty refund amount calculator">
     <meta name="author" content="Thiyagi">
-    <meta name="robots" content="index, follow">
-    
+        
     <!-- Open Graph Meta Tags -->
     <meta property="og:title" content="Extended Warranty Refund Calculator 2026 - Calculate Prorated Refund Amount">
     <meta property="og:description" content="Calculate your extended warranty refund amount with detailed breakdown and cancellation guidance.">

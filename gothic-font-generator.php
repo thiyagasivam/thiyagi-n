@@ -1,4 +1,6 @@
 <?php include 'header.php';?>
+<link rel="canonical" href="https://www.thiyagi.com/gothic-font-generator">
+
 
 <?php
 // Gothic font mappings

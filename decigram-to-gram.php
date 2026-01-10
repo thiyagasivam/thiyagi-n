@@ -1,6 +1,7 @@
 <?php include 'header.php'; ?>
 
 <!-- SEO Meta Tags -->
+<link rel="canonical" href="https://www.thiyagi.com/C:/xampp/htdocs/live/thiyagi-n/decigram-to-gram">
 <title>Decigram to Gram Converter 2026 - dg to g Calculator | Thiyagi</title>
 <meta name="description" content="Free online Decigram to Gram converter 2026. Convert dg to g and g to dg instantly with accurate weight conversion for laboratory and precision measurements.">
 <meta name="keywords" content="decigram to gram converter 2026, dg to g, weight converter, metric weight, laboratory measurements, precision scale">

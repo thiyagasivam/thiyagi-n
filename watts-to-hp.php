@@ -1,6 +1,7 @@
 <?php include 'header.php'; ?>
 
 <!-- SEO Meta Tags -->
+<link rel="canonical" href="https://www.thiyagi.com/C:/xampp/htdocs/live/thiyagi-n/watts-to-hp">
 <title>Watts to HP Converter 2026 - Power Calculator | Thiyagi</title>
 <meta name="description" content="Free online watts to horsepower converter 2026. Convert watts to HP instantly with accurate power conversion. Perfect for motor and engine power ratings.">
 <meta name="keywords" content="watts to hp converter 2026, watts to horsepower, power converter, motor calculator, engine power, electrical conversion">

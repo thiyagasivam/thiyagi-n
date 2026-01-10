@@ -1,6 +1,7 @@
 <?php include 'header.php'; ?>
 
 <!-- SEO Meta Tags -->
+<link rel="canonical" href="https://www.thiyagi.com/C:/xampp/htdocs/live/thiyagi-n/newton-square-meter-to-psi">
 <title>Newton per Square Meter to PSI Converter 2026 - N/m² to psi | Thiyagi</title>
 <meta name="description" content="Free online newton per square meter to PSI converter 2026. Convert N/m² to psi instantly with accurate formula: psi = N/m² × 0.000145038.">
 <meta name="keywords" content="newton square meter to PSI 2026, N/m² to psi converter, pressure converter, pascal to psi, engineering calculator">

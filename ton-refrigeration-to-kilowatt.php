@@ -1,6 +1,7 @@
 <?php include 'header.php'; ?>
 
 <!-- SEO Meta Tags -->
+<link rel="canonical" href="https://www.thiyagi.com/C:/xampp/htdocs/live/thiyagi-n/ton-refrigeration-to-kilowatt">
 <title>Ton Refrigeration to Kilowatt Converter 2026 - TR to kW Calculator | Thiyagi</title>
 <meta name="description" content="Free online Ton Refrigeration to Kilowatt converter 2026. Convert TR to kW and kW to TR instantly with accurate cooling power conversion.">
 <meta name="keywords" content="ton refrigeration to kilowatt converter 2026, TR to kW, refrigeration conversion, cooling power, HVAC calculator">

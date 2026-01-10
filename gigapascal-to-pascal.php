@@ -1,6 +1,7 @@
 <?php include 'header.php'; ?>
 
 <!-- SEO Meta Tags -->
+<link rel="canonical" href="https://www.thiyagi.com/C:/xampp/htdocs/live/thiyagi-n/gigapascal-to-pascal">
 <title>Gigapascal to Pascal Converter 2026 - Pressure Calculator | Thiyagi</title>
 <meta name="description" content="Free online gigapascal to pascal converter 2026. Convert GPa to Pa instantly with accurate pressure conversion for engineering and materials science.">
 <meta name="keywords" content="gigapascal to pascal converter 2026, GPa to Pa, pressure converter, engineering calculator, materials science">

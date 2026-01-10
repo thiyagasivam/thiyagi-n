@@ -1,6 +1,7 @@
 <?php include 'header.php'; ?>
 
 <!-- SEO Meta Tags -->
+<link rel="canonical" href="https://www.thiyagi.com/C:/xampp/htdocs/live/thiyagi-n/milliliter-to-drop">
 <title>Milliliter to Drop Converter 2026 - Volume Calculator | Thiyagi</title>
 <meta name="description" content="Free online milliliter to drop converter 2026. Convert mL to drops instantly with accurate volume conversion for medical and laboratory measurements.">
 <meta name="keywords" content="milliliter to drop converter 2026, mL to drops, volume converter, medical calculator, laboratory measurements">

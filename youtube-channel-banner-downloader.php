@@ -1,4 +1,6 @@
 <?php include 'header.php';?>
+<link rel="canonical" href="https://www.thiyagi.com/youtube-channel-banner-downloader">
+
 <?php
 /**
  * YouTube Channel Banner Downloader Tool - Enhanced Version

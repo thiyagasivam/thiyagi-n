@@ -4,7 +4,6 @@
 <meta name="description" content="Complete South Australia Holiday Calendar 2026. Find all SA public holidays, Adelaide Cup Day, Proclamation Day, and state-specific observances for Adelaide and South Australia.">
 <meta name="keywords" content="South Australia holidays 2026, SA public holidays, Adelaide holidays, Adelaide Cup Day, Proclamation Day, South Australia">
 <meta name="author" content="South Australia Holiday Calendar">
-<meta name="robots" content="index, follow">
 <meta property="og:title" content="South Australia Holidays 2026 - Complete Calendar">
 <meta property="og:description" content="Complete South Australia Holiday Calendar 2026 with Adelaide Cup Day, Proclamation Day, and all public holidays.">
 <meta property="og:type" content="website">

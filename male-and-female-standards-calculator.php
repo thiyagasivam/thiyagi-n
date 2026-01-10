@@ -7,8 +7,7 @@
     <meta name="description" content="Calculate health and fitness standards for men and women in 2026. Get BMI, body fat percentage, ideal weight, and fitness standards with gender-specific guidelines and recommendations.">
     <meta name="keywords" content="male female standards calculator 2026, health standards, fitness calculator, BMI calculator, body fat percentage, ideal weight calculator, gender-specific health, fitness standards">
     <meta name="author" content="Thiyagi">
-    <meta name="robots" content="index, follow">
-    
+        
     <!-- Open Graph Meta Tags -->
     <meta property="og:title" content="Male and Female Standards Calculator 2026 - Health & Fitness Standards">
     <meta property="og:description" content="Calculate health and fitness standards for men and women in 2026. Get BMI, body fat percentage, ideal weight, and fitness standards with gender-specific guidelines.">

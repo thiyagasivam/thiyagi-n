@@ -1,6 +1,7 @@
 <?php include 'header.php'; ?>
 
 <!-- SEO Meta Tags -->
+<link rel="canonical" href="https://www.thiyagi.com/C:/xampp/htdocs/live/thiyagi-n/j-to-cal">
 <title>Joules to Calories Converter 2026 - Energy Calculator | Thiyagi</title>
 <meta name="description" content="Free online joules to calories converter 2026. Convert J to cal instantly with accurate energy conversion for nutrition and physics calculations.">
 <meta name="keywords" content="joules to calories converter 2026, J to cal, energy converter, nutrition calculator, physics converter">

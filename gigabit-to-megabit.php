@@ -1,6 +1,7 @@
 <?php include 'header.php'; ?>
 
 <!-- SEO Meta Tags -->
+<link rel="canonical" href="https://www.thiyagi.com/C:/xampp/htdocs/live/thiyagi-n/gigabit-to-megabit">
 <title>Gigabit to Megabit Converter 2026 - Gb to Mb Calculator | Thiyagi</title>
 <meta name="description" content="Free online Gigabit to Megabit converter 2026. Convert Gb to Mb and Mb to Gb instantly with accurate data size conversion for networking and storage.">
 <meta name="keywords" content="gigabit to megabit converter 2026, Gb to Mb, data converter, network speed, bandwidth converter, digital storage">

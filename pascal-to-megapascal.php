@@ -1,6 +1,7 @@
 <?php include 'header.php'; ?>
 
 <!-- SEO Meta Tags -->
+<link rel="canonical" href="https://www.thiyagi.com/C:/xampp/htdocs/live/thiyagi-n/pascal-to-megapascal">
 <title>Pascal to Megapascal Converter 2026 - Pressure Calculator | Thiyagi</title>
 <meta name="description" content="Free online pascal to megapascal converter 2026. Convert Pa to MPa instantly with accurate pressure conversion for engineering applications.">
 <meta name="keywords" content="pascal to megapascal converter 2026, Pa to MPa, pressure converter, engineering calculator, stress converter">

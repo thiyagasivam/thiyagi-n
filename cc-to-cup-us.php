@@ -1,6 +1,7 @@
 <?php include 'header.php'; ?>
 
 <!-- SEO Meta Tags -->
+<link rel="canonical" href="https://www.thiyagi.com/C:/xampp/htdocs/live/thiyagi-n/cc-to-cup-us">
 <title>CC to Cup US Converter 2026 - cubic centimeter to cup Calculator | Thiyagi</title>
 <meta name="description" content="Free online CC to Cup US converter 2026. Convert cubic centimeter to US cup and cup to cc instantly with accurate cooking measurement conversion.">
 <meta name="keywords" content="cc to cup converter 2026, cubic centimeter to cup us, cc to cup, cooking conversion, recipe measurement">

@@ -16,7 +16,6 @@ include('header.php');
 <meta name="description" content="Convert currencies instantly with real-time exchange rates. Support for 50+ currencies including USD, EUR, GBP, INR. Free online currency converter tool.">
 <meta name="keywords" content="currency converter, exchange rates, currency calculator, real time rates, money converter, forex converter, international currency">
 <meta name="author" content="Thiyagi">
-<meta name="robots" content="index, follow">
 <meta name="language" content="English">
 <meta name="revisit-after" content="7 days">
 

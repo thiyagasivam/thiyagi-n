@@ -82,8 +82,7 @@ if ($units > 0) {
     <meta property="og:image" content="https://www.thiyagi.com/images/tneb-calculator-preview.jpg">
     <meta name="twitter:image" content="https://www.thiyagi.com/images/tneb-calculator-preview.jpg">
     <meta name="author" content="Thiyagi.com">
-    <meta name="robots" content="index, follow">
-    <link rel="apple-touch-icon" href="https://www.thiyagi.com/images/apple-touch-icon.png">
+        <link rel="apple-touch-icon" href="https://www.thiyagi.com/images/apple-touch-icon.png">
  
     <script src="https://cdn.tailwindcss.com"></script>
     <!-- Google Fonts -->
