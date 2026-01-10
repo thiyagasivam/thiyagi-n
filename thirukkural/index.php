@@ -14,9 +14,6 @@ $page_keywords = "thirukkural, thiruvalluvar, tamil literature, ethics, morality
 // Check if header file exists
 if (file_exists('../header.php')) {
     include '../header.php';
-    // Add meta tags after header
-    echo '<meta name="description" content="' . htmlspecialchars($page_description) . '">';
-    echo '<link rel="canonical" href="https://www.thiyagi.com/thirukkural">';
 } else {
     echo "Error: header.php file not found at ../header.php<br>";
     // Create a basic HTML structure if header is missing
@@ -26,8 +23,11 @@ if (file_exists('../header.php')) {
     <head>
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <link rel="canonical" href="https://www.thiyagi.com/C:/xampp/htdocs/live/thiyagi-n/thirukkural/index">
-<title><?php echo $page_title; ?></title>
+<?php } ?>
+<link rel="canonical" href="https://www.thiyagi.com/thirukkural">
+<title>Thirukkural - Tamil Classic Literature by Thiruvalluvar | Thiyagi.com</title>
+<meta name="description" content="Explore the timeless wisdom of Thirukkural by Saint Thiruvalluvar with explanations from Mu. Varadarasanar, Solomon Paapaiya, and Kalaignar. Browse all 1330 couplets organized by chapters and categories.">
+<?php if (!file_exists('../header.php')) { ?>
         <script src="https://cdn.tailwindcss.com"></script>
         <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
         <style>
