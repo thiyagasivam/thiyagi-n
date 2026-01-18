@@ -60,7 +60,7 @@
         
         <!-- Related Converters -->
         <div class="flex flex-wrap justify-center gap-4 text-sm" role="list">
-            <a href="/kilowatt-to-ton-refrigeration" class="px-4 py-2 bg-white rounded-lg shadow hover:shadow-md transition-shadow text-cyan-600 hover:text-cyan-700" role="listitem">Kilowatt to TR</a>
+            
             <a href="/btu-to-ton" class="px-4 py-2 bg-white rounded-lg shadow hover:shadow-md transition-shadow text-cyan-600 hover:text-cyan-700" role="listitem">BTU to Ton</a>
             <a href="/btu-it-hour-to-kilowatt" class="px-4 py-2 bg-white rounded-lg shadow hover:shadow-md transition-shadow text-cyan-600 hover:text-cyan-700" role="listitem">BTU/h to kW</a>
             <a href="/btu-it-hour-to-watt" class="px-4 py-2 bg-white rounded-lg shadow hover:shadow-md transition-shadow text-cyan-600 hover:text-cyan-700" role="listitem">BTU/h to Watt</a>
