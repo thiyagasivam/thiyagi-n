@@ -1,7 +1,7 @@
-<?php include 'header.php'; ?>
+﻿<?php include 'header.php'; ?>
 
 <!-- SEO Meta Tags -->
-<link rel="canonical" href="https://www.thiyagi.com/C:/xampp/htdocs/live/thiyagi-n/cubic-inch-to-cubic-centimeter">
+<link rel="canonical" href="https://www.thiyagi.com/cubic-inch-to-cubic-centimeter">
 <title>Cubic Inch to Cubic Centimeter Converter 2026 - Volume Calculator | Thiyagi</title>
 <meta name="description" content="Free online cubic inch to cubic centimeter converter 2026. Convert in³ to cm³ instantly with accurate volume conversion for engineering and design.">
 <meta name="keywords" content="cubic inch to cubic centimeter converter 2026, in³ to cm³, volume converter, engineering calculator, design converter">

@@ -1,4 +1,4 @@
-<?php
+﻿<?php
 /**
  * Enhanced Pincode Search with API Integration
  * Handles both pincode and area name searches
@@ -154,7 +154,7 @@ if (isset($_POST['search_query']) && !empty($_POST['search_query'])) {
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="canonical" href="https://www.thiyagi.com/C:/xampp/htdocs/live/thiyagi-n/pincode/search">
+    <link rel="canonical" href="https://www.thiyagi.com/pincode/search">
 <title>Enhanced Pincode Search - Thiyagi</title>
     <meta name="description" content="Search Indian pincodes by pincode number or area name. Get complete postal information with real-time API data.">
     

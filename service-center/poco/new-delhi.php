@@ -1,4 +1,4 @@
-<?php include '../../header.php'; ?>
+﻿<?php include '../../header.php'; ?>
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -7,7 +7,7 @@
     <meta name="description" content="Find Poco Service Centers in New Delhi for 2026. Get authorized service for Poco devices with updated addresses and contact details.">
     <meta name="keywords" content="Poco Service Center, New Delhi, Poco Authorized Service, Poco Repairs">
     <meta name="author" content="thiyagi.com">
-    <link rel="canonical" href="https://www.thiyagi.com/C:/xampp/htdocs/live/thiyagi-n/service-center/poco/new-delhi">
+    <link rel="canonical" href="https://www.thiyagi.com/service-center/poco/new-delhi">
 <title>Poco Service Center in New Delhi 2026 | thiyagi.com</title>
     <script src="https://cdn.tailwindcss.com"></script>
     <script src="https://kit.fontawesome.com/a076d05399.js" crossorigin="anonymous"></script>

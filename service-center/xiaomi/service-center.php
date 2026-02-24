@@ -1,4 +1,4 @@
-<?php include '../../header.php'; ?>
+﻿<?php include '../../header.php'; ?>
 <?php
 // Database configuration
 define('DB_HOST', '127.0.0.1:3306');
@@ -78,7 +78,7 @@ try {
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="<?= htmlspecialchars($center['about'], ENT_QUOTES, 'UTF-8') ?>">
-    <link rel="canonical" href="https://www.thiyagi.com/C:/xampp/htdocs/live/thiyagi-n/service-center/xiaomi/service-center">
+    <link rel="canonical" href="https://www.thiyagi.com/service-center/xiaomi/service-center">
 <title><?= htmlspecialchars($center['page_title'], ENT_QUOTES, 'UTF-8') ?></title>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
     <style>

@@ -1,4 +1,4 @@
-<?php 
+﻿<?php 
 // Define current tariff slabs (2026)
 $slabs = [
     ['min' => 0, 'max' => 100, 'rate' => 3.35],
@@ -44,7 +44,7 @@ include '../header.php';
 ?>
 
 <!-- Page-specific meta tags -->
-<link rel="canonical" href="https://www.thiyagi.com/C:/xampp/htdocs/live/thiyagi-n/electricity-board/uppcl-bill-calculator">
+<link rel="canonical" href="https://www.thiyagi.com/electricity-board/uppcl-bill-calculator">
 <title>UPPCL Bill Calculator - Uttar Pradesh Electricity Cost Estimator 2026</title>
 <meta name="description" content="Calculate your UPPCL electricity bill online using the latest slab rates for domestic users in Uttar Pradesh. Updated for 2026.">
 

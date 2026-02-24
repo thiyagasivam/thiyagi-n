@@ -1,4 +1,4 @@
-<?php include '../header.php';?>
+﻿<?php include '../header.php';?>
 <?php include 'breadcrumb-schema.php';?>
 <?php
 // Define tariff slabs and rates for 2026 (hypothetical - replace with actual 2026 rates)
@@ -64,7 +64,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST' && $units > 0) {
     <meta property="og:title" content="Meghalaya Electricity Bill Calculator 2026 | MePDCL">
     <meta property="og:description" content="Calculate your MePDCL electricity bill with the latest 2026 tariff rates.">
     <meta property="og:type" content="website">
-    <link rel="canonical" href="https://www.thiyagi.com/C:/xampp/htdocs/live/thiyagi-n/electricity-board/meghalaya-electricity-bill-calculator">
+    <link rel="canonical" href="https://www.thiyagi.com/electricity-board/meghalaya-electricity-bill-calculator">
 <title>Meghalaya Electricity Bill Calculator 2026 | MePDCL</title>
     <script src="https://cdn.tailwindcss.com"></script>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">

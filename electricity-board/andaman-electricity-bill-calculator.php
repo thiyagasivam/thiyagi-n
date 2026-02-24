@@ -1,4 +1,4 @@
-<?php include '../header.php';?>
+﻿<?php include '../header.php';?>
 <?php include 'breadcrumb-schema.php';?>
 <?php
 // Define A&N 2026 tariff rates (Domestic consumers - assumed rates)
@@ -61,7 +61,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST' && $units > 0) {
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="canonical" href="https://www.thiyagi.com/C:/xampp/htdocs/live/thiyagi-n/electricity-board/andaman-electricity-bill-calculator">
+    <link rel="canonical" href="https://www.thiyagi.com/electricity-board/andaman-electricity-bill-calculator">
 <title>Andaman & Nicobar Electricity Bill Calculator 2026 | Power Department</title>
     <meta name="description" content="Calculate your A&N Islands electricity bill for 2026. Official estimate tool with current tariff rates and subsidy options.">
     <meta property="og:title" content="A&N Islands Electricity Bill Calculator 2026">

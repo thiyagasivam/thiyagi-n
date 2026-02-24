@@ -1,4 +1,4 @@
-<?php include 'header.php'; ?>
+﻿<?php include 'header.php'; ?>
 
 <?php
 // Function to generate tiny text variants
@@ -72,7 +72,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="canonical" href="https://www.thiyagi.com/C:/xampp/htdocs/live/thiyagi-n/tiny-text-generator">
+    <link rel="canonical" href="https://www.thiyagi.com/tiny-text-generator">
 <title>Tiny Text Generator | Convert Text to Small Font</title>
     <meta name="description" content="Generate tiny text (small caps, superscript, subscript) for social media, websites, and more. Convert normal text to small font instantly.">
     <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" rel="stylesheet">

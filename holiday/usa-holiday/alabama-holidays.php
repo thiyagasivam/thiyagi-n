@@ -1,4 +1,4 @@
-<?php 
+﻿<?php 
 // Alabama Holidays 2026 - Page specific head content
 $canonical_url = "https://" . $_SERVER['HTTP_HOST'] . strtok($_SERVER['REQUEST_URI'], '?');
 
@@ -6,7 +6,7 @@ include '../../header.php';
 ?>
 
 <!-- Page specific meta tags -->
-<link rel="canonical" href="https://www.thiyagi.com/C:/xampp/htdocs/live/thiyagi-n/holiday/usa-holiday/alabama-holidays">
+<link rel="canonical" href="https://www.thiyagi.com/holiday/usa-holiday/alabama-holidays">
 <title>Alabama Holidays 2026 | Complete Calendar | State & Federal Holidays | Festivals</title>
 <meta name="description" content="Complete Alabama Holiday Calendar 2026. Find all state holidays, federal holidays, cultural events, and observances. Plan your year with our comprehensive holiday guide.">
 <meta name="keywords" content="Alabama holidays 2026, Alabama state holidays, US federal holidays, Alabama festivals, Alabama calendar, holidays Alabama, festival dates 2026">

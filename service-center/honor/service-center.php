@@ -1,4 +1,4 @@
-<?php include '../../header.php'; ?>
+﻿<?php include '../../header.php'; ?>
 <?php
 // Database configuration
 define('DB_HOST', '127.0.0.1:3306');
@@ -173,7 +173,7 @@ $breadcrumbSchema = [
     <meta name="twitter:description" content="Professional Honor smartphone repair with genuine parts ⭐ 4.8/5 rated service center">
     <meta name="twitter:image" content="https://images.unsplash.com/photo-1556656793-08538906a9f8?w=1200&h=630&fit=crop">
     
-    <link rel="canonical" href="https://www.thiyagi.com/C:/xampp/htdocs/live/thiyagi-n/service-center/honor/service-center">
+    <link rel="canonical" href="https://www.thiyagi.com/service-center/honor/service-center">
 <title><?= htmlspecialchars($center['page_title'], ENT_QUOTES, 'UTF-8') ?></title>
     
     <!-- Schema.org JSON-LD -->
@@ -355,7 +355,7 @@ $breadcrumbSchema = [
     }
     </script>
 
-    <link rel="canonical" href="https://www.thiyagi.com/C:/xampp/htdocs/live/thiyagi-n/service-center/honor/service-center">
+    <link rel="canonical" href="https://www.thiyagi.com/service-center/honor/service-center">
 <title><?= htmlspecialchars($center['page_title'], ENT_QUOTES, 'UTF-8') ?></title>
     
     <!-- Modern CSS Framework -->

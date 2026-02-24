@@ -1,4 +1,4 @@
-<?php include '../../header.php'; ?>
+﻿<?php include '../../header.php'; ?>
 <?php
 // Database connection
 $host = "127.0.0.1:3306";
@@ -48,7 +48,7 @@ $conn->close();
     <meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:title" content="Infinix Authorized Service Centers Near Me 2026">
     <meta name="twitter:description" content="Find authorized Infinix service centers near you. Expert smartphone repair services with genuine parts and warranty support.">
-    <link rel="canonical" href="https://www.thiyagi.com/C:/xampp/htdocs/live/thiyagi-n/service-center/infinix/index">
+    <link rel="canonical" href="https://www.thiyagi.com/service-center/infinix/index">
 <title>Infinix Authorized Service Centers Near Me 2026</title>
     <script src="https://cdn.tailwindcss.com"></script>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">

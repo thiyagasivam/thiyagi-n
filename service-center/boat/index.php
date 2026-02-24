@@ -1,4 +1,4 @@
-<?php include '../../header.php'; ?>
+﻿<?php include '../../header.php'; ?>
 <?php
 // Database connection settings - UPDATE THESE WITH YOUR CREDENTIALS
 $host = "127.0.0.1:3306";
@@ -104,7 +104,7 @@ $breadcrumbSchema = [
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="canonical" href="https://www.thiyagi.com/C:/xampp/htdocs/live/thiyagi-n/service-center/boat/index">
+    <link rel="canonical" href="https://www.thiyagi.com/service-center/boat/index">
 <meta name="description" content="Find authorized Boat service centers across India. Get contact details, addresses, and phone numbers for genuine Boat repair and support services.">
 <title>Boat Service Centers Near Me 2026</title>
     <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" rel="stylesheet">

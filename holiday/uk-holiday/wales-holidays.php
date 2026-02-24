@@ -1,4 +1,4 @@
-<?php 
+﻿<?php 
 // Wales Holidays 2026 - Page specific head content
 $page_title = "Wales Holidays 2026 - Complete Calendar & Bank Holidays | 25+ Years Experience";
 $page_description = "Complete Wales Holiday Calendar 2026 with all bank holidays, cultural events, and observances. Professional holiday planning guide with 25+ years of expertise. Plan your year with our comprehensive Wales holiday directory.";
@@ -8,7 +8,7 @@ $canonical_url = "https://" . $_SERVER['HTTP_HOST'] . $_SERVER['REQUEST_URI'];
 include '../../header.php'; 
 ?>
 
-<link rel="canonical" href="https://www.thiyagi.com/C:/xampp/htdocs/live/thiyagi-n/holiday/uk-holiday/wales-holidays">
+<link rel="canonical" href="https://www.thiyagi.com/holiday/uk-holiday/wales-holidays">
 <title><?php echo $page_title; ?></title>
 <meta name="description" content="<?php echo $page_description; ?>">
 <meta name="keywords" content="<?php echo $page_keywords; ?>">

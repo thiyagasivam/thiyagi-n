@@ -1,8 +1,8 @@
-<?php
+﻿<?php
 include 'header.php';
 
 ?>
-<link rel="canonical" href="https://www.thiyagi.com/C:/xampp/htdocs/live/thiyagi-n/youtube-timestamp-link-generator">
+<link rel="canonical" href="https://www.thiyagi.com/youtube-timestamp-link-generator">
 <title>YouTube Timestamp Link Generator 2026 - Create Time-Stamped URLs | 25+ Years Experience</title>
 <meta name="description" content="Generate YouTube links with specific timestamps for video sharing. Professional timestamp tool for content creators and educators. Built with 25+ years of digital expertise for 2026 video optimization.">
 <meta name="keywords" content="YouTube timestamp generator, timestamp link, video timestamp, YouTube time link, video sharing 2026">
@@ -65,7 +65,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="canonical" href="https://www.thiyagi.com/C:/xampp/htdocs/live/thiyagi-n/youtube-timestamp-link-generator">
+    <link rel="canonical" href="https://www.thiyagi.com/youtube-timestamp-link-generator">
 <title>YouTube Timestamp Link Generator</title>
     <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" rel="stylesheet">
     <style>

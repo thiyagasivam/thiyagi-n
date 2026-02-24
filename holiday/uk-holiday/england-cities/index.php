@@ -1,4 +1,4 @@
-<?php 
+﻿<?php 
 // England Cities Holidays - Index Page
 $page_title = "England Cities Holidays 2026 - Complete Local Events Guide | 25+ Years Experience";
 $page_description = "Complete holiday calendar 2026 for all major English cities. Find local events, festivals, and celebrations in London, Manchester, Birmingham, and more. Professional guide with 25+ years of holiday planning expertise.";
@@ -8,7 +8,7 @@ $canonical_url = "https://" . $_SERVER['HTTP_HOST'] . strtok($_SERVER['REQUEST_U
 include '../../../header.php'; 
 ?>
 
-<link rel="canonical" href="https://www.thiyagi.com/C:/xampp/htdocs/live/thiyagi-n/holiday/uk-holiday/england-cities/index">
+<link rel="canonical" href="https://www.thiyagi.com/holiday/uk-holiday/england-cities/index">
 <title><?php echo $page_title; ?></title>
 <meta name="description" content="<?php echo $page_description; ?>">
 <meta name="keywords" content="<?php echo $page_keywords; ?>">

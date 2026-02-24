@@ -1,4 +1,4 @@
-<?php include 'header.php'; ?>
+﻿<?php include 'header.php'; ?>
 
 <?php
 // EMI calculation function
@@ -116,7 +116,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="canonical" href="https://www.thiyagi.com/C:/xampp/htdocs/live/thiyagi-n/loan-calculator">
+    <link rel="canonical" href="https://www.thiyagi.com/loan-calculator">
 <title>EMI Calculator - Calculate Loan EMI, Interest & Payment Schedule | Groww Clone</title>
     <meta name="description" content="Free online EMI calculator for home loan, personal loan, car loan & more. Calculate monthly EMI, total interest and payment schedule. Plan your loan repayment with Groww EMI calculator.">
     <!-- Tailwind CSS -->

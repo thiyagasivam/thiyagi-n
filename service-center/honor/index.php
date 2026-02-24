@@ -1,4 +1,4 @@
-<?php include '../../header.php'; ?>
+﻿<?php include '../../header.php'; ?>
 
 <?php
 // Database connection
@@ -75,7 +75,7 @@ $breadcrumbSchema = [
     <meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:title" content="Honor Authorized Service Centers Near Me 2026">
     <meta name="twitter:description" content="Find authorized Honor service centers near you. Expert smartphone repair services with genuine parts and warranty support.">
-    <link rel="canonical" href="https://www.thiyagi.com/C:/xampp/htdocs/live/thiyagi-n/service-center/honor/index">
+    <link rel="canonical" href="https://www.thiyagi.com/service-center/honor/index">
 <title>Honor Authorized Service Centers Near Me 2026</title>
     <script src="https://cdn.tailwindcss.com"></script>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">

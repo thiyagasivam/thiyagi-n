@@ -1,4 +1,4 @@
-<?php 
+﻿<?php 
 // Brighton Holidays 2026 - Page specific head content
 $canonical_url = "https://" . $_SERVER['HTTP_HOST'] . strtok($_SERVER['REQUEST_URI'], '?');
 
@@ -6,7 +6,7 @@ include '../../../header.php';
 ?>
 
 <!-- Page specific meta tags -->
-<link rel="canonical" href="https://www.thiyagi.com/C:/xampp/htdocs/live/thiyagi-n/holiday/uk-holiday/england-cities/brighton-holidays">
+<link rel="canonical" href="https://www.thiyagi.com/holiday/uk-holiday/england-cities/brighton-holidays">
 <title>Brighton Holidays 2026 | Complete Calendar | Local Events | Bank Holidays</title>
 <meta name="description" content="Complete Brighton Holiday Calendar 2026. Find all bank holidays, local events, festivals, and observances. Plan your year with our comprehensive Brighton holiday guide.">
 <meta name="keywords" content="Brighton holidays 2026, Brighton events, Brighton festivals, England holidays, Brighton calendar">

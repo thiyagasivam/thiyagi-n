@@ -1,4 +1,4 @@
-<?php include '../header.php';?>
+﻿<?php include '../header.php';?>
 <?php include 'breadcrumb-schema.php';?>
 <?php
 // Define tariff slabs for 2026 (Domestic category - HPSEBL)
@@ -68,7 +68,7 @@ $final_amount = max(0, $total - $subsidy);
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="canonical" href="https://www.thiyagi.com/C:/xampp/htdocs/live/thiyagi-n/electricity-board/hpsebl-electricity-bill-calculator">
+    <link rel="canonical" href="https://www.thiyagi.com/electricity-board/hpsebl-electricity-bill-calculator">
 <title>HPSEBL Bill Calculator (2026) – Himachal Pradesh Electricity Estimator</title>
     <meta name="description" content="Calculate your HPSEBL electricity bill for 2026 based on domestic tariff slabs. Includes meter rent, fixed charges, and subsidy options.">
     

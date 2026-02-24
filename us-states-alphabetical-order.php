@@ -1,4 +1,4 @@
-<?php include 'header.php'; ?>
+﻿<?php include 'header.php'; ?>
 
 <?php
 // List of all 50 US states with abbreviations
@@ -75,7 +75,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="canonical" href="https://www.thiyagi.com/C:/xampp/htdocs/live/thiyagi-n/us-states-alphabetical-order">
+    <link rel="canonical" href="https://www.thiyagi.com/us-states-alphabetical-order">
 <title>50 US States in Alphabetical Order - Complete List</title>
     <meta name="description" content="Complete list of all 50 US states in alphabetical order with state abbreviations. Perfect for reference and educational purposes.">
     <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" rel="stylesheet">

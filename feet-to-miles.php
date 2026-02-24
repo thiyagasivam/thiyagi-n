@@ -1,4 +1,4 @@
-<?php 
+﻿<?php 
 // Meta information for this page
 $pageTitle = "Feet to Miles Converter 2026 - FT to MI Calculator Online";
 $pageDescription = "Convert feet (ft) to miles (mi) instantly with our free online calculator 2026. Accurate distance conversion tool for mapping, construction, athletics, and travel calculations.";
@@ -6,7 +6,7 @@ $pageDescription = "Convert feet (ft) to miles (mi) instantly with our free onli
 <?php include 'header.php'; ?>
 
 <!-- Page-specific meta tags -->
-<link rel="canonical" href="https://www.thiyagi.com/C:/xampp/htdocs/live/thiyagi-n/feet-to-miles">
+<link rel="canonical" href="https://www.thiyagi.com/feet-to-miles">
 <title><?php echo htmlspecialchars($pageTitle); ?></title>
 <meta name="description" content="<?php echo htmlspecialchars($pageDescription); ?>">
 <meta name="keywords" content="feet to miles, ft to mi converter, distance converter, length calculator, travel distance, mapping tools">

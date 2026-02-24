@@ -1,6 +1,6 @@
-<?php include 'header.php'; ?>
+﻿<?php include 'header.php'; ?>
 
-<link rel="canonical" href="https://www.thiyagi.com/C:/xampp/htdocs/live/thiyagi-n/contact-simple">
+<link rel="canonical" href="https://www.thiyagi.com/contact-simple">
 <title>Contact Thiyagi Tools 2026 - Get Professional Support | 25+ Years Experience</title>
 <meta name="description" content="Contact Thiyagi Tools for professional support, feedback, and inquiries. Get help with our calculators, converters, and online tools. Professional support with 25+ years of digital expertise since 1999.">
 <meta name="keywords" content="contact Thiyagi Tools, customer support, help desk, tool support, professional assistance 2026">
@@ -10,7 +10,7 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-  <link rel="canonical" href="https://www.thiyagi.com/C:/xampp/htdocs/live/thiyagi-n/contact-simple">
+  <link rel="canonical" href="https://www.thiyagi.com/contact-simple">
 <title>Contact Us - Thiyagi Tools</title>
   <script src="https://cdn.tailwindcss.com"></script>
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css"/>
