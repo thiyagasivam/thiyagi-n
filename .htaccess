@@ -5,6 +5,9 @@ RewriteCond %{HTTPS} off [OR]
 RewriteCond %{HTTP_HOST} ^thiyagi\.com$ [NC]
 RewriteRule ^(.*)$ https://www.thiyagi.com/$1 [L,R=301]
 
+# Permanent redirect /home to root
+RewriteRule ^home/?$ https://www.thiyagi.com/ [L,R=301]
+
 # Set custom 404 error page
 ErrorDocument 404 /404.php
 
