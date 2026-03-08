@@ -1,7 +1,4 @@
 <?php include '../../header.php'; ?>
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Kerala Holidays 2026 | Complete Calendar | Onam | National Holidays</title>
     <meta name="description" content="Complete Kerala Holiday Calendar 2026. Find all major festivals like Onam, national holidays, cultural events, and religious celebrations in Kerala. Plan your year with our comprehensive guide.">
     <meta name="keywords" content="Kerala holidays 2026, Kerala festivals, Onam, Vishu, national holidays India, cultural events Kerala, Kerala calendar, holidays Kerala, festival dates 2026">
@@ -14,7 +11,6 @@
     <meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:title" content="Kerala Holidays 2026">
     <meta name="twitter:description" content="Complete Kerala Holiday Calendar 2026 with all festivals and holidays.">
-    <link rel="canonical" href="<?php echo 'https://' . $_SERVER['HTTP_HOST'] . $_SERVER['REQUEST_URI']; ?>">
     <meta name="language" content="English, Malayalam">
     <meta name="geo.region" content="IN-KL">
     <meta name="geo.placename" content="Kerala, India">
@@ -79,8 +75,6 @@
         "dateModified": "<?php echo date('Y-m-d'); ?>"
     }
     </script>
-    <script src="https://cdn.tailwindcss.com"></script>
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/remixicon/3.5.0/remixicon.css">
     <script>
         tailwind.config = {
@@ -96,7 +90,6 @@
             }
         }
     </script>
-</head>
 <body class="bg-gradient-to-br from-green-50 to-blue-100 min-h-screen">
     <?php
     // Kerala Holidays 2026 Data

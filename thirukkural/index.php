@@ -18,18 +18,10 @@ if (file_exists('../header.php')) {
     echo "Error: header.php file not found at ../header.php<br>";
     // Create a basic HTML structure if header is missing
     ?>
-    <!DOCTYPE html>
-    <html lang="ta">
-    <head>
-        <meta charset="UTF-8">
-        <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <?php } ?>
-<link rel="canonical" href="https://www.thiyagi.com/thirukkural">
 <title>Thirukkural - Tamil Classic Literature by Thiruvalluvar | Thiyagi.com</title>
 <meta name="description" content="Explore the timeless wisdom of Thirukkural by Saint Thiruvalluvar with explanations from Mu. Varadarasanar, Solomon Paapaiya, and Kalaignar. Browse all 1330 couplets organized by chapters and categories.">
 <?php if (!file_exists('../header.php')) { ?>
-        <script src="https://cdn.tailwindcss.com"></script>
-        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
         <style>
             /* Tamil font support */
             @import url('https://fonts.googleapis.com/css2?family=Noto+Sans+Tamil:wght@300;400;500;600;700&display=swap');
@@ -43,7 +35,6 @@ if (file_exists('../header.php')) {
                 font-family: 'Noto Sans Tamil', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
             }
         </style>
-    </head>
     <body class="bg-gray-50">
     <?php
 }

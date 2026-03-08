@@ -1,7 +1,6 @@
 ﻿<?php include 'header.php'; ?>
 
 <!-- SEO Meta Tags -->
-<link rel="canonical" href="https://www.thiyagi.com/centiliter-to-milliliter">
 <title>Centiliter to Milliliter Converter 2026 - cL to mL Calculator | Thiyagi</title>
 <meta name="description" content="Free online Centiliter to Milliliter converter 2026. Convert cL to mL and mL to cL instantly with accurate volume conversion for cooking and lab work.">
 <meta name="keywords" content="centiliter to milliliter converter 2026, cL to mL, volume converter, cooking measurements, metric volume, laboratory measurements">

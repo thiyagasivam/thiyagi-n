@@ -1,7 +1,6 @@
 ﻿<?php include 'header.php'; ?>
 
 <!-- SEO Meta Tags -->
-<link rel="canonical" href="https://www.thiyagi.com/minute-to-millisecond">
 <title>Minute to Millisecond Converter 2026 - min to ms Calculator | Thiyagi</title>
 <meta name="description" content="Free online Minute to Millisecond converter 2026. Convert min to ms and ms to min instantly with accurate time conversion for programming and timing calculations.">
 <meta name="keywords" content="minute to millisecond converter 2026, min to ms, time converter, programming time, computer timing, millisecond precision">

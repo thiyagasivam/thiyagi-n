@@ -3,7 +3,6 @@
 <title>Pennsylvania Holidays 2026 | Complete Calendar | State & Federal Holidays | Festivals</title>
 <meta name="description" content="Complete Pennsylvania Holiday Calendar 2026. Find all state holidays, federal holidays, cultural events, and observances. Plan your year with our comprehensive holiday guide.">
 <meta name="keywords" content="Pennsylvania holidays 2026, Pennsylvania state holidays, US federal holidays, Pennsylvania festivals, Pennsylvania calendar, holidays Pennsylvania, festival dates 2026">
-<link rel="canonical" href="https://<?= $_SERVER['HTTP_HOST'] . strtok($_SERVER['REQUEST_URI'], '?') ?>">
 
 <style>
 :root {

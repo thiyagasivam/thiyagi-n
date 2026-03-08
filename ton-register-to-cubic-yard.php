@@ -1,19 +1,9 @@
 <?php include 'header.php';?>
-<link rel="canonical" href="https://www.thiyagi.com/ton-register-to-cubic-yard">
 
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Ton Register to Cubic Yard Converter 2026 - Volume Conversion Calculator</title>
     <meta name="description" content="Convert ton register to cubic yards with our free 2026 online calculator. Accurate volume conversion for shipping and maritime calculations.">
     <meta name="keywords" content="ton register to cubic yard converter 2026, register ton to yd³, shipping volume converter, maritime calculator 2026">
-    <script src="https://cdn.tailwindcss.com"></script>
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
-</head>
-<body>
 
 <div class="min-h-screen bg-gradient-to-br from-blue-50 to-indigo-100 py-8">
     <div class="max-w-4xl mx-auto px-4">

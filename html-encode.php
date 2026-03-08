@@ -200,15 +200,9 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
 }
 ?>
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>HTML Encode Decode Tool 2026 - Secure Text Conversion & Entity Generator</title>
     <meta name="description" content="Advanced HTML encoder/decoder tool supporting multiple encoding types, entity conversion, URL encoding, and security-focused text transformation in 2026. Free online HTML entity converter.">
     <meta name="keywords" content="HTML encoder decoder, HTML entities converter, text encoding tool 2026, HTML escape characters, web security encoder, XSS prevention tool">
-    <link rel="canonical" href="https://www.thiyagi.com/html-encode">
     
     <!-- Open Graph / Facebook -->
     <meta property="og:type" content="website">
@@ -279,7 +273,6 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
             to { opacity: 1; transform: translateY(0); }
         }
     </style>
-</head>
 <body class="bg-gray-50">
     <!-- Breadcrumb Navigation -->
     <nav class="bg-white border-b border-gray-200 px-4 py-3">

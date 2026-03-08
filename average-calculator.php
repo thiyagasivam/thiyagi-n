@@ -1,5 +1,4 @@
 <?php include 'header.php';?>
-<link rel="canonical" href="https://www.thiyagi.com/average-calculator">
 
 
 <?php
@@ -98,11 +97,6 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
 }
 ?>
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Advanced Statistics Calculator 2026 - Mean, Median, Mode & Standard Deviation</title>
     <meta name="description" content="Complete statistical calculator with mean, median, mode, range, standard deviation in 2026. Mobile-responsive design with instant calculations. Free online statistics tool for students & professionals!">
     <meta name="keywords" content="statistics calculator, mean calculator, median calculator, mode calculator, standard deviation, range calculator, average calculator, math tools 2026">
@@ -136,7 +130,6 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
     </script>
     
     <!-- Tailwind CSS -->
-    <script src="https://cdn.tailwindcss.com"></script>
     <script>
         tailwind.config = {
             theme: {
@@ -190,7 +183,6 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
         }
     </style>
 
-</head>
 <body class="bg-gray-50 min-h-screen">
     <div class="max-w-6xl mx-auto px-4 py-8">
         <!-- Header -->

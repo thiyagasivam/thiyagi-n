@@ -2,7 +2,6 @@
 <title>Square Meter to Square Yard Converter 2026 | Convert sqm to sq yd | Free Tool</title>
 <meta name="description" content="Convert square meter to square yard instantly with our 2026 accurate area converter. Perfect sqm to sq yd conversion with real-time calculations for construction and measurement needs.">
 <meta name="keywords" content="square meter to square yard 2026, area converter, construction conversion 2026, sqm to sq yd calculator, area measurement tool">
-<link rel="canonical" href="https://www.thiyagi.com/square-meter-to-square-yard">
 
 <!-- Open Graph Meta Tags -->
 <meta property="og:title" content="Square Meter to Square Yard Converter 2026 | Convert sqm to sq yd | Free Tool">

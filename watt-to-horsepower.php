@@ -2,7 +2,6 @@
 <title>Watt to Horsepower Converter 2026 | Convert W to HP | Free Tool</title>
 <meta name="description" content="Convert watt to horsepower instantly with our 2026 accurate power converter. Perfect W to HP conversion with real-time calculations for mechanical power needs.">
 <meta name="keywords" content="watt to horsepower 2026, power converter, mechanical conversion 2026, W to HP calculator, power tool">
-<link rel="canonical" href="https://www.thiyagi.com/watt-to-horsepower">
 
 <!-- Open Graph Meta Tags -->
 <meta property="og:title" content="Watt to Horsepower Converter 2026 | Convert W to HP | Free Tool">

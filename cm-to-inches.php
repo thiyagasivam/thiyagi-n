@@ -2,7 +2,6 @@
 <title>Centimeter to Inches Converter 2026 | CM to Inches | Free Tool</title>
 <meta name="description" content="Convert centimeter to inches instantly with our 2026 accurate converter. Perfect cm to inches conversion with real-time calculations for length measurement.">
 <meta name="keywords" content="centimeter to inches 2026, cm inches converter, metric to imperial 2026, length conversion calculator, measurement tool">
-<link rel="canonical" href="https://www.thiyagi.com/cm-to-inches">
 
 <!-- Open Graph Meta Tags -->
 <meta property="og:title" content="Centimeter to Inches Converter 2026 | CM to Inches | Free Tool">

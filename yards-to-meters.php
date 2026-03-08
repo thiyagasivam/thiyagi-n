@@ -2,7 +2,6 @@
 <title>Yards to Meters Converter 2026 | yd to m | Free Distance Tool</title>
 <meta name="description" content="Convert yards to meters instantly with our 2026 accurate converter. Perfect yd to m conversion with real-time calculations for sports fields and construction measurements.">
 <meta name="keywords" content="yards to meters converter 2026, yd to m converter, yards meters conversion, distance converter 2026, sports measurements, construction calculator, field dimensions, athletic tracks, measurement tools, metric conversion">
-<link rel="canonical" href="https://www.thiyagi.com/yards-to-meters">
 
 <!-- Open Graph Meta Tags -->
 <meta property="og:title" content="Yards to Meters Converter 2026 | yd to m | Free Distance Tool">
@@ -21,7 +20,6 @@
 <!-- Additional SEO Meta Tags -->
 <meta name="author" content="Thiyagi">
 <meta name="theme-color" content="#10b981">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
 <meta name="language" content="EN">
 <meta name="revisit-after" content="7 days">
 <meta name="distribution" content="global">

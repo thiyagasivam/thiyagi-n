@@ -1,7 +1,6 @@
 ﻿<?php include 'header.php'; ?>
 
 <!-- SEO Meta Tags -->
-<link rel="canonical" href="https://www.thiyagi.com/months-to-days">
 <title>Months to Days Converter 2026 - Convert Months to Days | Thiyagi</title>
 <meta name="description" content="Free online months to days converter 2026. Convert months to days instantly considering leap years and month variations.">
 <meta name="keywords" content="months to days 2026, month day converter, time calculator, calendar converter, date calculation">

@@ -2,7 +2,6 @@
 <title>Gallon to ML Converter 2026 | Volume Conversion Tool | Free Calculator</title>
 <meta name="description" content="Convert gallons to milliliters instantly with our 2026 accurate volume converter. Perfect for fuel calculations, cooking, and liquid measurements.">
 <meta name="keywords" content="gallon to ml converter 2026, volume conversion calculator, gallon milliliter converter, fuel calculator, cooking measurements">
-<link rel="canonical" href="https://www.thiyagi.com/gallon-to-ml">
 
 <div class="min-h-screen bg-gradient-to-br from-blue-50 to-blue-100 py-12 px-4 sm:px-6 lg:px-8">
     <div class="max-w-4xl mx-auto">

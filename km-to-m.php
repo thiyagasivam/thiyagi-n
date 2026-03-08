@@ -2,7 +2,6 @@
 <title>KM to M Converter 2026 | Kilometers to Meters Calculator | Free Tool</title>
 <meta name="description" content="Professional KM to M converter 2026. Convert kilometers to meters instantly with precision calculations. Perfect for sports, navigation, and distance measurements.">
 <meta name="keywords" content="km to m converter 2026, kilometers to meters calculator, distance converter, metric conversion, length calculator">
-<link rel="canonical" href="https://www.thiyagi.com/km-to-m">
 
 <!-- Open Graph Meta Tags -->
 <meta property="og:title" content="KM to M Converter 2026 | Kilometers to Meters Calculator | Free Tool">

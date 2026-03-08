@@ -1,5 +1,4 @@
 <?php include 'header.php';?>
-<link rel="canonical" href="https://www.thiyagi.com/meta-tags-analyzer">
 
 
 <?php
@@ -57,16 +56,10 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
 }
 ?>
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Meta Tags Analyzer 2026 - Free SEO Metadata Checker & Preview Tool</title>
 <meta name="description" content="Free online meta tags analyzer for 2026. Audit and optimize your page's metadata for better SEO. Preview search snippets, check lengths, and improve click-through rates instantly.">
     <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" rel="stylesheet">
 
-</head>
 <body class="bg-gray-100">
     <div class="container mx-auto p-4">
         <h1 class="text-3xl font-bold text-center mb-6">Meta Tags Analyzer</h1>

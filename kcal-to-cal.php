@@ -2,7 +2,6 @@
 <title>KCal to Cal Converter 2026 | Professional Energy Calculator | Free Tool</title>
 <meta name="description" content="Professional KCal to Cal converter 2026. Convert kilocalories to calories instantly with precision calculations. Perfect for nutrition, fitness, and dietary planning.">
 <meta name="keywords" content="kcal to cal converter 2026, kilocalories to calories calculator, nutrition calculator, energy converter, dietary tools">
-<link rel="canonical" href="https://www.thiyagi.com/kcal-to-cal">
 
 <!-- Open Graph Meta Tags -->
 <meta property="og:title" content="KCal to Cal Converter 2026 | Professional Energy Calculator | Free Tool">

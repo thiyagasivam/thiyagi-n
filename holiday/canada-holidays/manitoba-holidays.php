@@ -3,7 +3,6 @@
 <title>Manitoba Holidays 2026 | MB Provincial Holiday Calendar</title>
 <meta name="description" content="Complete Manitoba Holiday Calendar 2026. Find all MB provincial holidays, federal holidays, and Louis Riel Day celebrations for Manitoba, Canada.">
 <meta name="keywords" content="Manitoba holidays 2026, Manitoba provincial holidays, Louis Riel Day, Terry Fox Day, statutory holidays Manitoba">
-<link rel="canonical" href="https://<?= $_SERVER['HTTP_HOST'] . strtok($_SERVER['REQUEST_URI'], '?') ?>">
 
 <style>
 :root {

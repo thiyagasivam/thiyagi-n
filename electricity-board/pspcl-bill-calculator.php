@@ -43,17 +43,10 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
     }
 }
 ?>
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>PSPCL Bill Calculator 2026 - Punjab Electricity Bill Estimator</title>
     <meta name="description" content="Calculate your Punjab electricity bill online using PSPCL slab rates for 2026. Fast, accurate, mobile-friendly.">
-    <link rel="canonical" href="https://www.thiyagi.com/electricity-board/pspcl-bill-calculator" />
     
     <!-- Tailwind CSS -->
-    <script src="https://cdn.tailwindcss.com"></script>
     <script>
         tailwind.config = {
             theme: {
@@ -74,7 +67,6 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
     </script>
     
     <!-- Font Awesome -->
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
     
     <style>
         @media print {
@@ -87,7 +79,6 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
 <script type="application/ld+json">
 <?php echo json_encode($breadcrumbSchema, JSON_UNESCAPED_SLASHES | JSON_PRETTY_PRINT); ?>
 </script>
-</head>
 <body class="bg-gray-50 min-h-screen">
     <div class="container mx-auto px-4 py-8">
         <header class="text-center mb-8">

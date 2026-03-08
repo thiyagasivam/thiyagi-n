@@ -1,7 +1,6 @@
 ﻿<?php include 'header.php'; ?>
 
 <!-- SEO Meta Tags -->
-<link rel="canonical" href="https://www.thiyagi.com/bar-to-pascal">
 <title>Bar to Pascal Converter 2026 - bar to Pa Calculator | Thiyagi</title>
 <meta name="description" content="Free online Bar to Pascal converter 2026. Convert bar to Pa and Pa to bar instantly with accurate pressure conversion for scientific and engineering use.">
 <meta name="keywords" content="bar to pascal converter 2026, bar to Pa, pressure converter, scientific pressure, metric pressure units">

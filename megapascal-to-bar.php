@@ -1,7 +1,6 @@
 ﻿<?php include 'header.php'; ?>
 
 <!-- SEO Meta Tags -->
-<link rel="canonical" href="https://www.thiyagi.com/megapascal-to-bar">
 <title>Megapascal to Bar Converter 2026 - MPa to bar Calculator | Thiyagi</title>
 <meta name="description" content="Free online Megapascal to Bar converter 2026. Convert MPa to bar and bar to MPa instantly with accurate pressure conversion for engineering and industry.">
 <meta name="keywords" content="megapascal to bar converter 2026, MPa to bar, pressure converter, engineering pressure, industrial measurements, hydraulic pressure">

@@ -2,7 +2,6 @@
 <title>Square Meter to Gaj Converter 2026 | Sqm to Gaj | Free Tool</title>
 <meta name="description" content="Convert square meters to gaj instantly with our 2026 accurate converter. Perfect sqm to gaj conversion with real-time calculations for Indian property measurements and real estate.">
 <meta name="keywords" content="square meter to gaj 2026, sqm to gaj converter, meter to gaj conversion, area conversion 2026, Indian property measurement, real estate calculator">
-<link rel="canonical" href="https://www.thiyagi.com/sqm-to-gaj">
 
 <!-- Open Graph Meta Tags -->
 <meta property="og:title" content="Square Meter to Gaj Converter 2026 | Sqm to Gaj | Free Tool">

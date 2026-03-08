@@ -2,7 +2,6 @@
 <title>Bigha to Hectare Converter 2026 | Bigha to Ha | Free Tool</title>
 <meta name="description" content="Convert bigha to hectare instantly with our 2026 accurate converter. Perfect bigha to hectare conversion with real-time calculations for Indian land measurement.">
 <meta name="keywords" content="bigha to hectare 2026, bigha hectare converter, Indian land conversion 2026, bigha hectare calculation, traditional to metric land">
-<link rel="canonical" href="https://www.thiyagi.com/bigha-to-hectare">
 
 <!-- Open Graph Meta Tags -->
 <meta property="og:title" content="Bigha to Hectare Converter 2026 | Bigha to Ha | Free Tool">

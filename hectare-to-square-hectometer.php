@@ -1,7 +1,6 @@
 ﻿<?php include 'header.php'; ?>
 
 <!-- SEO Meta Tags -->
-<link rel="canonical" href="https://www.thiyagi.com/hectare-to-square-hectometer">
 <title>Hectare to Square Hectometer Converter 2026 - ha to hm² Calculator | Thiyagi</title>
 <meta name="description" content="Free online Hectare to Square Hectometer converter 2026. Convert ha to hm² and hm² to ha instantly with accurate area conversion for land measurement.">
 <meta name="keywords" content="hectare to square hectometer converter 2026, ha to hm², area converter, land measurement, agricultural area, metric area units">

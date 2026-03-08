@@ -50,17 +50,10 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
     }
 }
 ?>
-<!DOCTYPE html>
-<html lang="en" class="scroll-smooth">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>APSPDCL / APEPDCL Electricity Bill Calculator 2026 – Andhra Pradesh DISCOM</title>
     <meta name="description" content="Calculate your electricity bill online using the latest APSPDCL / APEPDCL slab rates for 2026. Fast, accurate, and mobile-friendly bill estimator.">
-    <link rel="canonical" href="https://www.thiyagi.com/electricity-board/apspdcl-electricity-bill-calculator" />
     
     <!-- Tailwind CSS -->
-    <script src="https://cdn.tailwindcss.com"></script>
     <script>
         tailwind.config = {
             darkMode: 'class',
@@ -83,7 +76,6 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
     </script>
     
     <!-- Font Awesome -->
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
     
     <style>
         @media print {
@@ -103,7 +95,6 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
 <script type="application/ld+json">
 <?php echo json_encode($breadcrumbSchema, JSON_UNESCAPED_SLASHES | JSON_PRETTY_PRINT); ?>
 </script>
-</head>
 <body class="bg-gray-50 dark:bg-gray-900 font-sans antialiased">
     <div class="min-h-screen flex flex-col">
         <!-- Header -->

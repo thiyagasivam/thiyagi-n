@@ -2,7 +2,6 @@
 <title>Square Meter to Square Feet Converter 2026 | Sqm to Sqft | Free Tool</title>
 <meta name="description" content="Convert square meters to square feet instantly with our 2026 accurate converter. Perfect sqm to sqft conversion with real-time calculations for international property measurements.">
 <meta name="keywords" content="square meter to square feet 2026, sqm to sqft converter, meter to feet conversion, area conversion 2026, property measurement, international real estate calculator">
-<link rel="canonical" href="https://www.thiyagi.com/sqm-to-sqft">
 
 <!-- Open Graph Meta Tags -->
 <meta property="og:title" content="Square Meter to Square Feet Converter 2026 | Sqm to Sqft | Free Tool">

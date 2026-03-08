@@ -12,7 +12,6 @@
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:title" content="Victoria Holidays 2026">
 <meta name="twitter:description" content="Complete Victoria Holiday Calendar 2026 with all public holidays and bank holidays.">
-<link rel="canonical" href="https://<?= $_SERVER['HTTP_HOST'] . strtok($_SERVER['REQUEST_URI'], '?') ?>">
 <meta name="language" content="English">
 <meta name="geo.region" content="AU-VIC">
 <meta name="geo.placename" content="Victoria, Australia">
@@ -108,8 +107,6 @@
 }
 </script>
 
-<script src="https://cdn.tailwindcss.com"></script>
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/remixicon/3.5.0/remixicon.css">
 
 <script>
@@ -139,7 +136,6 @@
 .bg-vic-gold { background-color: var(--vic-gold); }
 </style>
 
-</head>
 <body class="bg-gradient-to-br from-blue-50 to-indigo-100 min-h-screen">
     <?php
     // Victoria Holidays 2026 Data

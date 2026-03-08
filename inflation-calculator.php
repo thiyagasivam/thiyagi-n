@@ -1,5 +1,4 @@
 <?php include 'header.php';?>
-<link rel="canonical" href="https://www.thiyagi.com/inflation-calculator">
 
 
 <?php
@@ -16,11 +15,6 @@ $years = isset($_POST['years']) ? (int)$_POST['years'] : 10;
 $futureValue = calculateInflation($currentAmount, $inflationRate, $years);
 ?>
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Free Inflation Calculator 2026 - Adjust Prices for Purchasing Power</title>
 <meta name="description" content="Calculate how inflation affects money's value over time (2026). Compare historical and projected rates for 100+ countries - With CPI/RPI adjustment tools!">
     <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" rel="stylesheet">
@@ -47,7 +41,6 @@ $futureValue = calculateInflation($currentAmount, $inflationRate, $years);
         }
     </style>
 
-</head>
 <body class="bg-gray-50">
     <div class="container mx-auto px-4 py-8 max-w-4xl">
         <header class="mb-8 text-center">

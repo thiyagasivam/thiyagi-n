@@ -1,8 +1,5 @@
 <?php include 'header.php'; ?>
 
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>ChatGPT Token Calculator 2026 - Estimate API Usage & Costs | Thiyagi.com</title>
     <meta name="description" content="ChatGPT token calculator 2026 - estimate API usage costs, token counts for GPT-4, GPT-3.5, and other OpenAI models. Plan your AI project budget effectively.">
     <meta name="keywords" content="chatgpt token calculator 2026, openai api cost calculator, gpt token counter, ai usage cost estimator, openai pricing calculator">
@@ -22,11 +19,8 @@
     <meta name="twitter:image" content="https://www.thiyagi.com/nt.png">
     
     <!-- Canonical URL -->
-    <link rel="canonical" href="https://www.thiyagi.com/chatgpt-token-calculator">
     
     <!-- Tailwind CSS -->
-    <script src="https://cdn.tailwindcss.com"></script>
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
 
 <style>
     .gradient-bg {
@@ -104,7 +98,6 @@
 }
 </script>
 
-</head>
 <body class="bg-gray-50">
     <!-- Header -->
     <header class="gradient-bg shadow-lg">
@@ -579,7 +572,6 @@
     <section class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-12 bg-white">
         <div class="bg-white rounded-xl shadow-lg p-8">
             <h2 class="text-3xl font-bold text-gray-900 mb-6">Complete Guide to ChatGPT Token Calculator: Master AI Cost Management and Token Usage Optimization</h2>
-            
             
             
             <div class="prose max-w-none text-gray-700 space-y-6">

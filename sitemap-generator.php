@@ -460,16 +460,10 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
 }
 ?>
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Advanced XML Sitemap Generator - Professional SEO Tool | Thiyagi</title>
     <meta name="description" content="Advanced XML sitemap generator with image support, hreflang detection, SEO analysis, and comprehensive website crawling. Professional SEO tool for webmasters.">
     <meta name="keywords" content="XML sitemap generator, SEO sitemap, website crawler, sitemap.xml creator, hreflang sitemap, image sitemap, SEO analysis">
     <meta name="author" content="Thiyagi">
-    <link rel="canonical" href="https://livedu.in/sitemap-generator.php">
     
     <!-- Open Graph tags -->
     <meta property="og:title" content="Advanced XML Sitemap Generator - Professional SEO Tool">
@@ -509,7 +503,6 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
     </script>
     
     <!-- Tailwind CSS -->
-    <script src="https://cdn.tailwindcss.com"></script>
     <script>
         tailwind.config = {
             theme: {
@@ -546,7 +539,6 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
         .tab-content { display: none; }
         .tab-content.active { display: block; }
     </style>
-</head>
 <body class="bg-gradient-to-br from-blue-50 via-white to-purple-50 min-h-screen">
     <!-- Header Section -->
     <div class="bg-white shadow-sm border-b">
@@ -1483,8 +1475,6 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
                         <a href="robots-txt-generator.php" class="bg-purple-100 text-purple-700 px-2 py-1 rounded hover:bg-purple-200">Robots.txt Generator</a>
                         <a href="meta-tag-generator.php" class="bg-purple-100 text-purple-700 px-2 py-1 rounded hover:bg-purple-200">Meta Tag Generator</a>
                         <a href="schema-markup-generator.php" class="bg-purple-100 text-purple-700 px-2 py-1 rounded hover:bg-purple-200">Schema Markup</a>
-                        
-                        
                         
                         
                     </div>

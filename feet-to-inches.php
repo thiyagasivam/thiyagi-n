@@ -33,7 +33,6 @@ $canonicalUrl = $isDynamicPage ?
 <title><?php echo htmlspecialchars($pageTitle); ?></title>
 <meta name="description" content="<?php echo htmlspecialchars($pageDescription); ?>">
 <meta name="keywords" content="<?php echo $isDynamicPage ? 'convert ' . $inputValue . ' feet to inches 2026, ' . $inputValue . ' ft to in, feet inch converter 2026, construction measurement' : 'feet to inches 2026, feet inch converter, imperial unit conversion 2026, construction measurement calculator, building conversion'; ?>">
-<link rel="canonical" href="<?php echo $canonicalUrl; ?>">
 
 <!-- Open Graph Meta Tags -->
 <meta property="og:title" content="<?php echo htmlspecialchars($pageTitle); ?>">
@@ -52,7 +51,6 @@ $canonicalUrl = $isDynamicPage ?
 <!-- Additional SEO Meta Tags -->
 <meta name="author" content="Thiyagi">
 <meta name="theme-color" content="#7c3aed">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
 <meta name="language" content="English">
 <meta name="revisit-after" content="7 days">
 <meta name="distribution" content="global">
@@ -676,8 +674,6 @@ $canonicalUrl = $isDynamicPage ?
           <h3 class="font-semibold text-gray-900 text-sm mb-1">Meter to Inches</h3>
           <p class="text-xs text-gray-600">Convert m to in</p>
         </a>
-        
-        
         
         
       </div>

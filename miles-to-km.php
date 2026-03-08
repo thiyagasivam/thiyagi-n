@@ -3,7 +3,6 @@
 <title>Miles to KM Converter 2026 | miles to kilometers | Free Distance Tool</title>
 <meta name="description" content="Convert miles to kilometers instantly with our 2026 accurate converter. Perfect miles to km conversion with real-time calculations for travel and navigation.">
 <meta name="keywords" content="miles to km converter 2026, miles to kilometers converter, miles kilometers conversion, distance converter 2026, travel calculator, navigation tools, imperial to metric conversion, kilometers calculator online, road trip converter, automotive distance">
-<link rel="canonical" href="https://www.thiyagi.com/miles-to-km">
 
 <!-- Open Graph Meta Tags -->
 <meta property="og:title" content="Miles to KM Converter 2026 | miles to kilometers | Free Distance Tool">
@@ -22,7 +21,6 @@
 <!-- Additional SEO Meta Tags -->
 <meta name="author" content="Thiyagi">
 <meta name="theme-color" content="#059669">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
 <meta name="language" content="EN">
 <meta name="revisit-after" content="7 days">
 <meta name="distribution" content="global">

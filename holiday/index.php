@@ -3,7 +3,6 @@
 <title>Holidays 2026 | USA, UK, India, Canada, Australia | Complete International Calendar</title>
 <meta name="description" content="Complete Holiday Calendar 2026 for USA, UK, India, Canada, Australia and more. Find federal, state, national holidays, bank holidays, festivals and observances worldwide.">
 <meta name="keywords" content="holidays 2026, USA holidays, UK holidays, India holidays, Canadian holidays, Australia holidays, international holidays, holiday calendar, bank holidays, state holidays, festivals">
-<link rel="canonical" href="https://<?= $_SERVER['HTTP_HOST'] . strtok($_SERVER['REQUEST_URI'], '?') ?>">
 
 <style>
 :root {

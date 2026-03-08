@@ -8,15 +8,9 @@ $page_keywords = "Twitter Card, Twitter Meta Tags, SEO, Social Media, App Cards"
 $page_url = "https://yourdomain.com/twitter-card-generator";
 ?>
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title><?php echo $page_title; ?></title>
     <meta name="description" content="<?php echo $page_description; ?>">
     <meta name="keywords" content="<?php echo $page_keywords; ?>">
-    <link rel="canonical" href="<?php echo $page_url; ?>">
 
     <!-- Tailwind CSS CDN -->
     <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" rel="stylesheet">
@@ -33,7 +27,6 @@ $page_url = "https://yourdomain.com/twitter-card-generator";
         }
     </style>
 
-</head>
 <body class="bg-gray-100">
     <div class="container mx-auto px-4 py-8">
         <h1 class="text-3xl font-bold text-center mb-8">Twitter Card Generator</h1>

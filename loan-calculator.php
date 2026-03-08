@@ -111,18 +111,11 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
 }
 ?>
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="canonical" href="https://www.thiyagi.com/loan-calculator">
 <title>EMI Calculator - Calculate Loan EMI, Interest & Payment Schedule | Groww Clone</title>
     <meta name="description" content="Free online EMI calculator for home loan, personal loan, car loan & more. Calculate monthly EMI, total interest and payment schedule. Plan your loan repayment with Groww EMI calculator.">
     <!-- Tailwind CSS -->
     <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" rel="stylesheet">
     <!-- Font Awesome -->
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
     <!-- Chart.js -->
     <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
     <style>
@@ -179,7 +172,6 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
         }
     </style>
 
-</head>
 <body class="bg-gray-50 min-h-screen">
     <div class="container mx-auto p-4 max-w-3xl">
         <div class="text-center mb-8">

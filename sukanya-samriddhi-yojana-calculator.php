@@ -1,5 +1,4 @@
 <?php include 'header.php';?>
-<link rel="canonical" href="https://www.thiyagi.com/sukanya-samriddhi-yojana-calculator">
 
 
 <?php
@@ -42,11 +41,6 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
 }
 ?>
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Sukanya Samriddhi Yojana Calculator - Calculate SSY Returns Online</title>
     <meta name="description" content="Free online Sukanya Samriddhi Yojana calculator to estimate returns on your SSY investments. Calculate maturity amount, interest earned and yearly growth.">
     <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" rel="stylesheet">
@@ -76,7 +70,6 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
         }
     </style>
 
-</head>
 <body class="bg-gray-50">
     <div class="container mx-auto px-4 py-8 max-w-4xl">
         <div class="bg-white rounded-lg shadow-md overflow-hidden">

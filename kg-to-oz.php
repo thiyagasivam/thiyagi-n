@@ -2,7 +2,6 @@
 <title>Kilograms to Ounces Converter 2026 | Kg to Oz Calculator | Free Tool</title>
 <meta name="description" content="Professional kilograms to ounces converter 2026. Convert kg to oz instantly with precision calculations. Perfect for weight, cooking, and international measurements.">
 <meta name="keywords" content="kilograms to ounces converter 2026, kg to oz calculator, weight converter, cooking measurements, metric to imperial">
-<link rel="canonical" href="https://www.thiyagi.com/kg-to-oz">
 
 <!-- Open Graph Meta Tags -->
 <meta property="og:title" content="Kilograms to Ounces Converter 2026 | Kg to Oz Calculator | Free Tool">

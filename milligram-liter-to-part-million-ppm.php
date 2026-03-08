@@ -2,7 +2,6 @@
 <title>Milligram per Liter to PPM Converter 2026 | Concentration Conversion Tool | Free Calculator</title>
 <meta name="description" content="Convert milligrams per liter to parts per million instantly with our 2026 accurate concentration converter. Perfect for water testing and chemical analysis.">
 <meta name="keywords" content="mg/l to ppm converter 2026, concentration conversion calculator, milligram liter ppm converter, water testing, chemical analysis">
-<link rel="canonical" href="https://www.thiyagi.com/milligram-liter-to-part-million-ppm">
 
 <div class="min-h-screen bg-gradient-to-br from-purple-50 to-purple-100 py-12 px-4 sm:px-6 lg:px-8">
     <div class="max-w-4xl mx-auto">
@@ -148,8 +147,6 @@
         <div class="bg-white rounded-xl shadow-lg p-6">
             <h3 class="text-xl font-bold text-gray-900 mb-6">Related Concentration Converters</h3>
             <div class="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-4">
-                
-                
                 
                 
             </div>

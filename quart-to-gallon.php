@@ -2,7 +2,6 @@
 <title>Quart to Gallon Converter 2026 | Qt to Gal Calculator | Free Tool</title>
 <meta name="description" content="Professional quart to gallon converter 2026. Convert quarts to gallons instantly with precision calculations. Perfect for cooking, fuel, and volume measurements.">
 <meta name="keywords" content="quart to gallon converter 2026, qt to gal calculator, cooking converter, fuel converter, volume measurements">
-<link rel="canonical" href="https://www.thiyagi.com/quart-to-gallon">
 
 <!-- Open Graph Meta Tags -->
 <meta property="og:title" content="Quart to Gallon Converter 2026 | Qt to Gal Calculator | Free Tool">

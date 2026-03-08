@@ -2,7 +2,6 @@
 <title>Megabyte to Gigabyte Converter 2026 | Convert MB to GB | Free Tool</title>
 <meta name="description" content="Convert megabyte to gigabyte instantly with our 2026 accurate data converter. Perfect MB to GB conversion with real-time calculations for digital storage needs.">
 <meta name="keywords" content="megabyte to gigabyte 2026, data converter, storage conversion 2026, MB to GB calculator, digital storage tool">
-<link rel="canonical" href="https://www.thiyagi.com/megabyte-to-gigabyte">
 
 <!-- Open Graph Meta Tags -->
 <meta property="og:title" content="Megabyte to Gigabyte Converter 2026 | Convert MB to GB | Free Tool">

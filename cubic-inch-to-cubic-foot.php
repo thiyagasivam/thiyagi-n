@@ -1,19 +1,9 @@
 <?php include 'header.php';?>
-<link rel="canonical" href="https://www.thiyagi.com/cubic-inch-to-cubic-foot">
 
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Cubic Inch to Cubic Foot Converter 2026 - Volume Conversion Calculator</title>
     <meta name="description" content="Convert cubic inches to cubic feet with our free 2026 online calculator. Perfect for construction, engineering, and volume calculations.">
     <meta name="keywords" content="cubic inch to cubic foot converter 2026, volume converter, construction calculator, engineering measurements 2026">
-    <script src="https://cdn.tailwindcss.com"></script>
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
-</head>
-<body>
 
 <div class="min-h-screen bg-gradient-to-br from-green-50 to-teal-100 py-8">
     <div class="max-w-4xl mx-auto px-4">

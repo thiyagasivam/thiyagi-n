@@ -1,5 +1,4 @@
 <?php include 'header.php';?>
-<link rel="canonical" href="https://www.thiyagi.com/post-office-rd-calculator">
 
 
 <?php
@@ -37,11 +36,6 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
 }
 ?>
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Post Office RD Calculator 2026 - Free Recurring Deposit Interest Calculator</title>
 <meta name="description" content="Free online Post Office RD calculator for 2026. Calculate maturity amount, interest earnings & monthly deposits for India Post Recurring Deposit scheme with accurate results.">
     <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" rel="stylesheet">
@@ -75,7 +69,6 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
         }
     </style>
 
-</head>
 <body class="bg-gray-50">
     <div class="container mx-auto px-4 py-8 max-w-4xl">
         <header class="mb-8 text-center">

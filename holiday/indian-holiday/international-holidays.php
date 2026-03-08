@@ -1,7 +1,4 @@
 <?php include '../../header.php'; ?>
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>International Holidays 2026 | Global Observances Calendar</title>
     <meta name="description" content="Complete list of International Holidays 2026. Find dates for Valentine's Day, International Women's Day, Labour Day, and other global observances.">
     <meta name="keywords" content="International holidays 2026, global holidays, Valentine's Day, Women's Day, Labour Day, Children's Day, worldwide celebrations">
@@ -14,7 +11,6 @@
     <meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:title" content="International Holidays 2026">
     <meta name="twitter:description" content="Complete list of International Holidays 2026.">
-    <link rel="canonical" href="<?php echo 'https://' . $_SERVER['HTTP_HOST'] . $_SERVER['REQUEST_URI']; ?>">
     <meta name="language" content="English">
     <meta name="geo.region" content="GLOBAL">
     <meta name="geo.placename" content="Worldwide">
@@ -55,8 +51,6 @@
         "dateModified": "<?php echo date('Y-m-d'); ?>"
     }
     </script>
-    <script src="https://cdn.tailwindcss.com"></script>
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
     <script>
         tailwind.config = {
             theme: {
@@ -71,7 +65,6 @@
             }
         }
     </script>
-</head>
 <body class="bg-gradient-to-br from-purple-50 to-indigo-100 min-h-screen">
     <?php
     // --- Simulate the data structure from the original file ---

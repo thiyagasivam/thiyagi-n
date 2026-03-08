@@ -1,19 +1,9 @@
 <?php include 'header.php';?>
-<link rel="canonical" href="https://www.thiyagi.com/liter-to-cubic-foot">
 
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Liter to Cubic Foot Converter 2026 - Volume Conversion Calculator</title>
     <meta name="description" content="Convert liters to cubic feet with our free 2026 online calculator. Accurate volume conversion for storage and liquid measurements.">
     <meta name="keywords" content="liter to cubic foot converter 2026, L to ft³, volume converter, liquid measurement calculator 2026">
-    <script src="https://cdn.tailwindcss.com"></script>
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
-</head>
-<body>
 
 <div class="min-h-screen bg-gradient-to-br from-blue-50 to-cyan-100 py-8">
     <div class="max-w-4xl mx-auto px-4">

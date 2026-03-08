@@ -896,16 +896,10 @@ function generateWebSiteSchema($title, $description, $url, $data) {
 }
 ?>
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Advanced Schema Markup Generator 2026 - Professional JSON-LD Creator | Thiyagi</title>
     <meta name="description" content="Professional schema.org structured data generator 2026 with validation, multiple schema types, and SEO optimization. Generate JSON-LD markup for rich snippets and better search visibility.">
     <meta name="keywords" content="schema markup generator 2026, JSON-LD creator, structured data, schema.org, rich snippets, SEO optimization, microdata">
     <meta name="author" content="Thiyagi">
-    <link rel="canonical" href="https://livedu.in/schema-markup-generator.php">
     
     <!-- Open Graph tags -->
     <meta property="og:title" content="Advanced Schema Markup Generator 2026 - Professional JSON-LD Creator">
@@ -945,7 +939,6 @@ function generateWebSiteSchema($title, $description, $url, $data) {
     </script>
     
     <!-- Tailwind CSS -->
-    <script src="https://cdn.tailwindcss.com"></script>
     <script>
         tailwind.config = {
             theme: {
@@ -979,7 +972,6 @@ function generateWebSiteSchema($title, $description, $url, $data) {
             overflow-y: auto;
         }
     </style>
-</head>
 <body class="bg-gradient-to-br from-blue-50 via-white to-purple-50 min-h-screen">
     <!-- Header Section -->
     <div class="bg-white shadow-sm border-b">

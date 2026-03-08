@@ -2,7 +2,6 @@
 <title>Fahrenheit to Celsius Converter 2026 | °F to °C | Free Tool</title>
 <meta name="description" content="Convert Fahrenheit to Celsius instantly with our 2026 accurate converter. Perfect °F to °C conversion with real-time calculations for temperature measurements.">
 <meta name="keywords" content="fahrenheit to celsius 2026, fahrenheit celsius converter, temperature unit conversion 2026, weather temperature calculator, f c conversion">
-<link rel="canonical" href="https://www.thiyagi.com/fahrenheit-to-celsius">
 
 <!-- Open Graph Meta Tags -->
 <meta property="og:title" content="Fahrenheit to Celsius Converter 2026 | °F to °C | Free Tool">

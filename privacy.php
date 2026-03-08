@@ -1,15 +1,7 @@
 <?php include 'header.php';?>
-<link rel="canonical" href="https://www.thiyagi.com/privacy">
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Privacy Policy - Thiyagi Tools | GDPR & CCPA Compliant Data Protection</title>
 <meta name="description" content="Thiyagi Tools' privacy policy outlines how we collect, use, and protect your data. Compliant with GDPR, CCPA, and global privacy laws. Learn about your rights and our security measures.">
-    <!-- Add Tailwind CSS CDN -->
-    <script src="https://cdn.tailwindcss.com"></script>
     <style>
         body {
             /* background-color: #f8f9fa; - bg-gray-100 */
@@ -45,7 +37,6 @@
         }
     </style>
 
-</head>
 <body class="bg-gray-100">
     <!-- Header -->
     <header class="privacy-header text-center">

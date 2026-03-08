@@ -1,7 +1,6 @@
 ﻿<?php include 'header.php'; ?>
 
 <!-- SEO Meta Tags -->
-<link rel="canonical" href="https://www.thiyagi.com/centipoise-to-pascal-second">
 <title>Centipoise to Pascal Second Converter 2026 - cP to Pa·s Calculator | Thiyagi</title>
 <meta name="description" content="Free online Centipoise to Pascal Second converter 2026. Convert cP to Pa·s and Pa·s to cP instantly with accurate viscosity conversion for fluids.">
 <meta name="keywords" content="centipoise to pascal second converter 2026, cP to Pa·s, viscosity converter, fluid dynamics, oil viscosity, chemical engineering">

@@ -2,7 +2,6 @@
 <title>Kelvin to Celsius Converter 2026 | Convert kelvin to celsius | Free Tool</title>
 <meta name="description" content="Convert kelvin to celsius instantly with our 2026 accurate temperature converter. Perfect K to °C conversion with real-time calculations for scientific and academic use.">
 <meta name="keywords" content="kelvin to celsius 2026, temperature converter, scientific conversion 2026, K to °C calculator, academic temperature tool">
-<link rel="canonical" href="https://www.thiyagi.com/kelvin-to-celsius">
 
 <!-- Open Graph Meta Tags -->
 <meta property="og:title" content="Kelvin to Celsius Converter 2026 | Convert kelvin to celsius | Free Tool">

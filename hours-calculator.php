@@ -1,5 +1,4 @@
 <?php include 'header.php';?>
-<link rel="canonical" href="https://www.thiyagi.com/hours-calculator">
 
 
 <?php
@@ -43,11 +42,6 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
 }
 ?>
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Free Hours Calculator 2026 - Track Work Time & Calculate Payroll</title>
 <meta name="description" content="Calculate total hours, overtime, and breaks instantly (2026). Perfect for employees, freelancers, and payroll managers - Convert minutes to decimal hours easily!">
     <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" rel="stylesheet">
@@ -70,7 +64,6 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
         }
     </style>
 
-</head>
 <body class="bg-gray-50">
     <div class="container mx-auto px-4 py-8 max-w-3xl">
         <header class="mb-8 text-center">

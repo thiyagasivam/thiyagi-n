@@ -1,19 +1,9 @@
 <?php include 'header.php';?>
-<link rel="canonical" href="https://www.thiyagi.com/hp-to-kw">
 
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Horsepower to Kilowatt Converter 2026 - Power Conversion Calculator</title>
     <meta name="description" content="Convert horsepower (HP) to kilowatts (kW) with our free 2026 online calculator. Accurate power conversion for automotive and industrial applications.">
     <meta name="keywords" content="horsepower to kilowatt converter 2026, HP to kW, power converter, automotive calculator 2026">
-    <script src="https://cdn.tailwindcss.com"></script>
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
-</head>
-<body>
 
 <div class="min-h-screen bg-gradient-to-br from-red-50 to-pink-100 py-8">
     <div class="max-w-4xl mx-auto px-4">

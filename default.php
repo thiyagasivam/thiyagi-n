@@ -1,9 +1,5 @@
-<!DOCTYPE html>
-<html lang="en">
-    <head>
         <title>Default page</title>
         <link rel="icon" type="image/x-icon" href="https://hpanel.hostinger.com/favicons/hostinger.png">
-        <meta charset="utf-8">
         <meta content="IE=edge,chrome=1" http-equiv="X-UA-Compatible">
         <meta content="Default page" name="description">
         <meta content="width=device-width, initial-scale=1" name="viewport">
@@ -111,8 +107,6 @@
             }
         </style>
     
-</head>
-    <body>
         <nav class="navigation">
             <a href="https://hpanel.hostinger.com" rel="nofollow" target="_blank">
                 <svg width="150" height="30" viewBox="0 0 150 30" fill="none" xmlns="http://www.w3.org/2000/svg">

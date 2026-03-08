@@ -44,17 +44,10 @@ if ($units > 0) {
     }
 }
 ?>
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="canonical" href="https://www.thiyagi.com/electricity-board/upcl-electricity-bill-calculator-uttarakhand">
 <title>UPCL Bill Calculator (2026) - Uttarakhand Electricity Bill Estimator</title>
     <meta name="description" content="Calculate your UPCL electricity bill for 2026 based on domestic residential tariff slabs. Includes fixed charges and accurate calculations.">
     
     <!-- Tailwind CSS via CDN -->
-    <script src="https://cdn.tailwindcss.com"></script>
     
     <!-- Lucide Icons via CDN -->
     <script src="https://unpkg.com/lucide@latest"></script>
@@ -196,7 +189,6 @@ if ($units > 0) {
 <script type="application/ld+json">
 <?php echo json_encode($breadcrumbSchema, JSON_UNESCAPED_SLASHES | JSON_PRETTY_PRINT); ?>
 </script>
-</head>
 <body class="bg-gray-50 dark:bg-gray-900 text-gray-800 dark:text-gray-200 transition-colors duration-200">
     <div class="container mx-auto px-4 py-8 max-w-4xl">
         <!-- Header -->

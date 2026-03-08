@@ -1,8 +1,5 @@
 <?php include 'header.php'; ?>
 
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>OSRS Dry Calculator 2026 - Old School RuneScape Drop Rate Calculator | Thiyagi.com</title>
     <meta name="description" content="Calculate OSRS drop rates and dry streak probabilities. Free Old School RuneScape dry calculator 2026 with boss drops, rare items, and probability statistics for all OSRS content.">
     <meta name="keywords" content="OSRS dry calculator 2026, Old School RuneScape drop calculator, OSRS drop rates, RuneScape probability calculator, OSRS boss drops, dry streak calculator, OSRS RNG calculator">
@@ -22,11 +19,8 @@
     <meta name="twitter:image" content="https://www.thiyagi.com/nt.png">
     
     <!-- Canonical URL -->
-    <link rel="canonical" href="https://www.thiyagi.com/osrs-dry-calculator">
     
     <!-- Tailwind CSS -->
-    <script src="https://cdn.tailwindcss.com"></script>
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
 
 <style>
     .gradient-bg {
@@ -166,7 +160,6 @@
 }
 </script>
 
-</head>
 <body class="bg-gray-50">
     <!-- Header -->
     <header class="gradient-bg shadow-lg">

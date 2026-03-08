@@ -1,8 +1,5 @@
 <?php include 'header.php'; ?>
 
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Tax-Free Childcare Calculator 2026 - Government Savings Calculator | Thiyagi.com</title>
     <meta name="description" content="Tax-free childcare calculator 2026 - calculate government savings, eligibility, and benefits for tax-free childcare schemes in UK, US, and other countries.">
     <meta name="keywords" content="tax-free childcare calculator 2026, childcare vouchers, government childcare savings, tax credits, dependent care FSA">
@@ -22,11 +19,8 @@
     <meta name="twitter:image" content="https://www.thiyagi.com/nt.png">
     
     <!-- Canonical URL -->
-    <link rel="canonical" href="https://www.thiyagi.com/tax-free-childcare-calculator">
     
     <!-- Tailwind CSS -->
-    <script src="https://cdn.tailwindcss.com"></script>
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
 
 <style>
     .gradient-bg {
@@ -117,7 +111,6 @@
 }
 </script>
 
-</head>
 <body class="bg-gray-50">
     <!-- Header -->
     <header class="gradient-bg shadow-lg">

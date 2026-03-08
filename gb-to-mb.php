@@ -2,7 +2,6 @@
 <title>GB to MB Converter 2026 | Gigabytes to Megabytes Calculator | Free Tool</title>
 <meta name="description" content="Professional GB to MB converter 2026. Convert gigabytes to megabytes instantly with precision calculations. Perfect for file sizes, storage, and data management.">
 <meta name="keywords" content="gb to mb converter 2026, gigabytes to megabytes calculator, data converter, file size converter, storage calculator, digital storage conversion">
-<link rel="canonical" href="https://www.thiyagi.com/gb-to-mb">
 
 <!-- Open Graph Meta Tags -->
 <meta property="og:title" content="GB to MB Converter 2026 | Gigabytes to Megabytes Calculator | Free Tool">

@@ -1,7 +1,6 @@
 ﻿<?php include 'header.php'; ?>
 
 <!-- SEO Meta Tags -->
-<link rel="canonical" href="https://www.thiyagi.com/pound-force-inch-to-newton-meter">
 <title>Pound Force Inch to Newton Meter Converter 2026 - lbf⋅in to N⋅m Calculator | Thiyagi</title>
 <meta name="description" content="Free online Pound Force Inch to Newton Meter converter 2026. Convert lbf⋅in to N⋅m and N⋅m to lbf⋅in instantly with accurate torque conversion.">
 <meta name="keywords" content="pound force inch to newton meter converter 2026, lbf⋅in to N⋅m, torque converter, mechanical engineering, automotive torque">

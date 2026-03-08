@@ -2,7 +2,6 @@
 <title>Yard to Feet Converter 2026 | Yard to Foot | Free Tool</title>
 <meta name="description" content="Convert yard to feet instantly with our 2026 accurate converter. Perfect yard to feet conversion with real-time calculations for landscaping.">
 <meta name="keywords" content="yard to feet 2026, yard feet converter, imperial unit conversion 2026, landscaping measurement calculator, construction conversion">
-<link rel="canonical" href="https://www.thiyagi.com/yard-to-feet">
 
 <!-- Open Graph Meta Tags -->
 <meta property="og:title" content="Yard to Feet Converter 2026 | Yard to Foot | Free Tool">

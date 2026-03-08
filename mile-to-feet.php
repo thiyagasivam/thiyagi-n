@@ -2,7 +2,6 @@
 <title>Mile to Feet Converter 2026 | Mile to Ft | Free Tool</title>
 <meta name="description" content="Convert mile to feet instantly with our 2026 accurate converter. Perfect mile to ft conversion with real-time calculations for surveying and measurements.">
 <meta name="keywords" content="mile to feet 2026, mile ft converter, imperial distance conversion 2026, surveying measurement calculator, mile feet conversion">
-<link rel="canonical" href="https://www.thiyagi.com/mile-to-feet">
 
 <!-- Open Graph Meta Tags -->
 <meta property="og:title" content="Mile to Feet Converter 2026 | Mile to Ft | Free Tool">

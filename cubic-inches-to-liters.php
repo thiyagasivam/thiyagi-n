@@ -2,7 +2,6 @@
 <title>Cubic Inches to Liters Converter 2026 | In³ to L Calculator | Free Tool</title>
 <meta name="description" content="Professional cubic inches to liters converter 2026. Convert in³ to L instantly with precision calculations. Perfect for automotive, engineering, and volume measurements.">
 <meta name="keywords" content="cubic inches to liters converter 2026, in3 to L calculator, engine displacement, volume converter, automotive calculator">
-<link rel="canonical" href="https://www.thiyagi.com/cubic-inches-to-liters">
 
 <!-- Open Graph Meta Tags -->
 <meta property="og:title" content="Cubic Inches to Liters Converter 2026 | In³ to L Calculator | Free Tool">

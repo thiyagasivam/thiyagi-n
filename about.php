@@ -1,19 +1,10 @@
 <?php include 'header.php';?>
-<link rel="canonical" href="https://www.thiyagi.com/about">
 
 
 <title>About Thiyagi Tools 2026 - 20+ Years of Digital Excellence | Professional Online Tools</title>
 <meta name="description" content="Learn about Thiyagi Tools - your trusted source for professional online calculators, converters, and digital tools. Built with 25+ years of expertise to serve millions of users worldwide in 2026.">
 <meta name="keywords" content="About Thiyagi Tools, online calculators, digital tools, web utilities, professional tools 2026, 25 years experience">
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <!-- Add Tailwind CSS CDN -->
-    <script src="https://cdn.tailwindcss.com"></script>
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css">
     <style>
         :root {
             --primary: #6e8efb;
@@ -51,7 +42,6 @@
         }
     </style>
 
-</head>
 <body class="bg-gray-100">
     <!-- Hero Section -->
     <section class="hero-section text-center">

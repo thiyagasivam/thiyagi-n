@@ -258,15 +258,9 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
 }
 ?>
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>URL Parser & Analyzer 2026 - Advanced URL Component Breakdown Tool</title>
     <meta name="description" content="Professional URL parser and analyzer tool for 2026. Parse, analyze, and breakdown URLs with detailed component extraction, SEO analysis, and security insights for developers and marketers.">
     <meta name="keywords" content="URL parser 2026, URL analyzer tool, parse URL components, URL breakdown, domain extractor, SEO URL analysis, web development tools">
-    <link rel="canonical" href="https://www.thiyagi.com/url-parser">
     
     <!-- Open Graph / Facebook -->
     <meta property="og:type" content="website">
@@ -352,7 +346,6 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
             to { opacity: 1; transform: translateY(0); }
         }
     </style>
-</head>
 <body class="bg-gray-50">
     <!-- Breadcrumb Navigation -->
     <nav class="bg-white border-b border-gray-200 px-4 py-3">

@@ -1,8 +1,5 @@
 <?php include 'header.php'; ?>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>KG to Pound Converter - Free Weight Conversion Tool | Thiyagi.com</title>
-<link rel="canonical" href="https://www.thiyagi.com/kg-to-pound">
 <meta name="description" content="Convert kilograms to pounds instantly with our free kg to pound converter. Accurate weight conversion for fitness, health, cooking, and international measurements. Easy-to-use calculator.">
 <meta name="keywords" content="kg to pound, kilogram to lb, weight conversion, fitness calculator, health measurements, body weight conversion, cooking measurements">
 <meta property="og:title" content="KG to Pound Converter - Accurate Weight Conversion Tool">

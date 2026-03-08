@@ -35,7 +35,6 @@ $canonicalUrl = $isDynamicPage ?
 <title><?php echo htmlspecialchars($pageTitle); ?></title>
 <meta name="description" content="<?php echo htmlspecialchars($pageDescription); ?>">
 <meta name="keywords" content="<?php echo $isDynamicPage ? 'convert ' . $inputValue . ' tablespoons to cups 2026, ' . $inputValue . ' tbsp to cups, cooking measurement converter 2026, baking conversion' : 'tablespoons to cups converter 2026, tbsp to cups converter, tablespoons cups conversion, cooking converter 2026, baking calculator, recipe conversion, kitchen measurements, culinary tools, volume converter, liquid measurements'; ?>">
-<link rel="canonical" href="<?php echo $canonicalUrl; ?>">
 
 <!-- Open Graph Meta Tags -->
 <meta property="og:title" content="<?php echo htmlspecialchars($pageTitle); ?>">
@@ -54,7 +53,6 @@ $canonicalUrl = $isDynamicPage ?
 <!-- Additional SEO Meta Tags -->
 <meta name="author" content="Thiyagi">
 <meta name="theme-color" content="#10b981">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
 <meta name="language" content="English">
 <meta name="revisit-after" content="7 days">
 <meta name="distribution" content="global">

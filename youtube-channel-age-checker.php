@@ -120,15 +120,9 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
 }
 ?>
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>YouTube Channel Age Checker 2026 - Find Channel Creation Date</title>
     <meta name="description" content="Check when a YouTube channel was created. Enter a channel URL, @handle, or ID to get the creation date and exact age.">
     <meta name="keywords" content="YouTube channel age checker, channel creation date, YouTube handle, channel ID, YouTube channel age">
-    <link rel="canonical" href="https://<?php echo $_SERVER['HTTP_HOST'] . strtok($_SERVER['REQUEST_URI'], '?'); ?>">
 
     <!-- Open Graph -->
     <meta property="og:type" content="website">
@@ -159,7 +153,6 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
 
     <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" rel="stylesheet">
 
-</head>
 <body class="bg-gray-50">
     <!-- Breadcrumb -->
     <nav class="bg-white shadow-sm border-b">

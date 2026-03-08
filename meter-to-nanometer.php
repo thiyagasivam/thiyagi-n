@@ -1,30 +1,13 @@
 <?php include 'header.php';?>
-<link rel="canonical" href="https://www.thiyagi.com/meter-to-nanometer">
 
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Meter to Nanometer Converter 2026 - Free Online Calculator</title>
     <meta name="description" content="Convert meters to nanometers with our free 2026 online calculator. Instant conversion between meters and nanometers with accurate results.">
     <meta name="keywords" content="meter to nanometer converter 2026, length converter, meter conversion, nanometer calculator 2026">
-    <script src="https://cdn.tailwindcss.com"></script>
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
-</head>
 <body>ml>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Meter to Nanometer Converter - Length Conversion Calculator</title>
     <meta name="description" content="Convert meters to nanometers with our free online calculator. Accurate length conversion between meters and nanometers for scientific calculations.">
     <meta name="keywords" content="meter to nanometer, m to nm, length converter, nanometer calculator">
-    <script src="https://cdn.tailwindcss.com"></script>
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
-</head>
-<body>
 
 <div class="min-h-screen bg-gradient-to-br from-purple-50 to-pink-100 py-8">
     <div class="max-w-4xl mx-auto px-4">

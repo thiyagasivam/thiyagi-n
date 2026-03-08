@@ -63,14 +63,8 @@ if ($units > 0) {
     $total_bill = $subtotal + $tax_amount;
 }
 ?>
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Goa Electricity Bill Calculator 2026 - Goa Power</title>
     <meta name="description" content="Calculate your Goa electricity bill with the latest 2026 tariff rates. Instant estimates for domestic consumers.">
-    <link rel="canonical" href="https://www.thiyagi.com/electricity-board/goa-electricity-bill-calculator" />
     <!-- Schema.org markup -->
     <script type="application/ld+json">
     {
@@ -86,7 +80,6 @@ if ($units > 0) {
     <!-- Remove Foundation CSS -->
     <!-- <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/foundation-sites@6.7.5/dist/css/foundation.min.css" crossorigin="anonymous"> -->
     <!-- Add Tailwind CSS -->
-    <script src="https://cdn.tailwindcss.com"></script>
     <!-- Foundation Icons -->
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/foundicons/3.0.0/foundation-icons.min.css">
     <style>
@@ -216,7 +209,6 @@ if ($units > 0) {
 <script type="application/ld+json">
 <?php echo json_encode($breadcrumbSchema, JSON_UNESCAPED_SLASHES | JSON_PRETTY_PRINT); ?>
 </script>
-</head>
 <body class="bg-gray-100">
     <div class="max-w-4xl mx-auto px-4 py-8">
         <header class="text-center mb-10">

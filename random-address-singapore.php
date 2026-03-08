@@ -1,8 +1,5 @@
 <?php include 'header.php'; ?>
 
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Random Singapore Address Generator 2026 - Fake Singapore Addresses | Thiyagi.com</title>
     <meta name="description" content="Random Singapore address generator 2026 - generate realistic fake Singapore addresses with postal codes, districts, HDB blocks, and condominiums for testing purposes.">
     <meta name="keywords" content="random singapore address generator 2026, fake singapore address, singapore postal code generator, singapore address for testing">
@@ -22,11 +19,8 @@
     <meta name="twitter:image" content="https://www.thiyagi.com/nt.png">
     
     <!-- Canonical URL -->
-    <link rel="canonical" href="https://www.thiyagi.com/random-address-singapore">
     
     <!-- Tailwind CSS -->
-    <script src="https://cdn.tailwindcss.com"></script>
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
 
 <style>
     .gradient-bg {
@@ -87,7 +81,6 @@
 }
 </script>
 
-</head>
 <body class="bg-gray-50">
     <!-- Header -->
     <header class="gradient-bg shadow-lg">

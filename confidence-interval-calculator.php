@@ -1,5 +1,4 @@
 <?php include 'header.php'; ?>
-<link rel="canonical" href="https://www.thiyagi.com/confidence-interval-calculator">
 <title>Confidence Interval Calculator 2026 | Statistical Analysis Tool</title>
 <meta name="description" content="Calculate confidence intervals for mean, proportion, and difference of means. Professional statistical analysis tool with 90%, 95%, and 99% confidence levels.">
 

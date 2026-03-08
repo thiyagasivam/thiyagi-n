@@ -3,7 +3,6 @@
 <title>Alberta Holidays 2026 | Provincial Holiday Calendar | Statutory Holidays AB</title>
 <meta name="description" content="Complete Alberta Holiday Calendar 2026. Find all Alberta provincial holidays, federal holidays, and statutory holidays for Alberta, Canada.">
 <meta name="keywords" content="Alberta holidays 2026, Alberta provincial holidays, Family Day Alberta, Heritage Day, statutory holidays Alberta">
-<link rel="canonical" href="https://<?= $_SERVER['HTTP_HOST'] . strtok($_SERVER['REQUEST_URI'], '?') ?>">
 
 <style>
 :root {

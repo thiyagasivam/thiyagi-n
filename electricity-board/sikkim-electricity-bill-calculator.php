@@ -49,11 +49,6 @@ $bill_amount = $units > 0 ? calculateBill($units, $apply_subsidy, $tariff_slabs,
 $share_url = (isset($_SERVER['HTTPS']) && $_SERVER['HTTPS'] === 'on' ? "https" : "http") . "://$_SERVER[HTTP_HOST]$_SERVER[REQUEST_URI]";
 $whatsapp_share_url = "https://wa.me/?text=" . urlencode("Check out the Sikkim Electricity Bill Calculator (2026): $share_url");
 ?>
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="<?php echo htmlspecialchars($page_description); ?>">
     <meta name="keywords" content="<?php echo htmlspecialchars($page_keywords); ?>">
     <meta name="author" content="Sikkim Power Department">
@@ -61,7 +56,6 @@ $whatsapp_share_url = "https://wa.me/?text=" . urlencode("Check out the Sikkim E
     <title><?php echo htmlspecialchars($page_title); ?></title>
     
     <!-- Tailwind CSS -->
-    <script src="https://cdn.tailwindcss.com"></script>
     
     <!-- Lucide Icons -->
     <script src="https://unpkg.com/lucide@latest"></script>
@@ -70,7 +64,6 @@ $whatsapp_share_url = "https://wa.me/?text=" . urlencode("Check out the Sikkim E
     <link rel="icon" href="https://sikkim.gov.in/favicon.ico" type="image/x-icon">
     
     <!-- Canonical URL -->
-    <link rel="canonical" href="<?php echo $share_url; ?>">
     
     <style>
         @media print {
@@ -86,7 +79,6 @@ $whatsapp_share_url = "https://wa.me/?text=" . urlencode("Check out the Sikkim E
 <script type="application/ld+json">
 <?php echo json_encode($breadcrumbSchema, JSON_UNESCAPED_SLASHES | JSON_PRETTY_PRINT); ?>
 </script>
-</head>
 <body class="bg-gray-50 min-h-screen">
     <div class="container mx-auto px-4 py-8">
         <!-- Header Section -->

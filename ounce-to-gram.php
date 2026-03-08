@@ -2,7 +2,6 @@
 <title>Ounce to Gram Converter 2026 | OZ to G | Free Tool</title>
 <meta name="description" content="Convert ounce to gram instantly with our 2026 accurate converter. Perfect oz to g conversion with real-time calculations for cooking and baking.">
 <meta name="keywords" content="ounce to gram 2026, ounce gram converter, weight unit conversion 2026, cooking weight calculator, oz g conversion">
-<link rel="canonical" href="https://www.thiyagi.com/ounce-to-gram">
 
 <!-- Open Graph Meta Tags -->
 <meta property="og:title" content="Ounce to Gram Converter 2026 | OZ to G | Free Tool">

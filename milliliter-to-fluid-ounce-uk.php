@@ -1,7 +1,6 @@
 ﻿<?php include 'header.php'; ?>
 
 <!-- SEO Meta Tags -->
-<link rel="canonical" href="https://www.thiyagi.com/milliliter-to-fluid-ounce-uk">
 <title>Milliliter to Fluid Ounce UK Converter 2026 - mL to fl oz UK Calculator | Thiyagi</title>
 <meta name="description" content="Free online Milliliter to Fluid Ounce UK converter 2026. Convert mL to fl oz UK and fl oz UK to mL instantly with accurate volume conversion for recipes.">
 <meta name="keywords" content="milliliter to fluid ounce uk converter 2026, mL to fl oz UK, volume converter, UK measurements, cooking conversions, recipe measurements">

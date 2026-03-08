@@ -1,7 +1,4 @@
 <?php include 'header.php'; ?>
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>WiFi Password Generator 2026 - Secure & Strong WiFi Passwords | Thiyagi.com</title>
     <meta name="description" content="Generate secure WiFi passwords instantly in 2026. Create strong WPA2, WEP passwords with customizable length, characters, and security levels. Free online WiFi password generator tool 2026.">
     <meta name="keywords" content="WiFi password generator 2026, secure WiFi password, WPA2 password, WEP password, network security, password generator, strong password, wireless security">
@@ -21,11 +18,8 @@
     <meta name="twitter:image" content="https://www.thiyagi.com/images/wifi-password-generator.jpg">
     
     <!-- Canonical URL -->
-    <link rel="canonical" href="https://www.thiyagi.com/wifi-password-generator">
     
     <!-- Tailwind CSS -->
-    <script src="https://cdn.tailwindcss.com"></script>
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
     
     <!-- JSON-LD Structured Data -->
     <script type="application/ld+json">
@@ -139,7 +133,6 @@
             to { opacity: 1; transform: translateY(0); }
         }
     </style>
-</head>
 <body class="bg-gray-50">
     <!-- Header -->
     <header class="gradient-bg shadow-lg">
@@ -505,7 +498,6 @@
             </div>
         </section>
     </main>
-
 
 
     <!-- QR Code Library -->

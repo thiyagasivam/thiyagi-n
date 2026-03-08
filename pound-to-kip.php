@@ -1,7 +1,6 @@
 ﻿<?php include 'header.php'; ?>
 
 <!-- SEO Meta Tags -->
-<link rel="canonical" href="https://www.thiyagi.com/pound-to-kip">
 <title>Pound to Kip Converter 2026 - lb to kip Calculator | Thiyagi</title>
 <meta name="description" content="Free online Pound to Kip converter 2026. Convert lb to kip and kip to lb instantly with accurate force conversion for structural engineering and construction.">
 <meta name="keywords" content="pound to kip converter 2026, lb to kip, force converter, structural engineering, construction loads, engineering calculations">

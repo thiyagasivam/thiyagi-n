@@ -2,7 +2,6 @@
 <title>Manipur Electricity Bill Calculator 2026 | MSPDCL Bill Calculator | Free Tool</title>
 <meta name="description" content="Calculate your Manipur electricity bill instantly with our 2026 MSPDCL bill calculator. Get accurate bill estimates, tariff rates, and subsidy calculations for domestic consumers.">
 <meta name="keywords" content="manipur electricity bill calculator 2026, mspdcl bill calculator, manipur power bill, electricity tariff manipur, mspdcl rates, manipur subsidy calculator">
-<link rel="canonical" href="https://www.thiyagi.com/electricity-board/manipur-electricity-bill-calculator">
 
 <?php include 'breadcrumb-schema.php'; ?>
 <?php
@@ -52,19 +51,12 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST' && $units > 0) {
 }
 ?>
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>MSPDCL Electricity Bill Calculator 2026</title>
     <script src="https://unpkg.com/lucide@latest"></script>
-    <script src="https://cdn.tailwindcss.com"></script>
 
 <script type="application/ld+json">
 <?php echo json_encode($breadcrumbSchema, JSON_UNESCAPED_SLASHES | JSON_PRETTY_PRINT); ?>
 </script>
-</head>
 <body class="bg-gray-100 min-h-screen p-4">
     <div class="max-w-md mx-auto bg-white rounded-lg shadow-md overflow-hidden">
         <div class="bg-blue-600 text-white p-6">

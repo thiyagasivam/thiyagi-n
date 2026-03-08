@@ -2,7 +2,6 @@
 <title>Liter to Pint Converter 2026 | Convert liter to pint | Free Tool</title>
 <meta name="description" content="Convert liter to pint instantly with our 2026 accurate volume converter. Perfect L to pt conversion with real-time calculations for cooking and measurement needs.">
 <meta name="keywords" content="liter to pint 2026, volume converter, cooking conversion 2026, L to pt calculator, liquid measurement tool">
-<link rel="canonical" href="https://www.thiyagi.com/liter-to-pint">
 
 <!-- Open Graph Meta Tags -->
 <meta property="og:title" content="Liter to Pint Converter 2026 | Convert liter to pint | Free Tool">

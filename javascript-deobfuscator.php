@@ -1,5 +1,4 @@
 <?php include 'header.php';?>
-<link rel="canonical" href="https://www.thiyagi.com/javascript-deobfuscator">
 
 
 <?php
@@ -60,11 +59,6 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
 }
 ?>
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>JavaScript Deobfuscator 2026 - Free Online Code Unpacker & Decoder Tool</title>
 <meta name="description" content="Free online JavaScript deobfuscator tool for 2026. Decode and unpack obfuscated JS code instantly. Clean and analyze minified JavaScript with our web-based deobfuscator.">
     <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" rel="stylesheet">
@@ -86,7 +80,6 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
         }
     </style>
 
-</head>
 <body class="bg-gray-100 min-h-screen">
     <div class="container mx-auto px-4 py-8">
         <!-- Header -->
@@ -403,7 +396,6 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
     </div>
 
    
-
     <script>
         function copyToClipboard() {
             const resultText = document.querySelector('.code-output').textContent;

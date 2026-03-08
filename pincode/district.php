@@ -4767,11 +4767,6 @@ class PincodeDistrictPage {
         
         ob_start();
         ?>
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     
     <!-- Primary Meta Tags -->
     <title><?php echo htmlspecialchars($title); ?></title>
@@ -4779,7 +4774,6 @@ class PincodeDistrictPage {
     <meta name="description" content="<?php echo htmlspecialchars($description); ?>">
     <meta name="keywords" content="<?php echo htmlspecialchars($districtName); ?> pincode, <?php echo htmlspecialchars($stateName); ?> <?php echo htmlspecialchars($districtName); ?> postal code, <?php echo $districtSlug; ?> district pincode">
     <meta name="author" content="Thiyagi">
-        <link rel="canonical" href="https://www.thiyagi.com/pincode/<?php echo $stateSlug; ?>/<?php echo $districtSlug; ?>">
 
     <!-- Open Graph / Facebook -->
     <meta property="og:type" content="website">
@@ -4796,9 +4790,6 @@ class PincodeDistrictPage {
     <meta property="twitter:image" content="https://www.thiyagi.com/nt.png">
 
     <!-- CSS Framework -->
-    <script src="https://cdn.tailwindcss.com"></script>
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
-</head>
 <body class="bg-gray-50">
     <?php include_once '../header.php'; ?>
     

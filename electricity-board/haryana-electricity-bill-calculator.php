@@ -46,17 +46,10 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
     }
 }
 ?>
-<!DOCTYPE html>
-<html lang="en" class="scroll-smooth">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>DHBVN / UHBVN Bill Calculator - Haryana Electricity Estimator 2026</title>
     <meta name="description" content="Use this free DHBVN and UHBVN electricity bill calculator to estimate your Haryana power consumption for 2026 based on updated tariff slabs.">
-    <link rel="canonical" href="https://www.thiyagi.com/electricity-board/haryana-electricity-bill-calculator" />
     
     <!-- Tailwind CSS -->
-    <script src="https://cdn.tailwindcss.com"></script>
     <script>
         tailwind.config = {
             darkMode: 'class',
@@ -81,7 +74,6 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
     </script>
     
     <!-- Font Awesome -->
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
     
     <style>
         @media print {
@@ -101,7 +93,6 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
 <script type="application/ld+json">
 <?php echo json_encode($breadcrumbSchema, JSON_UNESCAPED_SLASHES | JSON_PRETTY_PRINT); ?>
 </script>
-</head>
 <body class="bg-gray-50 dark:bg-gray-900 font-sans antialiased">
     <div class="min-h-screen flex flex-col">
         <!-- Header -->

@@ -2,7 +2,6 @@
 <title>MB to KB Converter 2026 | Megabytes to Kilobytes Calculator | Free Tool</title>
 <meta name="description" content="Professional MB to KB converter 2026. Convert megabytes to kilobytes instantly with precision calculations. Perfect for file size, storage, and data management.">
 <meta name="keywords" content="mb to kb converter 2026, megabytes to kilobytes calculator, storage converter, file size converter, data conversion">
-<link rel="canonical" href="https://www.thiyagi.com/mb-to-kb">
 
 <!-- Open Graph Meta Tags -->
 <meta property="og:title" content="MB to KB Converter 2026 | Megabytes to Kilobytes Calculator | Free Tool">

@@ -1,5 +1,4 @@
 <?php include 'header.php';?>
-<link rel="canonical" href="https://www.thiyagi.com/youtube-title-checker">
 
 <?php
 /**
@@ -157,11 +156,6 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
     }
 }
 ?>
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Free YouTube Title Checker 2026 - Analyze Video Title Performance</title>
     <meta name="description" content="Analyze and check YouTube video titles for SEO optimization and performance. Professional title analysis tool for content creators (2026).">
     <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" rel="stylesheet">
@@ -241,7 +235,6 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
         }]
     }
     </script>
-</head>
 <body class="bg-gray-50">
     <div class="container mx-auto px-4 py-8 max-w-6xl">
         <header class="text-center mb-8">

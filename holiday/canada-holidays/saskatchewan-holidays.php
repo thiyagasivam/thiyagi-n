@@ -3,7 +3,6 @@
 <title>Saskatchewan Holidays 2026 | SK Provincial Holiday Calendar</title>
 <meta name="description" content="Complete Saskatchewan Holiday Calendar 2026. Find all SK provincial holidays, Family Day, Heritage Day, and statutory holidays for Saskatchewan, Canada.">
 <meta name="keywords" content="Saskatchewan holidays 2026, SK provincial holidays, Family Day Saskatchewan, Heritage Day, statutory holidays Saskatchewan">
-<link rel="canonical" href="https://<?= $_SERVER['HTTP_HOST'] . strtok($_SERVER['REQUEST_URI'], '?') ?>">
 
 <style>
 :root {

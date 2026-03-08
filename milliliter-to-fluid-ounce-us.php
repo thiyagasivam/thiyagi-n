@@ -2,7 +2,6 @@
 <title>Milliliter to Fluid Ounce US Converter 2026 | ML to FL OZ Calculator | Free Tool</title>
 <meta name="description" content="Professional milliliter to fluid ounce US converter 2026. Convert ML to FL OZ instantly with precision calculations. Perfect for cooking, recipes, and volume measurements.">
 <meta name="keywords" content="milliliter to fluid ounce us converter 2026, ml to fl oz calculator, cooking converter, recipe measurements, volume conversion">
-<link rel="canonical" href="https://www.thiyagi.com/milliliter-to-fluid-ounce-us">
 
 <!-- Open Graph Meta Tags -->
 <meta property="og:title" content="Milliliter to Fluid Ounce US Converter 2026 | ML to FL OZ Calculator | Free Tool">

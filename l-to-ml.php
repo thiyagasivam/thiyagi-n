@@ -2,7 +2,6 @@
 <title>L to ML Converter 2026 | Liters to Milliliters Calculator | Free Tool</title>
 <meta name="description" content="Professional L to ML converter 2026. Convert liters to milliliters instantly with precision calculations. Perfect for cooking, scientific, and measurement purposes.">
 <meta name="keywords" content="l to ml converter 2026, liters to milliliters calculator, volume converter, metric conversion, liquid measurement">
-<link rel="canonical" href="https://www.thiyagi.com/l-to-ml">
 
 <!-- Open Graph Meta Tags -->
 <meta property="og:title" content="L to ML Converter 2026 | Liters to Milliliters Calculator | Free Tool">

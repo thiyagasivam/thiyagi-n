@@ -1,19 +1,9 @@
 <?php include 'header.php';?>
-<link rel="canonical" href="https://www.thiyagi.com/mph-to-knot">
 
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>MPH to Knot Converter 2026 - Speed Conversion Calculator</title>
     <meta name="description" content="Convert miles per hour to knots with our free 2026 online calculator. Perfect for aviation, maritime, and weather calculations.">
     <meta name="keywords" content="mph to knot converter 2026, speed converter, aviation calculator, maritime navigation 2026">
-    <script src="https://cdn.tailwindcss.com"></script>
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
-</head>
-<body>
 
 <div class="min-h-screen bg-gradient-to-br from-sky-50 to-blue-100 py-8">
     <div class="max-w-4xl mx-auto px-4">

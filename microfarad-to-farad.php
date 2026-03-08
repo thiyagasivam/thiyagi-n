@@ -1,7 +1,6 @@
 ﻿<?php include 'header.php'; ?>
 
 <!-- SEO Meta Tags -->
-<link rel="canonical" href="https://www.thiyagi.com/microfarad-to-farad">
 <title>Microfarad to Farad Converter 2026 - μF to F Calculator | Thiyagi</title>
 <meta name="description" content="Free online Microfarad to Farad converter 2026. Convert μF to F and F to μF instantly with accurate capacitance conversion.">
 <meta name="keywords" content="microfarad to farad converter 2026, μF to F, capacitance conversion, electrical units, electronics calculator">

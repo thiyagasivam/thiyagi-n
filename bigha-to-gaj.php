@@ -2,7 +2,6 @@
 <title>Bigha to Gaj Converter 2026 | Bigha to Square Gaj | Free Tool</title>
 <meta name="description" content="Convert bigha to gaj instantly with our 2026 accurate converter. Perfect bigha to gaj conversion with real-time calculations for Indian land measurement.">
 <meta name="keywords" content="bigha to gaj 2026, bigha gaj converter, Indian land conversion 2026, bigha gaj calculation, traditional land measurement">
-<link rel="canonical" href="https://www.thiyagi.com/bigha-to-gaj">
 
 <!-- Open Graph Meta Tags -->
 <meta property="og:title" content="Bigha to Gaj Converter 2026 | Bigha to Square Gaj | Free Tool">

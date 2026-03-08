@@ -37,16 +37,9 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
 }
 ?>
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Free FD Calculator 2026 - Fixed Deposit Interest & Maturity Calculator</title>
 <meta name="description" content="Calculate fixed deposit returns with our free 2026 FD calculator. Estimate interest earnings, maturity amounts & compare rates for banks/NBFCs in seconds.">
-<link rel="canonical" href="https://www.thiyagi.com/fd-calculator" />
     <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" rel="stylesheet">
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
     <style>
         .input-range {
             -webkit-appearance: none;
@@ -79,7 +72,6 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
         }
     </style>
 
-</head>
 <body class="bg-gray-50">
     <div class="container mx-auto px-4 py-8 max-w-4xl">
         <div class="bg-white rounded-xl shadow-md overflow-hidden mb-6">

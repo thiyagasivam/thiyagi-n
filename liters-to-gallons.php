@@ -2,7 +2,6 @@
 <title>Liters to Gallons Converter 2026 | L to gal | Free Volume Tool</title>
 <meta name="description" content="Convert liters to gallons instantly with our 2026 accurate converter. Perfect L to gal conversion with real-time calculations for fuel and liquid measurements.">
 <meta name="keywords" content="liters to gallons converter 2026, L to gal converter, liters gallons conversion, volume converter 2026, fuel calculator, liquid measurement tools, metric to imperial conversion, gallon calculator online, automotive fuel converter, cooking measurements">
-<link rel="canonical" href="https://www.thiyagi.com/liters-to-gallons">
 
 <!-- Open Graph Meta Tags -->
 <meta property="og:title" content="Liters to Gallons Converter 2026 | L to gal | Free Volume Tool">
@@ -21,7 +20,6 @@
 <!-- Additional SEO Meta Tags -->
 <meta name="author" content="Thiyagi">
 <meta name="theme-color" content="#0891b2">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
 <meta name="language" content="EN">
 <meta name="revisit-after" content="7 days">
 <meta name="distribution" content="global">

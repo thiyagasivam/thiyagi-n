@@ -1,5 +1,4 @@
 <?php include 'header.php';?>
-<link rel="canonical" href="https://www.thiyagi.com/fuel-calculator">
 
 <?php
 // Fuel Calculator Logic
@@ -24,15 +23,8 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
     }
 }
 ?>
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>⛽ Free Fuel Cost Calculator 2026 - Trip Gas/Petrol Estimates</title>
     <meta name="description" content="Calculate SUV/bike fuel expenses - Compare costs for Hyundai, Toyota, Royal Enfield etc. based on your mileage">
-    <!-- Add Tailwind CSS CDN -->
-    <script src="https://cdn.tailwindcss.com"></script>
     <style>
         .calculator-container {
             max-width: 600px;
@@ -64,7 +56,6 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
         }
     </style>
 
-</head>
 <body class="bg-gray-50">
     <div class="max-w-7xl mx-auto py-12 px-4 sm:px-6 lg:px-8"> <!-- container py-5 -> max-w-7xl mx-auto py-12 px-4 sm:px-6 lg:px-8 -->
         <div class="calculator-container">

@@ -1,8 +1,5 @@
 <?php include 'header.php'; ?>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>KG to Ton Converter - Free Weight Conversion Tool | Thiyagi.com</title>
-<link rel="canonical" href="https://www.thiyagi.com/kg-to-ton">
 <meta name="description" content="Convert kilograms to tons instantly with our free kg to ton converter. Accurate weight conversion for shipping, freight, industrial applications. Easy-to-use calculator with precise results.">
 <meta name="keywords" content="kg to ton, kilogram to metric ton, weight conversion, shipping calculator, freight weight, industrial measurements, kg to tonne">
 <meta property="og:title" content="KG to Ton Converter - Accurate Weight Conversion Tool">

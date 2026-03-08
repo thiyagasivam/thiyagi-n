@@ -3,7 +3,6 @@
 <title>Indiana Holidays 2026 | Complete Calendar | State & Federal Holidays | Festivals</title>
 <meta name="description" content="Complete Indiana Holiday Calendar 2026. Find all state holidays, federal holidays, cultural events, and observances. Plan your year with our comprehensive holiday guide.">
 <meta name="keywords" content="Indiana holidays 2026, Indiana state holidays, US federal holidays, Indiana festivals, Indiana calendar, holidays Indiana, festival dates 2026">
-<link rel="canonical" href="https://<?= $_SERVER['HTTP_HOST'] . strtok($_SERVER['REQUEST_URI'], '?') ?>">
 
 <style>
 :root {

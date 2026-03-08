@@ -12,11 +12,9 @@ $canonical = 'https://www.thiyagi.com/milliseconds-to-seconds';
 $meta_tags = '<title>' . htmlspecialchars($title) . '</title>' . "\n";
 $meta_tags .= '<meta name="description" content="' . htmlspecialchars($description) . '">' . "\n";
 $meta_tags .= '<meta name="keywords" content="' . htmlspecialchars($keywords) . '">' . "\n";
-$meta_tags .= '<link rel="canonical" href="' . htmlspecialchars($canonical) . '">' . "\n";
 
 // Replace the canonical URL and add our meta tags
 $header_content = str_replace(
-    '<link rel="canonical" href="' . htmlspecialchars($_SERVER['REQUEST_SCHEME'] . '://' . $_SERVER['HTTP_HOST'] . strtok($_SERVER['REQUEST_URI'], '?')) . '" />',
     $meta_tags,
     $header_content
 );

@@ -1,7 +1,6 @@
 ﻿<?php include 'header.php'; ?>
 
 <!-- SEO Meta Tags -->
-<link rel="canonical" href="https://www.thiyagi.com/meter-to-micrometer">
 <title>Meter to Micrometer Converter 2026 - Length Calculator | Thiyagi</title>
 <meta name="description" content="Free online meter to micrometer converter 2026. Convert meters to micrometers instantly. Perfect for scientific and precision measurements.">
 <meta name="keywords" content="meter to micrometer converter 2026, m to μm, scientific converter, precision measurement, microscopy calculator">

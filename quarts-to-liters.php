@@ -2,7 +2,6 @@
 <title>Quarts to Liters Converter 2026 | US Quarts to Liters Calculator | Free Tool</title>
 <meta name="description" content="Professional Quarts to Liters converter 2026. Convert US quarts to liters instantly with precision calculations. Perfect for cooking, home brewing, gardening, and professional use.">
 <meta name="keywords" content="quarts to liters converter 2026, US quarts to liters calculator, volume converter, cooking measurements, brewing calculator, metric volume conversion, professional tool">
-<link rel="canonical" href="https://www.thiyagi.com/quarts-to-liters">
 
 <!-- Open Graph Meta Tags -->
 <meta property="og:title" content="Quarts to Liters Converter 2026 | US Quarts to Liters Calculator | Free Tool">

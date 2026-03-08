@@ -1,5 +1,4 @@
 <?php include 'header.php';?>
-<link rel="canonical" href="https://www.thiyagi.com/grade-calculator">
 
 <?php
 // Function to calculate final grade
@@ -23,11 +22,6 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
 }
 ?>
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Free Grade Calculator 2026 - Calculate GPA, Final Scores & Letter Grades</title>
 <meta name="description" content="Determine your current grade, required final exam score, and GPA instantly (2026). Perfect for students, teachers, and academic planning - No signup needed!">
     <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" rel="stylesheet">
@@ -50,7 +44,6 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
         }
     </style>
 
-</head>
 <body class="bg-gray-50">
     <div class="container mx-auto px-4 py-8 max-w-3xl">
         <header class="mb-8 text-center">
@@ -130,7 +123,6 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
     </div>
 
    
-
     <script>
         // Simple animation for the result box
         document.addEventListener('DOMContentLoaded', function() {

@@ -1,6 +1,4 @@
-<!DOCTYPE html>
 <html>
-<head>
     <title>Karnataka Bank Two-Wheeler Loan EMI Calculator - Status Check</title>
     <style>
         body { font-family: Arial, sans-serif; margin: 40px; }
@@ -9,8 +7,6 @@
         .info { background: #e8f4fd; padding: 15px; border: 1px solid #2196f3; border-radius: 5px; margin: 10px 0; }
         code { background: #f5f5f5; padding: 2px 5px; border-radius: 3px; }
     </style>
-</head>
-<body>
     <h1>🏦 Karnataka Bank URL Status Report</h1>
     
     <?php

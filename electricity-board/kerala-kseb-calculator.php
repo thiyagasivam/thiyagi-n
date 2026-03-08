@@ -52,16 +52,9 @@ function calculateKSEBBill($units) {
     return ['total' => number_format($total, 2), 'slabs' => $slabs];
 }
 ?>
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>KSEB Electricity Bill Calculator 2026 - Kerala State Electricity Board</title>
     <meta name="description" content="Calculate your Kerala electricity bill instantly with the KSEB bill calculator. Get accurate estimates based on the latest residential tariff rates.">
-    <link rel="canonical" href="https://www.thiyagi.com/electricity-board/kseb-bill-calculator" />
  
-    <script src="https://cdn.tailwindcss.com"></script>
     <style>
         :root {
             --kseb-green: #2e7d32;
@@ -174,7 +167,6 @@ function calculateKSEBBill($units) {
 <script type="application/ld+json">
 <?php echo json_encode($breadcrumbSchema, JSON_UNESCAPED_SLASHES | JSON_PRETTY_PRINT); ?>
 </script>
-</head>
 <body class="bg-gray-100">
     <div class="max-w-4xl mx-auto px-4 py-8">
         <header class="text-center mb-10">

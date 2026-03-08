@@ -2,7 +2,6 @@
 <title>Square Feet to Cent Converter | Sqft to Cent | Free Tool</title>
 <meta name="description" content="Convert square feet to cent instantly. Accurate sqft to cent conversion with real-time calculations. Perfect for Indian land measurement and real estate.">
 <meta name="keywords" content="square feet to cent, sqft to cent, feet to cent conversion, land measurement, Indian property calculator, real estate conversion">
-<link rel="canonical" href="https://www.thiyagi.com/sqft-to-cent">
 
 <!-- Open Graph Meta Tags -->
 <meta property="og:title" content="Square Feet to Cent Converter | Sqft to Cent | Free Tool">

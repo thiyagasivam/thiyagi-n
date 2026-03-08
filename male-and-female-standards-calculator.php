@@ -1,8 +1,5 @@
 <?php include 'header.php'; ?>
 
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Male and Female Standards Calculator 2026 - Health & Fitness Standards | Thiyagi.com</title>
     <meta name="description" content="Calculate health and fitness standards for men and women in 2026. Get BMI, body fat percentage, ideal weight, and fitness standards with gender-specific guidelines and recommendations.">
     <meta name="keywords" content="male female standards calculator 2026, health standards, fitness calculator, BMI calculator, body fat percentage, ideal weight calculator, gender-specific health, fitness standards">
@@ -22,11 +19,8 @@
     <meta name="twitter:image" content="https://www.thiyagi.com/nt.png">
     
     <!-- Canonical URL -->
-    <link rel="canonical" href="https://www.thiyagi.com/male-and-female-standards-calculator">
     
     <!-- Tailwind CSS -->
-    <script src="https://cdn.tailwindcss.com"></script>
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
 
 <style>
     .gradient-bg {
@@ -148,7 +142,6 @@
 }
 </script>
 
-</head>
 <body class="bg-gray-50">
     <!-- Header -->
     <header class="gradient-bg shadow-lg">

@@ -2,7 +2,6 @@
 <title>Cent to Square Meter Converter 2026 | Cent to Sqm | Free Tool</title>
 <meta name="description" content="Convert cent to square meter instantly with our 2026 accurate converter. Perfect cent to sqm conversion with real-time calculations for land measurement.">
 <meta name="keywords" content="cent to square meter 2026, cent sqm converter, Indian land measurement 2026, property conversion calculator, real estate measurement">
-<link rel="canonical" href="https://www.thiyagi.com/cent-to-sqm">
 
 <!-- Open Graph Meta Tags -->
 <meta property="og:title" content="Cent to Square Meter Converter 2026 | Cent to Sqm | Free Tool">

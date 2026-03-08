@@ -56,18 +56,11 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST' && $units > 0) {
     $total_amount = $taxable_amount + $tax_amount;
 }
 ?>
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="canonical" href="https://www.thiyagi.com/electricity-board/andaman-electricity-bill-calculator">
 <title>Andaman & Nicobar Electricity Bill Calculator 2026 | Power Department</title>
     <meta name="description" content="Calculate your A&N Islands electricity bill for 2026. Official estimate tool with current tariff rates and subsidy options.">
     <meta property="og:title" content="A&N Islands Electricity Bill Calculator 2026">
     <meta property="og:description" content="Calculate your Andaman & Nicobar power bill with official 2026 tariff rates">
     <script src="https://kit.fontawesome.com/a076d05399.js" crossorigin="anonymous"></script>
-    <script src="https://cdn.tailwindcss.com"></script>
     <style>
         @media print {
             .no-print { display: none; }
@@ -79,7 +72,6 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST' && $units > 0) {
     <script type="application/ld+json">
 <?php echo json_encode($breadcrumbSchema, JSON_UNESCAPED_SLASHES | JSON_PRETTY_PRINT); ?>
 </script>
-</head>
 <body class="bg-gray-50 dark:bg-gray-900 min-h-screen transition-colors duration-200">
     <div class="container mx-auto px-4 py-8 max-w-2xl">
         <!-- Header -->

@@ -2,7 +2,6 @@
 <title>Mile to Yard Converter 2026 | Convert mile to yard | Free Tool</title>
 <meta name="description" content="Convert mile to yard instantly with our 2026 accurate distance converter. Perfect mi to yd conversion with real-time calculations for distance measurement needs.">
 <meta name="keywords" content="mile to yard 2026, distance converter, length conversion 2026, mi to yd calculator, distance measurement tool">
-<link rel="canonical" href="https://www.thiyagi.com/mile-to-yard">
 
 <!-- Open Graph Meta Tags -->
 <meta property="og:title" content="Mile to Yard Converter 2026 | Convert mile to yard | Free Tool">

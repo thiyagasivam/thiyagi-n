@@ -2,7 +2,6 @@
 <title>Meters per Second to Miles per Hour Converter 2026 | m/s to mph Calculator | Free Tool</title>
 <meta name="description" content="Professional m/s to mph converter 2026. Convert meters per second to miles per hour instantly with precision calculations. Perfect for physics, automotive, and speed measurements.">
 <meta name="keywords" content="m/s to mph converter 2026, meters per second to miles per hour calculator, speed converter, velocity calculator, physics measurements">
-<link rel="canonical" href="https://www.thiyagi.com/meters-per-second-to-miles-per-hour">
 
 <!-- Open Graph Meta Tags -->
 <meta property="og:title" content="Meters per Second to Miles per Hour Converter 2026 | m/s to mph Calculator | Free Tool">

@@ -1,7 +1,6 @@
 ﻿<?php include 'header.php'; ?>
 
 <!-- SEO Meta Tags -->
-<link rel="canonical" href="https://www.thiyagi.com/micro-to-milli">
 <title>Micro to Milli Converter 2026 - Unit Prefix Calculator | Thiyagi</title>
 <meta name="description" content="Free online micro to milli converter 2026. Convert µ to m instantly with accurate prefix conversion for scientific measurements.">
 <meta name="keywords" content="micro to milli converter 2026, µ to m, unit prefix converter, scientific calculator, measurement converter">

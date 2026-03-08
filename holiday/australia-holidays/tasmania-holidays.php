@@ -8,13 +8,10 @@
 <meta property="og:description" content="Complete Tasmania Holiday Calendar 2026 with Royal Hobart Regatta, Recreation Day, and all public holidays.">
 <meta property="og:type" content="website">
 <meta property="og:url" content="https://<?= $_SERVER['HTTP_HOST'] . strtok($_SERVER['REQUEST_URI'], '?') ?>">
-<link rel="canonical" href="https://<?= $_SERVER['HTTP_HOST'] . strtok($_SERVER['REQUEST_URI'], '?') ?>">
 <meta name="language" content="English">
 <meta name="geo.region" content="AU-TAS">
 <meta name="geo.placename" content="Tasmania, Australia">
 
-<script src="https://cdn.tailwindcss.com"></script>
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/remixicon/3.5.0/remixicon.css">
 
 <script>
@@ -44,7 +41,6 @@
 .tas-gradient { background: linear-gradient(135deg, var(--tas-forest) 0%, var(--tas-green) 50%, var(--tas-gold) 100%); }
 </style>
 
-</head>
 <body class="bg-gradient-to-br from-blue-50 to-indigo-100 min-h-screen">
     <?php
     // Tasmania Holidays 2026 Data

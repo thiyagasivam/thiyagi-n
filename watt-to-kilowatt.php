@@ -2,7 +2,6 @@
 <title>Watt to Kilowatt Converter 2026 | Convert W to kW | Free Tool</title>
 <meta name="description" content="Convert watt to kilowatt instantly with our 2026 accurate power converter. Perfect W to kW conversion with real-time calculations for electrical power needs.">
 <meta name="keywords" content="watt to kilowatt 2026, power converter, electrical conversion 2026, W to kW calculator, power tool">
-<link rel="canonical" href="https://www.thiyagi.com/watt-to-kilowatt">
 
 <!-- Open Graph Meta Tags -->
 <meta property="og:title" content="Watt to Kilowatt Converter 2026 | Convert W to kW | Free Tool">

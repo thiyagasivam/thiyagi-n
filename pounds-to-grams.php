@@ -2,7 +2,6 @@
 <title>Pounds to Grams Converter 2026 | Weight Conversion Tool | Free Calculator</title>
 <meta name="description" content="Convert pounds to grams instantly with our 2026 accurate weight converter. Perfect for cooking, shipping, and international measurements.">
 <meta name="keywords" content="pounds to grams converter 2026, weight conversion calculator, lb gram converter, cooking measurements, international weight">
-<link rel="canonical" href="https://www.thiyagi.com/pounds-to-grams">
 
 <div class="min-h-screen bg-gradient-to-br from-green-50 to-emerald-100 py-8">
     <div class="container mx-auto px-4">

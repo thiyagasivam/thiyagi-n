@@ -141,9 +141,6 @@ function analyzeSearchTerms($filePath) {
 }
 ?>
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
     <!-- [Previous head content remains the same] -->
     <style>
         /* [Previous CSS remains the same] */
@@ -170,8 +167,6 @@ function analyzeSearchTerms($filePath) {
             100% { transform: rotate(360deg); }
         }
     </style>
-</head>
-<body>
     <div class="container">
         <!-- [Previous HTML remains the same until the form] -->
         

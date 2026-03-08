@@ -7,17 +7,10 @@ $page_description = "Calculate your electricity bill for 2026 using the latest N
 $canonical_url = "https://www.thiyagi.com/electricity-board/nagaland-electricity-bill-calculator";
 $current_year = date('Y');
 ?>
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title><?php echo htmlspecialchars($page_title); ?></title>
     <meta name="description" content="<?php echo htmlspecialchars($page_description); ?>">
-    <link rel="canonical" href="<?php echo htmlspecialchars($canonical_url); ?>">
     
     <!-- Tailwind CSS via CDN -->
-    <script src="https://cdn.tailwindcss.com"></script>
     
     <!-- Heroicons via CDN -->
     <script src="https://unpkg.com/@heroicons/react@2.0.16/outline/index.js" data-manual></script>
@@ -70,7 +63,6 @@ $current_year = date('Y');
 <script type="application/ld+json">
 <?php echo json_encode($breadcrumbSchema, JSON_UNESCAPED_SLASHES | JSON_PRETTY_PRINT); ?>
 </script>
-</head>
 <body class="bg-gray-50 min-h-screen flex flex-col">
     <header class="bg-nagaland-600 text-white shadow-md">
         <div class="container mx-auto px-4 py-6">
@@ -326,7 +318,6 @@ $current_year = date('Y');
     </main>
 
     
-
     <script>
         document.addEventListener('DOMContentLoaded', function() {
             const form = document.getElementById('billCalculator');

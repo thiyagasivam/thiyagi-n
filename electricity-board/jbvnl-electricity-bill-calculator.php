@@ -80,17 +80,10 @@ if ($units > 0) {
 $pageTitle = "JBVNL Electricity Bill Calculator - Jharkhand Power Tariff Estimator 2026";
 $pageDescription = "Use our free JBVNL electricity bill calculator to estimate your Jharkhand power consumption charges based on 2026 tariff slabs.";
 ?>
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title><?= htmlspecialchars($pageTitle) ?></title>
     <meta name="description" content="<?= htmlspecialchars($pageDescription) ?>">
     <meta name="keywords" content="JBVNL bill calculator, Jharkhand electricity bill, JBVNL tariff 2026, power bill calculator">
-    <link rel="canonical" href="https://www.thiyagi.com/electricity-board/jbvnl-electricity-bill-calculator" />
     
-    <script src="https://cdn.tailwindcss.com"></script>
     <!-- Bootstrap Icons -->
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.5/font/bootstrap-icons.css">
     <!-- Structured Data for SEO -->
@@ -138,7 +131,6 @@ $pageDescription = "Use our free JBVNL electricity bill calculator to estimate y
 <script type="application/ld+json">
 <?php echo json_encode($breadcrumbSchema, JSON_UNESCAPED_SLASHES | JSON_PRETTY_PRINT); ?>
 </script>
-</head>
 <body class="bg-gray-100">
     <div class="container mx-auto py-8 px-4 max-w-4xl">
         <header class="mb-10 text-center">

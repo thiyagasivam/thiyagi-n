@@ -1,19 +1,9 @@
 <?php include 'header.php';?>
-<link rel="canonical" href="https://www.thiyagi.com/gallon-to-quart">
 
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Gallon to Quart Converter 2026 - Volume Conversion Calculator</title>
     <meta name="description" content="Convert gallons to quarts with our free 2026 online calculator. Perfect for cooking, fuel calculations, and liquid measurements.">
     <meta name="keywords" content="gallon to quart converter 2026, volume converter, cooking calculator, fuel measurements 2026">
-    <script src="https://cdn.tailwindcss.com"></script>
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
-</head>
-<body>
 
 <div class="min-h-screen bg-gradient-to-br from-cyan-50 to-blue-100 py-8">
     <div class="max-w-4xl mx-auto px-4">

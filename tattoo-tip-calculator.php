@@ -1,8 +1,5 @@
 <?php include 'header.php'; ?>
 
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Tattoo Tip Calculator 2026 - Calculate Tattoo Artist Gratuity | Thiyagi.com</title>
     <meta name="description" content="Tattoo tip calculator 2026 - calculate appropriate gratuity for your tattoo artist. Professional tipping guide for tattoo sessions, touch-ups, and custom work.">
     <meta name="keywords" content="tattoo tip calculator 2026, tattoo gratuity calculator, how much to tip tattoo artist, tattoo tipping guide, tattoo tip etiquette">
@@ -22,11 +19,8 @@
     <meta name="twitter:image" content="https://www.thiyagi.com/nt.png">
     
     <!-- Canonical URL -->
-    <link rel="canonical" href="https://www.thiyagi.com/tattoo-tip-calculator">
     
     <!-- Tailwind CSS -->
-    <script src="https://cdn.tailwindcss.com"></script>
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
 
 <style>
     .gradient-bg {
@@ -83,7 +77,6 @@
 }
 </script>
 
-</head>
 <body class="bg-gray-50">
     <!-- Header -->
     <header class="gradient-bg shadow-lg">

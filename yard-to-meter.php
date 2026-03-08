@@ -2,7 +2,6 @@
 <title>Yard to Meter Converter 2026 | Yard to Metre | Free Tool</title>
 <meta name="description" content="Convert yard to meter instantly with our 2026 accurate converter. Perfect yard to metre conversion with real-time calculations for international use.">
 <meta name="keywords" content="yard to meter 2026, yard metre converter, imperial metric conversion 2026, international measurement calculator, sports conversion">
-<link rel="canonical" href="https://www.thiyagi.com/yard-to-meter">
 
 <!-- Open Graph Meta Tags -->
 <meta property="og:title" content="Yard to Meter Converter 2026 | Yard to Metre | Free Tool">

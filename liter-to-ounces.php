@@ -2,7 +2,6 @@
 <title>Liter to Ounces Converter 2026 | L to fl oz | Free Volume Tool</title>
 <meta name="description" content="Convert liters to fluid ounces instantly with our 2026 accurate converter. Perfect L to fl oz conversion with real-time calculations for cooking and liquid measurements.">
 <meta name="keywords" content="liter to ounces converter 2026, L to fl oz converter, liter ounces conversion, volume converter 2026, liquid measurements, cooking calculator, fluid ounces, beverage measurements, hydration tracker, kitchen conversions">
-<link rel="canonical" href="https://www.thiyagi.com/liter-to-ounces">
 
 <!-- Open Graph Meta Tags -->
 <meta property="og:title" content="Liter to Ounces Converter 2026 | L to fl oz | Free Volume Tool">
@@ -21,7 +20,6 @@
 <!-- Additional SEO Meta Tags -->
 <meta name="author" content="Thiyagi">
 <meta name="theme-color" content="#06b6d4">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
 <meta name="language" content="EN">
 <meta name="revisit-after" content="7 days">
 <meta name="distribution" content="global">

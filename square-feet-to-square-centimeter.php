@@ -2,7 +2,6 @@
 <title>Square Feet to Square Centimeter Converter 2026 | Convert sq ft to sq cm | Free Tool</title>
 <meta name="description" content="Convert square feet to square centimeter instantly with our 2026 accurate converter. Perfect sq ft to sq cm conversion with real-time calculations for area measurement.">
 <meta name="keywords" content="square feet to square centimeter 2026, sq ft sq cm converter, imperial metric conversion 2026, area measurement calculator, precision conversion tool">
-<link rel="canonical" href="https://www.thiyagi.com/square-feet-to-square-centimeter">
 
 <!-- Open Graph Meta Tags -->
 <meta property="og:title" content="Square Feet to Square Centimeter Converter 2026 | Convert sq ft to sq cm | Free Tool">

@@ -2,7 +2,6 @@
 <title>LBS to Ton Converter 2026 | Professional Weight Calculator | Free Tool</title>
 <meta name="description" content="Professional LBS to ton converter 2026. Convert pounds to tons instantly with precision calculations. Perfect for shipping, industrial, and weight measurements.">
 <meta name="keywords" content="lbs to ton converter 2026, pounds to tons calculator, weight converter, shipping calculator, industrial tools">
-<link rel="canonical" href="https://www.thiyagi.com/lbs-to-ton">
 
 <!-- Open Graph Meta Tags -->
 <meta property="og:title" content="LBS to Ton Converter 2026 | Professional Weight Calculator | Free Tool">

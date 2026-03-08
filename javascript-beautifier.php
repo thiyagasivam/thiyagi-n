@@ -1,5 +1,4 @@
 <?php include 'header.php';?>
-<link rel="canonical" href="https://www.thiyagi.com/javascript-beautifier">
 
 
 <?php
@@ -60,11 +59,6 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
 }
 ?>
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Free JavaScript Beautifier 2026 - Format & Clean Ugly JS Code</title>
 <meta name="description" content="Fix minified JavaScript with proper indentation, syntax highlighting, and error checks (2026). Works with React/Node/Vue code - No installation needed!">
     <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" rel="stylesheet">
@@ -91,7 +85,6 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
         }
     </style>
 
-</head>
 <body class="bg-gray-100 min-h-screen">
     <div class="container mx-auto px-4 py-8 max-w-6xl">
         <header class="mb-8 text-center">
@@ -689,10 +682,6 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
                         <div class="flex flex-wrap gap-2 text-xs">
                             <a href="css-beautifier.php" class="bg-blue-100 text-blue-700 px-2 py-1 rounded hover:bg-blue-200">CSS Beautifier</a>
                             <a href="html-beautifier.php" class="bg-blue-100 text-blue-700 px-2 py-1 rounded hover:bg-blue-200">HTML Formatter</a>
-                            
-                            
-                            
-                            
                             
                             
                         </div>

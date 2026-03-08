@@ -128,15 +128,9 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
 }
 ?>
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>WordPress Theme Detector 2026 - Identify Website Themes & Plugins Instantly</title>
     <meta name="description" content="Detect WordPress themes, plugins, and page builders used on any website instantly. Professional theme identification tool for developers, designers, and marketers in 2026.">
     <meta name="keywords" content="WordPress theme detector, theme identifier, website theme checker, WordPress detector, theme finder 2026, plugin detector, page builder identifier">
-    <link rel="canonical" href="https://www.thiyagi.com/wordpress-theme-detector">
     
     <!-- Open Graph / Facebook -->
     <meta property="og:type" content="website">
@@ -204,7 +198,6 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
             margin-bottom: 1rem;
         }
     </style>
-</head>
 <body class="bg-gray-50">
     <!-- Breadcrumb Navigation -->
     <nav class="bg-white border-b border-gray-200 px-4 py-3">

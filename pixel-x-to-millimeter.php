@@ -1,7 +1,6 @@
 ﻿<?php include 'header.php'; ?>
 
 <!-- SEO Meta Tags -->
-<link rel="canonical" href="https://www.thiyagi.com/pixel-x-to-millimeter">
 <title>Pixel X to Millimeter Converter 2026 - Display Calculator | Thiyagi</title>
 <meta name="description" content="Free online pixel X to millimeter converter 2026. Convert px to mm instantly with accurate display and print measurements.">
 <meta name="keywords" content="pixel to millimeter converter 2026, px to mm, display converter, print calculator, screen resolution">

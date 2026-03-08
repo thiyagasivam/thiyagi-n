@@ -183,8 +183,6 @@
     }
   </style>
 
-</head>
-<body>
   <!-- Red Hyperlink Trigger -->
   <a href="#" class="report-error-link" id="errorLink">! Error or missing information? Please let us know</a>
 

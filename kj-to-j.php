@@ -1,19 +1,9 @@
 <?php include 'header.php';?>
-<link rel="canonical" href="https://www.thiyagi.com/kj-to-j">
 
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Kilojoule to Joule Converter 2026 - Energy Conversion Calculator</title>
     <meta name="description" content="Convert kilojoules to joules with our free 2026 online calculator. Perfect for physics, nutrition, and energy calculations.">
     <meta name="keywords" content="kilojoule to joule converter 2026, energy converter, physics calculator, nutrition energy 2026">
-    <script src="https://cdn.tailwindcss.com"></script>
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
-</head>
-<body>
 
 <div class="min-h-screen bg-gradient-to-br from-emerald-50 to-teal-100 py-8">
     <div class="max-w-4xl mx-auto px-4">

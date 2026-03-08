@@ -2,7 +2,6 @@
 <title>Guntha to Square Meter Converter 2026 | Guntha to Sqm | Free Tool</title>
 <meta name="description" content="Convert guntha to square meter instantly with our 2026 accurate converter. Perfect guntha to sqm conversion with real-time calculations for land measurement.">
 <meta name="keywords" content="guntha to square meter 2026, guntha sqm converter, Maharashtrian land measurement 2026, property conversion calculator, real estate measurement">
-<link rel="canonical" href="https://www.thiyagi.com/guntha-to-sqm">
 
 <!-- Open Graph Meta Tags -->
 <meta property="og:title" content="Guntha to Square Meter Converter 2026 | Guntha to Sqm | Free Tool">

@@ -1,5 +1,4 @@
 <?php include 'header.php';?>
-<link rel="canonical" href="https://www.thiyagi.com/image-resizer">
 
 
 <?php
@@ -139,11 +138,6 @@ function formatBytes($bytes, $precision = 2) {
 }
 ?>
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Free Image Resizer 2026 - Resize Photos to Any Dimensions Online</title>
 <meta name="description" content="Instantly resize JPG, PNG, and WebP images to exact pixels or percentages (2026). Perfect for social media, websites, and documents - Bulk processing supported!">
     <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" rel="stylesheet">
@@ -187,7 +181,6 @@ function formatBytes($bytes, $precision = 2) {
         }
     </style>
 
-</head>
 <body class="bg-gray-100">
     <div class="container mx-auto px-4 py-8 max-w-4xl">
         <div class="bg-white rounded-lg shadow-md overflow-hidden">

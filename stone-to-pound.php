@@ -2,7 +2,6 @@
 <title>Stone to Pound Converter 2026 | Convert st to lb | Free Tool</title>
 <meta name="description" content="Convert stone to pound instantly with our 2026 accurate weight converter. Perfect st to lb conversion with real-time calculations for weight measurements.">
 <meta name="keywords" content="stone to pound 2026, weight converter, mass conversion 2026, st to lb calculator, weight tool">
-<link rel="canonical" href="https://www.thiyagi.com/stone-to-pound">
 
 <!-- Open Graph Meta Tags -->
 <meta property="og:title" content="Stone to Pound Converter 2026 | Convert st to lb | Free Tool">

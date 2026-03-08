@@ -1,19 +1,9 @@
 <?php include 'header.php';?>
-<link rel="canonical" href="https://www.thiyagi.com/milliliter-to-microliter">
 
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Milliliter to Microliter Converter 2026 - Volume Conversion Calculator</title>
     <meta name="description" content="Convert milliliters to microliters with our free 2026 online calculator. Accurate volume conversion for laboratory and medical measurements.">
     <meta name="keywords" content="milliliter to microliter converter 2026, mL to μL, laboratory volume converter, medical calculator 2026">
-    <script src="https://cdn.tailwindcss.com"></script>
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
-</head>
-<body>
 
 <div class="min-h-screen bg-gradient-to-br from-purple-50 to-pink-100 py-8">
     <div class="max-w-4xl mx-auto px-4">

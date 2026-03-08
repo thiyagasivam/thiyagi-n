@@ -1,5 +1,4 @@
 <?php include 'header.php';?>
-<link rel="canonical" href="https://www.thiyagi.com/youtube-channel-search">
 
 <?php
 /**
@@ -144,11 +143,6 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
 
 $trendingCategories = getTrendingCategories();
 ?>
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Free YouTube Channel Search 2026 - Discover Channels by Keywords</title>
     <meta name="description" content="Search and discover YouTube channels by keywords and topics. Find channels with detailed statistics including subscribers, views, and video counts (2026).">
     <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" rel="stylesheet">
@@ -294,7 +288,6 @@ $trendingCategories = getTrendingCategories();
             showNotification('Results exported successfully!', 'success');
         }
     </script>
-</head>
 <body class="bg-gray-50">
     <div class="container mx-auto px-4 py-8 max-w-6xl">
         <header class="text-center mb-8">

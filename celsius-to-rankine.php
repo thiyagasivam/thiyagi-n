@@ -2,7 +2,6 @@
 <title>Celsius to Rankine Converter 2026 | Convert °C to °R | Free Tool</title>
 <meta name="description" content="Convert Celsius to Rankine instantly with our 2026 accurate temperature converter. Perfect °C to °R conversion with real-time calculations for engineering needs.">
 <meta name="keywords" content="celsius to rankine 2026, temperature converter, thermal conversion 2026, °C to °R calculator, engineering tool">
-<link rel="canonical" href="https://www.thiyagi.com/celsius-to-rankine">
 
 <!-- Open Graph Meta Tags -->
 <meta property="og:title" content="Celsius to Rankine Converter 2026 | Convert °C to °R | Free Tool">

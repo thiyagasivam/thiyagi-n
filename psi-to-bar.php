@@ -2,7 +2,6 @@
 <title>PSI to Bar Converter 2026 | Professional Pressure Calculator | Free Tool</title>
 <meta name="description" content="Professional PSI to bar converter 2026. Convert PSI to bar instantly with precision calculations. Perfect for automotive, industrial, and engineering applications.">
 <meta name="keywords" content="psi to bar converter 2026, pressure calculator, psi conversion, automotive tools, engineering calculator">
-<link rel="canonical" href="https://www.thiyagi.com/psi-to-bar">
 
 <!-- Open Graph Meta Tags -->
 <meta property="og:title" content="PSI to Bar Converter 2026 | Professional Pressure Calculator | Free Tool">

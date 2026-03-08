@@ -2,7 +2,6 @@
 <title>Acre to Bigha Converter 2026 | Acre to Bigha | Free Tool</title>
 <meta name="description" content="Convert acre to bigha instantly with our 2026 accurate converter. Perfect acre to bigha conversion with real-time calculations for Indian land measurement and agriculture.">
 <meta name="keywords" content="acre to bigha 2026, acre to bigha converter, acre bigha conversion, area conversion 2026, Indian land measurement, agriculture calculator">
-<link rel="canonical" href="https://www.thiyagi.com/acre-to-bigha">
 
 <!-- Open Graph Meta Tags -->
 <meta property="og:title" content="Acre to Bigha Converter 2026 | Acre to Bigha | Free Tool">

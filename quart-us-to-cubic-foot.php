@@ -1,7 +1,6 @@
 ﻿<?php include 'header.php'; ?>
 
 <!-- SEO Meta Tags -->
-<link rel="canonical" href="https://www.thiyagi.com/quart-us-to-cubic-foot">
 <title>Quart US to Cubic Foot Converter 2026 - qt US to ft³ Calculator | Thiyagi</title>
 <meta name="description" content="Free online Quart US to Cubic Foot converter 2026. Convert qt US to ft³ and ft³ to qt US instantly with accurate volume conversion for cooking and construction.">
 <meta name="keywords" content="quart us to cubic foot converter 2026, qt US to ft³, volume converter, cooking measurements, construction volume, liquid measurements">

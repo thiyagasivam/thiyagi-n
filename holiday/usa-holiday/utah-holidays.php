@@ -3,7 +3,6 @@
 <title>Utah Holidays 2026 | Complete Calendar | State & Federal Holidays | Festivals</title>
 <meta name="description" content="Complete Utah Holiday Calendar 2026. Find all state holidays, federal holidays, cultural events, and observances. Plan your year with our comprehensive holiday guide.">
 <meta name="keywords" content="Utah holidays 2026, Utah state holidays, US federal holidays, Utah festivals, Utah calendar, holidays Utah, festival dates 2026">
-<link rel="canonical" href="https://<?= $_SERVER['HTTP_HOST'] . strtok($_SERVER['REQUEST_URI'], '?') ?>">
 
 <style>
 :root {

@@ -2,7 +2,6 @@
 <title>ML to Cup Converter 2026 | Convert milliliter to cup | Free Tool</title>
 <meta name="description" content="Convert milliliter to cup instantly with our 2026 accurate converter. Perfect ml to cup conversion with real-time calculations for cooking and baking measurement.">
 <meta name="keywords" content="ml to cup 2026, milliliter cup converter, cooking conversion 2026, recipe measurement calculator, baking conversion tool">
-<link rel="canonical" href="https://www.thiyagi.com/ml-to-cup">
 
 <!-- Open Graph Meta Tags -->
 <meta property="og:title" content="ML to Cup Converter 2026 | Convert milliliter to cup | Free Tool">

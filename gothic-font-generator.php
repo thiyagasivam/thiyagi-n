@@ -1,5 +1,4 @@
 <?php include 'header.php';?>
-<link rel="canonical" href="https://www.thiyagi.com/gothic-font-generator">
 
 
 <?php
@@ -80,11 +79,6 @@ function convertToGothic($text, $fontStyle, $fontMap) {
 }
 ?>
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Free Gothic Font Generator 2026 - 𝕮𝖗𝖊𝖆𝖙𝖊 𝕸𝖊𝖉𝖎𝖊𝖛𝖆𝖑 𝕿𝖊𝖝𝖙 𝕾𝖙𝖞𝖑𝖊𝖘</title>
 <meta name="description" content="Generate 100+ free gothic/medieval text fonts for social media bios, logos, and designs (2026). Copy-paste 𝖋𝖆𝖓𝖈𝖞 𝖌𝖔𝖙𝖍𝖎𝖈 letters instantly - No download!">
     <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" rel="stylesheet">
@@ -108,7 +102,6 @@ function convertToGothic($text, $fontStyle, $fontMap) {
         }
     </style>
 
-</head>
 <body class="bg-gray-50">
     <div class="container mx-auto px-4 py-8 max-w-4xl">
         <header class="text-center mb-8">
@@ -409,7 +402,6 @@ function convertToGothic($text, $fontStyle, $fontMap) {
             </div>
         </section>
     </div>
-
 
 
     <script>

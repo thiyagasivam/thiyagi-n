@@ -3,7 +3,6 @@
 <title>Australia Holidays 2026 | Complete Calendar | National & State Public Holidays</title>
 <meta name="description" content="Complete Australia Holiday Calendar 2026. Find all national public holidays, state holidays, and observances across all Australian states and territories.">
 <meta name="keywords" content="Australia holidays 2026, Australian public holidays, national holidays Australia, state holidays, ANZAC Day, Australia Day, Queen's Birthday">
-<link rel="canonical" href="https://<?= $_SERVER['HTTP_HOST'] . strtok($_SERVER['REQUEST_URI'], '?') ?>">
 
 <!-- Schema.org structured data -->
 <script type="application/ld+json">

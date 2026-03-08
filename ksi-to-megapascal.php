@@ -1,7 +1,6 @@
 ﻿<?php include 'header.php'; ?>
 
 <!-- SEO Meta Tags -->
-<link rel="canonical" href="https://www.thiyagi.com/ksi-to-megapascal">
 <title>KSI to Megapascal Converter 2026 - ksi to MPa Calculator | Thiyagi</title>
 <meta name="description" content="Free online KSI to Megapascal converter 2026. Convert ksi to MPa and MPa to ksi instantly with accurate pressure conversion for engineering and materials science.">
 <meta name="keywords" content="ksi to megapascal converter 2026, ksi to MPa, pressure converter, engineering pressure, material strength, stress analysis">

@@ -2,7 +2,6 @@
 <title>Feet to Centimeter Converter 2026 | Feet to CM | Free Tool</title>
 <meta name="description" content="Convert feet to centimeter instantly with our 2026 accurate converter. Perfect feet to cm conversion with real-time calculations for length measurement.">
 <meta name="keywords" content="feet to centimeter 2026, feet cm converter, imperial to metric 2026, length conversion calculator, construction measurement">
-<link rel="canonical" href="https://www.thiyagi.com/feet-to-cm">
 
 <!-- Open Graph Meta Tags -->
 <meta property="og:title" content="Feet to Centimeter Converter 2026 | Feet to CM | Free Tool">

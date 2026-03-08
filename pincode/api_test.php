@@ -39,13 +39,7 @@ if (isset($_GET['action']) && $_GET['action'] === 'test_api') {
 
 $testPincode = $_GET['pincode'] ?? '110001';
 ?>
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Pincode API Testing Tool</title>
-    <script src="https://cdn.tailwindcss.com"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/js/all.min.js"></script>
     <style>
         .json-formatter {
@@ -59,7 +53,6 @@ $testPincode = $_GET['pincode'] ?? '110001';
             overflow-y: auto;
         }
     </style>
-</head>
 <body class="bg-gray-100 min-h-screen">
     <div class="container mx-auto px-4 py-8">
         

@@ -191,16 +191,10 @@ $uri = strtok($_SERVER['REQUEST_URI'], '?');
 $canonicalUrl = $protocol . "://" . $host . $uri;
 ?>
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Advanced Age Calculator 2026 - Age, Zodiac, Birth Year & Date Difference Tool</title>
     <meta name="description" content="Complete age calculator with zodiac signs, Chinese zodiac, next birthday countdown, birth year finder & date difference calculator. Advanced features with instant results in 2026.">
     <meta name="keywords" content="age calculator, birth year calculator, zodiac sign calculator, Chinese zodiac, date difference calculator, birthday countdown, age in days hours minutes">
     
-    <link rel="canonical" href="<?php echo htmlspecialchars($canonicalUrl); ?>" />
     
     <!-- Open Graph Meta Tags -->
     <meta property="og:title" content="Advanced Age Calculator 2026 - Complete Age Analysis Tool">
@@ -231,7 +225,6 @@ $canonicalUrl = $protocol . "://" . $host . $uri;
     </script>
     
     <!-- Tailwind CSS -->
-    <script src="https://cdn.tailwindcss.com"></script>
     <script>
         tailwind.config = {
             theme: {
@@ -296,7 +289,6 @@ $canonicalUrl = $protocol . "://" . $host . $uri;
         }
     </style>
 
-</head>
 <body class="bg-gray-50 min-h-screen">
     <div class="max-w-6xl mx-auto px-4 py-8">
         <!-- Header -->

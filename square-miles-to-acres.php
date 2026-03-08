@@ -1,19 +1,9 @@
 <?php include 'header.php';?>
-<link rel="canonical" href="https://www.thiyagi.com/square-miles-to-acres">
 
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Square Miles to Acres Converter 2026 - Area Conversion Calculator</title>
     <meta name="description" content="Convert square miles to acres with our free 2026 online calculator. Accurate area conversion for land measurement and real estate calculations.">
     <meta name="keywords" content="square miles to acres converter 2026, sq mi to acres, area converter, land measurement calculator 2026">
-    <script src="https://cdn.tailwindcss.com"></script>
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
-</head>
-<body>
 
 <div class="min-h-screen bg-gradient-to-br from-green-50 to-emerald-100 py-8">
     <div class="max-w-4xl mx-auto px-4">

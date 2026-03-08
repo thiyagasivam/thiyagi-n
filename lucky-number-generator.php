@@ -1,5 +1,4 @@
 <?php include 'header.php';?>
-<link rel="canonical" href="https://www.thiyagi.com/lucky-number-generator">
 
 <?php
 // Function to generate lucky numbers
@@ -42,11 +41,6 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
 }
 ?>
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Lucky Number Generator 2026 - Free Random Number Picker Tool</title>
 <meta name="description" content="Free online lucky number generator for 2026. Get random numbers for lottery, games, contests, or special dates. Customize ranges and generate your fortune numbers instantly.">
     <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" rel="stylesheet">
@@ -83,7 +77,6 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
         }
     </style>
 
-</head>
 <body class="bg-gray-50">
     <div class="container mx-auto px-4 py-8 max-w-3xl">
         <header class="text-center mb-8">

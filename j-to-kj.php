@@ -1,7 +1,6 @@
 ﻿<?php include 'header.php'; ?>
 
 <!-- SEO Meta Tags -->
-<link rel="canonical" href="https://www.thiyagi.com/j-to-kj">
 <title>Joules to Kilojoules Converter 2026 - Energy Calculator | Thiyagi</title>
 <meta name="description" content="Free online joules to kilojoules converter 2026. Convert J to kJ instantly with accurate energy conversion for scientific and engineering calculations.">
 <meta name="keywords" content="joules to kilojoules converter 2026, J to kJ, energy converter, physics calculator, engineering calculator">

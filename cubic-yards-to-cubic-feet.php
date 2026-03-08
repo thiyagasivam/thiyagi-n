@@ -1,19 +1,9 @@
 <?php include 'header.php';?>
-<link rel="canonical" href="https://www.thiyagi.com/cubic-yards-to-cubic-feet">
 
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Cubic Yards to Cubic Feet Converter 2026 - Volume Conversion Calculator</title>
     <meta name="description" content="Convert cubic yards to cubic feet with our free 2026 online calculator. Accurate volume conversion for construction and landscaping.">
     <meta name="keywords" content="cubic yards to cubic feet converter 2026, yd³ to ft³, volume converter, construction calculator 2026">
-    <script src="https://cdn.tailwindcss.com"></script>
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
-</head>
-<body>
 
 <div class="min-h-screen bg-gradient-to-br from-emerald-50 to-teal-100 py-8">
     <div class="max-w-4xl mx-auto px-4">

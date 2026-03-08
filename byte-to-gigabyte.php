@@ -2,7 +2,6 @@
 <title>Bytes to Gigabytes Converter 2026 | B to GB Calculator | Free Tool</title>
 <meta name="description" content="Professional bytes to gigabytes converter 2026. Convert bytes to GB instantly with precision calculations. Perfect for storage, data transfer, and file size measurements.">
 <meta name="keywords" content="bytes to gigabytes converter 2026, B to GB calculator, storage converter, data size calculator, file size converter">
-<link rel="canonical" href="https://www.thiyagi.com/byte-to-gigabyte">
 
 <!-- Open Graph Meta Tags -->
 <meta property="og:title" content="Bytes to Gigabytes Converter 2026 | B to GB Calculator | Free Tool">

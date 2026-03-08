@@ -2,7 +2,6 @@
 <title>Millimeter to Meter Converter 2026 | MM to Meter | Free Tool</title>
 <meta name="description" content="Convert millimeter to meter instantly with our 2026 accurate converter. Perfect mm to meter conversion with real-time calculations for precision.">
 <meta name="keywords" content="millimeter to meter 2026, mm meter converter, metric unit conversion 2026, precision measurement calculator, scientific conversion">
-<link rel="canonical" href="https://www.thiyagi.com/mm-to-meter">
 
 <!-- Open Graph Meta Tags -->
 <meta property="og:title" content="Millimeter to Meter Converter 2026 | MM to Meter | Free Tool">

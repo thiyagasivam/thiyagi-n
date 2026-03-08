@@ -1,5 +1,4 @@
 <?php include 'header.php';?>
-<link rel="canonical" href="https://www.thiyagi.com/ielts-score-calculator">
 <?php
 // ============================================================
 // IELTS Score Conversion Tables
@@ -63,11 +62,6 @@ function ieltsRound($avg) {
     return ceil($avg);
 }
 ?>
-<!DOCTYPE html>
-<html lang="en">
-<head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>IELTS Score Calculator – Calculate Your IELTS Band Score Instantly</title>
 <meta name="description" content="Free IELTS score calculator to estimate your overall band score for Listening, Reading, Writing and Speaking. Includes official IELTS rounding rules.">
 <meta name="keywords" content="IELTS score calculator, IELTS band score, IELTS overall score, IELTS listening score, IELTS reading score, IELTS calculator 2026">
@@ -90,7 +84,6 @@ function ieltsRound($avg) {
     .share-toast{position:fixed;bottom:24px;left:50%;transform:translateX(-50%) translateY(80px);background:#1e293b;color:#fff;padding:12px 28px;border-radius:12px;font-size:.95rem;opacity:0;transition:all .4s ease;z-index:9999;pointer-events:none}
     .share-toast.show{opacity:1;transform:translateX(-50%) translateY(0)}
 </style>
-</head>
 <body class="bg-gray-50 min-h-screen">
 
 <!-- Toast Notification -->

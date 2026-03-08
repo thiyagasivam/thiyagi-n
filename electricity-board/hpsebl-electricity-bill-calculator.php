@@ -63,20 +63,12 @@ if ($units > 0) {
 // Final amount after subsidy
 $final_amount = max(0, $total - $subsidy);
 ?>
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="canonical" href="https://www.thiyagi.com/electricity-board/hpsebl-electricity-bill-calculator">
 <title>HPSEBL Bill Calculator (2026) – Himachal Pradesh Electricity Estimator</title>
     <meta name="description" content="Calculate your HPSEBL electricity bill for 2026 based on domestic tariff slabs. Includes meter rent, fixed charges, and subsidy options.">
     
     <!-- Tailwind CSS via CDN -->
-    <script src="https://cdn.tailwindcss.com"></script>
     
     <!-- Font Awesome for icons -->
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
     
     <script>
         // Live calculation with JavaScript
@@ -209,7 +201,6 @@ $final_amount = max(0, $total - $subsidy);
 <script type="application/ld+json">
 <?php echo json_encode($breadcrumbSchema, JSON_UNESCAPED_SLASHES | JSON_PRETTY_PRINT); ?>
 </script>
-</head>
 <body class="bg-gray-100 dark:bg-gray-900 text-gray-800 dark:text-gray-200 transition-colors duration-200">
     <div class="container mx-auto px-4 py-8 max-w-4xl">
         <!-- Header -->

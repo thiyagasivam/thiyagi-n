@@ -2,7 +2,6 @@
 <title>Pounds to Ounces Converter 2026 | lbs to oz | Free Weight Tool</title>
 <meta name="description" content="Convert pounds to ounces instantly with our 2026 accurate converter. Perfect lbs to oz conversion with real-time calculations for cooking and weight measurements.">
 <meta name="keywords" content="pounds to ounces converter 2026, lbs to oz converter, pounds ounces conversion, weight converter 2026, cooking calculator, food measurements, nutrition tools, dietary conversion, kitchen scales, weight calculator">
-<link rel="canonical" href="https://www.thiyagi.com/pounds-to-ounces">
 
 <!-- Open Graph Meta Tags -->
 <meta property="og:title" content="Pounds to Ounces Converter 2026 | lbs to oz | Free Weight Tool">
@@ -21,7 +20,6 @@
 <!-- Additional SEO Meta Tags -->
 <meta name="author" content="Thiyagi">
 <meta name="theme-color" content="#f59e0b">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
 <meta name="language" content="EN">
 <meta name="revisit-after" content="7 days">
 <meta name="distribution" content="global">

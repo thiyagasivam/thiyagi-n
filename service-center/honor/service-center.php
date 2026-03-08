@@ -144,11 +144,6 @@ $breadcrumbSchema = [
 }
 ?>
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="<?= htmlspecialchars($center['about'], ENT_QUOTES, 'UTF-8') ?> Professional Honor smartphone repair with genuine parts, expert technicians, and warranty coverage. ⭐ Rated 4.8/5 stars.">
     <meta name="keywords" content="Honor service center near me 2026, <?= htmlspecialchars($center['shop_name'], ENT_QUOTES, 'UTF-8') ?>, Honor smartphone repair, mobile repair expert, screen replacement, battery replacement, Honor Magic repair, Honor X series service, authorized Honor service, genuine Honor parts, Honor warranty repair">
     <meta name="author" content="Honor Device Co. Ltd">
@@ -173,7 +168,6 @@ $breadcrumbSchema = [
     <meta name="twitter:description" content="Professional Honor smartphone repair with genuine parts ⭐ 4.8/5 rated service center">
     <meta name="twitter:image" content="https://images.unsplash.com/photo-1556656793-08538906a9f8?w=1200&h=630&fit=crop">
     
-    <link rel="canonical" href="https://www.thiyagi.com/service-center/honor/service-center">
 <title><?= htmlspecialchars($center['page_title'], ENT_QUOTES, 'UTF-8') ?></title>
     
     <!-- Schema.org JSON-LD -->
@@ -355,7 +349,6 @@ $breadcrumbSchema = [
     }
     </script>
 
-    <link rel="canonical" href="https://www.thiyagi.com/service-center/honor/service-center">
 <title><?= htmlspecialchars($center['page_title'], ENT_QUOTES, 'UTF-8') ?></title>
     
     <!-- Modern CSS Framework -->
@@ -534,7 +527,6 @@ $breadcrumbSchema = [
             100% { background-position: 0% 50%; }
         }
     </style>
-</head>
 
 <body class="bg-gray-50 antialiased">
     <!-- Hero Section with Enhanced Design -->

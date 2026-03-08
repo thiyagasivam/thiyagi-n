@@ -2,7 +2,6 @@
 <title>Cups to Tablespoons Converter 2026 | Cup to Tbsp Calculator | Free Tool</title>
 <meta name="description" content="Professional cups to tablespoons converter 2026. Convert cups to tbsp instantly with precision calculations. Perfect for cooking, baking, and recipe measurements.">
 <meta name="keywords" content="cups to tablespoons converter 2026, cup to tbsp calculator, cooking converter, recipe calculator, baking measurements">
-<link rel="canonical" href="https://www.thiyagi.com/cups-to-tablespoons">
 
 <!-- Open Graph Meta Tags -->
 <meta property="og:title" content="Cups to Tablespoons Converter 2026 | Cup to Tbsp Calculator | Free Tool">

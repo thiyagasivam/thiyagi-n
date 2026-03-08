@@ -1,7 +1,6 @@
 ﻿<?php include 'header.php'; ?>
 
 <!-- SEO Meta Tags -->
-<link rel="canonical" href="https://www.thiyagi.com/nanometer-to-meter">
 <title>Nanometer to Meter Converter 2026 - Length Calculator | Thiyagi</title>
 <meta name="description" content="Free online nanometer to meter converter 2026. Convert nanometers to meters instantly. Perfect for scientific and nanotechnology measurements.">
 <meta name="keywords" content="nanometer to meter converter 2026, nm to m, scientific converter, nanotechnology calculator, length measurement">

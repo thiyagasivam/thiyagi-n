@@ -88,14 +88,7 @@ if (!$kural && !empty($kural_id)) {
 if (!$kural) {
     // Show error message instead of immediate redirect
     ?>
-    <!DOCTYPE html>
-    <html lang="ta">
-    <head>
-        <meta charset="UTF-8">
-        <link rel="canonical" href="https://www.thiyagi.com/thirukkural/kural/index">
 <title>Kural Not Found</title>
-        <script src="https://cdn.tailwindcss.com"></script>
-    </head>
     <body class="bg-gray-50 p-8">
         <div class="max-w-2xl mx-auto text-center">
             <h1 class="text-2xl font-bold text-gray-800 mb-4">குறள் கிடைக்கவில்லை</h1>
@@ -149,18 +142,9 @@ if (file_exists('../../header.php')) {
     include '../../header.php';
     // Add meta tags after header
     echo '<meta name="description" content="' . htmlspecialchars($page_description) . '">';
-    echo '<link rel="canonical" href="https://www.thiyagi.com/thirukkural/kural/' . urlencode($kural['url'] ?? 'thirukkural-' . $current_id) . '">';
 } else {
     ?>
-    <!DOCTYPE html>
-    <html lang="ta">
-    <head>
-        <meta charset="UTF-8">
-        <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <link rel="canonical" href="https://www.thiyagi.com/thirukkural/kural/index">
 <title><?php echo $page_title; ?></title>
-        <script src="https://cdn.tailwindcss.com"></script>
-        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
         <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+Tamil:wght@300;400;500;600;700&display=swap" rel="stylesheet">
         <style>
             .tamil-text {
@@ -171,7 +155,6 @@ if (file_exists('../../header.php')) {
                 font-family: 'Noto Sans Tamil', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
             }
         </style>
-    </head>
     <body class="bg-gray-50">
     <?php
 }

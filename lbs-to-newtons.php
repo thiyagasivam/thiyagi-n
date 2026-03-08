@@ -2,7 +2,6 @@
 <title>Pounds to Newtons Converter 2026 | lbs to N | Free Force Tool</title>
 <meta name="description" content="Convert pounds to newtons instantly with our 2026 accurate converter. Perfect lbs to N conversion with real-time calculations for physics and engineering force measurements.">
 <meta name="keywords" content="pounds to newtons converter 2026, lbs to newtons converter, pound newton conversion, force converter 2026, physics calculations, engineering force, mechanics measurements, weight to force">
-<link rel="canonical" href="https://www.thiyagi.com/lbs-to-newtons">
 
 <!-- Open Graph Meta Tags -->
 <meta property="og:title" content="Pounds to Newtons Converter 2026 | lbs to N | Free Force Tool">
@@ -21,7 +20,6 @@
 <!-- Additional SEO Meta Tags -->
 <meta name="author" content="Thiyagi">
 <meta name="theme-color" content="#6b7280">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
 <meta name="language" content="EN">
 <meta name="revisit-after" content="7 days">
 <meta name="distribution" content="global">

@@ -2,7 +2,6 @@
 <title>Square Meter to Acre Converter 2026 | Sqm to Acre | Free Tool</title>
 <meta name="description" content="Convert square meters to acres instantly with our 2026 accurate converter. Perfect sqm to acre conversion with real-time calculations for land measurement and agriculture.">
 <meta name="keywords" content="square meter to acre 2026, sqm to acre converter, meter to acre conversion, area conversion 2026, land measurement, agriculture calculator">
-<link rel="canonical" href="https://www.thiyagi.com/sqm-to-acre">
 
 <!-- Open Graph Meta Tags -->
 <meta property="og:title" content="Square Meter to Acre Converter 2026 | Sqm to Acre | Free Tool">

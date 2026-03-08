@@ -2,7 +2,6 @@
 <title>Area Converter | Square Meter, Feet, Acre, Hectare, Km², Mile²</title>
 <meta name="description" content="Convert area units instantly: square meter, square feet, acre, hectare, square kilometer, square mile, and more. Fast, accurate, mobile-friendly area conversion tool.">
 <meta name="keywords" content="area converter, square meter, square feet, acre, hectare, square kilometer, square mile, unit conversion, area calculation">
-<link rel="canonical" href="https://www.thiyagi.com/area-converter">
 
 <!-- Open Graph Meta Tags -->
 <meta property="og:title" content="Area Converter | Square Meter, Feet, Acre, Hectare, Km², Mile²">

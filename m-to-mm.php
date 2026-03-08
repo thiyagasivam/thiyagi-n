@@ -2,7 +2,6 @@
 <title>M to MM Converter 2026 | Meters to Millimeters Calculator | Free Tool</title>
 <meta name="description" content="Professional M to MM converter 2026. Convert meters to millimeters instantly with precision calculations. Perfect for engineering, construction, and technical measurements.">
 <meta name="keywords" content="m to mm converter 2026, meters to millimeters calculator, length converter, metric conversion, engineering measurements">
-<link rel="canonical" href="https://www.thiyagi.com/m-to-mm">
 
 <!-- Open Graph Meta Tags -->
 <meta property="og:title" content="M to MM Converter 2026 | Meters to Millimeters Calculator | Free Tool">

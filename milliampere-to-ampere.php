@@ -2,7 +2,6 @@
 <title>Milliampere to Ampere Converter 2026 | Convert mA to A | Free Tool</title>
 <meta name="description" content="Convert milliampere to ampere instantly with our 2026 accurate electrical current converter. Perfect mA to A conversion with real-time calculations for electrical needs.">
 <meta name="keywords" content="milliampere to ampere 2026, electrical converter, current conversion 2026, mA to A calculator, electrical tool">
-<link rel="canonical" href="https://www.thiyagi.com/milliampere-to-ampere">
 
 <!-- Open Graph Meta Tags -->
 <meta property="og:title" content="Milliampere to Ampere Converter 2026 | Convert mA to A | Free Tool">

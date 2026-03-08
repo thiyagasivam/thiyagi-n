@@ -1,5 +1,4 @@
 <?php include 'header.php';?>
-<link rel="canonical" href="https://www.thiyagi.com/javascript-minifier">
 
 
 <?php
@@ -46,11 +45,6 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
     }
 }
 ?>
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>JavaScript Minifier 2026 - Free Online Code Compressor & Optimizer</title>
 <meta name="description" content="Free online JavaScript minifier for 2026. Compress and optimize JS files instantly. Reduce file size, remove comments, and speed up website performance with our free tool.">
     <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" rel="stylesheet">
@@ -73,7 +67,6 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
         }
     </style>
 
-</head>
 <body class="bg-gray-50">
     <div class="container mx-auto px-4 py-8 max-w-4xl">
         <header class="mb-8 text-center">
@@ -170,7 +163,6 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
     </div>
 
    
-
     <script>
         function copyToClipboard(elementId) {
             const element = document.getElementById(elementId);

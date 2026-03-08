@@ -2,7 +2,6 @@
 <title>KPH to MPH Converter 2026 | km/h to mph | Free Speed Tool</title>
 <meta name="description" content="Convert kilometers per hour to miles per hour instantly with our 2026 accurate converter. Perfect kph to mph conversion for automotive and speed calculations.">
 <meta name="keywords" content="kph to mph converter 2026, km/h to mph converter, kilometers per hour miles per hour conversion, speed converter 2026, automotive calculator, driving tools, velocity conversion, speedometer converter, road speed calculator">
-<link rel="canonical" href="https://www.thiyagi.com/kph-to-mph">
 
 <!-- Open Graph Meta Tags -->
 <meta property="og:title" content="KPH to MPH Converter 2026 | km/h to mph | Free Speed Tool">
@@ -21,7 +20,6 @@
 <!-- Additional SEO Meta Tags -->
 <meta name="author" content="Thiyagi">
 <meta name="theme-color" content="#dc2626">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
 <meta name="language" content="EN">
 <meta name="revisit-after" content="7 days">
 <meta name="distribution" content="global">

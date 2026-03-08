@@ -59,21 +59,13 @@ if ($units > 0) {
     }
 }
 ?>
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>WBSEDCL / CESC Bill Calculator - 2026</title>
     <meta name="description" content="Calculate your WBSEDCL and CESC electricity bill in West Bengal.">
-    <link rel="canonical" href="https://www.thiyagi.com/electricity-board/wbsedcl-bill-calculator">
 
-    <script src="https://cdn.tailwindcss.com"></script>
 
 <script type="application/ld+json">
 <?php echo json_encode($breadcrumbSchema, JSON_UNESCAPED_SLASHES | JSON_PRETTY_PRINT); ?>
 </script>
-</head>
 <body class="bg-gray-100">
 <div class="container mx-auto py-10 px-4 max-w-4xl">
     <h1 class="text-3xl font-bold text-center mb-8 text-gray-800">West Bengal Electricity Bill Calculator 2026</h1>

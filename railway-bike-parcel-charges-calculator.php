@@ -121,15 +121,9 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
 }
 ?>
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Railway Bike Parcel Charges Calculator 2026 - Indian Railways Two-Wheeler Transport Cost</title>
     <meta name="description" content="Calculate Indian Railways bike parcel charges instantly. Check 2026 freight rates for two-wheelers (bikes, scooters) between stations with delivery time estimates and booking tips.">
     <meta name="keywords" content="railway bike parcel charges, indian railways freight calculator, two wheeler transport cost, bike shipping charges, railway parcel booking, motorcycle transport rates">
-    <link rel="canonical" href="https://www.thiyagi.com/railway-bike-parcel-charges-calculator">
     
     <!-- Open Graph / Facebook -->
     <meta property="og:type" content="website">
@@ -341,7 +335,6 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
         }
     </style>
 
-</head>
 <body class="bg-gray-50">
     <div class="container mx-auto px-4 py-8">
         <!-- Breadcrumb Navigation -->
@@ -1211,7 +1204,6 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
         const printWindow = window.open('', '_blank');
         printWindow.document.write(`
             <html>
-                <head>
                     <title>Railway Bike Parcel Charges - Calculation Results</title>
                     <style>
                         body { font-family: Arial, sans-serif; margin: 20px; }
@@ -1221,8 +1213,6 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
                         .grid { display: grid; grid-template-columns: repeat(3, 1fr); gap: 15px; }
                         @media print { button { display: none !important; } }
                     </style>
-                </head>
-                <body>
                     <h1>Railway Bike Parcel Charges Calculator</h1>
                     <p>Generated on: ${new Date().toLocaleDateString()}</p>
                     ${printContent.innerHTML}

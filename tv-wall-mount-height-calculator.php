@@ -1,8 +1,5 @@
 <?php include 'header.php'; ?>
 
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>TV Wall Mount Height Calculator 2026 - Optimal Viewing Height Guide | Thiyagi.com</title>
     <meta name="description" content="TV wall mount height calculator 2026 - find the perfect TV mounting height based on room dimensions, seating position, TV size, and viewing angles for optimal comfort.">
     <meta name="keywords" content="TV wall mount height calculator 2026, TV mounting height, wall mount calculator, viewing angle calculator, TV height guide">
@@ -22,11 +19,8 @@
     <meta name="twitter:image" content="https://www.thiyagi.com/nt.png">
     
     <!-- Canonical URL -->
-    <link rel="canonical" href="https://www.thiyagi.com/tv-wall-mount-height-calculator">
     
     <!-- Tailwind CSS -->
-    <script src="https://cdn.tailwindcss.com"></script>
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
 
 <style>
     .gradient-bg {
@@ -152,7 +146,6 @@
 }
 </script>
 
-</head>
 <body class="bg-gray-50">
     <!-- Header -->
     <header class="gradient-bg shadow-lg">

@@ -5,7 +5,6 @@ $page_keywords = "thirukkural categories, virtue, wealth, love, thiruvalluvar";
 
 include '../header.php';
 ?>
-<link rel="canonical" href="https://www.thiyagi.com/thirukkural/categories">
 <title>Browse Thirukkural by Categories - Virtue, Wealth & Love | Thiyagi.com</title>
 <meta name="description" content="Browse Thirukkural organized by its three main categories: Virtue (Aram), Wealth (Porul), and Love (Inbam). Explore the timeless wisdom of Thiruvalluvar's couplets categorized by themes.">
 <?php

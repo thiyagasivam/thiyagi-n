@@ -2,7 +2,6 @@
 <title>Milligrams to Grams Converter 2026 | Weight Conversion Tool | Free Calculator</title>
 <meta name="description" content="Convert milligrams to grams instantly with our 2026 accurate weight converter. Perfect for medicine, cooking, and precise measurements.">
 <meta name="keywords" content="milligrams to grams converter 2026, weight conversion calculator, mg gram converter, medicine dosage, cooking measurements">
-<link rel="canonical" href="https://www.thiyagi.com/milligrams-to-grams">
 
 <div class="min-h-screen bg-gradient-to-br from-pink-50 to-rose-100 py-8">
     <div class="container mx-auto px-4">

@@ -191,17 +191,9 @@ $items = [
 ];
 ?>
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="canonical" href="https://www.thiyagi.com/electricity-board/index">
 <title>All India Electricity Bill Calculators | State-wise</title>
     <meta name="description" content="Calculate electricity bills for all Indian states and UTs - accurate, fast and easy to use">
-    <script src="https://cdn.tailwindcss.com"></script>
     
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css">
     <style>
         .card-hover:hover {
             transform: translateY(-4px);
@@ -213,7 +205,6 @@ $items = [
         }
     </style>
 
-</head>
 <body class="bg-gray-50 min-h-screen">
     <div class="container mx-auto px-4 py-8 max-w-6xl">
         <header class="mb-10 text-center">

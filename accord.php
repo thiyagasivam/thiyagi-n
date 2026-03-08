@@ -1,4 +1,3 @@
-<body>
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
     <section>
         <h2 class="text-center text-2xl font-bold mb-6">Tools and Resources</h2>

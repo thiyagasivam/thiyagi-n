@@ -1,19 +1,9 @@
 <?php include 'header.php';?>
-<link rel="canonical" href="https://www.thiyagi.com/milliamps-to-amps">
 
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Milliamps to Amps Converter 2026 - Electric Current Conversion Calculator</title>
     <meta name="description" content="Convert milliamps (mA) to amps (A) with our free 2026 online calculator. Accurate current conversion for electrical calculations.">
     <meta name="keywords" content="milliamps to amps converter 2026, mA to A, current converter, electrical calculator 2026">
-    <script src="https://cdn.tailwindcss.com"></script>
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
-</head>
-<body>
 
 <div class="min-h-screen bg-gradient-to-br from-yellow-50 to-amber-100 py-8">
     <div class="max-w-4xl mx-auto px-4">

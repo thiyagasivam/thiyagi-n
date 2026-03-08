@@ -2,7 +2,6 @@
 <title>Kilograms to Newtons Converter 2026 | Kg to N Calculator | Free Tool</title>
 <meta name="description" content="Professional kilograms to newtons converter 2026. Convert kg to N instantly with precision calculations. Perfect for physics, engineering, and force measurements.">
 <meta name="keywords" content="kilograms to newtons converter 2026, kg to N calculator, force converter, physics calculator, engineering measurements">
-<link rel="canonical" href="https://www.thiyagi.com/kg-to-newtons">
 
 <!-- Open Graph Meta Tags -->
 <meta property="og:title" content="Kilograms to Newtons Converter 2026 | Kg to N Calculator | Free Tool">

@@ -2,7 +2,6 @@
 <title>Fluid Ounce (US) to Gallon (US) Converter 2026 | Volume Conversion Tool | Free Calculator</title>
 <meta name="description" content="Convert US fluid ounces to US gallons instantly with our 2026 accurate volume converter. Perfect for cooking, fuel calculations, and liquid measurements.">
 <meta name="keywords" content="fluid ounce us to gallon us converter 2026, volume conversion calculator, fl oz gallon converter, cooking measurements, fuel calculator">
-<link rel="canonical" href="https://www.thiyagi.com/fluid-ounce-us-to-gallon-us">
 
 <div class="min-h-screen bg-gradient-to-br from-blue-50 to-blue-100 py-12 px-4 sm:px-6 lg:px-8">
     <div class="max-w-4xl mx-auto">

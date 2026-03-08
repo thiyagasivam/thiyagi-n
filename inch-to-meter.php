@@ -2,7 +2,6 @@
 <title>Inch to Meter Converter 2026 | IN to M | Free Tool</title>
 <meta name="description" content="Convert inch to meter instantly with our 2026 accurate converter. Perfect in to m conversion with real-time calculations for precision measurements.">
 <meta name="keywords" content="inch to meter 2026, inch meter converter, length unit conversion 2026, precision measurement calculator, in m conversion">
-<link rel="canonical" href="https://www.thiyagi.com/inch-to-meter">
 
 <!-- Open Graph Meta Tags -->
 <meta property="og:title" content="Inch to Meter Converter 2026 | IN to M | Free Tool">

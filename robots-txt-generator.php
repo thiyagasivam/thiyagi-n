@@ -270,16 +270,10 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
 }
 ?>
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Advanced Robots.txt Generator - Professional SEO Tool | Thiyagi</title>
     <meta name="description" content="Professional robots.txt generator with templates, validation, and advanced crawler control. Create SEO-optimized robots.txt files with crawl-delay settings and comprehensive analysis.">
     <meta name="keywords" content="robots.txt generator, robots txt creator, SEO robots file, crawler control, search engine optimization, crawl delay, sitemap robots">
     <meta name="author" content="Thiyagi">
-    <link rel="canonical" href="https://livedu.in/robots-txt-generator.php">
     
     <!-- Open Graph tags -->
     <meta property="og:title" content="Advanced Robots.txt Generator - Professional SEO Tool">
@@ -319,7 +313,6 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
     </script>
     
     <!-- Tailwind CSS -->
-    <script src="https://cdn.tailwindcss.com"></script>
     <script>
         tailwind.config = {
             theme: {
@@ -353,7 +346,6 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
             background-color: #eff6ff;
         }
     </style>
-</head>
 <body class="bg-gradient-to-br from-blue-50 via-white to-purple-50 min-h-screen">
     <!-- Header Section -->
     <div class="bg-white shadow-sm border-b">

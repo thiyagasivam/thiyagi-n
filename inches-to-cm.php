@@ -2,7 +2,6 @@
 <title>Inches to Centimeter Converter 2026 | Inches to CM | Free Tool</title>
 <meta name="description" content="Convert inches to centimeter instantly with our 2026 accurate converter. Perfect inches to cm conversion with real-time calculations for length measurement.">
 <meta name="keywords" content="inches to centimeter 2026, inches cm converter, length conversion 2026, imperial to metric, measurement calculator">
-<link rel="canonical" href="https://www.thiyagi.com/inches-to-cm">
 
 <!-- Open Graph Meta Tags -->
 <meta property="og:title" content="Inches to Centimeter Converter 2026 | Inches to CM | Free Tool">

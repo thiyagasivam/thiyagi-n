@@ -1,8 +1,5 @@
 <?php include 'header.php'; ?>
 
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Super Juice Calculator 2026 - Nutrition & Antioxidant Calculator | Thiyagi.com</title>
     <meta name="description" content="Super juice calculator 2026 - calculate nutrition values, antioxidant levels, vitamin content, and health benefits for custom juice recipes and combinations.">
     <meta name="keywords" content="super juice calculator 2026, nutrition calculator, antioxidant calculator, juice recipe calculator, vitamin content calculator">
@@ -22,11 +19,8 @@
     <meta name="twitter:image" content="https://www.thiyagi.com/nt.png">
     
     <!-- Canonical URL -->
-    <link rel="canonical" href="https://www.thiyagi.com/super-juice-calculator">
     
     <!-- Tailwind CSS -->
-    <script src="https://cdn.tailwindcss.com"></script>
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
 
 <style>
     .gradient-bg {
@@ -96,7 +90,6 @@
 }
 </script>
 
-</head>
 <body class="bg-gray-50">
     <!-- Header -->
     <header class="gradient-bg shadow-lg">

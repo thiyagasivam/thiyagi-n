@@ -1,7 +1,6 @@
 ﻿<?php include 'header.php'; ?>
 
 <!-- SEO Meta Tags -->
-<link rel="canonical" href="https://www.thiyagi.com/yard-to-centimeter">
 <title>Yard to Centimeter Converter 2026 - Length Calculator | Thiyagi</title>
 <meta name="description" content="Free online yard to centimeter converter 2026. Convert yards to cm instantly with accurate length conversion. Perfect for sports, textiles, and construction.">
 <meta name="keywords" content="yard to centimeter converter 2026, yard to cm, length converter, sports calculator, textile converter">

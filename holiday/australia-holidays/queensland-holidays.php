@@ -8,13 +8,10 @@
 <meta property="og:description" content="Complete Queensland Holiday Calendar 2026 with Royal Queensland Show (Ekka) and all public holidays.">
 <meta property="og:type" content="website">
 <meta property="og:url" content="https://<?= $_SERVER['HTTP_HOST'] . strtok($_SERVER['REQUEST_URI'], '?') ?>">
-<link rel="canonical" href="https://<?= $_SERVER['HTTP_HOST'] . strtok($_SERVER['REQUEST_URI'], '?') ?>">
 <meta name="language" content="English">
 <meta name="geo.region" content="AU-QLD">
 <meta name="geo.placename" content="Queensland, Australia">
 
-<script src="https://cdn.tailwindcss.com"></script>
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/remixicon/3.5.0/remixicon.css">
 
 <script>
@@ -44,7 +41,6 @@
 .qld-gradient { background: linear-gradient(135deg, var(--qld-maroon) 0%, var(--qld-sun) 50%, var(--qld-maroon) 100%); }
 </style>
 
-</head>
 <body class="bg-gradient-to-br from-blue-50 to-indigo-100 min-h-screen">
     <?php
     // Queensland Holidays 2026 Data

@@ -3,7 +3,6 @@
 <title>British Columbia Holidays 2026 | BC Provincial Holiday Calendar</title>
 <meta name="description" content="Complete British Columbia Holiday Calendar 2026. Find all BC provincial holidays, federal holidays, and statutory holidays for British Columbia, Canada.">
 <meta name="keywords" content="British Columbia holidays 2026, BC provincial holidays, Family Day BC, Truth and Reconciliation Day, statutory holidays BC">
-<link rel="canonical" href="https://<?= $_SERVER['HTTP_HOST'] . strtok($_SERVER['REQUEST_URI'], '?') ?>">
 
 <style>
 :root {

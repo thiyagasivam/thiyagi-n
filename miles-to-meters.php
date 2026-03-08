@@ -2,7 +2,6 @@
 <title>Miles to Meters Converter 2026 | Miles to Meters Calculator | Free Tool</title>
 <meta name="description" content="Professional Miles to Meters converter 2026. Convert miles to meters instantly with precision calculations. Perfect for athletics, navigation, and distance measurements.">
 <meta name="keywords" content="miles to meters converter 2026, miles meters calculator, distance converter, athletic measurements, navigation calculator, metric distance conversion">
-<link rel="canonical" href="https://www.thiyagi.com/miles-to-meters">
 
 <!-- Open Graph Meta Tags -->
 <meta property="og:title" content="Miles to Meters Converter 2026 | Miles to Meters Calculator | Free Tool">

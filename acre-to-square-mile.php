@@ -2,7 +2,6 @@
 <title>Acre to Square Mile Converter 2026 | Convert acre to sq mi | Free Tool</title>
 <meta name="description" content="Convert acre to square mile instantly with our 2026 accurate converter. Perfect acre to sq mi conversion with real-time calculations for land measurement.">
 <meta name="keywords" content="acre to square mile 2026, acre sq mi converter, land area conversion 2026, property measurement calculator, land surveying tool">
-<link rel="canonical" href="https://www.thiyagi.com/acre-to-square-mile">
 
 <!-- Open Graph Meta Tags -->
 <meta property="og:title" content="Acre to Square Mile Converter 2026 | Convert acre to sq mi | Free Tool">

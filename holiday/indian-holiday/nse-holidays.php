@@ -1,7 +1,4 @@
 <?php include '../../header.php'; ?>
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>NSE Holiday List 2026 | National Stock Exchange Trading Holidays | Equity, Derivatives, Commodity</title>
     <meta name="description" content="Complete NSE Holiday List 2026. Find all trading holidays for Equity, Derivatives, SLB, Commodity segments, and Muhurat Trading. Plan your investments and trades.">
     <meta name="keywords" content="NSE holidays 2026, National Stock Exchange, trading holidays India, stock market holidays, equity holidays, derivatives holidays, commodity holidays, Muhurat Trading 2026, NSE calendar">
@@ -14,7 +11,6 @@
     <meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:title" content="NSE Holiday List 2026">
     <meta name="twitter:description" content="Complete NSE Holiday List 2026 with all trading holidays.">
-    <link rel="canonical" href="<?php echo 'https://' . $_SERVER['HTTP_HOST'] . $_SERVER['REQUEST_URI']; ?>">
     <meta name="language" content="English">
     <meta name="geo.region" content="IN">
     <meta name="geo.placename" content="India">
@@ -79,8 +75,6 @@
         "dateModified": "<?php echo date('Y-m-d'); ?>"
     }
     </script>
-    <script src="https://cdn.tailwindcss.com"></script>
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/remixicon/3.5.0/remixicon.css">
     <script>
         tailwind.config = {
@@ -96,7 +90,6 @@
             }
         }
     </script>
-</head>
 <body class="bg-gradient-to-br from-blue-50 to-indigo-100 min-h-screen">
     <?php
     // NSE Holidays 2026 Data - Weekdays (Equity, Derivatives, SLB)

@@ -46,16 +46,9 @@ if ($units > 0) {
     }
 }
 ?>
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Odisha Electricity Bill Calculator 2026 - Odisha Power Distribution</title>
     <meta name="description" content="Calculate your Odisha electricity bill with the latest 2026 tariff rates for TPCODL, NESCO, and WESCO DISCOMs.">
-    <link rel="canonical" href="https://www.thiyagi.com/electricity-board/odisha-electricity-bill-calculator" />
 
-    <script src="https://cdn.tailwindcss.com"></script>
     <style>
         :root {
             --odisha-green: #166534;
@@ -183,7 +176,6 @@ if ($units > 0) {
 <script type="application/ld+json">
 <?php echo json_encode($breadcrumbSchema, JSON_UNESCAPED_SLASHES | JSON_PRETTY_PRINT); ?>
 </script>
-</head>
 <body class="bg-gray-100">
     <div class="max-w-4xl mx-auto px-4 py-8">
         <header class="text-center mb-10">

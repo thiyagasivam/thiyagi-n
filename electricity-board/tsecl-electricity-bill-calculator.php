@@ -57,16 +57,9 @@ if ($units > 0) {
     $total_bill = $subtotal + $tax;
 }
 ?>
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>CSPDCL Electricity Bill Calculator 2026 - Chhattisgarh Power</title>
     <meta name="description" content="Calculate your Chhattisgarh electricity bill with the latest CSPDCL 2026 tariff rates. Instant estimates with subsidy options.">
-    <link rel="canonical" href="https://www.thiyagi.com/electricity-board/cspdcl-electricity-bill-calculator" />
 
-    <script src="https://cdn.tailwindcss.com"></script>
     <!-- Bootstrap Icons -->
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.5/font/bootstrap-icons.css">
     <style>
@@ -196,7 +189,6 @@ if ($units > 0) {
 <script type="application/ld+json">
 <?php echo json_encode($breadcrumbSchema, JSON_UNESCAPED_SLASHES | JSON_PRETTY_PRINT); ?>
 </script>
-</head>
 <body class="bg-gray-100">
     <div class="max-w-4xl mx-auto px-4 py-8">
         <header class="text-center mb-10">

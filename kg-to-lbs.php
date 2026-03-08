@@ -39,7 +39,6 @@ $canonicalUrl = $isDynamicPage ?
 <?php else: ?>
 <meta name="keywords" content="kilogram to pound converter 2026, kg lbs converter 2026, weight unit conversion 2026, fitness weight calculator 2026, kg lbs conversion tool, body weight converter, health weight tracker, gym calculator, weight loss tool, international weight conversion, best kg to lbs converter 2026">
 <?php endif; ?>
-<link rel="canonical" href="<?php echo htmlspecialchars($canonicalUrl); ?>">
 
 <!-- Open Graph Meta Tags -->
 <meta property="og:title" content="<?php echo htmlspecialchars($pageTitle); ?>">
@@ -60,7 +59,6 @@ $canonicalUrl = $isDynamicPage ?
 <!-- Additional SEO Meta Tags -->
 <meta name="author" content="Thiyagi">
 <meta name="theme-color" content="#dc2626">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
 <meta name="language" content="English">
 <meta name="revisit-after" content="7 days">
 <meta name="distribution" content="global">

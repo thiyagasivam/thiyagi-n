@@ -2,7 +2,6 @@
 <title>Bigha to Square Meter Converter 2026 | Bigha to SqM | Free Tool</title>
 <meta name="description" content="Convert bigha to square meter instantly with our 2026 accurate converter. Perfect bigha to sqm conversion with real-time calculations for Indian land measurement.">
 <meta name="keywords" content="bigha to square meter 2026, bigha sqm converter, Indian land conversion 2026, bigha sqm calculation, traditional to metric conversion">
-<link rel="canonical" href="https://www.thiyagi.com/bigha-to-sqm">
 
 <!-- Open Graph Meta Tags -->
 <meta property="og:title" content="Bigha to Square Meter Converter 2026 | Bigha to SqM | Free Tool">

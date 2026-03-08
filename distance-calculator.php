@@ -16,15 +16,9 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
     }
 }
 ?>
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Distance Calculator 2026 - Find Distance Between Two Locations</title>
     <meta name="description" content="2026 Distance Calculator: Instantly find the distance between two locations, cities, or towns. Modern, SEO-friendly, mobile-ready tool for India and worldwide.">
     <meta name="keywords" content="distance calculator 2026, city distance, km calculator, road distance, map distance, travel distance, india, online tool">
-    <link rel="canonical" href="https://www.thiyagi.com/distance-calculator">
     <!-- Open Graph / Facebook -->
     <meta property="og:type" content="website">
     <meta property="og:url" content="https://www.thiyagi.com/distance-calculator">
@@ -114,7 +108,6 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
             box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1);
         }
     </style>
-</head>
 <body class="bg-gray-50">
     <div class="container mx-auto px-4 py-8">
         <nav class="flex mb-6" aria-label="Breadcrumb">

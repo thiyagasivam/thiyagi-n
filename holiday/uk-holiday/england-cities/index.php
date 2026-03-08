@@ -8,7 +8,6 @@ $canonical_url = "https://" . $_SERVER['HTTP_HOST'] . strtok($_SERVER['REQUEST_U
 include '../../../header.php'; 
 ?>
 
-<link rel="canonical" href="https://www.thiyagi.com/holiday/uk-holiday/england-cities/index">
 <title><?php echo $page_title; ?></title>
 <meta name="description" content="<?php echo $page_description; ?>">
 <meta name="keywords" content="<?php echo $page_keywords; ?>">

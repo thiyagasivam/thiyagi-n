@@ -1,19 +1,9 @@
 <?php include 'header.php';?>
-<link rel="canonical" href="https://www.thiyagi.com/micrometer-to-meter">
 
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Micrometer to Meter Converter 2026 - Length Conversion Calculator</title>
     <meta name="description" content="Convert micrometers to meters with our free 2026 online calculator. Perfect for scientific, engineering, and microscopy measurements.">
     <meta name="keywords" content="micrometer to meter converter 2026, micron converter, scientific calculator, microscopy measurements 2026">
-    <script src="https://cdn.tailwindcss.com"></script>
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
-</head>
-<body>
 
 <div class="min-h-screen bg-gradient-to-br from-indigo-50 to-blue-100 py-8">
     <div class="max-w-4xl mx-auto px-4">

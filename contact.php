@@ -1,21 +1,11 @@
 ﻿<?php include 'header.php'; ?>
 
-<link rel="canonical" href="https://www.thiyagi.com/contact">
 <title>Contact Thiyagi Tools 2026 - Get Professional Support | 25+ Years Experience</title>
 <meta name="description" content="Contact Thiyagi Tools for professional support, feedback, and inquiries. Get help with our calculators, converters, and online tools. Professional support with 25+ years of digital expertise since 1999.">
 <meta name="keywords" content="contact Thiyagi Tools, customer support, help desk, tool support, professional assistance 2026">
 ?>
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-  <link rel="canonical" href="https://www.thiyagi.com/contact">
 <title>Contact Us - Thiyagi Tools</title>
-  <!-- Add Tailwind CSS CDN -->
-  <script src="https://cdn.tailwindcss.com"></script>
-  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css"/>
   <style>
     :root {
       --primary: #6e8efb;
@@ -80,7 +70,6 @@
     }
   </style>
 
-</head>
 <body class="bg-gray-100">
   <!-- Hero Section -->
   <section class="contact-hero text-center">

@@ -1,8 +1,5 @@
 <?php include 'header.php'; ?>
 
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Towing Estimate Calculator 2026 - Calculate Towing Service Costs | Thiyagi.com</title>
     <meta name="description" content="Towing estimate calculator 2026 - calculate towing service costs based on distance, vehicle type, time of service, and additional factors for accurate pricing.">
     <meta name="keywords" content="towing calculator 2026, towing cost estimator, tow truck price calculator, auto towing estimate, roadside assistance calculator">
@@ -22,11 +19,8 @@
     <meta name="twitter:image" content="https://www.thiyagi.com/nt.png">
     
     <!-- Canonical URL -->
-    <link rel="canonical" href="https://www.thiyagi.com/towing-estimate-calculator">
     
     <!-- Tailwind CSS -->
-    <script src="https://cdn.tailwindcss.com"></script>
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
 
 <style>
     .gradient-bg {
@@ -86,7 +80,6 @@
 }
 </script>
 
-</head>
 <body class="bg-gray-50">
     <!-- Header -->
     <header class="gradient-bg shadow-lg">

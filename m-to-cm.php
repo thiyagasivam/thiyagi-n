@@ -2,7 +2,6 @@
 <title>M to CM Converter 2026 | Meters to Centimeters Calculator | Free Tool</title>
 <meta name="description" content="Professional M to CM converter 2026. Convert meters to centimeters instantly with precision calculations. Perfect for construction, measurements, and educational use.">
 <meta name="keywords" content="m to cm converter 2026, meters to centimeters calculator, length converter, metric conversion, measurement calculator, construction tools">
-<link rel="canonical" href="https://www.thiyagi.com/m-to-cm">
 
 <!-- Open Graph Meta Tags -->
 <meta property="og:title" content="M to CM Converter 2026 | Meters to Centimeters Calculator | Free Tool">

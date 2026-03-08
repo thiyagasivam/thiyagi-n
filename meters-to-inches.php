@@ -2,7 +2,6 @@
 <title>Meters to Inches Converter 2026 | meters to inches | Free Length Tool</title>
 <meta name="description" content="Convert meters to inches instantly with our 2026 accurate converter. Perfect meters to inches conversion with real-time calculations for measurements and construction.">
 <meta name="keywords" content="meters to inches converter 2026, meters to inches converter, meter inch conversion, length converter 2026, construction measurements, carpentry tools, engineering calculations, DIY projects, precise measurements">
-<link rel="canonical" href="https://www.thiyagi.com/meters-to-inches">
 
 <!-- Open Graph Meta Tags -->
 <meta property="og:title" content="Meters to Inches Converter 2026 | meters to inches | Free Length Tool">
@@ -21,7 +20,6 @@
 <!-- Additional SEO Meta Tags -->
 <meta name="author" content="Thiyagi">
 <meta name="theme-color" content="#10b981">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
 <meta name="language" content="EN">
 <meta name="revisit-after" content="7 days">
 <meta name="distribution" content="global">

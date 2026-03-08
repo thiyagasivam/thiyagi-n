@@ -2,7 +2,6 @@
 <title>Kilogram to Gram Converter 2026 | KG to G | Free Tool</title>
 <meta name="description" content="Convert kilogram to gram instantly with our 2026 accurate converter. Perfect kg to g conversion with real-time calculations for cooking and nutrition.">
 <meta name="keywords" content="kilogram to gram 2026, kg gram converter, weight unit conversion 2026, cooking weight calculator, kg g conversion">
-<link rel="canonical" href="https://www.thiyagi.com/kg-to-gram">
 
 <!-- Open Graph Meta Tags -->
 <meta property="og:title" content="Kilogram to Gram Converter 2026 | KG to G | Free Tool">

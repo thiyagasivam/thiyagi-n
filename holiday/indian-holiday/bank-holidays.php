@@ -1,7 +1,4 @@
 <?php include '../../header.php'; ?>
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Bank Holidays in India 2026 | RBI Calendar | NEFT/RTGS Holidays</title>
     <meta name="description" content="Complete list of Bank Holidays in India 2026. Find RBI calendar, NEFT/RTGS holidays, national holidays, and state-specific bank closures. Plan your finances accordingly.">
     <meta name="keywords" content="Bank Holidays India 2026, RBI holidays 2026, NEFT holidays 2026, RTGS holidays 2026, banking holidays India, financial calendar 2026, bank closure dates 2026">
@@ -14,7 +11,6 @@
     <meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:title" content="Bank Holidays in India 2026">
     <meta name="twitter:description" content="Complete list of Bank Holidays in India 2026 including RBI calendar, NEFT/RTGS holidays, and state-specific closures.">
-    <link rel="canonical" href="<?php echo 'https://' . $_SERVER['HTTP_HOST'] . $_SERVER['REQUEST_URI']; ?>">
     <meta name="language" content="English">
     <meta name="geo.region" content="IN">
     <meta name="geo.placename" content="India">
@@ -79,8 +75,6 @@
         "dateModified": "<?php echo date('Y-m-d'); ?>"
     }
     </script>
-    <script src="https://cdn.tailwindcss.com"></script>
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/remixicon/3.5.0/remixicon.css">
     <script>
         tailwind.config = {
@@ -113,7 +107,6 @@
             background-color: #f5f5f5;
         }
     </style>
-</head>
 <body class="bg-gradient-to-br from-blue-50 to-indigo-100 min-h-screen">
     <?php
     // Bank Holidays in India 2026 Data

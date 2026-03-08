@@ -1,5 +1,4 @@
 <?php include 'header.php';?>
-<link rel="canonical" href="https://www.thiyagi.com/semester-grade-calculator">
 <?php
 $gradeScales = [
     '4.0' => [
@@ -15,11 +14,6 @@ $gradeScales = [
     ]
 ];
 ?>
-<!DOCTYPE html>
-<html lang="en">
-<head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>Semester Grade Calculator – Calculate GPA Instantly | Free Online Tool 2026</title>
 <meta name="description" content="Free semester GPA calculator to calculate your grade point average based on credits and grades. Add unlimited courses, get instant GPA results with our easy-to-use tool.">
 <meta name="keywords" content="semester grade calculator, GPA calculator, semester GPA calculator, college grade calculator, calculate GPA online, CGPA calculator, grade point average calculator 2026">
@@ -41,7 +35,6 @@ $gradeScales = [
     .course-row{animation:fadeIn .25s ease}
     select.grade-select{-webkit-appearance:none;appearance:none;background-image:url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='12' height='12' viewBox='0 0 12 12'%3E%3Cpath d='M6 8L1 3h10z' fill='%236b7280'/%3E%3C/svg%3E");background-repeat:no-repeat;background-position:right 12px center;padding-right:32px}
 </style>
-</head>
 <body class="bg-gray-50 min-h-screen">
 
 <!-- Toast -->

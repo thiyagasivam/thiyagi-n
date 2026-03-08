@@ -2,7 +2,6 @@
 <title>Millimeter to Inch Converter 2026 | MM to Inch | Free Tool</title>
 <meta name="description" content="Convert millimeter to inch instantly with our 2026 accurate converter. Perfect mm to inch conversion with real-time calculations for precision measurements.">
 <meta name="keywords" content="millimeter to inch 2026, mm inch converter, metric imperial conversion 2026, precision measurement calculator, mm inch conversion">
-<link rel="canonical" href="https://www.thiyagi.com/mm-to-inch">
 
 <!-- Open Graph Meta Tags -->
 <meta property="og:title" content="Millimeter to Inch Converter 2026 | MM to Inch | Free Tool">

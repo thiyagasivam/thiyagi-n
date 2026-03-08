@@ -1,11 +1,6 @@
 <?php
 header('Content-Type: text/html; charset=UTF-8');
 ?>
-<!DOCTYPE html>
-<html lang="ta">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Tamil Character Test</title>
     <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+Tamil:wght@300;400;500;600;700&display=swap" rel="stylesheet">
     <style>
@@ -21,8 +16,6 @@ header('Content-Type: text/html; charset=UTF-8');
             border-radius: 8px;
         }
     </style>
-</head>
-<body>
     <h1>Tamil Character Encoding Test</h1>
     
     <div class="test-section">

@@ -2,7 +2,6 @@
 <title>Pixel to Inch Converter 2026 | PX to Inch Calculator | Free Tool</title>
 <meta name="description" content="Professional pixel to inch converter 2026. Convert pixels to inches instantly with precision calculations. Perfect for web design, print media, and DPI calculations.">
 <meta name="keywords" content="pixel to inch converter 2026, px to inch calculator, DPI converter, web design converter, print media conversion">
-<link rel="canonical" href="https://www.thiyagi.com/pixel-x-to-inch">
 
 <!-- Open Graph Meta Tags -->
 <meta property="og:title" content="Pixel to Inch Converter 2026 | PX to Inch Calculator | Free Tool">

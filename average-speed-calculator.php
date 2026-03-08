@@ -1,5 +1,4 @@
 <?php include 'header.php';?>
-<link rel="canonical" href="https://www.thiyagi.com/average-speed-calculator">
 
 <?php
 // Initialize variables
@@ -44,15 +43,8 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
 }
 ?>
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Free Average Speed Calculator 2026 - Find MPH/KPH Instantly</title>
     <meta name="description" content="Calculate average speed (2026) for trips, workouts & more! Free online tool computes MPH/KPH from distance & time. No sign-up - get results in seconds!">
-    <!-- Add Tailwind CSS CDN -->
-    <script src="https://cdn.tailwindcss.com"></script>
     <style>
         .calculator-container {
             max-width: 600px;
@@ -92,7 +84,6 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
         }
     </style>
 
-</head>
 <body class="bg-gray-50">
     <div class="calculator-container">
         <h1 class="text-center text-blue-600 mb-5 text-3xl sm:text-2xl">Average Speed Calculator</h1>

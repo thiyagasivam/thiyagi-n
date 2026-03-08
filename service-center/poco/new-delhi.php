@@ -1,15 +1,8 @@
 ﻿<?php include '../../header.php'; ?>
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="Find Poco Service Centers in New Delhi for 2026. Get authorized service for Poco devices with updated addresses and contact details.">
     <meta name="keywords" content="Poco Service Center, New Delhi, Poco Authorized Service, Poco Repairs">
     <meta name="author" content="thiyagi.com">
-    <link rel="canonical" href="https://www.thiyagi.com/service-center/poco/new-delhi">
 <title>Poco Service Center in New Delhi 2026 | thiyagi.com</title>
-    <script src="https://cdn.tailwindcss.com"></script>
     <script src="https://kit.fontawesome.com/a076d05399.js" crossorigin="anonymous"></script>
         <meta property="og:title" content="Poco Service Center in New Delhi 2026 | thiyagi.com">
     <meta property="og:description" content="Find Poco Service Centers in New Delhi for 2026. Get authorized service for Poco devices with updated addresses and contact details.">
@@ -20,7 +13,6 @@
     <meta name="twitter:title" content="Poco Service Center in New Delhi 2026 | thiyagi.com">
     <meta name="twitter:description" content="Find Poco Service Centers in New Delhi for 2026. Get authorized service for Poco devices with updated addresses and contact details.">
     <meta name="twitter:image" content="https://www.thiyagi.com/nt.png">
-</head>
 <body class="bg-gray-100 text-gray-800">
     <header class="bg-blue-600 text-white py-4">
         <div class="container mx-auto px-4">

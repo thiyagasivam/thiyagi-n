@@ -2,7 +2,6 @@
 <title>Hectare to Acre Converter 2026 | Hectare to Acre | Free Tool</title>
 <meta name="description" content="Convert hectare to acre instantly with our 2026 accurate converter. Perfect hectare to acre conversion with real-time calculations for land measurement.">
 <meta name="keywords" content="hectare to acre 2026, hectare acre converter, land conversion 2026, hectare acre calculation, metric to imperial land">
-<link rel="canonical" href="https://www.thiyagi.com/hectare-to-acre">
 
 <!-- Open Graph Meta Tags -->
 <meta property="og:title" content="Hectare to Acre Converter 2026 | Hectare to Acre | Free Tool">

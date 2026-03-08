@@ -2,7 +2,6 @@
 <title>Fahrenheit to Kelvin Converter 2026 | Convert fahrenheit to kelvin | Free Tool</title>
 <meta name="description" content="Convert fahrenheit to kelvin instantly with our 2026 accurate temperature converter. Perfect °F to K conversion with real-time calculations for scientific and academic use.">
 <meta name="keywords" content="fahrenheit to kelvin 2026, temperature converter, scientific conversion 2026, °F to K calculator, academic temperature tool">
-<link rel="canonical" href="https://www.thiyagi.com/fahrenheit-to-kelvin">
 
 <!-- Open Graph Meta Tags -->
 <meta property="og:title" content="Fahrenheit to Kelvin Converter 2026 | Convert fahrenheit to kelvin | Free Tool">

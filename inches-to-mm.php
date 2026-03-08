@@ -2,7 +2,6 @@
 <title>Inches to Millimeter Converter 2026 | Inches to MM | Free Tool</title>
 <meta name="description" content="Convert inches to millimeter instantly with our 2026 accurate converter. Perfect inches to mm conversion with real-time calculations for precision measurement.">
 <meta name="keywords" content="inches to millimeter 2026, inches mm converter, imperial to metric 2026, precision measurement calculator, engineering conversion">
-<link rel="canonical" href="https://www.thiyagi.com/inches-to-mm">
 
 <!-- Open Graph Meta Tags -->
 <meta property="og:title" content="Inches to Millimeter Converter 2026 | Inches to MM | Free Tool">

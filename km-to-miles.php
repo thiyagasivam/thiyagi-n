@@ -2,7 +2,6 @@
 <title>Kilometers to Miles Converter 2026 | km to miles | Free Distance Tool</title>
 <meta name="description" content="Convert kilometers to miles instantly with our 2026 accurate converter. Perfect km to miles conversion with real-time calculations for travel and navigation.">
 <meta name="keywords" content="kilometers to miles converter 2026, km to miles converter, kilometers miles conversion, distance converter 2026, travel calculator, navigation tools, metric to imperial conversion, miles calculator online, road trip converter, automotive distance">
-<link rel="canonical" href="https://www.thiyagi.com/km-to-miles">
 
 <!-- Open Graph Meta Tags -->
 <meta property="og:title" content="Kilometers to Miles Converter 2026 | km to miles | Free Distance Tool">
@@ -21,7 +20,6 @@
 <!-- Additional SEO Meta Tags -->
 <meta name="author" content="Thiyagi">
 <meta name="theme-color" content="#2563eb">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
 <meta name="language" content="EN">
 <meta name="revisit-after" content="7 days">
 <meta name="distribution" content="global">

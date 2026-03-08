@@ -1,19 +1,9 @@
 <?php include 'header.php';?>
-<link rel="canonical" href="https://www.thiyagi.com/cubic-inches-to-gallons">
 
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Cubic Inches to Gallons Converter 2026 - Free Online Calculator</title>
     <meta name="description" content="Convert cubic inches to gallons with our free 2026 online calculator. Instant conversion between cubic inches and gallons with accurate results.">
     <meta name="keywords" content="cubic inches to gallons converter 2026, volume converter, cubic inches conversion, gallons calculator 2026">
-    <script src="https://cdn.tailwindcss.com"></script>
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
-</head>
-<body>
 
 <div class="min-h-screen bg-gradient-to-br from-blue-50 to-indigo-100 py-8">
     <div class="max-w-4xl mx-auto px-4">

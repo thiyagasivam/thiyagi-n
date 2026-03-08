@@ -1,8 +1,5 @@
 <?php include 'header.php'; ?>
 
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Dog Lap Day Calculator 2026 - National Dog Day Fun Calculator | Thiyagi.com</title>
     <meta name="description" content="Dog lap day calculator 2026 - calculate your dog's lap day frequency based on size, breed, and personality. Fun National Dog Day calculator with cute dog statistics.">
     <meta name="keywords" content="dog lap day calculator 2026, national dog day calculator, dog size calculator, dog breed calculator, pet lap time">
@@ -22,11 +19,8 @@
     <meta name="twitter:image" content="https://www.thiyagi.com/nt.png">
     
     <!-- Canonical URL -->
-    <link rel="canonical" href="https://www.thiyagi.com/dog-lap-day-calculator">
     
     <!-- Tailwind CSS -->
-    <script src="https://cdn.tailwindcss.com"></script>
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
 
 <style>
     .gradient-bg {
@@ -94,7 +88,6 @@
 }
 </script>
 
-</head>
 <body class="bg-gray-50">
     <!-- Header -->
     <header class="gradient-bg shadow-lg">

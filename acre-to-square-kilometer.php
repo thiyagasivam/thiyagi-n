@@ -1,7 +1,6 @@
 ﻿<?php include 'header.php'; ?>
 
 <!-- SEO Meta Tags -->
-<link rel="canonical" href="https://www.thiyagi.com/acre-to-square-kilometer">
 <title>Acre to Square Kilometer Converter 2026 - ac to km² Calculator | Thiyagi</title>
 <meta name="description" content="Free online Acre to Square Kilometer converter 2026. Convert ac to km² and km² to ac instantly with accurate land area conversion for real estate.">
 <meta name="keywords" content="acre to square kilometer converter 2026, ac to km2, land area converter, real estate conversion, agricultural land, property measurement">

@@ -2,7 +2,6 @@
 <title>Acre to Square Feet Converter 2026 | Acre to Sqft | Free Tool</title>
 <meta name="description" content="Convert acre to square feet instantly with our 2026 accurate converter. Perfect acre to sqft conversion with real-time calculations for real estate and property.">
 <meta name="keywords" content="acre to square feet 2026, acre to sqft converter, acre sqft conversion, area conversion 2026, real estate measurement, property calculator">
-<link rel="canonical" href="https://www.thiyagi.com/acre-to-sqft">
 
 <!-- Open Graph Meta Tags -->
 <meta property="og:title" content="Acre to Square Feet Converter 2026 | Acre to Sqft | Free Tool">

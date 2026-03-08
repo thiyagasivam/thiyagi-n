@@ -1,7 +1,6 @@
 ﻿<?php include 'header.php'; ?>
 
 <!-- SEO Meta Tags -->
-<link rel="canonical" href="https://www.thiyagi.com/teaspoon-us-to-cup-us">
 <title>Teaspoon US to Cup US Converter 2026 - tsp to cup | Thiyagi</title>
 <meta name="description" content="Free online teaspoon US to cup US converter 2026. Convert tsp to cup instantly with accurate formula: cup = tsp ÷ 48.">
 <meta name="keywords" content="teaspoon to cup 2026, tsp to cup converter, US cooking measurements, recipe converter, kitchen calculator">

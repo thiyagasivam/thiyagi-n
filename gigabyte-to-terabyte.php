@@ -2,7 +2,6 @@
 <title>Gigabyte to Terabyte Converter 2026 | Convert GB to TB | Free Tool</title>
 <meta name="description" content="Convert gigabyte to terabyte instantly with our 2026 accurate data converter. Perfect GB to TB conversion with real-time calculations for digital storage needs.">
 <meta name="keywords" content="gigabyte to terabyte 2026, data converter, storage conversion 2026, GB to TB calculator, digital storage tool">
-<link rel="canonical" href="https://www.thiyagi.com/gigabyte-to-terabyte">
 
 <!-- Open Graph Meta Tags -->
 <meta property="og:title" content="Gigabyte to Terabyte Converter 2026 | Convert GB to TB | Free Tool">

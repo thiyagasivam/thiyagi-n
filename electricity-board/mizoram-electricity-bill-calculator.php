@@ -48,11 +48,6 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
 }
 ?>
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     
     <!-- Primary Meta Tags -->
     <title>Mizoram Electricity Bill Calculator 2026 - Calculate Your MSEB Bill Online</title>
@@ -87,7 +82,6 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
     <meta name="apple-mobile-web-app-title" content="Mizoram Electricity Calculator">
     
     <!-- Canonical URL -->
-    <link rel="canonical" href="https://www.thiyagi.com/electricity-board/mizoram-electricity-bill-calculator">
     
     <!-- Preconnect for performance -->
     <link rel="preconnect" href="https://unpkg.com">
@@ -129,7 +123,6 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
     </script>
     
     <script src="https://unpkg.com/lucide@latest"></script>
-    <script src="https://cdn.tailwindcss.com"></script>
     <script>
         // Tariff rates (must match PHP)
         const tariffSlabs = [
@@ -272,7 +265,6 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
 <script type="application/ld+json">
 <?php echo json_encode($breadcrumbSchema, JSON_UNESCAPED_SLASHES | JSON_PRETTY_PRINT); ?>
 </script>
-</head>
 <body class="bg-gray-50 min-h-screen">
     <div class="container mx-auto px-4 py-8">
         <div class="max-w-md mx-auto bg-white rounded-lg shadow-md overflow-hidden">

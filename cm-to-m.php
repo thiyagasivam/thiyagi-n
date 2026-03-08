@@ -6,7 +6,6 @@ $pageDescription = "Convert centimeters (cm) to meters (m) instantly with our fr
 <?php include 'header.php'; ?>
 
 <!-- Page-specific meta tags -->
-<link rel="canonical" href="https://www.thiyagi.com/cm-to-m">
 <title><?php echo htmlspecialchars($pageTitle); ?></title>
 <meta name="description" content="<?php echo htmlspecialchars($pageDescription); ?>">
 <meta name="keywords" content="centimeters to meters, cm to m converter, length converter, distance calculator, metric conversion">

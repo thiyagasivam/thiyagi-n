@@ -1,7 +1,6 @@
 ﻿<?php include 'header.php'; ?>
 
 <!-- SEO Meta Tags -->
-<link rel="canonical" href="https://www.thiyagi.com/milliliter-to-cubic-meter">
 <title>Milliliter to Cubic Meter Converter 2026 - mL to m³ Calculator | Thiyagi</title>
 <meta name="description" content="Free online Milliliter to Cubic Meter converter 2026. Convert mL to m³ and m³ to mL instantly with accurate volume conversion for engineering and science.">
 <meta name="keywords" content="milliliter to cubic meter converter 2026, mL to m³, volume converter, metric volume, engineering calculations, scientific measurements">

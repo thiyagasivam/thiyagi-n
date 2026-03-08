@@ -53,21 +53,13 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST' && $units > 0) {
     }
 }
 ?>
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="Calculate your Meghalaya (MePDCL) electricity bill for 2026 using the latest domestic tariff rates. Mobile-friendly, accurate, and easy-to-use calculator.">
     <meta name="keywords" content="Meghalaya electricity bill, MePDCL calculator, 2026 tariff, power bill calculator, electricity cost calculator">
     <meta name="author" content="Meghalaya Power Distribution Corporation Ltd">
     <meta property="og:title" content="Meghalaya Electricity Bill Calculator 2026 | MePDCL">
     <meta property="og:description" content="Calculate your MePDCL electricity bill with the latest 2026 tariff rates.">
     <meta property="og:type" content="website">
-    <link rel="canonical" href="https://www.thiyagi.com/electricity-board/meghalaya-electricity-bill-calculator">
 <title>Meghalaya Electricity Bill Calculator 2026 | MePDCL</title>
-    <script src="https://cdn.tailwindcss.com"></script>
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
     <style>
         @media print {
             .no-print {
@@ -92,7 +84,6 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST' && $units > 0) {
 <script type="application/ld+json">
 <?php echo json_encode($breadcrumbSchema, JSON_UNESCAPED_SLASHES | JSON_PRETTY_PRINT); ?>
 </script>
-</head>
 <body class="bg-gray-50 text-gray-800 font-sans">
     <div class="container mx-auto px-4 py-8 max-w-3xl">
         <header class="mb-8 text-center">

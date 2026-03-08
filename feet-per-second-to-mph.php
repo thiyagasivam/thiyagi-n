@@ -1,19 +1,9 @@
 <?php include 'header.php';?>
-<link rel="canonical" href="https://www.thiyagi.com/feet-per-second-to-mph">
 
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Feet per Second to MPH Converter 2026 - Speed Conversion Calculator</title>
     <meta name="description" content="Convert feet per second (ft/s) to miles per hour (mph) with our free 2026 online calculator. Accurate speed conversion for physics and engineering.">
     <meta name="keywords" content="feet per second to mph converter 2026, ft/s to mph, speed converter, velocity calculator 2026">
-    <script src="https://cdn.tailwindcss.com"></script>
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
-</head>
-<body>
 
 <div class="min-h-screen bg-gradient-to-br from-indigo-50 to-purple-100 py-8">
     <div class="max-w-4xl mx-auto px-4">

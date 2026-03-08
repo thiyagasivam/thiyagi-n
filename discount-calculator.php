@@ -1,7 +1,6 @@
 <?php include 'header.php'; ?>
 
 <!-- Advanced Discount Calculator Meta Tags -->
-<head>
     <!-- Primary Meta Tags -->
     <title>Free Advanced Discount Calculator 2026 - Calculate Savings & Sale Prices Instantly</title>
     <meta name="title" content="Free Advanced Discount Calculator 2026 - Calculate Savings & Sale Prices Instantly">
@@ -75,7 +74,6 @@
     </script>
     
     <!-- Canonical URL -->
-    <link rel="canonical" href="https://thiyagi.com/discount-calculator.php">
     
     <!-- Alternate Languages (if applicable) -->
     <link rel="alternate" hreflang="en" href="https://thiyagi.com/discount-calculator.php">
@@ -146,7 +144,6 @@
         }
     }
     </script>
-</head>
 
 <?php
 /**

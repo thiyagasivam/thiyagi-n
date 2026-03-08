@@ -94,16 +94,10 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
 }
 ?>
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>YouTube Embed Code Generator 2026 - Free Online Embed Builder</title>
     <meta name="description" content="Create YouTube embed codes instantly. Supports watch, shorts, and youtu.be links with optional start time. Copy the iframe code and preview it right away.">
     <meta name="keywords" content="YouTube embed code, iframe generator, embed YouTube, YouTube shorts embed, YouTube start time, nocookie embed, video iframe">
         <meta name="author" content="Thiyagi">
-    <link rel="canonical" href="https://<?php echo $_SERVER['HTTP_HOST'] . strtok($_SERVER['REQUEST_URI'], '?'); ?>">
 
     <!-- Open Graph -->
     <meta property="og:type" content="website">
@@ -132,10 +126,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
     }
     </script>
 
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css" integrity="sha512-" crossorigin="anonymous" referrerpolicy="no-referrer" />
-    <script src="https://cdn.tailwindcss.com"></script>
 
-</head>
 <body class="bg-gray-50">
     <!-- Breadcrumb -->
     <nav class="bg-white shadow-sm border-b">

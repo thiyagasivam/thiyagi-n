@@ -1,19 +1,9 @@
 <?php include 'header.php';?>
-<link rel="canonical" href="https://www.thiyagi.com/kilonewton-to-pound-force">
 
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Kilonewton to Pound-force Converter 2026 - Force Conversion Calculator</title>
     <meta name="description" content="Convert kilonewtons (kN) to pound-force (lbf) with our free 2026 online calculator. Accurate force conversion for engineering calculations.">
     <meta name="keywords" content="kilonewton to pound-force converter 2026, kN to lbf, force converter, engineering calculator 2026">
-    <script src="https://cdn.tailwindcss.com"></script>
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
-</head>
-<body>
 
 <div class="min-h-screen bg-gradient-to-br from-slate-50 to-gray-100 py-8">
     <div class="max-w-4xl mx-auto px-4">

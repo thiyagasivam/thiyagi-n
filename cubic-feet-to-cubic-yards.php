@@ -2,7 +2,6 @@
 <title>Cubic Feet to Cubic Yards Converter 2026 | Professional Volume Calculator | Free Tool</title>
 <meta name="description" content="Professional cubic feet to cubic yards converter 2026. Convert cubic feet to cubic yards instantly with precision calculations. Perfect for construction and volume measurements.">
 <meta name="keywords" content="cubic feet to cubic yards converter 2026, ft3 to yd3 calculator, volume converter, construction tools, concrete calculator">
-<link rel="canonical" href="https://www.thiyagi.com/cubic-feet-to-cubic-yards">
 
 <!-- Open Graph Meta Tags -->
 <meta property="og:title" content="Cubic Feet to Cubic Yards Converter 2026 | Professional Volume Calculator | Free Tool">

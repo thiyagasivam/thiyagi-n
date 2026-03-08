@@ -2,7 +2,6 @@
 <title>SqFt to Hectare Converter 2026 | Square Feet to Hectare | Free Tool</title>
 <meta name="description" content="Convert square feet to hectare instantly with our 2026 accurate converter. Perfect sqft to hectare conversion with real-time calculations for land measurement.">
 <meta name="keywords" content="sqft to hectare 2026, square feet hectare converter, land conversion 2026, sqft hectare calculation, area measurement">
-<link rel="canonical" href="https://www.thiyagi.com/sqft-to-hectare">
 
 <!-- Open Graph Meta Tags -->
 <meta property="og:title" content="SqFt to Hectare Converter 2026 | Square Feet to Hectare | Free Tool">

@@ -6,7 +6,6 @@ include '../../header.php';
 ?>
 
 <!-- Page specific meta tags -->
-<link rel="canonical" href="https://www.thiyagi.com/holiday/usa-holiday/california-holidays">
 <title>California Holidays 2026 | Complete Calendar | State & Federal Holidays | Festivals</title>
 <meta name="description" content="Complete California Holiday Calendar 2026. Find all state holidays, federal holidays, cultural events, and observances. Plan your year with our comprehensive holiday guide.">
 <meta name="keywords" content="California holidays 2026, California state holidays, US federal holidays, California festivals, California calendar, holidays California, festival dates 2026">

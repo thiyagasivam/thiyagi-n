@@ -1,8 +1,5 @@
 <?php include 'header.php'; ?>
 
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Invisalign Cost Calculator 2026 - Estimate Treatment Costs | Thiyagi.com</title>
     <meta name="description" content="Invisalign cost calculator 2026 - estimate orthodontic treatment costs based on complexity, duration, location, and insurance coverage for accurate pricing.">
     <meta name="keywords" content="invisalign calculator 2026, orthodontic cost calculator, braces cost estimator, dental treatment calculator, clear aligners cost">
@@ -22,11 +19,8 @@
     <meta name="twitter:image" content="https://www.thiyagi.com/nt.png">
     
     <!-- Canonical URL -->
-    <link rel="canonical" href="https://www.thiyagi.com/invisalign-cost-calculator">
     
     <!-- Tailwind CSS -->
-    <script src="https://cdn.tailwindcss.com"></script>
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
 
 <style>
     .gradient-bg {
@@ -93,7 +87,6 @@
 }
 </script>
 
-</head>
 <body class="bg-gray-50">
     <!-- Header -->
     <header class="gradient-bg shadow-lg">

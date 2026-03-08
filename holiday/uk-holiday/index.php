@@ -3,7 +3,6 @@
 <title>UK Holidays 2026 | Complete Calendar | All Regions | Bank Holidays</title>
 <meta name="description" content="Complete UK Holiday Calendar 2026 for all regions. Find bank holidays, cultural events, and observances for England, Scotland, Wales, Northern Ireland, and Crown Dependencies.">
 <meta name="keywords" content="UK holidays 2026, British holidays, bank holidays UK, England holidays, Scotland holidays, Wales holidays, Northern Ireland holidays">
-<link rel="canonical" href="https://<?= $_SERVER['HTTP_HOST'] . strtok($_SERVER['REQUEST_URI'], '?') ?>">
 
 <style>
 :root {

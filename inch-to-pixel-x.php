@@ -2,7 +2,6 @@
 <title>Inch to Pixel Converter 2026 | Inch to PX Calculator | Free Tool</title>
 <meta name="description" content="Professional inch to pixel converter 2026. Convert inches to pixels instantly with adjustable DPI. Perfect for web design, print media, and digital graphics.">
 <meta name="keywords" content="inch to pixel converter 2026, inch to px calculator, DPI converter, web design converter, digital graphics conversion">
-<link rel="canonical" href="https://www.thiyagi.com/inch-to-pixel-x">
 
 <!-- Open Graph Meta Tags -->
 <meta property="og:title" content="Inch to Pixel Converter 2026 | Inch to PX Calculator | Free Tool">

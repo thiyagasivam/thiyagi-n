@@ -1,7 +1,4 @@
 <?php include '../../header.php'; ?>
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>BSE Holidays 2026 | Bombay Stock Exchange Calendar | Trading Holidays</title>
     <meta name="description" content="Complete BSE Holiday List 2026. Find all Bombay Stock Exchange trading holidays, clearing holidays, and special trading sessions like Muhurat Trading.">
     <meta name="keywords" content="BSE holidays 2026, Bombay Stock Exchange holidays, stock market holidays India, BSE calendar, trading holidays, Muhurat Trading 2026, BSE trading hours">
@@ -14,7 +11,6 @@
     <meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:title" content="BSE Holidays 2026">
     <meta name="twitter:description" content="Complete BSE Holiday Calendar 2026 with all trading holidays and special sessions.">
-    <link rel="canonical" href="<?php echo 'https://' . $_SERVER['HTTP_HOST'] . $_SERVER['REQUEST_URI']; ?>">
     <meta name="language" content="English">
     <meta name="geo.region" content="IN-MH">
     <meta name="geo.placename" content="Mumbai, India">
@@ -79,8 +75,6 @@
         "dateModified": "<?php echo date('Y-m-d'); ?>"
     }
     </script>
-    <script src="https://cdn.tailwindcss.com"></script>
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
     <script>
         tailwind.config = {
             theme: {
@@ -94,7 +88,6 @@
             }
         }
     </script>
-</head>
 <body class="bg-gradient-to-br from-blue-50 to-indigo-100 min-h-screen">
     <?php
     // BSE Holidays 2026 Data (Placeholder - Update with actual dates when available)

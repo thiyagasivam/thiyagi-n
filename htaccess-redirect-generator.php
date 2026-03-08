@@ -1,5 +1,4 @@
 <?php include 'header.php';?>
-<link rel="canonical" href="https://www.thiyagi.com/htaccess-redirect-generator">
 
 
 <?php
@@ -27,16 +26,10 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
 }
 ?>
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Free .htaccess Redirect Generator 2026 - Create 301/302 Rules in Seconds</title>
 <meta name="description" content="Generate error-free Apache redirect code for 301 (permanent), 302 (temporary), and HTTPS forced rules (2026). No server skills required - copy-paste ready!">
     <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" rel="stylesheet">
 
-</head>
 <body class="bg-gray-100">
     <div class="container mx-auto p-4">
         <h1 class="text-3xl font-bold text-center mb-6">.htaccess Redirect Generator</h1>

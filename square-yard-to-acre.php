@@ -2,7 +2,6 @@
 <title>Square Yard to Acre Converter 2026 | Sq Yard to Acre | Free Tool</title>
 <meta name="description" content="Convert square yard to acre instantly with our 2026 accurate converter. Perfect sq yard to acre conversion with real-time calculations for land measurement.">
 <meta name="keywords" content="square yard to acre 2026, sq yard acre converter, land conversion 2026, property measurement calculator, real estate conversion">
-<link rel="canonical" href="https://www.thiyagi.com/square-yard-to-acre">
 
 <!-- Open Graph Meta Tags -->
 <meta property="og:title" content="Square Yard to Acre Converter 2026 | Sq Yard to Acre | Free Tool">

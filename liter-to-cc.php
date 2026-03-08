@@ -1,7 +1,6 @@
 ﻿<?php include 'header.php'; ?>
 
 <!-- SEO Meta Tags -->
-<link rel="canonical" href="https://www.thiyagi.com/liter-to-cc">
 <title>Liter to CC Converter 2026 - L to cm³ Calculator | Thiyagi</title>
 <meta name="description" content="Free online Liter to CC converter 2026. Convert L to cc and cc to L instantly with accurate volume conversion for automotive and chemistry needs.">
 <meta name="keywords" content="liter to cc converter 2026, L to cc, volume converter, cubic centimeter, engine displacement, chemistry">

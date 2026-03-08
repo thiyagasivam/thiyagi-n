@@ -1,7 +1,6 @@
 ﻿<?php include 'header.php'; ?>
 
 <!-- SEO Meta Tags -->
-<link rel="canonical" href="https://www.thiyagi.com/mbh-to-btu-it-hour">
 <title>MBH to BTU/Hour Converter 2026 - Energy Calculator | Thiyagi</title>
 <meta name="description" content="Free online MBH to BTU/hour converter 2026. Convert MBH to BTU/h instantly with accurate energy conversion for HVAC and heating calculations.">
 <meta name="keywords" content="MBH to BTU hour converter 2026, MBH to BTU/h, energy converter, HVAC calculator, heating calculator">

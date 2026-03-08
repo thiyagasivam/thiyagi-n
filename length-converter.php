@@ -1,15 +1,6 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Length Converter - Universal Length Unit Conversion Calculator</title>
     <meta name="description" content="Convert between all length units including meters, feet, inches, centimeters, kilometers, miles, yards, and more with our comprehensive length converter.">
     <meta name="keywords" content="length converter, unit converter, meters to feet, inches to cm, distance converter">
-    <script src="https://cdn.tailwindcss.com"></script>
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
-</head>
-<body>
 
 <div class="min-h-screen bg-gradient-to-br from-indigo-50 to-purple-100 py-8">
     <div class="max-w-6xl mx-auto px-4">

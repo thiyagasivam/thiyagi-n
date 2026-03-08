@@ -2,7 +2,6 @@
 <title>Bigha to SqFt Converter 2026 | Bigha to Square Feet | Free Tool</title>
 <meta name="description" content="Convert bigha to square feet instantly with our 2026 accurate converter. Perfect bigha to sqft conversion with real-time calculations for Indian land measurement.">
 <meta name="keywords" content="bigha to sqft 2026, bigha square feet converter, Indian land conversion 2026, bigha sqft calculation, traditional to imperial land">
-<link rel="canonical" href="https://www.thiyagi.com/bigha-to-sqft">
 
 <!-- Open Graph Meta Tags -->
 <meta property="og:title" content="Bigha to SqFt Converter 2026 | Bigha to Square Feet | Free Tool">

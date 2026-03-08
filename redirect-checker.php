@@ -1,5 +1,4 @@
 <?php include 'header.php';?>
-<link rel="canonical" href="https://www.thiyagi.com/redirect-checker">
 
 
 <?php
@@ -302,11 +301,6 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
     }
 }
 ?>
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Redirect Checker Tool (2026) - Free URL Redirection Tester</title>
 <meta name="description" content="Check HTTP redirects, status codes, and URL chains in real-time. Free online tool to analyze 301, 302 redirects with full path visualization - no installation needed.">
     <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" rel="stylesheet">
@@ -334,7 +328,6 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
         }
     </style>
 
-</head>
 <body class="min-h-screen bg-gradient-to-br from-blue-50 via-white to-purple-50">
     <div class="container mx-auto px-4 py-8">
         <div class="max-w-6xl mx-auto">

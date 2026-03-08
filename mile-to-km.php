@@ -2,7 +2,6 @@
 <title>Mile to Kilometer Converter 2026 | Mile to KM | Free Tool</title>
 <meta name="description" content="Convert mile to kilometer instantly with our 2026 accurate converter. Perfect mile to km conversion with real-time calculations for travel and distance.">
 <meta name="keywords" content="mile to kilometer 2026, mile km converter, imperial metric distance conversion 2026, travel measurement calculator, distance conversion">
-<link rel="canonical" href="https://www.thiyagi.com/mile-to-km">
 
 <!-- Open Graph Meta Tags -->
 <meta property="og:title" content="Mile to Kilometer Converter 2026 | Mile to KM | Free Tool">

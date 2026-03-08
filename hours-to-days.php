@@ -1,7 +1,6 @@
 ﻿<?php include 'header.php'; ?>
 
 <!-- SEO Meta Tags -->
-<link rel="canonical" href="https://www.thiyagi.com/hours-to-days">
 <title>Hours to Days Converter 2026 - Time Calculator | Thiyagi</title>
 <meta name="description" content="Free online hours to days converter 2026. Convert h to d instantly with accurate time conversion for scheduling and planning calculations.">
 <meta name="keywords" content="hours to days converter 2026, h to d, time converter, duration calculator, scheduling calculator">

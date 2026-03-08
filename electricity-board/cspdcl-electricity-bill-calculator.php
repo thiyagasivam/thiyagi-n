@@ -45,12 +45,6 @@ if ($units > 0) {
     $total = $energy_charge + $fixed_charge - $subsidy_amount;
 }
 ?>
-<!DOCTYPE html>
-<html lang="en" class="scroll-smooth">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="canonical" href="https://www.thiyagi.com/electricity-board/cspdcl-electricity-bill-calculator">
 <title>CSPDCL Electricity Bill Calculator 2026 | Estimate Chhattisgarh Power Charges</title>
     <meta name="description" content="Accurately calculate your 2026 CSPDCL electricity bill based on slab rates in Chhattisgarh. Includes subsidy option, print, and share features.">
     <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" rel="stylesheet">
@@ -59,7 +53,6 @@ if ($units > 0) {
 <script type="application/ld+json">
 <?php echo json_encode($breadcrumbSchema, JSON_UNESCAPED_SLASHES | JSON_PRETTY_PRINT); ?>
 </script>
-</head>
 <body class="bg-gray-50 text-gray-800 font-sans">
     <header class="bg-green-600 text-white shadow-md">
         <div class="container mx-auto px-4 py-6">
@@ -275,7 +268,6 @@ if ($units > 0) {
     </main>
 
     
-
     <!-- Mobile CTA Button -->
     <?php if ($units > 0): ?>
     <div class="md:hidden fixed bottom-6 right-6 z-10">

@@ -1,7 +1,6 @@
 ﻿<?php include 'header.php'; ?>
 
 <!-- SEO Meta Tags -->
-<link rel="canonical" href="https://www.thiyagi.com/cubic-feet-to-gallon">
 <title>Cubic Feet to Gallon Converter 2026 - Volume Calculator | Thiyagi</title>
 <meta name="description" content="Free online cubic feet to gallon converter 2026. Convert cubic feet to gallons instantly with accurate volume conversion. Perfect for storage and tank calculations.">
 <meta name="keywords" content="cubic feet to gallon converter 2026, cubic feet to gallons, volume converter, storage calculator, tank capacity, water volume">

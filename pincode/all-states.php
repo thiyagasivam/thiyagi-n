@@ -53,11 +53,6 @@ $description = "Complete directory of pincodes for all 28 states and 8 union ter
 include '../header.php';
 ?>
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     
     <!-- Primary Meta Tags -->
     <title><?php echo htmlspecialchars($title); ?></title>
@@ -65,7 +60,6 @@ include '../header.php';
     <meta name="description" content="<?php echo htmlspecialchars($description); ?>">
     <meta name="keywords" content="India pincode directory, all states pincode, union territories postal code, state wise pincode, district wise postal code">
     <meta name="author" content="Thiyagi">
-        <link rel="canonical" href="https://www.thiyagi.com/pincode/all-states">
 
     <!-- Open Graph / Facebook -->
     <meta property="og:type" content="website">
@@ -82,8 +76,6 @@ include '../header.php';
     <meta property="twitter:image" content="https://www.thiyagi.com/nt.png">
 
     <!-- CSS Framework -->
-    <script src="https://cdn.tailwindcss.com"></script>
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
     
     <style>
         body {
@@ -91,7 +83,6 @@ include '../header.php';
             min-height: 100vh;
         }
     </style>
-</head>
 
 <body class="bg-gradient-to-br from-indigo-500 via-purple-500 to-pink-500 min-h-screen font-sans">
     <div class="max-w-7xl mx-auto p-4 sm:p-6 lg:p-8">

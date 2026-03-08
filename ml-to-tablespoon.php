@@ -2,7 +2,6 @@
 <title>ML to Tablespoon Converter 2026 | Convert milliliter to tablespoon | Free Tool</title>
 <meta name="description" content="Convert milliliter to tablespoon instantly with our 2026 accurate converter. Perfect ml to tbsp conversion with real-time calculations for cooking and baking measurement.">
 <meta name="keywords" content="ml to tablespoon 2026, milliliter tbsp converter, cooking conversion 2026, recipe measurement calculator, baking conversion tool">
-<link rel="canonical" href="https://www.thiyagi.com/ml-to-tablespoon">
 
 <!-- Open Graph Meta Tags -->
 <meta property="og:title" content="ML to Tablespoon Converter 2026 | Convert milliliter to tablespoon | Free Tool">

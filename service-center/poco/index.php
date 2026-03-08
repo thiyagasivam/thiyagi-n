@@ -65,16 +65,8 @@ $breadcrumbSchema = [
 <script type="application/ld+json">
 <?php echo json_encode($breadcrumbSchema, JSON_UNESCAPED_SLASHES | JSON_PRETTY_PRINT); ?>
 </script>
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="canonical" href="https://www.thiyagi.com/service-center/poco/index">
 <meta name="description" content="Find authorized Poco service centers across India. Get contact details, addresses, and phone numbers for genuine Poco repair and support services.">
 <title>Poco Authorized Service Centers Near Me 2026</title>
-    <script src="https://cdn.tailwindcss.com"></script>
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
     <style>
         .poco-gradient {
             background: linear-gradient(135deg, #f5f5f7 0%, #e1e1e6 100%);
@@ -93,7 +85,6 @@ $breadcrumbSchema = [
             background-color: #000000; /* Poco black */
         }
     </style>
-</head>
 <body class="bg-gray-50">
     <!-- Header -->
     <header class="bg-white shadow-sm">

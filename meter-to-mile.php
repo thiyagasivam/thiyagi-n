@@ -2,7 +2,6 @@
 <title>Meter to Mile Converter 2026 | M to Mile | Free Tool</title>
 <meta name="description" content="Convert meter to mile instantly with our 2026 accurate converter. Perfect m to mile conversion with real-time calculations for international athletics.">
 <meta name="keywords" content="meter to mile 2026, meter mile converter, metric imperial conversion 2026, athletics measurement calculator, distance conversion">
-<link rel="canonical" href="https://www.thiyagi.com/meter-to-mile">
 
 <!-- Open Graph Meta Tags -->
 <meta property="og:title" content="Meter to Mile Converter 2026 | M to Mile | Free Tool">

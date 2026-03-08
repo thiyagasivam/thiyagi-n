@@ -2,7 +2,6 @@
 <title>Square Feet to Square Inch Converter 2026 | Sq Feet to Sq Inch | Free Tool</title>
 <meta name="description" content="Convert square feet to square inch instantly with our 2026 accurate converter. Perfect sq feet to sq inch conversion with real-time calculations for area measurement.">
 <meta name="keywords" content="square feet to square inch 2026, sq feet sq inch converter, area conversion 2026, precision area measurement calculator, engineering conversion">
-<link rel="canonical" href="https://www.thiyagi.com/square-feet-to-square-inch">
 
 <!-- Open Graph Meta Tags -->
 <meta property="og:title" content="Square Feet to Square Inch Converter 2026 | Sq Feet to Sq Inch | Free Tool">

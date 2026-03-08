@@ -2,7 +2,6 @@
 <title>G to KG Converter 2026 | Grams to Kilograms Calculator | Free Tool</title>
 <meta name="description" content="Professional G to KG converter 2026. Convert grams to kilograms instantly with precision calculations. Perfect for cooking, nutrition, science, and professional use.">
 <meta name="keywords" content="g to kg converter 2026, grams to kilograms calculator, weight converter, cooking measurements, nutrition calculator, metric weight conversion, professional tool">
-<link rel="canonical" href="https://www.thiyagi.com/g-to-kg">
 
 <!-- Open Graph Meta Tags -->
 <meta property="og:title" content="G to KG Converter 2026 | Grams to Kilograms Calculator | Free Tool">

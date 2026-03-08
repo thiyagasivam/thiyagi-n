@@ -2,7 +2,6 @@
 <title>Marla to Square Meter Converter 2026 | Convert marla to sq m | Free Tool</title>
 <meta name="description" content="Convert marla to square meter instantly with our 2026 accurate converter. Perfect marla to sq m conversion with real-time calculations for Pakistani land measurement.">
 <meta name="keywords" content="marla to square meter 2026, marla sq m converter, Pakistani land measurement 2026, property area calculator, metric conversion tool Pakistan">
-<link rel="canonical" href="https://www.thiyagi.com/marla-to-square-meter">
 
 <!-- Open Graph Meta Tags -->
 <meta property="og:title" content="Marla to Square Meter Converter 2026 | Convert marla to sq m | Free Tool">

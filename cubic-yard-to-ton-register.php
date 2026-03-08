@@ -1,7 +1,6 @@
 ﻿<?php include 'header.php'; ?>
 
 <!-- SEO Meta Tags -->
-<link rel="canonical" href="https://www.thiyagi.com/cubic-yard-to-ton-register">
 <title>Cubic Yard to Ton Register Converter 2026 - Volume Calculator | Thiyagi</title>
 <meta name="description" content="Free online cubic yard to ton register converter 2026. Convert cu yd to ton reg instantly for shipping and cargo volume calculations.">
 <meta name="keywords" content="cubic yard to ton register converter 2026, cu yd to ton reg, volume converter, shipping calculator, cargo converter">

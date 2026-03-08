@@ -3,7 +3,6 @@
 <title>Michigan Holidays 2026 | Complete Calendar | State & Federal Holidays | Festivals</title>
 <meta name="description" content="Complete Michigan Holiday Calendar 2026. Find all state holidays, federal holidays, cultural events, and observances. Plan your year with our comprehensive holiday guide.">
 <meta name="keywords" content="Michigan holidays 2026, Michigan state holidays, US federal holidays, Michigan festivals, Michigan calendar, holidays Michigan, festival dates 2026">
-<link rel="canonical" href="https://<?= $_SERVER['HTTP_HOST'] . strtok($_SERVER['REQUEST_URI'], '?') ?>">
 
 <style>
 :root {

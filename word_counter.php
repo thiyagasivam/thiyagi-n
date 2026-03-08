@@ -104,15 +104,9 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
 }
 ?>
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Word Counter 2026 - Count Words, Characters & Text Analysis Tool</title>
     <meta name="description" content="Advanced word counter tool to count words, characters, sentences, paragraphs with reading time estimates. Professional text analysis for writers, students, and content creators in 2026.">
     <meta name="keywords" content="word counter, character counter, text analyzer, word count tool, writing tool 2026, sentence counter, paragraph counter, reading time calculator">
-    <link rel="canonical" href="https://www.thiyagi.com/word_counter">
     
     <!-- Open Graph / Facebook -->
     <meta property="og:type" content="website">
@@ -173,7 +167,6 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
             transform: scale(1.05);
         }
     </style>
-</head>
 <body class="bg-gray-50">
     <!-- Breadcrumb Navigation -->
     <nav class="bg-white border-b border-gray-200 px-4 py-3">

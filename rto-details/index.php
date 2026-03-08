@@ -1,6 +1,5 @@
 ﻿<?php include '../header.php';?>
 
-<link rel="canonical" href="https://www.thiyagi.com/rto-details/index">
 <title>RTO Details India 2026 - Complete RTO Code Directory | 25+ Years Experience</title>
 <meta name="description" content="Complete directory of RTO details, codes, and office information across India. Find RTO offices, vehicle registration details, and contact information. Built with 25+ years of automotive expertise for 2026.">
 <meta name="keywords" content="RTO details India, RTO codes, vehicle registration, RTO office directory, India RTO information 2026">
@@ -46,15 +45,7 @@ if ($result && $result->num_rows > 0) {
 $conn->close();
 ?>
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="canonical" href="https://www.thiyagi.com/rto-details/index">
 <title>RTO Office Locations</title>
-    <script src="https://cdn.tailwindcss.com"></script>
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
     <style>
         .rto-gradient {
             background: linear-gradient(135deg, #f5f5f7 0%, #e1e1e6 100%);
@@ -74,7 +65,6 @@ $conn->close();
         }
     </style>
 
-</head>
 <body class="bg-gray-50">
     <!-- Header -->
     <header class="bg-white shadow-sm">

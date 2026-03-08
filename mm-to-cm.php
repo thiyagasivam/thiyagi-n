@@ -2,7 +2,6 @@
 <title>Millimeter to Centimeter Converter 2026 | MM to CM | Free Tool</title>
 <meta name="description" content="Convert millimeter to centimeter instantly with our 2026 accurate converter. Perfect mm to cm conversion with real-time calculations for metric measurement.">
 <meta name="keywords" content="millimeter to centimeter 2026, mm cm converter, metric unit conversion 2026, precision measurement calculator, scientific conversion">
-<link rel="canonical" href="https://www.thiyagi.com/mm-to-cm">
 
 <!-- Open Graph Meta Tags -->
 <meta property="og:title" content="Millimeter to Centimeter Converter 2026 | MM to CM | Free Tool">

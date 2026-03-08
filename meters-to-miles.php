@@ -2,7 +2,6 @@
 <title>Meters to Miles Converter 2026 | meters to miles | Free Distance Tool</title>
 <meta name="description" content="Convert meters to miles instantly with our 2026 accurate converter. Perfect meters to miles conversion with real-time calculations for distance measurements and navigation.">
 <meta name="keywords" content="meters to miles converter 2026, meters to miles converter, meter mile conversion, distance converter 2026, navigation tool, travel distance, running distance, athletics, sports measurements">
-<link rel="canonical" href="https://www.thiyagi.com/meters-to-miles">
 
 <!-- Open Graph Meta Tags -->
 <meta property="og:title" content="Meters to Miles Converter 2026 | meters to miles | Free Distance Tool">
@@ -21,7 +20,6 @@
 <!-- Additional SEO Meta Tags -->
 <meta name="author" content="Thiyagi">
 <meta name="theme-color" content="#10b981">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
 <meta name="language" content="EN">
 <meta name="revisit-after" content="7 days">
 <meta name="distribution" content="global">

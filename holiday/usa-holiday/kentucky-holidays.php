@@ -3,7 +3,6 @@
 <title>Kentucky Holidays 2026 | Complete Calendar | State & Federal Holidays | Festivals</title>
 <meta name="description" content="Complete Kentucky Holiday Calendar 2026. Find all state holidays, federal holidays, cultural events, and observances. Plan your year with our comprehensive holiday guide.">
 <meta name="keywords" content="Kentucky holidays 2026, Kentucky state holidays, US federal holidays, Kentucky festivals, Kentucky calendar, holidays Kentucky, festival dates 2026">
-<link rel="canonical" href="https://<?= $_SERVER['HTTP_HOST'] . strtok($_SERVER['REQUEST_URI'], '?') ?>">
 
 <!-- Additional Head Content for Kentucky Holidays -->
 <script>

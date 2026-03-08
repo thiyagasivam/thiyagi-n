@@ -3,7 +3,6 @@
 <title>Quebec Holidays 2026 | Jours Fériés Québec | Provincial & Federal Calendar</title>
 <meta name="description" content="Complete Quebec Holiday Calendar 2026. Jours fériés du Québec including provincial holidays, federal holidays, and Quebec-specific observances.">
 <meta name="keywords" content="Quebec holidays 2026, Quebec provincial holidays, Jours fériés Québec, Fête nationale Quebec, Saint-Jean-Baptiste, statutory holidays Quebec">
-<link rel="canonical" href="https://<?= $_SERVER['HTTP_HOST'] . strtok($_SERVER['REQUEST_URI'], '?') ?>">
 
 <style>
 :root {

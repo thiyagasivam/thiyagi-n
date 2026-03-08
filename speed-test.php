@@ -2,7 +2,6 @@
 <title>Internet Speed Test 2026 | Check Download Upload Speed | Free Network Tester</title>
 <meta name="description" content="Test your internet speed instantly with our 2026 free speed test tool. Check download, upload speeds and ping for accurate network performance measurement.">
 <meta name="keywords" content="internet speed test 2026, network speed checker, download upload speed test, ping test, bandwidth test, internet performance">
-<link rel="canonical" href="https://www.thiyagi.com/speed-test">
 
 <?php
 // Handle form submission and speed test simulation
@@ -18,11 +17,6 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST' && isset($_POST['run_test'])) {
 }
 ?>
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Network Speed Test</title>
     <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" rel="stylesheet">
     <style>
@@ -61,7 +55,6 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST' && isset($_POST['run_test'])) {
         }
     </style>
 
-</head>
 <body class="bg-gray-100 min-h-screen">
     <div class="container mx-auto px-4 py-8">
         <header class="text-center mb-12">

@@ -45,17 +45,10 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
     }
 }
 ?>
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Kerala Electricity Bill Calculator (KSEB) 2026 – Online Estimator</title>
     <meta name="description" content="Calculate your monthly KSEB electricity bill based on 2026 slab rates. 100% free, mobile-friendly, fast, and accurate.">
-    <link rel="canonical" href="https://www.thiyagi.com/electricity-board/kseb-bill-calculator" />
     
     <!-- Tailwind CSS -->
-    <script src="https://cdn.tailwindcss.com"></script>
     <script>
         tailwind.config = {
             theme: {
@@ -76,7 +69,6 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
     </script>
     
     <!-- Font Awesome -->
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
     
     <style>
         @media print {
@@ -89,7 +81,6 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
 <script type="application/ld+json">
 <?php echo json_encode($breadcrumbSchema, JSON_UNESCAPED_SLASHES | JSON_PRETTY_PRINT); ?>
 </script>
-</head>
 <body class="bg-gray-50 min-h-screen">
     <div class="container mx-auto px-4 py-8">
         <header class="text-center mb-8">

@@ -12,7 +12,6 @@
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:title" content="New South Wales Holidays 2026">
 <meta name="twitter:description" content="Complete NSW Holiday Calendar 2026 with all public holidays and bank holidays.">
-<link rel="canonical" href="https://<?= $_SERVER['HTTP_HOST'] . strtok($_SERVER['REQUEST_URI'], '?') ?>">
 <meta name="language" content="English">
 <meta name="geo.region" content="AU-NSW">
 <meta name="geo.placename" content="New South Wales, Australia">
@@ -108,8 +107,6 @@
 }
 </script>
 
-<script src="https://cdn.tailwindcss.com"></script>
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/remixicon/3.5.0/remixicon.css">
 
 <script>
@@ -140,7 +137,6 @@
 .text-nsw-red { color: var(--nsw-red); }
 </style>
 
-</head>
 <body class="bg-gradient-to-br from-blue-50 to-indigo-100 min-h-screen">
     <?php
     // NSW Holidays 2026 Data

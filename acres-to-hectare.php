@@ -2,7 +2,6 @@
 <title>Acres to Hectare Converter 2026 | Acres to Ha Calculator | Free Tool</title>
 <meta name="description" content="Professional acres to hectare converter 2026. Convert acres to hectares instantly with precision calculations. Perfect for land measurement, agriculture, and real estate.">
 <meta name="keywords" content="acres to hectare converter 2026, acres to ha calculator, land converter, agriculture measurements, real estate conversion">
-<link rel="canonical" href="https://www.thiyagi.com/acres-to-hectare">
 
 <!-- Open Graph Meta Tags -->
 <meta property="og:title" content="Acres to Hectare Converter 2026 | Acres to Ha Calculator | Free Tool">

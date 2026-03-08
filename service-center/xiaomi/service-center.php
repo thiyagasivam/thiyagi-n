@@ -72,15 +72,8 @@ try {
     die("Service unavailable. Please try again later.");
 }
 ?>
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="<?= htmlspecialchars($center['about'], ENT_QUOTES, 'UTF-8') ?>">
-    <link rel="canonical" href="https://www.thiyagi.com/service-center/xiaomi/service-center">
 <title><?= htmlspecialchars($center['page_title'], ENT_QUOTES, 'UTF-8') ?></title>
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
     <style>
         :root {
             --primary-color: #FF6700;
@@ -113,7 +106,6 @@ try {
         .contact-grid { display: grid; gap: 20px; }
         
 
-
         @media (min-width: 768px) {
             .contact-grid { grid-template-columns: 1fr 1fr; }
             h1 { font-size: 2.5rem; }
@@ -125,8 +117,6 @@ try {
         }
     </style>
 
-</head>
-<body>
     <header>
         <div class="container">
             <h1><?= htmlspecialchars($center['shop'], ENT_QUOTES, 'UTF-8') ?></h1>

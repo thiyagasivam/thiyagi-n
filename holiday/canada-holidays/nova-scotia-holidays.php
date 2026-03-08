@@ -3,7 +3,6 @@
 <title>Nova Scotia Holidays 2026 | NS Provincial Holiday Calendar</title>
 <meta name="description" content="Complete Nova Scotia Holiday Calendar 2026. Find all NS provincial holidays, federal holidays, and Heritage Day celebrations for Nova Scotia, Canada.">
 <meta name="keywords" content="Nova Scotia holidays 2026, NS provincial holidays, Heritage Day Nova Scotia, Natal Day, statutory holidays Nova Scotia">
-<link rel="canonical" href="https://<?= $_SERVER['HTTP_HOST'] . strtok($_SERVER['REQUEST_URI'], '?') ?>">
 
 <style>
 :root {

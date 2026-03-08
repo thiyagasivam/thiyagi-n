@@ -2,7 +2,6 @@
 <title>Newtons to Pounds Converter 2026 | Force Conversion Tool | Free Calculator</title>
 <meta name="description" content="Convert newtons to pounds instantly with our 2026 accurate force converter. Perfect for engineering, physics, and scientific calculations.">
 <meta name="keywords" content="newtons to pounds converter 2026, force conversion calculator, newton lb converter, engineering calculator, physics calculations">
-<link rel="canonical" href="https://www.thiyagi.com/newtons-to-lbs">
 
 <div class="min-h-screen bg-gradient-to-br from-red-50 to-orange-100 py-8">
     <div class="container mx-auto px-4">

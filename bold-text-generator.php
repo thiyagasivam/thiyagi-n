@@ -1,5 +1,4 @@
 <?php include 'header.php';?>
-<link rel="canonical" href="https://www.thiyagi.com/bold-text-generator">
 
 
 <?php
@@ -37,11 +36,6 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
     $boldText = convertToBold($inputText);
 }
 ?>
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Free Bold Text Generator 2026 - 𝕮𝖗𝖊𝖆𝖙𝖊 𝕭𝖔𝖑𝖉 𝕱𝖔𝖓𝖙𝖘</title>
     <meta name="description" content="Instantly generate bold text for social media (2026)! Free online tool creates 𝖇𝖔𝖑𝖉 𝖋𝖔𝖓𝖙𝖘 for Instagram, Facebook & more. No download required! ">
     <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" rel="stylesheet">
@@ -89,7 +83,6 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
         }
     </style>
 
-</head>
 <body class="bg-gray-50">
     <div class="container mx-auto px-4 py-8 max-w-3xl">
         <header class="text-center mb-8">

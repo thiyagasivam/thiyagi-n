@@ -2,7 +2,6 @@
 <title>Ton to LBS Converter 2026 | ton to pounds | Free Weight Tool</title>
 <meta name="description" content="Convert tons to pounds instantly with our 2026 accurate converter. Perfect ton to lbs conversion with real-time calculations for shipping and industrial weights.">
 <meta name="keywords" content="ton to lbs converter 2026, ton to pounds converter, tons pounds conversion, weight converter 2026, shipping calculator, industrial weight tools, freight conversion, heavy weight calculator, cargo measurements, tonnage converter">
-<link rel="canonical" href="https://www.thiyagi.com/ton-to-lbs">
 
 <!-- Open Graph Meta Tags -->
 <meta property="og:title" content="Ton to LBS Converter 2026 | ton to pounds | Free Weight Tool">
@@ -21,7 +20,6 @@
 <!-- Additional SEO Meta Tags -->
 <meta name="author" content="Thiyagi">
 <meta name="theme-color" content="#374151">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
 <meta name="language" content="EN">
 <meta name="revisit-after" content="7 days">
 <meta name="distribution" content="global">

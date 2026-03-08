@@ -1,7 +1,6 @@
 ﻿<?php include 'header.php'; ?>
 
 <!-- SEO Meta Tags -->
-<link rel="canonical" href="https://www.thiyagi.com/ounce-to-quarter-us">
 <title>Ounce to Quarter US Converter 2026 - oz to qr US Calculator | Thiyagi</title>
 <meta name="description" content="Free online Ounce to Quarter US converter 2026. Convert oz to qr US and qr US to oz instantly with accurate weight conversion for trading and commerce.">
 <meta name="keywords" content="ounce to quarter us converter 2026, oz to qr us, weight converter, imperial weight, us measurements, trading weights">

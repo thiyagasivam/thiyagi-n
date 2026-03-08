@@ -2,7 +2,6 @@
 <title>Cent to Acre Converter 2026 | Cent to Acre | Free Tool</title>
 <meta name="description" content="Convert cent to acre instantly with our 2026 accurate converter. Perfect cent to acre conversion with real-time calculations for land measurement.">
 <meta name="keywords" content="cent to acre 2026, cent acre converter, Indian land measurement 2026, property conversion calculator, agricultural land measurement">
-<link rel="canonical" href="https://www.thiyagi.com/cent-to-acre">
 
 <!-- Open Graph Meta Tags -->
 <meta property="og:title" content="Cent to Acre Converter 2026 | Cent to Acre | Free Tool">

@@ -2,7 +2,6 @@
 <title>Hectare to Square Meter Converter 2026 | Hectare to SqM | Free Tool</title>
 <meta name="description" content="Convert hectare to square meter instantly with our 2026 accurate converter. Perfect hectare to sqm conversion with real-time calculations for land measurement.">
 <meta name="keywords" content="hectare to square meter 2026, hectare sqm converter, land conversion 2026, hectare sqm calculation, metric land measurement">
-<link rel="canonical" href="https://www.thiyagi.com/hectare-to-sqm">
 
 <!-- Open Graph Meta Tags -->
 <meta property="og:title" content="Hectare to Square Meter Converter 2026 | Hectare to SqM | Free Tool">

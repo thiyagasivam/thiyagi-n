@@ -2,7 +2,6 @@
 <title>Square Yard to Square Feet Converter 2026 | Sq Yard to Sq Feet | Free Tool</title>
 <meta name="description" content="Convert square yard to square feet instantly with our 2026 accurate converter. Perfect sq yard to sq feet conversion with real-time calculations for area measurement.">
 <meta name="keywords" content="square yard to square feet 2026, sq yard sq feet converter, area conversion 2026, land measurement calculator, property conversion">
-<link rel="canonical" href="https://www.thiyagi.com/square-yard-to-square-feet">
 
 <!-- Open Graph Meta Tags -->
 <meta property="og:title" content="Square Yard to Square Feet Converter 2026 | Sq Yard to Sq Feet | Free Tool">

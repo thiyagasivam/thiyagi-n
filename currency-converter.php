@@ -11,7 +11,6 @@ include('header.php');
 ?>
 
 <!-- Enhanced Meta Tags for Currency Converter -->
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>Currency Converter | Real-time Exchange Rates | Free Currency Calculator</title>
 <meta name="description" content="Convert currencies instantly with real-time exchange rates. Support for 50+ currencies including USD, EUR, GBP, INR. Free online currency converter tool.">
 <meta name="keywords" content="currency converter, exchange rates, currency calculator, real time rates, money converter, forex converter, international currency">
@@ -44,7 +43,6 @@ include('header.php');
 <meta name="apple-mobile-web-app-title" content="Currency Converter">
 
 <!-- Canonical URL -->
-<link rel="canonical" href="https://www.thiyagi.com/currency-converter">
 
 <!-- JSON-LD Schema -->
 <script type="application/ld+json">

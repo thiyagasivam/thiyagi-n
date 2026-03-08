@@ -12,11 +12,9 @@ $canonical = 'https://www.thiyagi.com/knot-to-mph';
 $meta_tags = '<title>' . htmlspecialchars($title) . '</title>' . "\n";
 $meta_tags .= '<meta name="description" content="' . htmlspecialchars($description) . '">' . "\n";
 $meta_tags .= '<meta name="keywords" content="' . htmlspecialchars($keywords) . '">' . "\n";
-$meta_tags .= '<link rel="canonical" href="' . htmlspecialchars($canonical) . '">' . "\n";
 
 // Replace the canonical URL and add our meta tags
 $header_content = str_replace(
-    '<link rel="canonical" href="' . htmlspecialchars($_SERVER['REQUEST_SCHEME'] . '://' . $_SERVER['HTTP_HOST'] . strtok($_SERVER['REQUEST_URI'], '?')) . '" />',
     $meta_tags,
     $header_content
 );
@@ -266,7 +264,6 @@ echo $header_content;
                 <a href="mph-to-knot.php" class="p-3 bg-emerald-50 rounded-lg hover:bg-emerald-100 transition-colors">
                     <div class="text-sm font-medium text-emerald-800">MPH to Knot</div>
                 </a>
-                
                 
                 
             </div>

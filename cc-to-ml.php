@@ -2,7 +2,6 @@
 <title>CC to ML Converter 2026 | Cubic Centimeters to Milliliters Calculator | Free Tool</title>
 <meta name="description" content="Professional CC to ML converter 2026. Convert cubic centimeters to milliliters instantly with precision calculations. Perfect for medical, automotive, and laboratory use.">
 <meta name="keywords" content="cc to ml converter 2026, cubic centimeters to milliliters calculator, medical volume converter, automotive cc to ml, laboratory measurements">
-<link rel="canonical" href="https://www.thiyagi.com/cc-to-ml">
 
 <!-- Open Graph Meta Tags -->
 <meta property="og:title" content="CC to ML Converter 2026 | Cubic Centimeters to Milliliters Calculator | Free Tool">

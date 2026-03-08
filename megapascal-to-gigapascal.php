@@ -1,7 +1,6 @@
 ﻿<?php include 'header.php'; ?>
 
 <!-- SEO Meta Tags -->
-<link rel="canonical" href="https://www.thiyagi.com/megapascal-to-gigapascal">
 <title>Megapascal to Gigapascal Converter 2026 - MPa to GPa Calculator | Thiyagi</title>
 <meta name="description" content="Free online Megapascal to Gigapascal converter 2026. Convert MPa to GPa and GPa to MPa instantly with accurate high-pressure conversion.">
 <meta name="keywords" content="megapascal to gigapascal converter 2026, MPa to GPa, high pressure, materials science, engineering stress, geological pressure">

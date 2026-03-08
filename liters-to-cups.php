@@ -2,7 +2,6 @@
 <title>Liters to Cups Converter 2026 | Professional Volume Calculator | Free Tool</title>
 <meta name="description" content="Professional liters to cups converter 2026. Convert liters to cups instantly with precision calculations. Perfect for cooking, baking, and recipe conversions.">
 <meta name="keywords" content="liters to cups converter 2026, volume calculator, liter conversion, cooking converter, recipe calculator">
-<link rel="canonical" href="https://www.thiyagi.com/liters-to-cups">
 
 <!-- Open Graph Meta Tags -->
 <meta property="og:title" content="Liters to Cups Converter 2026 | Professional Volume Calculator | Free Tool">

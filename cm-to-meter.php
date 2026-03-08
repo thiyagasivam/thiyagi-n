@@ -2,7 +2,6 @@
 <title>Centimeter to Meter Converter 2026 | CM to M | Free Tool</title>
 <meta name="description" content="Convert centimeter to meter instantly with our 2026 accurate converter. Perfect cm to m conversion with real-time calculations for scientific measurements.">
 <meta name="keywords" content="centimeter to meter 2026, cm meter converter, metric unit conversion 2026, scientific measurement calculator, cm m conversion">
-<link rel="canonical" href="https://www.thiyagi.com/cm-to-meter">
 
 <!-- Open Graph Meta Tags -->
 <meta property="og:title" content="Centimeter to Meter Converter 2026 | CM to M | Free Tool">

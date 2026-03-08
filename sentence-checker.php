@@ -1,5 +1,4 @@
 <?php include 'header.php';?>
-<link rel="canonical" href="https://www.thiyagi.com/sentence-checker">
 
 
 <?php
@@ -36,15 +35,8 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
     }
 }
 ?>
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Free Sentence  Checker (2026) - Grammar, Spelling & Punctuation Corrector</title>
 <meta name="description" content="Instantly check and improve your sentences for grammar errors, spelling mistakes, and punctuation. Enhance your writing for emails, essays, and content with AI-powered suggestions.">
-    <!-- Add Tailwind CSS CDN -->
-    <script src="https://cdn.tailwindcss.com"></script>
     <style>
         :root {
             --primary-color: #4a6ee0;
@@ -129,8 +121,6 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
         }
     </style>
 
-</head>
-<body>
     <div class="tool-container">
         <div class="tool-header">
             <h1 class="text-3xl font-semibold mb-2">Sentence Checker</h1> <!-- h1 -> text-3xl font-semibold mb-2 -->

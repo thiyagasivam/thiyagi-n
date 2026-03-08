@@ -174,15 +174,9 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
 }
 ?>
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>UUID Generator 2026 - Generate & Validate Unique Identifiers</title>
     <meta name="description" content="Advanced UUID generator tool supporting v1, v3, v4, v5 versions with bulk generation, validation, and multiple formats. Professional development tool for creating unique identifiers in 2026.">
     <meta name="keywords" content="UUID generator, unique identifier generator, GUID generator, UUID v4, unique ID tool 2026, UUID validator, bulk UUID generation">
-    <link rel="canonical" href="https://www.thiyagi.com/uuid-generator">
     
     <!-- Open Graph / Facebook -->
     <meta property="og:type" content="website">
@@ -251,7 +245,6 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
             50% { transform: scale(1.05); }
         }
     </style>
-</head>
 <body class="bg-gray-50">
     <!-- Breadcrumb Navigation -->
     <nav class="bg-white border-b border-gray-200 px-4 py-3">
@@ -1206,9 +1199,6 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
                     <div class="mt-4 pt-4 border-t border-gray-300">
                         <h5 class="font-semibold text-gray-800 mb-2">🛠️ Additional Developer Utilities & Tools</h5>
                         <div class="flex flex-wrap gap-2 text-xs">
-                            
-                            
-                            
                             
                             
                             <a href="html-beautifier.php" class="bg-purple-100 text-purple-700 px-2 py-1 rounded hover:bg-purple-200">HTML Beautifier</a>

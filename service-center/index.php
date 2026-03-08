@@ -1,15 +1,7 @@
 <?php include '../header.php';?>
 <?php include 'breadcrumb-schema.php';?>
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Service Centers Directory | Find Authorized Repair Locations Near You</title>
     <meta name="description" content="Browse popular brands and find authorized service centers near you. Quick search, mobile-friendly layout, and direct links to official repair locations.">
-    <link rel="canonical" href="/service-center/">
-    <script src="https://cdn.tailwindcss.com"></script>
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
 
     <style>
         .brand-card:hover { transform: translateY(-6px); box-shadow: 0 12px 28px -6px rgba(0,0,0,0.18); }
@@ -17,7 +9,6 @@
         .glass { backdrop-filter: saturate(180%) blur(8px); background: rgba(255,255,255,.65); }
     </style>
 
-</head>
 <body class="bg-gray-50">
     <!-- Hero / Search -->
     <section class="relative overflow-hidden">

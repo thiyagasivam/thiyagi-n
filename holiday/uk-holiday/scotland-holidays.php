@@ -43,7 +43,6 @@ include '../../header.php';
 <meta name="apple-mobile-web-app-title" content="Scotland Holidays 2026">
 
 <!-- Canonical URL -->
-<link rel="canonical" href="https://www.thiyagi.com/holiday/uk-holiday/scotland-holidays">
 
 <!-- JSON-LD Schema -->
 <script type="application/ld+json">

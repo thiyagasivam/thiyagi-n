@@ -1,5 +1,4 @@
 <?php include 'header.php';?>
-<link rel="canonical" href="https://www.thiyagi.com/simple-interest-calculator">
 
 
 <?php
@@ -31,15 +30,8 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
 }
 ?>
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Simple Interest Calculator (2026) - Free Online Tool | Fast & Accurate</title>
 <meta name="description" content="Calculate simple interest on loans or investments instantly. Free online calculator for principal, rate, and time period computations with clear results breakdown.">
-    <!-- Add Tailwind CSS CDN -->
-    <script src="https://cdn.tailwindcss.com"></script>
     <style>
         :root {
             --primary-color: #00d09c;
@@ -121,7 +113,6 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
         }
     </style>
 
-</head>
 <body class="bg-gray-100 text-gray-800">
     <div class="calculator-container">
         <div class="calculator-header text-center">

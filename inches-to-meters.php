@@ -2,7 +2,6 @@
 <title>Inches to Meters Converter 2026 | Length Conversion Tool | Free Calculator</title>
 <meta name="description" content="Convert inches to meters instantly with our 2026 accurate length converter. Perfect for international measurements and engineering calculations.">
 <meta name="keywords" content="inches to meters converter 2026, length conversion calculator, inch meter converter, international measurements, engineering calculator">
-<link rel="canonical" href="https://www.thiyagi.com/inches-to-meters">
 
 <div class="min-h-screen bg-gradient-to-br from-indigo-50 to-purple-100 py-8">
     <div class="container mx-auto px-4">

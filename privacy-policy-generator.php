@@ -1,5 +1,4 @@
 <?php include 'header.php';?>
-<link rel="canonical" href="https://www.thiyagi.com/privacy-policy-generator">
 
 
 <?php
@@ -53,16 +52,10 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
 }
 ?>
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Privacy Policy Generator 2026 - Free GDPR & CCPA Compliant Template</title>
 <meta name="description" content="Create a custom privacy policy for your website or app in minutes. Our free 2026 generator covers GDPR, CCPA, CalOPPA, and more with legally-reviewed clauses for global compliance.">
     <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" rel="stylesheet">
 
-</head>
 <body class="bg-gray-100">
     <div class="container mx-auto p-4">
         <h1 class="text-3xl font-bold text-center mb-6">Privacy Policy Generator</h1>

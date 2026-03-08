@@ -2,7 +2,6 @@
 <title>Fahrenheit to Rankine Converter 2026 | Convert °F to °R | Free Tool</title>
 <meta name="description" content="Convert Fahrenheit to Rankine instantly with our 2026 accurate temperature converter. Perfect °F to °R conversion with real-time calculations for engineering needs.">
 <meta name="keywords" content="fahrenheit to rankine 2026, temperature converter, thermal conversion 2026, °F to °R calculator, engineering tool">
-<link rel="canonical" href="https://www.thiyagi.com/fahrenheit-to-rankine">
 
 <!-- Open Graph Meta Tags -->
 <meta property="og:title" content="Fahrenheit to Rankine Converter 2026 | Convert °F to °R | Free Tool">

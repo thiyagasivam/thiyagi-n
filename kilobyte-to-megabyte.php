@@ -2,7 +2,6 @@
 <title>Kilobyte to Megabyte Converter 2026 | Convert KB to MB | Free Tool</title>
 <meta name="description" content="Convert kilobyte to megabyte instantly with our 2026 accurate data converter. Perfect KB to MB conversion with real-time calculations for digital storage needs.">
 <meta name="keywords" content="kilobyte to megabyte 2026, data converter, storage conversion 2026, KB to MB calculator, digital storage tool">
-<link rel="canonical" href="https://www.thiyagi.com/kilobyte-to-megabyte">
 
 <!-- Open Graph Meta Tags -->
 <meta property="og:title" content="Kilobyte to Megabyte Converter 2026 | Convert KB to MB | Free Tool">

@@ -1,8 +1,5 @@
 <?php include '../../header.php'; ?>
 
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Andaman & Nicobar Holidays 2026 | Complete Calendar | Island Festivals | National Holidays</title>
     <meta name="description" content="Complete Andaman & Nicobar Holiday Calendar 2026. Find island festivals, national & regional holidays, bank holidays and cultural events.">
     <meta name="keywords" content="Andaman holidays 2026, Nicobar festivals, Andaman and Nicobar calendar, island holidays, India holidays 2026, Nicobar holidays 2026, island festivals 2026, local bank holidays Andaman, Nicobar calendar 2026">
@@ -15,7 +12,6 @@
     <meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:title" content="Andaman & Nicobar Holidays 2026">
     <meta name="twitter:description" content="Complete Andaman & Nicobar Holiday Calendar 2026 with national, regional and bank holidays.">
-    <link rel="canonical" href="<?php echo 'https://' . $_SERVER['HTTP_HOST'] . $_SERVER['REQUEST_URI']; ?>">
     <meta name="language" content="English, Hindi">
     <meta name="geo.region" content="IN-AN">
     <meta name="geo.placename" content="Andaman and Nicobar Islands, India">
@@ -108,8 +104,6 @@
         }
         </script>
 
-    <script src="https://cdn.tailwindcss.com"></script>
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/remixicon/3.5.0/remixicon.css">
     <script>
         tailwind.config = {
@@ -125,7 +119,6 @@
             }
         }
     </script>
-</head>
 
 <body class="bg-gradient-to-br from-cyan-50 to-emerald-100 min-h-screen">
 <?php

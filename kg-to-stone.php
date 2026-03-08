@@ -1,8 +1,5 @@
 <?php include 'header.php'; ?>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>KG to Stone Converter - Free Weight Conversion Tool | Thiyagi.com</title>
-<link rel="canonical" href="https://www.thiyagi.com/kg-to-stone">
 <meta name="description" content="Convert kilograms to stone instantly with our free kg to stone converter. Accurate UK weight conversion for health, fitness, and body weight measurements. Easy-to-use calculator.">
 <meta name="keywords" content="kg to stone, kilogram to stone, UK weight conversion, body weight, health measurements, British weight units, stone weight">
 <meta property="og:title" content="KG to Stone Converter - Accurate UK Weight Conversion Tool">

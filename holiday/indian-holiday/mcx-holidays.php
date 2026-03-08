@@ -1,7 +1,4 @@
 <?php include '../../header.php'; ?>
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>MCX Holidays 2026 | List of MCX Trading Holidays | Commodity Market Calendar</title>
     <meta name="description" content="Complete MCX Holidays 2026 Calendar. Find all trading holidays for the Multi Commodity Exchange (MCX). Plan your commodity trading year.">
     <meta name="keywords" content="MCX holidays 2026, MCX trading holidays, commodity market holidays, MCX calendar, non-agri commodity trading, MCX holiday list">
@@ -14,7 +11,6 @@
     <meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:title" content="MCX Holidays 2026">
     <meta name="twitter:description" content="Complete MCX Holidays 2026 Calendar for commodity trading.">
-    <link rel="canonical" href="<?php echo 'https://' . $_SERVER['HTTP_HOST'] . $_SERVER['REQUEST_URI']; ?>">
     <meta name="language" content="English">
     <meta name="geo.region" content="IN">
     <meta name="geo.placename" content="India">
@@ -55,8 +51,6 @@
         "dateModified": "<?php echo date('Y-m-d'); ?>"
     }
     </script>
-    <script src="https://cdn.tailwindcss.com"></script>
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
     <script>
         tailwind.config = {
             theme: {
@@ -71,7 +65,6 @@
             }
         }
     </script>
-</head>
 <body class="bg-gradient-to-br from-purple-50 to-indigo-100 min-h-screen">
     <header class="bg-gradient-to-r from-mcx-purple to-purple-800 text-white shadow-lg relative overflow-hidden">
         <div class="absolute inset-0 opacity-10">

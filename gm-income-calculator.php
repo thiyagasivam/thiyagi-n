@@ -1,8 +1,5 @@
 <?php include 'header.php'; ?>
 
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>GM Income Calculator 2026 - General Motors Employee Salary Calculator | Thiyagi.com</title>
     <meta name="description" content="Calculate GM employee income, salary, benefits, and compensation packages 2026. General Motors hourly wages, overtime, bonuses, and total compensation calculator.">
     <meta name="keywords" content="gm income calculator 2026, general motors salary calculator, gm employee wages, gm hourly pay calculator, automotive salary calculator, gm benefits calculator">
@@ -22,11 +19,8 @@
     <meta name="twitter:image" content="https://www.thiyagi.com/nt.png">
     
     <!-- Canonical URL -->
-    <link rel="canonical" href="https://www.thiyagi.com/gm-income-calculator">
     
     <!-- Tailwind CSS -->
-    <script src="https://cdn.tailwindcss.com"></script>
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
 
 <style>
     .gradient-bg {
@@ -82,7 +76,6 @@
 }
 </script>
 
-</head>
 <body class="bg-gray-50">
     <!-- Header -->
     <header class="gradient-bg shadow-lg">

@@ -2,7 +2,6 @@
 <title>Pound to Kilogram Converter 2026 | LBS to KG | Free Tool</title>
 <meta name="description" content="Convert pound to kilogram instantly with our 2026 accurate converter. Perfect lbs to kg conversion with real-time calculations for weight measurements.">
 <meta name="keywords" content="pound to kilogram 2026, lbs kg converter, weight unit conversion 2026, fitness weight calculator, lbs kg conversion">
-<link rel="canonical" href="https://www.thiyagi.com/lbs-to-kg">
 
 <!-- Open Graph Meta Tags -->
 <meta property="og:title" content="Pound to Kilogram Converter 2026 | LBS to KG | Free Tool">

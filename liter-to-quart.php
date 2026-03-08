@@ -2,7 +2,6 @@
 <title>Liter to Quart Converter 2026 | Convert liter to quart | Free Tool</title>
 <meta name="description" content="Convert liter to quart instantly with our 2026 accurate volume converter. Perfect L to qt conversion with real-time calculations for cooking and measurement needs.">
 <meta name="keywords" content="liter to quart 2026, volume converter, cooking conversion 2026, L to qt calculator, liquid measurement tool">
-<link rel="canonical" href="https://www.thiyagi.com/liter-to-quart">
 
 <!-- Open Graph Meta Tags -->
 <meta property="og:title" content="Liter to Quart Converter 2026 | Convert liter to quart | Free Tool">

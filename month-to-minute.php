@@ -1,7 +1,6 @@
 ﻿<?php include 'header.php'; ?>
 
 <!-- SEO Meta Tags -->
-<link rel="canonical" href="https://www.thiyagi.com/month-to-minute">
 <title>Month to Minute Converter 2026 - Time Duration Calculator | Thiyagi</title>
 <meta name="description" content="Free online Month to Minute converter 2026. Convert months to minutes and minutes to months instantly with accurate time conversion.">
 <meta name="keywords" content="month to minute converter 2026, time conversion, duration calculator, temporal measurements">

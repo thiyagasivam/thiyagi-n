@@ -61,11 +61,6 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
 }
 ?>
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     
     <!-- Primary Meta Tags -->
     <title>YouTube Thumbnail Downloader 2026 - Download High Quality YouTube Thumbnails</title>
@@ -100,7 +95,6 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
     <meta name="apple-mobile-web-app-title" content="YouTube Thumbnail Downloader">
     
     <!-- Canonical URL -->
-    <link rel="canonical" href="https://www.thiyagi.com/youtube-thumbnail-downloader">
     
     <!-- Preconnect for performance -->
     <link rel="preconnect" href="https://img.youtube.com">
@@ -135,7 +129,6 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
     }
     </script>
 
-</head>
 <body class="bg-gray-100">
     <div class="container mx-auto p-4">
         <h1 class="text-3xl font-bold text-center mb-6">YouTube Thumbnail Downloader 2026</h1>

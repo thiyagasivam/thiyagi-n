@@ -2,7 +2,6 @@
 <title>Horsepower to Kilowatt Converter 2026 | Convert HP to kW | Free Tool</title>
 <meta name="description" content="Convert horsepower to kilowatt instantly with our 2026 accurate power converter. Perfect HP to kW conversion with real-time calculations for mechanical power needs.">
 <meta name="keywords" content="horsepower to kilowatt 2026, power converter, mechanical conversion 2026, HP to kW calculator, power tool">
-<link rel="canonical" href="https://www.thiyagi.com/horsepower-to-kilowatt">
 
 <!-- Open Graph Meta Tags -->
 <meta property="og:title" content="Horsepower to Kilowatt Converter 2026 | Convert HP to kW | Free Tool">

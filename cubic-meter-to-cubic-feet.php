@@ -2,7 +2,6 @@
 <title>Cubic Meter to Cubic Feet Converter 2026 | Convert m³ to ft³ | Free Tool</title>
 <meta name="description" content="Convert cubic meter to cubic feet instantly with our 2026 accurate converter. Perfect m³ to ft³ conversion with real-time calculations for volume measurement.">
 <meta name="keywords" content="cubic meter to cubic feet 2026, m3 ft3 converter, metric imperial volume conversion 2026, volume measurement calculator, engineering conversion tool">
-<link rel="canonical" href="https://www.thiyagi.com/cubic-meter-to-cubic-feet">
 
 <!-- Open Graph Meta Tags -->
 <meta property="og:title" content="Cubic Meter to Cubic Feet Converter 2026 | Convert m³ to ft³ | Free Tool">

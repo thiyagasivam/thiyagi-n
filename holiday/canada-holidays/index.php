@@ -3,7 +3,6 @@
 <title>Canada Holidays 2026 | Complete Calendar | National & Provincial Holidays</title>
 <meta name="description" content="Complete Canada Holiday Calendar 2026. Find all national holidays, provincial holidays, statutory holidays, and observances across all Canadian provinces and territories.">
 <meta name="keywords" content="Canada holidays 2026, Canadian holidays, statutory holidays Canada, provincial holidays, national holidays Canada, Victoria Day, Canada Day, Thanksgiving">
-<link rel="canonical" href="https://<?= $_SERVER['HTTP_HOST'] . strtok($_SERVER['REQUEST_URI'], '?') ?>">
 
 <style>
 :root {

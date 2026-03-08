@@ -63,15 +63,9 @@ if ($units > 0) {
     $total_bill = $subtotal + $tax_amount;
 }
 ?>
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>TNEB Electricity Bill Calculator 2026 - Tamil Nadu Power Bill Estimate | Thiyagi</title>
     <meta name="description" content="Calculate your Tamil Nadu electricity bill instantly with our TNEB calculator. Get accurate estimates using latest 2026 tariff rates, slab-wise breakdown, and detailed bill analysis. Free online tool.">
     <meta name="keywords" content="TNEB calculator, Tamil Nadu electricity bill, TNEB tariff rates 2026, electricity bill calculator Tamil Nadu, TANGEDCO bill calculator, power bill calculator TN">
-    <link rel="canonical" href="https://www.thiyagi.com/electricity-board/tneb-electricity-bill-calculator" />
     <meta property="og:title" content="TNEB Electricity Bill Calculator 2026 - Tamil Nadu Power Bill">
     <meta property="og:description" content="Calculate your Tamil Nadu electricity bill instantly with accurate TNEB tariff rates. Free online calculator with detailed breakdown.">
     <meta property="og:url" content="https://www.thiyagi.com/electricity-board/tneb-electricity-bill-calculator">
@@ -84,11 +78,9 @@ if ($units > 0) {
     <meta name="author" content="Thiyagi.com">
         <link rel="apple-touch-icon" href="https://www.thiyagi.com/images/apple-touch-icon.png">
  
-    <script src="https://cdn.tailwindcss.com"></script>
     <!-- Google Fonts -->
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
     <!-- Font Awesome -->
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
     <!-- Bootstrap Icons -->
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.5/font/bootstrap-icons.css">
     <style>
@@ -439,8 +431,6 @@ if ($units > 0) {
   ]
 }
 </script>
-</head>
-<body>
     <div class="max-w-4xl mx-auto px-4 py-8">
         <header class="text-center mb-12 fade-in">
             <div class="mb-6">

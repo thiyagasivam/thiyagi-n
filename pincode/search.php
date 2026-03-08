@@ -149,17 +149,9 @@ if (isset($_POST['search_query']) && !empty($_POST['search_query'])) {
     $searchResults = $searchEngine->search($_POST['search_query']);
 }
 ?>
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="canonical" href="https://www.thiyagi.com/pincode/search">
 <title>Enhanced Pincode Search - Thiyagi</title>
     <meta name="description" content="Search Indian pincodes by pincode number or area name. Get complete postal information with real-time API data.">
     
-    <script src="https://cdn.tailwindcss.com"></script>
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
     
     <style>
         .search-suggestion {
@@ -174,7 +166,6 @@ if (isset($_POST['search_query']) && !empty($_POST['search_query'])) {
             overflow-y: auto;
         }
     </style>
-</head>
 <body class="bg-gray-50">
     <?php include_once '../header.php'; ?>
     

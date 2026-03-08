@@ -583,15 +583,9 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
 $templates = TermsGenerator::getTemplateInfo();
 ?>
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Terms & Conditions Generator 2026 - Professional Legal Document Creator</title>
     <meta name="description" content="Create professional Terms & Conditions with our advanced 2026 generator. Multiple templates for e-commerce, SaaS, blogs, apps & marketplaces. Legal compliance made easy for businesses.">
     <meta name="keywords" content="terms conditions generator 2026, legal document creator, terms of service generator, website legal documents, business legal templates, legal compliance tool">
-    <link rel="canonical" href="https://www.thiyagi.com/terms-and-conditions-generator">
     
     <!-- Open Graph / Facebook -->
     <meta property="og:type" content="website">
@@ -671,7 +665,6 @@ $templates = TermsGenerator::getTemplateInfo();
             to { opacity: 1; transform: translateY(0); }
         }
     </style>
-</head>
 <body class="bg-gray-50">
     <!-- Breadcrumb Navigation -->
     <nav class="bg-white border-b border-gray-200 px-4 py-3">
@@ -1029,13 +1022,11 @@ $templates = TermsGenerator::getTemplateInfo();
             const printWindow = window.open('', '_blank');
             printWindow.document.write(`
                 <html>
-                    <head>
                         <title>Terms and Conditions</title>
                         <style>
                             body { font-family: Georgia, serif; line-height: 1.6; margin: 40px; }
                             h1, h2 { color: #333; }
                         </style>
-                    </head>
                     <body>${printContent}</body>
                 </html>
             `);

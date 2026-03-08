@@ -2,7 +2,6 @@
 <title>Centimeter to Micrometer Converter 2026 | Convert cm to μm | Free Scientific Tool</title>
 <meta name="description" content="Convert centimeter to micrometer instantly with our 2026 accurate converter. Professional cm to μm conversion with real-time calculations for scientific, engineering, and precision measurement applications.">
 <meta name="keywords" content="centimeter to micrometer 2026, cm to μm converter, micron conversion calculator, scientific measurement tool, precision length conversion, metric measurement converter">
-<link rel="canonical" href="https://www.thiyagi.com/centimeter-to-micrometer">
 
 <!-- Open Graph Meta Tags -->
 <meta property="og:title" content="Centimeter to Micrometer Converter 2026 | Convert cm to μm | Free Scientific Tool">

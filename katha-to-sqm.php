@@ -2,7 +2,6 @@
 <title>Katha to Square Meter Converter 2026 | Katha to Sqm | Free Tool</title>
 <meta name="description" content="Convert katha to square meter instantly with our 2026 accurate converter. Perfect katha to sqm conversion with real-time calculations for land measurement.">
 <meta name="keywords" content="katha to square meter 2026, katha sqm converter, Bengali land measurement 2026, property conversion calculator, real estate measurement">
-<link rel="canonical" href="https://www.thiyagi.com/katha-to-sqm">
 
 <!-- Open Graph Meta Tags -->
 <meta property="og:title" content="Katha to Square Meter Converter 2026 | Katha to Sqm | Free Tool">

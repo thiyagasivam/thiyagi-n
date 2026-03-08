@@ -1,5 +1,4 @@
 <?php include 'header.php';?>
-<link rel="canonical" href="https://www.thiyagi.com/css-beautifier">
 
 
 <?php
@@ -87,11 +86,6 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
 }
 ?>
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Free CSS Beautifier & Formatter Tool 2026 – Clean & Minify Instantly</title>
     <meta name="description" content="Format and beautify messy CSS code for free in 2026! Our online tool instantly cleans, indents, and minifies stylesheets—perfect for developers. No signup required!">
     <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" rel="stylesheet">
@@ -118,7 +112,6 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
         }
     </style>
 
-</head>
 <body class="bg-gray-100">
     <div class="container mx-auto px-4 py-8">
         <header class="mb-8 text-center">
@@ -193,7 +186,6 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
     </div>
 
  
-
     <script>
         function copyToClipboard(elementId) {
             const element = document.getElementById(elementId);

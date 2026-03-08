@@ -1,30 +1,13 @@
 <?php include 'header.php';?>
-<link rel="canonical" href="https://www.thiyagi.com/inches-to-yards">
 
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Inches to Yards Converter 2026 - Free Online Calculator</title>
     <meta name="description" content="Convert inches to yards with our free 2026 online calculator. Instant conversion between inches and yards with accurate results.">
     <meta name="keywords" content="inches to yards converter 2026, length converter, inches conversion, yards calculator 2026">
-    <script src="https://cdn.tailwindcss.com"></script>
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
-</head>
 <body>ml>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Inches to Yards Converter - Length Conversion Calculator</title>
     <meta name="description" content="Convert inches to yards with our free online calculator. Accurate length conversion between inches and yards for measurements.">
     <meta name="keywords" content="inches to yards, in to yd, length converter, yard calculator">
-    <script src="https://cdn.tailwindcss.com"></script>
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
-</head>
-<body>
 
 <div class="min-h-screen bg-gradient-to-br from-green-50 to-teal-100 py-8">
     <div class="max-w-4xl mx-auto px-4">

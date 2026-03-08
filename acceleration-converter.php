@@ -2,7 +2,6 @@
 <title>Acceleration Converter 2026 | m/s² to ft/s² | Free Physics Tool</title>
 <meta name="description" content="Convert acceleration units instantly with our 2026 accurate converter. Perfect m/s² to ft/s², g-force conversion with real-time calculations for physics and engineering.">
 <meta name="keywords" content="acceleration converter 2026, m/s² to ft/s² converter, acceleration units conversion, physics calculator 2026, g-force converter, meters per second squared, acceleration calculator online, free physics tools, engineering calculator, automotive acceleration, aerospace calculator, galileo unit converter, centimeters per second squared, inches per second squared, kilometers per second squared, millimeters per second squared, scientific calculator, unit conversion tool, physics equations, velocity change calculator">
-<link rel="canonical" href="https://www.thiyagi.com/acceleration-converter">
 
 <!-- Open Graph Meta Tags -->
 <meta property="og:title" content="Acceleration Converter 2026 | m/s² to ft/s² | Free Physics Tool">
@@ -21,7 +20,6 @@
 <!-- Additional SEO Meta Tags -->
 <meta name="author" content="Thiyagi">
 <meta name="theme-color" content="#2563eb">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
 <meta name="language" content="EN">
 <meta name="revisit-after" content="7 days">
 <meta name="distribution" content="global">

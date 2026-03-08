@@ -2,7 +2,6 @@
 <title>Gallon to Cubic Feet Converter 2026 | Gal to Ft³ Calculator | Free Tool</title>
 <meta name="description" content="Professional gallon to cubic feet converter 2026. Convert gallons to ft³ instantly with precision calculations. Perfect for volume, storage, and capacity measurements.">
 <meta name="keywords" content="gallon to cubic feet converter 2026, gal to ft3 calculator, volume converter, storage capacity, liquid measurements">
-<link rel="canonical" href="https://www.thiyagi.com/gallon-to-cubic-feet">
 
 <!-- Open Graph Meta Tags -->
 <meta property="og:title" content="Gallon to Cubic Feet Converter 2026 | Gal to Ft³ Calculator | Free Tool">

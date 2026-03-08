@@ -2,16 +2,7 @@
 <title>Terms of Service - Thiyagi Tools | Privacy Policy & Terms</title>
 <meta name="description" content="Read our Terms of Service and Privacy Policy for Thiyagi Tools. Learn about user responsibilities, data usage, and service conditions for our free online tools and converters.">
 <meta name="keywords" content="terms of service, privacy policy, thiyagi tools, user agreement, terms and conditions, service terms, privacy terms, online tools terms">
-<link rel="canonical" href="https://thiyagi.com/terms.php">
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <!-- Add Tailwind CSS CDN -->
-    <script src="https://cdn.tailwindcss.com"></script>
     <!-- Add Font Awesome CDN -->
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css">
     <style>
         :root {
             --primary: #6e8efb;
@@ -57,8 +48,6 @@
         }
     </style>
 
-</head>
-<body>
     <!-- Header -->
     <header class="terms-header text-center">
         <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8"> <!-- container -> max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 -->
@@ -176,7 +165,6 @@
     </div>
 
    
-
     <!-- Scripts (Bootstrap JS removed) -->
     <script src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/js/all.min.js"></script>
 </body>

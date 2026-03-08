@@ -1,7 +1,4 @@
 <?php include '../../header.php'; ?>
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Saturday Bank Holidays in Tamil Nadu 2026 | Complete List</title>
     <meta name="description" content="Complete list of Saturday Bank Holidays in Tamil Nadu for 2026. Find all second and fourth Saturdays when banks will be closed. Plan your finances accordingly.">
     <meta name="keywords" content="Saturday Bank Holidays Tamil Nadu 2026, Second Saturday Holiday, Fourth Saturday Holiday, Tamil Nadu Bank Calendar, Bank Holidays India">
@@ -14,7 +11,6 @@
     <meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:title" content="Saturday Bank Holidays in Tamil Nadu 2026">
     <meta name="twitter:description" content="Complete list of Saturday Bank Holidays in Tamil Nadu for 2026. Find all second and fourth Saturdays when banks will be closed.">
-    <link rel="canonical" href="<?php echo 'https://' . $_SERVER['HTTP_HOST'] . $_SERVER['REQUEST_URI']; ?>">
     <meta name="language" content="English">
     <meta name="geo.region" content="IN-TN">
     <meta name="geo.placename" content="Tamil Nadu, India">
@@ -71,8 +67,6 @@
         "dateModified": "<?php echo date('Y-m-d'); ?>"
     }
     </script>
-    <script src="https://cdn.tailwindcss.com"></script>
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/remixicon/3.5.0/remixicon.css">
     <script>
         tailwind.config = {
@@ -88,7 +82,6 @@
             }
         }
     </script>
-</head>
 <body class="bg-gradient-to-br from-blue-50 to-indigo-100 min-h-screen">
     <!-- Header -->
     <header class="bg-gradient-to-r from-tn-blue to-blue-800 text-white shadow-lg relative overflow-hidden">

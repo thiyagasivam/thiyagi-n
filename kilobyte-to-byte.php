@@ -2,7 +2,6 @@
 <title>Kilobyte to Byte Converter 2026 | Convert KB to B | Free Tool</title>
 <meta name="description" content="Convert kilobyte to byte instantly with our 2026 accurate data converter. Perfect KB to B conversion with real-time calculations for digital storage needs.">
 <meta name="keywords" content="kilobyte to byte 2026, data converter, storage conversion 2026, KB to B calculator, digital storage tool">
-<link rel="canonical" href="https://www.thiyagi.com/kilobyte-to-byte">
 
 <!-- Open Graph Meta Tags -->
 <meta property="og:title" content="Kilobyte to Byte Converter 2026 | Convert KB to B | Free Tool">

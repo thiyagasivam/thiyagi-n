@@ -2,7 +2,6 @@
 <title>Square Meter to Square Inch Converter 2026 | Convert sqm to sq in | Free Tool</title>
 <meta name="description" content="Convert square meter to square inch instantly with our 2026 accurate area converter. Perfect sqm to sq in conversion with real-time calculations for precision measurement needs.">
 <meta name="keywords" content="square meter to square inch 2026, area converter, precision conversion 2026, sqm to sq in calculator, area measurement tool">
-<link rel="canonical" href="https://www.thiyagi.com/square-meter-to-square-inch">
 
 <!-- Open Graph Meta Tags -->
 <meta property="og:title" content="Square Meter to Square Inch Converter 2026 | Convert sqm to sq in | Free Tool">

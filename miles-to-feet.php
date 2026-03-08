@@ -2,7 +2,6 @@
 <title>Miles to Feet Converter 2026 | Professional Distance Calculator | Free Tool</title>
 <meta name="description" content="Professional miles to feet converter 2026. Convert miles to feet instantly with precision calculations. Perfect for sports, construction, and distance measurements.">
 <meta name="keywords" content="miles to feet converter 2026, distance calculator, mile conversion, length converter, sports measurements">
-<link rel="canonical" href="https://www.thiyagi.com/miles-to-feet">
 
 <!-- Open Graph Meta Tags -->
 <meta property="og:title" content="Miles to Feet Converter 2026 | Professional Distance Calculator | Free Tool">

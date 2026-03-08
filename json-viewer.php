@@ -1,5 +1,4 @@
 <?php include 'header.php';?>
-<link rel="canonical" href="https://www.thiyagi.com/json-viewer">
 
 
 <?php
@@ -26,15 +25,8 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
     }
 }
 ?>
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>JSON Viewer Tool 2026 - Free Online Visualizer & Formatter</title>
 <meta name="description" content="Free online JSON viewer for 2026. Visualize, format, and explore JSON data with our interactive tree viewer. Beautify and analyze complex JSON structures instantly.">
-    <!-- Add Tailwind CSS CDN -->
-    <script src="https://cdn.tailwindcss.com"></script>
     <style>
         /* .json-container { position: relative; } - Handled by relative on parent */
         .copy-btn {
@@ -60,7 +52,6 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
         .null { color: #6c757d; }
     </style>
 
-</head>
 <body class="bg-gray-100">
     <div class="max-w-7xl mx-auto py-12 px-4 sm:px-6 lg:px-8"> <!-- container py-5 -> max-w-7xl mx-auto py-12 px-4 sm:px-6 lg:px-8 -->
         <div class="flex justify-center"> <!-- row justify-content-center -> flex justify-center -->

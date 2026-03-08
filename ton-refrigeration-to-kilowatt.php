@@ -2,7 +2,6 @@
 <title>Ton Refrigeration to Kilowatt Converter 2026 | Convert TR to kW | Free HVAC Tool</title>
 <meta name="description" content="Convert ton refrigeration to kilowatt instantly with our 2026 accurate converter. Professional TR to kW conversion with real-time calculations for HVAC design, cooling capacity, and refrigeration system specifications.">
 <meta name="keywords" content="ton refrigeration to kilowatt 2026, TR to kW converter, HVAC cooling capacity calculator, refrigeration power conversion, air conditioning sizing tool, chiller capacity converter">
-<link rel="canonical" href="https://www.thiyagi.com/ton-refrigeration-to-kilowatt">
 
 <!-- Open Graph Meta Tags -->
 <meta property="og:title" content="Ton Refrigeration to Kilowatt Converter 2026 | Convert TR to kW | Free HVAC Tool">

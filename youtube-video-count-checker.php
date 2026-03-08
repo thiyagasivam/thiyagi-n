@@ -1,5 +1,4 @@
 <?php include 'header.php';?>
-<link rel="canonical" href="https://www.thiyagi.com/youtube-video-count-checker">
 
 <?php
 /**
@@ -104,11 +103,6 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
     }
 }
 ?>
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Free YouTube Video Count Checker 2026 - Channel Analytics</title>
     <meta name="description" content="Check total video count for any YouTube channel instantly. Professional channel analytics tool for content creators and researchers (2026).">
     <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" rel="stylesheet">
@@ -192,7 +186,6 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
         }]
     }
     </script>
-</head>
 <body class="bg-gray-50">
     <div class="container mx-auto px-4 py-8 max-w-6xl">
         <header class="text-center mb-8">
@@ -347,7 +340,6 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
                 <p><strong>YouTube video count represents the total number</strong> of publicly visible videos uploaded to a specific channel—a fundamental metric indicating channel content volume, publishing frequency patterns, content library size, production capacity, and overall channel activity level. This metric provides essential insights into creator consistency, content strategy scale, channel maturity, topic coverage breadth, and commitment level distinguishing active professional channels from casual creators or abandoned accounts requiring careful interpretation within broader channel performance context and industry benchmarks.</p>
                 
                 <p>The <strong>significance of video count extends beyond simple counting</strong>—it reveals content production sustainability, publishing consistency over time, niche focus versus topic diversity, content library monetization potential, and creator dedication reflecting strategic positioning within competitive YouTube landscape. High video counts may indicate established creators with extensive content libraries suitable for long-term viewer engagement while moderate counts might suggest focused niche specialists prioritizing quality over quantity requiring contextual analysis combining video count with views, subscribers, engagement rates, and publishing patterns for comprehensive channel assessment.</p>
-                
                 
                 
                 <h3 class="text-2xl font-bold text-gray-900 mt-8 mb-4">How YouTube Video Count Checker Works</h3>

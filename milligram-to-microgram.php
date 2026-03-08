@@ -2,7 +2,6 @@
 <title>Milligram to Microgram Converter 2026 | mg to µg Calculator | Free Tool</title>
 <meta name="description" content="Professional milligram to microgram converter 2026. Convert mg to µg instantly with precision calculations. Perfect for medicine, pharmaceuticals, and scientific measurements.">
 <meta name="keywords" content="milligram to microgram converter 2026, mg to µg calculator, medicine converter, pharmaceutical measurements, scientific conversion">
-<link rel="canonical" href="https://www.thiyagi.com/milligram-to-microgram">
 
 <!-- Open Graph Meta Tags -->
 <meta property="og:title" content="Milligram to Microgram Converter 2026 | mg to µg Calculator | Free Tool">

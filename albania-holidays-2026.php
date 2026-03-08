@@ -1,5 +1,4 @@
 <?php include 'header.php';?>
-<link rel="canonical" href="https://www.thiyagi.com/albania-holidays-2026">
 
 <?php
 $year = 2026;
@@ -12,14 +11,8 @@ $holidays = json_decode(file_get_contents($apiUrl), true);
 // Set page title
 $pageTitle = "Albania Public Holidays 2026 - Complete List & Dates";
 ?>
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title><?php echo $pageTitle; ?></title>
     <meta name="description" content="Official list of Albania’s 2026 public holidays with dates. Includes bank holidays, festivals, and key dates for travel planning. Always up-to-date!">
-    <script src="https://cdn.tailwindcss.com"></script>
     <link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>🇦🇱</text></svg>">
     <style>
         @import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap');
@@ -31,7 +24,6 @@ $pageTitle = "Albania Public Holidays 2026 - Complete List & Dates";
         }
     </style>
 
-</head>
 <body class="bg-gray-50">
     <div class="min-h-screen flex flex-col">
         <!-- Header -->

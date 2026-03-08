@@ -2,7 +2,6 @@
 <title>Cent to Square Feet Converter 2026 | Cent to Sqft | Free Tool</title>
 <meta name="description" content="Convert cent to square feet instantly with our 2026 accurate converter. Perfect cent to sqft conversion with real-time calculations for land measurement.">
 <meta name="keywords" content="cent to square feet 2026, cent sqft converter, Indian land measurement 2026, property conversion calculator, real estate measurement">
-<link rel="canonical" href="https://www.thiyagi.com/cent-to-sqft">
 
 <!-- Open Graph Meta Tags -->
 <meta property="og:title" content="Cent to Square Feet Converter 2026 | Cent to Sqft | Free Tool">

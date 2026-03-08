@@ -6,7 +6,6 @@ include '../../../header.php';
 ?>
 
 <!-- Page specific meta tags -->
-<link rel="canonical" href="https://www.thiyagi.com/holiday/uk-holiday/england-cities/newcastle-holidays">
 <title>Newcastle Holidays 2026 | Complete Calendar | Local Events | Bank Holidays</title>
 <meta name="description" content="Complete Newcastle Holiday Calendar 2026. Find all bank holidays, local events, festivals, and observances. Plan your year with our comprehensive Newcastle holiday guide.">
 <meta name="keywords" content="Newcastle holidays 2026, Newcastle events, Newcastle festivals, England holidays, Newcastle calendar">

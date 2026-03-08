@@ -2,7 +2,6 @@
 <title>KB to GB Converter 2026 | Kilobytes to Gigabytes Calculator | Free Tool</title>
 <meta name="description" content="Professional KB to GB converter 2026. Convert kilobytes to gigabytes instantly with precision calculations. Perfect for file sizes, storage planning, and data management.">
 <meta name="keywords" content="kb to gb converter 2026, kilobytes to gigabytes calculator, data converter, file size converter, storage calculator, digital storage conversion">
-<link rel="canonical" href="https://www.thiyagi.com/kb-to-gb">
 
 <!-- Open Graph Meta Tags -->
 <meta property="og:title" content="KB to GB Converter 2026 | Kilobytes to Gigabytes Calculator | Free Tool">

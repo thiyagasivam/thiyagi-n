@@ -3,7 +3,6 @@
 <title>USA Holidays 2026 | State-wise Calendar & Federal Holidays</title>
 <meta name="description" content="Comprehensive USA Holidays 2026 calendar. View federal and state holidays, observances, and tips for all 50 states. Plan your year with our modern, easy-to-use guide.">
 <meta name="keywords" content="USA holidays 2026, American holidays, federal holidays, state holidays, US calendar">
-<link rel="canonical" href="https://<?= $_SERVER['HTTP_HOST'] . strtok($_SERVER['REQUEST_URI'], '?') ?>">
 
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/remixicon/3.5.0/remixicon.css">
 

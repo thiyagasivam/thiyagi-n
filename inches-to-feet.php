@@ -39,7 +39,6 @@ $canonicalUrl = $isDynamicPage ?
 <?php else: ?>
 <meta name="keywords" content="inches to feet 2026, inch feet converter, imperial unit conversion 2026, construction measurement calculator, building conversion">
 <?php endif; ?>
-<link rel="canonical" href="<?php echo htmlspecialchars($canonicalUrl); ?>">
 
 <!-- Open Graph Meta Tags -->
 <meta property="og:title" content="<?php echo htmlspecialchars($pageTitle); ?>">
@@ -60,7 +59,6 @@ $canonicalUrl = $isDynamicPage ?
 <!-- Additional SEO Meta Tags -->
 <meta name="author" content="Thiyagi">
 <meta name="theme-color" content="#0891b2">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
 <meta name="language" content="English">
 <meta name="revisit-after" content="7 days">
 <meta name="distribution" content="global">

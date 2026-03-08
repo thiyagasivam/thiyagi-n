@@ -2,7 +2,6 @@
 <title>Meter to Foot Converter 2026 | M to FT | Free Tool</title>
 <meta name="description" content="Convert meter to foot instantly with our 2026 accurate converter. Perfect m to ft conversion with real-time calculations for construction and engineering.">
 <meta name="keywords" content="meter to foot 2026, meter foot converter, length unit conversion 2026, engineering calculator, m ft conversion">
-<link rel="canonical" href="https://www.thiyagi.com/meter-to-foot">
 
 <!-- Open Graph Meta Tags -->
 <meta property="og:title" content="Meter to Foot Converter 2026 | M to FT | Free Tool">

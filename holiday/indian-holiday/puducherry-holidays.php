@@ -1,7 +1,4 @@
 <?php include '../../header.php'; ?>
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Puducherry Holidays 2026 | Complete Calendar | Tamil Festivals | National Holidays</title>
     <meta name="description" content="Complete Puducherry Holiday Calendar 2026. Find all Tamil festivals, national holidays, cultural events, and religious celebrations. Plan your year with our comprehensive holiday guide.">
     <meta name="keywords" content="Puducherry holidays 2026, Tamil festivals, Pongal, Tamil New Year, national holidays India, Tamil cultural events, Puducherry calendar, holidays Puducherry, festival dates 2026">
@@ -14,7 +11,6 @@
     <meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:title" content="Puducherry Holidays 2026">
     <meta name="twitter:description" content="Complete Puducherry Holiday Calendar 2026 with all festivals and holidays.">
-    <link rel="canonical" href="<?php echo 'https://' . $_SERVER['HTTP_HOST'] . $_SERVER['REQUEST_URI']; ?>">
     <meta name="language" content="English, Tamil, French">
     <meta name="geo.region" content="IN-PY">
     <meta name="geo.placename" content="Puducherry, India">
@@ -79,8 +75,6 @@
         "dateModified": "<?php echo date('Y-m-d'); ?>"
     }
     </script>
-    <script src="https://cdn.tailwindcss.com"></script>
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/remixicon/3.5.0/remixicon.css">
     <script>
         tailwind.config = {
@@ -96,7 +90,6 @@
             }
         }
     </script>
-</head>
 <body class="bg-gradient-to-br from-blue-50 to-indigo-100 min-h-screen">
     <?php
     // Puducherry Holidays 2026 Data

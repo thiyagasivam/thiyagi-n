@@ -1,7 +1,6 @@
 ﻿<?php include 'header.php'; ?>
 
 <!-- SEO Meta Tags -->
-<link rel="canonical" href="https://www.thiyagi.com/picometer-to-meter">
 <title>Picometer to Meter Converter 2026 - pm to m Calculator | Thiyagi</title>
 <meta name="description" content="Free online Picometer to Meter converter 2026. Convert pm to m and m to pm instantly with accurate nanoscale distance conversion for scientific research.">
 <meta name="keywords" content="picometer to meter converter 2026, pm to m, nanoscale converter, scientific measurement, atomic scale, molecular distance">

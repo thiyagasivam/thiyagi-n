@@ -2,7 +2,6 @@
 <title>Cubic Feet to Cubic Meter Converter 2026 | Cu Ft to Cu M | Free Tool</title>
 <meta name="description" content="Convert cubic feet to cubic meter instantly with our 2026 accurate converter. Perfect cu ft to cu m conversion with real-time calculations for volume measurement.">
 <meta name="keywords" content="cubic feet to cubic meter 2026, cu ft cu m converter, volume conversion 2026, space measurement calculator, capacity conversion">
-<link rel="canonical" href="https://www.thiyagi.com/cubic-feet-to-cubic-meter">
 
 <!-- Open Graph Meta Tags -->
 <meta property="og:title" content="Cubic Feet to Cubic Meter Converter 2026 | Cu Ft to Cu M | Free Tool">

@@ -2,7 +2,6 @@
 <title>US Quarts to Fluid Ounces Converter 2026 | Qt to Fl Oz Calculator | Free Tool</title>
 <meta name="description" content="Professional US quarts to fluid ounces converter 2026. Convert qt to fl oz instantly with precision calculations. Perfect for cooking, recipes, and volume measurements.">
 <meta name="keywords" content="us quarts to fluid ounces converter 2026, qt to fl oz calculator, cooking converter, recipe calculator, volume measurements">
-<link rel="canonical" href="https://www.thiyagi.com/quart-us-to-fluid-ounce-us">
 
 <!-- Open Graph Meta Tags -->
 <meta property="og:title" content="US Quarts to Fluid Ounces Converter 2026 | Qt to Fl Oz Calculator | Free Tool">

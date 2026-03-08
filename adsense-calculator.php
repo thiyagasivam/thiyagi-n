@@ -1,5 +1,4 @@
 <?php include 'header.php';?>
-<link rel="canonical" href="https://www.thiyagi.com/adsense-calculator">
 
 
 <?php
@@ -28,9 +27,6 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
 ?>
 
 
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Free AdSense Revenue Calculator 2026 - Estimate Earnings Easily | Thiyagai.com</title>
     <meta name="description" content="Calculate your Google AdSense earnings for 2026 with our free tool! Adjust traffic, CTR & RPM to maximize revenue. Try Thiyagai.com’s AdSense Revenue Calculator now!">
     <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" rel="stylesheet">
@@ -57,8 +53,6 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
         }
     </style>
 
-</head>
-<body>
     <div class="container mx-auto px-4 py-8 max-w-4xl">
         <header class="text-center mb-10">
             <h1 class="text-3xl md:text-4xl font-bold text-gray-800 mb-3">AdSense Revenue Calculator</h1>

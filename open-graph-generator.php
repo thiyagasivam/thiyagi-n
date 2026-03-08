@@ -1,5 +1,4 @@
 <?php include 'header.php';?>
-<link rel="canonical" href="https://www.thiyagi.com/open-graph-generator">
 
 
 <?php
@@ -31,16 +30,10 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
 }
 ?>
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Open Graph Generator 2026 - Free Meta Tags Creator for Social Media</title>
 <meta name="description" content="Create perfect Open Graph meta tags for 2026. Generate social media previews for Facebook, Twitter & LinkedIn with our free online tool. Optimize your website's share appearance instantly.">
     <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" rel="stylesheet">
 
-</head>
 <body class="bg-gray-100">
     <div class="container mx-auto p-4">
         <h1 class="text-3xl font-bold text-center mb-6">Open Graph Generator</h1>

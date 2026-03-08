@@ -2,7 +2,6 @@
 <title>Square Feet to Acre Converter 2026 | Sqft to Acre | Free Tool</title>
 <meta name="description" content="Convert square feet to acres instantly with our 2026 accurate converter. Perfect sqft to acre conversion with real-time calculations for land measurement, agriculture, and real estate.">
 <meta name="keywords" content="square feet to acre 2026, sqft to acre converter, feet to acre conversion, land measurement 2026, agriculture calculator, real estate conversion">
-<link rel="canonical" href="https://www.thiyagi.com/sqft-to-acre">
 
 <!-- Open Graph Meta Tags -->
 <meta property="og:title" content="Square Feet to Acre Converter 2026 | Sqft to Acre | Free Tool">

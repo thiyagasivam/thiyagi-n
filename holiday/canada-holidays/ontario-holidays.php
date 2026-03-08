@@ -3,7 +3,6 @@
 <title>Ontario Holidays 2026 | Complete Calendar | Provincial & Federal Holidays</title>
 <meta name="description" content="Complete Ontario Holiday Calendar 2026. Find all provincial holidays, federal holidays, and observances for Ontario, Canada. Plan your year with our comprehensive guide.">
 <meta name="keywords" content="Ontario holidays 2026, Ontario provincial holidays, Canada federal holidays, Family Day Ontario, Civic Holiday, statutory holidays Ontario">
-<link rel="canonical" href="https://<?= $_SERVER['HTTP_HOST'] . strtok($_SERVER['REQUEST_URI'], '?') ?>">
 
 <style>
 :root {

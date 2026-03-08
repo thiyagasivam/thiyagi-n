@@ -1,7 +1,6 @@
 ﻿<?php include 'header.php'; ?>
 
 <!-- SEO Meta Tags -->
-<link rel="canonical" href="https://www.thiyagi.com/cubic-foot-to-ton-register">
 <title>Cubic Foot to Ton Register Converter 2026 - ft³ to ton reg Calculator | Thiyagi</title>
 <meta name="description" content="Free online Cubic Foot to Ton Register converter 2026. Convert ft³ to ton reg and ton reg to ft³ instantly with accurate volume conversion.">
 <meta name="keywords" content="cubic foot to ton register converter 2026, ft³ to ton reg, volume converter, shipping measurement, cargo capacity">

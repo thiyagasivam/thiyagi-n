@@ -142,15 +142,9 @@ $acceptLanguage = $_SERVER['HTTP_ACCEPT_LANGUAGE'] ?? 'Unknown';
 $serverTime = date('Y-m-d H:i:s T');
 ?>
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>What Is My IP Address 2026 - Check IP Location & Network Information</title>
     <meta name="description" content="Check your public IP address, location, ISP, and network information instantly. Professional IP lookup tool with geolocation, security analysis, and comprehensive network diagnostics for 2026.">
     <meta name="keywords" content="what is my IP, IP address checker, IP location, public IP, IP lookup tool 2026, geolocation, network diagnostics, ISP information">
-    <link rel="canonical" href="https://www.thiyagi.com/what-is-my-ip">
     
     <!-- Open Graph / Facebook -->
     <meta property="og:type" content="website">
@@ -218,7 +212,6 @@ $serverTime = date('Y-m-d H:i:s T');
             100% { background-color: #3B82F6; }
         }
     </style>
-</head>
 <body class="bg-gray-50">
     <!-- Breadcrumb Navigation -->
     <nav class="bg-white border-b border-gray-200 px-4 py-3">

@@ -1,7 +1,6 @@
 ﻿<?php include 'header.php'; ?>
 
 <!-- SEO Meta Tags -->
-<link rel="canonical" href="https://www.thiyagi.com/temperature-converterl">
 <title>Temperature Converter 2026 - Universal Temperature Calculator | Thiyagi</title>
 <meta name="description" content="Free online temperature converter 2026. Convert Celsius, Fahrenheit, Kelvin, and Rankine instantly with accurate temperature conversion.">
 <meta name="keywords" content="temperature converter 2026, celsius fahrenheit, kelvin rankine, universal temperature calculator, temperature conversion">

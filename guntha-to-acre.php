@@ -2,7 +2,6 @@
 <title>Guntha to Acre Converter 2026 | Convert guntha to acre | Free Tool</title>
 <meta name="description" content="Convert guntha to acre instantly with our 2026 accurate converter. Perfect guntha to acre conversion with real-time calculations for Indian land measurement.">
 <meta name="keywords" content="guntha to acre 2026, guntha acre converter, Indian land measurement 2026, property area calculator, land surveying tool India">
-<link rel="canonical" href="https://www.thiyagi.com/guntha-to-acre">
 
 <!-- Open Graph Meta Tags -->
 <meta property="og:title" content="Guntha to Acre Converter 2026 | Convert guntha to acre | Free Tool">

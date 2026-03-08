@@ -2,7 +2,6 @@
 <title>ML to Ounce Converter 2026 | Convert milliliter to fluid ounce | Free Tool</title>
 <meta name="description" content="Convert milliliter to fluid ounce instantly with our 2026 accurate converter. Perfect ml to oz conversion with real-time calculations for cooking and volume measurement.">
 <meta name="keywords" content="ml to ounce 2026, milliliter fluid ounce converter, cooking conversion 2026, recipe measurement calculator, liquid conversion tool">
-<link rel="canonical" href="https://www.thiyagi.com/ml-to-ounce">
 
 <!-- Open Graph Meta Tags -->
 <meta property="og:title" content="ML to Ounce Converter 2026 | Convert milliliter to fluid ounce | Free Tool">

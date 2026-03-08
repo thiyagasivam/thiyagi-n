@@ -2,7 +2,6 @@
 <title>Teaspoon to ML Converter 2026 | Convert teaspoon to milliliter | Free Tool</title>
 <meta name="description" content="Convert teaspoon to milliliter instantly with our 2026 accurate converter. Perfect tsp to ml conversion with real-time calculations for cooking and baking measurement.">
 <meta name="keywords" content="teaspoon to ml 2026, tsp milliliter converter, cooking conversion 2026, recipe measurement calculator, baking conversion tool">
-<link rel="canonical" href="https://www.thiyagi.com/teaspoon-to-ml">
 
 <!-- Open Graph Meta Tags -->
 <meta property="og:title" content="Teaspoon to ML Converter 2026 | Convert teaspoon to milliliter | Free Tool">

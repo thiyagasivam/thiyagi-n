@@ -1,5 +1,4 @@
 <?php include 'header.php';?>
-<link rel="canonical" href="https://www.thiyagi.com/bmi-calculator">
 
 
 <?php
@@ -53,11 +52,6 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST' && isset($_POST['weight']) && isset($_
 }
 ?>
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Free BMI Calculator 2026 - Accurate Weight Status Tool</title>
     <meta name="description" content="Calculate your Body Mass Index (BMI) for 2026 instantly! Free tool with WHO classification. Checks if you're underweight, normal, or obese. No sign-up needed!">
     <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" rel="stylesheet">
@@ -78,7 +72,6 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST' && isset($_POST['weight']) && isset($_
     }
     </style>
 
-</head>
 <body class="bg-gray-50">
     <div class="container mx-auto px-4 py-8 max-w-3xl">
         <header class="mb-8 text-center">

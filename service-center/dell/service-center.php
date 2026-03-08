@@ -124,13 +124,7 @@ try {
     die("Service unavailable. Please try again later.");
 }
 ?>
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="<?= htmlspecialchars($center['about'], ENT_QUOTES, 'UTF-8') ?>">
-    <link rel="canonical" href="https://www.thiyagi.com/service-center/dell/service-center">
 <title><?= htmlspecialchars($center['page_title'], ENT_QUOTES, 'UTF-8') ?></title>
     <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" rel="stylesheet">
     <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css" rel="stylesheet">
@@ -222,7 +216,6 @@ try {
         }
     </style>
 
-</head>
 <body class="bg-gray-50">
     <header class="bg-gradient-to-r from-blue-900 to-blue-700 text-white py-8">
         <div class="container mx-auto px-4 text-center">
@@ -467,8 +460,6 @@ try {
 }
     </style>
 
-</head>
-<body>
     <div class="container">
         <h2 class="modern-heading">Dell Service Centers</h2>
         <div class="grid-container">

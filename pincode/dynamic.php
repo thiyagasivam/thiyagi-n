@@ -384,11 +384,6 @@ class DynamicPincodeGenerator {
         
         ob_start();
         ?>
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     
     <!-- Primary Meta Tags -->
     <title><?php echo htmlspecialchars($title); ?></title>
@@ -396,7 +391,6 @@ class DynamicPincodeGenerator {
     <meta name="description" content="<?php echo htmlspecialchars($description); ?>">
     <meta name="keywords" content="<?php echo htmlspecialchars($areaName); ?> pincode, <?php echo $pincode; ?>, <?php echo htmlspecialchars($districtName); ?> pincode, <?php echo htmlspecialchars($stateName); ?> pincode, postal code, India post">
     <meta name="author" content="Thiyagi">
-        <link rel="canonical" href="https://www.thiyagi.com/pincode/<?php echo $state; ?>/<?php echo $district; ?>/<?php echo $area; ?>-pincode-<?php echo $pincode; ?>">
 
     <!-- Open Graph / Facebook -->
     <meta property="og:type" content="website">
@@ -443,7 +437,6 @@ class DynamicPincodeGenerator {
     </script>
 
     <!-- CSS Framework -->
-    <script src="https://cdn.tailwindcss.com"></script>
     <script>
         tailwind.config = {
             theme: {
@@ -459,14 +452,12 @@ class DynamicPincodeGenerator {
     </script>
     
     <!-- Font Awesome -->
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
     
     <!-- Favicon -->
     <link rel="icon" type="image/x-icon" href="/favicon.ico">
     <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
     <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
     <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
-</head>
 <body class="bg-gray-50">
     <?php include_once '../header.php'; ?>
     

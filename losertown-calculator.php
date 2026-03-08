@@ -1,8 +1,5 @@
 <?php include 'header.php'; ?>
 
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Losertown Weight Loss Calculator 2026 - Metabolic Adaptation Predictor | Thiyagi.com</title>
     <meta name="description" content="Losertown weight loss calculator 2026 - predict weight loss timeline with metabolic adaptation, plateau effects, and realistic projections based on scientific research.">
     <meta name="keywords" content="losertown calculator 2026, weight loss prediction, metabolic adaptation, weight loss timeline, plateau calculator, diet prediction">
@@ -22,11 +19,8 @@
     <meta name="twitter:image" content="https://www.thiyagi.com/nt.png">
     
     <!-- Canonical URL -->
-    <link rel="canonical" href="https://www.thiyagi.com/losertown-calculator">
     
     <!-- Tailwind CSS -->
-    <script src="https://cdn.tailwindcss.com"></script>
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
     <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
 
 <style>
@@ -126,7 +120,6 @@
 }
 </script>
 
-</head>
 <body class="bg-gray-50">
     <!-- Header -->
     <header class="gradient-bg shadow-lg">

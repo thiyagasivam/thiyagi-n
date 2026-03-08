@@ -1,15 +1,6 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Volume Converter - Universal Volume Unit Conversion Calculator</title>
     <meta name="description" content="Convert between all volume units including liters, gallons, cubic meters, cubic feet, milliliters, and more with our comprehensive volume converter.">
     <meta name="keywords" content="volume converter, unit converter, liters to gallons, cubic meters conversion, volume calculator">
-    <script src="https://cdn.tailwindcss.com"></script>
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
-</head>
-<body>
 
 <div class="min-h-screen bg-gradient-to-br from-blue-50 to-cyan-100 py-8">
     <div class="max-w-6xl mx-auto px-4">

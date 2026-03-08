@@ -23,15 +23,9 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
 }
 ?>
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <title>URL Encoder & Decoder 2026 - Encode and Decode URLs Online</title>
         <meta name="description" content="Free URL Encoder & Decoder tool to convert text to URL-safe format and decode percent-encoded URLs. Fast, accurate, and mobile-friendly.">
         <meta name="keywords" content="URL encoder, URL decoder, percent encoding, URL escape, URL unescape, encode decode URL">
-        <link rel="canonical" href="https://<?php echo $_SERVER['HTTP_HOST'] . strtok($_SERVER['REQUEST_URI'], '?'); ?>">
 
         <!-- Open Graph -->
         <meta property="og:type" content="website">
@@ -88,7 +82,6 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
         }
     </style>
 
-</head>
 <body class="bg-gray-50">
     <!-- Breadcrumb -->
     <nav class="bg-white shadow-sm border-b">

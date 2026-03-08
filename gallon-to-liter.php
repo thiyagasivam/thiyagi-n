@@ -2,7 +2,6 @@
 <title>Gallon to Liter Converter 2026 | Convert gallon to liter | Free Tool</title>
 <meta name="description" content="Convert gallon to liter instantly with our 2026 accurate converter. Perfect gallon to liter conversion with real-time calculations for volume measurement.">
 <meta name="keywords" content="gallon to liter 2026, gallon liter converter, volume conversion 2026, fuel measurement calculator, liquid conversion tool">
-<link rel="canonical" href="https://www.thiyagi.com/gallon-to-liter">
 
 <!-- Open Graph Meta Tags -->
 <meta property="og:title" content="Gallon to Liter Converter 2026 | Convert gallon to liter | Free Tool">

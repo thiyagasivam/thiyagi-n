@@ -2,7 +2,6 @@
 <title>Kilopascals to PSI Converter 2026 | kPa to PSI Calculator | Free Tool</title>
 <meta name="description" content="Professional kilopascals to PSI converter 2026. Convert kPa to PSI instantly with precision calculations. Perfect for pressure measurements, automotive, and engineering.">
 <meta name="keywords" content="kilopascals to psi converter 2026, kPa to PSI calculator, pressure converter, automotive pressure, tire pressure">
-<link rel="canonical" href="https://www.thiyagi.com/kpa-to-psi">
 
 <!-- Open Graph Meta Tags -->
 <meta property="og:title" content="Kilopascals to PSI Converter 2026 | kPa to PSI Calculator | Free Tool">

@@ -2,7 +2,6 @@
 <title>Square Feet to Gaj Converter 2026 | Sqft to Gaj | Free Tool</title>
 <meta name="description" content="Convert square feet to gaj instantly with our 2026 accurate converter. Perfect sqft to gaj conversion with real-time calculations for Indian real estate and property measurements.">
 <meta name="keywords" content="square feet to gaj 2026, sqft to gaj converter, feet to gaj conversion, area conversion 2026, Indian property measurement, real estate calculator">
-<link rel="canonical" href="https://www.thiyagi.com/sqft-to-gaj">
 
 <!-- Open Graph Meta Tags -->
 <meta property="og:title" content="Square Feet to Gaj Converter 2026 | Sqft to Gaj | Free Tool">

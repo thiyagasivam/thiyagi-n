@@ -1,7 +1,4 @@
 <?php include '../../header.php'; ?>
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Andhra Pradesh Holidays 2026 | Complete Calendar | Telugu Festivals | National Holidays</title>
     <meta name="description" content="Complete Andhra Pradesh Holiday Calendar 2026. Find all Telugu festivals, national holidays, cultural events, and religious celebrations. Plan your year with our comprehensive holiday guide.">
     <meta name="keywords" content="Andhra Pradesh holidays 2026, Telugu festivals, Ugadi, Telugu New Year, national holidays India, Telugu cultural events, Andhra Pradesh calendar, holidays Andhra Pradesh, festival dates 2026">
@@ -17,7 +14,6 @@
     <meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:title" content="Andhra Pradesh Holidays 2026">
     <meta name="twitter:description" content="Complete Andhra Pradesh Holiday Calendar 2026 with all festivals and holidays.">
-    <link rel="canonical" href="<?php echo 'https://' . $_SERVER['HTTP_HOST'] . $_SERVER['REQUEST_URI']; ?>">
     <link rel="manifest" href="/manifest.json">
     <meta name="language" content="English, Telugu">
     <meta name="geo.region" content="IN-AP">
@@ -25,7 +21,6 @@
     
     <!-- Performance Optimization -->
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="dns-prefetch" href="//cdn.tailwindcss.com">
     <link rel="dns-prefetch" href="//cdnjs.cloudflare.com">
     <link rel="dns-prefetch" href="//cdn.jsdelivr.net">
@@ -99,7 +94,6 @@
     
     <!-- Font Awesome - Optimized with preload -->
     <link rel="preload" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
-    <noscript><link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css"></noscript>
     
     <!-- Remixicon - Optimized with preload -->
     <link rel="preload" href="https://cdnjs.cloudflare.com/ajax/libs/remixicon/3.5.0/remixicon.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
@@ -164,7 +158,6 @@
             }
         }
     </script>
-</head>
 <body class="bg-gradient-to-br from-blue-50 to-indigo-100 min-h-screen">
     <!-- Loading Indicator -->
     <div id="loadingIndicator" class="fixed inset-0 bg-white z-50 flex items-center justify-center">

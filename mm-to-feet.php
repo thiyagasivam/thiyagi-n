@@ -2,7 +2,6 @@
 <title>Millimeter to Feet Converter 2026 | MM to Feet | Free Tool</title>
 <meta name="description" content="Convert millimeter to feet instantly with our 2026 accurate converter. Perfect mm to feet conversion with real-time calculations for precision measurement.">
 <meta name="keywords" content="millimeter to feet 2026, mm feet converter, metric to imperial 2026, precision measurement calculator, engineering conversion">
-<link rel="canonical" href="https://www.thiyagi.com/mm-to-feet">
 
 <!-- Open Graph Meta Tags -->
 <meta property="og:title" content="Millimeter to Feet Converter 2026 | MM to Feet | Free Tool">
