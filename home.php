@@ -748,15 +748,6 @@
                     </a>
                 </div>
                 <div>
-                    <a href="https://www.thiyagi.com/tattoo-tip-calculator" class="block no-underline">
-                        <div class="tool-card border-l-finance">
-                            <i class="fas fa-hand-holding-usd text-finance"></i>
-                            <span class="font-medium text-gray-700">Tattoo Tip Calculator</span>
-                            <span class="new-tag">NEW</span>
-                        </div>
-                    </a>
-                </div>
-                <div>
                     <a href="https://www.thiyagi.com/tax-free-childcare-calculator" class="block no-underline">
                         <div class="tool-card border-l-finance">
                             <i class="fas fa-child text-finance"></i>
@@ -765,33 +756,7 @@
                         </div>
                     </a>
                 </div>
-                <div>
-                    <a href="https://www.thiyagi.com/terminus-calculator" class="block no-underline">
-                        <div class="tool-card border-l-finance">
-                            <i class="fas fa-terminal text-finance"></i>
-                            <span class="font-medium text-gray-700">Terminus Calculator</span>
-                            <span class="new-tag">NEW</span>
-                        </div>
-                    </a>
-                </div>
-                <div>
-                    <a href="https://www.thiyagi.com/male-and-female-standards-calculator" class="block no-underline">
-                        <div class="tool-card border-l-finance">
-                            <i class="fas fa-balance-scale text-finance"></i>
-                            <span class="font-medium text-gray-700">Male & Female Standards Calculator</span>
-                            <span class="new-tag">NEW</span>
-                        </div>
-                    </a>
-                </div>
-                <div>
-                    <a href="https://www.thiyagi.com/penis-size-calculator" class="block no-underline">
-                        <div class="tool-card border-l-finance">
-                            <i class="fas fa-ruler text-finance"></i>
-                            <span class="font-medium text-gray-700">Penis Size Calculator</span>
-                            <span class="new-tag">NEW</span>
-                        </div>
-                    </a>
-                </div>
+
                 <div>
                     <a href="https://www.thiyagi.com/tv-wall-mount-height-calculator" class="block no-underline">
                         <div class="tool-card border-l-finance">
@@ -1092,26 +1057,10 @@
                     </a>
                 </div>
                 <div>
-                    <a href="https://www.thiyagi.com/morse-code-translator" class="block no-underline">
-                        <div class="tool-card border-l-text">
-                            <i class="fas fa-satellite-dish text-text"></i>
-                            <span class="font-medium text-gray-700">Morse Code Translator</span>
-                        </div>
-                    </a>
-                </div>
-                <div>
                     <a href="https://www.thiyagi.com/free-random-address-generator-usa" class="block no-underline">
                         <div class="tool-card border-l-text">
                             <i class="fas fa-map-marker-alt text-text"></i>
                             <span class="font-medium text-gray-700">USA Address Generator</span>
-                        </div>
-                    </a>
-                </div>
-                <div>
-                    <a href="https://www.thiyagi.com/sentence-checker" class="block no-underline">
-                        <div class="tool-card border-l-text">
-                            <i class="fas fa-spell-check text-text"></i>
-                            <span class="font-medium text-gray-700">Sentence Checker</span>
                         </div>
                     </a>
                 </div>
@@ -1451,22 +1400,6 @@
                         <div class="tool-card border-l-web">
                             <i class="fas fa-search-location text-web"></i>
                             <span class="font-medium text-gray-700">IP Address Lookup</span>
-                        </div>
-                    </a>
-                </div>
-                <div>
-                    <a href="https://www.thiyagi.com/google-index-checker" class="block no-underline">
-                        <div class="tool-card border-l-web">
-                            <i class="fab fa-google text-web"></i>
-                            <span class="font-medium text-gray-700">Google Index Checker</span>
-                        </div>
-                    </a>
-                </div>
-                <div>
-                    <a href="https://www.thiyagi.com/google-cache-checker" class="block no-underline">
-                        <div class="tool-card border-l-web">
-                            <i class="fas fa-archive text-web"></i>
-                            <span class="font-medium text-gray-700">Google Cache Checker</span>
                         </div>
                     </a>
                 </div>
@@ -2286,23 +2219,6 @@
                     </a>
                 </div>
 
-                <!-- Additional Area Converters -->
-                <div>
-                    <a href="https://www.thiyagi.com/sqm-to-sqft" class="block no-underline">
-                        <div class="tool-card" style="border-left: 4px solid #16A34A;">
-                            <i class="fas fa-home text-green-600"></i>
-                            <span class="font-medium text-gray-700">Sqm to Sqft</span>
-                        </div>
-                    </a>
-                </div>
-                <div>
-                    <a href="https://www.thiyagi.com/sqft-to-sqm" class="block no-underline">
-                        <div class="tool-card" style="border-left: 4px solid #059669;">
-                            <i class="fas fa-building text-emerald-600"></i>
-                            <span class="font-medium text-gray-700">Sqft to Sqm</span>
-                        </div>
-                    </a>
-                </div>
                 <div>
                     <a href="https://www.thiyagi.com/sqm-to-acre" class="block no-underline">
                         <div class="tool-card" style="border-left: 4px solid #F59E0B;">
