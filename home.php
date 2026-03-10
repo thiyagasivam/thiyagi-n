@@ -801,6 +801,96 @@
                         </div>
                     </a>
                 </div>
+
+                <!-- New Calculators -->
+                <div>
+                    <a href="https://www.thiyagi.com/average-speed-calculator" class="block no-underline">
+                        <div class="tool-card border-l-finance">
+                            <i class="fas fa-tachometer-alt text-finance"></i>
+                            <span class="font-medium text-gray-700">Average Speed Calculator</span>
+                        </div>
+                    </a>
+                </div>
+                <div>
+                    <a href="https://www.thiyagi.com/bmi-calculator" class="block no-underline">
+                        <div class="tool-card border-l-finance">
+                            <i class="fas fa-heartbeat text-finance"></i>
+                            <span class="font-medium text-gray-700">BMI Calculator</span>
+                        </div>
+                    </a>
+                </div>
+                <div>
+                    <a href="https://www.thiyagi.com/distance-calculator" class="block no-underline">
+                        <div class="tool-card border-l-finance">
+                            <i class="fas fa-route text-finance"></i>
+                            <span class="font-medium text-gray-700">Distance Calculator</span>
+                        </div>
+                    </a>
+                </div>
+                <div>
+                    <a href="https://www.thiyagi.com/education-loan-emi-calculator" class="block no-underline">
+                        <div class="tool-card border-l-finance">
+                            <i class="fas fa-graduation-cap text-finance"></i>
+                            <span class="font-medium text-gray-700">Education Loan EMI Calculator</span>
+                        </div>
+                    </a>
+                </div>
+                <div>
+                    <a href="https://www.thiyagi.com/fuel-calculator" class="block no-underline">
+                        <div class="tool-card border-l-finance">
+                            <i class="fas fa-gas-pump text-finance"></i>
+                            <span class="font-medium text-gray-700">Fuel Calculator</span>
+                        </div>
+                    </a>
+                </div>
+                <div>
+                    <a href="https://www.thiyagi.com/fuel-consumption-calculator" class="block no-underline">
+                        <div class="tool-card border-l-finance">
+                            <i class="fas fa-gas-pump text-finance"></i>
+                            <span class="font-medium text-gray-700">Fuel Consumption Calculator</span>
+                        </div>
+                    </a>
+                </div>
+                <div>
+                    <a href="https://www.thiyagi.com/fuel-cost-calculator" class="block no-underline">
+                        <div class="tool-card border-l-finance">
+                            <i class="fas fa-gas-pump text-finance"></i>
+                            <span class="font-medium text-gray-700">Fuel Cost Calculator</span>
+                        </div>
+                    </a>
+                </div>
+                <div>
+                    <a href="https://www.thiyagi.com/grade-calculator" class="block no-underline">
+                        <div class="tool-card border-l-finance">
+                            <i class="fas fa-graduation-cap text-finance"></i>
+                            <span class="font-medium text-gray-700">Grade Calculator</span>
+                        </div>
+                    </a>
+                </div>
+                <div>
+                    <a href="https://www.thiyagi.com/ielts-score-calculator" class="block no-underline">
+                        <div class="tool-card border-l-finance">
+                            <i class="fas fa-chart-line text-finance"></i>
+                            <span class="font-medium text-gray-700">IELTS Score Calculator</span>
+                        </div>
+                    </a>
+                </div>
+                <div>
+                    <a href="https://www.thiyagi.com/semester-grade-calculator" class="block no-underline">
+                        <div class="tool-card border-l-finance">
+                            <i class="fas fa-graduation-cap text-finance"></i>
+                            <span class="font-medium text-gray-700">Semester Grade Calculator</span>
+                        </div>
+                    </a>
+                </div>
+                <div>
+                    <a href="https://www.thiyagi.com/towing-estimate-calculator" class="block no-underline">
+                        <div class="tool-card border-l-finance">
+                            <i class="fas fa-truck text-finance"></i>
+                            <span class="font-medium text-gray-700">Towing Estimate Calculator</span>
+                        </div>
+                    </a>
+                </div>
             </div>
         </div>
 
@@ -2405,6 +2495,3556 @@
                         </div>
                     </a>
                 </div>
+                <!-- ===== NEW PAGES ADDED ===== -->
+
+                <!-- New Weight Converters -->
+                <div>
+                    <a href="https://www.thiyagi.com/cc-to-fluid-ounce-us" class="block no-underline">
+                        <div class="tool-card" style="border-left: 4px solid #DC2626;">
+                            <i class="fas fa-weight-hanging text-red-600"></i>
+                            <span class="font-medium text-gray-700">CC To Fluid Ounce US</span>
+                        </div>
+                    </a>
+                </div>
+                <div>
+                    <a href="https://www.thiyagi.com/centigram-to-gram" class="block no-underline">
+                        <div class="tool-card" style="border-left: 4px solid #0891B2;">
+                            <i class="fas fa-weight-hanging text-cyan-600"></i>
+                            <span class="font-medium text-gray-700">Centigram To Gram</span>
+                        </div>
+                    </a>
+                </div>
+                <div>
+                    <a href="https://www.thiyagi.com/centiliter-to-fluid-ounce-us" class="block no-underline">
+                        <div class="tool-card" style="border-left: 4px solid #16A34A;">
+                            <i class="fas fa-weight text-green-600"></i>
+                            <span class="font-medium text-gray-700">Centiliter To Fluid Ounce US</span>
+                        </div>
+                    </a>
+                </div>
+                <div>
+                    <a href="https://www.thiyagi.com/cup-us-to-fluid-ounce-us" class="block no-underline">
+                        <div class="tool-card" style="border-left: 4px solid #7C3AED;">
+                            <i class="fas fa-weight-hanging text-purple-600"></i>
+                            <span class="font-medium text-gray-700">Cup US To Fluid Ounce US</span>
+                        </div>
+                    </a>
+                </div>
+                <div>
+                    <a href="https://www.thiyagi.com/decigram-to-gram" class="block no-underline">
+                        <div class="tool-card" style="border-left: 4px solid #EA580C;">
+                            <i class="fas fa-balance-scale text-orange-600"></i>
+                            <span class="font-medium text-gray-700">Decigram To Gram</span>
+                        </div>
+                    </a>
+                </div>
+                <div>
+                    <a href="https://www.thiyagi.com/fluid-ounce-us-to-gallon-us" class="block no-underline">
+                        <div class="tool-card" style="border-left: 4px solid #059669;">
+                            <i class="fas fa-weight-hanging text-emerald-600"></i>
+                            <span class="font-medium text-gray-700">Fluid Ounce US To Gallon US</span>
+                        </div>
+                    </a>
+                </div>
+                <div>
+                    <a href="https://www.thiyagi.com/fluid-ounce-us-to-milliliter" class="block no-underline">
+                        <div class="tool-card" style="border-left: 4px solid #F59E0B;">
+                            <i class="fas fa-balance-scale text-amber-600"></i>
+                            <span class="font-medium text-gray-700">Fluid Ounce US To Milliliter</span>
+                        </div>
+                    </a>
+                </div>
+                <div>
+                    <a href="https://www.thiyagi.com/fluid-ounce-us-to-quart-us" class="block no-underline">
+                        <div class="tool-card" style="border-left: 4px solid #EC4899;">
+                            <i class="fas fa-weight-hanging text-pink-600"></i>
+                            <span class="font-medium text-gray-700">Fluid Ounce US To Quart US</span>
+                        </div>
+                    </a>
+                </div>
+                <div>
+                    <a href="https://www.thiyagi.com/fluid-ounce-us-to-teaspoon-us" class="block no-underline">
+                        <div class="tool-card" style="border-left: 4px solid #6366F1;">
+                            <i class="fas fa-weight-hanging text-indigo-600"></i>
+                            <span class="font-medium text-gray-700">Fluid Ounce US To Teaspoon US</span>
+                        </div>
+                    </a>
+                </div>
+                <div>
+                    <a href="https://www.thiyagi.com/g-to-kg" class="block no-underline">
+                        <div class="tool-card" style="border-left: 4px solid #0F766E;">
+                            <i class="fas fa-weight text-teal-600"></i>
+                            <span class="font-medium text-gray-700">G To KG</span>
+                        </div>
+                    </a>
+                </div>
+                <div>
+                    <a href="https://www.thiyagi.com/gallon-us-to-fluid-ounce-us" class="block no-underline">
+                        <div class="tool-card" style="border-left: 4px solid #E11D48;">
+                            <i class="fas fa-balance-scale text-rose-600"></i>
+                            <span class="font-medium text-gray-700">Gallon US To Fluid Ounce US</span>
+                        </div>
+                    </a>
+                </div>
+                <div>
+                    <a href="https://www.thiyagi.com/grain-to-gram" class="block no-underline">
+                        <div class="tool-card" style="border-left: 4px solid #1E40AF;">
+                            <i class="fas fa-weight-hanging text-blue-600"></i>
+                            <span class="font-medium text-gray-700">Grain To Gram</span>
+                        </div>
+                    </a>
+                </div>
+                <div>
+                    <a href="https://www.thiyagi.com/grain-to-ounce" class="block no-underline">
+                        <div class="tool-card" style="border-left: 4px solid #475569;">
+                            <i class="fas fa-balance-scale text-slate-600"></i>
+                            <span class="font-medium text-gray-700">Grain To Ounce</span>
+                        </div>
+                    </a>
+                </div>
+                <div>
+                    <a href="https://www.thiyagi.com/grain-to-pound" class="block no-underline">
+                        <div class="tool-card" style="border-left: 4px solid #B45309;">
+                            <i class="fas fa-weight-hanging text-amber-700"></i>
+                            <span class="font-medium text-gray-700">Grain To Pound</span>
+                        </div>
+                    </a>
+                </div>
+                <div>
+                    <a href="https://www.thiyagi.com/gram-to-centigram" class="block no-underline">
+                        <div class="tool-card" style="border-left: 4px solid #4338CA;">
+                            <i class="fas fa-weight-hanging text-indigo-600"></i>
+                            <span class="font-medium text-gray-700">Gram To Centigram</span>
+                        </div>
+                    </a>
+                </div>
+                <div>
+                    <a href="https://www.thiyagi.com/gram-to-decigram" class="block no-underline">
+                        <div class="tool-card" style="border-left: 4px solid #0369A1;">
+                            <i class="fas fa-weight-hanging text-blue-600"></i>
+                            <span class="font-medium text-gray-700">Gram To Decigram</span>
+                        </div>
+                    </a>
+                </div>
+                <div>
+                    <a href="https://www.thiyagi.com/gram-to-grain" class="block no-underline">
+                        <div class="tool-card" style="border-left: 4px solid #F97316;">
+                            <i class="fas fa-weight-hanging text-orange-600"></i>
+                            <span class="font-medium text-gray-700">Gram To Grain</span>
+                        </div>
+                    </a>
+                </div>
+                <div>
+                    <a href="https://www.thiyagi.com/gram-to-microgram" class="block no-underline">
+                        <div class="tool-card" style="border-left: 4px solid #8B5CF6;">
+                            <i class="fas fa-balance-scale text-purple-600"></i>
+                            <span class="font-medium text-gray-700">Gram To Microgram</span>
+                        </div>
+                    </a>
+                </div>
+                <div>
+                    <a href="https://www.thiyagi.com/gram-to-pennyweight" class="block no-underline">
+                        <div class="tool-card" style="border-left: 4px solid #10B981;">
+                            <i class="fas fa-weight-hanging text-emerald-600"></i>
+                            <span class="font-medium text-gray-700">Gram To Pennyweight</span>
+                        </div>
+                    </a>
+                </div>
+                <div>
+                    <a href="https://www.thiyagi.com/grams-to-milligrams" class="block no-underline">
+                        <div class="tool-card" style="border-left: 4px solid #3B82F6;">
+                            <i class="fas fa-balance-scale text-blue-600"></i>
+                            <span class="font-medium text-gray-700">Grams To Milligrams</span>
+                        </div>
+                    </a>
+                </div>
+                <div>
+                    <a href="https://www.thiyagi.com/grams-to-ounces" class="block no-underline">
+                        <div class="tool-card" style="border-left: 4px solid #DC2626;">
+                            <i class="fas fa-weight text-red-600"></i>
+                            <span class="font-medium text-gray-700">Grams To Ounces</span>
+                        </div>
+                    </a>
+                </div>
+                <div>
+                    <a href="https://www.thiyagi.com/grams-to-pounds" class="block no-underline">
+                        <div class="tool-card" style="border-left: 4px solid #0891B2;">
+                            <i class="fas fa-weight-hanging text-cyan-600"></i>
+                            <span class="font-medium text-gray-700">Grams To Pounds</span>
+                        </div>
+                    </a>
+                </div>
+                <div>
+                    <a href="https://www.thiyagi.com/kg-to-g" class="block no-underline">
+                        <div class="tool-card" style="border-left: 4px solid #16A34A;">
+                            <i class="fas fa-balance-scale text-green-600"></i>
+                            <span class="font-medium text-gray-700">KG To G</span>
+                        </div>
+                    </a>
+                </div>
+                <div>
+                    <a href="https://www.thiyagi.com/kg-to-newtons" class="block no-underline">
+                        <div class="tool-card" style="border-left: 4px solid #7C3AED;">
+                            <i class="fas fa-balance-scale text-purple-600"></i>
+                            <span class="font-medium text-gray-700">KG To Newtons</span>
+                        </div>
+                    </a>
+                </div>
+                <div>
+                    <a href="https://www.thiyagi.com/kg-to-oz" class="block no-underline">
+                        <div class="tool-card" style="border-left: 4px solid #EA580C;">
+                            <i class="fas fa-weight text-orange-600"></i>
+                            <span class="font-medium text-gray-700">KG To OZ</span>
+                        </div>
+                    </a>
+                </div>
+                <div>
+                    <a href="https://www.thiyagi.com/kilogram-cubic-meter-to-pound-cubic-foot" class="block no-underline">
+                        <div class="tool-card" style="border-left: 4px solid #059669;">
+                            <i class="fas fa-weight-hanging text-emerald-600"></i>
+                            <span class="font-medium text-gray-700">Kilogram Cubic Meter To Pound Cubic Foot</span>
+                        </div>
+                    </a>
+                </div>
+                <div>
+                    <a href="https://www.thiyagi.com/kilogram-to-milligram" class="block no-underline">
+                        <div class="tool-card" style="border-left: 4px solid #F59E0B;">
+                            <i class="fas fa-balance-scale text-amber-600"></i>
+                            <span class="font-medium text-gray-700">Kilogram To Milligram</span>
+                        </div>
+                    </a>
+                </div>
+                <div>
+                    <a href="https://www.thiyagi.com/kilogram-to-ton-metric" class="block no-underline">
+                        <div class="tool-card" style="border-left: 4px solid #EC4899;">
+                            <i class="fas fa-weight-hanging text-pink-600"></i>
+                            <span class="font-medium text-gray-700">Kilogram To Ton Metric</span>
+                        </div>
+                    </a>
+                </div>
+                <div>
+                    <a href="https://www.thiyagi.com/kilogram-to-tonne" class="block no-underline">
+                        <div class="tool-card" style="border-left: 4px solid #6366F1;">
+                            <i class="fas fa-weight text-indigo-600"></i>
+                            <span class="font-medium text-gray-700">Kilogram To Tonne</span>
+                        </div>
+                    </a>
+                </div>
+                <div>
+                    <a href="https://www.thiyagi.com/kilonewton-to-kilogram-force" class="block no-underline">
+                        <div class="tool-card" style="border-left: 4px solid #0F766E;">
+                            <i class="fas fa-weight text-teal-600"></i>
+                            <span class="font-medium text-gray-700">Kilonewton To Kilogram Force</span>
+                        </div>
+                    </a>
+                </div>
+                <div>
+                    <a href="https://www.thiyagi.com/kilonewton-to-pound-force" class="block no-underline">
+                        <div class="tool-card" style="border-left: 4px solid #E11D48;">
+                            <i class="fas fa-weight text-rose-600"></i>
+                            <span class="font-medium text-gray-700">Kilonewton To Pound Force</span>
+                        </div>
+                    </a>
+                </div>
+                <div>
+                    <a href="https://www.thiyagi.com/kip-to-pound" class="block no-underline">
+                        <div class="tool-card" style="border-left: 4px solid #1E40AF;">
+                            <i class="fas fa-weight text-blue-600"></i>
+                            <span class="font-medium text-gray-700">Kip To Pound</span>
+                        </div>
+                    </a>
+                </div>
+                <div>
+                    <a href="https://www.thiyagi.com/lbs-to-newtons" class="block no-underline">
+                        <div class="tool-card" style="border-left: 4px solid #475569;">
+                            <i class="fas fa-weight-hanging text-slate-600"></i>
+                            <span class="font-medium text-gray-700">LBS To Newtons</span>
+                        </div>
+                    </a>
+                </div>
+                <div>
+                    <a href="https://www.thiyagi.com/lbs-to-ton" class="block no-underline">
+                        <div class="tool-card" style="border-left: 4px solid #B45309;">
+                            <i class="fas fa-balance-scale text-amber-700"></i>
+                            <span class="font-medium text-gray-700">LBS To Ton</span>
+                        </div>
+                    </a>
+                </div>
+                <div>
+                    <a href="https://www.thiyagi.com/liter-to-ounces" class="block no-underline">
+                        <div class="tool-card" style="border-left: 4px solid #4338CA;">
+                            <i class="fas fa-weight-hanging text-indigo-600"></i>
+                            <span class="font-medium text-gray-700">Liter To Ounces</span>
+                        </div>
+                    </a>
+                </div>
+                <div>
+                    <a href="https://www.thiyagi.com/microgram-to-gram" class="block no-underline">
+                        <div class="tool-card" style="border-left: 4px solid #0369A1;">
+                            <i class="fas fa-balance-scale text-blue-600"></i>
+                            <span class="font-medium text-gray-700">Microgram To Gram</span>
+                        </div>
+                    </a>
+                </div>
+                <div>
+                    <a href="https://www.thiyagi.com/microgram-to-milligram" class="block no-underline">
+                        <div class="tool-card" style="border-left: 4px solid #F97316;">
+                            <i class="fas fa-weight-hanging text-orange-600"></i>
+                            <span class="font-medium text-gray-700">Microgram To Milligram</span>
+                        </div>
+                    </a>
+                </div>
+                <div>
+                    <a href="https://www.thiyagi.com/milligram-liter-to-part-million-ppm" class="block no-underline">
+                        <div class="tool-card" style="border-left: 4px solid #8B5CF6;">
+                            <i class="fas fa-weight text-purple-600"></i>
+                            <span class="font-medium text-gray-700">Milligram Liter To Part Million PPM</span>
+                        </div>
+                    </a>
+                </div>
+                <div>
+                    <a href="https://www.thiyagi.com/milligram-to-kilogram" class="block no-underline">
+                        <div class="tool-card" style="border-left: 4px solid #10B981;">
+                            <i class="fas fa-balance-scale text-emerald-600"></i>
+                            <span class="font-medium text-gray-700">Milligram To Kilogram</span>
+                        </div>
+                    </a>
+                </div>
+                <div>
+                    <a href="https://www.thiyagi.com/milligram-to-microgram" class="block no-underline">
+                        <div class="tool-card" style="border-left: 4px solid #3B82F6;">
+                            <i class="fas fa-weight-hanging text-blue-600"></i>
+                            <span class="font-medium text-gray-700">Milligram To Microgram</span>
+                        </div>
+                    </a>
+                </div>
+                <div>
+                    <a href="https://www.thiyagi.com/milligram-to-nanogram" class="block no-underline">
+                        <div class="tool-card" style="border-left: 4px solid #DC2626;">
+                            <i class="fas fa-balance-scale text-red-600"></i>
+                            <span class="font-medium text-gray-700">Milligram To Nanogram</span>
+                        </div>
+                    </a>
+                </div>
+                <div>
+                    <a href="https://www.thiyagi.com/milligram-to-ounce" class="block no-underline">
+                        <div class="tool-card" style="border-left: 4px solid #0891B2;">
+                            <i class="fas fa-balance-scale text-cyan-600"></i>
+                            <span class="font-medium text-gray-700">Milligram To Ounce</span>
+                        </div>
+                    </a>
+                </div>
+                <div>
+                    <a href="https://www.thiyagi.com/milligrams-to-grams" class="block no-underline">
+                        <div class="tool-card" style="border-left: 4px solid #16A34A;">
+                            <i class="fas fa-weight text-green-600"></i>
+                            <span class="font-medium text-gray-700">Milligrams To Grams</span>
+                        </div>
+                    </a>
+                </div>
+                <div>
+                    <a href="https://www.thiyagi.com/milliliter-to-fluid-ounce-uk" class="block no-underline">
+                        <div class="tool-card" style="border-left: 4px solid #7C3AED;">
+                            <i class="fas fa-weight-hanging text-purple-600"></i>
+                            <span class="font-medium text-gray-700">Milliliter To Fluid Ounce UK</span>
+                        </div>
+                    </a>
+                </div>
+                <div>
+                    <a href="https://www.thiyagi.com/milliliter-to-fluid-ounce-us" class="block no-underline">
+                        <div class="tool-card" style="border-left: 4px solid #EA580C;">
+                            <i class="fas fa-weight text-orange-600"></i>
+                            <span class="font-medium text-gray-700">Milliliter To Fluid Ounce US</span>
+                        </div>
+                    </a>
+                </div>
+                <div>
+                    <a href="https://www.thiyagi.com/ml-to-ounce" class="block no-underline">
+                        <div class="tool-card" style="border-left: 4px solid #059669;">
+                            <i class="fas fa-weight text-emerald-600"></i>
+                            <span class="font-medium text-gray-700">ML To Ounce</span>
+                        </div>
+                    </a>
+                </div>
+                <div>
+                    <a href="https://www.thiyagi.com/nanogram-to-microgram" class="block no-underline">
+                        <div class="tool-card" style="border-left: 4px solid #F59E0B;">
+                            <i class="fas fa-weight text-amber-600"></i>
+                            <span class="font-medium text-gray-700">Nanogram To Microgram</span>
+                        </div>
+                    </a>
+                </div>
+                <div>
+                    <a href="https://www.thiyagi.com/nanogram-to-milligram" class="block no-underline">
+                        <div class="tool-card" style="border-left: 4px solid #EC4899;">
+                            <i class="fas fa-weight-hanging text-pink-600"></i>
+                            <span class="font-medium text-gray-700">Nanogram To Milligram</span>
+                        </div>
+                    </a>
+                </div>
+                <div>
+                    <a href="https://www.thiyagi.com/newton-meter-to-inch-pound" class="block no-underline">
+                        <div class="tool-card" style="border-left: 4px solid #6366F1;">
+                            <i class="fas fa-weight-hanging text-indigo-600"></i>
+                            <span class="font-medium text-gray-700">Newton Meter To Inch Pound</span>
+                        </div>
+                    </a>
+                </div>
+                <div>
+                    <a href="https://www.thiyagi.com/newton-meter-to-kilogram-force-meter" class="block no-underline">
+                        <div class="tool-card" style="border-left: 4px solid #0F766E;">
+                            <i class="fas fa-weight text-teal-600"></i>
+                            <span class="font-medium text-gray-700">Newton Meter To Kilogram Force Meter</span>
+                        </div>
+                    </a>
+                </div>
+                <div>
+                    <a href="https://www.thiyagi.com/newton-to-gram-force" class="block no-underline">
+                        <div class="tool-card" style="border-left: 4px solid #E11D48;">
+                            <i class="fas fa-weight-hanging text-rose-600"></i>
+                            <span class="font-medium text-gray-700">Newton To Gram Force</span>
+                        </div>
+                    </a>
+                </div>
+                <div>
+                    <a href="https://www.thiyagi.com/ounce-to-grain" class="block no-underline">
+                        <div class="tool-card" style="border-left: 4px solid #1E40AF;">
+                            <i class="fas fa-weight text-blue-600"></i>
+                            <span class="font-medium text-gray-700">Ounce To Grain</span>
+                        </div>
+                    </a>
+                </div>
+                <div>
+                    <a href="https://www.thiyagi.com/ounce-to-milligram" class="block no-underline">
+                        <div class="tool-card" style="border-left: 4px solid #475569;">
+                            <i class="fas fa-weight-hanging text-slate-600"></i>
+                            <span class="font-medium text-gray-700">Ounce To Milligram</span>
+                        </div>
+                    </a>
+                </div>
+                <div>
+                    <a href="https://www.thiyagi.com/ounce-to-ml" class="block no-underline">
+                        <div class="tool-card" style="border-left: 4px solid #B45309;">
+                            <i class="fas fa-weight-hanging text-amber-700"></i>
+                            <span class="font-medium text-gray-700">Ounce To ML</span>
+                        </div>
+                    </a>
+                </div>
+                <div>
+                    <a href="https://www.thiyagi.com/ounce-to-quarter-us" class="block no-underline">
+                        <div class="tool-card" style="border-left: 4px solid #4338CA;">
+                            <i class="fas fa-balance-scale text-indigo-600"></i>
+                            <span class="font-medium text-gray-700">Ounce To Quarter US</span>
+                        </div>
+                    </a>
+                </div>
+                <div>
+                    <a href="https://www.thiyagi.com/ounces-to-grams" class="block no-underline">
+                        <div class="tool-card" style="border-left: 4px solid #0369A1;">
+                            <i class="fas fa-weight-hanging text-blue-600"></i>
+                            <span class="font-medium text-gray-700">Ounces To Grams</span>
+                        </div>
+                    </a>
+                </div>
+                <div>
+                    <a href="https://www.thiyagi.com/ounces-to-liter" class="block no-underline">
+                        <div class="tool-card" style="border-left: 4px solid #F97316;">
+                            <i class="fas fa-weight-hanging text-orange-600"></i>
+                            <span class="font-medium text-gray-700">Ounces To Liter</span>
+                        </div>
+                    </a>
+                </div>
+                <div>
+                    <a href="https://www.thiyagi.com/ounces-to-pounds" class="block no-underline">
+                        <div class="tool-card" style="border-left: 4px solid #8B5CF6;">
+                            <i class="fas fa-weight text-purple-600"></i>
+                            <span class="font-medium text-gray-700">Ounces To Pounds</span>
+                        </div>
+                    </a>
+                </div>
+                <div>
+                    <a href="https://www.thiyagi.com/oz-to-cc" class="block no-underline">
+                        <div class="tool-card" style="border-left: 4px solid #10B981;">
+                            <i class="fas fa-balance-scale text-emerald-600"></i>
+                            <span class="font-medium text-gray-700">OZ To CC</span>
+                        </div>
+                    </a>
+                </div>
+                <div>
+                    <a href="https://www.thiyagi.com/oz-to-kg" class="block no-underline">
+                        <div class="tool-card" style="border-left: 4px solid #3B82F6;">
+                            <i class="fas fa-balance-scale text-blue-600"></i>
+                            <span class="font-medium text-gray-700">OZ To KG</span>
+                        </div>
+                    </a>
+                </div>
+                <div>
+                    <a href="https://www.thiyagi.com/part-million-ppm-to-milligram-liter" class="block no-underline">
+                        <div class="tool-card" style="border-left: 4px solid #DC2626;">
+                            <i class="fas fa-balance-scale text-red-600"></i>
+                            <span class="font-medium text-gray-700">Part Million PPM To Milligram Liter</span>
+                        </div>
+                    </a>
+                </div>
+                <div>
+                    <a href="https://www.thiyagi.com/pound-force-foot-to-newton-meter" class="block no-underline">
+                        <div class="tool-card" style="border-left: 4px solid #0891B2;">
+                            <i class="fas fa-weight-hanging text-cyan-600"></i>
+                            <span class="font-medium text-gray-700">Pound Force Foot To Newton Meter</span>
+                        </div>
+                    </a>
+                </div>
+                <div>
+                    <a href="https://www.thiyagi.com/pound-force-inch-to-newton-meter" class="block no-underline">
+                        <div class="tool-card" style="border-left: 4px solid #16A34A;">
+                            <i class="fas fa-balance-scale text-green-600"></i>
+                            <span class="font-medium text-gray-700">Pound Force Inch To Newton Meter</span>
+                        </div>
+                    </a>
+                </div>
+                <div>
+                    <a href="https://www.thiyagi.com/pound-force-square-foot-to-psi" class="block no-underline">
+                        <div class="tool-card" style="border-left: 4px solid #7C3AED;">
+                            <i class="fas fa-balance-scale text-purple-600"></i>
+                            <span class="font-medium text-gray-700">Pound Force Square Foot To PSI</span>
+                        </div>
+                    </a>
+                </div>
+                <div>
+                    <a href="https://www.thiyagi.com/pound-force-to-kilonewton" class="block no-underline">
+                        <div class="tool-card" style="border-left: 4px solid #EA580C;">
+                            <i class="fas fa-weight-hanging text-orange-600"></i>
+                            <span class="font-medium text-gray-700">Pound Force To Kilonewton</span>
+                        </div>
+                    </a>
+                </div>
+                <div>
+                    <a href="https://www.thiyagi.com/pound-to-kip" class="block no-underline">
+                        <div class="tool-card" style="border-left: 4px solid #059669;">
+                            <i class="fas fa-weight text-emerald-600"></i>
+                            <span class="font-medium text-gray-700">Pound To Kip</span>
+                        </div>
+                    </a>
+                </div>
+                <div>
+                    <a href="https://www.thiyagi.com/pound-to-stone-uk" class="block no-underline">
+                        <div class="tool-card" style="border-left: 4px solid #F59E0B;">
+                            <i class="fas fa-weight text-amber-600"></i>
+                            <span class="font-medium text-gray-700">Pound To Stone UK</span>
+                        </div>
+                    </a>
+                </div>
+                <div>
+                    <a href="https://www.thiyagi.com/pounds-to-grams" class="block no-underline">
+                        <div class="tool-card" style="border-left: 4px solid #EC4899;">
+                            <i class="fas fa-weight-hanging text-pink-600"></i>
+                            <span class="font-medium text-gray-700">Pounds To Grams</span>
+                        </div>
+                    </a>
+                </div>
+                <div>
+                    <a href="https://www.thiyagi.com/pounds-to-ounces" class="block no-underline">
+                        <div class="tool-card" style="border-left: 4px solid #6366F1;">
+                            <i class="fas fa-balance-scale text-indigo-600"></i>
+                            <span class="font-medium text-gray-700">Pounds To Ounces</span>
+                        </div>
+                    </a>
+                </div>
+                <div>
+                    <a href="https://www.thiyagi.com/quart-us-to-fluid-ounce-us" class="block no-underline">
+                        <div class="tool-card" style="border-left: 4px solid #0F766E;">
+                            <i class="fas fa-balance-scale text-teal-600"></i>
+                            <span class="font-medium text-gray-700">Quart US To Fluid Ounce US</span>
+                        </div>
+                    </a>
+                </div>
+                <div>
+                    <a href="https://www.thiyagi.com/stone-to-lbs" class="block no-underline">
+                        <div class="tool-card" style="border-left: 4px solid #E11D48;">
+                            <i class="fas fa-balance-scale text-rose-600"></i>
+                            <span class="font-medium text-gray-700">Stone To LBS</span>
+                        </div>
+                    </a>
+                </div>
+                <div>
+                    <a href="https://www.thiyagi.com/stone-uk-to-pound" class="block no-underline">
+                        <div class="tool-card" style="border-left: 4px solid #1E40AF;">
+                            <i class="fas fa-balance-scale text-blue-600"></i>
+                            <span class="font-medium text-gray-700">Stone UK To Pound</span>
+                        </div>
+                    </a>
+                </div>
+                <div>
+                    <a href="https://www.thiyagi.com/ton-to-lbs" class="block no-underline">
+                        <div class="tool-card" style="border-left: 4px solid #475569;">
+                            <i class="fas fa-balance-scale text-slate-600"></i>
+                            <span class="font-medium text-gray-700">Ton To LBS</span>
+                        </div>
+                    </a>
+                </div>
+                <div>
+                    <a href="https://www.thiyagi.com/tonne-to-kilogram" class="block no-underline">
+                        <div class="tool-card" style="border-left: 4px solid #B45309;">
+                            <i class="fas fa-weight-hanging text-amber-700"></i>
+                            <span class="font-medium text-gray-700">Tonne To Kilogram</span>
+                        </div>
+                    </a>
+                </div>
+                <div>
+                    <a href="https://www.thiyagi.com/tonne-to-pound" class="block no-underline">
+                        <div class="tool-card" style="border-left: 4px solid #4338CA;">
+                            <i class="fas fa-weight text-indigo-600"></i>
+                            <span class="font-medium text-gray-700">Tonne To Pound</span>
+                        </div>
+                    </a>
+                </div>
+
+                <!-- New Length Converters -->
+                <div>
+                    <a href="https://www.thiyagi.com/angstrom-to-meter" class="block no-underline">
+                        <div class="tool-card" style="border-left: 4px solid #DC2626;">
+                            <i class="fas fa-ruler-horizontal text-red-600"></i>
+                            <span class="font-medium text-gray-700">Angstrom To Meter</span>
+                        </div>
+                    </a>
+                </div>
+                <div>
+                    <a href="https://www.thiyagi.com/angstrom-to-nanometer" class="block no-underline">
+                        <div class="tool-card" style="border-left: 4px solid #0891B2;">
+                            <i class="fas fa-ruler text-cyan-600"></i>
+                            <span class="font-medium text-gray-700">Angstrom To Nanometer</span>
+                        </div>
+                    </a>
+                </div>
+                <div>
+                    <a href="https://www.thiyagi.com/centimeter-to-micrometer" class="block no-underline">
+                        <div class="tool-card" style="border-left: 4px solid #16A34A;">
+                            <i class="fas fa-ruler-vertical text-green-600"></i>
+                            <span class="font-medium text-gray-700">Centimeter To Micrometer</span>
+                        </div>
+                    </a>
+                </div>
+                <div>
+                    <a href="https://www.thiyagi.com/centimeter-to-pixel-x" class="block no-underline">
+                        <div class="tool-card" style="border-left: 4px solid #7C3AED;">
+                            <i class="fas fa-ruler-horizontal text-purple-600"></i>
+                            <span class="font-medium text-gray-700">Centimeter To Pixel X</span>
+                        </div>
+                    </a>
+                </div>
+                <div>
+                    <a href="https://www.thiyagi.com/cm-to-km" class="block no-underline">
+                        <div class="tool-card" style="border-left: 4px solid #EA580C;">
+                            <i class="fas fa-ruler text-orange-600"></i>
+                            <span class="font-medium text-gray-700">CM To KM</span>
+                        </div>
+                    </a>
+                </div>
+                <div>
+                    <a href="https://www.thiyagi.com/decimeter-to-meter" class="block no-underline">
+                        <div class="tool-card" style="border-left: 4px solid #059669;">
+                            <i class="fas fa-ruler-vertical text-emerald-600"></i>
+                            <span class="font-medium text-gray-700">Decimeter To Meter</span>
+                        </div>
+                    </a>
+                </div>
+                <div>
+                    <a href="https://www.thiyagi.com/foot-to-kilometer" class="block no-underline">
+                        <div class="tool-card" style="border-left: 4px solid #F59E0B;">
+                            <i class="fas fa-ruler text-amber-600"></i>
+                            <span class="font-medium text-gray-700">Foot To Kilometer</span>
+                        </div>
+                    </a>
+                </div>
+                <div>
+                    <a href="https://www.thiyagi.com/foot-to-mile-statute" class="block no-underline">
+                        <div class="tool-card" style="border-left: 4px solid #EC4899;">
+                            <i class="fas fa-ruler text-pink-600"></i>
+                            <span class="font-medium text-gray-700">Foot To Mile Statute</span>
+                        </div>
+                    </a>
+                </div>
+                <div>
+                    <a href="https://www.thiyagi.com/foot-us-survey-to-meter" class="block no-underline">
+                        <div class="tool-card" style="border-left: 4px solid #6366F1;">
+                            <i class="fas fa-ruler text-indigo-600"></i>
+                            <span class="font-medium text-gray-700">Foot US Survey To Meter</span>
+                        </div>
+                    </a>
+                </div>
+                <div>
+                    <a href="https://www.thiyagi.com/inch-to-mil" class="block no-underline">
+                        <div class="tool-card" style="border-left: 4px solid #0F766E;">
+                            <i class="fas fa-ruler-combined text-teal-600"></i>
+                            <span class="font-medium text-gray-700">Inch To Mil</span>
+                        </div>
+                    </a>
+                </div>
+                <div>
+                    <a href="https://www.thiyagi.com/inch-to-pixel-x" class="block no-underline">
+                        <div class="tool-card" style="border-left: 4px solid #E11D48;">
+                            <i class="fas fa-ruler-combined text-rose-600"></i>
+                            <span class="font-medium text-gray-700">Inch To Pixel X</span>
+                        </div>
+                    </a>
+                </div>
+                <div>
+                    <a href="https://www.thiyagi.com/inches-to-cm" class="block no-underline">
+                        <div class="tool-card" style="border-left: 4px solid #1E40AF;">
+                            <i class="fas fa-ruler-vertical text-blue-600"></i>
+                            <span class="font-medium text-gray-700">Inches To CM</span>
+                        </div>
+                    </a>
+                </div>
+                <div>
+                    <a href="https://www.thiyagi.com/inches-to-feet" class="block no-underline">
+                        <div class="tool-card" style="border-left: 4px solid #475569;">
+                            <i class="fas fa-ruler-combined text-slate-600"></i>
+                            <span class="font-medium text-gray-700">Inches To Feet</span>
+                        </div>
+                    </a>
+                </div>
+                <div>
+                    <a href="https://www.thiyagi.com/inches-to-meters" class="block no-underline">
+                        <div class="tool-card" style="border-left: 4px solid #B45309;">
+                            <i class="fas fa-ruler text-amber-700"></i>
+                            <span class="font-medium text-gray-700">Inches To Meters</span>
+                        </div>
+                    </a>
+                </div>
+                <div>
+                    <a href="https://www.thiyagi.com/inches-to-mm" class="block no-underline">
+                        <div class="tool-card" style="border-left: 4px solid #4338CA;">
+                            <i class="fas fa-ruler text-indigo-600"></i>
+                            <span class="font-medium text-gray-700">Inches To MM</span>
+                        </div>
+                    </a>
+                </div>
+                <div>
+                    <a href="https://www.thiyagi.com/inches-to-yards" class="block no-underline">
+                        <div class="tool-card" style="border-left: 4px solid #0369A1;">
+                            <i class="fas fa-ruler text-blue-600"></i>
+                            <span class="font-medium text-gray-700">Inches To Yards</span>
+                        </div>
+                    </a>
+                </div>
+                <div>
+                    <a href="https://www.thiyagi.com/kilometer-to-foot" class="block no-underline">
+                        <div class="tool-card" style="border-left: 4px solid #F97316;">
+                            <i class="fas fa-ruler text-orange-600"></i>
+                            <span class="font-medium text-gray-700">Kilometer To Foot</span>
+                        </div>
+                    </a>
+                </div>
+                <div>
+                    <a href="https://www.thiyagi.com/km-to-cm" class="block no-underline">
+                        <div class="tool-card" style="border-left: 4px solid #8B5CF6;">
+                            <i class="fas fa-ruler-horizontal text-purple-600"></i>
+                            <span class="font-medium text-gray-700">KM To CM</span>
+                        </div>
+                    </a>
+                </div>
+                <div>
+                    <a href="https://www.thiyagi.com/km-to-m" class="block no-underline">
+                        <div class="tool-card" style="border-left: 4px solid #10B981;">
+                            <i class="fas fa-ruler text-emerald-600"></i>
+                            <span class="font-medium text-gray-700">KM To M</span>
+                        </div>
+                    </a>
+                </div>
+                <div>
+                    <a href="https://www.thiyagi.com/km-to-miles" class="block no-underline">
+                        <div class="tool-card" style="border-left: 4px solid #3B82F6;">
+                            <i class="fas fa-ruler-combined text-blue-600"></i>
+                            <span class="font-medium text-gray-700">KM To Miles</span>
+                        </div>
+                    </a>
+                </div>
+                <div>
+                    <a href="https://www.thiyagi.com/long-cubit-to-foot" class="block no-underline">
+                        <div class="tool-card" style="border-left: 4px solid #DC2626;">
+                            <i class="fas fa-ruler-vertical text-red-600"></i>
+                            <span class="font-medium text-gray-700">Long Cubit To Foot</span>
+                        </div>
+                    </a>
+                </div>
+                <div>
+                    <a href="https://www.thiyagi.com/m-to-cm" class="block no-underline">
+                        <div class="tool-card" style="border-left: 4px solid #0891B2;">
+                            <i class="fas fa-ruler-combined text-cyan-600"></i>
+                            <span class="font-medium text-gray-700">M To CM</span>
+                        </div>
+                    </a>
+                </div>
+                <div>
+                    <a href="https://www.thiyagi.com/m-to-km" class="block no-underline">
+                        <div class="tool-card" style="border-left: 4px solid #16A34A;">
+                            <i class="fas fa-ruler-combined text-green-600"></i>
+                            <span class="font-medium text-gray-700">M To KM</span>
+                        </div>
+                    </a>
+                </div>
+                <div>
+                    <a href="https://www.thiyagi.com/m-to-mm" class="block no-underline">
+                        <div class="tool-card" style="border-left: 4px solid #7C3AED;">
+                            <i class="fas fa-ruler-horizontal text-purple-600"></i>
+                            <span class="font-medium text-gray-700">M To MM</span>
+                        </div>
+                    </a>
+                </div>
+                <div>
+                    <a href="https://www.thiyagi.com/megameter-to-meter" class="block no-underline">
+                        <div class="tool-card" style="border-left: 4px solid #EA580C;">
+                            <i class="fas fa-ruler-combined text-orange-600"></i>
+                            <span class="font-medium text-gray-700">Megameter To Meter</span>
+                        </div>
+                    </a>
+                </div>
+                <div>
+                    <a href="https://www.thiyagi.com/meter-to-decimeter" class="block no-underline">
+                        <div class="tool-card" style="border-left: 4px solid #059669;">
+                            <i class="fas fa-ruler-vertical text-emerald-600"></i>
+                            <span class="font-medium text-gray-700">Meter To Decimeter</span>
+                        </div>
+                    </a>
+                </div>
+                <div>
+                    <a href="https://www.thiyagi.com/meter-to-feet" class="block no-underline">
+                        <div class="tool-card" style="border-left: 4px solid #F59E0B;">
+                            <i class="fas fa-ruler-vertical text-amber-600"></i>
+                            <span class="font-medium text-gray-700">Meter To Feet</span>
+                        </div>
+                    </a>
+                </div>
+                <div>
+                    <a href="https://www.thiyagi.com/meter-to-foot-us-survey" class="block no-underline">
+                        <div class="tool-card" style="border-left: 4px solid #EC4899;">
+                            <i class="fas fa-ruler text-pink-600"></i>
+                            <span class="font-medium text-gray-700">Meter To Foot US Survey</span>
+                        </div>
+                    </a>
+                </div>
+                <div>
+                    <a href="https://www.thiyagi.com/meter-to-inches" class="block no-underline">
+                        <div class="tool-card" style="border-left: 4px solid #6366F1;">
+                            <i class="fas fa-ruler-horizontal text-indigo-600"></i>
+                            <span class="font-medium text-gray-700">Meter To Inches</span>
+                        </div>
+                    </a>
+                </div>
+                <div>
+                    <a href="https://www.thiyagi.com/meter-to-micrometer" class="block no-underline">
+                        <div class="tool-card" style="border-left: 4px solid #0F766E;">
+                            <i class="fas fa-ruler-vertical text-teal-600"></i>
+                            <span class="font-medium text-gray-700">Meter To Micrometer</span>
+                        </div>
+                    </a>
+                </div>
+                <div>
+                    <a href="https://www.thiyagi.com/meter-to-mile" class="block no-underline">
+                        <div class="tool-card" style="border-left: 4px solid #E11D48;">
+                            <i class="fas fa-ruler text-rose-600"></i>
+                            <span class="font-medium text-gray-700">Meter To Mile</span>
+                        </div>
+                    </a>
+                </div>
+                <div>
+                    <a href="https://www.thiyagi.com/meter-to-nanometer" class="block no-underline">
+                        <div class="tool-card" style="border-left: 4px solid #1E40AF;">
+                            <i class="fas fa-ruler-combined text-blue-600"></i>
+                            <span class="font-medium text-gray-700">Meter To Nanometer</span>
+                        </div>
+                    </a>
+                </div>
+                <div>
+                    <a href="https://www.thiyagi.com/meter-to-nautical-mile-international" class="block no-underline">
+                        <div class="tool-card" style="border-left: 4px solid #475569;">
+                            <i class="fas fa-ruler-vertical text-slate-600"></i>
+                            <span class="font-medium text-gray-700">Meter To Nautical Mile International</span>
+                        </div>
+                    </a>
+                </div>
+                <div>
+                    <a href="https://www.thiyagi.com/meter-to-picometer" class="block no-underline">
+                        <div class="tool-card" style="border-left: 4px solid #B45309;">
+                            <i class="fas fa-ruler-horizontal text-amber-700"></i>
+                            <span class="font-medium text-gray-700">Meter To Picometer</span>
+                        </div>
+                    </a>
+                </div>
+                <div>
+                    <a href="https://www.thiyagi.com/meters-to-feet" class="block no-underline">
+                        <div class="tool-card" style="border-left: 4px solid #4338CA;">
+                            <i class="fas fa-ruler-vertical text-indigo-600"></i>
+                            <span class="font-medium text-gray-700">Meters To Feet</span>
+                        </div>
+                    </a>
+                </div>
+                <div>
+                    <a href="https://www.thiyagi.com/meters-to-inches" class="block no-underline">
+                        <div class="tool-card" style="border-left: 4px solid #0369A1;">
+                            <i class="fas fa-ruler text-blue-600"></i>
+                            <span class="font-medium text-gray-700">Meters To Inches</span>
+                        </div>
+                    </a>
+                </div>
+                <div>
+                    <a href="https://www.thiyagi.com/meters-to-miles" class="block no-underline">
+                        <div class="tool-card" style="border-left: 4px solid #F97316;">
+                            <i class="fas fa-ruler text-orange-600"></i>
+                            <span class="font-medium text-gray-700">Meters To Miles</span>
+                        </div>
+                    </a>
+                </div>
+                <div>
+                    <a href="https://www.thiyagi.com/micrometer-to-centimeter" class="block no-underline">
+                        <div class="tool-card" style="border-left: 4px solid #8B5CF6;">
+                            <i class="fas fa-ruler-combined text-purple-600"></i>
+                            <span class="font-medium text-gray-700">Micrometer To Centimeter</span>
+                        </div>
+                    </a>
+                </div>
+                <div>
+                    <a href="https://www.thiyagi.com/micrometer-to-inch" class="block no-underline">
+                        <div class="tool-card" style="border-left: 4px solid #10B981;">
+                            <i class="fas fa-ruler text-emerald-600"></i>
+                            <span class="font-medium text-gray-700">Micrometer To Inch</span>
+                        </div>
+                    </a>
+                </div>
+                <div>
+                    <a href="https://www.thiyagi.com/micrometer-to-meter" class="block no-underline">
+                        <div class="tool-card" style="border-left: 4px solid #3B82F6;">
+                            <i class="fas fa-ruler-horizontal text-blue-600"></i>
+                            <span class="font-medium text-gray-700">Micrometer To Meter</span>
+                        </div>
+                    </a>
+                </div>
+                <div>
+                    <a href="https://www.thiyagi.com/micrometer-to-millimeter" class="block no-underline">
+                        <div class="tool-card" style="border-left: 4px solid #DC2626;">
+                            <i class="fas fa-ruler text-red-600"></i>
+                            <span class="font-medium text-gray-700">Micrometer To Millimeter</span>
+                        </div>
+                    </a>
+                </div>
+                <div>
+                    <a href="https://www.thiyagi.com/micrometer-to-nanometer" class="block no-underline">
+                        <div class="tool-card" style="border-left: 4px solid #0891B2;">
+                            <i class="fas fa-ruler-combined text-cyan-600"></i>
+                            <span class="font-medium text-gray-700">Micrometer To Nanometer</span>
+                        </div>
+                    </a>
+                </div>
+                <div>
+                    <a href="https://www.thiyagi.com/micron-to-inch" class="block no-underline">
+                        <div class="tool-card" style="border-left: 4px solid #16A34A;">
+                            <i class="fas fa-ruler-vertical text-green-600"></i>
+                            <span class="font-medium text-gray-700">Micron To Inch</span>
+                        </div>
+                    </a>
+                </div>
+                <div>
+                    <a href="https://www.thiyagi.com/micron-to-millimeter" class="block no-underline">
+                        <div class="tool-card" style="border-left: 4px solid #7C3AED;">
+                            <i class="fas fa-ruler-vertical text-purple-600"></i>
+                            <span class="font-medium text-gray-700">Micron To Millimeter</span>
+                        </div>
+                    </a>
+                </div>
+                <div>
+                    <a href="https://www.thiyagi.com/mile-statute-to-foot" class="block no-underline">
+                        <div class="tool-card" style="border-left: 4px solid #EA580C;">
+                            <i class="fas fa-ruler-horizontal text-orange-600"></i>
+                            <span class="font-medium text-gray-700">Mile Statute To Foot</span>
+                        </div>
+                    </a>
+                </div>
+                <div>
+                    <a href="https://www.thiyagi.com/mile-statute-to-kilometer" class="block no-underline">
+                        <div class="tool-card" style="border-left: 4px solid #059669;">
+                            <i class="fas fa-ruler-horizontal text-emerald-600"></i>
+                            <span class="font-medium text-gray-700">Mile Statute To Kilometer</span>
+                        </div>
+                    </a>
+                </div>
+                <div>
+                    <a href="https://www.thiyagi.com/mile-statute-to-meter" class="block no-underline">
+                        <div class="tool-card" style="border-left: 4px solid #F59E0B;">
+                            <i class="fas fa-ruler-horizontal text-amber-600"></i>
+                            <span class="font-medium text-gray-700">Mile Statute To Meter</span>
+                        </div>
+                    </a>
+                </div>
+                <div>
+                    <a href="https://www.thiyagi.com/mile-to-feet" class="block no-underline">
+                        <div class="tool-card" style="border-left: 4px solid #EC4899;">
+                            <i class="fas fa-ruler-combined text-pink-600"></i>
+                            <span class="font-medium text-gray-700">Mile To Feet</span>
+                        </div>
+                    </a>
+                </div>
+                <div>
+                    <a href="https://www.thiyagi.com/mile-to-foot-us-survey" class="block no-underline">
+                        <div class="tool-card" style="border-left: 4px solid #6366F1;">
+                            <i class="fas fa-ruler-combined text-indigo-600"></i>
+                            <span class="font-medium text-gray-700">Mile To Foot US Survey</span>
+                        </div>
+                    </a>
+                </div>
+                <div>
+                    <a href="https://www.thiyagi.com/mile-to-meter" class="block no-underline">
+                        <div class="tool-card" style="border-left: 4px solid #0F766E;">
+                            <i class="fas fa-ruler-horizontal text-teal-600"></i>
+                            <span class="font-medium text-gray-700">Mile To Meter</span>
+                        </div>
+                    </a>
+                </div>
+                <div>
+                    <a href="https://www.thiyagi.com/mile-to-yard" class="block no-underline">
+                        <div class="tool-card" style="border-left: 4px solid #E11D48;">
+                            <i class="fas fa-ruler text-rose-600"></i>
+                            <span class="font-medium text-gray-700">Mile To Yard</span>
+                        </div>
+                    </a>
+                </div>
+                <div>
+                    <a href="https://www.thiyagi.com/miles-to-feet" class="block no-underline">
+                        <div class="tool-card" style="border-left: 4px solid #1E40AF;">
+                            <i class="fas fa-ruler-vertical text-blue-600"></i>
+                            <span class="font-medium text-gray-700">Miles To Feet</span>
+                        </div>
+                    </a>
+                </div>
+                <div>
+                    <a href="https://www.thiyagi.com/miles-to-km" class="block no-underline">
+                        <div class="tool-card" style="border-left: 4px solid #475569;">
+                            <i class="fas fa-ruler text-slate-600"></i>
+                            <span class="font-medium text-gray-700">Miles To KM</span>
+                        </div>
+                    </a>
+                </div>
+                <div>
+                    <a href="https://www.thiyagi.com/miles-to-meters" class="block no-underline">
+                        <div class="tool-card" style="border-left: 4px solid #B45309;">
+                            <i class="fas fa-ruler-combined text-amber-700"></i>
+                            <span class="font-medium text-gray-700">Miles To Meters</span>
+                        </div>
+                    </a>
+                </div>
+                <div>
+                    <a href="https://www.thiyagi.com/miles-to-yards" class="block no-underline">
+                        <div class="tool-card" style="border-left: 4px solid #4338CA;">
+                            <i class="fas fa-ruler-vertical text-indigo-600"></i>
+                            <span class="font-medium text-gray-700">Miles To Yards</span>
+                        </div>
+                    </a>
+                </div>
+                <div>
+                    <a href="https://www.thiyagi.com/millimeter-to-micrometer" class="block no-underline">
+                        <div class="tool-card" style="border-left: 4px solid #0369A1;">
+                            <i class="fas fa-ruler-combined text-blue-600"></i>
+                            <span class="font-medium text-gray-700">Millimeter To Micrometer</span>
+                        </div>
+                    </a>
+                </div>
+                <div>
+                    <a href="https://www.thiyagi.com/millimeter-to-micron" class="block no-underline">
+                        <div class="tool-card" style="border-left: 4px solid #F97316;">
+                            <i class="fas fa-ruler-horizontal text-orange-600"></i>
+                            <span class="font-medium text-gray-700">Millimeter To Micron</span>
+                        </div>
+                    </a>
+                </div>
+                <div>
+                    <a href="https://www.thiyagi.com/millimeter-to-mil" class="block no-underline">
+                        <div class="tool-card" style="border-left: 4px solid #8B5CF6;">
+                            <i class="fas fa-ruler-combined text-purple-600"></i>
+                            <span class="font-medium text-gray-700">Millimeter To Mil</span>
+                        </div>
+                    </a>
+                </div>
+                <div>
+                    <a href="https://www.thiyagi.com/millimeter-to-nanometer" class="block no-underline">
+                        <div class="tool-card" style="border-left: 4px solid #10B981;">
+                            <i class="fas fa-ruler text-emerald-600"></i>
+                            <span class="font-medium text-gray-700">Millimeter To Nanometer</span>
+                        </div>
+                    </a>
+                </div>
+                <div>
+                    <a href="https://www.thiyagi.com/millimeter-to-pixel-x" class="block no-underline">
+                        <div class="tool-card" style="border-left: 4px solid #3B82F6;">
+                            <i class="fas fa-ruler-combined text-blue-600"></i>
+                            <span class="font-medium text-gray-700">Millimeter To Pixel X</span>
+                        </div>
+                    </a>
+                </div>
+                <div>
+                    <a href="https://www.thiyagi.com/mm-to-inches" class="block no-underline">
+                        <div class="tool-card" style="border-left: 4px solid #DC2626;">
+                            <i class="fas fa-ruler-combined text-red-600"></i>
+                            <span class="font-medium text-gray-700">MM To Inches</span>
+                        </div>
+                    </a>
+                </div>
+                <div>
+                    <a href="https://www.thiyagi.com/mm-to-m" class="block no-underline">
+                        <div class="tool-card" style="border-left: 4px solid #0891B2;">
+                            <i class="fas fa-ruler-vertical text-cyan-600"></i>
+                            <span class="font-medium text-gray-700">MM To M</span>
+                        </div>
+                    </a>
+                </div>
+                <div>
+                    <a href="https://www.thiyagi.com/nanometer-to-angstrom" class="block no-underline">
+                        <div class="tool-card" style="border-left: 4px solid #16A34A;">
+                            <i class="fas fa-ruler text-green-600"></i>
+                            <span class="font-medium text-gray-700">Nanometer To Angstrom</span>
+                        </div>
+                    </a>
+                </div>
+                <div>
+                    <a href="https://www.thiyagi.com/nanometer-to-meter" class="block no-underline">
+                        <div class="tool-card" style="border-left: 4px solid #7C3AED;">
+                            <i class="fas fa-ruler-horizontal text-purple-600"></i>
+                            <span class="font-medium text-gray-700">Nanometer To Meter</span>
+                        </div>
+                    </a>
+                </div>
+                <div>
+                    <a href="https://www.thiyagi.com/nanometer-to-micrometer" class="block no-underline">
+                        <div class="tool-card" style="border-left: 4px solid #EA580C;">
+                            <i class="fas fa-ruler text-orange-600"></i>
+                            <span class="font-medium text-gray-700">Nanometer To Micrometer</span>
+                        </div>
+                    </a>
+                </div>
+                <div>
+                    <a href="https://www.thiyagi.com/picometer-to-meter" class="block no-underline">
+                        <div class="tool-card" style="border-left: 4px solid #059669;">
+                            <i class="fas fa-ruler-combined text-emerald-600"></i>
+                            <span class="font-medium text-gray-700">Picometer To Meter</span>
+                        </div>
+                    </a>
+                </div>
+                <div>
+                    <a href="https://www.thiyagi.com/pixel-x-to-centimeter" class="block no-underline">
+                        <div class="tool-card" style="border-left: 4px solid #F59E0B;">
+                            <i class="fas fa-ruler-combined text-amber-600"></i>
+                            <span class="font-medium text-gray-700">Pixel X To Centimeter</span>
+                        </div>
+                    </a>
+                </div>
+                <div>
+                    <a href="https://www.thiyagi.com/pixel-x-to-inch" class="block no-underline">
+                        <div class="tool-card" style="border-left: 4px solid #EC4899;">
+                            <i class="fas fa-ruler-horizontal text-pink-600"></i>
+                            <span class="font-medium text-gray-700">Pixel X To Inch</span>
+                        </div>
+                    </a>
+                </div>
+                <div>
+                    <a href="https://www.thiyagi.com/pixel-x-to-millimeter" class="block no-underline">
+                        <div class="tool-card" style="border-left: 4px solid #6366F1;">
+                            <i class="fas fa-ruler text-indigo-600"></i>
+                            <span class="font-medium text-gray-700">Pixel X To Millimeter</span>
+                        </div>
+                    </a>
+                </div>
+                <div>
+                    <a href="https://www.thiyagi.com/point-to-inch" class="block no-underline">
+                        <div class="tool-card" style="border-left: 4px solid #0F766E;">
+                            <i class="fas fa-ruler text-teal-600"></i>
+                            <span class="font-medium text-gray-700">Point To Inch</span>
+                        </div>
+                    </a>
+                </div>
+                <div>
+                    <a href="https://www.thiyagi.com/radians-to-degrees" class="block no-underline">
+                        <div class="tool-card" style="border-left: 4px solid #E11D48;">
+                            <i class="fas fa-ruler text-rose-600"></i>
+                            <span class="font-medium text-gray-700">Radians To Degrees</span>
+                        </div>
+                    </a>
+                </div>
+                <div>
+                    <a href="https://www.thiyagi.com/square-centimeter-to-square-feet" class="block no-underline">
+                        <div class="tool-card" style="border-left: 4px solid #1E40AF;">
+                            <i class="fas fa-ruler-combined text-blue-600"></i>
+                            <span class="font-medium text-gray-700">Square Centimeter To Square Feet</span>
+                        </div>
+                    </a>
+                </div>
+                <div>
+                    <a href="https://www.thiyagi.com/square-centimeter-to-square-meter" class="block no-underline">
+                        <div class="tool-card" style="border-left: 4px solid #475569;">
+                            <i class="fas fa-ruler-combined text-slate-600"></i>
+                            <span class="font-medium text-gray-700">Square Centimeter To Square Meter</span>
+                        </div>
+                    </a>
+                </div>
+                <div>
+                    <a href="https://www.thiyagi.com/square-foot-to-square-mile" class="block no-underline">
+                        <div class="tool-card" style="border-left: 4px solid #B45309;">
+                            <i class="fas fa-ruler-combined text-amber-700"></i>
+                            <span class="font-medium text-gray-700">Square Foot To Square Mile</span>
+                        </div>
+                    </a>
+                </div>
+                <div>
+                    <a href="https://www.thiyagi.com/square-meter-to-hectare" class="block no-underline">
+                        <div class="tool-card" style="border-left: 4px solid #4338CA;">
+                            <i class="fas fa-ruler text-indigo-600"></i>
+                            <span class="font-medium text-gray-700">Square Meter To Hectare</span>
+                        </div>
+                    </a>
+                </div>
+                <div>
+                    <a href="https://www.thiyagi.com/square-meter-to-square-centimeter" class="block no-underline">
+                        <div class="tool-card" style="border-left: 4px solid #0369A1;">
+                            <i class="fas fa-ruler text-blue-600"></i>
+                            <span class="font-medium text-gray-700">Square Meter To Square Centimeter</span>
+                        </div>
+                    </a>
+                </div>
+                <div>
+                    <a href="https://www.thiyagi.com/square-meter-to-square-inch" class="block no-underline">
+                        <div class="tool-card" style="border-left: 4px solid #F97316;">
+                            <i class="fas fa-ruler-vertical text-orange-600"></i>
+                            <span class="font-medium text-gray-700">Square Meter To Square Inch</span>
+                        </div>
+                    </a>
+                </div>
+                <div>
+                    <a href="https://www.thiyagi.com/square-meter-to-square-yard" class="block no-underline">
+                        <div class="tool-card" style="border-left: 4px solid #8B5CF6;">
+                            <i class="fas fa-ruler-combined text-purple-600"></i>
+                            <span class="font-medium text-gray-700">Square Meter To Square Yard</span>
+                        </div>
+                    </a>
+                </div>
+                <div>
+                    <a href="https://www.thiyagi.com/square-millimeter-to-square-meter" class="block no-underline">
+                        <div class="tool-card" style="border-left: 4px solid #10B981;">
+                            <i class="fas fa-ruler-combined text-emerald-600"></i>
+                            <span class="font-medium text-gray-700">Square Millimeter To Square Meter</span>
+                        </div>
+                    </a>
+                </div>
+                <div>
+                    <a href="https://www.thiyagi.com/yard-to-centimeter" class="block no-underline">
+                        <div class="tool-card" style="border-left: 4px solid #3B82F6;">
+                            <i class="fas fa-ruler-combined text-blue-600"></i>
+                            <span class="font-medium text-gray-700">Yard To Centimeter</span>
+                        </div>
+                    </a>
+                </div>
+                <div>
+                    <a href="https://www.thiyagi.com/yard-to-mile" class="block no-underline">
+                        <div class="tool-card" style="border-left: 4px solid #DC2626;">
+                            <i class="fas fa-ruler-combined text-red-600"></i>
+                            <span class="font-medium text-gray-700">Yard To Mile</span>
+                        </div>
+                    </a>
+                </div>
+                <div>
+                    <a href="https://www.thiyagi.com/yards-to-inches" class="block no-underline">
+                        <div class="tool-card" style="border-left: 4px solid #0891B2;">
+                            <i class="fas fa-ruler text-cyan-600"></i>
+                            <span class="font-medium text-gray-700">Yards To Inches</span>
+                        </div>
+                    </a>
+                </div>
+                <div>
+                    <a href="https://www.thiyagi.com/yards-to-miles" class="block no-underline">
+                        <div class="tool-card" style="border-left: 4px solid #16A34A;">
+                            <i class="fas fa-ruler text-green-600"></i>
+                            <span class="font-medium text-gray-700">Yards To Miles</span>
+                        </div>
+                    </a>
+                </div>
+
+                <!-- New Volume Converters -->
+                <div>
+                    <a href="https://www.thiyagi.com/acre-foot-to-gallon-us" class="block no-underline">
+                        <div class="tool-card" style="border-left: 4px solid #DC2626;">
+                            <i class="fas fa-flask text-red-600"></i>
+                            <span class="font-medium text-gray-700">Acre Foot To Gallon US</span>
+                        </div>
+                    </a>
+                </div>
+                <div>
+                    <a href="https://www.thiyagi.com/barrel-us-to-gallon-us" class="block no-underline">
+                        <div class="tool-card" style="border-left: 4px solid #0891B2;">
+                            <i class="fas fa-tint text-cyan-600"></i>
+                            <span class="font-medium text-gray-700">Barrel US To Gallon US</span>
+                        </div>
+                    </a>
+                </div>
+                <div>
+                    <a href="https://www.thiyagi.com/cc-to-cubic-inch" class="block no-underline">
+                        <div class="tool-card" style="border-left: 4px solid #16A34A;">
+                            <i class="fas fa-glass-whiskey text-green-600"></i>
+                            <span class="font-medium text-gray-700">CC To Cubic Inch</span>
+                        </div>
+                    </a>
+                </div>
+                <div>
+                    <a href="https://www.thiyagi.com/cc-to-cup-us" class="block no-underline">
+                        <div class="tool-card" style="border-left: 4px solid #7C3AED;">
+                            <i class="fas fa-tint text-purple-600"></i>
+                            <span class="font-medium text-gray-700">CC To Cup US</span>
+                        </div>
+                    </a>
+                </div>
+                <div>
+                    <a href="https://www.thiyagi.com/cc-to-liter" class="block no-underline">
+                        <div class="tool-card" style="border-left: 4px solid #EA580C;">
+                            <i class="fas fa-glass-whiskey text-orange-600"></i>
+                            <span class="font-medium text-gray-700">CC To Liter</span>
+                        </div>
+                    </a>
+                </div>
+                <div>
+                    <a href="https://www.thiyagi.com/cc-to-milliliter" class="block no-underline">
+                        <div class="tool-card" style="border-left: 4px solid #059669;">
+                            <i class="fas fa-tint text-emerald-600"></i>
+                            <span class="font-medium text-gray-700">CC To Milliliter</span>
+                        </div>
+                    </a>
+                </div>
+                <div>
+                    <a href="https://www.thiyagi.com/cc-to-ml" class="block no-underline">
+                        <div class="tool-card" style="border-left: 4px solid #F59E0B;">
+                            <i class="fas fa-tint text-amber-600"></i>
+                            <span class="font-medium text-gray-700">CC To ML</span>
+                        </div>
+                    </a>
+                </div>
+                <div>
+                    <a href="https://www.thiyagi.com/cc-to-oz" class="block no-underline">
+                        <div class="tool-card" style="border-left: 4px solid #EC4899;">
+                            <i class="fas fa-wine-bottle text-pink-600"></i>
+                            <span class="font-medium text-gray-700">CC To OZ</span>
+                        </div>
+                    </a>
+                </div>
+                <div>
+                    <a href="https://www.thiyagi.com/centiliter-to-liter" class="block no-underline">
+                        <div class="tool-card" style="border-left: 4px solid #6366F1;">
+                            <i class="fas fa-flask text-indigo-600"></i>
+                            <span class="font-medium text-gray-700">Centiliter To Liter</span>
+                        </div>
+                    </a>
+                </div>
+                <div>
+                    <a href="https://www.thiyagi.com/centiliter-to-milliliter" class="block no-underline">
+                        <div class="tool-card" style="border-left: 4px solid #0F766E;">
+                            <i class="fas fa-wine-bottle text-teal-600"></i>
+                            <span class="font-medium text-gray-700">Centiliter To Milliliter</span>
+                        </div>
+                    </a>
+                </div>
+                <div>
+                    <a href="https://www.thiyagi.com/cubic-centimeter-to-cubic-inch" class="block no-underline">
+                        <div class="tool-card" style="border-left: 4px solid #E11D48;">
+                            <i class="fas fa-flask text-rose-600"></i>
+                            <span class="font-medium text-gray-700">Cubic Centimeter To Cubic Inch</span>
+                        </div>
+                    </a>
+                </div>
+                <div>
+                    <a href="https://www.thiyagi.com/cubic-centimeter-to-cubic-meter" class="block no-underline">
+                        <div class="tool-card" style="border-left: 4px solid #1E40AF;">
+                            <i class="fas fa-wine-bottle text-blue-600"></i>
+                            <span class="font-medium text-gray-700">Cubic Centimeter To Cubic Meter</span>
+                        </div>
+                    </a>
+                </div>
+                <div>
+                    <a href="https://www.thiyagi.com/cubic-centimeter-to-liter" class="block no-underline">
+                        <div class="tool-card" style="border-left: 4px solid #475569;">
+                            <i class="fas fa-flask text-slate-600"></i>
+                            <span class="font-medium text-gray-700">Cubic Centimeter To Liter</span>
+                        </div>
+                    </a>
+                </div>
+                <div>
+                    <a href="https://www.thiyagi.com/cubic-feet-to-gallon" class="block no-underline">
+                        <div class="tool-card" style="border-left: 4px solid #B45309;">
+                            <i class="fas fa-glass-whiskey text-amber-700"></i>
+                            <span class="font-medium text-gray-700">Cubic Feet To Gallon</span>
+                        </div>
+                    </a>
+                </div>
+                <div>
+                    <a href="https://www.thiyagi.com/cubic-foot-to-cubic-meter" class="block no-underline">
+                        <div class="tool-card" style="border-left: 4px solid #4338CA;">
+                            <i class="fas fa-tint text-indigo-600"></i>
+                            <span class="font-medium text-gray-700">Cubic Foot To Cubic Meter</span>
+                        </div>
+                    </a>
+                </div>
+                <div>
+                    <a href="https://www.thiyagi.com/cubic-foot-to-liter" class="block no-underline">
+                        <div class="tool-card" style="border-left: 4px solid #0369A1;">
+                            <i class="fas fa-glass-whiskey text-blue-600"></i>
+                            <span class="font-medium text-gray-700">Cubic Foot To Liter</span>
+                        </div>
+                    </a>
+                </div>
+                <div>
+                    <a href="https://www.thiyagi.com/cubic-foot-to-ton-register" class="block no-underline">
+                        <div class="tool-card" style="border-left: 4px solid #F97316;">
+                            <i class="fas fa-tint text-orange-600"></i>
+                            <span class="font-medium text-gray-700">Cubic Foot To Ton Register</span>
+                        </div>
+                    </a>
+                </div>
+                <div>
+                    <a href="https://www.thiyagi.com/cubic-inch-to-cc" class="block no-underline">
+                        <div class="tool-card" style="border-left: 4px solid #8B5CF6;">
+                            <i class="fas fa-flask text-purple-600"></i>
+                            <span class="font-medium text-gray-700">Cubic Inch To CC</span>
+                        </div>
+                    </a>
+                </div>
+                <div>
+                    <a href="https://www.thiyagi.com/cubic-inch-to-cubic-centimeter" class="block no-underline">
+                        <div class="tool-card" style="border-left: 4px solid #10B981;">
+                            <i class="fas fa-tint text-emerald-600"></i>
+                            <span class="font-medium text-gray-700">Cubic Inch To Cubic Centimeter</span>
+                        </div>
+                    </a>
+                </div>
+                <div>
+                    <a href="https://www.thiyagi.com/cubic-inch-to-cubic-foot" class="block no-underline">
+                        <div class="tool-card" style="border-left: 4px solid #3B82F6;">
+                            <i class="fas fa-wine-bottle text-blue-600"></i>
+                            <span class="font-medium text-gray-700">Cubic Inch To Cubic Foot</span>
+                        </div>
+                    </a>
+                </div>
+                <div>
+                    <a href="https://www.thiyagi.com/cubic-inches-to-gallons" class="block no-underline">
+                        <div class="tool-card" style="border-left: 4px solid #DC2626;">
+                            <i class="fas fa-tint text-red-600"></i>
+                            <span class="font-medium text-gray-700">Cubic Inches To Gallons</span>
+                        </div>
+                    </a>
+                </div>
+                <div>
+                    <a href="https://www.thiyagi.com/cubic-inches-to-liters" class="block no-underline">
+                        <div class="tool-card" style="border-left: 4px solid #0891B2;">
+                            <i class="fas fa-glass-whiskey text-cyan-600"></i>
+                            <span class="font-medium text-gray-700">Cubic Inches To Liters</span>
+                        </div>
+                    </a>
+                </div>
+                <div>
+                    <a href="https://www.thiyagi.com/cubic-meter-to-cubic-foot" class="block no-underline">
+                        <div class="tool-card" style="border-left: 4px solid #16A34A;">
+                            <i class="fas fa-tint text-green-600"></i>
+                            <span class="font-medium text-gray-700">Cubic Meter To Cubic Foot</span>
+                        </div>
+                    </a>
+                </div>
+                <div>
+                    <a href="https://www.thiyagi.com/cubic-meter-to-gallon-us" class="block no-underline">
+                        <div class="tool-card" style="border-left: 4px solid #7C3AED;">
+                            <i class="fas fa-wine-bottle text-purple-600"></i>
+                            <span class="font-medium text-gray-700">Cubic Meter To Gallon US</span>
+                        </div>
+                    </a>
+                </div>
+                <div>
+                    <a href="https://www.thiyagi.com/cubic-meter-to-liter" class="block no-underline">
+                        <div class="tool-card" style="border-left: 4px solid #EA580C;">
+                            <i class="fas fa-glass-whiskey text-orange-600"></i>
+                            <span class="font-medium text-gray-700">Cubic Meter To Liter</span>
+                        </div>
+                    </a>
+                </div>
+                <div>
+                    <a href="https://www.thiyagi.com/cubic-yard-to-ton-register" class="block no-underline">
+                        <div class="tool-card" style="border-left: 4px solid #059669;">
+                            <i class="fas fa-tint text-emerald-600"></i>
+                            <span class="font-medium text-gray-700">Cubic Yard To Ton Register</span>
+                        </div>
+                    </a>
+                </div>
+                <div>
+                    <a href="https://www.thiyagi.com/cup-to-ml" class="block no-underline">
+                        <div class="tool-card" style="border-left: 4px solid #F59E0B;">
+                            <i class="fas fa-flask text-amber-600"></i>
+                            <span class="font-medium text-gray-700">Cup To ML</span>
+                        </div>
+                    </a>
+                </div>
+                <div>
+                    <a href="https://www.thiyagi.com/cup-us-to-teaspoon-us" class="block no-underline">
+                        <div class="tool-card" style="border-left: 4px solid #EC4899;">
+                            <i class="fas fa-tint text-pink-600"></i>
+                            <span class="font-medium text-gray-700">Cup US To Teaspoon US</span>
+                        </div>
+                    </a>
+                </div>
+                <div>
+                    <a href="https://www.thiyagi.com/cups-to-gallon" class="block no-underline">
+                        <div class="tool-card" style="border-left: 4px solid #6366F1;">
+                            <i class="fas fa-tint text-indigo-600"></i>
+                            <span class="font-medium text-gray-700">Cups To Gallon</span>
+                        </div>
+                    </a>
+                </div>
+                <div>
+                    <a href="https://www.thiyagi.com/cups-to-liters" class="block no-underline">
+                        <div class="tool-card" style="border-left: 4px solid #0F766E;">
+                            <i class="fas fa-tint text-teal-600"></i>
+                            <span class="font-medium text-gray-700">Cups To Liters</span>
+                        </div>
+                    </a>
+                </div>
+                <div>
+                    <a href="https://www.thiyagi.com/cups-to-pint" class="block no-underline">
+                        <div class="tool-card" style="border-left: 4px solid #E11D48;">
+                            <i class="fas fa-flask text-rose-600"></i>
+                            <span class="font-medium text-gray-700">Cups To Pint</span>
+                        </div>
+                    </a>
+                </div>
+                <div>
+                    <a href="https://www.thiyagi.com/cups-to-quart" class="block no-underline">
+                        <div class="tool-card" style="border-left: 4px solid #1E40AF;">
+                            <i class="fas fa-glass-whiskey text-blue-600"></i>
+                            <span class="font-medium text-gray-700">Cups To Quart</span>
+                        </div>
+                    </a>
+                </div>
+                <div>
+                    <a href="https://www.thiyagi.com/cups-to-tablespoons" class="block no-underline">
+                        <div class="tool-card" style="border-left: 4px solid #475569;">
+                            <i class="fas fa-flask text-slate-600"></i>
+                            <span class="font-medium text-gray-700">Cups To Tablespoons</span>
+                        </div>
+                    </a>
+                </div>
+                <div>
+                    <a href="https://www.thiyagi.com/deciliter-to-liter" class="block no-underline">
+                        <div class="tool-card" style="border-left: 4px solid #B45309;">
+                            <i class="fas fa-glass-whiskey text-amber-700"></i>
+                            <span class="font-medium text-gray-700">Deciliter To Liter</span>
+                        </div>
+                    </a>
+                </div>
+                <div>
+                    <a href="https://www.thiyagi.com/deciliter-to-milliliter" class="block no-underline">
+                        <div class="tool-card" style="border-left: 4px solid #4338CA;">
+                            <i class="fas fa-tint text-indigo-600"></i>
+                            <span class="font-medium text-gray-700">Deciliter To Milliliter</span>
+                        </div>
+                    </a>
+                </div>
+                <div>
+                    <a href="https://www.thiyagi.com/drop-to-milliliter" class="block no-underline">
+                        <div class="tool-card" style="border-left: 4px solid #0369A1;">
+                            <i class="fas fa-tint text-blue-600"></i>
+                            <span class="font-medium text-gray-700">Drop To Milliliter</span>
+                        </div>
+                    </a>
+                </div>
+                <div>
+                    <a href="https://www.thiyagi.com/gallon-to-cubic-feet" class="block no-underline">
+                        <div class="tool-card" style="border-left: 4px solid #F97316;">
+                            <i class="fas fa-wine-bottle text-orange-600"></i>
+                            <span class="font-medium text-gray-700">Gallon To Cubic Feet</span>
+                        </div>
+                    </a>
+                </div>
+                <div>
+                    <a href="https://www.thiyagi.com/gallon-to-cups" class="block no-underline">
+                        <div class="tool-card" style="border-left: 4px solid #8B5CF6;">
+                            <i class="fas fa-glass-whiskey text-purple-600"></i>
+                            <span class="font-medium text-gray-700">Gallon To Cups</span>
+                        </div>
+                    </a>
+                </div>
+                <div>
+                    <a href="https://www.thiyagi.com/gallon-to-ml" class="block no-underline">
+                        <div class="tool-card" style="border-left: 4px solid #10B981;">
+                            <i class="fas fa-tint text-emerald-600"></i>
+                            <span class="font-medium text-gray-700">Gallon To ML</span>
+                        </div>
+                    </a>
+                </div>
+                <div>
+                    <a href="https://www.thiyagi.com/gallon-to-quart" class="block no-underline">
+                        <div class="tool-card" style="border-left: 4px solid #3B82F6;">
+                            <i class="fas fa-tint text-blue-600"></i>
+                            <span class="font-medium text-gray-700">Gallon To Quart</span>
+                        </div>
+                    </a>
+                </div>
+                <div>
+                    <a href="https://www.thiyagi.com/gallon-uk-to-liter" class="block no-underline">
+                        <div class="tool-card" style="border-left: 4px solid #DC2626;">
+                            <i class="fas fa-flask text-red-600"></i>
+                            <span class="font-medium text-gray-700">Gallon UK To Liter</span>
+                        </div>
+                    </a>
+                </div>
+                <div>
+                    <a href="https://www.thiyagi.com/gallon-us-to-barrel-oil" class="block no-underline">
+                        <div class="tool-card" style="border-left: 4px solid #0891B2;">
+                            <i class="fas fa-wine-bottle text-cyan-600"></i>
+                            <span class="font-medium text-gray-700">Gallon US To Barrel Oil</span>
+                        </div>
+                    </a>
+                </div>
+                <div>
+                    <a href="https://www.thiyagi.com/gallon-us-to-cubic-meter" class="block no-underline">
+                        <div class="tool-card" style="border-left: 4px solid #16A34A;">
+                            <i class="fas fa-flask text-green-600"></i>
+                            <span class="font-medium text-gray-700">Gallon US To Cubic Meter</span>
+                        </div>
+                    </a>
+                </div>
+                <div>
+                    <a href="https://www.thiyagi.com/gallon-us-to-ton-register" class="block no-underline">
+                        <div class="tool-card" style="border-left: 4px solid #7C3AED;">
+                            <i class="fas fa-tint text-purple-600"></i>
+                            <span class="font-medium text-gray-700">Gallon US To Ton Register</span>
+                        </div>
+                    </a>
+                </div>
+                <div>
+                    <a href="https://www.thiyagi.com/gallons-to-cubic-inches" class="block no-underline">
+                        <div class="tool-card" style="border-left: 4px solid #EA580C;">
+                            <i class="fas fa-glass-whiskey text-orange-600"></i>
+                            <span class="font-medium text-gray-700">Gallons To Cubic Inches</span>
+                        </div>
+                    </a>
+                </div>
+                <div>
+                    <a href="https://www.thiyagi.com/kiloliter-to-liter" class="block no-underline">
+                        <div class="tool-card" style="border-left: 4px solid #059669;">
+                            <i class="fas fa-wine-bottle text-emerald-600"></i>
+                            <span class="font-medium text-gray-700">Kiloliter To Liter</span>
+                        </div>
+                    </a>
+                </div>
+                <div>
+                    <a href="https://www.thiyagi.com/l-to-ml" class="block no-underline">
+                        <div class="tool-card" style="border-left: 4px solid #F59E0B;">
+                            <i class="fas fa-glass-whiskey text-amber-600"></i>
+                            <span class="font-medium text-gray-700">L To ML</span>
+                        </div>
+                    </a>
+                </div>
+                <div>
+                    <a href="https://www.thiyagi.com/liter-to-cc" class="block no-underline">
+                        <div class="tool-card" style="border-left: 4px solid #EC4899;">
+                            <i class="fas fa-wine-bottle text-pink-600"></i>
+                            <span class="font-medium text-gray-700">Liter To CC</span>
+                        </div>
+                    </a>
+                </div>
+                <div>
+                    <a href="https://www.thiyagi.com/liter-to-centiliter" class="block no-underline">
+                        <div class="tool-card" style="border-left: 4px solid #6366F1;">
+                            <i class="fas fa-tint text-indigo-600"></i>
+                            <span class="font-medium text-gray-700">Liter To Centiliter</span>
+                        </div>
+                    </a>
+                </div>
+                <div>
+                    <a href="https://www.thiyagi.com/liter-to-cubic-centimeter" class="block no-underline">
+                        <div class="tool-card" style="border-left: 4px solid #0F766E;">
+                            <i class="fas fa-tint text-teal-600"></i>
+                            <span class="font-medium text-gray-700">Liter To Cubic Centimeter</span>
+                        </div>
+                    </a>
+                </div>
+                <div>
+                    <a href="https://www.thiyagi.com/liter-to-cubic-foot" class="block no-underline">
+                        <div class="tool-card" style="border-left: 4px solid #E11D48;">
+                            <i class="fas fa-wine-bottle text-rose-600"></i>
+                            <span class="font-medium text-gray-700">Liter To Cubic Foot</span>
+                        </div>
+                    </a>
+                </div>
+                <div>
+                    <a href="https://www.thiyagi.com/liter-to-cubic-meter" class="block no-underline">
+                        <div class="tool-card" style="border-left: 4px solid #1E40AF;">
+                            <i class="fas fa-tint text-blue-600"></i>
+                            <span class="font-medium text-gray-700">Liter To Cubic Meter</span>
+                        </div>
+                    </a>
+                </div>
+                <div>
+                    <a href="https://www.thiyagi.com/liter-to-deciliter" class="block no-underline">
+                        <div class="tool-card" style="border-left: 4px solid #475569;">
+                            <i class="fas fa-wine-bottle text-slate-600"></i>
+                            <span class="font-medium text-gray-700">Liter To Deciliter</span>
+                        </div>
+                    </a>
+                </div>
+                <div>
+                    <a href="https://www.thiyagi.com/liter-to-gallon-uk" class="block no-underline">
+                        <div class="tool-card" style="border-left: 4px solid #B45309;">
+                            <i class="fas fa-flask text-amber-700"></i>
+                            <span class="font-medium text-gray-700">Liter To Gallon UK</span>
+                        </div>
+                    </a>
+                </div>
+                <div>
+                    <a href="https://www.thiyagi.com/liter-to-kiloliter" class="block no-underline">
+                        <div class="tool-card" style="border-left: 4px solid #4338CA;">
+                            <i class="fas fa-flask text-indigo-600"></i>
+                            <span class="font-medium text-gray-700">Liter To Kiloliter</span>
+                        </div>
+                    </a>
+                </div>
+                <div>
+                    <a href="https://www.thiyagi.com/liter-to-microliter" class="block no-underline">
+                        <div class="tool-card" style="border-left: 4px solid #0369A1;">
+                            <i class="fas fa-flask text-blue-600"></i>
+                            <span class="font-medium text-gray-700">Liter To Microliter</span>
+                        </div>
+                    </a>
+                </div>
+                <div>
+                    <a href="https://www.thiyagi.com/liters-to-cubic-inches" class="block no-underline">
+                        <div class="tool-card" style="border-left: 4px solid #F97316;">
+                            <i class="fas fa-tint text-orange-600"></i>
+                            <span class="font-medium text-gray-700">Liters To Cubic Inches</span>
+                        </div>
+                    </a>
+                </div>
+                <div>
+                    <a href="https://www.thiyagi.com/liters-to-cups" class="block no-underline">
+                        <div class="tool-card" style="border-left: 4px solid #8B5CF6;">
+                            <i class="fas fa-wine-bottle text-purple-600"></i>
+                            <span class="font-medium text-gray-700">Liters To Cups</span>
+                        </div>
+                    </a>
+                </div>
+                <div>
+                    <a href="https://www.thiyagi.com/liters-to-gallons" class="block no-underline">
+                        <div class="tool-card" style="border-left: 4px solid #10B981;">
+                            <i class="fas fa-wine-bottle text-emerald-600"></i>
+                            <span class="font-medium text-gray-700">Liters To Gallons</span>
+                        </div>
+                    </a>
+                </div>
+                <div>
+                    <a href="https://www.thiyagi.com/liters-to-pints" class="block no-underline">
+                        <div class="tool-card" style="border-left: 4px solid #3B82F6;">
+                            <i class="fas fa-flask text-blue-600"></i>
+                            <span class="font-medium text-gray-700">Liters To Pints</span>
+                        </div>
+                    </a>
+                </div>
+                <div>
+                    <a href="https://www.thiyagi.com/liters-to-quarts" class="block no-underline">
+                        <div class="tool-card" style="border-left: 4px solid #DC2626;">
+                            <i class="fas fa-tint text-red-600"></i>
+                            <span class="font-medium text-gray-700">Liters To Quarts</span>
+                        </div>
+                    </a>
+                </div>
+                <div>
+                    <a href="https://www.thiyagi.com/microliter-to-liter" class="block no-underline">
+                        <div class="tool-card" style="border-left: 4px solid #0891B2;">
+                            <i class="fas fa-flask text-cyan-600"></i>
+                            <span class="font-medium text-gray-700">Microliter To Liter</span>
+                        </div>
+                    </a>
+                </div>
+                <div>
+                    <a href="https://www.thiyagi.com/microliter-to-milliliter" class="block no-underline">
+                        <div class="tool-card" style="border-left: 4px solid #16A34A;">
+                            <i class="fas fa-wine-bottle text-green-600"></i>
+                            <span class="font-medium text-gray-700">Microliter To Milliliter</span>
+                        </div>
+                    </a>
+                </div>
+                <div>
+                    <a href="https://www.thiyagi.com/mil-to-inch" class="block no-underline">
+                        <div class="tool-card" style="border-left: 4px solid #7C3AED;">
+                            <i class="fas fa-tint text-purple-600"></i>
+                            <span class="font-medium text-gray-700">Mil To Inch</span>
+                        </div>
+                    </a>
+                </div>
+                <div>
+                    <a href="https://www.thiyagi.com/mil-to-millimeter" class="block no-underline">
+                        <div class="tool-card" style="border-left: 4px solid #EA580C;">
+                            <i class="fas fa-flask text-orange-600"></i>
+                            <span class="font-medium text-gray-700">Mil To Millimeter</span>
+                        </div>
+                    </a>
+                </div>
+                <div>
+                    <a href="https://www.thiyagi.com/milliliter-to-cc" class="block no-underline">
+                        <div class="tool-card" style="border-left: 4px solid #059669;">
+                            <i class="fas fa-tint text-emerald-600"></i>
+                            <span class="font-medium text-gray-700">Milliliter To CC</span>
+                        </div>
+                    </a>
+                </div>
+                <div>
+                    <a href="https://www.thiyagi.com/milliliter-to-cubic-meter" class="block no-underline">
+                        <div class="tool-card" style="border-left: 4px solid #F59E0B;">
+                            <i class="fas fa-wine-bottle text-amber-600"></i>
+                            <span class="font-medium text-gray-700">Milliliter To Cubic Meter</span>
+                        </div>
+                    </a>
+                </div>
+                <div>
+                    <a href="https://www.thiyagi.com/milliliter-to-deciliter" class="block no-underline">
+                        <div class="tool-card" style="border-left: 4px solid #EC4899;">
+                            <i class="fas fa-tint text-pink-600"></i>
+                            <span class="font-medium text-gray-700">Milliliter To Deciliter</span>
+                        </div>
+                    </a>
+                </div>
+                <div>
+                    <a href="https://www.thiyagi.com/milliliter-to-drop" class="block no-underline">
+                        <div class="tool-card" style="border-left: 4px solid #6366F1;">
+                            <i class="fas fa-tint text-indigo-600"></i>
+                            <span class="font-medium text-gray-700">Milliliter To Drop</span>
+                        </div>
+                    </a>
+                </div>
+                <div>
+                    <a href="https://www.thiyagi.com/milliliter-to-microliter" class="block no-underline">
+                        <div class="tool-card" style="border-left: 4px solid #0F766E;">
+                            <i class="fas fa-tint text-teal-600"></i>
+                            <span class="font-medium text-gray-700">Milliliter To Microliter</span>
+                        </div>
+                    </a>
+                </div>
+                <div>
+                    <a href="https://www.thiyagi.com/milliliter-to-quart-us" class="block no-underline">
+                        <div class="tool-card" style="border-left: 4px solid #E11D48;">
+                            <i class="fas fa-wine-bottle text-rose-600"></i>
+                            <span class="font-medium text-gray-700">Milliliter To Quart US</span>
+                        </div>
+                    </a>
+                </div>
+                <div>
+                    <a href="https://www.thiyagi.com/milliliter-to-tablespoon-us" class="block no-underline">
+                        <div class="tool-card" style="border-left: 4px solid #1E40AF;">
+                            <i class="fas fa-flask text-blue-600"></i>
+                            <span class="font-medium text-gray-700">Milliliter To Tablespoon US</span>
+                        </div>
+                    </a>
+                </div>
+                <div>
+                    <a href="https://www.thiyagi.com/milliliter-to-teaspoon-metric" class="block no-underline">
+                        <div class="tool-card" style="border-left: 4px solid #475569;">
+                            <i class="fas fa-tint text-slate-600"></i>
+                            <span class="font-medium text-gray-700">Milliliter To Teaspoon Metric</span>
+                        </div>
+                    </a>
+                </div>
+                <div>
+                    <a href="https://www.thiyagi.com/ml-to-cc" class="block no-underline">
+                        <div class="tool-card" style="border-left: 4px solid #B45309;">
+                            <i class="fas fa-tint text-amber-700"></i>
+                            <span class="font-medium text-gray-700">ML To CC</span>
+                        </div>
+                    </a>
+                </div>
+                <div>
+                    <a href="https://www.thiyagi.com/ml-to-cup" class="block no-underline">
+                        <div class="tool-card" style="border-left: 4px solid #4338CA;">
+                            <i class="fas fa-glass-whiskey text-indigo-600"></i>
+                            <span class="font-medium text-gray-700">ML To Cup</span>
+                        </div>
+                    </a>
+                </div>
+                <div>
+                    <a href="https://www.thiyagi.com/ml-to-cups" class="block no-underline">
+                        <div class="tool-card" style="border-left: 4px solid #0369A1;">
+                            <i class="fas fa-tint text-blue-600"></i>
+                            <span class="font-medium text-gray-700">ML To Cups</span>
+                        </div>
+                    </a>
+                </div>
+                <div>
+                    <a href="https://www.thiyagi.com/ml-to-gallon" class="block no-underline">
+                        <div class="tool-card" style="border-left: 4px solid #F97316;">
+                            <i class="fas fa-glass-whiskey text-orange-600"></i>
+                            <span class="font-medium text-gray-700">ML To Gallon</span>
+                        </div>
+                    </a>
+                </div>
+                <div>
+                    <a href="https://www.thiyagi.com/ml-to-l" class="block no-underline">
+                        <div class="tool-card" style="border-left: 4px solid #8B5CF6;">
+                            <i class="fas fa-tint text-purple-600"></i>
+                            <span class="font-medium text-gray-700">ML To L</span>
+                        </div>
+                    </a>
+                </div>
+                <div>
+                    <a href="https://www.thiyagi.com/ml-to-tablespoon" class="block no-underline">
+                        <div class="tool-card" style="border-left: 4px solid #10B981;">
+                            <i class="fas fa-wine-bottle text-emerald-600"></i>
+                            <span class="font-medium text-gray-700">ML To Tablespoon</span>
+                        </div>
+                    </a>
+                </div>
+                <div>
+                    <a href="https://www.thiyagi.com/ml-to-teaspoon" class="block no-underline">
+                        <div class="tool-card" style="border-left: 4px solid #3B82F6;">
+                            <i class="fas fa-flask text-blue-600"></i>
+                            <span class="font-medium text-gray-700">ML To Teaspoon</span>
+                        </div>
+                    </a>
+                </div>
+                <div>
+                    <a href="https://www.thiyagi.com/pint-to-cups" class="block no-underline">
+                        <div class="tool-card" style="border-left: 4px solid #DC2626;">
+                            <i class="fas fa-glass-whiskey text-red-600"></i>
+                            <span class="font-medium text-gray-700">Pint To Cups</span>
+                        </div>
+                    </a>
+                </div>
+                <div>
+                    <a href="https://www.thiyagi.com/pint-to-ml" class="block no-underline">
+                        <div class="tool-card" style="border-left: 4px solid #0891B2;">
+                            <i class="fas fa-flask text-cyan-600"></i>
+                            <span class="font-medium text-gray-700">Pint To ML</span>
+                        </div>
+                    </a>
+                </div>
+                <div>
+                    <a href="https://www.thiyagi.com/pint-us-to-quart-us" class="block no-underline">
+                        <div class="tool-card" style="border-left: 4px solid #16A34A;">
+                            <i class="fas fa-glass-whiskey text-green-600"></i>
+                            <span class="font-medium text-gray-700">Pint US To Quart US</span>
+                        </div>
+                    </a>
+                </div>
+                <div>
+                    <a href="https://www.thiyagi.com/pints-to-gallon" class="block no-underline">
+                        <div class="tool-card" style="border-left: 4px solid #7C3AED;">
+                            <i class="fas fa-flask text-purple-600"></i>
+                            <span class="font-medium text-gray-700">Pints To Gallon</span>
+                        </div>
+                    </a>
+                </div>
+                <div>
+                    <a href="https://www.thiyagi.com/pints-to-liters" class="block no-underline">
+                        <div class="tool-card" style="border-left: 4px solid #EA580C;">
+                            <i class="fas fa-flask text-orange-600"></i>
+                            <span class="font-medium text-gray-700">Pints To Liters</span>
+                        </div>
+                    </a>
+                </div>
+                <div>
+                    <a href="https://www.thiyagi.com/quart-to-cups" class="block no-underline">
+                        <div class="tool-card" style="border-left: 4px solid #059669;">
+                            <i class="fas fa-flask text-emerald-600"></i>
+                            <span class="font-medium text-gray-700">Quart To Cups</span>
+                        </div>
+                    </a>
+                </div>
+                <div>
+                    <a href="https://www.thiyagi.com/quart-to-gallon" class="block no-underline">
+                        <div class="tool-card" style="border-left: 4px solid #F59E0B;">
+                            <i class="fas fa-glass-whiskey text-amber-600"></i>
+                            <span class="font-medium text-gray-700">Quart To Gallon</span>
+                        </div>
+                    </a>
+                </div>
+                <div>
+                    <a href="https://www.thiyagi.com/quart-us-to-cubic-foot" class="block no-underline">
+                        <div class="tool-card" style="border-left: 4px solid #EC4899;">
+                            <i class="fas fa-wine-bottle text-pink-600"></i>
+                            <span class="font-medium text-gray-700">Quart US To Cubic Foot</span>
+                        </div>
+                    </a>
+                </div>
+                <div>
+                    <a href="https://www.thiyagi.com/quart-us-to-milliliter" class="block no-underline">
+                        <div class="tool-card" style="border-left: 4px solid #6366F1;">
+                            <i class="fas fa-wine-bottle text-indigo-600"></i>
+                            <span class="font-medium text-gray-700">Quart US To Milliliter</span>
+                        </div>
+                    </a>
+                </div>
+                <div>
+                    <a href="https://www.thiyagi.com/quart-us-to-pint-us" class="block no-underline">
+                        <div class="tool-card" style="border-left: 4px solid #0F766E;">
+                            <i class="fas fa-wine-bottle text-teal-600"></i>
+                            <span class="font-medium text-gray-700">Quart US To Pint US</span>
+                        </div>
+                    </a>
+                </div>
+                <div>
+                    <a href="https://www.thiyagi.com/quarts-to-liters" class="block no-underline">
+                        <div class="tool-card" style="border-left: 4px solid #E11D48;">
+                            <i class="fas fa-wine-bottle text-rose-600"></i>
+                            <span class="font-medium text-gray-700">Quarts To Liters</span>
+                        </div>
+                    </a>
+                </div>
+                <div>
+                    <a href="https://www.thiyagi.com/tablespoon-to-ml" class="block no-underline">
+                        <div class="tool-card" style="border-left: 4px solid #1E40AF;">
+                            <i class="fas fa-tint text-blue-600"></i>
+                            <span class="font-medium text-gray-700">Tablespoon To ML</span>
+                        </div>
+                    </a>
+                </div>
+                <div>
+                    <a href="https://www.thiyagi.com/tablespoon-us-to-milliliter" class="block no-underline">
+                        <div class="tool-card" style="border-left: 4px solid #475569;">
+                            <i class="fas fa-wine-bottle text-slate-600"></i>
+                            <span class="font-medium text-gray-700">Tablespoon US To Milliliter</span>
+                        </div>
+                    </a>
+                </div>
+                <div>
+                    <a href="https://www.thiyagi.com/tablespoons-to-cups" class="block no-underline">
+                        <div class="tool-card" style="border-left: 4px solid #B45309;">
+                            <i class="fas fa-tint text-amber-700"></i>
+                            <span class="font-medium text-gray-700">Tablespoons To Cups</span>
+                        </div>
+                    </a>
+                </div>
+                <div>
+                    <a href="https://www.thiyagi.com/teaspoon-to-ml" class="block no-underline">
+                        <div class="tool-card" style="border-left: 4px solid #4338CA;">
+                            <i class="fas fa-glass-whiskey text-indigo-600"></i>
+                            <span class="font-medium text-gray-700">Teaspoon To ML</span>
+                        </div>
+                    </a>
+                </div>
+                <div>
+                    <a href="https://www.thiyagi.com/teaspoon-us-to-cup-us" class="block no-underline">
+                        <div class="tool-card" style="border-left: 4px solid #0369A1;">
+                            <i class="fas fa-wine-bottle text-blue-600"></i>
+                            <span class="font-medium text-gray-700">Teaspoon US To Cup US</span>
+                        </div>
+                    </a>
+                </div>
+                <div>
+                    <a href="https://www.thiyagi.com/ton-register-to-cubic-yard" class="block no-underline">
+                        <div class="tool-card" style="border-left: 4px solid #F97316;">
+                            <i class="fas fa-flask text-orange-600"></i>
+                            <span class="font-medium text-gray-700">Ton Register To Cubic Yard</span>
+                        </div>
+                    </a>
+                </div>
+                <div>
+                    <a href="https://www.thiyagi.com/ton-register-to-gallon-us" class="block no-underline">
+                        <div class="tool-card" style="border-left: 4px solid #8B5CF6;">
+                            <i class="fas fa-glass-whiskey text-purple-600"></i>
+                            <span class="font-medium text-gray-700">Ton Register To Gallon US</span>
+                        </div>
+                    </a>
+                </div>
+
+                <!-- New Area Converters -->
+                <div>
+                    <a href="https://www.thiyagi.com/acre-to-bigha" class="block no-underline">
+                        <div class="tool-card" style="border-left: 4px solid #DC2626;">
+                            <i class="fas fa-seedling text-red-600"></i>
+                            <span class="font-medium text-gray-700">Acre To Bigha</span>
+                        </div>
+                    </a>
+                </div>
+                <div>
+                    <a href="https://www.thiyagi.com/acre-to-cent" class="block no-underline">
+                        <div class="tool-card" style="border-left: 4px solid #0891B2;">
+                            <i class="fas fa-expand text-cyan-600"></i>
+                            <span class="font-medium text-gray-700">Acre To Cent</span>
+                        </div>
+                    </a>
+                </div>
+                <div>
+                    <a href="https://www.thiyagi.com/acre-to-sqft" class="block no-underline">
+                        <div class="tool-card" style="border-left: 4px solid #16A34A;">
+                            <i class="fas fa-seedling text-green-600"></i>
+                            <span class="font-medium text-gray-700">Acre To SQFT</span>
+                        </div>
+                    </a>
+                </div>
+                <div>
+                    <a href="https://www.thiyagi.com/acre-to-sqm" class="block no-underline">
+                        <div class="tool-card" style="border-left: 4px solid #7C3AED;">
+                            <i class="fas fa-map text-purple-600"></i>
+                            <span class="font-medium text-gray-700">Acre To SQM</span>
+                        </div>
+                    </a>
+                </div>
+                <div>
+                    <a href="https://www.thiyagi.com/acre-to-square-kilometer" class="block no-underline">
+                        <div class="tool-card" style="border-left: 4px solid #EA580C;">
+                            <i class="fas fa-map text-orange-600"></i>
+                            <span class="font-medium text-gray-700">Acre To Square Kilometer</span>
+                        </div>
+                    </a>
+                </div>
+                <div>
+                    <a href="https://www.thiyagi.com/acre-to-square-meter" class="block no-underline">
+                        <div class="tool-card" style="border-left: 4px solid #059669;">
+                            <i class="fas fa-home text-emerald-600"></i>
+                            <span class="font-medium text-gray-700">Acre To Square Meter</span>
+                        </div>
+                    </a>
+                </div>
+                <div>
+                    <a href="https://www.thiyagi.com/acre-to-square-mile" class="block no-underline">
+                        <div class="tool-card" style="border-left: 4px solid #F59E0B;">
+                            <i class="fas fa-seedling text-amber-600"></i>
+                            <span class="font-medium text-gray-700">Acre To Square Mile</span>
+                        </div>
+                    </a>
+                </div>
+                <div>
+                    <a href="https://www.thiyagi.com/acre-to-square-yard" class="block no-underline">
+                        <div class="tool-card" style="border-left: 4px solid #EC4899;">
+                            <i class="fas fa-home text-pink-600"></i>
+                            <span class="font-medium text-gray-700">Acre To Square Yard</span>
+                        </div>
+                    </a>
+                </div>
+                <div>
+                    <a href="https://www.thiyagi.com/acres-to-hectare" class="block no-underline">
+                        <div class="tool-card" style="border-left: 4px solid #6366F1;">
+                            <i class="fas fa-expand text-indigo-600"></i>
+                            <span class="font-medium text-gray-700">Acres To Hectare</span>
+                        </div>
+                    </a>
+                </div>
+                <div>
+                    <a href="https://www.thiyagi.com/acres-to-square-miles" class="block no-underline">
+                        <div class="tool-card" style="border-left: 4px solid #0F766E;">
+                            <i class="fas fa-seedling text-teal-600"></i>
+                            <span class="font-medium text-gray-700">Acres To Square Miles</span>
+                        </div>
+                    </a>
+                </div>
+                <div>
+                    <a href="https://www.thiyagi.com/bigha-to-acre" class="block no-underline">
+                        <div class="tool-card" style="border-left: 4px solid #E11D48;">
+                            <i class="fas fa-expand text-rose-600"></i>
+                            <span class="font-medium text-gray-700">Bigha To Acre</span>
+                        </div>
+                    </a>
+                </div>
+                <div>
+                    <a href="https://www.thiyagi.com/bigha-to-gaj" class="block no-underline">
+                        <div class="tool-card" style="border-left: 4px solid #1E40AF;">
+                            <i class="fas fa-seedling text-blue-600"></i>
+                            <span class="font-medium text-gray-700">Bigha To GAJ</span>
+                        </div>
+                    </a>
+                </div>
+                <div>
+                    <a href="https://www.thiyagi.com/bigha-to-hectare" class="block no-underline">
+                        <div class="tool-card" style="border-left: 4px solid #475569;">
+                            <i class="fas fa-building text-slate-600"></i>
+                            <span class="font-medium text-gray-700">Bigha To Hectare</span>
+                        </div>
+                    </a>
+                </div>
+                <div>
+                    <a href="https://www.thiyagi.com/bigha-to-katha" class="block no-underline">
+                        <div class="tool-card" style="border-left: 4px solid #B45309;">
+                            <i class="fas fa-building text-amber-700"></i>
+                            <span class="font-medium text-gray-700">Bigha To Katha</span>
+                        </div>
+                    </a>
+                </div>
+                <div>
+                    <a href="https://www.thiyagi.com/bigha-to-sqft" class="block no-underline">
+                        <div class="tool-card" style="border-left: 4px solid #4338CA;">
+                            <i class="fas fa-expand text-indigo-600"></i>
+                            <span class="font-medium text-gray-700">Bigha To SQFT</span>
+                        </div>
+                    </a>
+                </div>
+                <div>
+                    <a href="https://www.thiyagi.com/bigha-to-sqm" class="block no-underline">
+                        <div class="tool-card" style="border-left: 4px solid #0369A1;">
+                            <i class="fas fa-building text-blue-600"></i>
+                            <span class="font-medium text-gray-700">Bigha To SQM</span>
+                        </div>
+                    </a>
+                </div>
+                <div>
+                    <a href="https://www.thiyagi.com/cent-to-acre" class="block no-underline">
+                        <div class="tool-card" style="border-left: 4px solid #F97316;">
+                            <i class="fas fa-seedling text-orange-600"></i>
+                            <span class="font-medium text-gray-700">Cent To Acre</span>
+                        </div>
+                    </a>
+                </div>
+                <div>
+                    <a href="https://www.thiyagi.com/cent-to-sqft" class="block no-underline">
+                        <div class="tool-card" style="border-left: 4px solid #8B5CF6;">
+                            <i class="fas fa-expand text-purple-600"></i>
+                            <span class="font-medium text-gray-700">Cent To SQFT</span>
+                        </div>
+                    </a>
+                </div>
+                <div>
+                    <a href="https://www.thiyagi.com/cent-to-sqm" class="block no-underline">
+                        <div class="tool-card" style="border-left: 4px solid #10B981;">
+                            <i class="fas fa-building text-emerald-600"></i>
+                            <span class="font-medium text-gray-700">Cent To SQM</span>
+                        </div>
+                    </a>
+                </div>
+                <div>
+                    <a href="https://www.thiyagi.com/guntha-to-acre" class="block no-underline">
+                        <div class="tool-card" style="border-left: 4px solid #3B82F6;">
+                            <i class="fas fa-building text-blue-600"></i>
+                            <span class="font-medium text-gray-700">Guntha To Acre</span>
+                        </div>
+                    </a>
+                </div>
+                <div>
+                    <a href="https://www.thiyagi.com/hectare-to-acres" class="block no-underline">
+                        <div class="tool-card" style="border-left: 4px solid #DC2626;">
+                            <i class="fas fa-map text-red-600"></i>
+                            <span class="font-medium text-gray-700">Hectare To Acres</span>
+                        </div>
+                    </a>
+                </div>
+                <div>
+                    <a href="https://www.thiyagi.com/hectare-to-bigha" class="block no-underline">
+                        <div class="tool-card" style="border-left: 4px solid #0891B2;">
+                            <i class="fas fa-map text-cyan-600"></i>
+                            <span class="font-medium text-gray-700">Hectare To Bigha</span>
+                        </div>
+                    </a>
+                </div>
+                <div>
+                    <a href="https://www.thiyagi.com/hectare-to-sqft" class="block no-underline">
+                        <div class="tool-card" style="border-left: 4px solid #16A34A;">
+                            <i class="fas fa-building text-green-600"></i>
+                            <span class="font-medium text-gray-700">Hectare To SQFT</span>
+                        </div>
+                    </a>
+                </div>
+                <div>
+                    <a href="https://www.thiyagi.com/hectare-to-sqm" class="block no-underline">
+                        <div class="tool-card" style="border-left: 4px solid #7C3AED;">
+                            <i class="fas fa-building text-purple-600"></i>
+                            <span class="font-medium text-gray-700">Hectare To SQM</span>
+                        </div>
+                    </a>
+                </div>
+                <div>
+                    <a href="https://www.thiyagi.com/hectare-to-square-hectometer" class="block no-underline">
+                        <div class="tool-card" style="border-left: 4px solid #EA580C;">
+                            <i class="fas fa-seedling text-orange-600"></i>
+                            <span class="font-medium text-gray-700">Hectare To Square Hectometer</span>
+                        </div>
+                    </a>
+                </div>
+                <div>
+                    <a href="https://www.thiyagi.com/hectare-to-square-meter" class="block no-underline">
+                        <div class="tool-card" style="border-left: 4px solid #059669;">
+                            <i class="fas fa-home text-emerald-600"></i>
+                            <span class="font-medium text-gray-700">Hectare To Square Meter</span>
+                        </div>
+                    </a>
+                </div>
+                <div>
+                    <a href="https://www.thiyagi.com/megapascal-to-newton-square-meter" class="block no-underline">
+                        <div class="tool-card" style="border-left: 4px solid #F59E0B;">
+                            <i class="fas fa-map text-amber-600"></i>
+                            <span class="font-medium text-gray-700">Megapascal To Newton Square Meter</span>
+                        </div>
+                    </a>
+                </div>
+                <div>
+                    <a href="https://www.thiyagi.com/pascal-to-newton-square-meter" class="block no-underline">
+                        <div class="tool-card" style="border-left: 4px solid #EC4899;">
+                            <i class="fas fa-expand text-pink-600"></i>
+                            <span class="font-medium text-gray-700">Pascal To Newton Square Meter</span>
+                        </div>
+                    </a>
+                </div>
+                <div>
+                    <a href="https://www.thiyagi.com/psi-to-newton-square-meter" class="block no-underline">
+                        <div class="tool-card" style="border-left: 4px solid #6366F1;">
+                            <i class="fas fa-seedling text-indigo-600"></i>
+                            <span class="font-medium text-gray-700">PSI To Newton Square Meter</span>
+                        </div>
+                    </a>
+                </div>
+                <div>
+                    <a href="https://www.thiyagi.com/psi-to-pound-force-square-foot" class="block no-underline">
+                        <div class="tool-card" style="border-left: 4px solid #0F766E;">
+                            <i class="fas fa-seedling text-teal-600"></i>
+                            <span class="font-medium text-gray-700">PSI To Pound Force Square Foot</span>
+                        </div>
+                    </a>
+                </div>
+                <div>
+                    <a href="https://www.thiyagi.com/psi-to-pound-force-square-inch" class="block no-underline">
+                        <div class="tool-card" style="border-left: 4px solid #E11D48;">
+                            <i class="fas fa-building text-rose-600"></i>
+                            <span class="font-medium text-gray-700">PSI To Pound Force Square Inch</span>
+                        </div>
+                    </a>
+                </div>
+                <div>
+                    <a href="https://www.thiyagi.com/sq-yard-to-sqm" class="block no-underline">
+                        <div class="tool-card" style="border-left: 4px solid #1E40AF;">
+                            <i class="fas fa-seedling text-blue-600"></i>
+                            <span class="font-medium text-gray-700">Sq Yard To SQM</span>
+                        </div>
+                    </a>
+                </div>
+                <div>
+                    <a href="https://www.thiyagi.com/sqft-to-acre" class="block no-underline">
+                        <div class="tool-card" style="border-left: 4px solid #475569;">
+                            <i class="fas fa-seedling text-slate-600"></i>
+                            <span class="font-medium text-gray-700">SQFT To Acre</span>
+                        </div>
+                    </a>
+                </div>
+                <div>
+                    <a href="https://www.thiyagi.com/sqft-to-cent" class="block no-underline">
+                        <div class="tool-card" style="border-left: 4px solid #B45309;">
+                            <i class="fas fa-seedling text-amber-700"></i>
+                            <span class="font-medium text-gray-700">SQFT To Cent</span>
+                        </div>
+                    </a>
+                </div>
+                <div>
+                    <a href="https://www.thiyagi.com/sqft-to-gaj" class="block no-underline">
+                        <div class="tool-card" style="border-left: 4px solid #4338CA;">
+                            <i class="fas fa-map text-indigo-600"></i>
+                            <span class="font-medium text-gray-700">SQFT To GAJ</span>
+                        </div>
+                    </a>
+                </div>
+                <div>
+                    <a href="https://www.thiyagi.com/sqft-to-hectare" class="block no-underline">
+                        <div class="tool-card" style="border-left: 4px solid #0369A1;">
+                            <i class="fas fa-home text-blue-600"></i>
+                            <span class="font-medium text-gray-700">SQFT To Hectare</span>
+                        </div>
+                    </a>
+                </div>
+                <div>
+                    <a href="https://www.thiyagi.com/sqft-to-sq-yard" class="block no-underline">
+                        <div class="tool-card" style="border-left: 4px solid #F97316;">
+                            <i class="fas fa-building text-orange-600"></i>
+                            <span class="font-medium text-gray-700">SQFT To Sq Yard</span>
+                        </div>
+                    </a>
+                </div>
+                <div>
+                    <a href="https://www.thiyagi.com/square-feet-to-square-centimeter" class="block no-underline">
+                        <div class="tool-card" style="border-left: 4px solid #8B5CF6;">
+                            <i class="fas fa-building text-purple-600"></i>
+                            <span class="font-medium text-gray-700">Square Feet To Square Centimeter</span>
+                        </div>
+                    </a>
+                </div>
+                <div>
+                    <a href="https://www.thiyagi.com/square-feet-to-square-yards" class="block no-underline">
+                        <div class="tool-card" style="border-left: 4px solid #10B981;">
+                            <i class="fas fa-expand text-emerald-600"></i>
+                            <span class="font-medium text-gray-700">Square Feet To Square Yards</span>
+                        </div>
+                    </a>
+                </div>
+                <div>
+                    <a href="https://www.thiyagi.com/square-inch-to-square-feet" class="block no-underline">
+                        <div class="tool-card" style="border-left: 4px solid #3B82F6;">
+                            <i class="fas fa-home text-blue-600"></i>
+                            <span class="font-medium text-gray-700">Square Inch To Square Feet</span>
+                        </div>
+                    </a>
+                </div>
+                <div>
+                    <a href="https://www.thiyagi.com/square-inch-to-square-foot" class="block no-underline">
+                        <div class="tool-card" style="border-left: 4px solid #DC2626;">
+                            <i class="fas fa-map text-red-600"></i>
+                            <span class="font-medium text-gray-700">Square Inch To Square Foot</span>
+                        </div>
+                    </a>
+                </div>
+                <div>
+                    <a href="https://www.thiyagi.com/square-inch-to-square-meter" class="block no-underline">
+                        <div class="tool-card" style="border-left: 4px solid #0891B2;">
+                            <i class="fas fa-expand text-cyan-600"></i>
+                            <span class="font-medium text-gray-700">Square Inch To Square Meter</span>
+                        </div>
+                    </a>
+                </div>
+                <div>
+                    <a href="https://www.thiyagi.com/square-mile-to-acre" class="block no-underline">
+                        <div class="tool-card" style="border-left: 4px solid #16A34A;">
+                            <i class="fas fa-seedling text-green-600"></i>
+                            <span class="font-medium text-gray-700">Square Mile To Acre</span>
+                        </div>
+                    </a>
+                </div>
+                <div>
+                    <a href="https://www.thiyagi.com/square-miles-to-acres" class="block no-underline">
+                        <div class="tool-card" style="border-left: 4px solid #7C3AED;">
+                            <i class="fas fa-home text-purple-600"></i>
+                            <span class="font-medium text-gray-700">Square Miles To Acres</span>
+                        </div>
+                    </a>
+                </div>
+                <div>
+                    <a href="https://www.thiyagi.com/square-yard-to-acre" class="block no-underline">
+                        <div class="tool-card" style="border-left: 4px solid #EA580C;">
+                            <i class="fas fa-building text-orange-600"></i>
+                            <span class="font-medium text-gray-700">Square Yard To Acre</span>
+                        </div>
+                    </a>
+                </div>
+                <div>
+                    <a href="https://www.thiyagi.com/square-yard-to-square-meter" class="block no-underline">
+                        <div class="tool-card" style="border-left: 4px solid #059669;">
+                            <i class="fas fa-map text-emerald-600"></i>
+                            <span class="font-medium text-gray-700">Square Yard To Square Meter</span>
+                        </div>
+                    </a>
+                </div>
+                <div>
+                    <a href="https://www.thiyagi.com/square-yards-to-square-feet" class="block no-underline">
+                        <div class="tool-card" style="border-left: 4px solid #F59E0B;">
+                            <i class="fas fa-map text-amber-600"></i>
+                            <span class="font-medium text-gray-700">Square Yards To Square Feet</span>
+                        </div>
+                    </a>
+                </div>
+
+                <!-- New Pressure Converters -->
+                <div>
+                    <a href="https://www.thiyagi.com/bar-to-kilopascal" class="block no-underline">
+                        <div class="tool-card" style="border-left: 4px solid #DC2626;">
+                            <i class="fas fa-tachometer-alt text-red-600"></i>
+                            <span class="font-medium text-gray-700">Bar To Kilopascal</span>
+                        </div>
+                    </a>
+                </div>
+                <div>
+                    <a href="https://www.thiyagi.com/bar-to-pascal" class="block no-underline">
+                        <div class="tool-card" style="border-left: 4px solid #0891B2;">
+                            <i class="fas fa-compress-arrows-alt text-cyan-600"></i>
+                            <span class="font-medium text-gray-700">Bar To Pascal</span>
+                        </div>
+                    </a>
+                </div>
+                <div>
+                    <a href="https://www.thiyagi.com/bar-to-psi" class="block no-underline">
+                        <div class="tool-card" style="border-left: 4px solid #16A34A;">
+                            <i class="fas fa-tachometer-alt text-green-600"></i>
+                            <span class="font-medium text-gray-700">Bar To PSI</span>
+                        </div>
+                    </a>
+                </div>
+                <div>
+                    <a href="https://www.thiyagi.com/bar-to-standard-atmosphere" class="block no-underline">
+                        <div class="tool-card" style="border-left: 4px solid #7C3AED;">
+                            <i class="fas fa-compress-arrows-alt text-purple-600"></i>
+                            <span class="font-medium text-gray-700">Bar To Standard Atmosphere</span>
+                        </div>
+                    </a>
+                </div>
+                <div>
+                    <a href="https://www.thiyagi.com/centipoise-to-pascal-second" class="block no-underline">
+                        <div class="tool-card" style="border-left: 4px solid #EA580C;">
+                            <i class="fas fa-compress-arrows-alt text-orange-600"></i>
+                            <span class="font-medium text-gray-700">Centipoise To Pascal Second</span>
+                        </div>
+                    </a>
+                </div>
+                <div>
+                    <a href="https://www.thiyagi.com/gigapascal-to-pascal" class="block no-underline">
+                        <div class="tool-card" style="border-left: 4px solid #059669;">
+                            <i class="fas fa-compress-alt text-emerald-600"></i>
+                            <span class="font-medium text-gray-700">Gigapascal To Pascal</span>
+                        </div>
+                    </a>
+                </div>
+                <div>
+                    <a href="https://www.thiyagi.com/gigapascal-to-psi" class="block no-underline">
+                        <div class="tool-card" style="border-left: 4px solid #F59E0B;">
+                            <i class="fas fa-compress-arrows-alt text-amber-600"></i>
+                            <span class="font-medium text-gray-700">Gigapascal To PSI</span>
+                        </div>
+                    </a>
+                </div>
+                <div>
+                    <a href="https://www.thiyagi.com/kilopascal-to-bar" class="block no-underline">
+                        <div class="tool-card" style="border-left: 4px solid #EC4899;">
+                            <i class="fas fa-compress-alt text-pink-600"></i>
+                            <span class="font-medium text-gray-700">Kilopascal To Bar</span>
+                        </div>
+                    </a>
+                </div>
+                <div>
+                    <a href="https://www.thiyagi.com/kpa-to-psi" class="block no-underline">
+                        <div class="tool-card" style="border-left: 4px solid #6366F1;">
+                            <i class="fas fa-tachometer-alt text-indigo-600"></i>
+                            <span class="font-medium text-gray-700">KPA To PSI</span>
+                        </div>
+                    </a>
+                </div>
+                <div>
+                    <a href="https://www.thiyagi.com/ksi-to-megapascal" class="block no-underline">
+                        <div class="tool-card" style="border-left: 4px solid #0F766E;">
+                            <i class="fas fa-compress-arrows-alt text-teal-600"></i>
+                            <span class="font-medium text-gray-700">Ksi To Megapascal</span>
+                        </div>
+                    </a>
+                </div>
+                <div>
+                    <a href="https://www.thiyagi.com/megapascal-to-bar" class="block no-underline">
+                        <div class="tool-card" style="border-left: 4px solid #E11D48;">
+                            <i class="fas fa-compress-arrows-alt text-rose-600"></i>
+                            <span class="font-medium text-gray-700">Megapascal To Bar</span>
+                        </div>
+                    </a>
+                </div>
+                <div>
+                    <a href="https://www.thiyagi.com/megapascal-to-gigapascal" class="block no-underline">
+                        <div class="tool-card" style="border-left: 4px solid #1E40AF;">
+                            <i class="fas fa-compress-alt text-blue-600"></i>
+                            <span class="font-medium text-gray-700">Megapascal To Gigapascal</span>
+                        </div>
+                    </a>
+                </div>
+                <div>
+                    <a href="https://www.thiyagi.com/megapascal-to-kilopascal" class="block no-underline">
+                        <div class="tool-card" style="border-left: 4px solid #475569;">
+                            <i class="fas fa-tachometer-alt text-slate-600"></i>
+                            <span class="font-medium text-gray-700">Megapascal To Kilopascal</span>
+                        </div>
+                    </a>
+                </div>
+                <div>
+                    <a href="https://www.thiyagi.com/megapascal-to-pascal" class="block no-underline">
+                        <div class="tool-card" style="border-left: 4px solid #B45309;">
+                            <i class="fas fa-compress-arrows-alt text-amber-700"></i>
+                            <span class="font-medium text-gray-700">Megapascal To Pascal</span>
+                        </div>
+                    </a>
+                </div>
+                <div>
+                    <a href="https://www.thiyagi.com/megapascal-to-psi" class="block no-underline">
+                        <div class="tool-card" style="border-left: 4px solid #4338CA;">
+                            <i class="fas fa-compress-arrows-alt text-indigo-600"></i>
+                            <span class="font-medium text-gray-700">Megapascal To PSI</span>
+                        </div>
+                    </a>
+                </div>
+                <div>
+                    <a href="https://www.thiyagi.com/millibar-to-psi" class="block no-underline">
+                        <div class="tool-card" style="border-left: 4px solid #0369A1;">
+                            <i class="fas fa-tachometer-alt text-blue-600"></i>
+                            <span class="font-medium text-gray-700">Millibar To PSI</span>
+                        </div>
+                    </a>
+                </div>
+                <div>
+                    <a href="https://www.thiyagi.com/newton-square-meter-to-psi" class="block no-underline">
+                        <div class="tool-card" style="border-left: 4px solid #F97316;">
+                            <i class="fas fa-tachometer-alt text-orange-600"></i>
+                            <span class="font-medium text-gray-700">Newton Square Meter To PSI</span>
+                        </div>
+                    </a>
+                </div>
+                <div>
+                    <a href="https://www.thiyagi.com/pascal-to-bar" class="block no-underline">
+                        <div class="tool-card" style="border-left: 4px solid #8B5CF6;">
+                            <i class="fas fa-compress-alt text-purple-600"></i>
+                            <span class="font-medium text-gray-700">Pascal To Bar</span>
+                        </div>
+                    </a>
+                </div>
+                <div>
+                    <a href="https://www.thiyagi.com/pascal-to-kilopascal" class="block no-underline">
+                        <div class="tool-card" style="border-left: 4px solid #10B981;">
+                            <i class="fas fa-compress-arrows-alt text-emerald-600"></i>
+                            <span class="font-medium text-gray-700">Pascal To Kilopascal</span>
+                        </div>
+                    </a>
+                </div>
+                <div>
+                    <a href="https://www.thiyagi.com/pascal-to-megapascal" class="block no-underline">
+                        <div class="tool-card" style="border-left: 4px solid #3B82F6;">
+                            <i class="fas fa-tachometer-alt text-blue-600"></i>
+                            <span class="font-medium text-gray-700">Pascal To Megapascal</span>
+                        </div>
+                    </a>
+                </div>
+                <div>
+                    <a href="https://www.thiyagi.com/pascal-to-psi" class="block no-underline">
+                        <div class="tool-card" style="border-left: 4px solid #DC2626;">
+                            <i class="fas fa-tachometer-alt text-red-600"></i>
+                            <span class="font-medium text-gray-700">Pascal To PSI</span>
+                        </div>
+                    </a>
+                </div>
+                <div>
+                    <a href="https://www.thiyagi.com/pascal-to-standard-atmosphere" class="block no-underline">
+                        <div class="tool-card" style="border-left: 4px solid #0891B2;">
+                            <i class="fas fa-compress-arrows-alt text-cyan-600"></i>
+                            <span class="font-medium text-gray-700">Pascal To Standard Atmosphere</span>
+                        </div>
+                    </a>
+                </div>
+                <div>
+                    <a href="https://www.thiyagi.com/psi-to-bar" class="block no-underline">
+                        <div class="tool-card" style="border-left: 4px solid #16A34A;">
+                            <i class="fas fa-compress-arrows-alt text-green-600"></i>
+                            <span class="font-medium text-gray-700">PSI To Bar</span>
+                        </div>
+                    </a>
+                </div>
+                <div>
+                    <a href="https://www.thiyagi.com/psi-to-foot-water-60-176-f" class="block no-underline">
+                        <div class="tool-card" style="border-left: 4px solid #7C3AED;">
+                            <i class="fas fa-tachometer-alt text-purple-600"></i>
+                            <span class="font-medium text-gray-700">PSI To Foot Water 60 176 F</span>
+                        </div>
+                    </a>
+                </div>
+                <div>
+                    <a href="https://www.thiyagi.com/psi-to-kpa" class="block no-underline">
+                        <div class="tool-card" style="border-left: 4px solid #EA580C;">
+                            <i class="fas fa-compress-alt text-orange-600"></i>
+                            <span class="font-medium text-gray-700">PSI To KPA</span>
+                        </div>
+                    </a>
+                </div>
+                <div>
+                    <a href="https://www.thiyagi.com/psi-to-ksi" class="block no-underline">
+                        <div class="tool-card" style="border-left: 4px solid #059669;">
+                            <i class="fas fa-tachometer-alt text-emerald-600"></i>
+                            <span class="font-medium text-gray-700">PSI To Ksi</span>
+                        </div>
+                    </a>
+                </div>
+                <div>
+                    <a href="https://www.thiyagi.com/psi-to-megapascal" class="block no-underline">
+                        <div class="tool-card" style="border-left: 4px solid #F59E0B;">
+                            <i class="fas fa-tachometer-alt text-amber-600"></i>
+                            <span class="font-medium text-gray-700">PSI To Megapascal</span>
+                        </div>
+                    </a>
+                </div>
+                <div>
+                    <a href="https://www.thiyagi.com/psi-to-pascal" class="block no-underline">
+                        <div class="tool-card" style="border-left: 4px solid #EC4899;">
+                            <i class="fas fa-compress-alt text-pink-600"></i>
+                            <span class="font-medium text-gray-700">PSI To Pascal</span>
+                        </div>
+                    </a>
+                </div>
+                <div>
+                    <a href="https://www.thiyagi.com/psi-to-standard-atmosphere" class="block no-underline">
+                        <div class="tool-card" style="border-left: 4px solid #6366F1;">
+                            <i class="fas fa-compress-alt text-indigo-600"></i>
+                            <span class="font-medium text-gray-700">PSI To Standard Atmosphere</span>
+                        </div>
+                    </a>
+                </div>
+                <div>
+                    <a href="https://www.thiyagi.com/standard-atmosphere-to-kilopascal" class="block no-underline">
+                        <div class="tool-card" style="border-left: 4px solid #0F766E;">
+                            <i class="fas fa-compress-alt text-teal-600"></i>
+                            <span class="font-medium text-gray-700">Standard Atmosphere To Kilopascal</span>
+                        </div>
+                    </a>
+                </div>
+                <div>
+                    <a href="https://www.thiyagi.com/standard-atmosphere-to-pascal" class="block no-underline">
+                        <div class="tool-card" style="border-left: 4px solid #E11D48;">
+                            <i class="fas fa-compress-alt text-rose-600"></i>
+                            <span class="font-medium text-gray-700">Standard Atmosphere To Pascal</span>
+                        </div>
+                    </a>
+                </div>
+                <div>
+                    <a href="https://www.thiyagi.com/standard-atmosphere-to-psi" class="block no-underline">
+                        <div class="tool-card" style="border-left: 4px solid #1E40AF;">
+                            <i class="fas fa-compress-alt text-blue-600"></i>
+                            <span class="font-medium text-gray-700">Standard Atmosphere To PSI</span>
+                        </div>
+                    </a>
+                </div>
+
+                <!-- New Energy Converters -->
+                <div>
+                    <a href="https://www.thiyagi.com/btu-it-hour-to-kilowatt" class="block no-underline">
+                        <div class="tool-card" style="border-left: 4px solid #DC2626;">
+                            <i class="fas fa-fire text-red-600"></i>
+                            <span class="font-medium text-gray-700">BTU IT Hour To Kilowatt</span>
+                        </div>
+                    </a>
+                </div>
+                <div>
+                    <a href="https://www.thiyagi.com/btu-it-hour-to-mbh" class="block no-underline">
+                        <div class="tool-card" style="border-left: 4px solid #0891B2;">
+                            <i class="fas fa-fire text-cyan-600"></i>
+                            <span class="font-medium text-gray-700">BTU IT Hour To Mbh</span>
+                        </div>
+                    </a>
+                </div>
+                <div>
+                    <a href="https://www.thiyagi.com/btu-it-hour-to-watt" class="block no-underline">
+                        <div class="tool-card" style="border-left: 4px solid #16A34A;">
+                            <i class="fas fa-bolt text-green-600"></i>
+                            <span class="font-medium text-gray-700">BTU IT Hour To Watt</span>
+                        </div>
+                    </a>
+                </div>
+                <div>
+                    <a href="https://www.thiyagi.com/btu-to-ton" class="block no-underline">
+                        <div class="tool-card" style="border-left: 4px solid #7C3AED;">
+                            <i class="fas fa-sun text-purple-600"></i>
+                            <span class="font-medium text-gray-700">BTU To Ton</span>
+                        </div>
+                    </a>
+                </div>
+                <div>
+                    <a href="https://www.thiyagi.com/cal-to-j" class="block no-underline">
+                        <div class="tool-card" style="border-left: 4px solid #EA580C;">
+                            <i class="fas fa-bolt text-orange-600"></i>
+                            <span class="font-medium text-gray-700">Cal To J</span>
+                        </div>
+                    </a>
+                </div>
+                <div>
+                    <a href="https://www.thiyagi.com/cal-to-kcal" class="block no-underline">
+                        <div class="tool-card" style="border-left: 4px solid #059669;">
+                            <i class="fas fa-sun text-emerald-600"></i>
+                            <span class="font-medium text-gray-700">Cal To Kcal</span>
+                        </div>
+                    </a>
+                </div>
+                <div>
+                    <a href="https://www.thiyagi.com/electron-volt-to-joule" class="block no-underline">
+                        <div class="tool-card" style="border-left: 4px solid #F59E0B;">
+                            <i class="fas fa-bolt text-amber-600"></i>
+                            <span class="font-medium text-gray-700">Electron Volt To Joule</span>
+                        </div>
+                    </a>
+                </div>
+                <div>
+                    <a href="https://www.thiyagi.com/j-to-cal" class="block no-underline">
+                        <div class="tool-card" style="border-left: 4px solid #EC4899;">
+                            <i class="fas fa-sun text-pink-600"></i>
+                            <span class="font-medium text-gray-700">J To Cal</span>
+                        </div>
+                    </a>
+                </div>
+                <div>
+                    <a href="https://www.thiyagi.com/j-to-kj" class="block no-underline">
+                        <div class="tool-card" style="border-left: 4px solid #6366F1;">
+                            <i class="fas fa-fire text-indigo-600"></i>
+                            <span class="font-medium text-gray-700">J To Kj</span>
+                        </div>
+                    </a>
+                </div>
+                <div>
+                    <a href="https://www.thiyagi.com/joule-to-kilowatt-hour" class="block no-underline">
+                        <div class="tool-card" style="border-left: 4px solid #0F766E;">
+                            <i class="fas fa-sun text-teal-600"></i>
+                            <span class="font-medium text-gray-700">Joule To Kilowatt Hour</span>
+                        </div>
+                    </a>
+                </div>
+                <div>
+                    <a href="https://www.thiyagi.com/kcal-to-cal" class="block no-underline">
+                        <div class="tool-card" style="border-left: 4px solid #E11D48;">
+                            <i class="fas fa-fire text-rose-600"></i>
+                            <span class="font-medium text-gray-700">Kcal To Cal</span>
+                        </div>
+                    </a>
+                </div>
+                <div>
+                    <a href="https://www.thiyagi.com/kcal-to-kj" class="block no-underline">
+                        <div class="tool-card" style="border-left: 4px solid #1E40AF;">
+                            <i class="fas fa-fire text-blue-600"></i>
+                            <span class="font-medium text-gray-700">Kcal To Kj</span>
+                        </div>
+                    </a>
+                </div>
+                <div>
+                    <a href="https://www.thiyagi.com/kilowatt-to-btu-it-hour" class="block no-underline">
+                        <div class="tool-card" style="border-left: 4px solid #475569;">
+                            <i class="fas fa-sun text-slate-600"></i>
+                            <span class="font-medium text-gray-700">Kilowatt To BTU IT Hour</span>
+                        </div>
+                    </a>
+                </div>
+                <div>
+                    <a href="https://www.thiyagi.com/kj-to-j" class="block no-underline">
+                        <div class="tool-card" style="border-left: 4px solid #B45309;">
+                            <i class="fas fa-fire text-amber-700"></i>
+                            <span class="font-medium text-gray-700">Kj To J</span>
+                        </div>
+                    </a>
+                </div>
+                <div>
+                    <a href="https://www.thiyagi.com/kj-to-kcal" class="block no-underline">
+                        <div class="tool-card" style="border-left: 4px solid #4338CA;">
+                            <i class="fas fa-bolt text-indigo-600"></i>
+                            <span class="font-medium text-gray-700">Kj To Kcal</span>
+                        </div>
+                    </a>
+                </div>
+                <div>
+                    <a href="https://www.thiyagi.com/mbh-to-btu-it-hour" class="block no-underline">
+                        <div class="tool-card" style="border-left: 4px solid #0369A1;">
+                            <i class="fas fa-sun text-blue-600"></i>
+                            <span class="font-medium text-gray-700">Mbh To BTU IT Hour</span>
+                        </div>
+                    </a>
+                </div>
+                <div>
+                    <a href="https://www.thiyagi.com/megajoule-to-joule" class="block no-underline">
+                        <div class="tool-card" style="border-left: 4px solid #F97316;">
+                            <i class="fas fa-fire text-orange-600"></i>
+                            <span class="font-medium text-gray-700">Megajoule To Joule</span>
+                        </div>
+                    </a>
+                </div>
+                <div>
+                    <a href="https://www.thiyagi.com/ton-to-btu" class="block no-underline">
+                        <div class="tool-card" style="border-left: 4px solid #8B5CF6;">
+                            <i class="fas fa-fire text-purple-600"></i>
+                            <span class="font-medium text-gray-700">Ton To BTU</span>
+                        </div>
+                    </a>
+                </div>
+                <div>
+                    <a href="https://www.thiyagi.com/watt-to-btu-it-hour" class="block no-underline">
+                        <div class="tool-card" style="border-left: 4px solid #10B981;">
+                            <i class="fas fa-fire text-emerald-600"></i>
+                            <span class="font-medium text-gray-700">Watt To BTU IT Hour</span>
+                        </div>
+                    </a>
+                </div>
+
+                <!-- New Power Converters -->
+                <div>
+                    <a href="https://www.thiyagi.com/hp-to-kw" class="block no-underline">
+                        <div class="tool-card" style="border-left: 4px solid #DC2626;">
+                            <i class="fas fa-plug text-red-600"></i>
+                            <span class="font-medium text-gray-700">HP To KW</span>
+                        </div>
+                    </a>
+                </div>
+                <div>
+                    <a href="https://www.thiyagi.com/hp-to-watts" class="block no-underline">
+                        <div class="tool-card" style="border-left: 4px solid #0891B2;">
+                            <i class="fas fa-plug text-cyan-600"></i>
+                            <span class="font-medium text-gray-700">HP To Watts</span>
+                        </div>
+                    </a>
+                </div>
+                <div>
+                    <a href="https://www.thiyagi.com/kilowatt-to-megawatt" class="block no-underline">
+                        <div class="tool-card" style="border-left: 4px solid #16A34A;">
+                            <i class="fas fa-cog text-green-600"></i>
+                            <span class="font-medium text-gray-700">Kilowatt To Megawatt</span>
+                        </div>
+                    </a>
+                </div>
+                <div>
+                    <a href="https://www.thiyagi.com/kilowatt-to-watt" class="block no-underline">
+                        <div class="tool-card" style="border-left: 4px solid #7C3AED;">
+                            <i class="fas fa-plug text-purple-600"></i>
+                            <span class="font-medium text-gray-700">Kilowatt To Watt</span>
+                        </div>
+                    </a>
+                </div>
+                <div>
+                    <a href="https://www.thiyagi.com/kw-to-hp" class="block no-underline">
+                        <div class="tool-card" style="border-left: 4px solid #EA580C;">
+                            <i class="fas fa-cog text-orange-600"></i>
+                            <span class="font-medium text-gray-700">KW To HP</span>
+                        </div>
+                    </a>
+                </div>
+                <div>
+                    <a href="https://www.thiyagi.com/megawatt-to-kilowatt" class="block no-underline">
+                        <div class="tool-card" style="border-left: 4px solid #059669;">
+                            <i class="fas fa-plug text-emerald-600"></i>
+                            <span class="font-medium text-gray-700">Megawatt To Kilowatt</span>
+                        </div>
+                    </a>
+                </div>
+                <div>
+                    <a href="https://www.thiyagi.com/megawatt-to-watt" class="block no-underline">
+                        <div class="tool-card" style="border-left: 4px solid #F59E0B;">
+                            <i class="fas fa-plug text-amber-600"></i>
+                            <span class="font-medium text-gray-700">Megawatt To Watt</span>
+                        </div>
+                    </a>
+                </div>
+                <div>
+                    <a href="https://www.thiyagi.com/ton-refrigeration-to-kilowatt" class="block no-underline">
+                        <div class="tool-card" style="border-left: 4px solid #EC4899;">
+                            <i class="fas fa-bolt text-pink-600"></i>
+                            <span class="font-medium text-gray-700">Ton Refrigeration To Kilowatt</span>
+                        </div>
+                    </a>
+                </div>
+                <div>
+                    <a href="https://www.thiyagi.com/watts-to-hp" class="block no-underline">
+                        <div class="tool-card" style="border-left: 4px solid #6366F1;">
+                            <i class="fas fa-cog text-indigo-600"></i>
+                            <span class="font-medium text-gray-700">Watts To HP</span>
+                        </div>
+                    </a>
+                </div>
+
+                <!-- New Speed Converters -->
+                <div>
+                    <a href="https://www.thiyagi.com/feet-per-second-to-mph" class="block no-underline">
+                        <div class="tool-card" style="border-left: 4px solid #DC2626;">
+                            <i class="fas fa-tachometer-alt text-red-600"></i>
+                            <span class="font-medium text-gray-700">Feet Per Second To MPH</span>
+                        </div>
+                    </a>
+                </div>
+                <div>
+                    <a href="https://www.thiyagi.com/knot-to-mph" class="block no-underline">
+                        <div class="tool-card" style="border-left: 4px solid #0891B2;">
+                            <i class="fas fa-tachometer-alt text-cyan-600"></i>
+                            <span class="font-medium text-gray-700">Knot To MPH</span>
+                        </div>
+                    </a>
+                </div>
+                <div>
+                    <a href="https://www.thiyagi.com/kph-to-meters-per-second" class="block no-underline">
+                        <div class="tool-card" style="border-left: 4px solid #16A34A;">
+                            <i class="fas fa-car text-green-600"></i>
+                            <span class="font-medium text-gray-700">KPH To Meters Per Second</span>
+                        </div>
+                    </a>
+                </div>
+                <div>
+                    <a href="https://www.thiyagi.com/kph-to-mph" class="block no-underline">
+                        <div class="tool-card" style="border-left: 4px solid #7C3AED;">
+                            <i class="fas fa-tachometer-alt text-purple-600"></i>
+                            <span class="font-medium text-gray-700">KPH To MPH</span>
+                        </div>
+                    </a>
+                </div>
+                <div>
+                    <a href="https://www.thiyagi.com/meter-hour-to-meter-second" class="block no-underline">
+                        <div class="tool-card" style="border-left: 4px solid #EA580C;">
+                            <i class="fas fa-running text-orange-600"></i>
+                            <span class="font-medium text-gray-700">Meter Hour To Meter Second</span>
+                        </div>
+                    </a>
+                </div>
+                <div>
+                    <a href="https://www.thiyagi.com/meters-per-second-to-miles-per-hour" class="block no-underline">
+                        <div class="tool-card" style="border-left: 4px solid #059669;">
+                            <i class="fas fa-tachometer-alt text-emerald-600"></i>
+                            <span class="font-medium text-gray-700">Meters Per Second To Miles Per Hour</span>
+                        </div>
+                    </a>
+                </div>
+                <div>
+                    <a href="https://www.thiyagi.com/miles-per-hour-to-meters-per-second" class="block no-underline">
+                        <div class="tool-card" style="border-left: 4px solid #F59E0B;">
+                            <i class="fas fa-car text-amber-600"></i>
+                            <span class="font-medium text-gray-700">Miles Per Hour To Meters Per Second</span>
+                        </div>
+                    </a>
+                </div>
+                <div>
+                    <a href="https://www.thiyagi.com/mph-to-feet-per-second" class="block no-underline">
+                        <div class="tool-card" style="border-left: 4px solid #EC4899;">
+                            <i class="fas fa-car text-pink-600"></i>
+                            <span class="font-medium text-gray-700">MPH To Feet Per Second</span>
+                        </div>
+                    </a>
+                </div>
+                <div>
+                    <a href="https://www.thiyagi.com/mph-to-knot" class="block no-underline">
+                        <div class="tool-card" style="border-left: 4px solid #6366F1;">
+                            <i class="fas fa-tachometer-alt text-indigo-600"></i>
+                            <span class="font-medium text-gray-700">MPH To Knot</span>
+                        </div>
+                    </a>
+                </div>
+                <div>
+                    <a href="https://www.thiyagi.com/mph-to-kph" class="block no-underline">
+                        <div class="tool-card" style="border-left: 4px solid #0F766E;">
+                            <i class="fas fa-tachometer-alt text-teal-600"></i>
+                            <span class="font-medium text-gray-700">MPH To KPH</span>
+                        </div>
+                    </a>
+                </div>
+
+                <!-- New Time Converters -->
+                <div>
+                    <a href="https://www.thiyagi.com/cycle-second-to-hertz" class="block no-underline">
+                        <div class="tool-card" style="border-left: 4px solid #DC2626;">
+                            <i class="fas fa-clock text-red-600"></i>
+                            <span class="font-medium text-gray-700">Cycle Second To Hertz</span>
+                        </div>
+                    </a>
+                </div>
+                <div>
+                    <a href="https://www.thiyagi.com/days-to-hours" class="block no-underline">
+                        <div class="tool-card" style="border-left: 4px solid #0891B2;">
+                            <i class="fas fa-clock text-cyan-600"></i>
+                            <span class="font-medium text-gray-700">Days To Hours</span>
+                        </div>
+                    </a>
+                </div>
+                <div>
+                    <a href="https://www.thiyagi.com/days-to-minutes" class="block no-underline">
+                        <div class="tool-card" style="border-left: 4px solid #16A34A;">
+                            <i class="fas fa-calendar-alt text-green-600"></i>
+                            <span class="font-medium text-gray-700">Days To Minutes</span>
+                        </div>
+                    </a>
+                </div>
+                <div>
+                    <a href="https://www.thiyagi.com/days-to-months" class="block no-underline">
+                        <div class="tool-card" style="border-left: 4px solid #7C3AED;">
+                            <i class="fas fa-calendar-alt text-purple-600"></i>
+                            <span class="font-medium text-gray-700">Days To Months</span>
+                        </div>
+                    </a>
+                </div>
+                <div>
+                    <a href="https://www.thiyagi.com/days-to-seconds" class="block no-underline">
+                        <div class="tool-card" style="border-left: 4px solid #EA580C;">
+                            <i class="fas fa-clock text-orange-600"></i>
+                            <span class="font-medium text-gray-700">Days To Seconds</span>
+                        </div>
+                    </a>
+                </div>
+                <div>
+                    <a href="https://www.thiyagi.com/days-to-years" class="block no-underline">
+                        <div class="tool-card" style="border-left: 4px solid #059669;">
+                            <i class="fas fa-calendar-alt text-emerald-600"></i>
+                            <span class="font-medium text-gray-700">Days To Years</span>
+                        </div>
+                    </a>
+                </div>
+                <div>
+                    <a href="https://www.thiyagi.com/gallon-us-minute-to-liter-minute" class="block no-underline">
+                        <div class="tool-card" style="border-left: 4px solid #F59E0B;">
+                            <i class="fas fa-calendar-alt text-amber-600"></i>
+                            <span class="font-medium text-gray-700">Gallon US Minute To Liter Minute</span>
+                        </div>
+                    </a>
+                </div>
+                <div>
+                    <a href="https://www.thiyagi.com/hour-to-second" class="block no-underline">
+                        <div class="tool-card" style="border-left: 4px solid #EC4899;">
+                            <i class="fas fa-hourglass-half text-pink-600"></i>
+                            <span class="font-medium text-gray-700">Hour To Second</span>
+                        </div>
+                    </a>
+                </div>
+                <div>
+                    <a href="https://www.thiyagi.com/hours-to-days" class="block no-underline">
+                        <div class="tool-card" style="border-left: 4px solid #6366F1;">
+                            <i class="fas fa-calendar-alt text-indigo-600"></i>
+                            <span class="font-medium text-gray-700">Hours To Days</span>
+                        </div>
+                    </a>
+                </div>
+                <div>
+                    <a href="https://www.thiyagi.com/hours-to-minutes" class="block no-underline">
+                        <div class="tool-card" style="border-left: 4px solid #0F766E;">
+                            <i class="fas fa-hourglass-half text-teal-600"></i>
+                            <span class="font-medium text-gray-700">Hours To Minutes</span>
+                        </div>
+                    </a>
+                </div>
+                <div>
+                    <a href="https://www.thiyagi.com/liter-minute-to-cubic-foot-minute" class="block no-underline">
+                        <div class="tool-card" style="border-left: 4px solid #E11D48;">
+                            <i class="fas fa-hourglass-half text-rose-600"></i>
+                            <span class="font-medium text-gray-700">Liter Minute To Cubic Foot Minute</span>
+                        </div>
+                    </a>
+                </div>
+                <div>
+                    <a href="https://www.thiyagi.com/microsecond-to-second" class="block no-underline">
+                        <div class="tool-card" style="border-left: 4px solid #1E40AF;">
+                            <i class="fas fa-calendar-alt text-blue-600"></i>
+                            <span class="font-medium text-gray-700">Microsecond To Second</span>
+                        </div>
+                    </a>
+                </div>
+                <div>
+                    <a href="https://www.thiyagi.com/mile-hour-to-mile-minute" class="block no-underline">
+                        <div class="tool-card" style="border-left: 4px solid #475569;">
+                            <i class="fas fa-hourglass-half text-slate-600"></i>
+                            <span class="font-medium text-gray-700">Mile Hour To Mile Minute</span>
+                        </div>
+                    </a>
+                </div>
+                <div>
+                    <a href="https://www.thiyagi.com/millisecond-to-minute" class="block no-underline">
+                        <div class="tool-card" style="border-left: 4px solid #B45309;">
+                            <i class="fas fa-calendar-alt text-amber-700"></i>
+                            <span class="font-medium text-gray-700">Millisecond To Minute</span>
+                        </div>
+                    </a>
+                </div>
+                <div>
+                    <a href="https://www.thiyagi.com/milliseconds-to-seconds" class="block no-underline">
+                        <div class="tool-card" style="border-left: 4px solid #4338CA;">
+                            <i class="fas fa-clock text-indigo-600"></i>
+                            <span class="font-medium text-gray-700">Milliseconds To Seconds</span>
+                        </div>
+                    </a>
+                </div>
+                <div>
+                    <a href="https://www.thiyagi.com/minute-to-millisecond" class="block no-underline">
+                        <div class="tool-card" style="border-left: 4px solid #0369A1;">
+                            <i class="fas fa-clock text-blue-600"></i>
+                            <span class="font-medium text-gray-700">Minute To Millisecond</span>
+                        </div>
+                    </a>
+                </div>
+                <div>
+                    <a href="https://www.thiyagi.com/minutes-to-days" class="block no-underline">
+                        <div class="tool-card" style="border-left: 4px solid #F97316;">
+                            <i class="fas fa-hourglass-half text-orange-600"></i>
+                            <span class="font-medium text-gray-700">Minutes To Days</span>
+                        </div>
+                    </a>
+                </div>
+                <div>
+                    <a href="https://www.thiyagi.com/minutes-to-hours" class="block no-underline">
+                        <div class="tool-card" style="border-left: 4px solid #8B5CF6;">
+                            <i class="fas fa-clock text-purple-600"></i>
+                            <span class="font-medium text-gray-700">Minutes To Hours</span>
+                        </div>
+                    </a>
+                </div>
+                <div>
+                    <a href="https://www.thiyagi.com/minutes-to-seconds" class="block no-underline">
+                        <div class="tool-card" style="border-left: 4px solid #10B981;">
+                            <i class="fas fa-clock text-emerald-600"></i>
+                            <span class="font-medium text-gray-700">Minutes To Seconds</span>
+                        </div>
+                    </a>
+                </div>
+                <div>
+                    <a href="https://www.thiyagi.com/month-to-year" class="block no-underline">
+                        <div class="tool-card" style="border-left: 4px solid #3B82F6;">
+                            <i class="fas fa-clock text-blue-600"></i>
+                            <span class="font-medium text-gray-700">Month To Year</span>
+                        </div>
+                    </a>
+                </div>
+                <div>
+                    <a href="https://www.thiyagi.com/months-to-days" class="block no-underline">
+                        <div class="tool-card" style="border-left: 4px solid #DC2626;">
+                            <i class="fas fa-clock text-red-600"></i>
+                            <span class="font-medium text-gray-700">Months To Days</span>
+                        </div>
+                    </a>
+                </div>
+                <div>
+                    <a href="https://www.thiyagi.com/nanosecond-to-second" class="block no-underline">
+                        <div class="tool-card" style="border-left: 4px solid #0891B2;">
+                            <i class="fas fa-clock text-cyan-600"></i>
+                            <span class="font-medium text-gray-700">Nanosecond To Second</span>
+                        </div>
+                    </a>
+                </div>
+                <div>
+                    <a href="https://www.thiyagi.com/second-to-hour" class="block no-underline">
+                        <div class="tool-card" style="border-left: 4px solid #16A34A;">
+                            <i class="fas fa-clock text-green-600"></i>
+                            <span class="font-medium text-gray-700">Second To Hour</span>
+                        </div>
+                    </a>
+                </div>
+                <div>
+                    <a href="https://www.thiyagi.com/second-to-nanosecond" class="block no-underline">
+                        <div class="tool-card" style="border-left: 4px solid #7C3AED;">
+                            <i class="fas fa-calendar-alt text-purple-600"></i>
+                            <span class="font-medium text-gray-700">Second To Nanosecond</span>
+                        </div>
+                    </a>
+                </div>
+                <div>
+                    <a href="https://www.thiyagi.com/seconds-to-days" class="block no-underline">
+                        <div class="tool-card" style="border-left: 4px solid #EA580C;">
+                            <i class="fas fa-hourglass-half text-orange-600"></i>
+                            <span class="font-medium text-gray-700">Seconds To Days</span>
+                        </div>
+                    </a>
+                </div>
+                <div>
+                    <a href="https://www.thiyagi.com/seconds-to-milliseconds" class="block no-underline">
+                        <div class="tool-card" style="border-left: 4px solid #059669;">
+                            <i class="fas fa-calendar-alt text-emerald-600"></i>
+                            <span class="font-medium text-gray-700">Seconds To Milliseconds</span>
+                        </div>
+                    </a>
+                </div>
+                <div>
+                    <a href="https://www.thiyagi.com/seconds-to-minutes" class="block no-underline">
+                        <div class="tool-card" style="border-left: 4px solid #F59E0B;">
+                            <i class="fas fa-calendar-alt text-amber-600"></i>
+                            <span class="font-medium text-gray-700">Seconds To Minutes</span>
+                        </div>
+                    </a>
+                </div>
+                <div>
+                    <a href="https://www.thiyagi.com/week-to-hour" class="block no-underline">
+                        <div class="tool-card" style="border-left: 4px solid #EC4899;">
+                            <i class="fas fa-calendar-alt text-pink-600"></i>
+                            <span class="font-medium text-gray-700">Week To Hour</span>
+                        </div>
+                    </a>
+                </div>
+                <div>
+                    <a href="https://www.thiyagi.com/years-to-days" class="block no-underline">
+                        <div class="tool-card" style="border-left: 4px solid #6366F1;">
+                            <i class="fas fa-clock text-indigo-600"></i>
+                            <span class="font-medium text-gray-700">Years To Days</span>
+                        </div>
+                    </a>
+                </div>
+
+                <!-- New Data Converters -->
+                <div>
+                    <a href="https://www.thiyagi.com/byte-to-gigabyte" class="block no-underline">
+                        <div class="tool-card" style="border-left: 4px solid #DC2626;">
+                            <i class="fas fa-server text-red-600"></i>
+                            <span class="font-medium text-gray-700">Byte To Gigabyte</span>
+                        </div>
+                    </a>
+                </div>
+                <div>
+                    <a href="https://www.thiyagi.com/byte-to-megabit" class="block no-underline">
+                        <div class="tool-card" style="border-left: 4px solid #0891B2;">
+                            <i class="fas fa-hdd text-cyan-600"></i>
+                            <span class="font-medium text-gray-700">Byte To Megabit</span>
+                        </div>
+                    </a>
+                </div>
+                <div>
+                    <a href="https://www.thiyagi.com/gb-to-kb" class="block no-underline">
+                        <div class="tool-card" style="border-left: 4px solid #16A34A;">
+                            <i class="fas fa-hdd text-green-600"></i>
+                            <span class="font-medium text-gray-700">GB To KB</span>
+                        </div>
+                    </a>
+                </div>
+                <div>
+                    <a href="https://www.thiyagi.com/gb-to-mb" class="block no-underline">
+                        <div class="tool-card" style="border-left: 4px solid #7C3AED;">
+                            <i class="fas fa-database text-purple-600"></i>
+                            <span class="font-medium text-gray-700">GB To MB</span>
+                        </div>
+                    </a>
+                </div>
+                <div>
+                    <a href="https://www.thiyagi.com/gigabit-to-megabit" class="block no-underline">
+                        <div class="tool-card" style="border-left: 4px solid #EA580C;">
+                            <i class="fas fa-database text-orange-600"></i>
+                            <span class="font-medium text-gray-700">Gigabit To Megabit</span>
+                        </div>
+                    </a>
+                </div>
+                <div>
+                    <a href="https://www.thiyagi.com/gigabyte-to-byte" class="block no-underline">
+                        <div class="tool-card" style="border-left: 4px solid #059669;">
+                            <i class="fas fa-server text-emerald-600"></i>
+                            <span class="font-medium text-gray-700">Gigabyte To Byte</span>
+                        </div>
+                    </a>
+                </div>
+                <div>
+                    <a href="https://www.thiyagi.com/kb-to-gb" class="block no-underline">
+                        <div class="tool-card" style="border-left: 4px solid #F59E0B;">
+                            <i class="fas fa-hdd text-amber-600"></i>
+                            <span class="font-medium text-gray-700">KB To GB</span>
+                        </div>
+                    </a>
+                </div>
+                <div>
+                    <a href="https://www.thiyagi.com/kb-to-mb" class="block no-underline">
+                        <div class="tool-card" style="border-left: 4px solid #EC4899;">
+                            <i class="fas fa-hdd text-pink-600"></i>
+                            <span class="font-medium text-gray-700">KB To MB</span>
+                        </div>
+                    </a>
+                </div>
+                <div>
+                    <a href="https://www.thiyagi.com/kbps-to-mbps" class="block no-underline">
+                        <div class="tool-card" style="border-left: 4px solid #6366F1;">
+                            <i class="fas fa-hdd text-indigo-600"></i>
+                            <span class="font-medium text-gray-700">KBPS To MBPS</span>
+                        </div>
+                    </a>
+                </div>
+                <div>
+                    <a href="https://www.thiyagi.com/mb-to-gb" class="block no-underline">
+                        <div class="tool-card" style="border-left: 4px solid #0F766E;">
+                            <i class="fas fa-server text-teal-600"></i>
+                            <span class="font-medium text-gray-700">MB To GB</span>
+                        </div>
+                    </a>
+                </div>
+                <div>
+                    <a href="https://www.thiyagi.com/mb-to-kb" class="block no-underline">
+                        <div class="tool-card" style="border-left: 4px solid #E11D48;">
+                            <i class="fas fa-hdd text-rose-600"></i>
+                            <span class="font-medium text-gray-700">MB To KB</span>
+                        </div>
+                    </a>
+                </div>
+                <div>
+                    <a href="https://www.thiyagi.com/mbps-to-kbps" class="block no-underline">
+                        <div class="tool-card" style="border-left: 4px solid #1E40AF;">
+                            <i class="fas fa-database text-blue-600"></i>
+                            <span class="font-medium text-gray-700">MBPS To KBPS</span>
+                        </div>
+                    </a>
+                </div>
+                <div>
+                    <a href="https://www.thiyagi.com/megabyte-to-byte" class="block no-underline">
+                        <div class="tool-card" style="border-left: 4px solid #475569;">
+                            <i class="fas fa-database text-slate-600"></i>
+                            <span class="font-medium text-gray-700">Megabyte To Byte</span>
+                        </div>
+                    </a>
+                </div>
+                <div>
+                    <a href="https://www.thiyagi.com/microcoulomb-to-coulomb" class="block no-underline">
+                        <div class="tool-card" style="border-left: 4px solid #B45309;">
+                            <i class="fas fa-hdd text-amber-700"></i>
+                            <span class="font-medium text-gray-700">Microcoulomb To Coulomb</span>
+                        </div>
+                    </a>
+                </div>
+                <div>
+                    <a href="https://www.thiyagi.com/terabyte-to-gigabyte" class="block no-underline">
+                        <div class="tool-card" style="border-left: 4px solid #4338CA;">
+                            <i class="fas fa-database text-indigo-600"></i>
+                            <span class="font-medium text-gray-700">Terabyte To Gigabyte</span>
+                        </div>
+                    </a>
+                </div>
+
+                <!-- New Force Converters -->
+                <div>
+                    <a href="https://www.thiyagi.com/force-converterl" class="block no-underline">
+                        <div class="tool-card" style="border-left: 4px solid #DC2626;">
+                            <i class="fas fa-fist-raised text-red-600"></i>
+                            <span class="font-medium text-gray-700">Force Converterl</span>
+                        </div>
+                    </a>
+                </div>
+                <div>
+                    <a href="https://www.thiyagi.com/ft-lb-to-nm" class="block no-underline">
+                        <div class="tool-card" style="border-left: 4px solid #0891B2;">
+                            <i class="fas fa-arrows-alt text-cyan-600"></i>
+                            <span class="font-medium text-gray-700">FT LB To NM</span>
+                        </div>
+                    </a>
+                </div>
+                <div>
+                    <a href="https://www.thiyagi.com/kilonewton-to-newton" class="block no-underline">
+                        <div class="tool-card" style="border-left: 4px solid #16A34A;">
+                            <i class="fas fa-arrows-alt text-green-600"></i>
+                            <span class="font-medium text-gray-700">Kilonewton To Newton</span>
+                        </div>
+                    </a>
+                </div>
+                <div>
+                    <a href="https://www.thiyagi.com/kilonewton-to-ton-force-metric" class="block no-underline">
+                        <div class="tool-card" style="border-left: 4px solid #7C3AED;">
+                            <i class="fas fa-compress text-purple-600"></i>
+                            <span class="font-medium text-gray-700">Kilonewton To Ton Force Metric</span>
+                        </div>
+                    </a>
+                </div>
+                <div>
+                    <a href="https://www.thiyagi.com/newton-meter-to-newton-millimeter" class="block no-underline">
+                        <div class="tool-card" style="border-left: 4px solid #EA580C;">
+                            <i class="fas fa-compress text-orange-600"></i>
+                            <span class="font-medium text-gray-700">Newton Meter To Newton Millimeter</span>
+                        </div>
+                    </a>
+                </div>
+                <div>
+                    <a href="https://www.thiyagi.com/newton-millimeter-to-newton-meter" class="block no-underline">
+                        <div class="tool-card" style="border-left: 4px solid #059669;">
+                            <i class="fas fa-compress text-emerald-600"></i>
+                            <span class="font-medium text-gray-700">Newton Millimeter To Newton Meter</span>
+                        </div>
+                    </a>
+                </div>
+                <div>
+                    <a href="https://www.thiyagi.com/newton-to-kilonewton" class="block no-underline">
+                        <div class="tool-card" style="border-left: 4px solid #F59E0B;">
+                            <i class="fas fa-fist-raised text-amber-600"></i>
+                            <span class="font-medium text-gray-700">Newton To Kilonewton</span>
+                        </div>
+                    </a>
+                </div>
+                <div>
+                    <a href="https://www.thiyagi.com/newtons-to-kg" class="block no-underline">
+                        <div class="tool-card" style="border-left: 4px solid #EC4899;">
+                            <i class="fas fa-compress text-pink-600"></i>
+                            <span class="font-medium text-gray-700">Newtons To KG</span>
+                        </div>
+                    </a>
+                </div>
+                <div>
+                    <a href="https://www.thiyagi.com/newtons-to-lbs" class="block no-underline">
+                        <div class="tool-card" style="border-left: 4px solid #6366F1;">
+                            <i class="fas fa-fist-raised text-indigo-600"></i>
+                            <span class="font-medium text-gray-700">Newtons To LBS</span>
+                        </div>
+                    </a>
+                </div>
+                <div>
+                    <a href="https://www.thiyagi.com/nm-to-ft-lb" class="block no-underline">
+                        <div class="tool-card" style="border-left: 4px solid #0F766E;">
+                            <i class="fas fa-compress text-teal-600"></i>
+                            <span class="font-medium text-gray-700">NM To FT LB</span>
+                        </div>
+                    </a>
+                </div>
+
+                <!-- New Frequency Converters -->
+                <div>
+                    <a href="https://www.thiyagi.com/megahertz-to-hertz" class="block no-underline">
+                        <div class="tool-card" style="border-left: 4px solid #DC2626;">
+                            <i class="fas fa-wave-square text-red-600"></i>
+                            <span class="font-medium text-gray-700">Megahertz To Hertz</span>
+                        </div>
+                    </a>
+                </div>
+
+                <!-- New Electrical Converters -->
+                <div>
+                    <a href="https://www.thiyagi.com/amps-to-milliamps" class="block no-underline">
+                        <div class="tool-card" style="border-left: 4px solid #DC2626;">
+                            <i class="fas fa-bolt text-red-600"></i>
+                            <span class="font-medium text-gray-700">Amps To Milliamps</span>
+                        </div>
+                    </a>
+                </div>
+                <div>
+                    <a href="https://www.thiyagi.com/micro-to-milli" class="block no-underline">
+                        <div class="tool-card" style="border-left: 4px solid #0891B2;">
+                            <i class="fas fa-bolt text-cyan-600"></i>
+                            <span class="font-medium text-gray-700">Micro To Milli</span>
+                        </div>
+                    </a>
+                </div>
+                <div>
+                    <a href="https://www.thiyagi.com/micro-to-nano" class="block no-underline">
+                        <div class="tool-card" style="border-left: 4px solid #16A34A;">
+                            <i class="fas fa-bolt text-green-600"></i>
+                            <span class="font-medium text-gray-700">Micro To Nano</span>
+                        </div>
+                    </a>
+                </div>
+                <div>
+                    <a href="https://www.thiyagi.com/microfarad-to-farad" class="block no-underline">
+                        <div class="tool-card" style="border-left: 4px solid #7C3AED;">
+                            <i class="fas fa-bolt text-purple-600"></i>
+                            <span class="font-medium text-gray-700">Microfarad To Farad</span>
+                        </div>
+                    </a>
+                </div>
+                <div>
+                    <a href="https://www.thiyagi.com/milli-to-micro" class="block no-underline">
+                        <div class="tool-card" style="border-left: 4px solid #EA580C;">
+                            <i class="fas fa-bolt text-orange-600"></i>
+                            <span class="font-medium text-gray-700">Milli To Micro</span>
+                        </div>
+                    </a>
+                </div>
+                <div>
+                    <a href="https://www.thiyagi.com/milliamps-to-amps" class="block no-underline">
+                        <div class="tool-card" style="border-left: 4px solid #059669;">
+                            <i class="fas fa-plug text-emerald-600"></i>
+                            <span class="font-medium text-gray-700">Milliamps To Amps</span>
+                        </div>
+                    </a>
+                </div>
+
+                <!-- New Other_converter Converters -->
+                <div>
+                    <a href="https://www.thiyagi.com/binary-to-base-10" class="block no-underline">
+                        <div class="tool-card" style="border-left: 4px solid #DC2626;">
+                            <i class="fas fa-wrench text-red-600"></i>
+                            <span class="font-medium text-gray-700">Binary To Base 10</span>
+                        </div>
+                    </a>
+                </div>
+                <div>
+                    <a href="https://www.thiyagi.com/currency-converter" class="block no-underline">
+                        <div class="tool-card" style="border-left: 4px solid #0891B2;">
+                            <i class="fas fa-cogs text-cyan-600"></i>
+                            <span class="font-medium text-gray-700">Currency Converter</span>
+                        </div>
+                    </a>
+                </div>
+                <div>
+                    <a href="https://www.thiyagi.com/current-converter" class="block no-underline">
+                        <div class="tool-card" style="border-left: 4px solid #16A34A;">
+                            <i class="fas fa-wrench text-green-600"></i>
+                            <span class="font-medium text-gray-700">Current Converter</span>
+                        </div>
+                    </a>
+                </div>
+                <div>
+                    <a href="https://www.thiyagi.com/length-converter" class="block no-underline">
+                        <div class="tool-card" style="border-left: 4px solid #7C3AED;">
+                            <i class="fas fa-wrench text-purple-600"></i>
+                            <span class="font-medium text-gray-700">Length Converter</span>
+                        </div>
+                    </a>
+                </div>
+                <div>
+                    <a href="https://www.thiyagi.com/pressure-converter" class="block no-underline">
+                        <div class="tool-card" style="border-left: 4px solid #EA580C;">
+                            <i class="fas fa-cogs text-orange-600"></i>
+                            <span class="font-medium text-gray-700">Pressure Converter</span>
+                        </div>
+                    </a>
+                </div>
+                <div>
+                    <a href="https://www.thiyagi.com/temperature-converterl" class="block no-underline">
+                        <div class="tool-card" style="border-left: 4px solid #059669;">
+                            <i class="fas fa-tools text-emerald-600"></i>
+                            <span class="font-medium text-gray-700">Temperature Converterl</span>
+                        </div>
+                    </a>
+                </div>
+
             </div>
         </div>
 
@@ -2445,6 +6085,24 @@
                         </div>
                     </a>
                 </div>
+                <!-- New Utility Tools -->
+                <div>
+                    <a href="https://www.thiyagi.com/albania-holidays-2026" class="block no-underline">
+                        <div class="tool-card border-l-util">
+                            <i class="fas fa-wrench text-util"></i>
+                            <span class="font-medium text-gray-700">Albania Holidays 2026</span>
+                        </div>
+                    </a>
+                </div>
+                <div>
+                    <a href="https://www.thiyagi.com/pincode" class="block no-underline">
+                        <div class="tool-card border-l-util">
+                            <i class="fas fa-globe text-util"></i>
+                            <span class="font-medium text-gray-700">Pincode</span>
+                        </div>
+                    </a>
+                </div>
+
             </div>
         </div>
     </div>
