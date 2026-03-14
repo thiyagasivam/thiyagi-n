@@ -165,11 +165,7 @@ $canonicalUrl = "https://www.thiyagi.com" . $uri;
         </li>
 
         <!-- Blog Link -->
-        <li>
-          <a href="https://blog.thiyagi.com/" class="px-3 py-2 text-gray-700 hover:text-yellow-600 rounded-md flex items-center" target="_blank">
-            <i class="fas fa-blog mr-2"></i>Blog
-          </a>
-        </li>
+        
 
         <!-- Contact Us (on same navbar line) -->
       
@@ -304,12 +300,7 @@ $canonicalUrl = "https://www.thiyagi.com" . $uri;
         </div>
       </li>
 
-      <!-- Blog Link (Mobile) -->
-      <li>
-        <a href="https://blog.thiyagi.com/" class="flex items-center px-4 py-2 text-gray-700 hover:bg-gray-100" target="_blank">
-          <i class="fas fa-blog mr-3"></i>Blog
-        </a>
-      </li>
+      
 
       <!-- Mobile Auth Section -->
       <li class="mt-4 px-4">
