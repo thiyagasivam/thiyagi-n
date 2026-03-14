@@ -1,8 +1,5 @@
 RewriteEngine On
 
-# Reverse proxy Firebase auth handler through own domain (fixes cross-origin popup issue)
-RewriteRule ^__/auth/(.*)$ https://thiyagi-cd556.firebaseapp.com/__/auth/$1 [P,L]
-
 # Force www and HTTPS (handle both non-www and non-https)
 RewriteCond %{HTTPS} off [OR]
 RewriteCond %{HTTP_HOST} ^thiyagi\.com$ [NC]

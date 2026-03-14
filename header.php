@@ -359,11 +359,11 @@ document.addEventListener('DOMContentLoaded', function () {
 <!-- Firebase SDK -->
 <script type="module">
   import { initializeApp } from "https://www.gstatic.com/firebasejs/12.10.0/firebase-app.js";
-  import { getAuth, signInWithPopup, GoogleAuthProvider, signOut, onAuthStateChanged } from "https://www.gstatic.com/firebasejs/12.10.0/firebase-auth.js";
+  import { getAuth, signInWithRedirect, getRedirectResult, GoogleAuthProvider, signOut, onAuthStateChanged } from "https://www.gstatic.com/firebasejs/12.10.0/firebase-auth.js";
 
   const firebaseConfig = {
     apiKey: "AIzaSyCjmKTu5jgt1wiXKmpWo238Lt6KP1JU-Vk",
-    authDomain: "www.thiyagi.com",
+    authDomain: "thiyagi-cd556.firebaseapp.com",
     projectId: "thiyagi-cd556",
     storageBucket: "thiyagi-cd556.firebasestorage.app",
     messagingSenderId: "583973862604",
@@ -373,6 +373,13 @@ document.addEventListener('DOMContentLoaded', function () {
   const app = initializeApp(firebaseConfig);
   const auth = getAuth(app);
   const provider = new GoogleAuthProvider();
+
+  // Handle redirect result when user returns from Google sign-in page
+  getRedirectResult(auth).then(function(result) {
+    // Auth state handled by onAuthStateChanged below
+  }).catch(function(error) {
+    console.error('Redirect sign-in error:', error.code, error.message);
+  });
 
   // Show signed-in state
   function showUser(user) {
@@ -414,11 +421,9 @@ document.addEventListener('DOMContentLoaded', function () {
     }
   }
 
-  // Google Sign-In handler — popup stays open since authDomain matches site domain
+  // Google Sign-In handler — uses full page redirect (most compatible, no popup issues)
   function handleGoogleSignIn() {
-    signInWithPopup(auth, provider).catch(function(error) {
-      console.error('Firebase Google Sign-In error:', error.code, error.message);
-    });
+    signInWithRedirect(auth, provider);
   }
 
   // Firebase Sign-Out handler
