@@ -359,7 +359,7 @@ document.addEventListener('DOMContentLoaded', function () {
 <!-- Firebase SDK -->
 <script type="module">
   import { initializeApp } from "https://www.gstatic.com/firebasejs/12.10.0/firebase-app.js";
-  import { getAuth, signInWithPopup, signInWithRedirect, getRedirectResult, GoogleAuthProvider, signOut, onAuthStateChanged } from "https://www.gstatic.com/firebasejs/12.10.0/firebase-auth.js";
+  import { getAuth, signInWithRedirect, getRedirectResult, GoogleAuthProvider, signOut, onAuthStateChanged } from "https://www.gstatic.com/firebasejs/12.10.0/firebase-auth.js";
 
   const firebaseConfig = {
     apiKey: "AIzaSyCjmKTu5jgt1wiXKmpWo238Lt6KP1JU-Vk",
@@ -367,18 +367,18 @@ document.addEventListener('DOMContentLoaded', function () {
     projectId: "thiyagi-cd556",
     storageBucket: "thiyagi-cd556.firebasestorage.app",
     messagingSenderId: "583973862604",
-    appId: "1:583973862604:web:fef9c20bc475c885561669"
+    appId: "1:583973862604:web:10a58afafe215827561669"
   };
 
   const app = initializeApp(firebaseConfig);
   const auth = getAuth(app);
   const provider = new GoogleAuthProvider();
 
-  // Handle redirect result on page load (for when signInWithRedirect was used)
-  getRedirectResult(auth).catch(function(error) {
-    if (error.code !== 'auth/null-user') {
-      console.error('Redirect sign-in error:', error.code, error.message);
-    }
+  // Handle redirect result when user returns from Google sign-in
+  getRedirectResult(auth).then(function(result) {
+    // result is null if no redirect happened; user state handled by onAuthStateChanged
+  }).catch(function(error) {
+    console.error('Redirect sign-in error:', error.code, error.message);
   });
 
   // Show signed-in state
@@ -421,18 +421,9 @@ document.addEventListener('DOMContentLoaded', function () {
     }
   }
 
-  // Google Sign-In handler — tries popup first, falls back to redirect
+  // Google Sign-In handler — uses redirect (no popup, no cross-origin issues)
   function handleGoogleSignIn() {
-    signInWithPopup(auth, provider).catch(function(error) {
-      // If popup was closed or blocked, fall back to redirect
-      if (error.code === 'auth/popup-closed-by-user' ||
-          error.code === 'auth/popup-blocked' ||
-          error.code === 'auth/cancelled-popup-request') {
-        signInWithRedirect(auth, provider);
-      } else {
-        console.error('Firebase Google Sign-In error:', error.code, error.message);
-      }
-    });
+    signInWithRedirect(auth, provider);
   }
 
   // Firebase Sign-Out handler
