@@ -171,27 +171,10 @@ $canonicalUrl = "https://www.thiyagi.com" . $uri;
       
       </ul>
       <div class="ml-4 flex items-center space-x-2" id="auth-section">
-        <!-- Google Sign-In Button -->
-        <div id="g_id_onload"
-             data-client_id="1025927176024-4922rfvk660tf32lmof21a5ubb34bjok.apps.googleusercontent.com"
-             data-context="signin"
-             data-ux_mode="popup"
-             data-callback="handleCredentialResponse"
-             data-auto_prompt="false"
-             data-itp_support="true"
-             data-use_fedcm_for_prompt="true">
-        </div>
-        <div class="g_id_signin"
-             data-type="standard"
-             data-shape="pill"
-             data-theme="outline"
-             data-text="signin_with"
-             data-size="large"
-             data-logo_alignment="left">
-        </div>
-        <!-- Fallback Sign-In Button -->
-        <button id="fallback-signin" class="hidden inline-flex items-center px-4 py-2 border border-blue-400 text-sm rounded-md text-blue-700 bg-white hover:bg-blue-50">
-          <i class="fas fa-user mr-2"></i>Sign in
+        <!-- Google Sign-In Button (Firebase) -->
+        <button id="google-signin-btn" class="inline-flex items-center px-4 py-2 border border-gray-300 text-sm rounded-full text-gray-700 bg-white hover:bg-gray-50 shadow-sm">
+          <svg class="w-5 h-5 mr-2" viewBox="0 0 48 48"><path fill="#EA4335" d="M24 9.5c3.54 0 6.71 1.22 9.21 3.6l6.85-6.85C35.9 2.38 30.47 0 24 0 14.62 0 6.51 5.38 2.56 13.22l7.98 6.19C12.43 13.72 17.74 9.5 24 9.5z"/><path fill="#4285F4" d="M46.98 24.55c0-1.57-.15-3.09-.38-4.55H24v9.02h12.94c-.58 2.96-2.26 5.48-4.78 7.18l7.73 6c4.51-4.18 7.09-10.36 7.09-17.65z"/><path fill="#FBBC05" d="M10.53 28.59c-.48-1.45-.76-2.99-.76-4.59s.27-3.14.76-4.59l-7.98-6.19C.92 16.46 0 20.12 0 24c0 3.88.92 7.54 2.56 10.78l7.97-6.19z"/><path fill="#34A853" d="M24 48c6.48 0 11.93-2.13 15.89-5.81l-7.73-6c-2.15 1.45-4.92 2.3-8.16 2.3-6.26 0-11.57-4.22-13.47-9.91l-7.98 6.19C6.51 42.62 14.62 48 24 48z"/></svg>
+          Sign in with Google
         </button>
         <!-- User Info (shown after login) -->
         <div id="user-info" class="hidden items-center space-x-2">
@@ -304,13 +287,10 @@ $canonicalUrl = "https://www.thiyagi.com" . $uri;
 
       <!-- Mobile Auth Section -->
       <li class="mt-4 px-4">
-        <div id="mobile-g_id_signin" class="g_id_signin"
-             data-type="standard"
-             data-shape="pill"
-             data-theme="outline"
-             data-text="sign_in_with"
-             data-size="medium">
-        </div>
+        <button id="mobile-google-signin-btn" class="w-full inline-flex items-center justify-center px-4 py-2 border border-gray-300 text-sm rounded-full text-gray-700 bg-white hover:bg-gray-50 shadow-sm">
+          <svg class="w-5 h-5 mr-2" viewBox="0 0 48 48"><path fill="#EA4335" d="M24 9.5c3.54 0 6.71 1.22 9.21 3.6l6.85-6.85C35.9 2.38 30.47 0 24 0 14.62 0 6.51 5.38 2.56 13.22l7.98 6.19C12.43 13.72 17.74 9.5 24 9.5z"/><path fill="#4285F4" d="M46.98 24.55c0-1.57-.15-3.09-.38-4.55H24v9.02h12.94c-.58 2.96-2.26 5.48-4.78 7.18l7.73 6c4.51-4.18 7.09-10.36 7.09-17.65z"/><path fill="#FBBC05" d="M10.53 28.59c-.48-1.45-.76-2.99-.76-4.59s.27-3.14.76-4.59l-7.98-6.19C.92 16.46 0 20.12 0 24c0 3.88.92 7.54 2.56 10.78l7.97-6.19z"/><path fill="#34A853" d="M24 48c6.48 0 11.93-2.13 15.89-5.81l-7.73-6c-2.15 1.45-4.92 2.3-8.16 2.3-6.26 0-11.57-4.22-13.47-9.91l-7.98 6.19C6.51 42.62 14.62 48 24 48z"/></svg>
+          Sign in with Google
+        </button>
         <!-- Mobile User Info (shown after login) -->
         <div id="mobile-user-info" class="hidden flex items-center mt-2 p-2 bg-gray-50 rounded">
           <img id="mobile-user-pic" src="" alt="Profile" class="h-6 w-6 rounded-full mr-2">
@@ -373,134 +353,99 @@ document.addEventListener('DOMContentLoaded', function () {
     }
   });
 
-  // Google Sign-In logic with error handling
-  window.handleCredentialResponse = function(response) {
-    try {
-      if (!response || !response.credential) {
-        console.error('Invalid Google Sign-In response');
-        showFallbackSignIn();
-        return;
-      }
-      
-      // Decode JWT to get user info
-      const userInfo = parseJwt(response.credential);
-      if (userInfo && userInfo.name && userInfo.picture) {
-        // Desktop user info
-        document.getElementById('user-pic').src = userInfo.picture;
-        document.getElementById('user-name').textContent = userInfo.name;
-        document.getElementById('user-info').classList.remove('hidden');
-        document.getElementById('user-info').classList.add('flex');
-        document.querySelector('.g_id_signin').classList.add('hidden');
-        document.getElementById('g_id_onload').classList.add('hidden');
-        document.getElementById('fallback-signin').classList.add('hidden');
-        
-        // Mobile user info
-        const mobileUserPic = document.getElementById('mobile-user-pic');
-        const mobileUserName = document.getElementById('mobile-user-name');
-        const mobileUserInfo = document.getElementById('mobile-user-info');
-        const mobileSignIn = document.getElementById('mobile-g_id_signin');
-        
-        if (mobileUserPic && mobileUserName && mobileUserInfo && mobileSignIn) {
-          mobileUserPic.src = userInfo.picture;
-          mobileUserName.textContent = userInfo.name;
-          mobileUserInfo.classList.remove('hidden');
-          mobileUserInfo.classList.add('flex');
-          mobileSignIn.classList.add('hidden');
-        }
-      } else {
-        console.error('Invalid user info from Google');
-        showFallbackSignIn();
-      }
-    } catch (error) {
-      console.error('Google Sign-In error:', error);
-      showFallbackSignIn();
-    }
-  };
-  
-  // Show fallback sign-in if Google Sign-In fails
-  function showFallbackSignIn() {
-    document.querySelector('.g_id_signin').classList.add('hidden');
-    document.getElementById('fallback-signin').classList.remove('hidden');
-  }
-  
-  // Desktop signout
-  const signoutBtn = document.getElementById('signout-btn');
-  if (signoutBtn) {
-    signoutBtn.onclick = function() {
-      signOut();
-    };
-  }
-  
-  // Mobile signout
-  const mobileSignoutBtn = document.getElementById('mobile-signout-btn');
-  if (mobileSignoutBtn) {
-    mobileSignoutBtn.onclick = function() {
-      signOut();
-    };
-  }
-  
-  // Fallback signin button
-  const fallbackBtn = document.getElementById('fallback-signin');
-  if (fallbackBtn) {
-    fallbackBtn.onclick = function() {
-      alert('Please sign in using your email or social media account.');
-    };
-  }
-  
-  // Common signout function
-  function signOut() {
-    // Desktop
-    document.getElementById('user-info').classList.add('hidden');
-    document.getElementById('user-info').classList.remove('flex');
-    document.querySelector('.g_id_signin').classList.remove('hidden');
-    document.getElementById('g_id_onload').classList.remove('hidden');
-    document.getElementById('fallback-signin').classList.add('hidden');
-    
-    // Mobile
-    const mobileUserInfo = document.getElementById('mobile-user-info');
-    const mobileSignIn = document.getElementById('mobile-g_id_signin');
-    
-    if (mobileUserInfo && mobileSignIn) {
-      mobileUserInfo.classList.add('hidden');
-      mobileUserInfo.classList.remove('flex');
-      mobileSignIn.classList.remove('hidden');
-    }
-  }
-  
-  // Enhanced JWT parser with error handling
-  function parseJwt(token) {
-    try {
-      if (!token) return null;
-      
-      const parts = token.split('.');
-      if (parts.length !== 3) return null;
-      
-      const base64Url = parts[1];
-      const base64 = base64Url.replace(/-/g, '+').replace(/_/g, '/');
-      const jsonPayload = decodeURIComponent(atob(base64).split('').map(function(c) {
-        return '%' + ('00' + c.charCodeAt(0).toString(16)).slice(-2);
-      }).join(''));
-      
-      return JSON.parse(jsonPayload);
-    } catch (error) {
-      console.error('JWT parsing error:', error);
-      return null;
-    }
-  }
-  
-  // Check for Google Sign-In API errors
-  window.addEventListener('load', function() {
-    setTimeout(function() {
-      if (!window.google || !window.google.accounts) {
-        console.warn('Google Sign-In API failed to load, showing fallback');
-        showFallbackSignIn();
-      }
-    }, 3000);
-  });
 });
 </script>
 
-<!-- Google Sign-In JS -->
-<script src="https://accounts.google.com/gsi/client" async defer></script>
+<!-- Firebase SDK -->
+<script type="module">
+  import { initializeApp } from "https://www.gstatic.com/firebasejs/12.10.0/firebase-app.js";
+  import { getAuth, signInWithPopup, GoogleAuthProvider, signOut, onAuthStateChanged } from "https://www.gstatic.com/firebasejs/12.10.0/firebase-auth.js";
+
+  const firebaseConfig = {
+    apiKey: "AIzaSyCjmKTu5jgt1wiXKmpWo238Lt6KP1JU-Vk",
+    authDomain: "thiyagi-cd556.firebaseapp.com",
+    projectId: "thiyagi-cd556",
+    storageBucket: "thiyagi-cd556.firebasestorage.app",
+    messagingSenderId: "583973862604",
+    appId: "1:583973862604:web:fef9c20bc475c885561669"
+  };
+
+  const app = initializeApp(firebaseConfig);
+  const auth = getAuth(app);
+  const provider = new GoogleAuthProvider();
+
+  // Show signed-in state
+  function showUser(user) {
+    // Desktop
+    document.getElementById('user-pic').src = user.photoURL || '';
+    document.getElementById('user-name').textContent = user.displayName || user.email;
+    document.getElementById('user-info').classList.remove('hidden');
+    document.getElementById('user-info').classList.add('flex');
+    document.getElementById('google-signin-btn').classList.add('hidden');
+
+    // Mobile
+    const mobileUserPic = document.getElementById('mobile-user-pic');
+    const mobileUserName = document.getElementById('mobile-user-name');
+    const mobileUserInfo = document.getElementById('mobile-user-info');
+    const mobileSignInBtn = document.getElementById('mobile-google-signin-btn');
+    if (mobileUserPic && mobileUserName && mobileUserInfo && mobileSignInBtn) {
+      mobileUserPic.src = user.photoURL || '';
+      mobileUserName.textContent = user.displayName || user.email;
+      mobileUserInfo.classList.remove('hidden');
+      mobileUserInfo.classList.add('flex');
+      mobileSignInBtn.classList.add('hidden');
+    }
+  }
+
+  // Show signed-out state
+  function showSignedOut() {
+    // Desktop
+    document.getElementById('user-info').classList.add('hidden');
+    document.getElementById('user-info').classList.remove('flex');
+    document.getElementById('google-signin-btn').classList.remove('hidden');
+
+    // Mobile
+    const mobileUserInfo = document.getElementById('mobile-user-info');
+    const mobileSignInBtn = document.getElementById('mobile-google-signin-btn');
+    if (mobileUserInfo && mobileSignInBtn) {
+      mobileUserInfo.classList.add('hidden');
+      mobileUserInfo.classList.remove('flex');
+      mobileSignInBtn.classList.remove('hidden');
+    }
+  }
+
+  // Google Sign-In handler
+  function handleGoogleSignIn() {
+    signInWithPopup(auth, provider).catch(function(error) {
+      console.error('Firebase Google Sign-In error:', error.code, error.message);
+    });
+  }
+
+  // Firebase Sign-Out handler
+  function handleSignOut() {
+    signOut(auth).catch(function(error) {
+      console.error('Firebase Sign-Out error:', error);
+    });
+  }
+
+  // Listen to auth state changes
+  onAuthStateChanged(auth, function(user) {
+    if (user) {
+      showUser(user);
+    } else {
+      showSignedOut();
+    }
+  });
+
+  // Attach click events
+  document.getElementById('google-signin-btn').addEventListener('click', handleGoogleSignIn);
+  document.getElementById('mobile-google-signin-btn').addEventListener('click', handleGoogleSignIn);
+
+  const signoutBtn = document.getElementById('signout-btn');
+  if (signoutBtn) signoutBtn.addEventListener('click', handleSignOut);
+
+  const mobileSignoutBtn = document.getElementById('mobile-signout-btn');
+  if (mobileSignoutBtn) mobileSignoutBtn.addEventListener('click', handleSignOut);
+</script>
 </body>
 </html>
