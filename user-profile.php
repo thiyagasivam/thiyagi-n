@@ -91,42 +91,25 @@
   </div>
 </div>
 
-<script type="module">
-  import { initializeApp } from "https://www.gstatic.com/firebasejs/12.10.0/firebase-app.js";
-  import { getAuth, signInWithRedirect, GoogleAuthProvider, signOut, onAuthStateChanged } from "https://www.gstatic.com/firebasejs/12.10.0/firebase-auth.js";
-
-  const firebaseConfig = {
-    apiKey: "AIzaSyCjmKTu5jgt1wiXKmpWo238Lt6KP1JU-Vk",
-    authDomain: "thiyagi-cd556.firebaseapp.com",
-    projectId: "thiyagi-cd556",
-    storageBucket: "thiyagi-cd556.firebasestorage.app",
-    messagingSenderId: "583973862604",
-    appId: "1:583973862604:web:10a58afafe215827561669"
-  };
-
-  const app = initializeApp(firebaseConfig);
-  const auth = getAuth(app);
-  const provider = new GoogleAuthProvider();
-
+<script>
+(function() {
   function formatDate(dateStr) {
     if (!dateStr) return '—';
-    const d = new Date(dateStr);
+    var d = new Date(dateStr);
     return d.toLocaleDateString('en-US', { year: 'numeric', month: 'long', day: 'numeric', hour: '2-digit', minute: '2-digit' });
   }
 
-  onAuthStateChanged(auth, function(user) {
+  function showProfile(user) {
     document.getElementById('profile-loading').classList.add('hidden');
 
     if (user) {
-      // Fill profile data
       document.getElementById('profile-pic').src = user.photoURL || '';
       document.getElementById('profile-name').textContent = user.displayName || 'User';
       document.getElementById('profile-email').textContent = user.email || '';
-
       document.getElementById('detail-name').textContent = user.displayName || '—';
       document.getElementById('detail-email').textContent = user.email || '—';
 
-      const verifiedEl = document.getElementById('detail-verified');
+      var verifiedEl = document.getElementById('detail-verified');
       if (user.emailVerified) {
         verifiedEl.textContent = 'Yes';
         verifiedEl.className = 'font-medium text-green-600';
@@ -144,19 +127,34 @@
       document.getElementById('profile-signed-in').classList.add('hidden');
       document.getElementById('profile-not-signed-in').classList.remove('hidden');
     }
+  }
+
+  // Listen to auth state from header.php's Firebase instance
+  window.addEventListener('firebaseAuthReady', function(e) {
+    showProfile(e.detail.user);
   });
+
+  // If auth already fired before this listener was added
+  if (window.thiyagiAuth && window.thiyagiAuth.auth.currentUser) {
+    showProfile(window.thiyagiAuth.auth.currentUser);
+  }
 
   // Sign in from profile page
   document.getElementById('profile-signin-btn').addEventListener('click', function() {
-    signInWithRedirect(auth, provider);
+    if (window.thiyagiAuth) {
+      window.thiyagiAuth.signIn();
+    }
   });
 
   // Sign out from profile page
   document.getElementById('profile-signout-btn').addEventListener('click', function() {
-    signOut(auth).then(function() {
-      window.location.href = 'https://www.thiyagi.com/';
-    });
+    if (window.thiyagiAuth) {
+      window.thiyagiAuth.auth.signOut().then(function() {
+        window.location.href = 'https://www.thiyagi.com/';
+      });
+    }
   });
+})();
 </script>
 
 <?php include 'footer.php';?>

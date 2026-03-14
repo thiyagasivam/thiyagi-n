@@ -360,12 +360,12 @@ document.addEventListener('DOMContentLoaded', function () {
 });
 </script>
 
-<!-- Firebase SDK -->
-<script type="module">
-  import { initializeApp } from "https://www.gstatic.com/firebasejs/12.10.0/firebase-app.js";
-  import { getAuth, signInWithRedirect, getRedirectResult, GoogleAuthProvider, signOut, onAuthStateChanged } from "https://www.gstatic.com/firebasejs/12.10.0/firebase-auth.js";
-
-  const firebaseConfig = {
+<!-- Firebase SDK (compat) -->
+<script src="https://www.gstatic.com/firebasejs/10.12.2/firebase-app-compat.js"></script>
+<script src="https://www.gstatic.com/firebasejs/10.12.2/firebase-auth-compat.js"></script>
+<script>
+(function() {
+  var firebaseConfig = {
     apiKey: "AIzaSyCjmKTu5jgt1wiXKmpWo238Lt6KP1JU-Vk",
     authDomain: "thiyagi-cd556.firebaseapp.com",
     projectId: "thiyagi-cd556",
@@ -374,87 +374,93 @@ document.addEventListener('DOMContentLoaded', function () {
     appId: "1:583973862604:web:10a58afafe215827561669"
   };
 
-  const app = initializeApp(firebaseConfig);
-  const auth = getAuth(app);
-  const provider = new GoogleAuthProvider();
+  if (!firebase.apps.length) {
+    firebase.initializeApp(firebaseConfig);
+  }
 
-  // Handle redirect result when user returns from Google sign-in page
-  getRedirectResult(auth).then(function(result) {
-    // Auth state handled by onAuthStateChanged below
-  }).catch(function(error) {
-    console.error('Redirect sign-in error:', error.code, error.message);
-  });
+  var auth = firebase.auth();
+  var provider = new firebase.auth.GoogleAuthProvider();
 
   // Show signed-in state
   function showUser(user) {
-    // Desktop
-    document.getElementById('user-pic').src = user.photoURL || '';
-    document.getElementById('user-name').textContent = user.displayName || user.email;
-    document.getElementById('user-info').classList.remove('hidden');
-    document.getElementById('user-info').classList.add('flex');
-    document.getElementById('google-signin-btn').classList.add('hidden');
+    var pic = document.getElementById('user-pic');
+    var name = document.getElementById('user-name');
+    var info = document.getElementById('user-info');
+    var signInBtn = document.getElementById('google-signin-btn');
+    if (pic) pic.src = user.photoURL || '';
+    if (name) name.textContent = user.displayName || user.email;
+    if (info) { info.classList.remove('hidden'); info.classList.add('flex'); }
+    if (signInBtn) signInBtn.classList.add('hidden');
 
-    // Mobile
-    const mobileUserPic = document.getElementById('mobile-user-pic');
-    const mobileUserName = document.getElementById('mobile-user-name');
-    const mobileUserInfo = document.getElementById('mobile-user-info');
-    const mobileSignInBtn = document.getElementById('mobile-google-signin-btn');
-    if (mobileUserPic && mobileUserName && mobileUserInfo && mobileSignInBtn) {
-      mobileUserPic.src = user.photoURL || '';
-      mobileUserName.textContent = user.displayName || user.email;
-      mobileUserInfo.classList.remove('hidden');
-      mobileUserInfo.classList.add('flex');
-      mobileSignInBtn.classList.add('hidden');
-    }
+    var mPic = document.getElementById('mobile-user-pic');
+    var mName = document.getElementById('mobile-user-name');
+    var mInfo = document.getElementById('mobile-user-info');
+    var mBtn = document.getElementById('mobile-google-signin-btn');
+    if (mPic) mPic.src = user.photoURL || '';
+    if (mName) mName.textContent = user.displayName || user.email;
+    if (mInfo) { mInfo.classList.remove('hidden'); mInfo.classList.add('flex'); }
+    if (mBtn) mBtn.classList.add('hidden');
   }
 
   // Show signed-out state
   function showSignedOut() {
-    // Desktop
-    document.getElementById('user-info').classList.add('hidden');
-    document.getElementById('user-info').classList.remove('flex');
-    document.getElementById('google-signin-btn').classList.remove('hidden');
+    var info = document.getElementById('user-info');
+    var signInBtn = document.getElementById('google-signin-btn');
+    if (info) { info.classList.add('hidden'); info.classList.remove('flex'); }
+    if (signInBtn) signInBtn.classList.remove('hidden');
 
-    // Mobile
-    const mobileUserInfo = document.getElementById('mobile-user-info');
-    const mobileSignInBtn = document.getElementById('mobile-google-signin-btn');
-    if (mobileUserInfo && mobileSignInBtn) {
-      mobileUserInfo.classList.add('hidden');
-      mobileUserInfo.classList.remove('flex');
-      mobileSignInBtn.classList.remove('hidden');
-    }
+    var mInfo = document.getElementById('mobile-user-info');
+    var mBtn = document.getElementById('mobile-google-signin-btn');
+    if (mInfo) { mInfo.classList.add('hidden'); mInfo.classList.remove('flex'); }
+    if (mBtn) mBtn.classList.remove('hidden');
   }
 
-  // Google Sign-In handler — uses full page redirect (most compatible, no popup issues)
+  // Google Sign-In — opens Google popup
   function handleGoogleSignIn() {
-    signInWithRedirect(auth, provider);
-  }
-
-  // Firebase Sign-Out handler
-  function handleSignOut() {
-    signOut(auth).catch(function(error) {
-      console.error('Firebase Sign-Out error:', error);
+    auth.signInWithPopup(provider).catch(function(error) {
+      console.error('Google Sign-In error:', error.code, error.message);
     });
   }
 
-  // Listen to auth state changes
-  onAuthStateChanged(auth, function(user) {
+  // Sign out
+  function handleSignOut() {
+    auth.signOut().catch(function(error) {
+      console.error('Sign-Out error:', error);
+    });
+  }
+
+  // Listen to auth state
+  auth.onAuthStateChanged(function(user) {
     if (user) {
       showUser(user);
     } else {
       showSignedOut();
     }
+    // Dispatch custom event for other pages (e.g., profile page)
+    window.dispatchEvent(new CustomEvent('firebaseAuthReady', { detail: { user: user } }));
   });
 
   // Attach click events
-  document.getElementById('google-signin-btn').addEventListener('click', handleGoogleSignIn);
-  document.getElementById('mobile-google-signin-btn').addEventListener('click', handleGoogleSignIn);
+  var gBtn = document.getElementById('google-signin-btn');
+  if (gBtn) gBtn.addEventListener('click', handleGoogleSignIn);
 
-  const signoutBtn = document.getElementById('signout-btn');
-  if (signoutBtn) signoutBtn.addEventListener('click', handleSignOut);
+  var mGBtn = document.getElementById('mobile-google-signin-btn');
+  if (mGBtn) mGBtn.addEventListener('click', handleGoogleSignIn);
 
-  const mobileSignoutBtn = document.getElementById('mobile-signout-btn');
-  if (mobileSignoutBtn) mobileSignoutBtn.addEventListener('click', handleSignOut);
+  var soBtn = document.getElementById('signout-btn');
+  if (soBtn) soBtn.addEventListener('click', handleSignOut);
+
+  var mSoBtn = document.getElementById('mobile-signout-btn');
+  if (mSoBtn) mSoBtn.addEventListener('click', handleSignOut);
+
+  // Expose for other pages
+  window.thiyagiAuth = {
+    auth: auth,
+    provider: provider,
+    signIn: handleGoogleSignIn,
+    signOut: handleSignOut
+  };
+})();
 </script>
 </body>
 </html>
