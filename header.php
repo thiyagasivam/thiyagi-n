@@ -178,8 +178,10 @@ $canonicalUrl = "https://www.thiyagi.com" . $uri;
         </button>
         <!-- User Info (shown after login) -->
         <div id="user-info" class="hidden items-center space-x-2">
-          <img id="user-pic" src="" alt="Profile" class="h-8 w-8 rounded-full border">
-          <span id="user-name" class="font-semibold text-gray-700"></span>
+          <a href="https://www.thiyagi.com/user-profile" class="flex items-center space-x-2 hover:opacity-80">
+            <img id="user-pic" src="" alt="Profile" class="h-8 w-8 rounded-full border">
+            <span id="user-name" class="font-semibold text-gray-700"></span>
+          </a>
           <button id="signout-btn" class="px-3 py-1 border border-red-400 text-xs rounded text-red-700 bg-white hover:bg-red-50">Sign out</button>
         </div>
       </div>
@@ -293,8 +295,10 @@ $canonicalUrl = "https://www.thiyagi.com" . $uri;
         </button>
         <!-- Mobile User Info (shown after login) -->
         <div id="mobile-user-info" class="hidden flex items-center mt-2 p-2 bg-gray-50 rounded">
-          <img id="mobile-user-pic" src="" alt="Profile" class="h-6 w-6 rounded-full mr-2">
-          <span id="mobile-user-name" class="text-sm font-medium flex-1"></span>
+          <a href="https://www.thiyagi.com/user-profile" class="flex items-center flex-1">
+            <img id="mobile-user-pic" src="" alt="Profile" class="h-6 w-6 rounded-full mr-2">
+            <span id="mobile-user-name" class="text-sm font-medium"></span>
+          </a>
           <button id="mobile-signout-btn" class="text-xs text-red-600 hover:text-red-800">Sign out</button>
         </div>
       </li>
