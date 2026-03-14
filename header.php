@@ -359,7 +359,7 @@ document.addEventListener('DOMContentLoaded', function () {
 <!-- Firebase SDK -->
 <script type="module">
   import { initializeApp } from "https://www.gstatic.com/firebasejs/12.10.0/firebase-app.js";
-  import { getAuth, signInWithPopup, GoogleAuthProvider, signOut, onAuthStateChanged } from "https://www.gstatic.com/firebasejs/12.10.0/firebase-auth.js";
+  import { getAuth, signInWithPopup, signInWithRedirect, getRedirectResult, GoogleAuthProvider, signOut, onAuthStateChanged } from "https://www.gstatic.com/firebasejs/12.10.0/firebase-auth.js";
 
   const firebaseConfig = {
     apiKey: "AIzaSyCjmKTu5jgt1wiXKmpWo238Lt6KP1JU-Vk",
@@ -373,6 +373,13 @@ document.addEventListener('DOMContentLoaded', function () {
   const app = initializeApp(firebaseConfig);
   const auth = getAuth(app);
   const provider = new GoogleAuthProvider();
+
+  // Handle redirect result on page load (for when signInWithRedirect was used)
+  getRedirectResult(auth).catch(function(error) {
+    if (error.code !== 'auth/null-user') {
+      console.error('Redirect sign-in error:', error.code, error.message);
+    }
+  });
 
   // Show signed-in state
   function showUser(user) {
@@ -414,10 +421,17 @@ document.addEventListener('DOMContentLoaded', function () {
     }
   }
 
-  // Google Sign-In handler
+  // Google Sign-In handler — tries popup first, falls back to redirect
   function handleGoogleSignIn() {
     signInWithPopup(auth, provider).catch(function(error) {
-      console.error('Firebase Google Sign-In error:', error.code, error.message);
+      // If popup was closed or blocked, fall back to redirect
+      if (error.code === 'auth/popup-closed-by-user' ||
+          error.code === 'auth/popup-blocked' ||
+          error.code === 'auth/cancelled-popup-request') {
+        signInWithRedirect(auth, provider);
+      } else {
+        console.error('Firebase Google Sign-In error:', error.code, error.message);
+      }
     });
   }
 
