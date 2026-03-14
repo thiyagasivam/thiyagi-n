@@ -6025,10 +6025,22 @@
     <script>
         // Search functionality
         document.getElementById('toolSearch').addEventListener('input', function(e) {
-            const searchTerm = e.target.value.toLowerCase();
-            document.querySelectorAll('.tool-card span').forEach(card => {
-                const cardText = card.textContent.toLowerCase();
-                card.closest('.grid > div').style.display = cardText.includes(searchTerm) ? 'block' : 'none';
+            var searchTerm = e.target.value.toLowerCase().trim();
+            document.querySelectorAll('.tool-card').forEach(function(card) {
+                var cardText = card.textContent.toLowerCase();
+                var gridItem = card.closest('.grid > div');
+                if (gridItem) {
+                    gridItem.style.display = (!searchTerm || cardText.includes(searchTerm)) ? '' : 'none';
+                }
+            });
+            // Show/hide category sections that have no visible tools
+            document.querySelectorAll('.card-bg').forEach(function(section) {
+                var visibleTools = section.querySelectorAll('.grid > div');
+                var hasVisible = false;
+                visibleTools.forEach(function(item) {
+                    if (item.style.display !== 'none') hasVisible = true;
+                });
+                section.style.display = (!searchTerm || hasVisible) ? '' : 'none';
             });
         });
     </script>
