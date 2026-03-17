@@ -29,8 +29,8 @@ $breadcrumbSchema = [
         [
             "@type" => "ListItem",
             "position" => 4,
-            "name" => $center['shop_name'] . " - Dell Authorized Service Center",
-            "item" => $currentUrl
+                "name" => (isset($center) && $center && isset($center['shop_name']) ? $center['shop_name'] . " - Dell Authorized Service Center" : "Dell Authorized Service Center"),
+                "item" => $currentUrl
         ]
     ]
 ];
