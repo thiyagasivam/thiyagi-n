@@ -1,6 +1,6 @@
 
-<?php include '../header.php';?>
 <?php include 'breadcrumb-schema.php';?>
+<?php include '../header.php';?>
 <?php
 /**
  * TNEB Electricity Bill Calculator (2026)
@@ -318,7 +318,30 @@ if ($units > 0) {
     </style>
 
 <script type="application/ld+json">
-<?php echo json_encode($breadcrumbSchema, JSON_UNESCAPED_SLASHES | JSON_PRETTY_PRINT); ?>
+{
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [
+    {
+      "@type": "ListItem",
+      "position": 1,
+      "name": "Home",
+      "item": "https://www.thiyagi.com/"
+    },
+    {
+      "@type": "ListItem",
+      "position": 2,
+      "name": "Electricity Board",
+      "item": "https://www.thiyagi.com/electricity-board/"
+    },
+    {
+      "@type": "ListItem",
+      "position": 3,
+      "name": "Tamil Nadu Electricity Bill Calculator",
+      "item": "https://www.thiyagi.com/electricity-board/tneb-electricity-bill-calculator"
+    }
+  ]
+}
 </script>
 
 <script type="application/ld+json">
