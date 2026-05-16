@@ -65,7 +65,7 @@ if ($units > 0) {
 ?>
     <title>TNEB Electricity Bill Calculator 2026 - Tamil Nadu Power Bill Estimate | Thiyagi</title>
     <meta name="description" content="Calculate your Tamil Nadu electricity bill instantly with our TNEB calculator. Get accurate estimates using latest 2026 tariff rates, slab-wise breakdown, and detailed bill analysis. Free online tool.">
-    <meta name="keywords" content="TNEB calculator, Tamil Nadu electricity bill, TNEB tariff rates 2026, electricity bill calculator Tamil Nadu, TANGEDCO bill calculator, power bill calculator TN">
+    <meta name="keywords" content="TNEB calculator, Tamil Nadu electricity bill, TNEB tariff rates 2026, electricity bill calculator Tamil Nadu, TANGEDCO bill calculator, power bill calculator Tamil Nadu, electricity rates, domestic consumer tariff">
     <meta property="og:title" content="TNEB Electricity Bill Calculator 2026 - Tamil Nadu Power Bill">
     <meta property="og:description" content="Calculate your Tamil Nadu electricity bill instantly with accurate TNEB tariff rates. Free online calculator with detailed breakdown.">
     <meta property="og:url" content="https://www.thiyagi.com/electricity-board/tneb-electricity-bill-calculator">
@@ -78,10 +78,10 @@ if ($units > 0) {
     <meta name="author" content="Thiyagi.com">
         <link rel="apple-touch-icon" href="https://www.thiyagi.com/images/apple-touch-icon.png">
  
-    <!-- Google Fonts -->
+    <!-- Google Fonts - https://fonts.google.com/ -->
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
-    <!-- Font Awesome -->
-    <!-- Bootstrap Icons -->
+    <!-- Font Awesome Icons - https://fontawesome.com/ -->
+    <!-- Bootstrap Icons - https://icons.getbootstrap.com/ -->
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.5/font/bootstrap-icons.css">
     <style>
         :root {
@@ -437,7 +437,7 @@ if ($units > 0) {
                 <i class="fas fa-bolt text-6xl text-yellow-400 pulse mb-4"></i>
             </div>
             <h1 class="text-5xl font-bold text-white drop-shadow-lg mb-4">TNEB Electricity Bill Calculator 2026</h1>
-            <p class="text-xl text-white mb-6 max-w-2xl mx-auto">Calculate your Tamil Nadu power bill instantly with latest TANGEDCO tariff rates. Get accurate estimates with detailed slab-wise breakdown.</p>
+            <p class="text-xl text-white mb-6 max-w-2xl mx-auto">Calculate your <a href="https://en.wikipedia.org/wiki/Tamil_Nadu" target="_blank" rel="noopener noreferrer" class="text-yellow-200 hover:text-yellow-100 underline">Tamil Nadu</a> power bill instantly with latest <a href="https://www.tangedco.gov.in/" target="_blank" rel="noopener noreferrer" class="text-yellow-200 hover:text-yellow-100 underline">TANGEDCO</a> tariff rates. Get accurate estimates with detailed slab-wise breakdown.</p>
             <div class="flex flex-wrap justify-center gap-4 text-sm text-white">
                 <div class="flex items-center"><i class="fas fa-check-circle mr-2"></i>Latest 2026 Rates</div>
                 <div class="flex items-center"><i class="fas fa-calculator mr-2"></i>Instant Calculation</div>
@@ -451,17 +451,17 @@ if ($units > 0) {
             <div class="feature-card">
                 <i class="fas fa-lightning-bolt text-3xl text-yellow-500 mb-3"></i>
                 <h3 class="text-lg font-semibold mb-2">Instant Results</h3>
-                <p class="text-gray-600 text-sm">Get your electricity bill estimate in seconds with real-time calculations</p>
+                <p class="text-gray-600 text-sm">Get your <a href="https://en.wikipedia.org/wiki/Electricity_bill" target="_blank" rel="noopener noreferrer" class="text-blue-600 hover:text-blue-800 underline">electricity bill</a> estimate in seconds with real-time calculations</p>
             </div>
             <div class="feature-card">
                 <i class="fas fa-layer-group text-3xl text-blue-500 mb-3"></i>
                 <h3 class="text-lg font-semibold mb-2">Slab-wise Breakdown</h3>
-                <p class="text-gray-600 text-sm">Detailed analysis showing charges for each consumption slab</p>
+                <p class="text-gray-600 text-sm">Detailed analysis showing charges for each <a href="https://en.wikipedia.org/wiki/Energy_consumption" target="_blank" rel="noopener noreferrer" class="text-blue-600 hover:text-blue-800 underline">consumption</a> <a href="https://en.wikipedia.org/wiki/Tariff" target="_blank" rel="noopener noreferrer" class="text-blue-600 hover:text-blue-800 underline">slab</a></p>
             </div>
             <div class="feature-card">
                 <i class="fas fa-shield-alt text-3xl text-green-500 mb-3"></i>
                 <h3 class="text-lg font-semibold mb-2">100% Accurate</h3>
-                <p class="text-gray-600 text-sm">Based on official TNEB/TANGEDCO tariff rates for 2026</p>
+                <p class="text-gray-600 text-sm">Based on official <a href="https://www.tangedco.gov.in/" target="_blank" rel="noopener noreferrer" class="text-blue-600 hover:text-blue-800 underline">TNEB/TANGEDCO tariff rates</a> for 2026</p>
             </div>
         </div>
         
@@ -471,7 +471,7 @@ if ($units > 0) {
                     <h2 class="text-2xl font-bold text-gray-800 mb-6">Enter Your Electricity Consumption</h2>
                 </div>
                 <div>
-                    <label for="units" class="block text-gray-700 text-lg font-semibold mb-4">Units Consumed (kWh)</label>
+                    <label for="units" class="block text-gray-700 text-lg font-semibold mb-4">Units Consumed (<a href="https://en.wikipedia.org/wiki/Kilowatt-hour" target="_blank" rel="noopener noreferrer" class="text-blue-600 hover:text-blue-800 underline">kWh</a>)</label>
                     <div class="relative">
                         <div class="absolute inset-y-0 left-0 pl-4 flex items-center pointer-events-none">
                             <i class="fas fa-bolt text-yellow-500"></i>
@@ -688,11 +688,11 @@ if ($units > 0) {
                     <div class="grid md:grid-cols-2 gap-4">
                         <div class="space-y-3">
                             <div class="tip-card">
-                                <h5 class="font-medium text-green-800">💡 LED Bulbs</h5>
+                                <h5 class="font-medium text-green-800">💡 <a href="https://en.wikipedia.org/wiki/Light-emitting_diode" target="_blank" rel="noopener noreferrer" class="text-green-700 hover:text-green-900 underline">LED Bulbs</a></h5>
                                 <p class="text-sm text-gray-700">Switch to LED bulbs - they use 75% less energy and last 25 times longer</p>
                             </div>
                             <div class="tip-card">
-                                <h5 class="font-medium text-green-800">❄️ AC Temperature</h5>
+                                <h5 class="font-medium text-green-800">❄️ <a href="https://en.wikipedia.org/wiki/Air_conditioning" target="_blank" rel="noopener noreferrer" class="text-green-700 hover:text-green-900 underline">AC Temperature</a></h5>
                                 <p class="text-sm text-gray-700">Set AC to 24°C instead of 18°C - saves up to 30% on cooling costs</p>
                             </div>
                             <div class="tip-card">
@@ -702,7 +702,7 @@ if ($units > 0) {
                         </div>
                         <div class="space-y-3">
                             <div class="tip-card">
-                                <h5 class="font-medium text-green-800">🌟 Star Ratings</h5>
+                                <h5 class="font-medium text-green-800">🌟 <a href="https://en.wikipedia.org/wiki/Energy_efficiency" target="_blank" rel="noopener noreferrer" class="text-green-700 hover:text-green-900 underline">Star Ratings</a></h5>
                                 <p class="text-sm text-gray-700">Choose 5-star rated appliances - they consume significantly less power</p>
                             </div>
                             <div class="tip-card">
@@ -756,18 +756,18 @@ if ($units > 0) {
                         <div>
                             <p class="text-gray-700 mb-3">
                                 This calculator uses the latest TNEB (Tamil Nadu Electricity Board) tariff rates for 2026. 
-                                TNEB is now known as TANGEDCO (Tamil Nadu Generation and Distribution Corporation).
+                                TNEB is now known as <a href="https://www.tangedco.gov.in/" target="_blank" rel="noopener noreferrer" class="text-blue-600 hover:text-blue-800 underline">TANGEDCO (Tamil Nadu Generation and Distribution Corporation)</a>.
                             </p>
                             <p class="text-gray-700">
                                 The calculation includes energy charges, fixed charges, and applicable taxes as per 
-                                official government notifications.
+                                official <a href="https://www.tn.gov.in/" target="_blank" rel="noopener noreferrer" class="text-blue-600 hover:text-blue-800 underline">Tamil Nadu Government</a> notifications.
                             </p>
                         </div>
                         <div>
                             <h4 class="font-semibold mb-2">Important Notes:</h4>
                             <ul class="text-sm text-gray-700 space-y-1">
-                                <li>• Rates may vary for different consumer categories</li>
-                                <li>• Rural and urban tariffs may differ</li>
+                                <li>• <a href="https://en.wikipedia.org/wiki/Electricity" target="_blank" rel="noopener noreferrer" class="text-blue-600 hover:text-blue-800 underline">Electricity</a> rates may vary for different consumer categories</li>
+                                <li>• <a href="https://en.wikipedia.org/wiki/Tariff" target="_blank" rel="noopener noreferrer" class="text-blue-600 hover:text-blue-800 underline">Rural and urban tariffs</a> may differ</li>
                                 <li>• Seasonal variations may apply</li>
                                 <li>• Additional charges may apply in some cases</li>
                             </ul>
@@ -784,19 +784,19 @@ if ($units > 0) {
                         <div>
                             <h4 class="font-semibold mb-3">Step-by-Step Guide:</h4>
                             <ol class="list-decimal list-inside space-y-2 text-gray-700">
-                                <li>Check your electricity meter reading</li>
+                                <li>Check your <a href="https://en.wikipedia.org/wiki/Electricity_meter" target="_blank" rel="noopener noreferrer" class="text-blue-600 hover:text-blue-800 underline">electricity meter</a> reading</li>
                                 <li>Calculate units consumed (Current - Previous reading)</li>
                                 <li>Enter the units in the calculator above</li>
                                 <li>Click "Calculate My Bill" to get instant results</li>
-                                <li>Review the detailed slab-wise breakdown</li>
+                                <li>Review the detailed <a href="https://en.wikipedia.org/wiki/Tariff" target="_blank" rel="noopener noreferrer" class="text-blue-600 hover:text-blue-800 underline">slab-wise breakdown</a></li>
                             </ol>
                         </div>
                         <div>
                             <h4 class="font-semibold mb-3">Understanding Your Bill:</h4>
                             <ul class="space-y-2 text-gray-700">
-                                <li><strong>Energy Charges:</strong> Based on slab rates</li>
-                                <li><strong>Fixed Charges:</strong> Monthly service charges</li>
-                                <li><strong>Taxes:</strong> Government levies and duties</li>
+                                <li><strong>Energy Charges:</strong> Based on <a href="https://en.wikipedia.org/wiki/Kilowatt-hour" target="_blank" rel="noopener noreferrer" class="text-blue-600 hover:text-blue-800 underline">slab rates</a></li>
+                                <li><strong>Fixed Charges:</strong> Monthly service fees</li>
+                                <li><strong>Taxes:</strong> <a href="https://en.wikipedia.org/wiki/Tax" target="_blank" rel="noopener noreferrer" class="text-blue-600 hover:text-blue-800 underline">Government</a> levies and duties</li>
                                 <li><strong>Total Amount:</strong> Final payable amount</li>
                             </ul>
                         </div>
@@ -826,7 +826,7 @@ if ($units > 0) {
                             </tbody>
                         </table>
                     </div>
-                    <p class="text-xs text-gray-500 mt-3">* Rates are subject to change as per TANGEDCO notifications. Tax @ 6% applicable on total charges.</p>
+                    <p class="text-xs text-gray-500 mt-3">* Rates are subject to change as per <a href="https://www.tangedco.gov.in/" target="_blank" rel="noopener noreferrer" class="text-blue-600 hover:text-blue-800 underline">TANGEDCO</a> notifications. Tax @ 6% applicable on total charges.</p>
                 </div>
             </div>
         </div>
@@ -840,7 +840,7 @@ if ($units > 0) {
         <div class="space-y-6">
             <div class="border-b border-gray-200 pb-6">
                 <h3 class="text-xl font-semibold text-gray-800 mb-3">What is TNEB and TANGEDCO?</h3>
-                <p class="text-gray-700">TNEB (Tamil Nadu Electricity Board) is now known as TANGEDCO (Tamil Nadu Generation and Distribution Corporation Limited). It's the state electricity utility responsible for power generation, transmission, and distribution in Tamil Nadu.</p>
+                <p class="text-gray-700">TNEB (Tamil Nadu Electricity Board) is now known as <a href="https://www.tangedco.gov.in/" target="_blank" rel="noopener noreferrer" class="text-blue-600 hover:text-blue-800 underline">TANGEDCO (Tamil Nadu Generation and Distribution Corporation Limited)</a>. It's the state <a href="https://en.wikipedia.org/wiki/Electricity" target="_blank" rel="noopener noreferrer" class="text-blue-600 hover:text-blue-800 underline">electricity</a> utility responsible for <a href="https://en.wikipedia.org/wiki/Power_generation" target="_blank" rel="noopener noreferrer" class="text-blue-600 hover:text-blue-800 underline">power generation</a>, transmission, and distribution in <a href="https://en.wikipedia.org/wiki/Tamil_Nadu" target="_blank" rel="noopener noreferrer" class="text-blue-600 hover:text-blue-800 underline">Tamil Nadu</a>.</p>
             </div>
             
             <div class="border-b border-gray-200 pb-6">
@@ -850,17 +850,17 @@ if ($units > 0) {
             
             <div class="border-b border-gray-200 pb-6">
                 <h3 class="text-xl font-semibold text-gray-800 mb-3">What are the free electricity units in Tamil Nadu?</h3>
-                <p class="text-gray-700">Tamil Nadu government provides free electricity up to 100 units per month for domestic consumers. This means if your monthly consumption is 100 units or less, you only pay the fixed charges and taxes.</p>
+                <p class="text-gray-700"><a href="https://en.wikipedia.org/wiki/Tamil_Nadu" target="_blank" rel="noopener noreferrer" class="text-blue-600 hover:text-blue-800 underline">Tamil Nadu</a> government provides free <a href="https://en.wikipedia.org/wiki/Electricity" target="_blank" rel="noopener noreferrer" class="text-blue-600 hover:text-blue-800 underline">electricity</a> up to 100 units per month for domestic consumers. This means if your monthly consumption is 100 units or less, you only pay the fixed charges and taxes.</p>
             </div>
             
             <div class="border-b border-gray-200 pb-6">
                 <h3 class="text-xl font-semibold text-gray-800 mb-3">How is the electricity bill calculated?</h3>
-                <p class="text-gray-700">The bill is calculated using a slab-wise system where different rates apply to different consumption levels. It includes energy charges (based on units consumed), fixed charges (monthly service fee), and taxes (currently 6% on total charges).</p>
+                <p class="text-gray-700">The bill is calculated using a slab-wise system where different rates apply to different consumption levels. It includes <a href="https://en.wikipedia.org/wiki/Kilowatt-hour" target="_blank" rel="noopener noreferrer" class="text-blue-600 hover:text-blue-800 underline">energy charges</a> (based on units consumed), fixed charges (monthly service fee), and taxes (currently 6% on total charges).</p>
             </div>
             
             <div class="border-b border-gray-200 pb-6">
                 <h3 class="text-xl font-semibold text-gray-800 mb-3">Can I pay my TNEB bill online?</h3>
-                <p class="text-gray-700">Yes, you can pay your TNEB/TANGEDCO electricity bill online through the official TANGEDCO website, mobile apps, or various payment platforms like Paytm, PhonePe, Google Pay, and net banking.</p>
+                <p class="text-gray-700">Yes, you can pay your TNEB/TANGEDCO electricity bill online through the official <a href="https://www.tangedco.gov.in/" target="_blank" rel="noopener noreferrer" class="text-blue-600 hover:text-blue-800 underline">TANGEDCO website</a>, mobile apps, or various payment platforms like <a href="https://paytm.com/" target="_blank" rel="noopener noreferrer" class="text-blue-600 hover:text-blue-800 underline">Paytm</a>, <a href="https://www.phonepe.com/" target="_blank" rel="noopener noreferrer" class="text-blue-600 hover:text-blue-800 underline">PhonePe</a>, <a href="https://pay.google.com/" target="_blank" rel="noopener noreferrer" class="text-blue-600 hover:text-blue-800 underline">Google Pay</a>, and net banking.</p>
             </div>
             
             <div>
