@@ -243,6 +243,13 @@ $specifications = [
             <?php endforeach; ?>
         </div>
     </section>
+
+    <section class="max-w-7xl mx-auto px-4 pb-12">
+        <div class="bg-white border border-slate-200 rounded-xl p-4 text-sm text-slate-600">
+            Source credit: Data compiled from BikeCentral.
+            <a href="https://www.bikecentral.in/qj-motor/srv-300/specifications" target="_blank" rel="noopener noreferrer" class="text-blue-700 hover:underline font-medium">View original page</a>.
+        </div>
+    </section>
 </div>
 
 <?php include 'footer.php'; ?>
