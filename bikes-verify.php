@@ -6,6 +6,7 @@ header('Content-Type: text/plain; charset=utf-8');
 $seedScripts = [
     'keeway-v302-c' => __DIR__ . '/seed_bike_keeway_v302c.php',
     'qj-motor-srv-300' => __DIR__ . '/seed_bike_srv300.php',
+    'batch-10-urls' => __DIR__ . '/seed_bike_batch_10_urls.php',
 ];
 
 $seed = $_GET['seed'] ?? '';
