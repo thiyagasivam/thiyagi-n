@@ -1,6 +1,62 @@
 <?php
+if (!function_exists('thiyagi_fix_misplaced_seo_tags')) {
+  function thiyagi_fix_misplaced_seo_tags($html) {
+    if (stripos($html, '</head>') === false) {
+      return $html;
+    }
+
+    $headClosePos = stripos($html, '</head>');
+    $headPart = substr($html, 0, $headClosePos);
+    $tailPart = substr($html, $headClosePos);
+
+    $titleTag = '';
+    $descriptionTag = '';
+    $keywordsTag = '';
+
+    if (preg_match('/<title\b[^>]*>.*?<\/title>/is', $tailPart, $match)) {
+      $titleTag = trim($match[0]);
+      $tailPart = preg_replace('/<title\b[^>]*>.*?<\/title>\s*/is', '', $tailPart, 1);
+    }
+
+    if (preg_match('/<meta\s+name=["\']description["\'][^>]*>/is', $tailPart, $match)) {
+      $descriptionTag = trim($match[0]);
+      $tailPart = preg_replace('/<meta\s+name=["\']description["\'][^>]*>\s*/is', '', $tailPart, 1);
+    }
+
+    if (preg_match('/<meta\s+name=["\']keywords["\'][^>]*>/is', $tailPart, $match)) {
+      $keywordsTag = trim($match[0]);
+      $tailPart = preg_replace('/<meta\s+name=["\']keywords["\'][^>]*>\s*/is', '', $tailPart, 1);
+    }
+
+    $inserts = [];
+    if ($titleTag !== '' && !preg_match('/<title\b[^>]*>.*?<\/title>/is', $headPart)) {
+      $inserts[] = '  ' . $titleTag;
+    }
+    if ($descriptionTag !== '' && !preg_match('/<meta\s+name=["\']description["\'][^>]*>/is', $headPart)) {
+      $inserts[] = '  ' . $descriptionTag;
+    }
+    if ($keywordsTag !== '' && !preg_match('/<meta\s+name=["\']keywords["\'][^>]*>/is', $headPart)) {
+      $inserts[] = '  ' . $keywordsTag;
+    }
+
+    if (!empty($inserts)) {
+      $headPart .= "\n" . implode("\n", $inserts) . "\n";
+    }
+
+    return $headPart . $tailPart;
+  }
+
+  ob_start('thiyagi_fix_misplaced_seo_tags');
+}
+
 // Generate canonical URL - Always use https://www.thiyagi.com for consistency
 $uri = strtok($_SERVER['REQUEST_URI'], '?');
+
+// Normalize homepage aliases to root URL.
+if ($uri === '/index' || $uri === '/index.php') {
+  $uri = '/';
+}
+
 // Remove trailing slash for consistency (except for root)
 if ($uri !== '/' && substr($uri, -1) === '/') {
     $uri = rtrim($uri, '/');

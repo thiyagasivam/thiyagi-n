@@ -85,6 +85,8 @@ $pages['/electricity-board/index'] = [
 
 // Pages to EXCLUDE (will not appear in sitemap)
 $excludedPages = [
+    '/index',
+    '/index.php',
     '/404.php',
     '/header.php',
     '/footer.php',
@@ -153,7 +155,13 @@ $excludedPages = [
 '/holiday/usa-holiday/fix-state-pages',
 '/holiday/usa-holiday/generate-comprehensive-states',
 '/fix-broken-images',
-'/googleb62a814b9aa3f5fa.html'
+'/googleb62a814b9aa3f5fa.html',
+'/indexing-fixed.html',
+'/broken-link-checker-temp',
+'/broken-links-fixed-report',
+'/broken-links-fixed-report.php',
+'/broken_links_analysis.json',
+'/broken_links_fix_report.json'
 ];
 
 // Folders to EXCLUDE (will not scan these folders)

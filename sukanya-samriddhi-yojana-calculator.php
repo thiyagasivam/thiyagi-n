@@ -3,7 +3,6 @@
 <title>Sukanya Samriddhi Yojana Calculator – Calculate SSY Maturity Amount</title>
 <meta name="description" content="Free Sukanya Samriddhi Yojana calculator to estimate maturity value, interest earned, and yearly growth of your SSY investment.">
 <meta name="keywords" content="SSY calculator, Sukanya Samriddhi Yojana, SSY maturity calculator, SSY interest rate, girl child savings scheme, SSY returns calculator">
-<link rel="canonical" href="https://www.thiyagi.com/sukanya-samriddhi-yojana-calculator">
 
 <style>
     .ssy-gradient { background: linear-gradient(135deg, #ec4899 0%, #8b5cf6 100%); }
