@@ -129,6 +129,12 @@ include 'header.php';
                     <p class="text-xl font-bold"><?php echo (int)count($colors); ?></p>
                 </div>
             </div>
+
+            <?php if (!empty($model['hero_image_url'])): ?>
+                <div class="mt-6 bg-white rounded-xl overflow-hidden shadow-lg max-w-2xl">
+                    <img src="<?php echo htmlspecialchars($model['hero_image_url']); ?>" alt="<?php echo htmlspecialchars(trim($brandName . ' ' . $modelName)); ?>" class="w-full h-72 object-cover" loading="lazy">
+                </div>
+            <?php endif; ?>
         </div>
     </section>
 
@@ -190,6 +196,9 @@ include 'header.php';
             <?php if (count($variants) > 0): ?>
                 <?php foreach ($variants as $variant): ?>
                     <div class="bg-white rounded-xl shadow p-5">
+                        <?php if (!empty($variant['image_url'])): ?>
+                            <img src="<?php echo htmlspecialchars($variant['image_url']); ?>" alt="<?php echo htmlspecialchars($variant['variant_name']); ?>" class="w-full h-52 object-cover rounded-lg mb-4" loading="lazy">
+                        <?php endif; ?>
                         <h3 class="font-semibold text-lg text-slate-900 mb-2"><?php echo htmlspecialchars($variant['variant_name']); ?></h3>
                         <p class="text-blue-700 font-bold text-xl mb-3"><?php echo htmlspecialchars($variant['ex_showroom_price'] ?: 'Updating...'); ?></p>
                         <div class="grid grid-cols-3 gap-2 text-sm">
@@ -233,7 +242,10 @@ include 'header.php';
         <div class="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-6">
             <?php if (count($colors) > 0): ?>
                 <?php foreach ($colors as $color): ?>
-                    <div class="bg-white rounded-xl shadow p-4">
+                    <div class="bg-white rounded-xl shadow p-4 overflow-hidden">
+                        <?php if (!empty($color['image_url'])): ?>
+                            <img src="<?php echo htmlspecialchars($color['image_url']); ?>" alt="<?php echo htmlspecialchars($color['color_name']); ?>" class="w-full h-48 object-cover rounded-lg mb-3" loading="lazy">
+                        <?php endif; ?>
                         <p class="text-lg font-semibold text-slate-900"><?php echo htmlspecialchars($color['color_name']); ?></p>
                     </div>
                 <?php endforeach; ?>

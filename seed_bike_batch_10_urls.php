@@ -101,6 +101,87 @@ function htmlToPlainText($html)
     return trim($clean);
 }
 
+function extractBikeCdnUrls($html)
+{
+    $decoded = rawurldecode(html_entity_decode((string)$html, ENT_QUOTES | ENT_HTML5, 'UTF-8'));
+    if (!preg_match_all('~https?://[^\s"<>]+bikecentral\.b-cdn\.net[^\s"<>]*~i', $decoded, $m)) {
+        return [];
+    }
+
+    $urls = [];
+    foreach ($m[0] as $url) {
+        $clean = trim($url);
+        $clean = preg_replace('/[)\],]+$/', '', $clean);
+        if ($clean !== '') {
+            $urls[$clean] = true;
+        }
+    }
+    return array_keys($urls);
+}
+
+function extractHeroImageUrl($overviewHtml, $brandSlug, $modelSlugPart)
+{
+    $urls = extractBikeCdnUrls($overviewHtml);
+    $brandMarker = '/media/models/' . strtolower($brandSlug) . '/hero/';
+    foreach ($urls as $url) {
+        if (stripos($url, $brandMarker) !== false) {
+            return $url;
+        }
+    }
+
+    $modelMarker = '/media/models/' . strtolower($brandSlug) . '/' . strtolower($modelSlugPart) . '/';
+    foreach ($urls as $url) {
+        if (stripos($url, $modelMarker) !== false) {
+            return $url;
+        }
+    }
+
+    return $urls[0] ?? null;
+}
+
+function extractImagesWithAlt($html)
+{
+    $rows = [];
+    if (!preg_match_all('~<img[^>]*alt=["\']([^"\']+)["\'][^>]*src=["\']([^"\']+)["\'][^>]*>~i', (string)$html, $m, PREG_SET_ORDER)) {
+        return $rows;
+    }
+
+    foreach ($m as $match) {
+        $alt = trim(html_entity_decode($match[1], ENT_QUOTES | ENT_HTML5, 'UTF-8'));
+        $src = rawurldecode(html_entity_decode($match[2], ENT_QUOTES | ENT_HTML5, 'UTF-8'));
+        $imageUrl = null;
+
+        if (preg_match('~https?://[^\s"<>]+bikecentral\.b-cdn\.net[^\s"<>]*~i', $src, $u)) {
+            $imageUrl = $u[0];
+        } else {
+            parse_str((string)parse_url($src, PHP_URL_QUERY), $q);
+            if (!empty($q['url']) && stripos((string)$q['url'], 'bikecentral.b-cdn.net') !== false) {
+                $imageUrl = rawurldecode((string)$q['url']);
+            }
+        }
+
+        if ($imageUrl) {
+            $rows[] = ['alt' => $alt, 'image' => $imageUrl];
+        }
+    }
+
+    return $rows;
+}
+
+function isLikelyColorName($name)
+{
+    $name = trim($name);
+    if ($name === '' || mb_strlen($name, 'UTF-8') > 40) {
+        return false;
+    }
+
+    if (preg_match('/(bluecorp|software|pvt|ltd|india|bikecentral|prices|specifications|variants|overview)/i', $name)) {
+        return false;
+    }
+
+    return (bool)preg_match('/(Black|Blue|Red|Grey|Gray|White|Silver|Orange|Yellow|Green|Matt|Matte|Glossy|Metallic|Brown|Gold)/i', $name);
+}
+
 function slugToName($slug)
 {
     return ucwords(str_replace('-', ' ', $slug));
@@ -139,7 +220,7 @@ function clipText($value, $max = 255)
     return mb_substr($value, 0, $max, 'UTF-8');
 }
 
-function parseBikeData($baseUrl, $overviewText, $variantsText, $specsText, $colorsText, $title)
+function parseBikeData($baseUrl, $overviewText, $variantsText, $specsText, $colorsText, $title, $overviewHtml, $variantsHtml, $specsHtml, $colorsHtml)
 {
     $parts = parse_url($baseUrl);
     $pathParts = array_values(array_filter(explode('/', trim($parts['path'] ?? '', '/'))));
@@ -281,9 +362,14 @@ function parseBikeData($baseUrl, $overviewText, $variantsText, $specsText, $colo
 
     $specRows = [];
     $specSource = $specsText !== '' ? $specsText : $allText;
+    $quotedLabels = array_map(function ($label) {
+        return preg_quote(str_replace('\\', '', $label), '/');
+    }, $specLabels);
+
     foreach ($specLabels as $labelPattern) {
         $cleanLabel = str_replace('\\', '', $labelPattern);
-        $pattern = '/' . $labelPattern . '\\s*([^₹]{1,90}?)(?=\\s(?:' . implode('|', $specLabels) . '|Dimension|Brake|Suspension|Tyres|Engine|Electrical|Features|Safety\\s*Features)\\b|$)/iu';
+        $quotedLabel = preg_quote($cleanLabel, '/');
+        $pattern = '/' . $quotedLabel . '\\s*([^₹]{1,120}?)(?=\\s(?:' . implode('|', $quotedLabels) . '|Dimension|Brake|Suspension|Tyres|Engine|Electrical|Features|Safety\\s*Features)\\b|$)/iu';
         $value = extractSingle($pattern, $specSource);
         $value = clipText($value, 255);
         if ($value === '') {
@@ -317,6 +403,39 @@ function parseBikeData($baseUrl, $overviewText, $variantsText, $specsText, $colo
         $specRows['Engine|Displacement'] = ['Engine', 'Displacement', $displacement];
     }
 
+    $heroImageUrl = extractHeroImageUrl($overviewHtml, $brandSlug, $modelSlugPart);
+
+    $variantImages = extractImagesWithAlt($variantsHtml);
+    for ($i = 0; $i < count($variantRows); $i++) {
+        if (isset($variantImages[$i])) {
+            $variantRows[$i][5] = $variantImages[$i]['image'];
+            if (isLikelyColorName($variantImages[$i]['alt'])) {
+                $variantRows[$i][6] = clipText($variantImages[$i]['alt'], 80);
+            }
+        }
+    }
+
+    $colorsMap = [];
+    foreach (extractImagesWithAlt($colorsHtml) as $img) {
+        $alt = trim($img['alt']);
+        if (!isLikelyColorName($alt)) {
+            continue;
+        }
+        $colorsMap[$alt] = $img['image'];
+    }
+
+    if (count($colorsMap) === 0) {
+        foreach ($colors as $colorName => $_bool) {
+            if (isLikelyColorName($colorName)) {
+                $colorsMap[$colorName] = null;
+            }
+        }
+    }
+
+    if (count($colorsMap) === 0) {
+        $colorsMap['Standard Color'] = null;
+    }
+
     return [
         'brand_name' => $brandName,
         'brand_slug' => $brandSlug,
@@ -327,16 +446,16 @@ function parseBikeData($baseUrl, $overviewText, $variantsText, $specsText, $colo
         'displacement_cc' => clipText($displacement, 40),
         'ex_showroom_price' => clipText($price, 80),
         'emi_info' => clipText($emi, 120),
-        'hero_image_url' => null,
+        'hero_image_url' => $heroImageUrl,
         'source_url' => $baseUrl . '/specifications',
         'source_name' => 'BikeCentral',
         'credit_text' => 'Source credit: BikeCentral',
         'highlights' => array_values($highlights),
         'key_features' => array_values(array_unique($features)),
         'variants' => array_values($variantRows),
-        'colors' => array_map(function ($name) {
-            return [$name, null];
-        }, array_keys($colors)),
+        'colors' => array_map(function ($name) use ($colorsMap) {
+            return [$name, $colorsMap[$name]];
+        }, array_keys($colorsMap)),
         'specs' => array_values($specRows),
     ];
 }
@@ -529,7 +648,18 @@ foreach ($urls as $url) {
         $specsText = $specsHtml ? htmlToPlainText($specsHtml) : '';
         $colorsText = $colorsHtml ? htmlToPlainText($colorsHtml) : '';
 
-        $modelData = parseBikeData($url, $overviewText, $variantsText, $specsText, $colorsText, (string)$overviewTitle);
+        $modelData = parseBikeData(
+            $url,
+            $overviewText,
+            $variantsText,
+            $specsText,
+            $colorsText,
+            (string)$overviewTitle,
+            (string)$overviewHtml,
+            (string)$variantsHtml,
+            (string)$specsHtml,
+            (string)$colorsHtml
+        );
 
         $sourceSnapshots = [
             $overviewUrl => [
