@@ -59,6 +59,8 @@
                     <li><a href="https://www.thiyagi.com/holiday/" class="text-gray-400 hover:text-blue-400 transition-colors duration-300">All Holidays</a></li>
                     <li><a href="https://www.thiyagi.com/holiday/uk-holiday/" class="text-gray-400 hover:text-blue-400 transition-colors duration-300">UK Holidays</a></li>
                     <li><a href="https://www.thiyagi.com/holiday/usa-holiday/" class="text-gray-400 hover:text-blue-400 transition-colors duration-300">USA Holidays</a></li>
+                    <li><a href="https://www.thiyagi.com/electricity-board/" class="text-gray-400 hover:text-blue-400 transition-colors duration-300">Electricity Board</a></li>
+                    <li><a href="https://www.thiyagi.com/service-center/" class="text-gray-400 hover:text-blue-400 transition-colors duration-300">Service Center</a></li>
                 </ul>
             </div>
 
@@ -69,6 +71,8 @@
                     <li><a href="https://www.thiyagi.com/about" class="text-gray-400 hover:text-blue-400 transition-colors duration-300">About Us</a></li>
                     <li><a href="https://www.thiyagi.com/privacy" class="text-gray-400 hover:text-blue-400 transition-colors duration-300">Privacy Policy</a></li>
                     <li><a href="https://www.thiyagi.com/contact" class="text-gray-400 hover:text-blue-400 transition-colors duration-300">Contact Us</a></li>
+                    <li><a href="https://www.thiyagi.com/pincode/" class="text-gray-400 hover:text-blue-400 transition-colors duration-300">Pincode Lookup</a></li>
+                    <li><a href="https://www.thiyagi.com/rto-details/" class="text-gray-400 hover:text-blue-400 transition-colors duration-300">RTO Details</a></li>
                 </ul>
             </div>
         </div>
