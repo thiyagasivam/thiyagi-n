@@ -184,6 +184,7 @@ try {
         $conn->query('DELETE FROM bike_variants WHERE model_id=' . (int)$modelId);
         $conn->query('DELETE FROM bike_colors WHERE model_id=' . (int)$modelId);
         $conn->query('DELETE FROM bike_specs WHERE model_id=' . (int)$modelId);
+        $conn->query('DELETE FROM bike_source_snapshots WHERE model_id=' . (int)$modelId);
     }
 
     $stmt = $conn->prepare('INSERT INTO bike_highlights (model_id, label_name, label_value, sort_order) VALUES (?, ?, ?, ?)');

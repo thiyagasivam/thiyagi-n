@@ -3,10 +3,12 @@ require_once __DIR__ . '/includes/db_bikes.php';
 
 header('Content-Type: text/plain; charset=utf-8');
 
-$run = isset($_GET['run']) && $_GET['run'] === '1';
-if (!$run) {
+$isWebRun = isset($_GET['run']) && $_GET['run'] === '1';
+$isCliRun = PHP_SAPI === 'cli' && in_array('--run', $argv ?? [], true);
+if (!$isWebRun && !$isCliRun) {
     echo "Seeder ready.\n";
-    echo "Run: seed_bike_srv300.php?run=1\n";
+    echo "Run in browser: seed_bike_srv300.php?run=1\n";
+    echo "Run in CLI: php seed_bike_srv300.php --run\n";
     exit;
 }
 
@@ -191,6 +193,7 @@ try {
         $conn->query('DELETE FROM bike_variants WHERE model_id=' . (int)$modelId);
         $conn->query('DELETE FROM bike_colors WHERE model_id=' . (int)$modelId);
         $conn->query('DELETE FROM bike_specs WHERE model_id=' . (int)$modelId);
+        $conn->query('DELETE FROM bike_source_snapshots WHERE model_id=' . (int)$modelId);
     }
 
     $stmt = $conn->prepare('INSERT INTO bike_highlights (model_id, label_name, label_value, sort_order) VALUES (?, ?, ?, ?)');

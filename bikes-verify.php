@@ -3,16 +3,59 @@ require_once __DIR__ . '/includes/db_bikes.php';
 
 header('Content-Type: text/plain; charset=utf-8');
 
+$seedScripts = [
+    'keeway-v302-c' => __DIR__ . '/seed_bike_keeway_v302c.php',
+    'qj-motor-srv-300' => __DIR__ . '/seed_bike_srv300.php',
+];
+
 $seed = $_GET['seed'] ?? '';
-if ($seed === 'keeway-v302-c') {
+if ($seed !== '') {
+    if (!isset($seedScripts[$seed])) {
+        http_response_code(400);
+        echo "Invalid seed value. Allowed values:\n";
+        foreach (array_keys($seedScripts) as $allowedSeed) {
+            echo '- ' . $allowedSeed . "\n";
+        }
+        exit;
+    }
+
+    $seedKey = getenv('BIKES_SEED_KEY') ?: '';
+    $requestKey = $_GET['key'] ?? '';
+    if ($seedKey !== '' && !hash_equals($seedKey, $requestKey)) {
+        http_response_code(403);
+        echo "Forbidden: invalid seed key.\n";
+        exit;
+    }
+
     $_GET['run'] = '1';
-    require __DIR__ . '/seed_bike_keeway_v302c.php';
+    require $seedScripts[$seed];
     exit;
 }
 
-if ($seed === 'qj-motor-srv-300') {
-    $_GET['run'] = '1';
-    require __DIR__ . '/seed_bike_srv300.php';
+$action = $_GET['action'] ?? '';
+if ($action === 'cleanup-snapshots') {
+    try {
+        $conn = getBikesDbConnection();
+
+        // Keep one latest snapshot row per (model_id, source_url), delete older duplicates.
+        $cleanupSql = "
+            DELETE s1
+            FROM bike_source_snapshots s1
+            INNER JOIN bike_source_snapshots s2
+                ON s1.model_id = s2.model_id
+                AND s1.source_url = s2.source_url
+                AND s1.id < s2.id
+        ";
+
+        $conn->query($cleanupSql);
+        $deleted = (int)$conn->affected_rows;
+
+        echo "Snapshot cleanup done. Deleted duplicate rows: " . $deleted . "\n";
+        $conn->close();
+    } catch (Throwable $e) {
+        http_response_code(500);
+        echo 'Cleanup failed: ' . $e->getMessage() . "\n";
+    }
     exit;
 }
 
