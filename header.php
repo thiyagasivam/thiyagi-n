@@ -43,6 +43,11 @@ if (!function_exists('thiyagi_fix_misplaced_seo_tags')) {
       $headPart .= "\n" . implode("\n", $inserts) . "\n";
     }
 
+    // Ensure every page has a title, even if none was defined.
+    if (!preg_match('/<title\b[^>]*>.*?<\/title>/is', $headPart)) {
+      $headPart .= "\n  <title>Thiyagi Tools - Free Online Calculators, Converters & Utilities</title>\n";
+    }
+
     return $headPart . $tailPart;
   }
 
@@ -65,8 +70,7 @@ if ($uri !== '/' && substr($uri, -1) === '/') {
 $uri = preg_replace('/\.php$/', '', $uri);
 $canonicalUrl = "https://www.thiyagi.com" . $uri;
 
-$defaultTitle = 'Thiyagi Tools - Free Online Calculators, Converters & Utilities';
-$metaTitle = isset($pageTitle) && is_string($pageTitle) && trim($pageTitle) !== '' ? $pageTitle : $defaultTitle;
+$metaTitle = isset($pageTitle) && is_string($pageTitle) ? trim($pageTitle) : '';
 $metaDescription = isset($pageDescription) && is_string($pageDescription) ? trim($pageDescription) : '';
 $metaKeywords = isset($pageKeywords) && is_string($pageKeywords) ? trim($pageKeywords) : '';
 ?>
@@ -75,7 +79,9 @@ $metaKeywords = isset($pageKeywords) && is_string($pageKeywords) ? trim($pageKey
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+<?php if ($metaTitle !== ''): ?>
   <title><?php echo htmlspecialchars($metaTitle, ENT_QUOTES, 'UTF-8'); ?></title>
+<?php endif; ?>
 <?php if ($metaDescription !== ''): ?>
   <meta name="description" content="<?php echo htmlspecialchars($metaDescription, ENT_QUOTES, 'UTF-8'); ?>">
 <?php endif; ?>
