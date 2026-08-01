@@ -3,6 +3,19 @@ require_once __DIR__ . '/includes/db_bikes.php';
 
 header('Content-Type: text/plain; charset=utf-8');
 
+$seed = $_GET['seed'] ?? '';
+if ($seed === 'keeway-v302-c') {
+    $_GET['run'] = '1';
+    require __DIR__ . '/seed_bike_keeway_v302c.php';
+    exit;
+}
+
+if ($seed === 'qj-motor-srv-300') {
+    $_GET['run'] = '1';
+    require __DIR__ . '/seed_bike_srv300.php';
+    exit;
+}
+
 try {
     $conn = getBikesDbConnection();
     $dbResult = $conn->query('SELECT DATABASE() AS db_name');
