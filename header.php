@@ -64,12 +64,24 @@ if ($uri !== '/' && substr($uri, -1) === '/') {
 // Remove .php extension from canonical URL
 $uri = preg_replace('/\.php$/', '', $uri);
 $canonicalUrl = "https://www.thiyagi.com" . $uri;
+
+$defaultTitle = 'Thiyagi Tools - Free Online Calculators, Converters & Utilities';
+$metaTitle = isset($pageTitle) && is_string($pageTitle) && trim($pageTitle) !== '' ? $pageTitle : $defaultTitle;
+$metaDescription = isset($pageDescription) && is_string($pageDescription) ? trim($pageDescription) : '';
+$metaKeywords = isset($pageKeywords) && is_string($pageKeywords) ? trim($pageKeywords) : '';
 ?>
 <!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title><?php echo htmlspecialchars($metaTitle, ENT_QUOTES, 'UTF-8'); ?></title>
+<?php if ($metaDescription !== ''): ?>
+  <meta name="description" content="<?php echo htmlspecialchars($metaDescription, ENT_QUOTES, 'UTF-8'); ?>">
+<?php endif; ?>
+<?php if ($metaKeywords !== ''): ?>
+  <meta name="keywords" content="<?php echo htmlspecialchars($metaKeywords, ENT_QUOTES, 'UTF-8'); ?>">
+<?php endif; ?>
   <link href="https://www.thiyagi.com/nt.png" rel="icon">
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
   <script src="https://cdn.tailwindcss.com"></script>

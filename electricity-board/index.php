@@ -1,4 +1,8 @@
-﻿<?php include '../header.php';?>
+﻿<?php
+$pageTitle = 'All India Electricity Bill Calculators | State-wise';
+$pageDescription = 'Calculate electricity bills for all Indian states and UTs - accurate, fast and easy to use.';
+include '../header.php';
+?>
 <?php include 'breadcrumb-schema.php';?>
 <?php
 $items = [
@@ -191,9 +195,6 @@ $items = [
 ];
 ?>
 
-<title>All India Electricity Bill Calculators | State-wise</title>
-    <meta name="description" content="Calculate electricity bills for all Indian states and UTs - accurate, fast and easy to use">
-    
     <style>
         .card-hover:hover {
             transform: translateY(-4px);

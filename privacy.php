@@ -1,7 +1,8 @@
-<?php include 'header.php';?>
-
-    <title>Privacy Policy - Thiyagi Tools | GDPR & CCPA Compliant Data Protection</title>
-<meta name="description" content="Thiyagi Tools' privacy policy outlines how we collect, use, and protect your data. Compliant with GDPR, CCPA, and global privacy laws. Learn about your rights and our security measures.">
+<?php
+$pageTitle = 'Privacy Policy - Thiyagi Tools | GDPR & CCPA Compliant Data Protection';
+$pageDescription = "Thiyagi Tools' privacy policy outlines how we collect, use, and protect your data. Compliant with GDPR, CCPA, and global privacy laws. Learn about your rights and our security measures.";
+include 'header.php';
+?>
     <style>
         body {
             /* background-color: #f8f9fa; - bg-gray-100 */

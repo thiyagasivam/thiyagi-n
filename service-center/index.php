@@ -1,7 +1,9 @@
-<?php include '../header.php';?>
+<?php
+$pageTitle = 'Service Centers Directory | Find Authorized Repair Locations Near You';
+$pageDescription = 'Browse popular brands and find authorized service centers near you. Quick search, mobile-friendly layout, and direct links to official repair locations.';
+include '../header.php';
+?>
 <?php include 'breadcrumb-schema.php';?>
-    <title>Service Centers Directory | Find Authorized Repair Locations Near You</title>
-    <meta name="description" content="Browse popular brands and find authorized service centers near you. Quick search, mobile-friendly layout, and direct links to official repair locations.">
 
     <style>
         .brand-card:hover { transform: translateY(-6px); box-shadow: 0 12px 28px -6px rgba(0,0,0,0.18); }

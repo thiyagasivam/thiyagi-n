@@ -1,9 +1,9 @@
-<?php include 'header.php';?>
-
-
-<title>About Thiyagi Tools 2026 - 20+ Years of Digital Excellence | Professional Online Tools</title>
-<meta name="description" content="Learn about Thiyagi Tools - your trusted source for professional online calculators, converters, and digital tools. Built with 25+ years of expertise to serve millions of users worldwide in 2026.">
-<meta name="keywords" content="About Thiyagi Tools, online calculators, digital tools, web utilities, professional tools 2026, 25 years experience">
+<?php
+$pageTitle = 'About Thiyagi Tools 2026 - 20+ Years of Digital Excellence | Professional Online Tools';
+$pageDescription = 'Learn about Thiyagi Tools - your trusted source for professional online calculators, converters, and digital tools. Built with 25+ years of expertise to serve millions of users worldwide in 2026.';
+$pageKeywords = 'About Thiyagi Tools, online calculators, digital tools, web utilities, professional tools 2026, 25 years experience';
+include 'header.php';
+?>
 
     <style>
         :root {

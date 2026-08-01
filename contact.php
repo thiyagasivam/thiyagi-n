@@ -1,11 +1,9 @@
-﻿<?php include 'header.php'; ?>
-
-<title>Contact Thiyagi Tools 2026 - Get Professional Support | 25+ Years Experience</title>
-<meta name="description" content="Contact Thiyagi Tools for professional support, feedback, and inquiries. Get help with our calculators, converters, and online tools. Professional support with 25+ years of digital expertise since 1999.">
-<meta name="keywords" content="contact Thiyagi Tools, customer support, help desk, tool support, professional assistance 2026">
+﻿<?php
+$pageTitle = 'Contact Thiyagi Tools 2026 - Get Professional Support | 25+ Years Experience';
+$pageDescription = 'Contact Thiyagi Tools for professional support, feedback, and inquiries. Get help with our calculators, converters, and online tools. Professional support with 25+ years of digital expertise since 1999.';
+$pageKeywords = 'contact Thiyagi Tools, customer support, help desk, tool support, professional assistance 2026';
+include 'header.php';
 ?>
-
-<title>Contact Us - Thiyagi Tools</title>
   <style>
     :root {
       --primary: #6e8efb;

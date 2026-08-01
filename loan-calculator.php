@@ -1,4 +1,8 @@
-﻿<?php include 'header.php'; ?>
+﻿<?php
+$pageTitle = 'EMI Calculator - Calculate Loan EMI, Interest & Payment Schedule';
+$pageDescription = 'Free online EMI calculator for home loan, personal loan, car loan and more. Calculate monthly EMI, total interest and payment schedule.';
+include 'header.php';
+?>
 
 <?php
 // EMI calculation function
@@ -111,8 +115,6 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
 }
 ?>
 
-<title>EMI Calculator - Calculate Loan EMI, Interest & Payment Schedule | Groww Clone</title>
-    <meta name="description" content="Free online EMI calculator for home loan, personal loan, car loan & more. Calculate monthly EMI, total interest and payment schedule. Plan your loan repayment with Groww EMI calculator.">
     <!-- Tailwind CSS -->
     <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" rel="stylesheet">
     <!-- Font Awesome -->

@@ -1,7 +1,9 @@
-<?php include 'header.php';?>
-<title>EMI Calculator – Calculate Loan EMI Instantly | Thiyagi</title>
-<meta name="description" content="Free EMI calculator to calculate monthly loan EMI, interest payable, and total repayment for home loans, personal loans, car loans, and education loans.">
-<meta name="keywords" content="EMI calculator, loan EMI, home loan EMI, car loan EMI, personal loan EMI, education loan EMI, monthly installment calculator">
+<?php
+$pageTitle = 'EMI Calculator - Calculate Loan EMI Instantly | Thiyagi';
+$pageDescription = 'Free EMI calculator to calculate monthly loan EMI, interest payable, and total repayment for home loans, personal loans, car loans, and education loans.';
+$pageKeywords = 'EMI calculator, loan EMI, home loan EMI, car loan EMI, personal loan EMI, education loan EMI, monthly installment calculator';
+include 'header.php';
+?>
 <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.1/dist/chart.umd.min.js"></script>
 <style>
 :root{--primary:#4f46e5;--primary-light:#818cf8;--primary-bg:#eef2ff;--accent:#10b981;--accent-bg:#ecfdf5;--danger:#ef4444;--warn:#f59e0b;--text:#1e293b;--text-muted:#64748b;--border:#e2e8f0;--card:#ffffff;--bg:#f8fafc;}

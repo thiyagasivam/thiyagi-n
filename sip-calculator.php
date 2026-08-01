@@ -1,4 +1,8 @@
-<?php include 'header.php';?>
+<?php
+$pageTitle = 'SIP Calculator 2026 - Free Mutual Fund Returns Estimator';
+$pageDescription = 'Calculate potential returns on your SIP investments. Free online tool to project wealth growth with monthly SIP contributions, interest rates and time period.';
+include 'header.php';
+?>
 
 
 <?php
@@ -34,8 +38,6 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
 }
 ?>
 
-    <title>SIP Calculator 2026 - Free Mutual Fund Returns Estimator</title>
-<meta name="description" content="Calculate potential returns on your SIP investments. Free online tool to project wealth growth with monthly SIP contributions, interest rates & time period.">
     <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" rel="stylesheet">
     <style>
         .slider-thumb::-webkit-slider-thumb {

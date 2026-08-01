@@ -1,8 +1,9 @@
-<?php include '../../header.php'; ?>
-
-<title>Australia Holidays 2026 | Complete Calendar | National & State Public Holidays</title>
-<meta name="description" content="Complete Australia Holiday Calendar 2026. Find all national public holidays, state holidays, and observances across all Australian states and territories.">
-<meta name="keywords" content="Australia holidays 2026, Australian public holidays, national holidays Australia, state holidays, ANZAC Day, Australia Day, Queen's Birthday">
+<?php
+$pageTitle = 'Australia Holidays 2026 | Complete Calendar | National & State Public Holidays';
+$pageDescription = 'Complete Australia Holiday Calendar 2026. Find all national public holidays, state holidays, and observances across all Australian states and territories.';
+$pageKeywords = 'Australia holidays 2026, Australian public holidays, national holidays Australia, state holidays, ANZAC Day, Australia Day, Queen\'s Birthday';
+include '../../header.php';
+?>
 
 <!-- Schema.org structured data -->
 <script type="application/ld+json">

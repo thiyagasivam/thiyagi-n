@@ -1,4 +1,8 @@
-<?php include 'header.php';?>
+<?php
+$pageTitle = 'Free FD Calculator 2026 - Fixed Deposit Interest & Maturity Calculator';
+$pageDescription = 'Calculate fixed deposit returns with our free 2026 FD calculator. Estimate interest earnings, maturity amounts and compare rates for banks and NBFCs in seconds.';
+include 'header.php';
+?>
 
 <?php
 // Function to calculate FD maturity amount
@@ -37,8 +41,6 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
 }
 ?>
 
-    <title>Free FD Calculator 2026 - Fixed Deposit Interest & Maturity Calculator</title>
-<meta name="description" content="Calculate fixed deposit returns with our free 2026 FD calculator. Estimate interest earnings, maturity amounts & compare rates for banks/NBFCs in seconds.">
     <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" rel="stylesheet">
     <style>
         .input-range {

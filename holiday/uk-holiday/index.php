@@ -1,8 +1,9 @@
-<?php include '../../header.php'; ?>
-
-<title>UK Holidays 2026 | Complete Calendar | All Regions | Bank Holidays</title>
-<meta name="description" content="Complete UK Holiday Calendar 2026 for all regions. Find bank holidays, cultural events, and observances for England, Scotland, Wales, Northern Ireland, and Crown Dependencies.">
-<meta name="keywords" content="UK holidays 2026, British holidays, bank holidays UK, England holidays, Scotland holidays, Wales holidays, Northern Ireland holidays">
+<?php
+$pageTitle = 'UK Holidays 2026 | Complete Calendar | All Regions | Bank Holidays';
+$pageDescription = 'Complete UK Holiday Calendar 2026 for all regions. Find bank holidays, cultural events, and observances for England, Scotland, Wales, Northern Ireland, and Crown Dependencies.';
+$pageKeywords = 'UK holidays 2026, British holidays, bank holidays UK, England holidays, Scotland holidays, Wales holidays, Northern Ireland holidays';
+include '../../header.php';
+?>
 
 <style>
 :root {

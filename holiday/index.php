@@ -1,8 +1,9 @@
-<?php include '../header.php'; ?>
-
-<title>Holidays 2026 | USA, UK, India, Canada, Australia | Complete International Calendar</title>
-<meta name="description" content="Complete Holiday Calendar 2026 for USA, UK, India, Canada, Australia and more. Find federal, state, national holidays, bank holidays, festivals and observances worldwide.">
-<meta name="keywords" content="holidays 2026, USA holidays, UK holidays, India holidays, Canadian holidays, Australia holidays, international holidays, holiday calendar, bank holidays, state holidays, festivals">
+<?php
+$pageTitle = 'Holidays 2026 | USA, UK, India, Canada, Australia | Complete International Calendar';
+$pageDescription = 'Complete Holiday Calendar 2026 for USA, UK, India, Canada, Australia and more. Find federal, state, national holidays, bank holidays, festivals and observances worldwide.';
+$pageKeywords = 'holidays 2026, USA holidays, UK holidays, India holidays, Canadian holidays, Australia holidays, international holidays, holiday calendar, bank holidays, state holidays, festivals';
+include '../header.php';
+?>
 
 <style>
 :root {

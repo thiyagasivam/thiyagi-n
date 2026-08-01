@@ -1,8 +1,9 @@
-<?php include 'header.php';?>
-
-<title>SWP Calculator – Calculate Systematic Withdrawal Plan Returns</title>
-<meta name="description" content="Free SWP calculator to calculate monthly withdrawals, remaining balance, and returns from your mutual fund investments.">
-<meta name="keywords" content="SWP calculator, systematic withdrawal plan, mutual fund SWP, withdrawal calculator, investment income, retirement planning">
+<?php
+$pageTitle = 'SWP Calculator - Calculate Systematic Withdrawal Plan Returns';
+$pageDescription = 'Free SWP calculator to calculate monthly withdrawals, remaining balance, and returns from your mutual fund investments.';
+$pageKeywords = 'SWP calculator, systematic withdrawal plan, mutual fund SWP, withdrawal calculator, investment income, retirement planning';
+include 'header.php';
+?>
 
 <style>
     .swp-gradient { background: linear-gradient(135deg, #06b6d4 0%, #0891b2 100%); }

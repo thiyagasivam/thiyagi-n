@@ -1,8 +1,9 @@
-﻿<?php include '../header.php';?>
-
-<title>RTO Details India 2026 - Complete RTO Code Directory | 25+ Years Experience</title>
-<meta name="description" content="Complete directory of RTO details, codes, and office information across India. Find RTO offices, vehicle registration details, and contact information. Built with 25+ years of automotive expertise for 2026.">
-<meta name="keywords" content="RTO details India, RTO codes, vehicle registration, RTO office directory, India RTO information 2026">
+﻿<?php
+$pageTitle = 'RTO Details India 2026 - Complete RTO Code Directory | 25+ Years Experience';
+$pageDescription = 'Complete directory of RTO details, codes, and office information across India. Find RTO offices, vehicle registration details, and contact information. Built with 25+ years of automotive expertise for 2026.';
+$pageKeywords = 'RTO details India, RTO codes, vehicle registration, RTO office directory, India RTO information 2026';
+include '../header.php';
+?>
 
 <div class="min-h-screen bg-gradient-to-br from-blue-50 to-indigo-100 py-12 px-4 sm:px-6 lg:px-8">
   <div class="max-w-7xl mx-auto">
@@ -45,7 +46,6 @@ if ($result && $result->num_rows > 0) {
 $conn->close();
 ?>
 
-<title>RTO Office Locations</title>
     <style>
         .rto-gradient {
             background: linear-gradient(135deg, #f5f5f7 0%, #e1e1e6 100%);

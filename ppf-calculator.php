@@ -1,4 +1,8 @@
-<?php include 'header.php';?>
+<?php
+$pageTitle = 'PPF Calculator 2026 - Public Provident Fund Interest & Maturity Calculator';
+$pageDescription = 'Free online PPF calculator for 2026. Calculate maturity value, interest earnings and tax-free returns for your Public Provident Fund investments with government-approved formulas.';
+include 'header.php';
+?>
 
 
 <?php
@@ -40,8 +44,6 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
 }
 ?>
 
-    <title>PPF Calculator 2026 - Public Provident Fund Interest & Maturity Calculator</title>
-<meta name="description" content="Free online PPF calculator for 2026. Calculate maturity value, interest earnings & tax-free returns for your Public Provident Fund investments with government-approved formulas.">
     <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" rel="stylesheet">
     <style>
         .form-input {
