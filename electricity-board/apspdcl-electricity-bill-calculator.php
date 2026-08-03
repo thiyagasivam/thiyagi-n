@@ -1,6 +1,10 @@
 <?php include '../header.php';?>
 <?php include 'breadcrumb-schema.php';?>
 <?php
+if (!isset($breadcrumbSchema)) {
+    $breadcrumbSchema = [];
+}
+
 // Define DISCOMs
 $discos = [
     'APSPDCL' => 'Andhra Pradesh Southern Power Distribution Company',
@@ -281,6 +285,243 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
                         </p>
                     </div>
                 </div>
+
+                <article class="mt-8 bg-white dark:bg-gray-800 rounded-xl shadow-md overflow-hidden">
+                    <div class="p-6 md:p-8 text-gray-800 dark:text-gray-200 leading-relaxed">
+                        <h2 class="text-2xl md:text-3xl font-bold mb-4">APSPDCL / APEPDCL Electricity Bill Calculator: Complete Guide to Estimating, Understanding, and Reducing Your Power Bill</h2>
+
+                        <h3 class="text-xl font-semibold mt-8 mb-3">Introduction</h3>
+                        <p class="mb-4">If you want a quick and practical way to estimate your monthly electricity charges in Andhra Pradesh, an <strong>APSPDCL / APEPDCL Electricity Bill Calculator</strong> is exactly what you need. It helps you predict your bill before it arrives, so you can avoid surprises, plan your budget, and make smarter usage decisions.</p>
+                        <p class="mb-4">Most households and small businesses know their units consumed, but still struggle to understand the final amount. That happens because electricity bills include more than one charge. You may see slab-wise energy charges, fixed charges, statutory duties, and other adjustments. A reliable calculator combines these pieces and gives you a close estimate in seconds.</p>
+                        <p class="mb-4">This guide covers everything from beginner basics to advanced planning. You will learn how these calculators work, what inputs matter most, where estimates may differ from final bills, and how to use estimates to lower your monthly costs.</p>
+
+                        <h3 class="text-xl font-semibold mt-8 mb-3">Quick Answer / Overview</h3>
+                        <p class="mb-4">An <strong>APSPDCL / APEPDCL Electricity Bill Calculator</strong> estimates your monthly bill based on your consumed units, slab rates, and applicable billing components.</p>
+                        <p class="mb-3">A good calculator helps you:</p>
+                        <ul class="list-disc pl-6 space-y-2 mb-4">
+                            <li>Estimate your payable amount before bill generation</li>
+                            <li>Understand slab-wise cost impact</li>
+                            <li>Set monthly unit targets</li>
+                            <li>Compare savings scenarios quickly</li>
+                            <li>Avoid sudden month-end bill shocks</li>
+                        </ul>
+                        <p class="mb-4">Use it for planning. Treat your official DISCOM bill as the final legal bill.</p>
+
+                        <h3 class="text-xl font-semibold mt-8 mb-3">Everything You Need to Know</h3>
+
+                        <h4 class="text-lg font-semibold mt-6 mb-2">What APSPDCL and APEPDCL Are</h4>
+                        <p class="mb-4"><strong>APSPDCL</strong> and <strong>APEPDCL</strong> are electricity distribution utilities serving different regions in Andhra Pradesh. They apply approved tariffs and billing rules for domestic and non-domestic consumers.</p>
+
+                        <h4 class="text-lg font-semibold mt-6 mb-2">Why People Use Bill Calculators</h4>
+                        <ul class="list-disc pl-6 space-y-2 mb-4">
+                            <li>To check if expected consumption fits their budget</li>
+                            <li>To identify why bills rise in summer or festive months</li>
+                            <li>To plan appliance use for lower slabs</li>
+                            <li>To estimate tenant or rental utility costs</li>
+                            <li>To validate if current usage pattern is sustainable</li>
+                        </ul>
+
+                        <h4 class="text-lg font-semibold mt-6 mb-2">Main Components in an Electricity Bill</h4>
+                        <ol class="list-decimal pl-6 space-y-2 mb-4">
+                            <li><strong>Energy Charges</strong>: unit-based slab charges.</li>
+                            <li><strong>Fixed Charges</strong>: service or connection-related charges.</li>
+                            <li><strong>Adjustments</strong>: periodic approved cost adjustments.</li>
+                            <li><strong>Duties / Taxes</strong>: statutory components where applicable.</li>
+                            <li><strong>Arrears / Rebates</strong>: previous dues, credits, or concessions.</li>
+                        </ol>
+
+                        <h4 class="text-lg font-semibold mt-6 mb-2">How Slab Billing Works</h4>
+                        <p class="mb-4">Electricity slab systems apply different rates to different consumption ranges. As your monthly units increase, additional units may be charged at higher rates. This is why even small usage increases can produce noticeable jumps in final bill amounts.</p>
+
+                        <h4 class="text-lg font-semibold mt-6 mb-2">How the Calculator Estimates Your Bill</h4>
+                        <ol class="list-decimal pl-6 space-y-2 mb-4">
+                            <li>Reads your selected DISCOM and units.</li>
+                            <li>Applies corresponding slab rates sequentially.</li>
+                            <li>Builds a slab-wise cost breakdown.</li>
+                            <li>Displays estimated total amount.</li>
+                        </ol>
+
+                        <h3 class="text-xl font-semibold mt-8 mb-3">Step-by-Step Guide</h3>
+
+                        <h4 class="text-lg font-semibold mt-6 mb-2">Step 1: Gather Basic Inputs</h4>
+                        <p class="mb-4">Keep your latest bill nearby. Note consumed units and DISCOM type. If you are estimating a future month, prepare expected unit range.</p>
+
+                        <h4 class="text-lg font-semibold mt-6 mb-2">Step 2: Enter Units Accurately</h4>
+                        <p class="mb-4">Input exact units. Even small mistakes can create large estimate differences in higher slabs.</p>
+
+                        <h4 class="text-lg font-semibold mt-6 mb-2">Step 3: Select APSPDCL or APEPDCL</h4>
+                        <p class="mb-4">Choose the right utility mode to align with regional billing context.</p>
+
+                        <h4 class="text-lg font-semibold mt-6 mb-2">Step 4: Review Slab Breakdown</h4>
+                        <p class="mb-4">Check which slab contributes most to your bill. This tells you where reduction efforts will have the highest impact.</p>
+
+                        <h4 class="text-lg font-semibold mt-6 mb-2">Step 5: Run Scenarios</h4>
+                        <p class="mb-4">Try current usage, reduced usage, and peak-season usage values. Compare totals to create a practical monthly budget range.</p>
+
+                        <h4 class="text-lg font-semibold mt-6 mb-2">Step 6: Reconcile with Official Bill</h4>
+                        <p class="mb-4">After bill generation, compare estimate vs final bill and note differences from arrears, adjustments, or rounding.</p>
+
+                        <h3 class="text-xl font-semibold mt-8 mb-3">Features or Types</h3>
+
+                        <h4 class="text-lg font-semibold mt-6 mb-2">Calculator Types</h4>
+                        <ul class="list-disc pl-6 space-y-2 mb-4">
+                            <li><strong>Quick Estimator</strong>: instant total from units.</li>
+                            <li><strong>Slab Breakdown Tool</strong>: detailed per-slab amounts.</li>
+                            <li><strong>Scenario Planner</strong>: compare multiple unit plans.</li>
+                            <li><strong>Category-Aware Tool</strong>: supports multiple consumer types.</li>
+                        </ul>
+
+                        <h4 class="text-lg font-semibold mt-6 mb-2">Feature Table</h4>
+                        <div class="overflow-x-auto mb-4">
+                            <table class="w-full text-left border border-gray-200 dark:border-gray-600 text-sm">
+                                <thead class="bg-gray-100 dark:bg-gray-700">
+                                    <tr>
+                                        <th class="p-3 border border-gray-200 dark:border-gray-600">Feature</th>
+                                        <th class="p-3 border border-gray-200 dark:border-gray-600">Why It Matters</th>
+                                        <th class="p-3 border border-gray-200 dark:border-gray-600">Priority</th>
+                                    </tr>
+                                </thead>
+                                <tbody>
+                                    <tr><td class="p-3 border border-gray-200 dark:border-gray-600">DISCOM selection</td><td class="p-3 border border-gray-200 dark:border-gray-600">Ensures correct context</td><td class="p-3 border border-gray-200 dark:border-gray-600">High</td></tr>
+                                    <tr><td class="p-3 border border-gray-200 dark:border-gray-600">Slab-wise output</td><td class="p-3 border border-gray-200 dark:border-gray-600">Shows cost hotspots</td><td class="p-3 border border-gray-200 dark:border-gray-600">High</td></tr>
+                                    <tr><td class="p-3 border border-gray-200 dark:border-gray-600">Input validation</td><td class="p-3 border border-gray-200 dark:border-gray-600">Prevents user entry errors</td><td class="p-3 border border-gray-200 dark:border-gray-600">High</td></tr>
+                                    <tr><td class="p-3 border border-gray-200 dark:border-gray-600">Printable results</td><td class="p-3 border border-gray-200 dark:border-gray-600">Useful for records</td><td class="p-3 border border-gray-200 dark:border-gray-600">Medium</td></tr>
+                                    <tr><td class="p-3 border border-gray-200 dark:border-gray-600">Share option</td><td class="p-3 border border-gray-200 dark:border-gray-600">Easy household/business discussion</td><td class="p-3 border border-gray-200 dark:border-gray-600">Medium</td></tr>
+                                </tbody>
+                            </table>
+                        </div>
+
+                        <h3 class="text-xl font-semibold mt-8 mb-3">Benefits</h3>
+                        <ul class="list-disc pl-6 space-y-2 mb-4">
+                            <li>Improves monthly budget predictability</li>
+                            <li>Highlights high-cost usage patterns</li>
+                            <li>Supports smarter appliance scheduling</li>
+                            <li>Helps avoid bill surprise at month-end</li>
+                            <li>Encourages evidence-based energy savings</li>
+                            <li>Useful for both households and small businesses</li>
+                        </ul>
+
+                        <h3 class="text-xl font-semibold mt-8 mb-3">Limitations</h3>
+                        <ul class="list-disc pl-6 space-y-2 mb-4">
+                            <li>Estimates may differ from final bill due to adjustments</li>
+                            <li>Tariff revisions can affect accuracy if not updated promptly</li>
+                            <li>Arrears and rebates are bill-specific and not always predictable</li>
+                            <li>Wrong user category can significantly skew output</li>
+                        </ul>
+
+                        <h3 class="text-xl font-semibold mt-8 mb-3">Comparison Table</h3>
+                        <div class="overflow-x-auto mb-4">
+                            <table class="w-full text-left border border-gray-200 dark:border-gray-600 text-sm">
+                                <thead class="bg-gray-100 dark:bg-gray-700">
+                                    <tr>
+                                        <th class="p-3 border border-gray-200 dark:border-gray-600">Method</th>
+                                        <th class="p-3 border border-gray-200 dark:border-gray-600">Speed</th>
+                                        <th class="p-3 border border-gray-200 dark:border-gray-600">Clarity</th>
+                                        <th class="p-3 border border-gray-200 dark:border-gray-600">Best For</th>
+                                    </tr>
+                                </thead>
+                                <tbody>
+                                    <tr><td class="p-3 border border-gray-200 dark:border-gray-600">Online Calculator</td><td class="p-3 border border-gray-200 dark:border-gray-600">Fast</td><td class="p-3 border border-gray-200 dark:border-gray-600">High</td><td class="p-3 border border-gray-200 dark:border-gray-600">Monthly planning</td></tr>
+                                    <tr><td class="p-3 border border-gray-200 dark:border-gray-600">Manual Slab Math</td><td class="p-3 border border-gray-200 dark:border-gray-600">Slow</td><td class="p-3 border border-gray-200 dark:border-gray-600">Medium</td><td class="p-3 border border-gray-200 dark:border-gray-600">Learning and verification</td></tr>
+                                    <tr><td class="p-3 border border-gray-200 dark:border-gray-600">Wait for Final Bill</td><td class="p-3 border border-gray-200 dark:border-gray-600">Delayed</td><td class="p-3 border border-gray-200 dark:border-gray-600">Low for planning</td><td class="p-3 border border-gray-200 dark:border-gray-600">Post-facto payment only</td></tr>
+                                </tbody>
+                            </table>
+                        </div>
+
+                        <h3 class="text-xl font-semibold mt-8 mb-3">Common Mistakes</h3>
+                        <ol class="list-decimal pl-6 space-y-2 mb-4">
+                            <li>Entering last month units by mistake</li>
+                            <li>Selecting wrong DISCOM or category assumptions</li>
+                            <li>Ignoring slab breakdown and reading only total</li>
+                            <li>Assuming all months have same usage profile</li>
+                            <li>Comparing estimate with bill that includes arrears</li>
+                            <li>Forgetting seasonal load changes from AC and geyser use</li>
+                            <li>Treating estimate as exact payable amount</li>
+                        </ol>
+
+                        <h3 class="text-xl font-semibold mt-8 mb-3">Expert Tips</h3>
+                        <ul class="list-disc pl-6 space-y-2 mb-4">
+                            <li>Track units weekly during high-use seasons</li>
+                            <li>Run at least three scenarios: current, target, worst-case</li>
+                            <li>Use slab insight to cap avoidable peak consumption</li>
+                            <li>Compare 6 to 12 months to identify appliance impact</li>
+                            <li>Investigate sudden estimate mismatch quickly</li>
+                            <li>Share estimates with family to align usage goals</li>
+                        </ul>
+
+                        <h3 class="text-xl font-semibold mt-8 mb-3">Best Practices</h3>
+                        <ol class="list-decimal pl-6 space-y-2 mb-4">
+                            <li>Set a monthly unit target before billing cycle begins.</li>
+                            <li>Check mid-cycle estimate and correct usage if needed.</li>
+                            <li>Prioritize low-cost behavior changes first.</li>
+                            <li>Re-check estimate near month-end.</li>
+                            <li>Reconcile estimate with actual bill every month.</li>
+                            <li>Maintain a simple yearly usage tracker.</li>
+                        </ol>
+
+                        <h4 class="text-lg font-semibold mt-6 mb-2">Best Practices Summary Table</h4>
+                        <div class="overflow-x-auto mb-4">
+                            <table class="w-full text-left border border-gray-200 dark:border-gray-600 text-sm">
+                                <thead class="bg-gray-100 dark:bg-gray-700">
+                                    <tr>
+                                        <th class="p-3 border border-gray-200 dark:border-gray-600">Practice</th>
+                                        <th class="p-3 border border-gray-200 dark:border-gray-600">Impact</th>
+                                        <th class="p-3 border border-gray-200 dark:border-gray-600">Effort</th>
+                                    </tr>
+                                </thead>
+                                <tbody>
+                                    <tr><td class="p-3 border border-gray-200 dark:border-gray-600">Weekly unit tracking</td><td class="p-3 border border-gray-200 dark:border-gray-600">High</td><td class="p-3 border border-gray-200 dark:border-gray-600">Low</td></tr>
+                                    <tr><td class="p-3 border border-gray-200 dark:border-gray-600">Scenario comparison</td><td class="p-3 border border-gray-200 dark:border-gray-600">High</td><td class="p-3 border border-gray-200 dark:border-gray-600">Low</td></tr>
+                                    <tr><td class="p-3 border border-gray-200 dark:border-gray-600">Seasonal planning</td><td class="p-3 border border-gray-200 dark:border-gray-600">High</td><td class="p-3 border border-gray-200 dark:border-gray-600">Medium</td></tr>
+                                    <tr><td class="p-3 border border-gray-200 dark:border-gray-600">Bill reconciliation</td><td class="p-3 border border-gray-200 dark:border-gray-600">Medium</td><td class="p-3 border border-gray-200 dark:border-gray-600">Low</td></tr>
+                                    <tr><td class="p-3 border border-gray-200 dark:border-gray-600">Appliance schedule optimization</td><td class="p-3 border border-gray-200 dark:border-gray-600">High</td><td class="p-3 border border-gray-200 dark:border-gray-600">Medium</td></tr>
+                                </tbody>
+                            </table>
+                        </div>
+
+                        <h3 class="text-xl font-semibold mt-8 mb-3">Frequently Asked Questions</h3>
+                        <div class="space-y-5">
+                            <div><h4 class="font-semibold">1. What does this calculator do?</h4><p>It estimates your APSPDCL or APEPDCL electricity bill using entered units and slab logic.</p></div>
+                            <div><h4 class="font-semibold">2. Is it accurate for final payment?</h4><p>It is a planning estimate. Your final billed amount from DISCOM is the official payable amount.</p></div>
+                            <div><h4 class="font-semibold">3. Why is my estimate lower than my bill?</h4><p>Your final bill may include arrears, adjustments, dues, or category-specific charges not fully reflected in estimate mode.</p></div>
+                            <div><h4 class="font-semibold">4. Can I use it for domestic homes only?</h4><p>This page is generally targeted for common residential-style estimation unless specific commercial logic is separately configured.</p></div>
+                            <div><h4 class="font-semibold">5. Is DISCOM selection important?</h4><p>Yes. Correct utility context improves estimate relevance for your region and bill format expectations.</p></div>
+                            <div><h4 class="font-semibold">6. What is slab-wise billing?</h4><p>Different unit ranges are charged at different rates, usually increasing with higher usage bands.</p></div>
+                            <div><h4 class="font-semibold">7. How often should I estimate?</h4><p>At least twice monthly: mid-cycle and near bill cycle end.</p></div>
+                            <div><h4 class="font-semibold">8. Can this reduce my bill?</h4><p>Yes, by helping you identify and reduce avoidable usage before crossing costly slabs.</p></div>
+                            <div><h4 class="font-semibold">9. Should I include previous arrears in units?</h4><p>No. Units represent current cycle consumption. Arrears are separate financial line items.</p></div>
+                            <div><h4 class="font-semibold">10. What if I enter negative units?</h4><p>Negative values are invalid. Enter only positive whole-number consumption units.</p></div>
+                            <div><h4 class="font-semibold">11. Does this account for taxes and duties?</h4><p>The tool focuses on core slab estimate. Bill-level statutory additions can vary and affect final payable amount.</p></div>
+                            <div><h4 class="font-semibold">12. Can I print my estimate?</h4><p>Yes. Use the print action in the result section to save or share records.</p></div>
+                            <div><h4 class="font-semibold">13. Can I share estimate with family?</h4><p>Yes. Use the share option to copy and send your estimated result quickly.</p></div>
+                            <div><h4 class="font-semibold">14. Why does summer raise bills sharply?</h4><p>Cooling appliances can increase units fast, often pushing usage into higher slab ranges.</p></div>
+                            <div><h4 class="font-semibold">15. Can I estimate annual cost?</h4><p>Yes. Use month-by-month seasonal scenarios rather than one-month multiplication.</p></div>
+                            <div><h4 class="font-semibold">16. What is the best input source?</h4><p>Your latest official bill and expected appliance usage pattern are best for realistic estimates.</p></div>
+                            <div><h4 class="font-semibold">17. Does reducing 20 units always save same amount?</h4><p>Not always. Savings depend on which slab those units fall into.</p></div>
+                            <div><h4 class="font-semibold">18. Can renters use this tool?</h4><p>Yes. It helps tenants forecast monthly utility spend more accurately.</p></div>
+                            <div><h4 class="font-semibold">19. Why reconcile estimates monthly?</h4><p>It improves future prediction accuracy and highlights billing pattern changes early.</p></div>
+                            <div><h4 class="font-semibold">20. Is zero usage possible?</h4><p>Yes, but fixed minimum or standing components in actual billing may still apply depending on connection terms.</p></div>
+                            <div><h4 class="font-semibold">21. What if my meter reading seems wrong?</h4><p>Use calculator as reference and raise a formal check request through your utility support channels.</p></div>
+                            <div><h4 class="font-semibold">22. Can I trust one estimate forever?</h4><p>No. Re-estimate regularly because usage and billing conditions change over time.</p></div>
+                            <div><h4 class="font-semibold">23. Is this useful for small shops?</h4><p>Yes, especially for tracking cost impact of refrigeration, lighting, and machinery runtime.</p></div>
+                            <div><h4 class="font-semibold">24. What is the easiest way to save?</h4><p>Prevent unnecessary high-load usage during peak periods and maintain efficient appliance settings.</p></div>
+                            <div><h4 class="font-semibold">25. What single habit gives best results?</h4><p>Track units consistently and act early before you cross into expensive slab ranges.</p></div>
+                        </div>
+
+                        <h3 class="text-xl font-semibold mt-8 mb-3">Key Takeaways</h3>
+                        <ul class="list-disc pl-6 space-y-2 mb-4">
+                            <li><strong>APSPDCL / APEPDCL Electricity Bill Calculator</strong> helps you forecast monthly costs quickly.</li>
+                            <li>Slab-wise visibility is the most useful part of bill planning.</li>
+                            <li>Correct unit input and proper DISCOM selection are critical for reliable estimates.</li>
+                            <li>Use scenario planning to prepare for seasonal consumption changes.</li>
+                            <li>Always validate estimate insights against your final official bill.</li>
+                        </ul>
+
+                        <h3 class="text-xl font-semibold mt-8 mb-3">Conclusion</h3>
+                        <p class="mb-4">An APSPDCL/APEPDCL bill calculator is more than a convenience tool. It gives you financial clarity, consumption control, and better monthly decision-making. Instead of reacting to bill shocks, you can proactively manage usage and expenses.</p>
+                        <p class="mb-0">Use this calculator regularly, compare scenarios, and follow a simple monthly tracking habit. Over time, that consistency can meaningfully reduce electricity spending while keeping your comfort and productivity intact.</p>
+                    </div>
+                </article>
             </div>
         </main>
 
